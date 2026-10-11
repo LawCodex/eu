@@ -1,0 +1,537 @@
+---
+title: "Directive 2008/105/EC of the European Parliament and of the Council of 16 December 2008 on environmental quality standards in the field of water policy, amending and subsequently repealing Council Directives 82/176/EEC, 83/513/EEC, 84/156/EEC, 84/491/EEC, 86/280/EEC and amending Directive 2000/60/EC of the European Parliament and of the Council"
+identifier: "32008L0105"
+eli: "http://data.europa.eu/eli/dir/2008/105/oj"
+type: directive
+jurisdiction: eu
+language: en
+date: 2008-12-16
+entry_into_force: 2008-03-21
+last_amended: 2026-05-10
+consolidated_version: "02008L0105-20260510"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02008L0105-20260510"
+retrieved: 2026-10-11
+---
+
+# Directive 2008/105/EC of the European Parliament and of the Council of 16 December 2008 on environmental quality standards in the field of water policy, amending and subsequently repealing Council Directives 82/176/EEC, 83/513/EEC, 84/156/EEC, 84/491/EEC, 86/280/EEC and amending Directive 2000/60/EC of the European Parliament and of the Council
+
+**DIRECTIVE 2008/105/EC OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 16 December 2008**
+
+**on environmental quality standards and on the prevention and control of surface water pollution, amending and subsequently repealing Council Directives 82/176/EEC, 83/513/EEC, 84/156/EEC, 84/491/EEC, 86/280/EEC and amending Directive 2000/60/EC of the European Parliament and of the Council**
+
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> DIRECTIVE 2013/39/EU OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 12 August 2013 </td><td> L 226</td><td>1</td><td>24.8.2013</td></tr>
+<tr><td></td><td> DIRECTIVE (EU) 2026/805 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 30 March 2026 </td><td> L 805</td><td>1</td><td>20.4.2026</td></tr>
+
+**DIRECTIVE 2008/105/EC OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 16 December 2008**
+
+**on environmental quality standards and on the prevention and control of surface water pollution, amending and subsequently repealing Council Directives 82/176/EEC, 83/513/EEC, 84/156/EEC, 84/491/EEC, 86/280/EEC and amending Directive 2000/60/EC of the European Parliament and of the Council**
+
+## Article 1 — Subject matter
+
+This Directive lays down environmental quality standards (EQS) for priority substances and certain other pollutants as provided for in Article 16 of Directive 2000/60/EC, with the aim of achieving good surface water chemical status and in accordance with the provisions and objectives of Article 4 of that Directive.
+
+## Article 2 — Definitions
+
+For the purposes of this Directive, the definitions laid down in Article 2 of Directive 2000/60/EC and in Article 2 of Commission Directive 2009/90/EC of 31 July 2009 laying down, pursuant to Directive 2000/60/EC of the European Parliament and of the Council, technical specifications for chemical analysis and monitoring of water status ( 1 ) shall apply.
+
+In addition, the following definitions shall apply:
+
+(1) ‘matrix‘ means a compartment of the aquatic environment, namely water, sediment or biota;
+
+(2) ‘biota taxon’ means a particular aquatic taxon within the taxonomic rank ‘sub-phylum’, ‘class’ or their equivalent;
+
+(3) ‘indicator of pollution’ means a parameter which can be monitored to give a value that is representative of the level or concentration of a pollutant or a group of pollutants and thus of the risk posed by them.
+
+## Article 3 — Environmental quality standards
+
+1\. Without prejudice to paragraph 1a, Member States shall apply the EQS laid down in Part A of Annex I for bodies of surface water, and shall apply those EQS in accordance with the requirements laid down in Part B of Annex I.
+
+1a. Without prejudice to the obligations arising under this Directive in the version in force on 13 January 2009 and in particular the achievement of good surface water chemical status in relation to the substances and the EQS listed therein, Member States shall implement the EQS laid down in Part A of Annex I as regards:
+
+(i) the substances numbered 2, 5, 15, 20, 22, 23, 28 in Part A of Annex I, for which revised EQS are set, with effect from 22 December 2015, with the aim of achieving good surface water chemical status in relation to those substances by 22 December 2021 by means of programmes of measures included in the 2015 river basin management plans produced in accordance with Article 13(7) of Directive 2000/60/EC; and
+
+(ii) the newly identified substances numbered 34 to 45 in Part A of Annex I, with effect from 22 December 2018, with the aim of achieving good surface water chemical status in relation to those substances by 22 December 2027 and preventing deterioration in the chemical status of surface water bodies in relation to those substances. For this purpose, Member States shall, by 22 December 2018, establish and submit to the Commission a supplementary monitoring programme and a preliminary programme of measures covering those substances. A final programme of measures in accordance with Article 11 of Directive 2000/60/EC shall be established by 22 December 2021 and shall be implemented and made fully operational as soon as possible after that date and not later than 22 December 2024;
+
+(iii) the substances numbered 5, 9, 13, 15, 17, 21, 23, 24, 28, 30, 34, 37, 41 and 43 in Part A of Annex I, for which revised EQS are set, with effect from 22 December 2027, with the aim of achieving good surface water chemical status in relation to those substances by 22 December 2033 and preventing deterioration in the chemical status of surface water bodies in relation to those substances by means of programmes of measures included in the 2027 river basin management plans produced in accordance with Article 13(7) of Directive 2000/60/EC;
+
+(iv) the newly identified substances numbered 46 to 70 in Part A of Annex I, with effect from 22 December 2027, with the aim of achieving good surface water chemical status in relation to those substances by 22 December 2039 and preventing deterioration in the chemical status of surface water bodies in relation to those substances; for that purpose, Member States shall, by 22 December 2027, establish a supplementary monitoring programme and, by 22 December 2030, a preliminary programme of measures covering those substances; a final programme of measures, in accordance with Article 11 of Directive 2000/60/EC, shall be included in the 2033 river basin management plan produced in accordance with Article 13(7) of that Directive.
+
+Article 4(4) to (9) of Directive 2000/60/EC shall apply mutatis mutandis to the substances listed in points (i) and (ii), of the first subparagraph of this paragraph.
+
+Article 4(4) to (9) of Directive 2000/60/EC shall also apply mutatis mutandis to the substances listed in points (iii) and (iv) of the first subparagraph of this paragraph. Insofar as the time extensions provided for in Article 4(4) of that Directive are concerned, they shall be limited to a maximum of one further update of the river basin management plan except in cases where the natural conditions are such that the objectives cannot be achieved within that river basin management plan period.
+
+1b. EQS set at Union level for river basin specific pollutants in accordance with Article 16(4) of Directive 2000/60/EC and listed in Part C of Annex II to this Directive or additional river basin specific pollutants and corresponding EQS identified by Member States in accordance with Article 8d(1) of this Directive, shall take effect from the beginning of the following river basin management plan period after the date the EQS was set, with the aim of achieving good surface water chemical status in relation to those pollutants by the end of that river basin management plan period and of preventing deterioration in the chemical status of surface water bodies in relation to those pollutants.
+
+Article 4(4) to (9) of Directive 2000/60/EC shall apply mutatis mutandis to the pollutants referred to in the first subparagraph of this paragraph. Insofar as the time extensions provided for in Article 4(4) of that Directive are concerned, they shall be limited to a maximum of one further update of the river basin management plan except in cases where the natural conditions are such that the objectives cannot be achieved within that river basin management plan period.
+
+2\. With regard to substances for which a biota EQS or a sediment EQS is laid down in Part A of Annex I, Member States shall apply such biota EQS or sediment EQS.
+
+With regard to substances other than those referred to in the first subparagraph, Member States shall apply the water EQS laid down in Part A of Annex I.
+
+3\. Member States may opt, in relation to one or more categories of surface water, to apply an EQS for a matrix other than that specified in paragraph 2, or, where relevant, for a biota taxon other than those specified in Part A of Annex I.
+
+Member States that make use of the option referred to in the first subparagraph shall apply the relevant EQS laid down in Part A of Annex I or, if none is included for the matrix or biota taxon, establish an EQS that offers at least the same level of protection as the EQS laid down in Part A of Annex I.
+
+Member States may use the option referred to in the first subparagraph only where the method of analysis used for the chosen matrix or biota taxon fulfils the minimum performance criteria laid down in Article 4 of Directive 2009/90/EC. Where those criteria are not met for any matrix, Member States shall ensure that monitoring is carried out using best available techniques not entailing excessive costs and that the method of analysis performs at least as well as that available for the matrix specified in paragraph 2 of this Article for the relevant substance.
+
+3a. Where a potential risk to, or via, the aquatic environment from acute exposure has been identified as a result of measured or estimated environmental concentrations or emissions and where a biota or sediment EQS is being applied, Member States shall ensure that monitoring in surface water is also carried out and shall apply the MAC-EQS laid down in Part A of Annex I to this Directive where such EQS have been established.
+
+3b. Where, pursuant to Article 5 of Directive 2009/90/EC, the calculated mean value of a measurement, when carried out using the best available technique not entailing excessive costs, is referred to as ‘less than limit of quantification’, and the limit of quantification of that technique is above the EQS, the result for the substance being measured shall not be considered for the purposes of assessing the overall chemical status of that water body.
+
+4\. For substances for which an EQS for sediment and/or biota is applied, Member States shall monitor the substance in the relevant matrix at least once every year, unless technical knowledge and expert judgment justify another interval.
+
+5\. Member States shall include the following information in the updated river basin management plans produced in accordance with Article 13(7) of Directive 2000/60/EC:
+
+(a) a table presenting the limits of quantification of the methods of analysis applied, and information on the performance of those methods in relation to the minimum performance criteria laid down in Article 4 of Directive 2009/90/EC;
+
+(b) for the substances for which the option in paragraph 3 of this Article is used:
+
+(i) the reasons and basis for using that option;
+
+(ii) where relevant, the alternative EQS established, evidence that those EQS would offer at least the same level of protection as the EQS laid down in Part A of Annex I, including the data and methodology used to derive the EQS, and the categories of surface water to which they would apply;
+
+(iii) for comparison with the information referred to in point (a) of this paragraph, the limits of quantification of the methods of analysis for the matrices specified in Part A of Annex I to this Directive, including information on the performance of those methods in relation to the minimum performance criteria laid down in Article 4 of Directive 2009/90/EC;
+
+(c) justification for the frequency of monitoring applied in accordance with paragraph 4, if monitoring intervals are longer than one year.
+
+5a. Member States shall take the necessary measures to ensure that the updated river basin management plans, produced in accordance with Article 13(7) of Directive 2000/60/EC, containing the results and impact of the measures taken to prevent chemical pollution of surface water, and the interim report describing progress in the implementation of the planned programme of measures in accordance with Article 15(3) of Directive 2000/60/EC, are provided through a central portal which is accessible to the public electronically in accordance with Article 7(1) of Directive 2003/4/EC of the European Parliament and of the Council of 28 January 2003 on public access to environmental information ( 2 ).
+
+6\. Member States shall arrange for the long-term trend analysis of concentrations of those priority substances identified in Part A of Annex I as substances that tend to accumulate in sediment or biota, on the basis of monitoring in sediment or biota as part of the monitoring of surface water status carried out in accordance with Article 8 of Directive 2000/60/EC. Member States shall take measures aimed at ensuring, subject to Article 4 of Directive 2000/60/EC, that such concentrations do not significantly increase in sediment or biota.
+
+Member States shall determine the frequency of monitoring in sediment and/or biota so as to provide sufficient data for a reliable long-term trend analysis. As a guideline, monitoring should take place every three years, unless technical knowledge and expert judgment justify another interval.
+
+8\. The Commission is empowered to adopt delegated acts in accordance with Article 9a to amend point 3 of Part B of Annex I in order to adapt it to scientific or technical progress.
+
+8a. In order to facilitate the implementation of this Article, technical guidelines on monitoring strategies and analytical methods for substances, including sampling and monitoring of biota, shall be developed, to the extent possible, by 22 December 2014, as part of the existing implementation process of Directive 2000/60/EC.
+
+In particular, the guidelines shall cover:
+
+(a) the monitoring of substances in biota as provided for in paragraphs 2 and 3 of this Article;
+
+(b) in the case of newly identified substances (numbered 34 to 45 in Part A of Annex I) and substances for which stricter EQS are established (numbered 2, 5, 15, 20, 22, 23 and 28 in Part A of Annex I), analytical methods compliant with the minimum performance criteria laid down in Article 4 of Directive 2009/90/EC.
+
+8b. In the case of substances for which technical guidelines have not been adopted by 22 December 2014, the deadline of 22 December 2015 referred to in point (i) of paragraph (1a) shall be extended to 22 December 2018, and the deadline of 22 December 2021 referred to in that point shall be extended to 22 December 2027.
+
+## Article 4 — Mixing zones
+
+1\. Member States may designate mixing zones adjacent to points of discharge. Concentrations of one or more substances listed in Part A of Annex I may exceed the relevant EQS within such mixing zones if they do not affect the compliance of the rest of the body of surface water with those standards.
+
+2\. Member States that designate mixing zones shall include in river basin management plans produced in accordance with Article 13 of Directive 2000/60/EC a description of:
+
+(a) the approaches and methodologies applied to define such zones; and
+
+(b) measures taken with a view to reducing the extent of the mixing zones in the future, such as those pursuant to Article 11(3)(k) of Directive 2000/60/EC or by reviewing permits referred to in Directive 2008/1/EC or prior regulations referred to in Article 11(3)(g) of Directive 2000/60/EC.
+
+3\. Member States that designate mixing zones shall ensure that the extent of any such zone is:
+
+(a) restricted to the proximity of the point of discharge;
+
+(b) proportionate, having regard to the concentrations of pollutants at the point of discharge and to the conditions on emissions of pollutants contained in the prior regulations, such as authorisations and/or permits, referred to in Article 11(3)(g) of Directive 2000/60/EC and any other relevant Community law, in accordance with the application of best available techniques and Article 10 of Directive 2000/60/EC, in particular after those prior regulations are reviewed.
+
+## Article 5 — Inventory of emissions, discharges and losses
+
+1\. On the basis of the information collected in accordance with Articles 5 and 8 of Directive 2000/60/EC and other available data, each Member State shall establish an inventory of emissions, discharges and losses of all priority substances listed in Part A of Annex I to this Directive and all substances identified by the Member State as river basin specific pollutants for each river basin district or part of a river basin district within their territory.
+
+The first subparagraph shall not apply to emissions, discharges and losses reported by electronic means, on a yearly basis, to the Industrial Emissions Portal established under Regulation (EU) 2024/1244 of the European Parliament and of the Council ( 3 ), in accordance with Article 7 of that Regulation.
+
+2\. Member States shall update their inventories as part of the reviews specified in Article 5(2) of Directive 2000/60/EC.
+
+The reference period for the establishment of values in the updated inventories shall be the year before the year in which the reviews specified in Article 5(2) of Directive 2000/60/EC are to be completed.
+
+As part of those updates, Member States shall ensure that the point source emissions to water that do not fall under the scope of Regulation (EU) 2024/1244 or that fall below the annual reporting thresholds set out in that Regulation, as well as the emissions of pollutants from diffuse sources as defined in point (12) of Article 3 of that Regulation, to water, are also reported by electronic means to the Commission, in order to be made available in the Industrial Emissions Portal established under that Regulation, at least every six years, and aggregated at the level of each river basin district or part thereof within a Member State’s territory.
+
+The Commission shall adopt an implementing act establishing the format of the reporting referred to in the third subparagraph of this paragraph. That implementing act shall be adopted in accordance with the examination procedure referred to in Article 9(2) of this Directive. When establishing that implementing act, the Commission shall be assisted, where so required, by the EEA.
+
+3\. Member States shall ensure that the river basin management plans established in accordance with Article 13 of Directive 2000/60/EC include a clear reference or weblink to all the information on emissions to water made available in the Industrial Emissions Portal in accordance with paragraphs 1 and 4 of this Article.
+
+## Article 6 — Transboundary pollution
+
+1\. A Member State shall not be in breach of its obligations under this Directive as a result of the exceedance of an EQS if it can demonstrate that:
+
+(a) the exceedance was due to a source of pollution outside its national jurisdiction;
+
+(b) it was unable as a result of such transboundary pollution to take effective measures to comply with the relevant EQS; and
+
+(c) it had applied the coordination mechanisms set out in Article 3 of Directive 2000/60/EC and, as appropriate, taken advantage of the provisions of Article 4(4), (5) and (6) of that Directive for those water bodies affected by transboundary pollution.
+
+2\. Member States shall use the mechanism laid down in Article 12 of Directive 2000/60/EC to provide the Commission with necessary information in the circumstances set out in paragraph 1 of this Article and with a summary of the measures taken in relation to transboundary pollution in the relevant river basin management plan in accordance with the reporting requirements under Article 15(1) of Directive 2000/60/EC.
+
+## Article 7 — Reporting and review
+
+1\. On the basis of reports from Member States, including reports in accordance with Article 12 of Directive 2000/60/EC and in particular those on transboundary pollution, the Commission shall review the need to amend existing acts and the need for additional specific Community-wide measures, such as emission controls.
+
+2\. The Commission shall report to the European Parliament and to the Council in the context of the report prepared in accordance with Article 18(1) of Directive 2000/60/EC, on:
+
+(a) the conclusions of the review referred to in paragraph 1 of this Article;
+
+(b) measures taken to reduce the extent of mixing zones designated in accordance with Article 4(1) of this Directive;
+
+(c) the outcome of the verification referred to in Article 5(5) of this Directive;
+
+(d) the situation regarding pollution originating outside the territory of the Community.
+
+The Commission shall, if appropriate, accompany the report with relevant proposals.
+
+## Article 7a — Coordination
+
+1\. For priority substances that fall within the scope of Directive 2001/83/EC of the European Parliament and of the Council ( 4 ), Regulations (EC) No 1907/2006 ( 5 ) or (EC) No 1107/2009 ( 6 ) of the European Parliament and of the Council, Directives 2009/128/EC ( 7 ) or 2010/75/EU ( 8 ) of the European Parliament and of the Council or Regulations (EU) No 528/2012 ( 9 ) or (EU) 2019/6 of the European Parliament and of the Council ( 10 ), the Commission shall, taking into account the monitoring data referred to in Article 8(4) of Directive 2000/60/EC, and as part of the report referred to in Article 18(1) of that Directive, assess whether the measures in place at Union and Member State level are sufficient to achieve the EQS for priority substances and the cessation or phasing-out objective for discharges, emissions and losses of priority hazardous substances in accordance with point (a) of Article 4(1) of Directive 2000/60/EC.
+
+2\. The Commission shall report to the European Parliament and to the Council on the outcome of the assessment referred to in paragraph 1 of this Article in accordance with the timetable laid down in Article 16(4) of Directive 2000/60/EC and shall accompany its report with any appropriate proposals including for control measures.
+
+3\. Where the results of the report show that additional measures at Union or Member State level may be necessary in order to facilitate compliance with Directive 2000/60/EC in relation to a particular substance approved pursuant to Regulation (EC) No 1107/2009 or Regulation (EU) No 528/2012, Member States or the Commission shall apply Articles 21 or 44 of Regulation (EC) No 1107/2009 or Articles 15 or 48 of Regulation (EU) No 528/2012, as appropriate, to that substance, or products containing that substance.
+
+In the case of substances falling within the scope of Regulation (EC) No 1907/2006, the Commission shall initiate, where appropriate, the procedure referred to in Articles 59, 61 or 69 of that Regulation.
+
+In applying the provisions of the Regulations referred to in the first and second subparagraphs, Member States and the Commission shall take into account any risk evaluations and socio-economic or cost-benefit analyses required under those Regulations, including as regards the availability of alternatives.
+
+## Article 8 — Review of Annexes I and II
+
+1\. The Commission shall consider establishing quality standards for PFAS Total in surface waters at the next review of Annex I to this Directive to be conducted in accordance with Article 16 of Directive 2000/60/EC and aim to complement the guidance on monitoring PFAS Total in drinking water, developed in accordance with Article 13(7) of Directive (EU) 2020/2184 of the European Parliament and of the Council ( 11 ), to make it applicable to monitoring PFAS Total in surface waters. Member States are encouraged to already apply that guidance to monitor PFAS Total in surface waters and to report the data in line with Article 8(4) of Directive 2000/60/EC. Considering the toxicity, persistence and prevalence of trifluoroacetic acid (TFA) in the environment, the Commission shall consider establishing a quality standard for TFA separately in Annex I to this Directive at the next review.
+
+2\. A parameter ‘Sum of Bisphenols’ and parameters for the sum(s) of selected pesticides by mode of action and selected pharmaceuticals by mode of action are included in Annex III to this Directive. The Commission shall review the possible inclusion of these parameters in the priority substances list at its next review of Annex I to this Directive to be conducted in accordance with Article 16 of Directive 2000/60/EC, and set EQS as appropriate. The Commission shall also consider at the next review whether a risk-based approach could be taken to establishing EQS for total bisphenols, total pesticides and total pharmaceuticals in surface waters, supported by suitable monitoring methods.
+
+3\. The Commission is empowered to adopt delegated acts, in accordance with Article 9a, to amend Part B of Annex II in order to adapt it to scientific and technological progress.
+
+## Article 8a — Specific provisions for certain substances
+
+1\. In the river basin management plans produced in accordance with Article 13 of Directive 2000/60/EC, without prejudice to the requirements of Section 1.4.3 of Annex V to that Directive regarding the presentation of the overall chemical status and the objectives and obligations laid down in point (a) of Article 4(1), point (k) of Article 11(3) and in Article 16(6) of that Directive, Member States may provide additional maps to present the chemical status as provided for in Section 1.4.3 of Annex V of Directive 2000/60/EC.
+
+2\. Member States may monitor substances identified in Part A of Annex I to this Directive as substances behaving like ubiquitous PBTs less intensively than is required for priority substances in accordance with Article 3(4) of this Directive and Annex V to Directive 2000/60/EC, provided that the monitoring is representative and a statistically robust baseline is available regarding the presence of those substances in the aquatic environment. As a guideline, in accordance with the second subparagraph of Article 3(6) of this Directive, monitoring should take place at least every three years, unless the use or emission of the substance, or technical knowledge and expert judgment, justify another interval.
+
+3\. Over a period of two years from 1 January 2030, Member States shall monitor the presence of estrogenic substances in water bodies, using effect-based monitoring methods. Sampling and analysis need not commence at the start of that two-year period, but shall be conducted at least four times each year. Member States shall conduct the monitoring at a selection of the sites where the three estrogenic hormones 17-beta estradiol (E2), Estrone (E1) and 17-alpha-ethinylestradiol (EE2), listed in Part A to Annex I to this Directive, are being monitored using conventional analytical methods in accordance with Article 8 of Directive 2000/60/EC and Annex V thereto in order to obtain comparative results at a range of concentrations. Data shall be reported together, and in accordance with Article 8(4) of that Directive. The number of sites shall be no fewer than that specified in Article 8b(3) of this Directive for monitoring substances on the watch list. Member States may start the monitoring before 1 January 2030 as long as the technical specifications referred to in paragraph 4 of this Article have been adopted. Member States shall not use the effect-based results from the two-year comparative monitoring period for the purpose of classifying the chemical status of the monitored water bodies as described in Section 1.4.3 of Annex V to Directive 2000/60/EC.
+
+4\. By 1 December 2027, the Commission shall adopt an implementing act setting out the technical specifications for the monitoring of estrogenic substances using effect-based monitoring methods. The implementing act shall be adopted in accordance with the examination procedure referred to in Article 9(2).
+
+5\. Within 18 months of the data being reported by the Member States, the Commission shall publish a report comparing the results from the conventional analytical and the effect-based methods and analyse the possibility of using effect-based monitoring methods in conjunction with an effect-based trigger value for estrogens as defined in point 35a of Article 2 of Directive 2000/60/EC for screening purposes to support the assessment of chemical status.
+
+In the context of future reviews of the list of pollutants in accordance with Article 16(2) of Directive 2000/60/EC, taking into account the analysis in the report referred to in the first subparagraph of this paragraph, the Commission shall consider setting a trigger value for estrogens for screening purposes and for the assessment of chemical status. Once effect-based methods are ready to use also for other substances, the Commission shall consider, in the context of future reviews, requiring Member States to use them, if necessary, at least initially in parallel with conventional analytical methods, and consider setting corresponding trigger values.
+
+## Article 8b — Watch list
+
+1\. The Commission is empowered to adopt implementing acts to establish, having regard to scientific reports prepared by the European Chemicals Agency (ECHA) in accordance with paragraph 1a of this Article, a watch list of substances for which it is necessary to gather Union-wide monitoring data from the Member States for the purpose of supporting future reviews in accordance with Article 16(2) of Directive 2000/60/EC and to lay down the formats to be used by the Member States for reporting the results of that monitoring and related information to the Commission. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 9(2).
+
+The watch list shall contain a maximum of 10 substances, groups of substances, or indicators of pollution at any one time and shall indicate the monitoring matrices and the possible methods of analysis for each substance. Those monitoring matrices and methods shall not entail excessive costs for the competent authorities. The substances to be included in the watch list shall be selected from amongst the substances for which the information available indicates that they could pose a significant risk at Union level to, or via, the aquatic environment and for which monitoring data are insufficient. The watch list shall include substances of emerging concern.
+
+On the basis of the scientific reports prepared by ECHA in accordance with paragraph 1a, the Commission shall include microplastics and appropriate indicators of the presence, evolution or transmission of antimicrobial resistance (‘indicators of antimicrobial resistance’) in the watch list, provided that methods of sampling and analysis that are reliable and do not entail excessive costs are available. By 1 December 2027, the Commission shall identify such methods of sampling and analysis.
+
+1a. ECHA shall prepare scientific reports to assist the Commission in selecting the substances and indicators for inclusion in the watch list referred to in paragraph 1 of this Article, taking into account the following information:
+
+(a) Annex I to Directive 2006/118/EC of the European Parliament and of the Council (11) and the results of the most recent review of that Annex, as well as the results of the most recent regular review of Annex I to this Directive;
+
+(b) the watch lists established in accordance with Directives 2006/118/EC and (EU) 2020/2184;
+
+(c) recommendations from the stakeholders;
+
+(d) Member States’ characterisation of river basin districts in accordance with Article 5 of Directive 2000/60/EC and the results of monitoring programmes established in accordance with Article 8 of that Directive;
+
+(e) information on production volumes, use patterns, intrinsic properties, including, where relevant, particle size, concentrations in the environment and adverse effects on human health and the aquatic environment of a substance, including information gathered in accordance with Directive 2001/83/EC, Regulation (EC) No 1907/2006, Regulation (EC) No 1272/2008 of the European Parliament and of the Council ( 12 ), Regulation (EC) No 1107/2009, Directive 2009/128/EC, Regulation (EU) No 528/2012 and Regulation (EU) 2022/2379 of the European Parliament and of the Council ( 13 );
+
+(f) research projects and scientific publications, including information on trends and forecasts based on modelling or other predictive assessments, as well as information and data collected by remote sensing technologies, earth observation, such as Copernicus services, in situ sensors and devices or citizen science data, taking advantage of the opportunities offered by artificial intelligence, and advanced data analysis and processing;
+
+(g) recommendations from the working groups established under the Common Implementation Strategy for Directive 2000/60/EC;
+
+(h) information on emissions, discharges and losses available in the Industrial Emissions Portal under Regulation (EU) 2024/1244, as well as any additional information available on substances covered by permits under Directive 2010/75/EU.
+
+1b. The scientific reports prepared by ECHA in accordance with paragraph 1a shall present a list of substances, groups of substances, or indicators, the recommended monitoring matrix, and an indicative method of analysis and maximum acceptable limit of quantification for each of them, with a supporting reference to scientific literature or guidance.
+
+1c. By 1 February 2028 and every three years thereafter, ECHA shall prepare a report summarising the findings of the scientific reports prepared in accordance with paragraph 1a and shall make that report publicly available.
+
+2\. The Commission shall update the watch list referred to in paragraph 1 by 1 May 2028, and every three years thereafter.
+
+When updating the watch list, the Commission shall remove any substance or indicator from the watch list for which a risk-based assessment as referred to in Article 16(2) of Directive 2000/60/EC can be conducted without additional monitoring data. However, an individual substance, group of substances, or indicator may be kept on the watch list for another period of maximum three years where additional monitoring data are needed to assess the risk to the aquatic environment.
+
+Each updated watch list shall also include one or more additional substances, groups of substances, or indicators for which the Commission considers, on the basis of the scientific reports of ECHA, that there could be a widespread risk to or via the aquatic environment, subject to the updated watch list containing a maximum of 10 substances, groups of substances, or indicators, in accordance with paragraph 1.
+
+Microplastics and indicators of antimicrobial resistance shall not be kept on the list for a second consecutive period of three years unless a harmonised and reliable risk assessment methodology is available which, when applied, shows that the monitoring data collected during the first monitoring period are insufficient to assess the risk they pose to or via the aquatic environment.
+
+3\. Member States shall monitor each substance, group of substances, and indicator on the watch list referred to in paragraph 1 at selected representative monitoring stations over a 24-month period. The monitoring period shall commence within six months of the inclusion of the substance in the list, but sampling and analysis need not commence at the start of that period.
+
+Each Member State shall select at least one monitoring station, plus one station if it has more than one million inhabitants, plus the number of stations equal to its geographical area in km2 divided by 60 000 , rounded to the nearest integer, plus the number of stations equal to its population divided by five million, rounded to the nearest integer.
+
+In selecting the representative monitoring stations, the monitoring frequency and the timing for each substance, group of substances, or indicator, Member States shall take into account seasonal variability in rainfall, water levels, use patterns and the possibility of the substance, group of substances, or indicator occurring. The frequency of monitoring shall be no less than twice per year when carried out in water and no less than once per year when carried out in sediment or biota. When higher frequencies are required, as for substances that are sensitive to climatic or seasonal variabilities, the increase in frequency shall be set out and technically justified in the implementing act establishing the watch list adopted pursuant to paragraph 1.
+
+Where a Member State is in a position to generate and provide the Commission with sufficient, comparable, representative and recent monitoring data for a particular substance, group of substances, or indicator from existing monitoring programmes or studies, it may decide not to undertake additional monitoring under the watch list mechanism for that substance, group of substances, or indicator, provided that the substance, group of substances, or indicator was monitored using a methodology that is compliant with the monitoring matrices and the methods of analysis referred to in the implementing act establishing the watch list, as well as with Commission Directive 2009/90/EC ( 14 ).
+
+4\. Member States shall make available the results of the monitoring referred to in paragraph 3 of this Article annually in accordance with Article 8(4) of Directive 2000/60/EC and with the implementing act establishing the watch list adopted pursuant to paragraph 1 of this Article. They shall also make available information on the representativeness of the monitoring stations and on the monitoring strategy.
+
+5\. At the end of the 24-month period referred to in paragraph 3 ECHA shall review the monitoring results and assess which substances, groups of substances, or indicators need to be monitored for another 24-month period and therefore are to be kept on the watch list and which substances, groups of substances, or indicators can be removed from the watch list.
+
+Where the Commission, having regard to the assessment by ECHA referred to in the first subparagraph of this paragraph, concludes that no further monitoring is required to further assess the risk to the aquatic environment, this assessment by ECHA shall be taken into account in the review of the lists of substances in Annex I or Part C of Annex II to this Directive, in accordance with Article 16 of Directive 2000/60/EC.
+
+## Article 8c — Specific provisions for pharmaceutical substances
+
+Pursuant to Article 16(9) of Directive 2000/60/EC, and where appropriate on the basis of the outcome of its 2013 study on the risks posed by medicinal products in the environment and of other relevant studies and reports, the Commission shall, as far as possible within two years from 13 September 2013 develop a strategic approach to pollution of water by pharmaceutical substances. That strategic approach shall, where appropriate, include proposals enabling, to the extent necessary, the environmental impacts of medicines to be taken into account more effectively in the procedure for placing medicinal products on the market. In the framework of that strategic approach, the Commission shall, where appropriate, by 14 September 2017 propose measures to be taken at Union and/or Member State level, as appropriate, to address the possible environmental impacts of pharmaceutical substances, particularly those referred to in Article 8b(1), with a view to reducing discharges, emissions and losses of such substances into the aquatic environment, taking into account public health needs and the cost-effectiveness of the measures proposed.
+
+## Article 8d — River basin specific pollutants
+
+1\. Member States shall set and apply EQS for the river basin specific pollutants covered by the categories listed in Part A of Annex II to this Directive, where they identify those pollutants as posing a risk to water bodies in one or more of their river basin districts based on the analyses and reviews under Article 5 of Directive 2000/60/EC, in accordance with the procedure set out in Part B of Annex II to this Directive.
+
+By 22 December 2027, Member States shall inform the Commission of their list of river basin specific pollutants and EQS set pursuant to the first subparagraph of this paragraph. The Commission shall ensure that that information is made publicly available.
+
+Subsequent updates of the list of river basin specific pollutants identified by the Member States in accordance with the first subparagraph of this paragraph and their corresponding EQS shall be included in the river basin management plans to be produced under Article 13 of Directive 2000/60/EC.
+
+2\. Where EQS for river basin specific pollutants have been set at Union level in accordance with Article 16(4) of Directive 2000/60/EC, and listed in Part C of Annex II to this Directive, those EQS shall take precedence over EQS for river basin specific pollutants established at national level in accordance with paragraph 1 of this Article. Those EQS set at Union level shall also be applied by the Member States to establish whether the river basin specific pollutants listed in Part C of Annex II to this Directive pose a risk.
+
+3\. Compliance with the applicable national EQS or, where relevant, with the EQS set at Union level, is required for a water body to achieve good surface water chemical status, as defined in point 24 of Article 2 of Directive 2000/60/EC.
+
+## Article 9 — Committee procedure
+
+1\. The Commission shall be assisted by the Committee established under Article 21(1) of Directive 2000/60/EC. That Committee is a committee within the meaning of Regulation (EU) No 182/2011 of the European Parliament and of the Council of 16 February 2011 laying down the rules and general principles concerning mechanisms for control by Member States of the Commission’s exercise of implementing powers ( 15 ).
+
+2\. Where reference is made to this paragraph, Article 5 of Regulation (EU) No 182/2011 shall apply.
+
+Where the Committee delivers no opinion, the Commission shall not adopt the draft implementing act and the third subparagraph of Article 5(4) of Regulation (EU) No 182/2011 shall apply.
+
+## Article 9a — Exercise of the delegation
+
+1\. The power to adopt delegated acts is conferred on the Commission subject to the conditions laid down in this Article.
+
+2\. The power to adopt delegated acts referred to in Article 3(8) and Article 8(3) shall be conferred on the Commission for a period of six years from 10 May 2026. The Commission shall draw up a report in respect of the delegation of power at the latest nine months before the end of the six-year period. The delegation of power shall be tacitly extended for periods of an identical duration, unless the European Parliament or the Council opposes such extension not later than three months before the end of each period.
+
+3\. The delegation of power referred to in Article 3(8) and Article 8(3) may be revoked at any time by the European Parliament or by the Council. A decision to revoke shall put an end to the delegation of the power specified in that decision. It shall take effect the day following the publication of the decision in the Official Journal of the European Union or at a later date specified therein. It shall not affect the validity of any delegated acts already in force.
+
+3a. Before adopting a delegated act, the Commission shall consult experts designated by each Member State in accordance with the principles laid down in the Interinstitutional Agreement of 13 April 2016 on Better Law-Making.
+
+4\. As soon as it adopts a delegated act, the Commission shall notify it simultaneously to the European Parliament and to the Council.
+
+5\. A delegated act adopted pursuant to Article 3(8) or Article 8(3) shall enter into force only if no objection has been expressed either by the European Parliament or the Council within a period of two months of notification of that act to the European Parliament and the Council or if, before the expiry of that period, the European Parliament and the Council have both informed the Commission that they will not object. That period shall be extended by two months at the initiative of the European Parliament or of the Council.
+
+## Article 11 — Amendment of Directives 82/176/EEC, 83/513/EEC, 84/156/EEC, 84/491/EEC and 86/280/EEC
+
+1\. Annex II to Directives 82/176/EEC, 83/513/EEC, 84/156/EEC and 84/491/EEC respectively shall be deleted.
+
+2\. Headings B in Sections I to XI of Annex II to Directive 86/280/EEC shall be deleted.
+
+## Article 12 — Repeal of Directives 82/176/EEC, 83/513/EEC, 84/156/EEC, 84/491/EEC and 86/280/EEC
+
+1\. Directives 82/176/EEC, 83/513/EEC, 84/156/EEC, 84/491/EEC and 86/280/EEC shall be repealed with effect from 22 December 2012.
+
+2\. Before 22 December 2012, Member States may carry out monitoring and reporting in accordance with Articles 5, 8 and 15 of Directive 2000/60/EC instead of carrying them out in accordance with the Directives referred to in paragraph 1 of this Article.
+
+## Article 13 — Transposition
+
+1\. Member States shall bring into force the laws, regulations and administrative provisions necessary to comply with this Directive by 13 July 2010.
+
+When Member States adopt those measures, they shall contain a reference to this Directive or be accompanied by such a reference on the occasion of their official publication. Member States shall determine how such reference is to be made.
+
+2\. Member States shall communicate to the Commission the text of the main provisions of national law which they adopt in the field covered by this Directive.
+
+## Article 14 — Entry into force
+
+This Directive shall enter into force on the 20th day following its publication in the Official Journal of the European Union.
+
+## Article 15 — Addressees
+
+This Directive is addressed to the Member States.
+
+## ANNEX I
+
+**ENVIRONMENTAL QUALITY STANDARDS (EQS) FOR PRIORITY SUBSTANCES IN SURFACE WATERS**
+
+**PART A: ENVIRONMENTAL QUALITY STANDARDS**
+
+<tbody><tr><td>(1)</td><td>(2)</td><td>(3)</td><td>(4)</td><td>(5)</td><td>(6)</td><td>(7)</td><td>(8)</td><td>(9)</td><td>(10)</td><td>(11)</td><td>(12)</td><td>(13)</td></tr>
+<tr><td>Entry No</td><td>Name of substance</td><td>Category of substances</td><td>CAS number (1)</td><td>EU number (2)</td><td>AA-EQS (3) Inland surface waters (4) [μg/l] </td><td>AA-EQS (3) Other surface waters  [μg/l] </td><td>MAC-EQS (5) Inland surface waters (4)  [μg/l] </td><td>MAC-EQS (5) Other surface waters  [μg/l] </td><td>EQS Biota (6)  [μg/kg wet weight]  or EQS Sediment [μg /kg dry weight] where so indicated </td><td>Identified as a priority hazardous substance</td><td>Identified as an Ubiquitous Persistent, Bioaccumulative and Toxic (uPBT) substance</td><td>Identified as a substance that tends to accumulate in sediment and/or biota</td></tr>
+<tr><td>(1)</td><td colspan="12">The substance Alachlor has been moved to Part C of Annex II</td></tr>
+<tr><td>(2)</td><td>Anthracene</td><td>Industrial substances</td><td>120-12-7</td><td>204-371-1</td><td>0,1 </td><td>0,1 </td><td>0,1 </td><td>0,1 </td><td>  </td><td>X</td><td>  </td><td>X</td></tr>
+<tr><td>(3)</td><td colspan="12">The substance Atrazine has been moved to Part C of Annex II</td></tr>
+<tr><td>(4)</td><td>Benzene</td><td>Industrial substances</td><td>71-43-2</td><td>200-753-7</td><td>10</td><td>8</td><td>50</td><td>50</td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>(5)</td><td>Brominated diphenylethers (7)</td><td>Industrial substances</td><td>not applicable</td><td>not applicable</td><td>  </td><td>  </td><td>0,14 </td><td>0,014 (7)</td><td>0,00028 (7)</td><td>X (8)</td><td>X</td><td>X</td></tr>
+<tr><td>(6)</td><td>Cadmium and its compounds (depending on water hardness classes) (9) </td><td>Metals</td><td>7440-43-9</td><td>231-152-8</td><td>≤ 0,08 (Class 1) 0,08 (Class 2)  0,09 (Class 3)  0,15 (Class 4)  0,25 (Class 5) </td><td>0,2 </td><td>≤ 0,45 (Class 1) 0,45 (Class 2)  0,6 (Class 3)  0,9 (Class 4)  1,5 (Class 5) </td><td>≤ 0,45 (Class 1) 0,45 (Class 2)  0,6 (Class 3)  0,9 (Class 4)  1,5 (Class 5) </td><td>  </td><td>X</td><td>  </td><td>X</td></tr>
+<tr><td>(6a)</td><td colspan="12">The substance Carbon tetrachloride has been moved to Part C of Annex II</td></tr>
+<tr><td>(7)</td><td>C10-13 Chloroalkanes (10)</td><td>Industrial substances</td><td>85535-84-8</td><td>287-476-5</td><td>0,4 </td><td>0,4 </td><td>1,4 </td><td>1,4 </td><td>  </td><td>X</td><td>  </td><td>X</td></tr>
+<tr><td>(8)</td><td colspan="12">The substance Chlorfenvinphos has been moved to Part C of Annex II</td></tr>
+<tr><td>(9)</td><td>Chlorpyrifos (Chlorpyrifos-ethyl)</td><td>Pesticides – organophosphate</td><td>2921-88-2</td><td>220-864-4</td><td>4,6 × 10-4</td><td>4,6 × 10-5</td><td>0,0026 </td><td>5,2 × 10-4</td><td>  </td><td>X</td><td>X</td><td>X</td></tr>
+<tr><td>(9a)</td><td>Cyclodiene pesticides: Aldrin  Dieldrin  Endrin  Isodrin </td><td>Pesticides – organochlorine</td><td>309-00-2 60-57-1  72-20-8  465-73-6 </td><td>206-215-8 200-484-5  200-775-7  207-366-2 </td><td>Σ = 0,01 </td><td>Σ = 0,005 </td><td>not applicable</td><td>not applicable</td><td>  </td><td>X</td><td>  </td><td>  </td></tr>
+<tr><td>(9b)</td><td>DDT total (11)</td><td>Pesticides – organochlorine</td><td>not applicable</td><td>not applicable</td><td>0,025 </td><td>0,025 </td><td>not applicable</td><td>not applicable</td><td>  </td><td>X</td><td>  </td><td>  </td></tr>
+<tr><td>  </td><td>para-para-DDT</td><td>  </td><td>50-29-3</td><td>200-024-3</td><td>0,01 </td><td>0,01 </td><td>not applicable</td><td>not applicable</td><td>  </td><td>X</td><td>  </td><td>  </td></tr>
+<tr><td>(10)</td><td>1,2-Dichloroethane</td><td>Industrial substances</td><td>107-06-2</td><td>203-458-1</td><td>10</td><td>10</td><td>not applicable</td><td>not applicable</td><td>  </td><td>X</td><td>  </td><td>  </td></tr>
+<tr><td>(11)</td><td>Dichloromethane</td><td>Industrial substances</td><td>75-09-2</td><td>200-838-9</td><td>20</td><td>20</td><td>not applicable</td><td>not applicable</td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>(12)</td><td>Di(2-ethylhexyl)-phthalate (DEHP)</td><td>Industrial substances</td><td>117-81-7</td><td>204-211-0</td><td>1,3 </td><td>1,3 </td><td>not applicable</td><td>not applicable</td><td>  </td><td>X</td><td>  </td><td>X</td></tr>
+<tr><td>(13)</td><td>Diuron</td><td>Pesticides – herbicide</td><td>330-54-1</td><td>206-354-4</td><td>0,049 </td><td>0,0049 </td><td>0,27 </td><td>0,054 </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>(14)</td><td>Endosulfan</td><td>Pesticides – organochlorine</td><td>115-29-7</td><td>204-079-4</td><td>0,005 </td><td>0,0005 </td><td>0,01 </td><td>0,004 </td><td>  </td><td>X</td><td>  </td><td>  </td></tr>
+<tr><td>(15)</td><td>Fluoranthene</td><td>Industrial substances</td><td>206-44-0</td><td>205-912-4</td><td>7,62 × 10-4</td><td>7,62 × 10-4</td><td>0,12 </td><td>0,012 </td><td>6,1 </td><td>X</td><td>X</td><td>X</td></tr>
+<tr><td>(16)</td><td>Hexachlorobenzene</td><td>Pesticides – organochlorine</td><td>118-74-1</td><td>204-273-9</td><td>  </td><td>  </td><td>0,5 </td><td>0,05 </td><td>8 fw fish 1 sw fish </td><td>X</td><td>  </td><td>X</td></tr>
+<tr><td>(17)</td><td>Hexachlorobutadiene</td><td>Industrial substances (solvents)</td><td>87-68-3</td><td>201-765-5</td><td>9,5 x 10-4</td><td>9,5 × 10-4</td><td>0,6 </td><td>0,06 </td><td>21</td><td>X</td><td>  </td><td>X</td></tr>
+<tr><td>(18)</td><td>Hexachlorocyclohexane</td><td>Pesticides – insecticides</td><td>608-73-1</td><td>210-168-9</td><td>0,02 </td><td>0,002 </td><td>0,04 </td><td>0,02 </td><td>  </td><td>X</td><td>  </td><td>X</td></tr>
+<tr><td>(19)</td><td>Isoproturon</td><td>Pesticides – herbicide</td><td>34123-59-6</td><td>251-835-4</td><td>0,3 </td><td>0,3 </td><td>1,0 </td><td>1,0 </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>(20)</td><td>Lead and its compounds</td><td>Metals</td><td>7439-92-1</td><td>231-100-4</td><td>1,2 (12)</td><td>1,3 </td><td>14</td><td>14</td><td>  </td><td>X</td><td>  </td><td>X</td></tr>
+<tr><td>(21)</td><td>Mercury and its compounds</td><td>Metals</td><td>7439-97-6</td><td>231-106-7</td><td>  </td><td>  </td><td>0,07 </td><td>0,07 </td><td>11</td><td>X</td><td>X</td><td>X</td></tr>
+<tr><td>(22)</td><td>Naphthalene</td><td>Industrial substances</td><td>91-20-3</td><td>202-049-5</td><td>2</td><td>2</td><td>130</td><td>130</td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>(23)</td><td>Nickel and its compounds</td><td>Metals</td><td>7440-02-0</td><td>231-111-4</td><td>2 (12)</td><td>3,1 </td><td>8,2 </td><td>8,2 </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>(24)</td><td>Nonylphenols (13) (4-Nonylphenol)</td><td>Industrial substances</td><td>see footnote 13</td><td>see footnote 13</td><td>0,037 </td><td>0,0018 </td><td>2,1 </td><td>0,17 </td><td>  </td><td>X</td><td>  </td><td>  </td></tr>
+<tr><td>(25)</td><td>Octylphenols (14) ((4-(1,1’,3,3’-tetramethylbutyl)-phenol))</td><td>Industrial substances</td><td>see footnote 14</td><td>see footnote 14</td><td>0,1 </td><td>0,01 </td><td>not applicable</td><td>not applicable</td><td>  </td><td>X</td><td>  </td><td>  </td></tr>
+<tr><td>(26)</td><td>Pentachlorobenzene</td><td>Industrial substances</td><td>608-93-5</td><td>210-172-0</td><td>0,007 </td><td>0,0007 </td><td>not applicable</td><td>not applicable</td><td>  </td><td>X</td><td>  </td><td>X</td></tr>
+<tr><td>(27)</td><td>Pentachlorophenol</td><td>Pesticides – organochlorine</td><td>87-86-5</td><td>201-778-6</td><td>0,4 </td><td>0,4 </td><td>1</td><td>1</td><td>  </td><td>X</td><td>  </td><td>  </td></tr>
+<tr><td>(28)</td><td>Polyaromatic hydrocarbons (PAHs) (15)</td><td>Combustion products</td><td>not applicable</td><td>not applicable</td><td>not applicable</td><td>not applicable</td><td>not applicable</td><td>not applicable</td><td>Sum of Benzo(a)pyrene equivalents 0,6 (16)</td><td>X</td><td>X</td><td>X</td></tr>
+<tr><td rowspan="3">  </td><td>Benzo(a)pyrene</td><td>  </td><td>50-32-8</td><td>200-028-5</td><td>  </td><td>  </td><td>0,5 </td><td>0,05 </td><td>0,6 </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Benzo(b)fluoranthene</td><td>  </td><td>205-99-2</td><td>205-911-9</td><td>  </td><td>  </td><td>0,017 </td><td>0,017 </td><td>see footnote 16</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Benzo(k)fluoranthene</td><td>  </td><td>207-08-9</td><td>205-916-6</td><td>  </td><td>  </td><td>0,017 </td><td>0,017 </td><td>see footnote 16</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td rowspan="2">  </td><td>Benzo(g,h,i)perylene</td><td>  </td><td>191-24-2</td><td>205-883-8</td><td>  </td><td>  </td><td>8,2 × 10-3</td><td>8,2 × 10-4</td><td>see footnote 16</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Indeno(1,2,3-cd)pyrene</td><td>  </td><td>193-39-5</td><td>205-893-2</td><td>  </td><td>  </td><td>not applicable</td><td>not applicable</td><td>see footnote 16</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>  </td><td>Chrysene</td><td>  </td><td>218-01-9</td><td>205-923-4</td><td>  </td><td>  </td><td>0,07 </td><td>0,007 </td><td>see footnote 16</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td rowspan="3">  </td><td>Benzo(a)anthracene</td><td rowspan="2">  </td><td>56-55-3</td><td>200-280-6</td><td>  </td><td>  </td><td>0,1 </td><td>0,01 </td><td>see footnote 16</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Dibenz(a,h)anthracene</td><td>53-70-3</td><td>200-181-8</td><td>  </td><td>  </td><td>0,014 </td><td>0,0014 </td><td>see footnote 16</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Fluoranthene</td><td>  </td><td>206-44-0</td><td>205-912-4</td><td>  </td><td>  </td><td>0,12 </td><td>0,012 </td><td>see footnote 16</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>(29)</td><td colspan="12">The substance Simazine has been moved to Part C of Annex II</td></tr>
+<tr><td>(29a)</td><td>Tetrachloroethylene</td><td>Industrial substances</td><td>127-18-4</td><td>204-825-9</td><td>10</td><td>10</td><td>not applicable</td><td>not applicable</td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>(29b)</td><td>Trichloroethylene</td><td>Industrial substances</td><td>79-01-6</td><td>201-167-4</td><td>10</td><td>10</td><td>not applicable</td><td>not applicable</td><td>  </td><td>X</td><td>  </td><td>  </td></tr>
+<tr><td>(30)</td><td>Tributyltin compounds (17) (Tributyltin-cation)</td><td>Pesticides – biocide</td><td>36643-28-4</td><td>not applicable</td><td>0,0002 </td><td>0,0002 </td><td>0,0015 </td><td>0,0015 </td><td>1,6 (18)</td><td>X</td><td>X</td><td>X</td></tr>
+<tr><td>(31)</td><td colspan="12">The substance Trichlorobenzenes has been moved to Part C of Annex II</td></tr>
+<tr><td>(32)</td><td>Trichloromethane</td><td>Industrial substances</td><td>67-66-3</td><td>200-663-8</td><td>2,5 </td><td>2,5 </td><td>not applicable</td><td>not applicable</td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>(33)</td><td>Trifluralin</td><td>Pesticides – herbicides</td><td>1582-09-8</td><td>216-428-8</td><td>0,03 </td><td>0,03 </td><td>not applicable</td><td>not applicable</td><td>  </td><td>X</td><td>  </td><td>  </td></tr>
+<tr><td>(34)</td><td>Dicofol</td><td>Pesticides – organochlorine</td><td>115-32-2</td><td>204-082-0</td><td>4,45 × 10-3</td><td>0,185 × 10-3</td><td>not applicable (19)</td><td>not applicable (19)</td><td>111 fw fish 4,6 sw fish </td><td>X</td><td>  </td><td>X</td></tr>
+<tr><td>(35)</td><td>Perfluorooctane sulfonic acid (PFOS) and its derivatives</td><td>Industrial substances</td><td>1763-23-1</td><td>217-179-8</td><td colspan="8">Covered by substance group 65 (Per- and polyfluoroalkyl substances (PFAS) – sum of 25)</td></tr>
+<tr><td>(36)</td><td>Quinoxyfen</td><td>Pesticides – fungicide</td><td>124495-18-7</td><td>not applicable</td><td>0,15 </td><td>0,015 </td><td>2,7 </td><td>0,54 </td><td>  </td><td>X</td><td>  </td><td>X</td></tr>
+<tr><td>(37)</td><td>Dioxins and dioxin-like compounds (20)</td><td>Industrial byproducts</td><td>not applicable</td><td>not applicable</td><td>  </td><td>  </td><td>not applicable</td><td>not applicable</td><td>Sum of PCDDs+ PCDFs+ PCB-DLs equivalents 3,5 × 10-5(21) </td><td>X</td><td>X</td><td>X</td></tr>
+<tr><td>(38)</td><td>Aclonifen</td><td>Pesticides – herbicide</td><td>74070-46-5</td><td>277-704-1</td><td>0,12 </td><td>0,012 </td><td>0,12 </td><td>0,012 </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>(39)</td><td>Bifenox</td><td>Pesticides – herbicide</td><td>42576-02-3</td><td>255-894-7</td><td>0,012 </td><td>0,0012 </td><td>0,04 </td><td>0,004 </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>(40)</td><td>Cybutryne</td><td>Pesticides – biocide</td><td>28159-98-0</td><td>248-872-3</td><td>0,0025 </td><td>0,0025 </td><td>0,016 </td><td>0,016 </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>(41)</td><td>Cypermethrin (22)</td><td>Pesticides – pyrethroid</td><td>52315-07-8</td><td>257-842-9</td><td>3 × 10-5</td><td>3 × 10-6</td><td>6 × 10-4</td><td>6 × 10-5</td><td>  </td><td>  </td><td>  </td><td>X</td></tr>
+<tr><td>(42)</td><td>Dichlorvos</td><td>Pesticides – organophosphate</td><td>62-73-7</td><td>200-547-7</td><td>6 × 10-4</td><td>6 × 10-5</td><td>7 × 10-4</td><td>7 × 10-5</td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>(43)</td><td>Hexabromocyclododecane (HBCDD) (23)</td><td>Industrial substances</td><td>See footnote 23</td><td>See footnote 23</td><td>4,6 × 10-4</td><td>2 × 10-5</td><td>0,5 </td><td>0,05 </td><td>90 fw fish 3,5 sw fish </td><td>X</td><td>X</td><td>X</td></tr>
+<tr><td>(44)</td><td>Heptachlor and heptachlor epoxide</td><td>Pesticides – organochlorine</td><td>76-44-8 / 1024-57-3</td><td>200-962-3/ 213-831-0</td><td>1,7 × 10-7</td><td>1,7 × 10-7</td><td>3 × 10-4</td><td>3 × 10-5</td><td>0,013 </td><td>X</td><td>X</td><td>X</td></tr>
+<tr><td>(45)</td><td>Terbutryn</td><td>Pesticides – biocides</td><td>886-50-0</td><td>212-950-5</td><td>0,065 </td><td>0,0065 </td><td>0,34 </td><td>0,034 </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>(46)</td><td>17 alpha-ethinylestradiol (EE2)</td><td>Pharmaceuticals – estrogenic hormone</td><td>57-63-6</td><td>200-342-2</td><td>1,7 × 10-5</td><td>1,6 × 10-6</td><td>not derived</td><td>not derived</td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>(47)</td><td>17 beta-estradiol (E2)</td><td>Pharmaceuticals – estrogenic hormone</td><td>50-28-2</td><td>200-023-8</td><td>0,00018 </td><td>9 × 10-6</td><td>not derived</td><td>not derived</td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>(48)</td><td>Acetamiprid</td><td>Pesticides – neonicotinoid</td><td>135410-20-7 / 160430-64-8</td><td>603-921-1</td><td>0,037 </td><td>0,0037 </td><td>0,16 </td><td>0,016 </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>(49)</td><td>Azithromycin</td><td>Pharmaceuticals – macrolide antibiotic</td><td>83905-01-5</td><td>617-500-5</td><td>0,019 </td><td>0,0019 </td><td>0,18 </td><td>0,018 </td><td>  </td><td>  </td><td>  </td><td>X</td></tr>
+<tr><td>(50)</td><td>Bifenthrin</td><td>Pesticides – pyrethroid</td><td>82657-04-3</td><td>617-373-6</td><td>9,5 × 10-5</td><td>9,5 × 10-6</td><td>0,011 </td><td>0,001 </td><td>  </td><td>  </td><td>  </td><td>X</td></tr>
+<tr><td>(51)</td><td>Bisphenol-A (BPA)</td><td>Industrial substances</td><td>80-05-7</td><td>201-245-8</td><td>1,7 x 10-4</td><td>1,7 x 10-4</td><td>130</td><td>51</td><td>0,025 </td><td>X</td><td>  </td><td>  </td></tr>
+<tr><td>(52)</td><td>Carbamazepine</td><td>Pharmaceuticals – anticonvulsant</td><td>298-46-4</td><td>206-062-7</td><td>2,5 </td><td>0,25 </td><td>1,6 × 103</td><td>160</td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>(53)</td><td>Clarithromycin</td><td>Pharmaceuticals – macrolide antibiotic</td><td>81103-11-9</td><td>658-034-2</td><td>0,13 </td><td>0,013 </td><td>0,13 </td><td>0,013 </td><td>  </td><td>  </td><td>  </td><td>X</td></tr>
+<tr><td>(54)</td><td>Clothianidin</td><td>Pesticides -neonicotinoid</td><td>210880-92-5</td><td>433-460-1</td><td>0,01 </td><td>0,001 </td><td>0,34 </td><td>0,034 </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>(55)</td><td>Deltamethrin</td><td>Pesticides – pyrethroid</td><td>52918-63-5</td><td>258-256-6</td><td>1,7 × 10-6</td><td>1,7 × 10-7</td><td>1,7 × 10-5</td><td>3,4 × 10-6</td><td>  </td><td>  </td><td>  </td><td>X</td></tr>
+<tr><td>(56)</td><td>Diclofenac</td><td>Pharmaceuticals – anti-inflammatory</td><td>15307-86-5 / 15307-79-6</td><td>239-348-5 / 239-346-4</td><td>0,04 </td><td>0,004 </td><td>250</td><td>25</td><td>  </td><td>  </td><td>  </td><td>X</td></tr>
+<tr><td>(57)</td><td>Erythromycin</td><td>Pharmaceuticals – macrolide antibiotic</td><td>114-07-8</td><td>204-040-1</td><td>0,5 </td><td>0,05 </td><td>1</td><td>0,1 </td><td>  </td><td>  </td><td>  </td><td>X</td></tr>
+<tr><td>(58)</td><td>Esfenvalerate</td><td>Pesticides – pyrethroid</td><td>66230-04-4</td><td>613-911-9</td><td>1,7 × 10-5</td><td>1,7 × 10-6</td><td>0,0085 </td><td>0,00085 </td><td>  </td><td>  </td><td>  </td><td>X</td></tr>
+<tr><td>(59)</td><td>Estrone (E1)</td><td>Pharmaceuticals – estrogenic hormone</td><td>53-16-7</td><td>200-164-5</td><td>3,6 × 10-4</td><td>1,8 × 10-5</td><td>not derived</td><td>not derived</td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>(60)</td><td>Glyphosate</td><td>Pesticides – herbicide</td><td>1071-83-6</td><td>213-997-4</td><td>0,1 (24) 86,7 (25) </td><td>8,67 </td><td>not applicable (24) 398,6 (25) </td><td>39,86 </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>(61)</td><td>Ibuprofen</td><td>Pharmaceuticals – anti-inflammatory</td><td>15687-27-1</td><td>239-784-6</td><td>0,14 </td><td>0,014 </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>X</td></tr>
+<tr><td>(62)</td><td>Imidacloprid</td><td>Pesticides – neonicotinoid</td><td>138261-41-3 / 105827-78-9</td><td>428-040-8</td><td>0,0068 </td><td>6,8 × 10-4</td><td>0,057 </td><td>0,0057 </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>(63)</td><td>Nicosulfuron</td><td>Pesticides – herbicide</td><td>111991-09-4</td><td>601-148-4</td><td>0,0087 </td><td>8,7 × 10-4</td><td>0,23 </td><td>0,023 </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>(64)</td><td>Permethrin</td><td>Pesticides – pyrethroid</td><td>52645-53-1</td><td>258-067-9</td><td>2,7 × 10-4</td><td>2,7 × 10-5</td><td>0,0025 </td><td>2,5 × 10-4</td><td>  </td><td>  </td><td>  </td><td>X</td></tr>
+<tr><td>(65)</td><td>Per- and polyfluoroalkyl substances (PFAS) – sum of 25 (26)(29)</td><td>Industrial substances</td><td>not applicable</td><td>not applicable</td><td>Sum of PFOA equivalents 0,0044 (27)</td><td>Sum of PFOA equivalents 0,0044 (27)</td><td>not applicable</td><td>not applicable</td><td>Sum of PFOA equivalents 0,077 (27)</td><td>X</td><td>X</td><td>X</td></tr>
+<tr><td>(66)</td><td>Silver</td><td>Metals</td><td>7440-22-4</td><td>231-131-3</td><td>0,01 </td><td>0,006 (10‰ salinity) 0,17 (30‰ salinity) </td><td>0,022 </td><td>not derived</td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>(67)</td><td>Thiacloprid</td><td>Pesticides – neonicotinoid</td><td>111988-49-9</td><td>601-147-9</td><td>0,01 </td><td>0,001 </td><td>0,05 </td><td>0,005 </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>(68)</td><td>Thiamethoxam</td><td>Pesticides – neonicotinoid</td><td>153719-23-4</td><td>428-650-4</td><td>0,04 </td><td>0,004 </td><td>0,77 </td><td>0,077 </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>(69)</td><td>Triclosan</td><td>Pesticides – biocides</td><td>3380-34-5</td><td>222-182-2</td><td>0,02 </td><td>0,002 </td><td>0,02 </td><td>0,002 </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>(70)</td><td>Sum of active substances in the pesticides (28) listed in this table (29)(30)</td><td>Pesticides</td><td>not applicable</td><td>not applicable</td><td>0,2 (30)</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td colspan="13">(1)  CAS: Chemical Abstracts Service.  (2)  EU number: European Inventory of Existing Commercial Substances (EINECS) or European List of Notified Chemical Substances (ELINCS).  (3)  This parameter is the EQS expressed as an annual average value (AA-EQS). Unless otherwise specified, it applies to the total concentration of all substances and isomers.  (4)  Inland surface waters encompass rivers and lakes and related artificial or heavily modified water bodies.  (5)  This parameter is the EQS expressed as a maximum allowable concentration (MAC EQS). Unless otherwise specified, it applies to the total concentration of all substances and isomers. Where the MAC EQS are marked as ‘not applicable’, the AA EQS values are considered protective against short-term pollution peaks in continuous discharges since they are significantly lower than the values derived on the basis of acute toxicity.  (6)  If an EQS for biota or sediment is given, it, rather than the water EQS, shall be applied, without prejudice to Article 3(3) of this Directive allowing an alternative biota taxon, or another matrix, to be monitored instead, as long as the EQS applied provides an equivalent level of protection. Unless otherwise specified, it applies to the total concentration of all substances and isomers. Unless otherwise indicated, the biota EQS relate to fish. ‘fw fish’ indicates the biota EQS for freshwater fish monitored in inland waters; ‘sw fish’ indicates the biota EQS for saltwater fish monitored in other surface waters. For substances numbered 15 (Fluoranthene), 28 (PAHs), and 51 (Bisphenol-A) the biota EQS refers to crustaceans and molluscs. For the purpose of assessing chemical status, monitoring of Fluoranthene PAHs, and Bisphenol-A in fish is not appropriate. For substance number 37 (Dioxins and dioxin-like compounds), the biota EQS relates to fish, crustaceans and molluscs, in line with point 4.1.5 of Annex I to Commission Regulation (EU) 2023/915 (*).  (7)  For the group of priority substances covered by brominated diphenylethers (No 5), the EQS refer to the sum of the concentrations of congener numbers 28, 47, 99, 100, 153 and 154.  (8)  Tetra, Penta, Hexa, Hepta, Octa and Decabromodiphenylether (CAS numbers 40088-47-9, 32534-81-9, 36483-60-0, 68928-80-3, 32536-52-0, 1163-19-5, respectively).  (9)  For Cadmium and its compounds (No 6) the EQS values vary depending on the hardness of the water as specified in five class categories (Class 1: &lt; 40 mg CaCO3/l, Class 2: 40 to &lt; 50 mg CaCO3/l, Class 3: 50 to &lt; 100 mg CaCO3/l, Class 4: 100 to &lt; 200 mg CaCO3/l and Class 5: ≥ 200 mg CaCO3/l).  (10)  No indicative parameter is provided for this group of substances. The indicative parameter(s) shall be defined through the analytical method.  (11)  DDT total comprises the sum of the isomers 1,1,1 trichloro 2,2 bis (p chlorophenyl) ethane (CAS 50 29 3, EU 200 024 3); 1,1,1 trichloro 2 (o chlorophenyl) 2 (p chlorophenyl) ethane (CAS 789 02 6, EU 212 332 5); 1,1-dichloro 2,2 bis (p chlorophenyl) ethylene (CAS 72 55 9, EU 200 784 6); and 1,1 dichloro 2,2 bis (p chlorophenyl) ethane (CAS 72 54 8, EU 200 783 0).  (12)  These EQS refer to bioavailable concentrations of the substances.  (13)  Nonylphenol (CAS 25154-52-3, EU 246-672-0) including isomers 4-nonylphenol (CAS 104-40-5, EU 203-199-4) and 4-nonylphenol (branched) (CAS 84852-15-3, EU 284-325-5).  (14)  Octylphenol (CAS 1806-26-4, EU 217-302-5) including isomer 4-(1,1’,3,3’-tetramethylbutyl)-phenol (CAS 140-66-9, EU 205-426-2).  (15)  Benzo(a)pyrene (CAS 50-32-8) (RPF 1), benzo(b)fluoranthene (CAS 205-99-2) (RPF 0,1 ), benzo(k)fluoranthene (CAS 207-08-9) (RPF 0,1 ), benzo(g,h,i)perylene (CAS 191-24-2) (RPF 0), indeno(1,2,3-cd)pyrene (CAS 193-39-5) (RPF 0,1 ), chrysene (CAS 218-01-9) (RPF 0,01 ), benzo(a)anthracene (CAS 56-55-3) (RPF 0,1 ), dibenz(a,h)anthracene (CAS 53-70-3) (RPF 1) and fluoranthene (CAS 206-44-0) (RPF 0,01 ). Fluoranthene also appears separately in row 15. The PAHs anthracene and naphthalene are listed only separately because no RPF is available.  (16)  For the group of polyaromatic hydrocarbons (PAHs) (No 28), the biota EQS refers to the sum of the concentrations of eight of the nine PAHs listed in footnote 15 expressed as benzo(a)pyrene equivalents based on the carcinogenic potencies of the substances relative to that of benzo(a)pyrene, i.e. the RPFs in footnote 15. Benzo(g,h,i)perylene does not need to be measured in biota for the purposes of determining compliance with the overall biota EQS. The biota EQS for fluoranthene in row 15 must also be complied with.  (17)  Tributyltin compounds including tributyltin-cation (CAS 36643-28-4).  (18)  Sediment EQS.  (19)  There is insufficient information available to set a MAC-EQS for these substances.  (20)  This refers to the following compounds: <br> 7 polychlorinated dibenzo-p-dioxins (PCDDs): 2,3,7,8-T4CDD (CAS 1746-01-6, EU 217-122-7), 1,2,3,7,8-P5CDD (CAS 40321-76-4), 1,2,3,4,7,8-H6CDD (CAS 39227-28-6), 1,2,3,6,7,8-H6CDD (CAS 57653-85-7), 1,2,3,7,8,9-H6CDD (CAS 19408-74-3), 1,2,3,4,6,7,8-H7CDD (CAS 35822-46-9), 1,2,3,4,6,7,8,9-O8CDD (CAS 3268-87-9) <br> 10 polychlorinated dibenzofurans (PCDFs): 2,3,7,8-T4CDF (CAS 51207-31-9), 1,2,3,7,8-P5CDF (CAS 57117-41-6), 2,3,4,7,8-P5CDF (CAS 57117-31-4), 1,2,3,4,7,8-H6CDF (CAS 70648-26-9), 1,2,3,6,7,8-H6CDF (CAS 57117-44-9), 1,2,3,7,8,9-H6CDF (CAS 72918-21-9), 2,3,4,6,7,8-H6CDF (CAS 60851-34-5), 1,2,3,4,6,7,8-H7CDF (CAS 67562-39-4), 1,2,3,4,7,8,9-H7CDF (CAS 55673-89-7), 1,2,3,4,6,7,8,9-O8CDF (CAS 39001-02-0) <br> 12 dioxin-like polychlorinated biphenyls (PCB-DLs): 3,3’,4,4’-T4CB (PCB 77, CAS 32598-13-3), 3,3’,4’,5-T4CB (PCB 81, CAS 70362-50-4), 2,3,3’,4,4’-P5CB (PCB 105, CAS 32598-14-4), 2,3,4,4’,5-P5CB (PCB 114, CAS 74472-37-0), 2,3’,4,4’,5-P5CB (PCB 118, CAS 31508-00-6), 2,3’,4,4’,5’-P5CB (PCB 123, CAS 65510-44-3), 3,3’,4,4’,5-P5CB (PCB 126, CAS 57465-28-8), 2,3,3’,4,4’,5-H6CB (PCB 156, CAS 38380-08-4), 2,3,3’,4,4’,5’-H6CB (PCB 157, CAS 69782-90-7), 2,3’,4,4’,5,5’-H6CB (PCB 167, CAS 52663-72-6), 3,3’,4,4’,5,5’-H6CB (PCB 169, CAS 32774-16-6), 2,3,3’,4,4’,5,5’-H7CB (PCB 189, CAS 39635-31-9).  (21)  For the group of Dioxins and dioxin-like compounds (No 37), the biota EQS refers to the sum of the concentrations of the substances listed in footnote 20 expressed as toxic equivalents based on the World Health Organisation 2005 Toxic Equivalence Factors.  (22)  CAS 52315-07-8 refers to an isomer mixture of cypermethrin, alpha-cypermethrin (CAS 67375-30-8, EU 257-842-9), beta-cypermethrin (CAS 65731-84-2, EU 265-898-0), theta-cypermethrin (CAS 71691-59-1) and zeta-cypermethrin (CAS 1315501-18-8, EU 257-842-9).  (23)  This refers to 1,3,5,7,9,11-Hexabromocyclododecane (CAS 25637-99-4, EU 247-148-4), 1,2,5,6,9,10-Hexabromocyclododecane (CAS 3194-55-6, EU 221-695-9), α-Hexabromocyclododecane (CAS 134237-50-6), β-Hexabromocyclododecane (CAS 134237-51-7) and γ-Hexabromocyclododecane (CAS 134237-52-8).  (24)  For freshwater used for the abstraction and preparation of drinking water.  (25)  For freshwater not used for the abstraction and preparation of drinking water.  (26)  This refers to the following compounds, listed with their CAS number, EU number and Relative Potency Factor (RPF): <br> Perfluorooctanoic acid (PFOA) (CAS 335-67-1, EU 206-397-9) (RPF 1), Perfluorooctane sulfonic acid (PFOS) (CAS 1763-23-1, EU 217-179-8) (RPF 2), Perfluorohexane sulfonic acid (PFHxS) (CAS 355-46-4, EU 206-587-1) (RPF 0,6 ), Perfluorononanoic acid (PFNA) (CAS 375-95-1, EU 206-801-3) (RPF 10), Perfluorobutane sulfonic acid (PFBS) (CAS 375-73-5, EU 206-793-1) (RPF 0,001 ), Perfluorohexanoic acid (PFHxA) (CAS 307-24-4, EU 206-196-6) (RPF 0,01 ), Perfluorobutanoic acid (PFBA) (CAS 375-22-4, EU 206-786-3) (RPF 0,05 ), Perfluoropentanoic acid (PFPeA) (CAS 2706-90-3, EU 220-300-7) (RPF 0,03 ), Perfluoropentane sulfonic acid (PFPeS) (CAS 2706-91-4, EU 220-301-2) (RPF 0,3005 ), Perfluorodecanoic acid (PFDA) (CAS 335-76-2, EU 206-400-3) (RPF 7), Perfluorododecanoic acid (PFDoDA or PFDoA) (CAS 307-55-1, EU 206-203-2) (RPF 3), Perfluoroundecanoic acid (PFUnDA or PFUnA) (CAS 2058-94-8, EU 218-165-4) (RPF 4), Perfluoroheptanoic acid (PFHpA) (CAS 375-85-9, EU 206-798-9) (RPF 0,505 ), Perfluorotridecanoic acid (PFTrDA) (CAS 72629-94-8, EU 276-745-2) (RPF 1,65 ), Perfluoroheptane sulfonic acid (PFHpS) (CAS 375-92-8, EU 206-800-8) (RPF 1,3 ), Perfluorodecane sulfonic acid (PFDS) (CAS 335-77-3, EU 206-401-9) (RPF 2), Perfluorotetradecanoic acid (PFTeDA) (CAS 376-06-7, EU 206-803-4) (RPF 0,3 ), Perfluorohexadecanoic acid (PFHxDA) (CAS 67905-19-5, EU 267-638-1) (RPF 0,02 ), Perfluorooctadecanoic acid (PFODA) (CAS 16517-11-6, EU 240-582-5) (RPF 0,02 ), 2,3,3,3-tetrafluoro-2-(heptafluoropropoxy)propionic acid (HFPO-DA) (CAS 13252-13-6) (RPF 0,06 ), 2,2,3-trifluoro-3-(1,1,2,2,3,3-hexafluoro-3-(trifluoromethoxy)propoxy)propanoic acid (CAS 919005-14-4) (RPF 0,03 ), 2- (Perfluorohexyl)ethyl alcohol (6:2 FTOH) (CAS 647-42-7, EU 211-477-1) (RPF 0,02 ), 2-(Perfluorooctyl)ethanol (8:2 FTOH) (CAS 678-39-7, EU 211-648-0) (RPF 0,04 ) and 2,2-difluoro-2-((2,2,4,5-tetrafluoro-5-(trifluoromethoxy)-1,3-dioxolan-4-yl)oxy) acetic acid (C6O4) (CAS 1190931-41-9) (RPF 0,06 ), Trifluoroacetic acid (TFA) (CAS 76-05-1, EU 200-929-3) (RPF 0,002 ).  (27)  For the group of PFAS (No 65), the EQS refer to the sum of the concentrations of the 25 PFAS listed in footnote 26 expressed as PFOA-equivalents based on the potencies of the substances relative to that of PFOA, i.e. the RPFs in footnote 26. The critical EQS is the biota EQS (relating to fish consumption) and must therefore be complied with. The AA-EQS are not equivalently protective.  (28)  ‘Pesticides’ means plant protection products as referred to in Article 2 of Regulation (EC) No 1107/2009 and biocidal products as defined in Article 3 of Regulation (EU) No 528/2012.  (29)  The minimum performance criteria laid down in Directive 2009/90/EC apply to each individual substance within the group of substances but taking account of the need to quantify the contribution of each substance to the total concentration for comparison with the EQS.  (30)  With the following exceptions: the four pesticides to be monitored in biota or sediment, i.e. the substances numbered 16, 30, 34 and 44, and glyphosate.  (*) Commission Regulation (EU) 2023/915 of 25 April 2023 on maximum levels for certain contaminants in food and repealing Regulation (EC) No 1881/2006 (OJ L 119, 5.5.2023, p. 103, ELI: http://data.europa.eu/eli/reg/2023/915/oj). </td></tr>
+</tbody>
+
+**PART B: APPLICATION OF THE EQS SET OUT IN PART A**
+
+1\. For any given surface water body, applying the AA-EQS means that, for each representative monitoring point within the water body, the arithmetic mean of the concentrations measured at different times during the year does not exceed the standard.
+
+The calculation of the arithmetic mean, the analytical method used and, where there is no appropriate analytical method meeting the minimum performance criteria, the method of applying an EQS must be in accordance with implementing acts adopting technical specifications for chemical monitoring and quality of analytical results, in accordance with Directive 2000/60/EC.
+
+2\. For any given surface water body, applying the MAC-EQS means that the measured concentration at any representative monitoring point within the water body does not exceed the standard.
+
+However, in accordance with Section 1.3.4 of Annex V to Directive 2000/60/EC, Member States may introduce statistical methods, such as a percentile calculation, to ensure an acceptable level of confidence and precision for determining compliance with the MAC-EQS. Where Member States do so, such statistical methods shall comply with detailed rules laid down in accordance with the examination procedure referred to in Article 9(2) of this Directive.
+
+3\. The water EQS laid down in this Annex are expressed as total concentrations in the whole water sample.
+
+By way of derogation from the first subparagraph, in the case of cadmium, lead, mercury and nickel (hereinafter ‘metals’), the water EQS refer to the dissolved concentration, i.e. the dissolved phase of a water sample obtained by filtration through a 0,45 μm filter or any equivalent pre-treatment, or, where specifically indicated, to the bioavailable concentration.
+
+Member States may, when assessing the monitoring results against the relevant EQS, take into account:
+
+(a) natural background concentrations for metals and their compounds where such concentrations prevent compliance with the relevant EQS;
+
+(b) hardness, pH, dissolved organic carbon or other water quality parameters that affect the bioavailability of metals, the bioavailable concentrations being determined using appropriate bioavailability modelling.
+
+## ANNEX II — ENVIRONMENTAL QUALITY STANDARDS FOR RIVER BASIN SPECIFIC POLLUTANTS
+
+**PART A: INDICATIVE LIST OF CATEGORIES OF RIVER BASIN SPECIFIC POLLUTANTS**
+
+1\. Organohalogen compounds and substances which may form such compounds in the aquatic environment.
+
+2\. Organophosphorous compounds.
+
+3\. Organotin compounds.
+
+4\. Substances and preparations, or the breakdown products of such, which have been proved to possess carcinogenic or mutagenic properties or properties which may affect steroidogenic, thyroid, reproduction or other endocrine-related functions in or via the aquatic environment.
+
+5\. Persistent hydrocarbons and persistent and bioaccumulable organic toxic substances.
+
+6\. Cyanides.
+
+7\. Metals and their compounds.
+
+8\. Arsenic and its compounds.
+
+9\. Biocides and plant protection products.
+
+10\. Materials in suspension, including micro/nanoplastics
+
+11\. Microorganisms, genes or genetic material reflecting the presence of microorganisms resistant to antimicrobial agents, in particular microorganisms pathogenic to humans or livestock.
+
+**PART B: THE PROCEDURE FOR DERIVING ENVIRONMENTAL QUALITY STANDARDS FOR RIVER BASIN SPECIFIC POLLUTANTS**
+
+Methods used for the establishment of EQS for river basin specific pollutants shall include the following steps:
+
+(a) identification of the receptors and compartments or matrices at risk from the substance of concern;
+
+(b) collation and quality assessment of data on the properties of the substance of concern, including its (eco)toxicity, in particular from reports on laboratory, mesocosm and field studies which cover both chronic and acute effects in both fresh and saltwater environments;
+
+(c) extrapolation of (eco)toxicity data to no-effect or similar concentrations using deterministic or probabilistic methods, and selection and application of appropriate assessment factors to address uncertainties and derive EQS;
+
+(d) comparison of EQS for different receptors and compartments, and selection of critical EQS, i.e. the EQS that provides protection to the most sensitive receptor in the most relevant compartment or matrix.
+
+**PART C: REPOSITORY OF HARMONISED ENVIRONMENTAL QUALITY STANDARDS FOR RIVER BASIN SPECIFIC POLLUTANTS**
+
+<tbody><tr><td>Entry No</td><td>Name of substance</td><td>Category of substances</td><td>CAS number (1)</td><td>EU number (2)</td><td>AA-EQS (3) Inland surface waters (4)  [μg/l] </td><td>AA-EQS (3) Other surface waters  [μg/l] </td><td>MAC-EQS (5) Inland surface waters (4)  [μg/l] </td><td>MAC-EQS (5) Other surface waters  [μg/l] </td><td>EQS Biota (6)  [μg/kg wet weight] or EQS Sediment where so indicated [μg /kg dry weight] </td></tr>
+<tr><td>1</td><td>Alachlor (7)</td><td>Pesticides</td><td>15972-60-8</td><td>240-110-8</td><td>0,3 </td><td>0,3 </td><td>0,7 </td><td>0,7 </td><td>  </td></tr>
+<tr><td>2</td><td>Carbon tetrachloride (7)</td><td>Industrial substances</td><td>56-23-5</td><td>200-262-8</td><td>12</td><td>12</td><td>not applicable</td><td>not applicable</td><td>  </td></tr>
+<tr><td>3</td><td>Chlorfenvinphos (7)</td><td>Pesticides</td><td>470-90-6</td><td>207-432-0</td><td>0,1 </td><td>0,1 </td><td>0,3 </td><td>0,3 </td><td>  </td></tr>
+<tr><td>4</td><td>Simazine (7)</td><td>Pesticides</td><td>122-34-9</td><td>204-535-2</td><td>1</td><td>1</td><td>4</td><td>4</td><td>  </td></tr>
+<tr><td>5</td><td>Trichlorobenzenes (7)</td><td>Industrial substances – solvent</td><td>12002-48-1</td><td>234-413-4</td><td>0,4 </td><td>0,4 </td><td>not applicable</td><td>not applicable</td><td>  </td></tr>
+<tr><td>6</td><td>Atrazine (7)</td><td>Pesticides – herbicides</td><td>1912-24-9</td><td>217-617-8</td><td>0,6 </td><td>0,6 </td><td>2,0 </td><td>2,0 </td><td>  </td></tr>
+<tr><td colspan="10">(1)  CAS: Chemical Abstracts Service.  (2)  EU number: European Inventory of Existing Commercial Substances (EINECS) or European List of Notified Chemical Substances (ELINCS).  (3)  This parameter is the EQS expressed as an annual average value (AA-EQS). Unless otherwise specified, it applies to the total concentration of all substances and isomers.  (4)  Inland surface waters encompass rivers and lakes and related artificial or heavily modified water bodies.  (5)  This parameter is the EQS expressed as a maximum allowable concentration (MAC EQS). Where the MAC EQS are marked as ‘not applicable’, the AA EQS values are considered protective against short-term pollution peaks in continuous discharges since they are significantly lower than the values derived on the basis of acute toxicity.  (6)  If a biota EQS is given, it, rather than the water EQS, shall be applied, without prejudice to Article 3(3) of this Directive allowing an alternative biota taxon, or another matrix, to be monitored instead, as long as the EQS applied provides an equivalent level of protection. Unless otherwise indicated, the biota EQS relate to fish.  (7)  Substance previously listed as a priority substance in Annex X to Directive 2000/60/EC or Annex I to Directive 2008/105/EC. </td></tr>
+</tbody>
+
+## ANNEX III — SUBSTANCES SUBJECT TO REVIEW FOR POSSIBLE IDENTIFICATION AS PRIORITY SUBSTANCES
+
+<tbody><tr><td>Name of substance</td><td>CAS number (1)</td><td>EU number (2)</td></tr>
+<tr><td>Sum of Bisphenols</td><td>not applicable</td><td>not applicable</td></tr>
+<tr><td>Sum(s) of selected pesticides by mode of action</td><td>not applicable</td><td>not applicable</td></tr>
+<tr><td>Sum(s) of selected pharmaceuticals by mode of action</td><td>not applicable</td><td>not applicable</td></tr>
+<tr><td colspan="3">(1)  CAS: Chemical Abstracts Service.  (2)  EU number: European Inventory of Existing Commercial Substances (EINECS) or European List of Notified Chemical Substances (ELINCS). </td></tr>
+</tbody>
+
+( 1 ) OJ L 201, 1.8.2009, p. 36;
+
+( 2 ) OJ L 41, 14.2.2003, p. 26;
+
+( 3 ) Regulation (EU) 2024/1244 of the European Parliament and of the Council of 24 April 2024 on reporting of environmental data from industrial , establishing an Industrial Emissions Portal and repealing Regulation (EC) No 166/2006 (OJ L, 2024/1244, 2.5.2024, ELI: http://data.europa.eu/eli/reg/2024/1244/oj).
+
+( 4 ) Directive 2001/83/EC of the European Parliament and of the Council of 6 November 2001 on the Community code relating to medicinal products for human use (OJ L 311, 28.11.2001, p. 67, ELI: http://data.europa.eu/eli/dir/2001/83/oj).
+
+( 5 ) Regulation (EC) No 1907/2006 of the European Parliament and of the Council of 18 December 2006 concerning the Registration, Evaluation, Authorisation and Restriction of Chemicals (REACH), establishing a European Chemicals Agency, amending Directive 1999/45/EC and repealing Council Regulation (EEC) No 793/93 and Commission Regulation (EC) No 1488/94 as well as Council Directive 76/769/EEC and Commission Directives 91/155/EEC, 93/67/EEC, 93/105/EC and 2000/21/EC (OJ L 396, 30.12.2006, p. 1, ELI: http://data.europa.eu/eli/reg/2006/1907/oj).
+
+( 6 ) Regulation (EC) No 1107/2009 of the European Parliament and of the Council of 21 October 2009 concerning the placing of plant protection products on the market and repealing Council Directives 79/117/EEC and 91/414/EEC (OJ L 309, 24.11.2009, p. 1, ELI: http://data.europa.eu/eli/reg/2009/1107/oj).
+
+( 7 ) Directive 2009/128/EC of the European Parliament and of the Council of 21 October 2009 establishing a framework for Community action to achieve the sustainable use of pesticides, (OJ L 309, 24.11.2009, p. 71, ELI: http://data.europa.eu/eli/dir/2009/128/oj).
+
+( 8 ) Directive 2010/75/EU of the European Parliament and of the Council of 24 November 2010 on industrial and livestock rearing emissions (integrated pollution prevention and control) (OJ L 334, 17.12.2010, p. 17, ELI: http://data.europa.eu/eli/dir/2010/75/oj).
+
+( 9 ) Regulation (EU) No 528/2012 of the European Parliament and of the Council of 22 May 2012 concerning the making available on the market and use of biocidal products (OJ L 167, 27.6.2012, p. 1, ELI: http://data.europa.eu/eli/reg/2012/528/oj).
+
+( 10 ) Regulation (EU) 2019/6 of the European Parliament and of the Council of 11 December 2018 on veterinary medicinal products and repealing Directive 2001/82/EC (OJ L 4, 7.1.2019, p. 43, ELI: http://data.europa.eu/eli/reg/2019/6/oj).
+
+( 11 ) Directive 2006/118/EC of the European Parliament and of the Council of 12 December 2006 on the prevention and control of groundwater pollution (OJ L 372, 27.12.2006, p. 19, ELI: http://data.europa.eu/eli/dir/2006/118/oj).
+
+( 12 ) Regulation (EC) No 1272/2008 of the European Parliament and of the Council of 16 December 2008 on classification, labelling and packaging of substances and mixtures, amending and repealing Directives 67/548/EEC and 1999/45/EC, and amending Regulation (EC) No 1907/2006 (OJ L 353, 31.12.2008, p. 1, ELI: http://data.europa.eu/eli/reg/2008/1272/oj).
+
+( 13 ) Regulation (EU) 2022/2379 of the European Parliament and of the Council of 23 November 2022 on statistics on agricultural input and output, amending Commission Regulation (EC) No 617/2008 and repealing Regulations (EC) No 1165/2008, (EC) No 543/2009 and (EC) No 1185/2009 of the European Parliament and of the Council and Council Directive 96/16/EC (OJ L 315, 7.12.2022, p. 1, ELI: http://data.europa.eu/eli/reg/2022/2379/oj).
+
+( 14 ) Commission Directive 2009/90/EC of 31 July 2009 laying down, pursuant to Directive 2000/60/EC of the European Parliament and of the Council, technical specifications for chemical analysis and monitoring of water status (OJ L 201, 1.8.2009, p. 36, ELI: http://data.europa.eu/eli/dir/2009/90/oj).
+
+( 15 ) OJ L 55, 28.2.2011, p. 13;

@@ -1,0 +1,745 @@
+---
+title: "Directive 2002/46/EC of the European Parliament and of the Council of 10 June 2002 on the approximation of the laws of the Member States relating to food supplements (Text with EEA relevance)"
+identifier: "32002L0046"
+eli: "http://data.europa.eu/eli/dir/2002/46/oj"
+type: directive
+jurisdiction: eu
+language: en
+date: 2002-06-10
+entry_into_force: 2002-03-09
+last_amended: 2025-11-26
+consolidated_version: "02002L0046-20251126"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02002L0046-20251126"
+retrieved: 2026-10-11
+---
+
+# Directive 2002/46/EC of the European Parliament and of the Council of 10 June 2002 on the approximation of the laws of the Member States relating to food supplements (Text with EEA relevance)
+
+**DIRECTIVE 2002/46/EC OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 10 June 2002**
+
+**on the approximation of the laws of the Member States relating to food supplements**
+
+**(Text with EEA relevance)**
+
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td> M1</td><td> COMMISSION DIRECTIVE 2006/37/EC of 30 March 2006 </td><td> L 94</td><td>32</td><td>1.4.2006</td></tr>
+<tr><td></td><td> REGULATION (EC) No 1137/2008 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 22 October 2008 </td><td> L 311</td><td>1</td><td>21.11.2008</td></tr>
+<tr><td></td><td> COMMISSION REGULATION (EC) No 1170/2009 of 30 November 2009 </td><td> L 314</td><td>36</td><td>1.12.2009</td></tr>
+<tr><td></td><td> COMMISSION REGULATION (EU) No 1161/2011 of 14 November 2011 </td><td> L 296</td><td>29</td><td>15.11.2011</td></tr>
+<tr><td></td><td> COMMISSION REGULATION (EU) No 119/2014 of 7 February 2014 </td><td> L 39</td><td>44</td><td>8.2.2014</td></tr>
+<tr><td></td><td> COMMISSION REGULATION (EU) 2015/414 of 12 March 2015 </td><td> L 68</td><td>26</td><td>13.3.2015</td></tr>
+<tr><td></td><td> COMMISSION REGULATION (EU) 2017/1203 of 5 July 2017 </td><td> L 173</td><td>9</td><td>6.7.2017</td></tr>
+<tr><td></td><td> COMMISSION REGULATION (EU) 2021/418 of 9 March 2021 </td><td> L 83</td><td>1</td><td>10.3.2021</td></tr>
+<tr><td></td><td> COMMISSION REGULATION (EU) 2024/248 of 16 January 2024 </td><td> L 248</td><td>1</td><td>17.1.2024</td></tr>
+<tr><td></td><td> COMMISSION REGULATION (EU) 2024/1821 of 25 June 2024 </td><td> L 1821</td><td>1</td><td>27.6.2024</td></tr>
+<tr><td></td><td> COMMISSION REGULATION (EU) 2025/352 of 21 February 2025 </td><td> L 352</td><td>1</td><td>24.2.2025</td></tr>
+<tr><td></td><td> COMMISSION REGULATION (EU) 2025/2224 of 5 November 2025 </td><td> L 2224</td><td>1</td><td>6.11.2025</td></tr>
+<tr><td></td><td> COMMISSION REGULATION (EU) 2025/2225 of 5 November 2025 </td><td> L 2225</td><td>1</td><td>6.11.2025</td></tr>
+
+**DIRECTIVE 2002/46/EC OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 10 June 2002**
+
+**on the approximation of the laws of the Member States relating to food supplements**
+
+**(Text with EEA relevance)**
+
+## Article 1
+
+1\. This Directive concerns food supplements marketed as foodstuffs and presented as such. These products shall be delivered to the ultimate consumer only in a pre-packaged form.
+
+2\. This Directive shall not apply to medicinal products as defined by Directive 2001/83/EC of the European Parliament and of the Council of 6 November 2001 on the Community code relating to medicinal products for human use ( 1 ).
+
+## Article 2
+
+For the purposes of this Directive:
+
+(a) ‘food supplements’ means foodstuffs the purpose of which is to supplement the normal diet and which are concentrated sources of nutrients or other substances with a nutritional or physiological effect, alone or in combination, marketed in dose form, namely forms such as capsules, pastilles, tablets, pills and other similar forms, sachets of powder, ampoules of liquids, drop dispensing bottles, and other similar forms of liquids and powders designed to be taken in measured small unit quantities;
+
+(b) ‘nutrients’ means the following substances:
+
+(i) vitamins,
+
+(ii) minerals.
+
+## Article 3
+
+Member States shall ensure that food supplements may be marketed within the Community only if they comply with the rules laid down in this Directive.
+
+## Article 4
+
+1\. Only vitamins and minerals listed in Annex I, in the forms listed in Annex II, may be used for the manufacture of food supplements, subject to paragraph 6.
+
+2\. The purity criteria for substances listed in Annex II to this Directive shall be adopted by the Commission, except where such criteria apply pursuant to paragraph 3. Those measures, designed to amend non-essential elements of this Directive by supplementing it, shall be adopted in accordance with the regulatory procedure with scrutiny referred to in Article 13(3).
+
+3\. Purity criteria for substances listed in Annex II, specified by Community legislation for their use in the manufacture of foodstuffs for purposes other than those covered by this Directive, shall apply.
+
+4\. For those substances listed in Annex II for which purity criteria are not specified by Community legislation, and until such specifications are adopted, generally acceptable purity criteria recommended by international bodies shall be applicable and national rules setting stricter purity criteria may be maintained.
+
+5\. Modifications to the lists referred to in paragraph 1, designed to amend non-essential elements of this Directive, shall be adopted in accordance with the regulatory procedure with scrutiny referred to in Article 13(3). On imperative grounds of urgency, the Commission may have recourse to the urgency procedure referred to in Article 13(4) in order to remove a vitamin or a mineral from the list referred to in paragraph 1 of this Article.
+
+6\. By way of derogation from paragraph 1 and until 31 December 2009, Member States may allow in their territory the use of vitamins and minerals not listed in Annex I, or in forms not listed in Annex II, provided that:
+
+(a) the substance in question is used in one or more food supplements marketed in the Community on the date of entry into force of this Directive,
+
+(b) the European Food Safety Authority has not given an unfavourable opinion in respect of the use of that substance, or its use in that form, in the manufacture of food supplements, on the basis of a dossier supporting use of the substance in question to be submitted to the Commission by the Member State not later than 12 July 2005.
+
+7\. Notwithstanding paragraph 6, Member States may, in compliance with the rules of the Treaty, continue to apply existing national restrictions or bans on trade in food supplements containing vitamins and minerals not included in the list in Annex I or in the forms not listed in Annex II.
+
+8\. Not later than 12 July 2007, the Commission shall submit to the European Parliament and the Council a report on the advisability of establishing specific rules, including, where appropriate, positive lists, on categories of nutrients or of substances with a nutritional or physiological effect other than those referred to in paragraph 1, accompanied by any proposals for amendment to this Directive which the Commission deems necessary.
+
+## Article 5
+
+1\. Maximum amounts of vitamins and minerals present in food supplements per daily portion of consumption as recommended by the manufacturer shall be set, taking the following into account:
+
+(a) upper safe levels of vitamins and minerals established by scientific risk assessment based on generally accepted scientific data, taking into account, as appropriate, the varying degrees of sensitivity of different consumer groups;
+
+(b) intake of vitamins and minerals from other dietary sources.
+
+2\. When the maximum levels referred to in paragraph 1 are set, due account should also be taken of reference intakes of vitamins and minerals for the population.
+
+3\. To ensure that significant amounts of vitamins and minerals are present in food supplements, minimum amounts per daily portion of consumption as recommended by the manufacturer shall be set, as appropriate.
+
+4\. The maximum and minimum amounts of vitamins and minerals referred to in paragraphs 1, 2 and 3 shall be adopted by the Commission. Those measures, designed to amend non-essential elements of this Directive by supplementing it, shall be adopted in accordance with the regulatory procedure with scrutiny referred to in Article 13(3).
+
+## Article 6
+
+1\. For the purposes of Article 5(1) of Directive 2000/13/EC, the name under which products covered by this Directive are sold shall be ‘food supplement’.
+
+2\. The labelling, presentation and advertising must not attribute to food supplements the property of preventing, treating or curing a human disease, or refer to such properties.
+
+3\. Without prejudice to Directive 2000/13/EC, the labelling shall bear the following particulars:
+
+(a) the names of the categories of nutrients or substances that characterise the product or an indication of the nature of those nutrients or substances;
+
+(b) the portion of the product recommended for daily consumption;
+
+(c) a warning not to exceed the stated recommended daily dose;
+
+(d) a statement to the effect that food supplements should not be used as a substitute for a varied diet;
+
+(e) a statement to the effect that the products should be stored out of the reach of young children.
+
+## Article 7
+
+The labelling, presentation and advertising of food supplements shall not include any mention stating or implying that a balanced and varied diet cannot provide appropriate quantities of nutrients in general.
+
+Rules for implementing this Article may be specified in accordance with the procedure referred to in Article 13(2).
+
+## Article 8
+
+1\. The amount of the nutrients or substances with a nutritional or physiological effect present in the product shall be declared on the labelling in numerical form. The units to be used for vitamins and minerals shall be those specified in Annex I.
+
+Rules for implementing this paragraph may be specified in accordance with the procedure referred to in Article 13(2).
+
+2\. The amounts of the nutrients or other substances declared shall be those per portion of the product as recommended for daily consumption on the labelling.
+
+3\. Information on vitamins and minerals shall also be expressed as a percentage of the reference values mentioned, as the case may be, in the Annex to Directive 90/496/EEC.
+
+## Article 9
+
+1\. The declared values mentioned in Article 8(1) and (2) shall be average values based on the manufacturer's analysis of the product.
+
+Further rules for implementing this paragraph with regard in particular to the differences between the declared values and those established in the course of official checks shall be decided upon in accordance with the procedure referred to in Article 13(2).
+
+2\. The percentage of the reference values for vitamins and minerals mentioned in Article 8(3) may also be given in graphical form.
+
+Rules for implementing this paragraph may be adopted in accordance with the procedure referred to in Article 13(2).
+
+## Article 10
+
+To facilitate efficient monitoring of food supplements, Member States may require the manufacturer or the person placing the product on the market in their territory to notify the competent authority of that placing on the market by forwarding it a model of the label used for the product.
+
+## Article 11
+
+1\. Without prejudice to Article 4(7), Member States shall not, for reasons related to their composition, manufacturing specifications, presentation or labelling, prohibit or restrict trade in products referred to in Article 1 which comply with this Directive and, where appropriate, with Community acts adopted in implementation of this Directive.
+
+2\. Without prejudice to the Treaty, in particular Articles 28 and 30 thereof, paragraph 1 shall not affect national provisions which are applicable in the absence of Community acts adopted under this Directive.
+
+## Article 12
+
+1\. Where a Member State, as a result of new information or of a reassessment of existing information made since this Directive or one of the implementing Community acts was adopted, has detailed grounds for establishing that a product referred to in Article 1 endangers human health though it complies with the said Directive or said acts, that Member State may temporarily suspend or restrict application of the provisions in question within its territory. It shall immediately inform the other Member States and the Commission thereof and give reasons for its decision.
+
+2\. The Commission shall examine as soon as possible the grounds adduced by the Member State concerned and shall consult the Member States within the Standing Committee on the Food Chain and Animal Health, and shall then deliver its opinion without delay and take appropriate measures.
+
+3\. In order to remedy the difficulties described in paragraph 1 and to ensure the protection of human health, adaptations of this Directive or of its implementing measures shall be adopted by the Commission. Those measures, designed to amend non-essential elements of this Directive, inter alia, by supplementing it, shall be adopted in accordance with the regulatory procedure with scrutiny referred to in Article 13(3). On imperative grounds of urgency, the Commission may have recourse to the urgency procedure referred to in Article 13(4) in order to adopt those adaptations. The Member State that has adopted safeguard measures may in that event retain such measures until the adoption of the adaptations.
+
+## Article 13
+
+1\. The Commission shall be assisted by the Standing Committee on the Food Chain and Animal Health instituted by Regulation (EC) No 178/2002 of the European Parliament and of the Council ( 2 )
+
+2\. Where reference is made to this paragraph, Articles 5 and 7 of Decision 1999/468/EC shall apply, having regard to the provisions of Article 8 thereof.
+
+The period provided for in Article 5(6) of Decision 1999/468/EC shall be set at three months.
+
+3\. Where reference is made to this paragraph, Article 5a(1) to (4) and Article 7 of Decision 1999/468/EC shall apply, having regard to the provisions of Article 8 thereof.
+
+4\. Where reference is made to this paragraph, Article 5a(1), (2), (4) and (6) and Article 7 of Decision 1999/468/EC shall apply, having regard to the provisions of Article 8 thereof.
+
+## Article 14
+
+Provisions that may have an effect upon public health shall be adopted after consultation with the European Food Safety Authority.
+
+## Article 15
+
+Member States shall bring into force the laws, regulations and administrative provisions necessary to comply with this Directive by 31 July 2003. They shall forthwith inform the Commission thereof.
+
+Those laws, regulations and administrative provisions shall be applied in such a way as to:
+
+(a) permit trade in products complying with this Directive, from 1 August 2003 at the latest;
+
+(b) prohibit trade in products which do not comply with the Directive, from 1 August 2005 at the latest.
+
+When Member States adopt these measures, they shall contain a reference to this Directive or be accompanied by such a reference on the occasion of their official publication. The methods of making such reference shall be adopted by the Member States.
+
+## Article 16
+
+This Directive shall enter into force on the day of its publication in the Official Journal of the European Communities.
+
+## Article 17
+
+This Directive is addressed to the Member States.
+
+## ANNEX I
+
+**Vitamins and minerals which may be used in the manufacture of food supplements**
+
+**1\. Vitamins**
+
+Vitamin A (μg RE)
+
+Vitamin D (μg)
+
+Vitamin E (mg a-TE)
+
+Vitamin K (μg)
+
+Vitamin B1 (mg)
+
+Vitamin B2 (mg)
+
+Niacin (mg NE)
+
+Pantothenic acid (mg)
+
+Vitamin B6 (mg)
+
+Folic acid (μg) ( 3 )
+
+Vitamin B12 (μg)
+
+Biotin (μg)
+
+Vitamin C (mg)
+
+**2\. Minerals**
+
+Calcium (mg)
+
+Magnesium (mg)
+
+Iron (mg)
+
+Copper (mg)
+
+Iodine (μg)
+
+Zinc (mg)
+
+Manganese (mg)
+
+Sodium (mg)
+
+Potassium (mg)
+
+Selenium (μg)
+
+Chromium (μg)
+
+Molybdenum (μg)
+
+Fluoride (mg)
+
+Chloride (mg)
+
+Phosphorus (mg)
+
+Boron (mg)
+
+Silicon (mg)
+
+## ANNEX II
+
+**Vitamin and mineral substances which may be used in the manufacture of food supplements**
+
+**A. Vitamins**
+
+**1\. VITAMIN A**
+
+(a) retinol
+
+(b) retinyl acetate
+
+(c) retinyl palmitate
+
+(d) beta-carotene
+
+**2\. VITAMIN D**
+
+(a) cholecalciferol
+
+(b) ergocalciferol
+
+(c) calcidiol monohydrate ( 4 )
+
+**3\. VITAMIN E**
+
+(a) D-alpha-tocopherol
+
+(b) DL-alpha-tocopherol
+
+(c) D-alpha-tocopheryl acetate
+
+(d) DL-alpha-tocopheryl acetate
+
+(e) D-alpha-tocopheryl acid succinate
+
+(f) mixed tocopherols ( 5 )
+
+(g) tocotrienol tocopherol ( 6 )
+
+**4\. VITAMIN K**
+
+(a) phylloquinone (phytomenadione)
+
+(b) menaquinone ( 7 )
+
+**5\. VITAMIN B1**
+
+(a) thiamin hydrochloride
+
+(b) thiamin mononitrate
+
+(c) thiamine monophosphate chloride
+
+(d) thiamine pyrophosphate chloride
+
+**6\. VITAMIN B2**
+
+(a) riboflavin
+
+(b) riboflavin 5′-phosphate, sodium
+
+**7\. NIACIN**
+
+(a) nicotinic acid
+
+(b) nicotinamide
+
+(c) inositol hexanicotinate (inositol hexaniacinate)
+
+(d) nicotinamide riboside chloride
+
+**8\. PANTOTHENIC ACID**
+
+(a) D-pantothenate, calcium
+
+(b) D-pantothenate, sodium
+
+(c) dexpanthenol
+
+(d) pantethine
+
+**9\. VITAMIN B6**
+
+(a) pyridoxine hydrochloride
+
+(b) pyridoxine 5′-phosphate
+
+(c) pyridoxal 5′-phosphate
+
+**10\. FOLATE**
+
+(a) pteroylmonoglutamic acid
+
+(b) calcium-L-methylfolate
+
+(c) (6S)-5-methyltetrahydrofolic acid, glucosamine salt
+
+(d) monosodium salt of L-5-methyltetrahydrofolic acid ( 8 )
+
+**11\. VITAMIN B12**
+
+(a) cyanocobalamin
+
+(b) hydroxocobalamin
+
+(c) 5′-deoxyadenosylcobalamin
+
+(d) methylcobalamin
+
+**12\. BIOTIN**
+
+(a) D-biotin
+
+**13\. VITAMIN C**
+
+(a) L-ascorbic acid
+
+(b) sodium-L-ascorbate
+
+(c) calcium-L-ascorbate ( 9 )
+
+(d) potassium-L-ascorbate
+
+(e) L-ascorbyl 6-palmitate
+
+(f) magnesium L-ascorbate
+
+(g) zinc L-ascorbate
+
+**B. Minerals**
+
+calcium acetate
+
+calcium L-ascorbate
+
+calcium bisglycinate
+
+calcium carbonate
+
+calcium chloride
+
+calcium citrate malate
+
+calcium salts of citric acid
+
+calcium gluconate
+
+calcium glycerophosphate
+
+calcium lactate
+
+calcium pyruvate
+
+calcium salts of orthophosphoric acid
+
+calcium succinate
+
+calcium hydroxide
+
+calcium L-lysinate
+
+calcium malate
+
+calcium oxide
+
+calcium L-pidolate
+
+calcium L-threonate
+
+calcium sulphate
+
+calcium phosphoryl oligosaccharides
+
+magnesium acetate
+
+magnesium L-ascorbate
+
+magnesium bisglycinate
+
+magnesium carbonate
+
+magnesium chloride
+
+magnesium citrate malate
+
+magnesium salts of citric acid
+
+magnesium gluconate
+
+magnesium glycerophosphate
+
+magnesium salts of orthophosphoric acid
+
+magnesium lactate
+
+magnesium L-lysinate
+
+magnesium hydroxide
+
+magnesium malate
+
+magnesium oxide
+
+magnesium L-pidolate
+
+magnesium potassium citrate
+
+magnesium pyruvate
+
+magnesium succinate
+
+magnesium sulphate
+
+magnesium taurate
+
+magnesium acetyl taurate
+
+magnesium L-threonate ( 10 )
+
+ferrous carbonate
+
+ferrous citrate
+
+ferric ammonium citrate
+
+ferrous gluconate
+
+ferrous fumarate
+
+ferric sodium diphosphate
+
+ferrous lactate
+
+ferrous sulphate
+
+ferric diphosphate (ferric pyrophosphate)
+
+ferric saccharate
+
+elemental iron (carbonyl + electrolytic + hydrogen reduced)
+
+ferrous bisglycinate
+
+ferrous L-pidolate
+
+ferrous phosphate
+
+ferrous ammonium phosphate
+
+ferric sodium EDTA
+
+iron hydroxide adipate tartrate (nano) ( 11 )
+
+iron milk caseinate ( 12 )
+
+iron (II) taurate
+
+cupric carbonate
+
+cupric citrate
+
+cupric gluconate
+
+cupric sulphate
+
+copper L-aspartate
+
+copper bisglycinate
+
+copper lysine complex
+
+copper (II) oxide
+
+sodium iodide
+
+sodium iodate
+
+potassium iodide
+
+potassium iodate
+
+zinc acetate
+
+zinc L-ascorbate
+
+zinc L-aspartate
+
+zinc bisglycinate
+
+zinc chloride
+
+zinc citrate
+
+zinc gluconate
+
+zinc lactate
+
+zinc L-lysinate
+
+zinc malate
+
+zinc mono-L-methionine sulphate
+
+zinc oxide
+
+zinc carbonate
+
+zinc L-pidolate
+
+zinc picolinate
+
+zinc sulphate
+
+manganese ascorbate
+
+manganese L-aspartate
+
+manganese bisglycinate
+
+manganese carbonate
+
+manganese chloride
+
+manganese citrate
+
+manganese gluconate
+
+manganese glycerophosphate
+
+manganese pidolate
+
+manganese sulphate
+
+sodium bicarbonate
+
+sodium carbonate
+
+sodium chloride
+
+sodium citrate
+
+sodium gluconate
+
+sodium lactate
+
+sodium hydroxide
+
+sodium salts of orthophosphoric acid
+
+sodium sulphate
+
+potassium sulphate
+
+potassium bicarbonate
+
+potassium carbonate
+
+potassium chloride
+
+potassium citrate
+
+potassium gluconate
+
+potassium glycerophosphate
+
+potassium lactate
+
+potassium hydroxide
+
+potassium L-pidolate
+
+potassium malate
+
+potassium salts of orthophosphoric acid
+
+L-selenomethionine
+
+selenium enriched yeast ( 13 )
+
+selenious acid
+
+sodium selenate
+
+sodium hydrogen selenite
+
+sodium selenite
+
+chromium (III) chloride
+
+chromium enriched yeast ( 14 )
+
+chromium (III) lactate trihydrate
+
+chromium nitrate
+
+chromium picolinate
+
+chromium (III) sulphate
+
+ammonium molybdate (molybdenum (VI))
+
+potassium molybdate (molybdenum (VI))
+
+sodium molybdate (molybdenum (VI))
+
+calcium fluoride
+
+potassium fluoride
+
+sodium fluoride
+
+sodium monofluorophosphate
+
+boric acid
+
+sodium borate
+
+choline-stabilised orthosilicic acid
+
+silicon dioxide
+
+silicic acid ( 15 )
+
+organic silicon (monomethylsilanetriol)
+
+( 1 ) OJ L 311, 28.11.2001, p. 67.
+
+( 2 ) OJ L 31, 1.2.2002, p. 1.
+
+( 3 ) Folic acid is the term included in Annex I of Commission Directive 2008/100/EC of 28 October 2008 amending Council Directive 90/496/EEC on nutrition labelling for foodstuffs as regards recommended daily allowances, energy conversion factors and definitions for nutrition labelling purposes and covers all forms of folates.
+
+( 4 ) As listed in the Union list of novel foods in Commission Implementing Regulation (EU) 2017/2470 of 20 December 2017 establishing the Union list of novel foods in accordance with Regulation (EU) 2015/2283 of the European Parliament and of the Council on novel foods (OJ L 351, 30.12.2017, p. 72, ELI: http://data.europa.eu/eli/reg_impl/2017/2470/oj).
+
+( 5 ) alpha-tocopherol &lt; 20 %, beta-tocopherol &lt; 10 %, gamma-tocopherol 50-70 % and delta-tocopherol 10-30 %
+
+( 6 ) Typical levels of individual tocopherols and tocotrienols:
+
+— 115 mg/g alpha-tocopherol (101 mg/g minimum),
+
+— 5 mg/g beta-tocopherol (&lt; 1 mg/g minimum),
+
+— 45 mg/g gamma-tocopherol (25 mg/g minimum),
+
+— 12 mg/g delta-tocopherol (3 mg/g minimum),
+
+— 67 mg/g alpha-tocotrienol (30 mg/g minimum),
+
+— &lt; 1 mg/g beta-tocotrienol (&lt; 1 mg/g minimum),
+
+— 82 mg/g gamma-tocotrienol (45 mg/g minimum),
+
+— 5 mg/g delta-tocotrienol (&lt; 1 mg/g minimum),
+
+( 7 ) Menaquinone occurring principally as menaquinone-7 and, to a minor extent, menaquinone-6.
+
+( 8 ) As listed in the Union list of novel foods in Commission Implementing Regulation (EU) 2017/2470 of 20 December 2017 establishing the Union list of novel foods in accordance with Regulation (EU) 2015/2283 of the European Parliament and of the Council on novel foods (OJ L 351, 30.12.2017, p. 72, ELI: http://data.europa.eu/eli/reg_impl/2017/2470/oj).
+
+( 9 ) May contain up to 2 % of threonate.
+
+( 10 ) As listed in the Union list of novel foods in Commission Implementing Regulation (EU) 2017/2470 of 20 December 2017 establishing the Union list of novel foods in accordance with Regulation (EU) 2015/2283 of the European Parliament and of the Council on novel foods (OJ L 351, 30.12.2017, p. 72, ELI: http://data.europa.eu/eli/reg_impl/2017/2470/oj)
+
+( 11 ) As listed in the Union list of novel foods in Commission Implementing Regulation (EU) 2017/2470 of 20 December 2017 establishing the Union list of novel foods in accordance with Regulation (EU) 2015/2283 of the European Parliament and of the Council on novel foods (OJ L 351, 30.12.2017, p. 72).
+
+( 12 ) As listed in the Union list of novel foods in Implementing Regulation (EU) 2017/2470.
+
+( 13 ) Selenium-enriched yeasts produced by culture in the presence of sodium selenite as selenium source and containing, in the dried form as marketed, not more than 2,5 mg Se/g. The predominant organic selenium species present in the yeast is selenomethionine (between 60 and 85 % of the total extracted selenium in the product). The content of other organic selenium compounds including selenocysteine shall not exceed 10 % of total extracted selenium. Levels of inorganic selenium normally shall not exceed 1 % of total extracted selenium.
+
+( 14 ) Chromium-enriched yeast produced by culture of Saccharomyces cerevisiae in the presence of chromium(III) chloride as a source of chromium and containing, in the dried form as marketed, 230-300 mg of chromium/kg. The content of chromium(VI) shall not exceed 0,2 % of total chromium.
+
+( 15 ) In the form of gel.

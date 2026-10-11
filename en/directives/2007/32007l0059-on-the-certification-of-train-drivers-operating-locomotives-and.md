@@ -1,0 +1,1158 @@
+---
+title: "Directive 2007/59/EC of the European Parliament and of the Council of 23 October 2007 on the certification of train drivers operating locomotives and trains on the railway system in the Community"
+identifier: "32007L0059"
+eli: "http://data.europa.eu/eli/dir/2007/59/oj"
+type: directive
+jurisdiction: eu
+language: en
+date: 2007-10-23
+entry_into_force: 2007-08-16
+last_amended: 2019-07-08
+consolidated_version: "02007L0059-20190708"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02007L0059-20190708"
+retrieved: 2026-10-11
+---
+
+# Directive 2007/59/EC of the European Parliament and of the Council of 23 October 2007 on the certification of train drivers operating locomotives and trains on the railway system in the Community
+
+**DIRECTIVE 2007/59/EC OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 23 October 2007**
+
+**on the certification of train drivers operating locomotives and trains on the railway system in the Community**
+
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> COMMISSION DIRECTIVE 2014/82/EU of 24 June 2014 </td><td> L 184</td><td>11</td><td>25.6.2014</td></tr>
+<tr><td> M2</td><td> COMMISSION DIRECTIVE (EU) 2016/882 of 1 June 2016 </td><td> L 146</td><td>22</td><td>3.6.2016</td></tr>
+<tr><td></td><td> COMMISSION REGULATION (EU) 2019/554 of 5 April 2019 </td><td> L 97</td><td>1</td><td>8.4.2019</td></tr>
+
+**DIRECTIVE 2007/59/EC OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 23 October 2007**
+
+**on the certification of train drivers operating locomotives and trains on the railway system in the Community**
+
+## CHAPTER I — OBJECTIVE, SCOPE AND DEFINITIONS
+
+#### Article 1 — Objective
+
+This Directive lays down the conditions and procedures for the certification of train drivers operating locomotives and trains on the railway system in the Community. It specifies the tasks for which the competent authorities of the Member States, train drivers and other stakeholders in the sector, in particular railway undertakings, infrastructure managers and training centres, are responsible.
+
+#### Article 2 — Scope
+
+1\. This Directive shall apply to train drivers operating locomotives and trains on the railway system in the Community for a railway undertaking requiring a safety certificate or an infrastructure manager requiring a safety authorisation.
+
+2\. Member States shall not, on the basis of national provisions pertaining to other staff on board freight trains, prevent freight trains from crossing borders or providing domestic transport in their territory.
+
+3\. Without prejudice to the Article 7, Member States may exclude from the measures they adopt in implementation of this Directive train drivers operating exclusively on:
+
+(a) metros, trams and other light rail systems;
+
+(b) networks that are functionally separate from the rest of the rail system and are intended only for the operation of local, urban or suburban passenger and freight services;
+
+(c) privately owned railway infrastructure that exists solely for use by the infrastructure owners for their own freight operations;
+
+(d) sections of track that are temporarily closed to normal traffic for the purpose of maintaining, renewing or upgrading the railway system.
+
+#### Article 3 — Definitions
+
+For the purposes of this Directive:
+
+(a) ‘competent authority’ means the safety authority referred to in Article 16 of Directive 2004/49/EC;
+
+(b) ‘train driver’ means a person capable and authorised to drive trains, including locomotives, shunting locomotives, work trains, maintenance railway vehicles or trains for the carriage of passengers or goods by rail in an autonomous, responsible and safe manner;
+
+(c) ‘other crew members performing safety-critical tasks’ means staff on board the train who are not train drivers but who help to ensure the safety of the train and of the passengers and goods being transported;
+
+(d) ‘railway system’ means the system composed of the railway infrastructures, comprising lines and fixed installations of the rail system plus the rolling stock of all categories and origin travelling on that infrastructure, as defined in Directives 96/48/EC and 2001/16/EC;
+
+(e) ‘infrastructure manager’ means any body or undertaking that is responsible in particular for establishing and maintaining railway infrastructure, or part thereof, as defined in Article 3 of Directive 91/440/EEC, which may also include the management of infrastructure control and safety systems. The functions of the infrastructure manager on a network or on part of a network may be allocated to different bodies or undertakings;
+
+(f) ‘railway undertaking’ means any railway undertaking as defined in Directive 2001/14/EC of the European Parliament and of the Council of 26 February 2001 on the allocation of railway infrastructure capacity and the levying of charges for the use of railway infrastructure ( 1 ), and any other public or private undertaking, the activity of which is to provide transport of goods and/or passengers by rail on the basis that the undertaking must ensure traction. The term also includes undertakings which provide traction only;
+
+(g) ‘technical specifications for interoperability’ or ‘TSIs’ means the specifications by which each subsystem or part of a subsystem is covered in order to meet the essential requirements and to ensure the interoperability of the trans-European high-speed and conventional rail systems as defined in Directives 96/48/EC and 2001/16/EC;
+
+(h) ‘Agency’ means the European Railway Agency established by Regulation (EC) No 881/2004 ( 2 ) of the European Parliament and of the Council of 29 April 2004;
+
+(i) ‘safety certificate’ means the certificate issued to a railway undertaking by a competent authority in accordance with Article 10 of Directive 2004/49/EC;
+
+(j) ‘certificate’ means the harmonised complementary certificate indicating the infrastructure on which the holder is authorised to drive and the rolling stock which the holder is authorised to drive;
+
+(k) ‘safety authorisation’ means the authorisation issued to an infrastructure manager by a competent authority in accordance with Article 11 of Directive 2004/49/EC;
+
+(l) ‘training centre’ means an entity accredited or recognised by the competent authority to give training courses.
+
+## CHAPTER II — CERTIFICATION OF DRIVERS
+
+#### Article 4 — Community certification model
+
+1\. All train drivers shall have the necessary fitness and qualifications to drive trains and shall hold the following documents:
+
+(a) a licence demonstrating that the driver satisfies minimum conditions as regards medical requirements, basic education and general professional skills. The licence shall identify the driver and the issuing authority and shall state the duration of its validity. The licence shall comply with the requirements of Annex I, until the Community certification model is adopted, as provided for in paragraph 4;
+
+(b) one or more certificates indicating the infrastructures on which the holder is authorised to drive and indicating the rolling stock which the holder is authorised to drive. Each certificate shall comply with the requirements of Annex I.
+
+2\. However, the requirement to hold a certificate for a specific part of infrastructure shall not apply in the exceptional cases listed hereafter, provided that another train driver who possesses a valid certificate for the infrastructure concerned sits next to the driver during driving:
+
+(a) when a disturbance of the railway service necessitates the deviation of trains or maintenance of tracks, as specified by the infrastructure manager;
+
+(b) for exceptional, one-off services which use historical trains;
+
+(c) for exceptional, one-off freight services, provided that the infrastructure manager agrees;
+
+(d) for the delivery or demonstration of a new train or locomotive;
+
+(e) for the purposes of training and examining drivers.
+
+The use of this possibility shall be a decision of the railway undertaking and may not be imposed by the relevant infrastructure manager or by the competent authority.
+
+Whenever an additional driver is used as provided for above, the infrastructure manager shall be informed beforehand.
+
+3\. The certificate shall authorise driving in one or more of the following categories:
+
+(a) category A: shunting locomotives, work trains, maintenance railway vehicles and all other locomotives when they are used for shunting;
+
+(b) category B: carriage of passengers and/or of goods.
+
+A certificate may contain an authorisation for all categories, covering all codes as referred to in paragraph 4.
+
+4\. By 4 December 2008 the Commission shall adopt, on the basis of a draft prepared by the Agency, a Community model for the licence, the certificate and the certified copy of the certificate, and also determine their physical characteristics, taking into account therein anti-forgery measures. These measures, designed to amend non-essential elements of this Directive by supplementing it, shall be adopted in accordance with the regulatory procedure with scrutiny referred to in Article 32(3).
+
+By 4 December 2008, the Commission shall adopt the measures designed to amend non-essential elements of this Directive, by supplementing it, and concerning the Community Codes for the different types in categories A and B as referred to in paragraph 3 of this Article in accordance with the regulatory procedure with scrutiny referred to in Article 32(3) and on the basis of a recommendation from the Agency.
+
+#### Article 5 — Anti-fraud measures
+
+Competent authorities and issuing bodies shall take all necessary steps to avoid the risks of falsification of licences and certificates and tampering with the registers provided for in Article 22.
+
+#### Article 6 — Ownership, language and issuing bodies
+
+1\. A licence shall be owned by its holder and shall be issued by the competent authority as defined in Article 3(a). Where a competent authority or its agent issues a licence in a national language which is not a Community language, it shall draw up a bilingual version of the licence using one of the Community languages.
+
+2\. A certificate shall be issued by the railway undertaking or the infrastructure manager who employs or contracts the driver. The certificate shall be owned by the undertaking or manager issuing it. However, in accordance with Article 13(3) of Directive 2004/49/EC, drivers shall be entitled to obtain a certified copy. Where a railway undertaking or an infrastructure manager issues a certificate in a national language which is not a Community language, it shall draw up a bilingual version of the certificate using one of the Community languages.
+
+#### Article 7 — Geographical validity
+
+1\. A licence shall be valid throughout the whole territory of the Community.
+
+2\. A certificate shall be valid only on those infrastructures and rolling stock identified on it.
+
+#### Article 8 — Recognition of certification documents of train drivers of third countries
+
+The certification documents of train drivers of a third country operating exclusively on border-crossing sections of a Member State’s railway system may be recognised by that Member State in accordance with any bilateral agreements with the third country in question.
+
+## CHAPTER III — CONDITIONS FOR OBTAINING THE LICENCE AND THE CERTIFICATE
+
+#### Article 9 — Minimum requirements
+
+1\. To obtain a licence, applicants shall satisfy the minimum requirements set out in Articles 10 and 11. To obtain a certificate and for it to remain valid, applicants shall hold a licence and satisfy the minimum requirements set out in Articles 12 and 13.
+
+2\. A Member State may apply more stringent requirements with regard to the issuing of licences on its own territory. Nevertheless, it shall recognise licences issued by other Member States, in accordance with Article 7.
+
+### Section I — Licence
+
+#### Article 10 — Minimum age
+
+Member States shall prescribe the minimum age of licence applicants, which shall be at least 20 years. However, a Member State may issue licences to applicants from the age of 18 years, the validity of such a licence then being limited to the territory of the issuing Member State.
+
+#### Article 11 — Basic requirements
+
+1\. Applicants shall have successfully completed at least nine years’ education (primary and secondary) and have successfully concluded basic training equivalent to level 3 referred to in Council Decision 85/368/EEC of 16 July 1985 on the comparability of vocational training qualifications between the Member States of the European Community ( 3 ).
+
+2\. Applicants shall provide confirmation of their physical fitness by passing a medical examination conducted by, or under the supervision of — to be decided by the Member State — a medical doctor accredited or recognised in accordance with Article 20. The examination shall cover at least the criteria indicated in sections 1.1, 1.2, 1.3 and 2.1 of Annex II.
+
+3\. Applicants shall demonstrate their occupational psychological fitness by passing an examination conducted by, or under the supervision of — to be decided by the Member State — a psychologist or a medical doctor accredited or recognised in accordance with Article 20. The examination shall cover at least the criteria indicated in section 2.2 of Annex II.
+
+4\. Applicants shall have demonstrated their general professional competence by passing an examination covering at least the general subjects listed in Annex IV.
+
+### Section II — Certificate
+
+#### Article 12 — Linguistic knowledge
+
+The linguistic knowledge criterion referred to in Annex VI shall be met for the infrastructure for which the certificate is being applied.
+
+#### Article 13 — Professional qualifications
+
+1\. Applicants shall have passed an examination testing their professional knowledge and competence relating to the rolling stock for which the certificate is sought. This examination shall cover at least the general subjects listed in Annex V.
+
+2\. Applicants shall have passed an examination testing their professional knowledge and competence relating to the infrastructures for which the certificate is sought. This examination shall cover at least the general subjects listed in Annex VI. Where appropriate, the examination shall also cover linguistic knowledge, in accordance with section 8 of Annex VI.
+
+3\. Applicants shall be trained by the railway undertaking or the infrastructure manager in relation to its safety management system provided for by Directive 2004/49/EC.
+
+## CHAPTER IV — PROCEDURE FOR OBTAINING THE LICENCE AND THE CERTIFICATE
+
+#### Article 14 — Obtaining a licence
+
+1\. The competent authority shall publish the procedure to be followed for obtaining a licence.
+
+2\. All licence applications shall be lodged with the competent authority by the candidate driver or any entity on his behalf.
+
+3\. Applications submitted to the competent authority may be for the grant of a new licence, the updating of licence particulars, a renewal or a duplicate.
+
+4\. The competent authority shall issue the licence as soon as possible and no later than one month after receiving all the necessary documents.
+
+5\. A licence shall be valid for 10 years, subject to Article 16(1).
+
+6\. A licence shall be issued in a single original. Any duplication of a licence, other than by the competent authority where a duplicate is requested, shall be prohibited.
+
+#### Article 15 — Obtaining a certificate
+
+Each railway undertaking and infrastructure manager shall set up its own procedures for issuing and updating certificates in accordance with this Directive, as part of its safety management system, as well as appeals procedures allowing drivers to request a review of a decision relating to the issue, updating, suspension or withdrawal of a certificate.
+
+In the event of disagreement, the parties may appeal to the competent authority or any independent appeal body.
+
+Railway undertakings and infrastructure managers shall update, without delay, a certificate whenever the certificate holder has obtained additional authorisations relating to rolling stock or infrastructure.
+
+#### Article 16 — Periodic checks
+
+1\. In order for a licence to remain valid, its holder shall undergo periodic examinations and/or tests relating to the requirements referred to in Article 11(2) and (3). With regard to medical requirements, the minimum frequency shall be observed in accordance with the provisions of section 3.1 of Annex II. These medical checks shall be conducted by, or under the supervision of, medical doctors accredited or recognised in accordance with Article 20. As far as general professional knowledge is concerned, the provisions of Article 23(8) shall apply.
+
+When renewing a licence, the competent authority shall verify in the register provided for in Article 22(1)(a) that the driver has met the requirements referred to in the first subparagraph of this paragraph.
+
+2\. In order for a certificate to remain valid, its holder shall undergo periodic examinations and/or tests relating to the requirements referred to in Articles 12 and 13. The frequency of those examinations and/or tests shall be determined by the railway undertaking or the infrastructure manager employing or contracting the driver in accordance with its own safety management system, and respect the minimum frequencies set out in Annex VII.
+
+For each of these checks the issuing body shall confirm by a statement on the certificate and in the register provided for in Article 22(2)(a) that the driver has met the requirements referred to in the first subparagraph of this paragraph.
+
+3\. Where a periodic check is missed or gives a negative result, the procedure laid down in Article 18 shall be applied.
+
+#### Article 17 — Cessation of employment
+
+When a driver ceases to work for a railway undertaking or an infrastructure manager, it shall inform the competent authority without delay.
+
+The licence shall remain valid, provided that the conditions in Article 16(1) remain fulfilled.
+
+A certificate shall become invalid when its holder ceases to be employed as a driver. However, the holder shall receive a certified copy of it and of all documents providing evidence of his training, qualifications, experience and professional competences. When issuing a certificate to a driver, a railway undertaking or infrastructure manager shall take account of all those documents.
+
+#### Article 18 — Monitoring of drivers by railway undertakings and infrastructure managers
+
+1\. Railway undertakings and infrastructure managers shall be required to ensure, and to check, that the licences and certificates of the drivers they employ or contract are valid.
+
+They shall set up a system for monitoring their drivers. If the results of such monitoring call into question a driver’s competence for the job and the continuing validity of his licence or certificate, railway undertakings and infrastructure managers shall immediately take the necessary action.
+
+2\. If a driver considers that his state of health calls into question his fitness for the job, he shall immediately inform the railway undertaking or infrastructure manager, whichever is appropriate.
+
+As soon as a railway undertaking or infrastructure manager is aware or is informed by a medical doctor that the health of a driver has deteriorated to a point where his fitness for the job is called into question, it shall immediately take the necessary action, including the examination described in section 3.1 of Annex II and, if necessary, the withdrawal of the certificate and the updating of the register provided for in Article 22(2). Furthermore, it shall ensure that at no time during their service drivers are under the influence of any substance which is likely to affect their concentration, attention or behaviour. The competent authority shall be informed without delay of any cases of work incapacity of more than three months.
+
+## CHAPTER V — TASKS AND DECISIONS OF THE COMPETENT AUTHORITY
+
+#### Article 19 — Tasks of the competent authority
+
+1\. The competent authority shall fulfil the following tasks in a transparent and non-discriminatory manner:
+
+(a) issuing and updating licences, and providing duplicates, as provided for in Articles 6 and 14;
+
+(b) ensuring periodic examinations and/or tests as provided for in Article 16(1);
+
+(c) suspending and withdrawing licences, and notifying the issuing body of reasoned requests for the suspension of certificates, as provided for in Article 29;
+
+(d) if so designated by the Member State, recognising persons or bodies as provided for in Articles 23 and 25;
+
+(e) ensuring that a register of persons and bodies accredited or recognised as provided for in Article 20 is published and updated;
+
+(f) keeping and updating a register of licences as provided for in Articles 16(1) and 22(1);
+
+(g) monitoring the drivers’ certification process as provided for in Article 26;
+
+(h) carrying out inspections as provided for in Article 29;
+
+(i) establishing national criteria for examiners as provided for in Article 25(5).
+
+The competent authority shall respond quickly to requests for information and present any requests for additional information without delay when preparing licences.
+
+2\. The competent authority shall not delegate the tasks referred to in points (c), (g) and (i) of paragraph 1 to third parties.
+
+3\. Any delegation of tasks shall be transparent and non-discriminatory and shall not give rise to a conflict of interests.
+
+4\. Where a competent authority delegates or contracts tasks referred to in points (a) or (b) of paragraph 1 to a railway undertaking, at least one of the following conditions shall be complied with:
+
+(a) the railway undertaking issues licences only to its own drivers;
+
+(b) the railway undertaking does not enjoy exclusivity in the territory concerned for any of the delegated or contracted tasks.
+
+5\. Where a competent authority delegates or contracts tasks, the authorised representative or contractor shall be required, in performing such tasks, to comply with the obligations imposed on competent authorities by this Directive.
+
+6\. Where a competent authority delegates or contracts tasks, it shall set up a system for checking how those tasks have been carried out and shall ensure that the conditions laid down in paragraphs 2, 4 and 5 are complied with.
+
+#### Article 20 — Accreditation and recognition
+
+1\. Persons or bodies accredited under this Directive shall be accredited by an accreditation body appointed by the Member State concerned. The accreditation process shall be based on criteria of independence, competence and impartiality, such as the relevant EN 45 000 series European standards and on the evaluation of a dossier submitted by candidates which provides appropriate evidence of their skills in the area in question.
+
+2\. As an alternative to the accreditation provided for in paragraph 1, a Member State may provide that persons or bodies recognised under this Directive shall be recognised by the competent authority or a body appointed by the Member State concerned. Recognition shall be based on criteria of independence, competence and impartiality. However, in cases when the particular competence sought is extremely rare, an exception to this rule shall be allowed after a positive opinion is given by the Commission in accordance with the regulatory procedure referred to in Article 32(2).
+
+The criterion of independence does not apply in the case of the training referred to in Article 23(5) and (6).
+
+3\. The competent authority shall ensure the publication and updating of a register of persons and bodies which have been accredited or recognised under this Directive.
+
+#### Article 21 — Decisions of the competent authority
+
+1\. The competent authority shall state the reasons for its decisions.
+
+2\. The competent authority shall ensure that an administrative appeals procedure is set up allowing employers and drivers to request a review of a decision relating to any application under this Directive.
+
+3\. Member States shall take the necessary steps to ensure judicial review of the decisions taken by a competent authority.
+
+#### Article 22 — Registers and exchange of information
+
+1\. The competent authorities shall be required to:
+
+(a) keep a register of all licences issued, updated, renewed, amended, expired, suspended, withdrawn or reported lost, stolen or destroyed. This register shall contain the data prescribed in section 4 of Annex I for every licence, which shall be accessible using the national number allotted to each driver. It shall be regularly updated;
+
+(b) supply, upon reasoned request, information on the status of such licences to the competent authorities of the other Member States, the Agency or any employer of drivers.
+
+2\. Each railway undertaking and infrastructure manager shall be required to:
+
+(a) keep a register, or ensure that a register is kept, of all certificates issued, updated, renewed, amended, expired, suspended, withdrawn or reported lost, stolen or destroyed. This register shall contain the data prescribed in section 4 of Annex I for every certificate, as well as data relating to the periodic checks provided for in Article 16. It shall be regularly updated;
+
+(b) cooperate with the competent authority of the Member State where they are domiciled in order to exchange information with the competent authority and give it access to data required;
+
+(c) supply information on the content of such certificates to the competent authorities of the other Member States upon their request, when this is required as a consequence of their transnational activities.
+
+3\. Train drivers shall have access to the data concerning them which is stored in the registers of competent authorities and of railway undertakings, and shall be provided with a copy of that data on request.
+
+4\. The competent authorities shall cooperate with the Agency in order to ensure the interoperability of the registers provided for in paragraphs 1 and 2.
+
+To this end, by 4 December 2008, the Commission shall adopt, on the basis of a draft prepared by the Agency, the basic parameters of the registers to be set up, such as data to be recorded, their format and the data exchange protocol, access rights, the duration of data retention and the procedures to be followed in cases of bankruptcy. These measures, designed to amend non-essential elements of this Directive by supplementing it, shall be adopted in accordance with the regulatory procedure with scrutiny referred to in Article 32(3).
+
+5\. The competent authorities, infrastructure managers and railway undertakings shall ensure that the registers provided for in paragraphs 1 and 2 and the modes of operation of such registers comply with Directive 95/46/EC.
+
+6\. The Agency shall ensure that the system set up in paragraph 2(a) and (b) complies with Regulation (EC) No 45/2001.
+
+## CHAPTER VI — TRAINING AND EXAMINATION OF DRIVERS
+
+#### Article 23 — Training
+
+1\. The training of drivers shall include a part relating to the licence and reflecting general professional knowledge as described in Annex IV, and a part relating to the certificate and reflecting specific professional knowledge, as described in Annexes V and VI.
+
+2\. The training method shall satisfy the criteria laid down in Annex III.
+
+3\. The detailed training objectives are defined in Annex IV for the licence, and in Annexes V and VI for the certificate. These detailed training objectives may be supplemented by either:
+
+(a) the relevant TSIs adopted in accordance with Directive 96/48/EC or Directive 2001/16/EC. In this case, the Commission shall ensure consistency between the TSIs and Annexes IV, V and VI; or
+
+(b) the criteria proposed by the Agency pursuant to Article 17 of Regulation (EC) No 881/2004. These criteria, designed to amend non-essential elements of this Directive by supplementing it, shall be adopted in accordance with the regulatory procedure with scrutiny referred to in Article 32(3).
+
+4\. Pursuant to Article 13 of Directive 2004/49/EC, Member States shall take steps to ensure that candidate drivers have fair and non-discriminatory access to the training needed to fulfil the conditions for obtaining the licence and the certificate.
+
+5\. Training tasks relating to general professional knowledge as provided for in Article 11(4), linguistic knowledge as provided for in Article 12 and professional knowledge relating to rolling stock as provided for in Article 13(1) shall be performed by persons or bodies accredited or recognised in accordance with Article 20.
+
+6\. Training tasks relating to infrastructure knowledge as provided for in Article 13(2), including route knowledge and operating rules and procedures, shall be performed by persons or bodies accredited or recognised by the Member State where the infrastructure is located.
+
+7\. With regard to licences, the general system for the recognition of professional qualifications established by Directive 2005/36/EC shall continue to apply to the recognition of the professional qualifications of drivers who are nationals of a Member State and have obtained their training certificate in a third country.
+
+8\. A process of continuous training shall be set up in order to ensure that staff competences are maintained, in accordance with point 2(e) of Annex III to Directive 2004/49/EC.
+
+#### Article 24 — Cost of training
+
+1\. Member States shall ensure that the necessary measures are taken in order to ensure that investments made by a railway undertaking or an infrastructure manager for the training of a driver do not unduly benefit another railway undertaking or infrastructure manager in the case where that driver voluntarily leaves the former for the latter railway undertaking or infrastructure manager.
+
+2\. Particular attention shall be paid to the implementation of this Article in the report provided for in Article 33, in particular as regards point (f) thereof.
+
+#### Article 25 — Examinations
+
+1\. The examinations and examiners intended for the purpose of checking the requisite qualifications shall be determined:
+
+(a) for the part relating to the licence: by the competent authority when laying down the procedure to be followed to obtain a licence in accordance with Article 14(1);
+
+(b) for the part relating to the certificate: by the railway undertaking or the infrastructure manager when laying down the procedure to be followed to obtain a certificate in accordance with Article 15.
+
+2\. The examinations referred to in paragraph 1 shall be overseen by competent examiners, accredited or recognised in accordance with Article 20, and shall be organised in such a way as to avoid any conflict of interest.
+
+3\. Infrastructure knowledge evaluation, including route knowledge and operation rules, shall be performed by persons or bodies accredited or recognised by the Member State where the infrastructure is located.
+
+4\. The examinations referred to in paragraph 1 shall be organised in such a way that any conflict of interests is avoided, without prejudice to the possibility that the examiner may belong to the railway undertaking or infrastructure manager issuing the certificate.
+
+5\. The choice of examiners and examinations may be subject to Community criteria established on the basis of a draft prepared by the Agency. These measures, designed to amend non-essential elements of this Directive by supplementing it, shall be adopted in accordance with the regulatory procedure with scrutiny referred to in Article 32(3). On imperative grounds of urgency, the Commission may have recourse to the urgency procedure referred to in Article 32(4).
+
+In the absence of such Community criteria, the competent authorities shall establish national criteria.
+
+6\. There shall be theoretical and practical examinations at the end of the training course. Driving ability shall be assessed during driving tests on the network. Simulators may also be used for examining the application of operational rules and driver performance in particularly difficult situations.
+
+## CHAPTER VII — ASSESSMENT
+
+#### Article 26 — Quality standards
+
+The competent authorities shall ensure that all activities associated with training, the assessment of skills and the updating of licences and certificates are the subject of continuous monitoring under a quality standards system. This shall not apply to activities already covered by the safety management systems put in place by railway undertakings and infrastructure managers in accordance Directive 2004/49/EC.
+
+#### Article 27 — Independent assessment
+
+1\. An independent assessment of the procedures for the acquisition and assessment of professional knowledge and competences, and of the system for the issuing of licences and certificates, shall be carried out in each Member State at intervals of not more than five years. This shall not apply to activities already covered by the safety management systems put in place by railway undertakings and infrastructure managers in accordance with Directive 2004/49/EC. The assessment shall be carried out by qualified persons who are not themselves involved in the activities concerned.
+
+2\. The results of these independent assessments shall be duly documented and brought to the attention of the competent authorities concerned. If necessary, Member States shall take appropriate measures to remedy any shortcomings brought to light by the independent assessment.
+
+## CHAPTER VIII — OTHER CREW MEMBERS
+
+#### Article 28 — Report on other crew members
+
+1\. The Agency shall, in a report to be presented by 4 June 2009, and taking into account the TSI on operation and traffic management developed under Directives 96/48/EC and 2001/16/EC, identify the profile and tasks of other crew members performing safety-critical tasks whose professional qualifications accordingly contribute to railway safety which should be regulated at Community level by means of a system of licences and/or certificates which may be similar to the system established by this Directive.
+
+2\. On the basis of this report the Commission shall, by 4 June 2010, present a report and, if appropriate, bring forward a legislative proposal on a certification system for the other crew members referred to in paragraph 1.
+
+## CHAPTER IX — CONTROLS AND PENALTIES
+
+#### Article 29 — Controls by the competent authority
+
+1\. The competent authority may at any time take steps to verify, on board trains operating in its area of jurisdiction, that the train driver is in possession of the documents issued pursuant to this Directive.
+
+2\. Notwithstanding verification as provided for in paragraph 1, in the event of negligence at the workplace the competent authority may verify if the driver in question complies with the requirements set out in Article 13.
+
+3\. The competent authority may carry out enquiries regarding compliance with this Directive by drivers, railway undertakings, infrastructure managers, examiners and training centres pursuing their activities in its area of jurisdiction.
+
+4\. If the competent authority finds that a driver no longer satisfies one or more required conditions, it shall take the following measures:
+
+(a) if it concerns a licence issued by the competent authority, the competent authority shall suspend the licence. The suspension shall be temporary or permanent depending on the scale of the problems created for rail safety. It shall immediately inform the driver concerned and his employer of its reasoned decision, without prejudice to the right of review provided for in Article 21. It shall indicate the procedure to be followed for recovering the licence;
+
+(b) if it concerns a licence issued by a competent authority in another Member State, the competent authority shall approach that authority and provide a reasoned request either that a further inspection be carried out or that the licence be suspended. The requesting competent authority shall inform the Commission and the other competent authorities of its request. The authority that issued the licence in question shall examine the request within four weeks and notify the other authority of its decision. The authority that issued the licence shall also inform the Commission and the other competent authorities of the decision. Any competent authority may prohibit train drivers from operating in its area of jurisdiction pending notification of the issuing authority’s decision;
+
+(c) if it concerns a certificate, the competent authority shall approach the issuing body and request either that a further inspection be carried out or that the certificate be suspended. The issuing body shall take appropriate measures and report back to the competent authority within a period of four weeks. The competent authority may prohibit train drivers from operating in its area of jurisdiction pending the report of the issuing body, and shall inform the Commission and the other competent authorities thereof.
+
+At all events, if the competent authority considers that a particular driver creates a serious threat to the safety of the railways, it shall immediately take the necessary action, such as asking the infrastructure manager to stop the train and prohibiting the driver from operating in its area of jurisdiction for as long as necessary. It shall inform the Commission and the other competent authorities of any such decision.
+
+In all cases the competent authority, or the body designated for this, shall update the register provided for in Article 22.
+
+5\. If a competent authority considers that a decision taken by a competent authority in another Member State pursuant to paragraph 4 fails to comply with the relevant criteria, the matter shall be referred to the Commission which shall deliver its opinion within three months. If necessary, corrective measures shall be proposed to the Member State concerned. In the event of disagreement or dispute, the matter shall be referred to the Committee referred to in Article 32(1), and the Commission shall take whatever measures are necessary in accordance with the regulatory procedure referred to in Article 32(2). A Member State may maintain a prohibition on a driver driving on its territory in accordance with paragraph 4 until the matter is concluded in accordance with this paragraph.
+
+#### Article 30 — Penalties
+
+Without prejudice to any other penalties or procedures established by this Directive, the Member States shall lay down rules on penalties applicable to infringements of the national provisions adopted pursuant to this Directive and shall take all measures necessary to ensure that they are implemented. The penalties provided for shall be effective, proportionate, non-discriminatory and dissuasive. The Member States shall notify the Commission of those provisions by the date specified in the first subparagraph of Article 36(1) at the latest and shall notify it without delay of any subsequent amendment affecting them.
+
+## CHAPTER X — FINAL PROVISIONS
+
+#### Article 31 — Adaptation of the Annexes
+
+1\. Measures designed to amend non-essential elements of this Directive by adapting the Annexes to scientific and technical progress shall be adopted in accordance with the regulatory procedure with scrutiny referred to in Article 32(3). On imperative grounds of urgency, the Commission may have recourse to the urgency procedure referred to in Article 32(4).
+
+2\. Where the adaptations concern health and safety conditions, or professional competences, the Commission shall ensure that the social partners are consulted prior to their preparation.
+
+#### Article 32 — Committee
+
+1\. The Commission shall be assisted by the Committee set up by Article 21 of Directive 96/48/EC.
+
+2\. Where reference is made to this paragraph, Articles 5 and 7 of Decision 1999/468/EC shall apply, having regard to the provisions of Article 8 thereof.
+
+The period laid down in Article 5(6) of Decision 1999/468/EC shall be set at three months.
+
+3\. Where reference is made to this paragraph, Article 5a(1) to (4), and Article 7 of Decision 1999/468/EC shall apply, having regard to the provisions of Article 8 thereof.
+
+4\. Where reference is made to this paragraph, Article 5a(1), (2), (4) and (6), and Article 7 of Decision 1999/468/EC shall apply, having regard to the provisions of Article 8 thereof.
+
+#### Article 33 — Report
+
+The Agency shall evaluate the development of the certification of train drivers in accordance with this Directive. It shall submit to the Commission, not later than four years following the adoption of the basic parameters of the registers provided for in Article 22(4), a report containing, where appropriate, improvements to be made to the system as regards:
+
+(a) the procedures for issuing licences and certificates;
+
+(b) the accreditation of training centres and examiners;
+
+(c) the quality system put in place by the competent authorities;
+
+(d) the mutual recognition of certificates;
+
+(e) the adequacy of the training requirements specified in Annexes IV, V and VI in relation to the market structure and the categories mentioned in Article 4(2)(a);
+
+(f) the interconnection of registers and mobility in the employment market.
+
+Furthermore, in this report the Agency may, if appropriate, recommend measures regarding the theoretical and practical examination of the professional knowledge of applicants for the harmonised certificate for rolling stock and relevant infrastructure.
+
+The Commission shall take appropriate measures on the basis of these recommendations and shall propose, if necessary, changes to this Directive.
+
+#### Article 34 — Use of smartcards
+
+By 4 December 2012, the Agency shall examine the possibility of using a smartcard combining the licence and certificates provided for in Article 4, and shall prepare a cost/benefit analysis thereof.
+
+Measures designed to amend non-essential elements of this Directive and relating to the technical and operating specifications for such a smartcard shall be adopted on the basis of a draft prepared by the Agency and in accordance with the regulatory procedure with scrutiny referred to in Article 32(3).
+
+If the implementation of the smartcard does not entail any modification to this Directive or the Annexes hereto, the specifications of the smartcard shall be adopted in accordance with the regulatory procedure referred to in Article 32(2).
+
+#### Article 35 — Cooperation
+
+Member States shall assist one another in the implementation of this Directive. Competent authorities shall cooperate during this phase of implementation.
+
+The Agency shall assist this cooperation and organise appropriate meetings with representatives of the competent authorities.
+
+#### Article 36 — Implementation
+
+1\. Member States shall bring into force the laws, regulations and administrative provisions necessary to comply with this Directive before 4 December 2009. They shall forthwith inform the Commission thereof.
+
+When Member States adopt those measures, they shall contain a reference to this Directive or shall be accompanied by such reference on the occasion of their official publication. The methods of making such reference shall be laid down by Member States.
+
+2\. Member States shall communicate to the Commission the text of the main provisions of national law which they adopt in the field covered by this Directive. The Commission shall inform the other Member States thereof.
+
+3\. The obligations for transposition and implementation of this Directive shall not apply to Cyprus and Malta as long as no railway system is established within their territory.
+
+#### Article 37 — Gradual phasing-in and transition periods
+
+This Directive shall be phased in gradually as indicated below.
+
+1\. The registers provided for in Article 22 shall be set up within two years of the adoption of the basic parameters of the registers provided for in Article 22(4).
+
+2.
+
+(a) Within two years of the adoption of the basic parameters of the registers provided for in Article 22(4), certificates or licences shall be issued in accordance with this Directive to drivers performing cross-border services, cabotage services or freight services in another Member State, or work in at least two Member States, without prejudice to the provisions of point 3.
+
+From that same date, all train drivers performing the services listed above, including those not yet licensed or certified in accordance with this Directive, shall comply with the periodic checks provided for in Article 16.
+
+(b) Within two years of the setting-up of the registers provided for in point 1, all new licences and certificates shall be issued in accordance with this Directive, without prejudice to the provisions of point 3.
+
+(c) Within seven years of the setting-up of the registers provided for in point 1, all drivers shall hold licences and certificates in conformity with this Directive. The issuing bodies shall take into account all professional competencies already acquired by each driver in such a way that this requirement does not generate unnecessary administrative and financial burdens. Entitlements to drive previously granted to drivers shall be safeguarded, as far as possible. The issuing bodies may nevertheless decide, for individual drivers or for groups of drivers, as appropriate, that additional examinations and/or training are necessary in order to obtain licences and/or certificates under this Directive.
+
+3\. Drivers authorised to drive in accordance with the provisions which applied prior to the application of point 2(a) or (b) may continue to pursue their professional activities on the basis of their entitlements, and without applying the provisions of this Directive, for up to seven years from the setting-up of the registers provided for in point 1.
+
+In the case of apprentices who started an approved education and training programme or an approved training course prior to the application of point 2(a) or (b), Member States may certify these apprentices in accordance with existing national provisions.
+
+For drivers and apprentices referred to in this point, the competent authority or authorities involved may, in exceptional cases, grant exemptions from the medical requirements laid down in Annex II. The validity of any licence issued with such exemption shall be limited to the territory of the Member States concerned.
+
+4\. Competent authorities, railway undertakings and infrastructure managers shall ensure the gradual application of periodic checks corresponding to those provided for by Article 16 to drivers who do not hold licences and certificates in conformity with this Directive.
+
+5\. Where a Member State so requests, the Commission shall ask the Agency, in consultation with that Member State, to carry out a cost/benefit analysis of the application of the provisions of this Directive to train drivers operating exclusively on the territory of that Member State. The cost/benefit analysis shall cover a period of 10 years. This cost/benefit analysis shall be submitted to the Commission within two years of the setting-up of the registers provided for in point 1.
+
+If this cost/benefit analysis shows that the costs of applying the provisions of this Directive to such train drivers outweigh the benefits, the Commission shall, in accordance with the regulatory procedure referred to in Article 32(2), adopt a decision within six months following the submission of the results of this cost/benefit analysis. The decision may be that the provisions of point 2(b) and (c) of this Article do not have to be applied to such train drivers for a period of up to 10 years on the territory of the Member State concerned.
+
+No later than 24 months prior to the expiry of this temporary exemption period, the Commission, taking into account relevant developments in the railway sector in the Member State concerned, may, in accordance with the regulatory procedure referred to in Article 32(2), request the Agency to carry out another cost/benefit analysis, to be submitted to the Commission no later than 12 months prior to the expiry of this temporary exemption period. The Commission shall take a decision in accordance with the procedure described in the second subparagraph of this point.
+
+#### Article 38 — Entry into force
+
+This Directive shall enter in force on the day following its publication in the Official Journal of the European Union.
+
+#### Article 39
+
+This Directive is addressed to the Member States.
+
+## ANNEX I — COMMUNITY MODEL LICENCE AND HARMONISED COMPLEMENTARY CERTIFICATE
+
+**1\. CHARACTERISTICS OF THE LICENCE**
+
+The physical characteristics of the train driver’s licence must be in conformity with ISO standards 7810 and 7816-1.
+
+The card must be made of polycarbonate.
+
+The methods for verifying the characteristics of the driving licences to ensure that they are consistent with international standards must comply with ISO standard 10373.
+
+**2\. CONTENTS OF THE LICENCE**
+
+The front of the licence must contain:
+
+(a) the words ‘Train driver’s licence’ printed in large type in the language or languages of the Member State issuing the licence;
+
+(b) the name of the Member State issuing the licence;
+
+(c) the distinguishing sign of the Member State issuing the licence in accordance with the country’s ISO 3166 code, printed in negative in a blue rectangle and encircled by 12 yellow stars;
+
+(d) information specific to the licence issued, numbered as follows:
+
+(i) the surname of the holder;
+
+(ii) other name(s) of the holder;
+
+(iii) the date and place of birth of the holder;
+
+(iv)
+
+— the date of issue of the licence,
+
+— the date of expiry of the licence,
+
+— the name of the issuing authority,
+
+— the reference number assigned to the employee by the employer (optional);
+
+(v) the number of the licence giving access to data in the national register;
+
+(vi) a photograph of the holder;
+
+(vii) the signature of the holder;
+
+(viii) the permanent place of residence or postal address of the holder (optional);
+
+(e) the words ‘European Communities model’ in the language or languages of the Member State issuing the licence and the words ‘Train driving licence’ in the other languages of the Community, printed in yellow to form the background of the licence;
+
+(f) the reference colours:
+
+— blue: Pantone Reflex blue,
+
+— yellow: Pantone yellow;
+
+(g) additional information, or medical restrictions for use imposed by a competent authority in accordance with Annex II, in code form.
+
+The codes shall be decided by the Commission, in accordance with the regulatory procedure referred to in Article 32(2) and on the basis of a recommendation from the Agency.
+
+**3\. CERTIFICATE**
+
+The certificate must contain:
+
+(a) the surname of the holder;
+
+(b) other name(s) of the holder;
+
+(c) the date and place of birth of the holder;
+
+(d)
+
+— the date of issue of the certificate,
+
+— the date of expiry of the certificate,
+
+— the name of the issuing authority,
+
+— the reference number assigned to the employee by the employer (optional);
+
+(e) the number of the licence giving access to data in the national register;
+
+(f) a photograph of the holder;
+
+(g) the signature of the holder;
+
+(h) the permanent place of residence or postal address of the holder (optional);
+
+(i) the name and address of the railway undertaking or infrastructure manager for which the driver is authorised to drive trains;
+
+(j) the category in which the holder is entitled to drive;
+
+(k) the type or types of rolling stock which the holder is authorised to drive;
+
+(l) the infrastructures on which the holder is authorised to drive;
+
+(m) any additional information or restrictions;
+
+(n) language skills.
+
+**4\. MINIMUM DATA CONTAINED IN NATIONAL REGISTERS**
+
+(a) Data relating to the licence:
+
+All data appearing on the licence plus data relating to checking requirements set out in Article 11 and 16.
+
+(b) Data relating to the certificate:
+
+All data appearing on the certificate plus data relating to checking requirements set out in Articles 12, 13 and 16.
+
+## ANNEX II — MEDICAL REQUIREMENTS
+
+**1\. GENERAL REQUIREMENTS**
+
+1.1. Drivers must not be suffering from any medical conditions or be taking any medication, drugs or substances which are likely to cause:
+
+— a sudden loss of consciousness,
+
+— a reduction in attention or concentration,
+
+— sudden incapacity,
+
+— a loss of balance or coordination,
+
+— significant limitation of mobility.
+
+1.2. Vision
+
+The following requirements as regards vision must be complied with:
+
+— aided or unaided distance visual acuity: 1,0; minimum of 0,5 for the worse eye,
+
+— maximum corrective lenses: hypermetropia + 5/myopia -8. Derogations are authorised in exceptional cases and after having obtained the opinion of an eye specialist. The medical doctor then takes the decision,
+
+— near and intermediate vision: sufficient, whether aided or unaided,
+
+— contact lenses and glasses are authorised when periodically checked by a specialist,
+
+— normal colour vision: use of a recognised test, such as Ishihara, as well as another recognised test if required,
+
+— field of vision: full,
+
+— vision for both eyes: effective,
+
+— binocular vision: effective,
+
+— recognition of colour signals: the test shall be based on recognition of single colours and not on relative differences,
+
+— sensitivity to contrasts: good,
+
+— no progressive eye diseases,
+
+— lens implants, keratotomies and keratectomies are allowed only on condition that they are checked on a yearly basis or at intervals set by the medical doctor,
+
+— ability to withstand dazzle,
+
+— coloured contact lenses and photochromatic lenses are not allowed. UV filter lenses are allowed.
+
+1.3. Hearing and speaking requirements
+
+Sufficient hearing confirmed by an audiogram, i.e.:
+
+— hearing good enough to hold a phone conversation and to be able to hear warning sounds and radio messages.
+
+The following values should be taken as guidelines:
+
+— the hearing deficiency must not be higher than 40 dB at 500 and 1 000 Hz,
+
+— the hearing deficiency must not be higher than 45 dB at 2 000 Hz for the ear with the worst air conduction of sound,
+
+— no anomaly of the vestibular system,
+
+— no chronic speech disorder (given the necessity to exchange messages loudly and clearly),
+
+— the use of hearing aids is allowed in special cases.
+
+1.4. Pregnancy
+
+In the event of poor tolerance or a pathological condition, pregnancy must be considered to be a reason for the temporary exclusion of drivers. Legal provisions protecting pregnant drivers must be applied.
+
+**2\. MINIMUM CONTENT OF THE EXAMINATION BEFORE APPOINTMENT**
+
+2.1. Medical examinations:
+
+— a general medical examination,
+
+— examinations of sensory functions (vision, hearing, colour perception),
+
+— blood or urine tests, testing among others for diabetes mellitus, insofar as they are necessary to judge the candidate’s physical aptitude,
+
+— an Electro-Cardiogram (ECG) at rest,
+
+— tests for psychotropic substances such as illicit drugs or psychotropic medication and the abuse of alcohol calling into question the fitness for the job,
+
+— cognitive: attention and concentration; memory; perception; reasoning,
+
+— communication,
+
+— psychomotor: reaction time, hand coordination.
+
+2.2. Occupational psychological examinations
+
+The purpose of the occupational psychological examinations is to assist in the appointment and management of staff. In determining the content of the psychological evaluation, the examination must assess that the applicant driver has no established occupational psychological deficiencies, particularly in operational aptitudes or any relevant personality factor, which are likely to interfere with the safe exercise of the duties.
+
+**3\. PERIODIC EXAMINATIONS AFTER APPOINTMENT**
+
+3.1. Frequency
+
+Medical examinations (physical fitness) must be taken at least every three years up to the age of 55, thereafter every year.
+
+In addition to this frequency, the medical doctor accredited or recognised under Article 20 must increase the frequency of examinations if the health of the member of staff so requires.
+
+Without prejudice to Article 16(1) an appropriate medical examination must be carried out when there is a reason to doubt that a holder of the licence or certificate no longer fulfils the medical requirements set out in section 1 of Annex II.
+
+Physical fitness must be checked regularly and after any occupational accident or any period of absence following an accident involving persons. The medical doctor accredited or recognised under Article 20 can decide to carry out an additional appropriate medical examination, particularly after a period of at least 30 days’ sick leave. The employer must ask the medical doctor accredited or recognised under Article 20 to check the physical fitness of the driver if the employer had to withdraw the driver from service for safety reasons.
+
+3.2. Minimum content of the periodic medical examination
+
+If the driver complies with the criteria required for the examination which is carried out before appointment, the periodic examinations must include as a minimum:
+
+— a general medical examination,
+
+— an examination of sensory functions (vision, hearing, colour perception),
+
+— blood or urine tests to detect diabetes mellitus and other conditions as indicated by the clinical examination,
+
+— tests for drugs where clinically indicated.
+
+In addition, an ECG at rest is also required for train drivers over 40 years of age.
+
+## ANNEX III — TRAINING METHOD
+
+There must be a good balance between theoretical training (classroom and demonstrations) and practical training (on-the-job experience, driving with supervision and driving without supervision on tracks which are closed off for training purposes).
+
+Computer-aided training must be accepted for individual learning of the operational rules, signalling situations, etc.
+
+The use of simulators, although not obligatory, may be useful for the effective training of drivers; they are particularly useful for training in abnormal working conditions or for rules infrequently applied. They have a particular advantage in their ability to provide learning-by-doing capability for events that cannot be trained in the real world. In principle, simulators of the latest generation must be used.
+
+Concerning the acquisition of route knowledge, the approach to be favoured must be where the train driver accompanies another driver for an appropriate number of journeys along the route, in daylight as well as at night. Videos of the routes as seen from the driver’s cab may be used, among other methods, as an alternative training method.
+
+## ANNEX IV — GENERAL PROFESSIONAL KNOWLEDGE AND REQUIREMENTS REGARDING THE LICENCE
+
+The objective of the ‘general training’ is to provide ‘general’ competence on all aspects that are relevant to the train driver's profession. The general training in this respect will focus on basic knowledge and principles that are applicable independently of the type and nature of rolling stock or infrastructure. It can be organised without practical exercises.
+
+Competence with regard to specific types of rolling stock or with regard to safety and operating rules and techniques for a particular infrastructure is not part of ‘general’ competence. Training to provide specific rolling stock or infrastructure competence relates to the train driver's certificate and is specified in Annexes V and VI.
+
+The general training covers subjects (1) to (7) listed below. The order in which they are listed is not an order of priority.
+
+The verbs used in the list indicate the nature of the competence expected to be achieved by the trainee. Their meaning is described in the following table:
+
+| Nature of competence | Description |
+| --- | --- |
+| to know, to describe | describes the acquisition of knowledge (data, facts) that is needed to understand relationships |
+| to understand, to identify | describes the identification and memorisation of context, task performance and problem solving in a defined framework |
+
+(1) A driver's work, the work environment, the driver's role and responsibility in the process of rail operation, the professional and personal demands of the driver's duties
+
+(a) to know the general thrust of legislation and rules applicable to rail operation and safety (requirements and procedures regarding the certification of train drivers, dangerous goods, environmental protection, fire protection, etc.),
+
+(b) to understand the specific requirements and professional and personal demands (working mainly on one's own, shift work over 24 hour cycle, individual protection and security, reading and updating documents, etc.),
+
+(c) to understand behaviours which are compatible with safety-critical responsibilities (medication, alcohol, drugs and other psychoactive substances, illness, stress, fatigue, etc.),
+
+(d) to identify the reference and operating documents (e.g. rule book, route book, driver's manual, etc.),
+
+(e) to identify the responsibilities and functions of persons involved,
+
+(f) to understand the importance of being precise in carrying out duties and in working methods,
+
+(g) to understand occupational health and safety (e.g. code of behaviour on and near tracks, code of behaviour for getting on and off the traction unit safely, ergonomics, staff safety rules, personal protective equipment, etc.),
+
+(h) to know behavioural skills and principles (stress management, extreme situations, etc.),
+
+(i) to know the principles of environmental protection (sustainable driving, etc.).
+
+(2) Railway technologies, including safety principles behind operational regulations
+
+(a) to know the principles, regulations and provisions regarding safety in rail operation,
+
+(b) to identify the responsibilities and functions of persons involved.
+
+(3) Basic principles of railway infrastructure
+
+(a) to know systematic and structural principles and parameters,
+
+(b) to know the general characteristics of tracks, stations, marshalling yards,
+
+(c) to know railway structures (bridges, tunnels, points, etc.),
+
+(d) to know operating modes (single track, double track operation, etc.),
+
+(e) to know signalling and train control systems,
+
+(f) to know safety installations (hot-axle box detectors, smoke detectors in tunnels, etc.),
+
+(g) to know traction power supply (catenary, third rail, etc.).
+
+(4) Basic principles of operational communication
+
+(a) to know the significance of communication and the means and procedures for communicating,
+
+(b) to identify persons the driver needs to contact and their role and responsibility (staff of the infrastructure manager, working duties of other train staff, etc.),
+
+(c) to identify situations/causes that require communication to be initiated,
+
+(d) to understand communication methods.
+
+(5) Trains, their composition and the technical requirements for traction units, wagons, coaches and other rolling stock
+
+(a) to know the generic types of traction (electric, diesel, steam, etc.),
+
+(b) to describe the layout of a vehicle (bogies, bodies, driving cab, protection systems, etc.),
+
+(c) to know the content and systems of labelling,
+
+(d) to know the documentation on train composition,
+
+(e) to understand braking systems and performance calculation,
+
+(f) to identify train speed,
+
+(g) to identify maximum load and forces at the coupler,
+
+(h) to know the operation and purpose of the train management system.
+
+(6) Hazards involved in railway operations in general
+
+(a) to understand the principles governing traffic safety,
+
+(b) to know the risks related to railway operation and the various means to be used to mitigate them,
+
+(c) to know safety-relevant incidents and understand the required behaviour/reaction,
+
+(d) to know the procedures applicable to accidents involving persons (e.g. evacuation).
+
+(7) Basic principles of physics
+
+(a) to understand forces at the wheel,
+
+(b) to identify factors influencing accelerating and braking performance (weather conditions, braking equipment, reduced adhesion, sanding, etc.),
+
+(c) to understand principles of electricity (circuits, measuring voltage, etc.).
+
+## ANNEX V — PROFESSIONAL KNOWLEDGE OF ROLLING STOCK AND REQUIREMENTS REGARDING THE CERTIFICATE
+
+After completing specific training in relation to rolling stock, drivers must be able to carry out the following tasks:
+
+**1\. TESTS AND CHECKS PRIOR TO DEPARTURE**
+
+Drivers must be able to:
+
+— collect the documentation and the necessary equipment,
+
+— check the capacities of the traction unit,
+
+— check the information entered in the documents on board the traction unit,
+
+— ensure, by performing the checks and tests specified, that the traction unit is capable of providing the required traction power, and that the safety equipment is operating,
+
+— checking the availability and functionality of the prescribed protection and safety equipments at the handover of a locomotive or at the start of a trip,
+
+— perform any routine preventive maintenance operations.
+
+**2\. KNOWLEDGE OF ROLLING STOCK**
+
+To operate a locomotive, drivers must be familiar with all the controls and indicators placed at their disposal, in particular those concerning:
+
+— traction,
+
+— braking,
+
+— traffic safety-related elements.
+
+In order to detect and locate anomalies in the rolling stock, report them and determine what is required to repair them, and in certain cases, to take action, drivers must be familiar with:
+
+— mechanical structures,
+
+— suspension and attachment equipment,
+
+— running gear,
+
+— safety equipment,
+
+— fuel tanks, fuel supply system, exhaust equipment,
+
+— the meaning of markings on the inside and outside of the rolling stock, in particular the symbols used for the transportation of dangerous goods,
+
+— trip registration systems,
+
+— electrical and pneumatic systems,
+
+— collection of current and high-voltage systems,
+
+— communication equipment (ground-to-train radio, etc.),
+
+— arrangements of trips,
+
+— the constituent parts of the rolling stock, their purpose, and the devices specific to the hauled stocks, in particular the system of stopping the train by venting the brake pipe,
+
+— braking system,
+
+— the parts specific to traction units,
+
+— traction chain, motors and transmission.
+
+**3\. TESTING THE BRAKES**
+
+Drivers must be able to:
+
+— check and calculate, before departure, that the train’s braking power corresponds to the braking power required for the line, as specified in the vehicle documents,
+
+— check the functioning of the various components of the braking system of the traction unit and of the train, as appropriate, before departure, at start-up and during running.
+
+**4\. OPERATING MODE AND MAXIMUM SPEED OF THE TRAIN IN RELATION TO THE LINE CHARACTERISTICS**
+
+Drivers must be able to:
+
+— take note of information given to them before departure,
+
+— determine the type of running and the limit speed of the train on the basis of variables such as speed limits, weather conditions or any signalling changes.
+
+**5\. DRIVING THE TRAIN IN A WAY WHICH DOES NOT DAMAGE INSTALLATIONS OR VEHICLES**
+
+Drivers must be able to:
+
+— use all available control systems in accordance with the applicable rules,
+
+— start the train taking account of adhesion and power constraints,
+
+— apply the brakes for decelerations and stops, taking account of the rolling stock and installations.
+
+**6\. ANOMALIES**
+
+Drivers must:
+
+— be able to be attentive to unusual occurrences concerning the behaviour of the train,
+
+— be able to inspect the train and identify signs of anomalies, distinguish between them, react according to their relative importance and try to remedy them, always giving priority to the safety of rail traffic and persons,
+
+— know the available means of protection and communication.
+
+**7\. OPERATING INCIDENTS AND ACCIDENTS, FIRES AND ACCIDENTS INVOLVING PERSONS**
+
+Drivers must:
+
+— be able to take steps to protect the train and summon assistance in the event of an accident involving persons on board the train,
+
+— be able to determine whether the train is transporting dangerous goods and identify them on the basis of train documents and wagon lists,
+
+— know the procedures relating to the evacuation of a train in case of emergency.
+
+**8\. CONDITIONS FOR CONTINUING RUNNING AFTER AN INCIDENT INVOLVING ROLLING STOCK**
+
+After an incident, drivers must be able to assess whether the vehicle can continue to run and under what conditions, so as to inform the infrastructure manager of those conditions as soon as possible.
+
+Drivers must be able to determine if an expert evaluation is necessary before the train can continue.
+
+**9\. IMMOBILISATION OF THE TRAIN**
+
+Drivers must be able to take measures to ensure that the train, or parts thereof, does not start up or move unexpectedly, even in the most difficult conditions.
+
+Furthermore, drivers must have knowledge about measures which can stop a train or parts thereof in case it has started to move unexpectedly.
+
+## ANNEX VI — PROFESSIONAL KNOWLEDGE OF INFRASTRUCTURE AND REQUIREMENTS REGARDING THE CERTIFICATE — Matters relating to infrastructure
+
+**1\. TESTING THE BRAKES**
+
+Drivers must be able to check and calculate, before departure, that the train’s braking power corresponds to the braking power required for the line, as specified in the vehicle documents.
+
+**2\. TYPE OF OPERATION AND MAXIMUM TRAIN SPEED ACCORDING TO THE LINE CHARACTERISTICS**
+
+Drivers must be able to:
+
+— take note of information given to them, such as the speed limits or any signalling changes,
+
+— determine the type of running and the limit speed of the train on the basis of the characteristics of the line.
+
+**3\. KNOWLEDGE OF THE LINE**
+
+Drivers must be able to anticipate problems and react appropriately in terms of safety and other performances, such as punctuality and economic aspects. They must therefore have a thorough knowledge of the railway lines and installations on their route and of any alternative routes agreed on.
+
+The following aspects are important:
+
+— operational conditions (changes of track, one-way running, etc.),
+
+— perform a route check and consult the relevant documents,
+
+— identification of tracks that can be used for a given type of running,
+
+— the applicable traffic rules and the meaning of the signalling system,
+
+— the operations regime,
+
+— the block system and associated regulations,
+
+— station names and the position, and distance-sighting of stations and signal boxes to adapt driving accordingly,
+
+— transition signalling between different operating or power supply systems,
+
+— speed limits for the different train categories driven,
+
+— topographical profiles,
+
+— particular braking conditions, for example on lines with a steep downward gradient,
+
+— particular operating features: special signals, signs, departure conditions, etc.
+
+**4\. SAFETY REGULATIONS**
+
+Drivers must be able to:
+
+— start the trains only when all prescribed conditions are fulfilled (timetable, start order or signal, operation of signals if required, etc.),
+
+— observe track-side and in-cab signals, interpret them immediately and without error, and act as specified,
+
+— run the train safely according to the specific modes of operation: apply special modes if instructed, temporary speed restrictions, running in opposite direction, permission to pass signals at danger, switching operations, turns, running through construction sites, etc.,
+
+— respect scheduled or supplementary stops, and if necessary perform supplementary operations for passengers during these stops, notably opening and closing the doors.
+
+**5\. DRIVING THE TRAIN**
+
+Drivers must be able to:
+
+— know the train’s position on the line at all times,
+
+— apply the brakes for decelerations and stops, taking account of the rolling stock and installations,
+
+— adjust the running of the train in accordance with the timetable and any orders given on saving energy, taking account of the characteristics of the traction unit, the train, the line and the environment.
+
+**6\. ANOMALIES**
+
+Drivers must be able to:
+
+— be attentive, insofar as train operation permits, to unusual occurrences concerning the infrastructure and the environment: signals, tracks, energy supply, level crossings, track surrounding, other traffic,
+
+— know particular distances to clear obstacles,
+
+— inform the infrastructure manager as soon as possible of the place and nature of anomalies observed, making sure that the information has been understood,
+
+— taking into account the infrastructure, ensure or take measures to ensure the safety of traffic and persons, whenever necessary.
+
+**7\. OPERATING INCIDENTS AND ACCIDENTS, FIRES AND ACCIDENTS INVOLVING PERSONS**
+
+Drivers must be able to:
+
+— take steps to protect the train and summon assistance in the event of an accident involving persons,
+
+— determine where to stop the train in the event of a fire and facilitate the evacuation of passengers, if necessary,
+
+— provide useful information on the fire as soon as possible if the fire cannot be brought under control by the driver acting alone,
+
+— inform the infrastructure manager of these conditions as soon as possible,
+
+— assess whether the infrastructure allows the vehicle to continue to run and under which conditions.
+
+**8\. LANGUAGE**
+
+(1) Drivers who have to communicate with the infrastructure manager on critical safety issues must have the necessary language skills in at least one of the languages indicated by the infrastructure manager concerned. Their language skills must allow them to communicate actively and effectively in routine, degraded and emergency situations. They must be able to use the messages and communication method specified in the ‘Operations and traffic management’ TSI.
+
+(2) In order to satisfy the requirements provided for in paragraph 1, drivers must be able to understand (both orally and in writing) and to communicate (both orally and in writing) according to level B1 of the Common European Framework of Reference for Languages (CEFR) established by the Council of Europe.
+
+(3) In case where the train operations take place in sections between the borders and the stations situated close to the borders and designated for cross border operations, drivers of trains operated by a railway undertaking may be exempted by the infrastructure manager from the requirements of paragraph 2, provided that the following procedure is applied:
+
+(a) the railway undertaking shall request the infrastructure manager for a derogation with regard to the concerned drivers. In order to ensure a fair and equal treatment of the applicants, the infrastructure manager shall apply to each submitted request for derogation the same assessment procedure, which shall be part of the network statement;
+
+(b) the infrastructure manager shall grant a derogation if the railway undertaking demonstrates that it has made sufficient arrangements for ensuring communication between the concerned drivers and the staff of the infrastructure manager in routine, degraded and emergency situations, as provided for in paragraph 1;
+
+(c) railway undertakings and infrastructure managers shall ensure that the concerned staff is aware of those rules and arrangements and receive appropriate training through their safety management systems.
+
+(4) One or several railway undertakings in cooperation with one or several infrastructure managers (‘the applicants’) may carry out pilot projects to test alternative means of ensuring the effective communication required by paragraph 1. The following procedure shall apply:
+
+(a) the applicants shall identify the parts of the network and nature of the services concerned, the initial duration of the pilot project and in particular:
+
+i) specify the scope of the pilot project,
+
+ii) indicate what alternative language competences they propose to apply,
+
+iii) describe which additional tools they propose to use to support communication in routine, degraded and emergency situations,
+
+iv) demonstrate how the alternative language competences and additional tools ensure at least an equivalent level of safety to full compliance with the requirements of paragraph 1, when integrated in their respective Safety Management Systems ( 4 ),
+
+v) explain how they shall implement the pilot project in their Safety Management System, including training programs and documentation of the results, and
+
+vi) consult the representatives of the concerned staff in the process of preparing the application.
+
+(b) The applicants shall request the opinion of the concerned national safety authority/authorities that issued their single safety certificate(s) or safety authorisation(s), and of the European Union Agency for Railways, where it is the safety certification body (‘the authorising entity or entities’). Each authorising entity shall issue an opinion on whether the alternative means ensure at least an equivalent level of safety to full compliance with the requirements of paragraph 1, within 60 days from the day the last authorising entity concerned has received the request. In case several authorising entities are involved, they are encouraged to work together and ensure coordination.
+
+The opinions shall assess in particular whether the following conditions are fulfilled:
+
+i) the proposed alternative language competences and other tools for communication are sufficient to ensure effective communication between the concerned drivers and the staff of the infrastructure manager in routine, degraded and emergency situations.
+
+ii) the safety management systems of the applicants have been adapted to using alternative language competences and other tools for communication.
+
+iii) the applicants have provided evidence that these tools have been tested under operational conditions involving drivers fulfilling the language requirements of paragraph 2.
+
+iv) all concerned staff of the railway undertaking and infrastructure manager have received appropriate training through their safety management systems.
+
+In the event of diverging opinions, the provisions of point (5) second subparagraph shall apply.
+
+(c) The applicants shall jointly submit to the Commission an application for derogation from paragraph 2, including the opinions of the authorising entity or entities and the detailed description of the pilot project on which the opinions are based. Alternatively, the participants in the project can designate a coordinator among them, who may submit the joint application on behalf of all participants in the project.
+
+(5) The Commission shall, within 60 days after receiving a complete application, grant a derogation from paragraph 2:
+
+(a) where the opinions of the authorising entity or entities are positive; and
+
+(b) where it is demonstrated that equal and non-discriminatory treatment of all applications as well as legal coherence at Union level is ensured.
+
+In the event of diverging opinions, or a failure of one or more authorising entities to deliver an opinion within the prescribed time limit, the applicants may request the Commission to find a mutually acceptable solution, in cooperation with the parties involved. If no mutually acceptable solution can be found within 90 days after receiving a request for derogation, the pilot project shall be deemed to be refused. The Commission may request the opinion of the European Union Agency for Railways, and shall do so where the opinion of each authorising entity is negative.
+
+(6) The derogation shall be granted for a limited period of time and shall not exceed 36 months. Where the derogation has been granted for a shorter period of time, it may be renewed provided that the total duration of 36 months is not exceeded.
+
+(7) On request by interested railway undertakings and where justified, an infrastructure manager shall offer other railway undertakings using a section of the network on which a pilot project is on-going, the possibility to participate in the pilot project subject to a positive opinion by the authorising entities concerned. Such additional participation shall be notified to the Commission by the infrastructure manager.
+
+In case of changes in the scope of the pilot projects, in particular the part of the network in which the project is carried out, the alternative language competences and the additional tools used for communication, the procedure described in point (4) shall apply.
+
+(8) The railway undertaking and infrastructure manager shall ensure that the operation of the pilot project is appropriately documented in their safety management systems. Records shall be kept for 24 months after the end of the pilot project, in particular of the staff involved, the training they have received, the services operated and any issues encountered during the pilot project. The concerned train drivers shall have the relevant information included in their complementary certificates.
+
+(9) After the end of each pilot project, the railway undertaking(s) and infrastructure manager(s) involved shall report to the authorising entities concerned. Where the duration of a derogation exceeds one year, the railway undertaking(s) and the infrastructure manager(s) shall report on a yearly basis within their annual safety reports according to Article 9(6) of Directive (EU) 2016/798. The national safety authorities concerned shall report the results of pilot projects in their annual reports according to Article 19 of Directive (EU) 2016/798. Based on a common framework for assessment, the European Union Agency for Railways shall analyse the results of the pilot projects and submit a report to the Commission.
+
+(10) The Commission may suspend the derogation granted if it considers that the conditions are no longer fulfilled or where safety concerns arise. A national safety authority, railway undertaking or infrastructure manager shall immediately inform the Commission in case any safety concerns arise.
+
+(11) The European Union Agency for Railways shall publish on its website a list of pilot projects authorised by the Commission, including a short description of the project and the period for which it is authorised as well as any other relevant information, such as discontinuation or suspension of the projects.
+
+## ANNEX VII — FREQUENCY OF EXAMINATIONS
+
+The minimum frequency of the periodic checks shall be as follows:
+
+(a) linguistic knowledge (only for non-native speakers): every three years or after any absence of more than one year;
+
+(b) infrastructure knowledge (including route and operation rules knowledge): every three years or after any absence of more than one year on the relevant route;
+
+(c) knowledge of rolling stock: every three years.
+
+( 1 ) OJ L 75, 15.3.2001, p. 29. Directive as last amended by Directive 2004/49/EC.
+
+( 2 ) OJ L 164, 30.4.2004, p. 1. Corrected version in OJ L 220, 21.6.2004, p. 3.
+
+( 3 ) OJ L 199, 31.7.1985, p. 56.
+
+( 4 ) According to Article 9 of Directive (EU) 2016/798 of the European Parliament and of the Council of 11 May on railway safety.

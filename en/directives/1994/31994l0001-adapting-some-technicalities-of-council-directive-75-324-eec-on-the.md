@@ -1,0 +1,117 @@
+---
+title: "Commission Directive 94/1/EC of 6 January 1994 adapting some technicalities of Council Directive 75/324/EEC on the approximation of the laws of the relating Member States to aerosol dispensers"
+identifier: "31994L0001"
+eli: "http://data.europa.eu/eli/dir/1994/1/oj"
+type: directive
+jurisdiction: eu
+language: en
+date: 1994-01-06
+entry_into_force: 1994-02-17
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31994L0001"
+retrieved: 2026-10-11
+---
+
+# Commission Directive 94/1/EC of 6 January 1994 adapting some technicalities of Council Directive 75/324/EEC on the approximation of the laws of the relating Member States to aerosol dispensers
+
+COMMISSION DIRECTIVE 94/1/EC of 6 January 1994 adapting some technicalities of Council Directive 75/324/EEC on the approximation of the laws of the relating Member States to aerosol dispensers
+
+THE COMMISSION OF THE EUROPEAN COMMUNITIES,
+
+Having regard to the Treaty establishing the European Community,
+
+Having regard to Council Directive 75/324/EEC of 20 May 1975 on the approximation of the laws of the Member States relating to aerosol dispensers (1), as last amended by the Act of Accession of Spain and Portugal, and in particular Article 10 (3) thereof,
+
+Whereas the safeguard clause provided for in Article 10 of Directive 75/324/EEC has been applied by one Member State;
+
+Whereas the safeguard measures adopted are justified in view of the risks associated with the increased use in aerosol dispensers of extremely flammable propellants as substitutes for chlorofluorocarbons (CFCs);
+
+Whereas certain substances and/or preparations contained in certain aerosol dispensers are particularly flammable;
+
+Whereas the provisions currently in force are not sufficient to prevent certain aerosol dispensers from constituting a safety hazard; whereas these provisions should therefore be adapted;
+
+Whereas some aerosol dispensers, while containing flammable substances and/or preparations, do not present any risk of ignition, whereas a derogation from certain labelling requirements should therefore be provided;
+
+Whereas the provisions contained in this Directive are in accordance with the opinion of the committee on adaptation to technical progress,
+
+HAS ADOPTED THIS DIRECTIVE:
+
+## Article 1
+
+Directive 75/324/EEC is hereby amended as follows:
+
+1\. Article 8 (1) (d) is replaced by the following:
+
+'(d) the details referred to in points 2.2 and 2.3 of the Annex;'
+
+2\. The following Article is inserted after Article 9:
+
+'Article 9a
+
+Where the person responsible for the marketing of aerosol dispensers is in possession of test results or other data showing that although those aerosol dispensers have flammable contents they do not present any risk of ignition under normal or reasonably foreseeable conditions of use, he may on his own responsibility decide not to apply the provisions of points 2.2 (b) and 2.3 (b) of the Annex.
+
+He shall make a copy of such documents available to the Member States.
+
+In such a case the quantity of flammable material contained in the aerosol dispenser must be stated cleraly on the label, in the form of the following legible and indelible wording: "X % by mass of the contents are flammable".'
+
+3\. The Annex is amended as shown in the Annex hereto.
+
+## Article 2
+
+1\. Member States shall adopt and publish the laws, regulations and administrative provisions necessary to comply with this Directive by 1 October 1994. They shall forthwith inform the Commission thereof.
+
+When Member States adopt these provisions, these shall contain a reference to this Directive or shall be accompanied by such reference at the time of their official publication. The procedure for such reference shall be adopted by Member States.
+
+They shall apply the provisions as from 1 April 1995.
+
+2\. Member States shall communicate to the Commission the texts of the provisions of national law which they adopt in the field covered by this Directive.
+
+## Article 3
+
+This Directive shall enter into force on the twentieth day following its publication in the Official Journal of the European Communities.
+
+Done at Brussels, 6 January 1994.
+
+For the Commission
+
+Martin BANGEMANN
+
+Member of the Commission
+
+(1) OJ No L 147, 9. 6. 1975, p. 40.
+
+## ANNEX
+
+The Annex to Directive 75/324/EEC is amended as follows:
+
+(a) Point 1.8 is replaced by the following:
+
+'1.8. Flammable contents
+
+"Flammable contents" means the substances and preparations corresponding to the criteria laid down for the categories "extremely flammable", "highly flammable" and "flammable" and listed in Annex VI to Council Directive 67/548/EEC.
+
+The flammability and flash point of the contents of the container shall be determined using the specific methods described in Part A of Annex V to the abovementioned Directive.'
+
+(b) Point 2.2 is replaced by the following:
+
+'2.2. Labelling
+
+Without prejudice to the Directives relating to the classification, packaging and labelling of dangerous substances and preparations, particularly as regards danger to health and/or the environment, any aerosol dispenser must visibly bear the following legible and indelible marking:
+
+(a) Whatever its contents: "Pressurized container: protect from sunlight and do not expose to temperatures exceeding 50 °C. Do not pierce or burn, even after use.";
+
+(b) Where the contents are flammable within the meaning of point 1.8: the flame symbol where appropriate, the indication that the substances and/or preparations contained in the aerosol dispenser, including the propellant, are flammable and the relevant risk phrases determined in accordance with the criteria in points 2.2.3, 2.2.4 or 2.2.5 of Annex VI to Directive 67/548/EEC and, as regards the flame symbol and the indication of danger, in accordance with the provisions of Annex II to the abovementioned Directive.
+
+2.3. Special statements concerning use
+
+Without prejudice to the Directives relating to the classification, packaging and labelling of dangerous substances and preparations, particularly as regards danger to health and/or the environment, any aerosol dispenser must visibly bear the following legible and indelible wording:
+
+(a) Whatever its contents: the additional operating precautions which alert consumers to the specific dangers of the product;
+
+(b) Where the contents are flammable, the following warnings:
+
+- "Do not spray on a naked flame or any incandescent material."
+
+- "Keep away from sources of ignition - No smoking."
+
+- "Keep out of the reach of children".'.

@@ -1,0 +1,783 @@
+---
+title: "Directive (EU) 2019/2162 of the European Parliament and of the Council of 27 November 2019 on the issue of covered bonds and covered bond public supervision and amending Directives 2009/65/EC and 2014/59/EU (Text with EEA relevance)"
+identifier: "32019L2162"
+eli: "http://data.europa.eu/eli/dir/2019/2162/oj"
+type: directive
+jurisdiction: eu
+language: en
+date: 2019-11-27
+entry_into_force: 2019-02-06
+last_amended: 2024-01-09
+consolidated_version: "02019L2162-20240109"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02019L2162-20240109"
+retrieved: 2026-10-11
+---
+
+# Directive (EU) 2019/2162 of the European Parliament and of the Council of 27 November 2019 on the issue of covered bonds and covered bond public supervision and amending Directives 2009/65/EC and 2014/59/EU (Text with EEA relevance)
+
+**DIRECTIVE (EU) 2019/2162 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 27 November 2019**
+
+**on the issue of covered bonds and covered bond public supervision and amending Directives 2009/65/EC and 2014/59/EU**
+
+**(Text with EEA relevance)**
+
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> DIRECTIVE (EU) 2023/2864 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 13 December 2023 </td><td> L </td><td>1</td><td>20.12.2023</td></tr>
+
+**DIRECTIVE (EU) 2019/2162 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 27 November 2019**
+
+**on the issue of covered bonds and covered bond public supervision and amending Directives 2009/65/EC and 2014/59/EU**
+
+**(Text with EEA relevance)**
+
+## TITLE I — SUBJECT MATTER, SCOPE AND DEFINITIONS
+
+##### Article 1 — Subject matter
+
+This Directive lays down the following investor protection rules concerning:
+
+(1) requirements for issuing covered bonds;
+
+(2) the structural features of covered bonds;
+
+(3) covered bond public supervision;
+
+(4) publication requirements in relation to covered bonds.
+
+##### Article 2 — Scope
+
+This Directive applies to covered bonds issued by credit institutions established in the Union.
+
+##### Article 3 — Definitions
+
+For the purposes of this Directive, the following definitions apply:
+
+(1) ‘covered bond’ means a debt obligation that is issued by a credit institution in accordance with the provisions of national law transposing the mandatory requirements of this Directive and that is secured by cover assets to which covered bond investors have direct recourse as preferred creditors;
+
+(2) ‘covered bond programme’ means the structural features of a covered bonds issue that are determined by statutory rules and by contractual terms and conditions, in accordance with the permission granted to the credit institution issuing the covered bonds;
+
+(3) ‘cover pool’ means a clearly defined set of assets securing the payment obligations attached to covered bonds that are segregated from other assets held by the credit institution issuing the covered bonds;
+
+(4) ‘cover assets’ means assets included in a cover pool;
+
+(5) ‘collateral assets’ means physical assets and assets in the form of exposures that secure cover assets;
+
+(6) ‘segregation’ means the actions performed by a credit institution issuing covered bonds to identify cover assets and put them legally beyond the reach of creditors other than covered bond investors and counterparties of derivative contracts;
+
+(7) ‘credit institution’ means a credit institution as defined in point (1) of Article 4(1) of Regulation (EU) No 575/2013;
+
+(8) ‘specialised mortgage credit institution’ means a credit institution which funds loans solely or mainly through the issue of covered bonds, which is permitted by law only to carry out mortgage and public sector lending and which is not permitted to take deposits, but which takes other repayable funds from the public;
+
+(9) ‘automatic acceleration’ means a situation in which a covered bond automatically becomes immediately due and payable upon the insolvency or resolution of the issuer and in respect of which the covered bond investors have an enforceable claim for repayment at a time earlier than the original maturity date;
+
+(10) ‘market value’ means, for the purposes of immovable property, market value as defined in point (76) of Article 4(1) of Regulation (EU) No 575/2013;
+
+(11) ‘mortgage lending value’ means, for the purposes of immovable property, the mortgage lending value as defined in point (74) of Article 4(1) of Regulation (EU) No 575/2013;
+
+(12) ‘primary assets’ means dominant cover assets that determine the nature of the cover pool;
+
+(13) ‘substitution assets’ means cover assets that contribute to the coverage requirements, other than primary assets;
+
+(14) ‘overcollateralisation’ means the entirety of the statutory, contractual or voluntary level of collateral that exceeds the coverage requirement set out in Article 15;
+
+(15) ‘match funding requirements’ means rules requiring that the cash flows between liabilities and assets falling due be matched by ensuring in contractual terms and conditions that payments from borrowers and counterparties of derivative contracts fall due before payments are made to covered bond investors and to the counterparties of derivative contracts, that the amounts received are at least equal in value to the payments to be made to covered bond investors and to counterparties of derivative contracts, and that the amounts received from borrowers and counterparties of derivative contracts are included in the cover pool in accordance with Article 16(3) until the payments become due to the covered bond investors and counterparties of derivative contracts;
+
+(16) ‘net liquidity outflow’ means all payment outflows falling due on one day, including principal and interest payments and payments under derivative contracts of the covered bond programme, net of all payment inflows falling due on the same day for claims related to the cover assets;
+
+(17) ‘extendable maturity structure’ means a mechanism which provides for the possibility of extending the scheduled maturity of covered bonds for a pre-determined period of time and in the event that a specific trigger occurs;
+
+(18) ‘covered bond public supervision’ means the supervision of covered bond programmes ensuring compliance with, and the enforcement of, the requirements applicable to the issue of covered bonds;
+
+(19) ‘special administrator’ means the person or entity appointed to administrate a covered bond programme in the event of the insolvency of a credit institution issuing covered bonds under that programme, or when such credit institution has been determined to be failing or likely to fail pursuant to Article 32(1) of Directive 2014/59/EU or, in exceptional circumstances, where the relevant competent authority determines that the proper functioning of that credit institution is seriously at risk;
+
+(20) ‘resolution’ means resolution as defined in point (1) of Article 2(1) of Directive 2014/59/EU;
+
+(21) ‘group’ means a group as defined in point (138) of Article 4(1) of Regulation (EU) No 575/2013;
+
+(22) ‘public undertakings’ means public undertakings as defined in point (b) of Article 2 of Commission Directive 2006/111/EC.
+
+## TITLE II — STRUCTURAL FEATURES OF COVERED BONDS
+
+### CHAPTER 1 — Dual recourse and bankruptcy remoteness
+
+##### Article 4 — Dual recourse
+
+1\. Member States shall lay down rules entitling covered bond investors and counterparties of derivative contracts that comply with Article 11 to the following claims:
+
+(a) a claim against the credit institution issuing the covered bonds;
+
+(b) in the case of the insolvency or resolution of the credit institution issuing the covered bonds, a priority claim against the principal and any accrued and future interest on cover assets;
+
+(c) in the case of the insolvency of the credit institution issuing the covered bonds and in the event that the priority claim as referred to in point (b) cannot be fully satisfied, a claim against the insolvency estate of that credit institution, which ranks pari passu with the claims of the credit institution’s ordinary unsecured creditors determined in accordance with the national laws governing the ranking in normal insolvency proceedings.
+
+2\. The claims referred to in paragraph 1 shall be limited to the full payment obligations attached to the covered bonds.
+
+3\. For the purposes of point (c) of paragraph 1 of this Article, in the case of the insolvency of a specialised mortgage credit institution, Member States may lay down rules granting the covered bond investors and counterparties of derivative contracts that comply with Article 11 a claim that ranks senior to the claim of that specialised mortgage credit institution’s ordinary unsecured creditors, determined in accordance with the national laws governing the ranking of creditors in normal insolvency proceedings, but junior to any other preferred creditors.
+
+##### Article 5 — Bankruptcy remoteness of covered bonds
+
+Member States shall ensure that the payment obligations attached to covered bonds are not subject to automatic acceleration upon the insolvency or resolution of the credit institution issuing the covered bonds.
+
+### CHAPTER 2 — Cover pool and coverage
+
+#### Section I — Eligible assets
+
+##### Article 6 — Eligible cover assets
+
+1\. Member States shall require that covered bonds are at all times secured by:
+
+(a) assets that are eligible pursuant to Article 129(1) of Regulation (EU) No 575/2013, provided that the credit institution issuing the covered bonds meets the requirements of paragraphs 1a to 3 of Article 129 of that Regulation;
+
+(b) high-quality cover assets that ensure that the credit institution issuing the covered bonds has a claim for payment as set out in paragraph 2 and are secured by collateral assets as set out in paragraph 3; or
+
+(c) assets in the form of loans to or guaranteed by public undertakings, subject to paragraph 4 of this Article.
+
+2\. The claim for payment referred to in point (b) of paragraph 1 shall be subject to the following legal requirements:
+
+(a) the asset represents a claim for payment of monies that has a minimum value that is determinable at all times, that is legally valid and enforceable, that is not subject to conditions other than the condition that the claim matures at a future date, and that is secured by a mortgage, charge, lien or other guarantee;
+
+(b) the mortgage, charge, lien or other guarantee securing the claim for payment is enforceable;
+
+(c) all legal requirements for establishing the mortgage, charge, lien or guarantee securing the claim for payment have been fulfilled;
+
+(d) the mortgage, charge, lien or guarantee securing the claim for payment enables the credit institution issuing the covered bonds to recover the value of the claim without undue delay.
+
+Member States shall require that credit institutions issuing covered bonds assess the enforceability of claims for payment and the ability to realise collateral assets before including them in the cover pool.
+
+3\. The collateral assets referred to in point (b) of paragraph 1 shall meet one of the following requirements:
+
+(a) for physical collateral assets, there exist valuation standards that are generally accepted among experts and that are appropriate for the physical collateral asset concerned and there exists a public register that records ownership of and claims on those physical collateral assets; or
+
+(b) for assets in the form of exposures, the safety and soundness of the exposure counterparty is implied by tax-raising powers or by being subject to ongoing public supervision of the counterparty’s operational soundness and financial solvability.
+
+Physical collateral assets referred to in point (a) of the first subparagraph of this paragraph shall contribute to coverage of liabilities attached to the covered bond up to the lesser of the principal amount of the liens that are combined with any prior liens and 70 % of the value of those physical collateral assets. Physical collateral assets referred to in point (a) of the first subparagraph of this paragraph which secure assets as referred to in point (a) of paragraph 1 shall not be required to comply with the limit of 70 % or with the limits of Article 129(1) of Regulation (EU) No 575/2013.
+
+Where, for the purposes of point (a) of the first subparagraph of this paragraph, no public register for a particular physical collateral asset exists, Member States may provide for an alternative form of certification of the ownership of and claims on that physical collateral asset, insofar as that form of certification provides protection that is comparable to the protection provided by a public register in the sense that it allows interested third parties, in accordance with the law of the Member State concerned, to access information in relation to the identification of the encumbered physical collateral asset, the attribution of ownership, the documentation and attribution of encumbrances and the enforceability of security interests.
+
+4\. For the purposes of point (c) of paragraph 1, covered bonds secured by loans to or guaranteed by public undertakings as primary assets shall be subject to a minimum level of 10 % of overcollateralisation and subject to all the following conditions:
+
+(a) the public undertakings provide essential public services on the basis of a licence, a concession contract or other form of entrustment granted by a public authority;
+
+(b) the public undertakings are subject to public supervision;
+
+(c) the public undertakings have sufficient revenue generating powers, which are ensured by the fact of such public undertakings:
+
+(i) having adequate flexibility to collect and to increase fees, charges and receivables for the service provided in order to ensure their financial soundness and solvability;
+
+(ii) receiving sufficient grants on a statutory basis in order to ensure their financial soundness and solvability in exchange for providing essential public services; or
+
+(iii) having entered into a profit and loss transfer agreement with a public authority.
+
+5\. Member States shall lay down rules on the methodology and process for the valuation of physical collateral assets which secure assets as referred to in points (a) and (b) of paragraph 1. Those rules shall ensure at least the following:
+
+(a) for each physical collateral asset, that a current valuation at or at less than market value or mortgage lending value exists at the moment of inclusion of the cover asset in the cover pool;
+
+(b) that the valuation is carried out by a valuer who possesses the necessary qualifications, ability and experience; and
+
+(c) that the valuer is independent from the credit decision process, does not take into account speculative elements in the assessment of the value of the physical collateral asset, and documents the value of the physical collateral asset in a transparent and clear manner.
+
+6\. Member States shall require that credit institutions issuing covered bonds have in place procedures to monitor that the physical collateral assets which secure assets as referred to in points (a) and (b) of paragraph 1 of this Article are adequately insured against the risk of damage and that the insurance claim is segregated in accordance with Article 12.
+
+7\. Member States shall require credit institutions issuing covered bonds to document the cover assets referred to in points (a) and (b) of paragraph 1 and the compliance of their lending policies with the provisions of national law transposing this Article.
+
+8\. Member States shall lay down rules ensuring risk diversification in the cover pool in relation to granularity and material concentration for assets not eligible under point (a) of paragraph 1.
+
+##### Article 7 — Collateral assets located outside the Union
+
+1\. Subject to paragraph 2, Member States may allow credit institutions issuing covered bonds to include assets in the cover pool that are secured by collateral assets located outside the Union.
+
+2\. Where Member States allow for the inclusion of assets as referred to in paragraph 1, they shall ensure investor protection by requiring that credit institutions verify that those collateral assets meet all the requirements set out in Article 6. Member States shall ensure that those collateral assets offer a level of security similar to that of collateral assets located in the Union and shall ensure that the realisation of those collateral assets is legally enforceable in a way which is equivalent in effect to the realisation of collateral assets located in the Union.
+
+##### Article 8 — Intragroup pooled covered bond structures
+
+Member States may lay down rules regarding the use of intragroup pooled covered bond structures under which covered bonds issued by a credit institution that belongs to a group (‘internally issued covered bonds’) are used as cover assets for the external issue of covered bonds by another credit institution that belongs to the same group (‘externally issued covered bonds’). Those rules shall include at least the following requirements:
+
+(a) the internally issued covered bonds are sold to the credit institution issuing the externally issued covered bonds;
+
+(b) the internally issued covered bonds are used as cover assets in the cover pool for the externally issued covered bonds and are recorded on the balance sheet of the credit institution issuing the externally issued covered bonds;
+
+(c) the cover pool for the externally issued covered bonds contains only internally issued covered bonds issued by a single credit institution within the group;
+
+(d) the credit institution issuing the externally issued covered bonds intends to sell them to covered bond investors outside the group;
+
+(e) both the internally and externally issued covered bonds qualify for credit quality step 1 as referred to in Part Three, Title II, Chapter 2 of Regulation (EU) No 575/2013 at the time of issue and are secured by eligible cover assets as referred to in Article 6 of this Directive;
+
+(f) in the case of cross-border intragroup pooled covered bond structures, the cover assets of the internally issued covered bonds comply with the eligibility and coverage requirements of the externally issued covered bonds.
+
+For the purposes of point (e) of the first subparagraph of this Article, competent authorities designated pursuant to Article 18(2) may allow covered bonds that qualify for credit quality step 2 following a change that results in a lower credit quality step of the covered bonds to continue to be part of an intragroup pooled covered bond structure, provided that those competent authorities conclude that the change in credit quality step is not due to a breach of the requirements for permission as set out in the provisions of national law transposing Article 19(2). Competent authorities designated pursuant to Article 18(2) shall subsequently notify EBA of any decision pursuant to this subparagraph.
+
+##### Article 9 — Joint funding
+
+1\. Member States shall allow eligible cover assets that were originated by a credit institution and have been purchased by a credit institution issuing covered bonds to be used as cover assets for the issue of covered bonds.
+
+Member States shall regulate such purchases in order to ensure that the requirements set out in Articles 6 and 12 are met.
+
+2\. Without prejudice to the requirement set out in the second subparagraph of paragraph 1 of this Article, Member States may allow transfers by way of financial collateral arrangement pursuant to Directive 2002/47/EC.
+
+3\. Without prejudice to the requirement set out in the second subparagraph of paragraph 1, Member States may also allow assets that were originated by an undertaking that is not a credit institution to be used as cover assets. Where Member States exercise that option, they shall require that the credit institution issuing the covered bonds either assess the credit-granting standards of the undertaking which originated the cover assets, or itself perform a thorough assessment of the borrower’s creditworthiness.
+
+##### Article 10 — Composition of the cover pool
+
+Member States shall ensure investor protection by laying down rules on the composition of cover pools. Those rules shall, where relevant, set the conditions for the inclusion by credit institutions issuing covered bonds of primary assets that have differing characteristics in terms of structural features, lifetime or risk profile in the cover pool.
+
+##### Article 11 — Derivative contracts in the cover pool
+
+1\. Member States shall ensure investor protection by allowing derivative contracts to be included in the cover pool only where at least the following requirements are met:
+
+(a) the derivative contracts are included in the cover pool exclusively for risk hedging purposes, their volume is adjusted in the case of a reduction in the hedged risk and they are removed when the hedged risk ceases to exist;
+
+(b) the derivative contracts are sufficiently documented;
+
+(c) the derivative contracts are segregated in accordance with Article 12;
+
+(d) the derivative contracts cannot be terminated upon the insolvency or resolution of the credit institution that issued the covered bonds;
+
+(e) the derivative contracts comply with the rules laid down in accordance with paragraph 2.
+
+2\. For the purposes of ensuring compliance with the requirements listed in paragraph 1, Member States shall lay down rules for derivative contracts in the cover pool. Those rules shall specify:
+
+(a) the eligibility criteria for the hedging counterparties;
+
+(b) the necessary documentation to be provided in relation to derivative contracts.
+
+##### Article 12 — Segregation of cover assets
+
+1\. Member States shall lay down rules regulating the segregation of cover assets. Those rules shall include at least the following requirements:
+
+(a) all cover assets are identifiable by the credit institution issuing the covered bonds at all times;
+
+(b) all cover assets are subject to legally binding and enforceable segregation by the credit institution issuing the covered bonds;
+
+(c) all cover assets are protected from any third party claims and no cover asset forms part of the insolvency estate of the credit institution issuing the covered bonds until the priority claim referred to in point (b) of Article 4(1) has been satisfied.
+
+For the purposes of the first subparagraph, the cover assets shall include any collateral received in connection with derivative contract positions.
+
+2\. The segregation of cover assets referred to in paragraph 1 shall also apply in the case of insolvency or resolution of the credit institution issuing covered bonds.
+
+##### Article 13 — Cover pool monitor
+
+1\. Member States may require that credit institutions issuing covered bonds appoint a cover pool monitor to perform ongoing monitoring of the cover pool with regard to the requirements set out in Articles 6 to 12 and Articles 14 to 17.
+
+2\. Where Member States exercise the option provided for in paragraph 1, they shall lay down rules at least on the following aspects:
+
+(a) the appointment and dismissal of the cover pool monitor;
+
+(b) any eligibility criteria for the cover pool monitor;
+
+(c) the role and duties of the cover pool monitor, including in the case of the insolvency or resolution of the credit institution issuing the covered bonds;
+
+(d) the obligation to report to the competent authorities designated pursuant to Article 18(2);
+
+(e) the right of access to information necessary for the performance of the cover pool monitor’s duties.
+
+3\. Where Member States exercise the option provided for in paragraph 1, the cover pool monitor shall be separate and independent from the credit institution issuing the covered bonds and from that credit institution’s auditor.
+
+Member States may, however, allow a cover pool monitor that is not separate from the credit institution (‘internal cover pool monitor’) where:
+
+(a) the internal cover pool monitor is independent from the credit decision process of the credit institution issuing the covered bonds;
+
+(b) without prejudice to point (a) of paragraph 2, Member States ensure that the internal cover pool monitor cannot be removed from that function as cover pool monitor without the prior approval of the management body in its supervisory function of the credit institution issuing the covered bonds; and
+
+(c) where necessary, the internal cover pool monitor has direct access to the management body in its supervisory function.
+
+4\. Where Member States exercise the option provided for in paragraph 1, they shall notify EBA.
+
+##### Article 14 — Investor information
+
+1\. Member States shall ensure that credit institutions issuing covered bonds provide information on their covered bond programmes that is sufficiently detailed to allow investors to assess the profile and risks of that programme and to carry out their due diligence.
+
+2\. For the purposes of paragraph 1, Member States shall ensure that the information is provided to investors at least on a quarterly basis and includes the following minimum portfolio information:
+
+(a) the value of the cover pool and outstanding covered bonds;
+
+(b) a list of the International Securities Identification Numbers (ISINs) for all covered bond issues under that programme, to which an ISIN has been attributed;
+
+(c) the geographical distribution and type of cover assets, their loan size and valuation method;
+
+(d) details in relation to market risk, including interest rate risk and currency risk, and credit and liquidity risks;
+
+(e) the maturity structure of cover assets and covered bonds, including an overview of the maturity extension triggers if applicable;
+
+(f) the levels of required and available coverage, and the levels of statutory, contractual and voluntary overcollateralisation;
+
+(g) the percentage of loans where a default is considered to have occurred pursuant to Article 178 of Regulation (EU) No 575/2013 and in any case where the loans are more than 90 days past due.
+
+Member States shall ensure that for externally issued covered bonds under intragroup pooled covered bond structures as referred to in Article 8, the information referred to in the first subparagraph of this paragraph, or a link thereto, is provided to investors in respect of all internally issued covered bonds of the group. Member States shall ensure that that information is provided to investors on at least an aggregated basis.
+
+3\. Member States shall ensure investor protection by requiring credit institutions issuing covered bonds to publish on their website the information made available to investors in accordance with paragraphs 1 and 2. Member States shall not require those credit institutions to publish that information on paper.
+
+#### Section II — Coverage and liquidity requirements
+
+##### Article 15 — Coverage requirements
+
+1\. Member States shall ensure investor protection by requiring covered bond programmes to comply at all times with at least the coverage requirements laid down in paragraphs 2 to 8.
+
+2\. All liabilities of the covered bonds shall be covered by claims for payment attached to the cover assets.
+
+3\. The liabilities referred to in paragraph 2 shall include:
+
+(a) the obligations for the payment of the principal amount of outstanding covered bonds;
+
+(b) the obligations for the payment of any interest on outstanding covered bonds;
+
+(c) the payment obligations attached to derivative contracts held in accordance with Article 11; and
+
+(d) the expected costs related to maintenance and administration for the winding-down of the covered bond programme.
+
+For the purposes of point (d) of the first subparagraph, Member States may allow a lump sum calculation.
+
+4\. The following cover assets shall be considered to contribute to the coverage requirement:
+
+(a) primary assets;
+
+(b) substitution assets;
+
+(c) liquid assets held in accordance with Article 16; and
+
+(d) claims for payment attached to derivative contracts held in accordance with Article 11.
+
+Uncollateralised claims where a default is considered to have occurred pursuant to Article 178 of Regulation (EU) No 575/2013 do not contribute to coverage.
+
+5\. For the purposes of point (c) of the first subparagraph of paragraph 3 and point (d) of the first subparagraph of paragraph 4, Member States shall lay down rules on the valuation of derivative contracts.
+
+6\. The calculation of the required coverage shall ensure that the aggregate principal amount of all cover assets is equal to or exceeds the aggregate principal amount of outstanding covered bonds (‘nominal principle’).
+
+Member States may allow for other principles of calculation, provided that they do not result in a higher ratio of coverage than that calculated under the nominal principle.
+
+Member States shall lay down rules on the calculation of any interest payable in respect of outstanding covered bonds and interest receivable in respect of cover assets, which shall reflect sound prudential principles in accordance with applicable accounting standards.
+
+7\. By way of derogation from the first subparagraph of paragraph 6, Member States may, in a manner which reflects sound prudential principles and in accordance with applicable accounting standards, allow for future interest receivable on the cover asset net of future interest payable on the corresponding covered bond to be taken into consideration in order to balance any shortfall in coverage of the principal payment obligation attached to the covered bond where there is a close correspondence as defined in the applicable delegated regulation adopted pursuant to Article 33(4) of Regulation (EU) No 575/2013, subject to the following conditions:
+
+(a) payments received during the lifetime of the cover asset and necessary for coverage of the payment obligation attached to the corresponding covered bond are segregated in accordance with Article 12 or are included in the cover pool in the form of cover assets referred to in Article 6 until the payments become due; and
+
+(b) prepayment of the cover asset is only possible by way of exercising the delivery option, as defined in the applicable delegated regulation adopted pursuant to Article 33(4) of Regulation (EU) No 575/2013 or, in the case of covered bonds callable at par by the credit institution issuing the covered bonds, by way of the cover asset’s borrower paying at least the called covered bond’s par amount.
+
+8\. Member States shall ensure that the calculation of cover assets and liabilities is based on the same methodology. Member States may allow for different calculation methodologies for the calculation of cover assets on the one hand and liabilities on the other, provided that the use of such different methodologies does not result in a higher ratio of coverage than that calculated using the same methodology for the calculation of both cover assets and liabilities.
+
+##### Article 16 — Requirement for a cover pool liquidity buffer
+
+1\. Member States shall ensure investor protection by requiring that the cover pool includes at all times a liquidity buffer composed of liquid assets available to cover the net liquidity outflow of the covered bond programme.
+
+2\. The cover pool liquidity buffer shall cover the maximum cumulative net liquidity outflow over the next 180 days.
+
+3\. Member States shall ensure that the cover pool liquidity buffer referred to in paragraph 1 of this Article consists of the following types of assets, segregated in accordance with Article 12 of this Directive:
+
+(a) assets qualifying as level 1, level 2A or level 2B assets pursuant to the applicable delegated regulation adopted pursuant to Article 460 of Regulation (EU) No 575/2013, that are valued in accordance with that delegated regulation, and are not issued by the credit institution issuing the covered bonds itself, its parent undertaking, other than a public sector entity that is not a credit institution, its subsidiary or another subsidiary of its parent undertaking or by a securitisation special purpose entity with which the credit institution has close links;
+
+(b) short-term exposures to credit institutions that qualify for credit quality step 1 or 2, or short-term deposits to credit institutions that qualify for credit quality step 1, 2 or 3, in accordance with point (c) of Article 129(1) of Regulation (EU) No 575/2013.
+
+Member States may restrict the types of liquid assets to be used for the purposes of points (a) and (b) of the first subparagraph.
+
+Member States shall ensure that uncollateralised claims from exposures considered in default pursuant to Article 178 of Regulation (EU) No 575/2013 cannot contribute to the cover pool liquidity buffer.
+
+4\. Where credit institutions issuing covered bonds are subject to liquidity requirements set out in other Union legal acts that result in an overlap with the cover pool liquidity buffer, Member States may decide not to apply the provisions of national law transposing paragraphs 1, 2 and 3 for the period provided for in those Union legal acts. Member States may exercise that option only until the date on which an amendment to those Union legal acts to eliminate the overlap becomes applicable and shall inform the Commission and EBA where they exercise that option.
+
+5\. Member States may allow for the calculation of the principal for extendable maturity structures to be based on the final maturity date in accordance with the contractual terms and conditions of the covered bond.
+
+6\. Member States may provide that paragraph 1 does not apply to covered bonds that are subject to match funding requirements.
+
+##### Article 17 — Conditions for extendable maturity structures
+
+1\. Member States may allow for the issue of covered bonds with extendable maturity structures where investor protection is ensured by at least the following:
+
+(a) the maturity can only be extended subject to objective triggers specified in national law, and not at the discretion of the credit institution issuing the covered bonds;
+
+(b) the maturity extension triggers are specified in the contractual terms and conditions of the covered bond;
+
+(c) the information provided to investors about the maturity structure is sufficient to enable them to determine the risk of the covered bond, and includes a detailed description of:
+
+(i) the maturity extension triggers;
+
+(ii) the consequences for a maturity extension of the insolvency or resolution of the credit institution issuing the covered bonds;
+
+(iii) the role of the competent authorities designated pursuant to Article 18(2) and, where relevant, of the special administrator with regard to the maturity extension;
+
+(d) the final maturity date of the covered bond is at all times determinable;
+
+(e) in the event of the insolvency or resolution of the credit institution issuing the covered bonds, maturity extensions do not affect the ranking of covered bond investors or invert the sequencing of the covered bond programme’s original maturity schedule;
+
+(f) the maturity extension does not change the structural features of the covered bonds regarding dual recourse as referred to in Article 4 and bankruptcy remoteness as referred to in Article 5.
+
+2\. Member States which allow the issue of covered bonds with extendable maturity structures shall notify EBA accordingly.
+
+## TITLE III — COVERED BOND PUBLIC SUPERVISION
+
+##### Article 18 — Covered bond public supervision
+
+1\. Member States shall ensure investor protection by providing that the issue of covered bonds is subject to covered bond public supervision.
+
+2\. For the purposes of the covered bond public supervision referred to in paragraph 1, Member States shall designate one or more competent authorities. They shall inform the Commission and EBA of those designated authorities and shall indicate any division of functions and duties.
+
+3\. Member States shall ensure that the competent authorities designated pursuant to paragraph 2 monitor the issue of covered bonds to assess compliance with the requirements laid down in the provisions of national law transposing this Directive.
+
+4\. Member States shall ensure that credit institutions issuing covered bonds register all their transactions in relation to the covered bond programme and have in place adequate and appropriate documentation systems and processes.
+
+5\. Member States shall further ensure that appropriate measures are in place to enable the competent authorities designated pursuant to paragraph 2 of this Article to obtain the information necessary to assess the compliance with the requirements laid down in the provisions of national law transposing this Directive, investigate possible breaches of those requirements, and impose administrative penalties and other administrative measures in accordance with the provisions of national law transposing Article 23.
+
+6\. Member States shall ensure that the competent authorities designated pursuant to paragraph 2, have the expertise, resources, operational capacity, powers and independence necessary to carry out the functions relating to covered bond public supervision.
+
+##### Article 19 — Permission for covered bond programmes
+
+1\. Member States shall ensure investor protection by requiring permission for a covered bond programme to be obtained before issuing covered bonds under that programme. Member States shall confer the power to grant such permission upon the competent authorities designated pursuant to Article 18(2).
+
+2\. Member States shall lay down the requirements for the permission referred to in paragraph 1, including at least the following:
+
+(a) an adequate programme of operations setting out the issue of covered bonds;
+
+(b) adequate policies, processes and methodologies aimed at investor protection for the approval, amendment, renewal and refinancing of loans included in the cover pool;
+
+(c) management and staff dedicated to the covered bond programme which have adequate qualifications and knowledge regarding the issue of covered bonds and the administration of the covered bond programme;
+
+(d) an administrative set-up of the cover pool and the monitoring thereof that meets the applicable requirements laid down in the provisions of national law transposing this Directive.
+
+##### Article 20 — Covered bond public supervision in the event of insolvency or resolution
+
+1\. The competent authorities designated pursuant to Article 18(2) shall cooperate with the resolution authority in the event of the resolution of a credit institution issuing covered bonds in order to ensure that the rights and interests of the covered bond investors are preserved, including at least by verifying the continuous and sound management of the covered bond programme during the period of the resolution process.
+
+2\. Member States may provide for the appointment of a special administrator to ensure that the rights and interests of the covered bond investors are preserved, including at least by verifying the continuous and sound management of the covered bond programme during the necessary period.
+
+Where Member States exercise that option, they may require their competent authorities designated pursuant to Article 18(2) to approve the appointment and dismissal of the special administrator. Member States that exercise that option shall at least require that those competent authorities be consulted regarding the appointment and dismissal of the special administrator.
+
+3\. Where Member States provide for the appointment of a special administrator in accordance with paragraph 2, they shall adopt rules laying down the tasks and responsibilities of that special administrator at least in relation to:
+
+(a) the discharge of the liabilities attached to the covered bonds;
+
+(b) the management and realisation of cover assets, including their transfer together with covered bond liabilities to another credit institution issuing covered bonds;
+
+(c) the legal transactions necessary for the proper administration of the cover pool, for the ongoing monitoring of the coverage of the liabilities attached to the covered bonds, for the initiation of proceedings in order to bring assets back into the cover pool and for the transferral of the remaining assets to the insolvency estate of the credit institution which issued the covered bonds after all covered bond liabilities have been discharged.
+
+For the purposes of point (c) of the first subparagraph, Member States may allow the special administrator to operate, in the case of the insolvency of the credit institution issuing the covered bonds, under the authorisation held by that credit institution, subject to the same operational requirements.
+
+4\. Member States shall ensure the coordination and exchange of information for the purposes of the insolvency or resolution process among the competent authorities designated pursuant to Article 18(2), the special administrator, where such an administrator has been appointed, and, in case of resolution, the resolution authority.
+
+##### Article 21 — Reporting to the competent authorities
+
+1\. Member States shall ensure investor protection by requiring credit institutions issuing covered bonds to report the information set out in paragraph 2 on covered bond programmes to the competent authorities designated pursuant to Article 18(2). That reporting shall be carried out on a regular basis as well as at the request of those competent authorities. Member States shall lay down rules on the frequency of that regular reporting.
+
+2\. The reporting obligations to be laid down pursuant to paragraph 1 shall require that the information to be provided includes information on at least the following:
+
+(a) the eligibility of assets and cover pool requirements in accordance with Articles 6 to 11;
+
+(b) the segregation of cover assets in accordance with Article 12;
+
+(c) where applicable, the functioning of the cover pool monitor in accordance with Article 13;
+
+(d) the coverage requirements in accordance with Article 15;
+
+(e) the cover pool liquidity buffer in accordance with Article 16;
+
+(f) where applicable, the conditions for extendable maturity structures in accordance with Article 17.
+
+3\. Member States shall provide for rules on the information to be provided under paragraph 2 by the credit institutions issuing covered bonds to the competent authorities designated pursuant to Article 18(2) in the event of the insolvency or resolution of a credit institution issuing covered bonds.
+
+##### Article 22 — Powers of competent authorities for the purposes of covered bond public supervision
+
+1\. Member States shall ensure investor protection by giving competent authorities designated pursuant to Article 18(2) all supervisory, investigatory and sanctioning powers that are necessary to perform the task of covered bond public supervision.
+
+2\. The powers referred to in paragraph 1 shall include at least the following:
+
+(a) the power to grant or refuse permission pursuant to Article 19;
+
+(b) the power to regularly review the covered bond programme in order to assess compliance with the provisions of national law transposing this Directive;
+
+(c) the power to carry out on-site and off-site inspections;
+
+(d) the power to impose administrative penalties and other administrative measures in accordance with the provisions of national law transposing Article 23;
+
+(e) the power to adopt and implement supervisory guidelines relating to the issue of covered bonds.
+
+##### Article 23 — Administrative penalties and other administrative measures
+
+1\. Without prejudice to the right of Member States to provide for criminal penalties, Member States shall lay down rules establishing appropriate administrative penalties and other administrative measures that apply at least in the following situations:
+
+(a) a credit institution has acquired a permission for a covered bond programme by means of false statements or other irregular means;
+
+(b) a credit institution no longer fulfils the conditions under which permission for a covered bond programme was given;
+
+(c) a credit institution issues covered bonds without obtaining the permission in accordance with the provisions of national law transposing Article 19;
+
+(d) a credit institution issuing covered bonds fails to meet the requirements set out in the provisions of national law transposing Article 4;
+
+(e) a credit institution issues covered bonds that do not comply with the requirements set out in the provisions of national law transposing Article 5;
+
+(f) a credit institution issues covered bonds that are not collateralised in accordance with the provisions of national law transposing Article 6;
+
+(g) a credit institution issues covered bonds that are collateralised by assets located outside the Union in breach of the requirements laid down in the provisions of national law transposing Article 7;
+
+(h) a credit institution collateralises covered bonds in an intragroup pooled covered bond structure in breach of the requirements laid down in the provisions of national law transposing Article 8;
+
+(i) a credit institution issuing covered bonds fails to fulfil the conditions for joint funding laid down in the provisions of national law transposing Article 9;
+
+(j) a credit institution issuing covered bonds fails to meet the requirements of composition of the cover pool laid down in the provisions of national law transposing Article 10;
+
+(k) a credit institution issuing covered bonds fails to meet the requirements regarding derivative contracts in the cover pool laid down in the provisions of national law transposing Article 11;
+
+(l) a credit institution issuing covered bonds fails to comply with the requirements of the segregation of cover assets in accordance with the provisions of national law transposing Article 12;
+
+(m) a credit institution issuing covered bonds fails to report information or provides incomplete or inaccurate information in breach of the provisions of national law transposing Article 14;
+
+(n) a credit institution issuing covered bonds repeatedly or persistently fails to maintain a cover pool liquidity buffer in breach of the provisions of national law transposing Article 16;
+
+(o) a credit institution that issues covered bonds with extendable maturity structures fails to fulfil the conditions for extendable maturity structures laid down in the provisions of national law transposing Article 17;
+
+(p) a credit institution issuing covered bonds fails to report information or provides incomplete or inaccurate information on its obligations in breach of the provisions of national law transposing Article 21(2).
+
+Member States may decide not to provide for administrative penalties or other administrative measures for breaches which are subject to criminal penalties under their national law. In such cases, Member States shall communicate the relevant criminal law provisions to the Commission.
+
+2\. The penalties and measures referred to in paragraph 1 shall be effective, proportionate and dissuasive and shall include at least the following:
+
+(a) a withdrawal of permission for a covered bond programme;
+
+(b) a public statement which indicates the identity of the natural or legal person and the nature of the breach in accordance with Article 24;
+
+(c) an order requiring the natural or legal person to cease the conduct and to desist from a repetition of that conduct;
+
+(d) administrative pecuniary penalties.
+
+3\. Member States shall also ensure that the penalties and measures referred to in paragraph 1 are effectively implemented.
+
+4\. Member States shall ensure that, when determining the type of administrative penalties or other administrative measures and the amount of administrative pecuniary penalties, the competent authorities designated pursuant to Article 18(2) take into account all the following circumstances, where relevant:
+
+(a) the gravity and the duration of the breach;
+
+(b) the degree of responsibility of the natural or legal person responsible for the breach;
+
+(c) the financial strength of the natural or legal person responsible for the breach, including by reference to the total turnover of the legal person or the annual income of the natural person;
+
+(d) the importance of profits gained or losses avoided because of the breach by the natural or legal person responsible for the breach, insofar as those profits or losses can be determined;
+
+(e) the losses caused to third parties by the breach, insofar as those losses can be determined;
+
+(f) the level of cooperation by the natural or legal person responsible for the breach with the competent authorities designated pursuant to Article 18(2);
+
+(g) any previous breaches by the natural or legal person responsible for the breach;
+
+(h) any actual or potential systemic consequences of the breach.
+
+5\. Where the provisions referred to in paragraph 1 apply to legal persons, Member States shall also ensure that the competent authorities designated pursuant to Article 18(2) apply the administrative penalties and other administrative measures set out in paragraph 2 of this Article to members of the management body and to other individuals who under national law are responsible for the breach.
+
+6\. Member States shall ensure that before taking any decision imposing administrative penalties or other administrative measures as set out in paragraph 2, the competent authorities designated pursuant to Article 18(2) give the natural or legal person concerned the opportunity to be heard. Exceptions to the right to be heard may apply for the adoption of those other administrative measures where urgent action is necessary to prevent significant losses to third parties or significant damage to the financial system. In such cases, the person concerned shall be given the opportunity to be heard as soon as possible after the adoption of the administrative measure and, where necessary, that measure shall be revised.
+
+7\. Member States shall ensure that any decision imposing administrative penalties or other administrative measures as set out in paragraph 2 is properly reasoned and is subject to a right of appeal.
+
+##### Article 24 — Publication of administrative penalties and other administrative measures
+
+1\. Member States shall ensure that the provisions of national law transposing this Directive include rules requiring that administrative penalties and other administrative measures be published without undue delay on the official websites of the competent authorities designated pursuant to Article 18(2). The same obligations apply where a Member State decides to provide for criminal penalties pursuant to the second subparagraph of Article 23(1).
+
+2\. The rules adopted pursuant to paragraph 1 shall require at a minimum the publication of any decision which cannot or can no longer be appealed, and which is imposed for breach of the provisions of national law transposing this Directive.
+
+3\. Member States shall ensure that such a publication includes information on the type and nature of the breach and the identity of the natural or legal person on whom the penalty or measure is imposed. Subject to paragraph 4, Member States shall further ensure that such information is published without undue delay after the addressee has been informed of that penalty or measure as well as of the publication of the decision imposing that penalty or measure on the official websites of the competent authorities designated pursuant to Article 18(2).
+
+4\. Where Member States permit publication of a decision imposing penalties or other measures against which an appeal is pending, the competent authorities designated pursuant to Article 18(2) shall, without undue delay, also publish on their official websites information on the status of the appeal and the outcome thereof.
+
+5\. Member States shall ensure that the competent authorities designated pursuant to Article 18(2) publish the decision imposing penalties or measures on an anonymous basis and in accordance with national law, in any of the following circumstances:
+
+(a) where the penalty or measure is imposed on a natural person and the publication of personal data is found to be disproportionate;
+
+(b) where publication would jeopardise the stability of financial markets or an ongoing criminal investigation;
+
+(c) where publication would cause, insofar as it can be determined, disproportionate damage to the credit institutions or the natural persons involved.
+
+6\. Where a Member State publishes a decision imposing a penalty or measure on an anonymous basis, it may allow for the publication of the relevant data to be postponed.
+
+7\. Member States shall ensure that any final court ruling that annuls a decision imposing a penalty or measure is also published.
+
+8\. Member States shall ensure that any publication referred to in paragraphs 2 to 6 remains on the official websites of the competent authorities designated pursuant to Article 18(2) for at least five years from the date of publication. Personal data contained in the publication shall only be retained on the official website for the period which is necessary and in accordance with the applicable personal data protection rules. Such a retention period shall be determined taking into account the limitation periods provided for in the legislation of the Member States concerned but shall in no case be longer than ten years.
+
+9\. The competent authorities designated pursuant to Article 18(2) shall inform EBA of any administrative penalties and other administrative measures imposed, including, where relevant, any appeal in relation thereto and the outcome thereof. Member States shall ensure that those competent authorities receive information and details of the final judgement in relation to any criminal penalty imposed, which those competent authorities shall also submit to EBA.
+
+10\. EBA shall maintain a central database of administrative penalties and other administrative measures communicated to them. That database shall be accessible only to the competent authorities designated pursuant to Article 18(2) and shall be updated on the basis of the information provided by those competent authorities in accordance with paragraph 9 of this Article.
+
+##### Article 25 — Cooperation obligations
+
+1\. Member States shall ensure that the competent authorities designated pursuant to Article 18(2) cooperate closely with the competent authorities performing the general supervision of credit institutions in accordance with relevant Union law applicable to those institutions and with the resolution authority in the event of the resolution of a credit institution issuing covered bonds.
+
+2\. Member States shall further ensure that the competent authorities designated pursuant to Article 18(2) cooperate closely with each other. That cooperation shall include providing one another with any information which is relevant for the exercise of the other authorities’ supervisory tasks under the provisions of national law transposing this Directive.
+
+3\. For the purposes of the second sentence of paragraph 2 of this Article, Member States shall ensure that the competent authorities designated pursuant to Article 18(2) communicate:
+
+(a) all relevant information at the request of another competent authority designated pursuant to Article 18(2); and
+
+(b) on their own initiative, any essential information to other competent authorities designated pursuant to Article 18(2) in other Member States.
+
+4\. Member States shall also ensure that the competent authorities designated pursuant to Article 18(2) cooperate with EBA or, where relevant, with the European Supervisory Authority (European Securities and Markets Authority), established by Regulation (EU) No 1095/2010 of the European Parliament and of the Council ( 1 ), for the purposes of this Directive.
+
+5\. For the purposes of this Article, information shall be regarded as essential if it could materially influence the assessment of the issue of covered bonds in another Member State.
+
+##### Article 26 — Disclosure requirements
+
+1\. Member States shall ensure that the following information is published by the competent authorities designated pursuant to Article 18(2) on their official websites:
+
+(a) the texts of their national laws, regulations, administrative rules and general guidance adopted in relation to the issue of covered bonds;
+
+(b) the list of credit institutions permitted to issue covered bonds;
+
+(c) the list of covered bonds that are entitled to use the label ‘European Covered Bond’ and the list of covered bonds that are entitled to use the label ‘European Covered Bond (Premium)’.
+
+2\. The information published in accordance with paragraph 1 shall be sufficient to enable a meaningful comparison of the approaches adopted by the different Member States’ competent authorities designated pursuant to Article 18(2). That information shall be updated to take account of any changes.
+
+3\. The competent authorities designated pursuant to Article 18(2) shall notify EBA on an annual basis of the list of credit institutions referred to in point (b) of paragraph 1 and the lists of covered bonds referred to in point (c) of paragraph 1.
+
+##### Article 26a — Accessibility of information on the European single access point
+
+1\. From 10 January 2030, Member States shall ensure that, when making public any information referred to in Article 14 of this Directive, credit institutions permitted to issue covered bonds submit that information at the same time to the relevant collection body referred to in paragraph 3 of this Article for the purpose of making it accessible on European single access point (ESAP) established pursuant to Regulation (EU) 2023/2859 of the European Parliament and of the Council ( 2 ).
+
+Member States shall ensure that the information complies with the following requirements:
+
+(a) be submitted in a data extractable format as defined in Article 2, point (3), of Regulation (EU) 2023/2859 or, where required by Union law, in a machine-readable format, as defined in Article 2, point (4), of that Regulation;
+
+(b) be accompanied by the following metadata:
+
+(i) all the names of the credit institution permitted to issue covered bonds to which the information relates;
+
+(ii) the legal entity identifier of the credit institution permitted to issue covered bonds, as specified pursuant to Article 7(4), point (b), of Regulation (EU) 2023/2859;
+
+(iii) the size of the credit institution permitted to issue covered bonds by category, as specified pursuant to Article 7(4), point (d), of that Regulation;
+
+(iv) the type of information, as classified pursuant to Article 7(4), point (c), of that Regulation;
+
+(v) an indication of whether the information contains personal data.
+
+2\. For the purposes of paragraph 1, point (b)(ii), Member States shall ensure that credit institutions permitted to issue covered bonds obtain a legal entity identifier.
+
+3\. By 9 January 2030, for the purpose of making the information referred to in paragraph 1 of this Article accessible on ESAP, Member States shall designate at least one collection body as defined in Article 2, point (2), of Regulation (EU) 2023/2859 and notify ESMA thereof.
+
+4\. From 10 January 2030, Member States shall ensure that the information referred to in Article 24 and Article 26(1), points (b) and (c), of this Directive is made accessible on ESAP. For that purpose, the collection body as defined in Article 2, point (2), of Regulation (EU) 2023/2859 shall be the competent authority.
+
+Member States shall ensure that the information complies with the following requirements:
+
+(a) be submitted in a data extractable format as defined in Article 2, point (3), of Regulation (EU) 2023/2859;
+
+(b) be accompanied by the following metadata:
+
+(i) all the names of the credit institution permitted to issue covered bonds to which the information relates;
+
+(ii) where available, the legal entity identifier of the credit institution permitted to issue covered bonds, as specified pursuant to Article 7(4), point (b), of Regulation (EU) 2023/2859;
+
+(iii) the type of information, as classified pursuant to Article 7(4), point (c), of that Regulation;
+
+(iv) an indication of whether the information contains personal data.
+
+5\. For the purpose of ensuring the efficient collection and management of information submitted in accordance with paragraph 1, EBA shall develop draft implementing technical standards to specify the following:
+
+(a) any other metadata to accompany the information;
+
+(b) the structuring of data in the information;
+
+(c) for which information a machine-readable format is required and, in such cases, which machine-readable format is to be used.
+
+For the purposes of point (c), EBA shall assess the advantages and disadvantages of different machine-readable formats and conduct appropriate field tests.
+
+EBA shall submit those draft implementing technical standards to the Commission.
+
+Power is conferred on the Commission to adopt the implementing technical standards referred to in the first subparagraph of this paragraph in accordance with Article 15 of Regulation (EU) No 1093/2010.
+
+6\. Where necessary, EBA shall adopt guidelines to ensure that the metadata submitted in accordance with paragraph 5, first subparagraph, point (a), are correct.
+
+## TITLE IV — LABELLING
+
+##### Article 27 — Labelling
+
+1\. Member States shall ensure that the label ‘European Covered Bond’ and its official translation in all official languages of the Union is used only for covered bonds which meet the requirements laid down in the provisions of national law transposing this Directive.
+
+2\. Member States shall ensure that the label ‘European Covered Bond (Premium)’ and its official translation in all official languages of the Union is used only for covered bonds which meet the requirements laid down in the provisions of national law transposing this Directive and which meet the requirements of Article 129 of Regulation (EU) No 575/2013, as amended by Regulation (EU) 2019/2160 of the European Parliament and of the Council ( 3 ).
+
+## TITLE V — AMENDMENTS TO OTHER DIRECTIVES
+
+##### Article 28 — Amendment to Directive 2009/65/EC
+
+Article 52(4) of Directive 2009/65/EC is amended as follows:
+
+(1) the first subparagraph is replaced by the following:
+
+‘4. Member States may raise the 5 % limit laid down in the first subparagraph of paragraph 1 to a maximum of 25 % where bonds were issued before 8 July 2022 and met the requirements set out in this paragraph as applicable on the date of their issue, or where bonds fall under the definition of covered bonds in point (1) of Article 3 of Directive (EU) 2019/2162 of the European Parliament and of the Council ( *1 ).
+
+(2) the third subparagraph is deleted.
+
+##### Article 29 — Amendment to Directive 2014/59/EU
+
+In Article 2(1) of Directive 2014/59/EU, point 96 is replaced by the following:
+
+‘(96) “covered bond” means a covered bond as defined in point (1) of Article 3 of Directive (EU) 2019/2162 of the European Parliament and of the Council ( *2 ) or, with regard to an instrument that was issued before 8 July 2022, a bond as referred to in Article 52(4) of Directive 2009/65/EC of the European Parliament and of the Council ( *3 ), as applicable on the date of its issue;
+
+## TITLE VI — FINAL PROVISIONS
+
+##### Article 30 — Transitional measures
+
+1\. Member States shall ensure that covered bonds issued before 8 July 2022 that comply with the requirements laid down in Article 52(4) of Directive 2009/65/EC, as applicable on the date of their issue, are not subject to the requirements set out in Articles 5 to 12 and Articles 15, 16, 17 and 19 of this Directive, but may continue to be referred to as covered bonds in accordance with this Directive until their maturity.
+
+Member States shall ensure that the competent authorities designated pursuant to Article 18(2) of this Directive monitor the compliance of covered bonds issued before 8 July 2022 with the requirements laid down in Article 52(4) of Directive 2009/65/EC, as applicable on the date of their issue, as well as with the requirements of this Directive, insofar as they are applicable in accordance with the first subparagraph of this paragraph.
+
+2\. Member States may apply paragraph 1 to tap issues of covered bonds for which the opening of the ISIN is before 8 July 2022 for up to 24 months after that date, provided that those issues comply with all the following requirements:
+
+(a) the maturity date of the covered bond is before 8 July 2027;
+
+(b) the total issue size of tap issues made after 8 July 2022 does not exceed twice the total issue size of the covered bonds outstanding on that date;
+
+(c) the total issue size of the covered bond at maturity does not exceed EUR 6 000 000 000 or the equivalent amount in domestic currency;
+
+(d) the collateral assets are located in the Member State that applies paragraph 1 to tap issues of covered bonds.
+
+##### Article 31 — Reviews and reports
+
+1\. By 8 July 2024, the Commission shall, in close cooperation with EBA, submit a report to the European Parliament and to the Council, together with a legislative proposal, if appropriate, on whether and, if so, how an equivalence regime could be introduced for third-country credit institutions issuing covered bonds and for investors in those covered bonds, taking into consideration international developments in the area of covered bonds, in particular the development of legislative frameworks in third countries.
+
+2\. By 8 July 2025, the Commission shall, in close cooperation with EBA, submit a report to the European Parliament and to the Council on the implementation of this Directive with regard to the level of investor protection and on the developments regarding the issue of covered bonds in the Union. The report shall include any recommendations for further action. The report shall include information on:
+
+(a) developments regarding the number of permissions to issue covered bonds;
+
+(b) developments regarding the number of covered bonds issued in compliance with the provisions of national law transposing this Directive and with Article 129 of Regulation (EU) No 575/2013;
+
+(c) developments regarding the assets collateralising the issue of covered bonds;
+
+(d) developments regarding the level of overcollateralisation;
+
+(e) cross-border investments in covered bonds, including inward investment from and outward investment to third countries;
+
+(f) developments regarding the issue of covered bonds with extendable maturity structures;
+
+(g) developments regarding the risks and benefits of the use of exposures as referred to in Article 129(1) of Regulation (EU) No 575/2013;
+
+(h) the functioning of covered bond markets.
+
+3\. By 8 July 2024, Member States shall transmit information on the issues listed in paragraph 2 to the Commission.
+
+4\. By 8 July 2024, after commissioning and receiving a study assessing the risks and benefits arising from covered bonds with extendable maturity structures and after consulting EBA, the Commission shall adopt a report and shall submit that study and that report to the European Parliament and to the Council, together with a legislative proposal, if appropriate.
+
+5\. By 8 July 2024, the Commission shall adopt a report on the possibility of introducing a dual-recourse instrument named European Secured Notes. The Commission shall submit that report to the European Parliament and to the Council, together with a legislative proposal, if appropriate.
+
+##### Article 32 — Transposition
+
+1\. Member States shall adopt and publish, by 8 July 2021, the laws, regulations and administrative provisions necessary to comply with this Directive. They shall immediately inform the Commission thereof.
+
+They shall apply those measures at the latest from 8 July 2022.
+
+When Member States adopt those measures, they shall contain a reference to this Directive or shall be accompanied by such a reference on the occasion of their official publication. The methods of making such reference shall be laid down by the Member States.
+
+2\. Member States shall communicate to the Commission the text of the main measures of national law which they adopt in the field covered by this Directive.
+
+##### Article 33 — Entry into force
+
+This Directive shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+
+##### Article 34 — Addressees
+
+This Directive is addressed to the Member States.
+
+( 1 ) Regulation (EU) No 1095/2010 of the European Parliament and of the Council of 24 November 2010 establishing a European Supervisory Authority (European Securities and Markets Authority), amending Decision No 716/2009/EC and repealing Commission Decision 2009/77/EC (OJ L 331, 15.12.2010, p. 84).
+
+( 2 ) Regulation (EU) 2023/2859 of the European Parliament and of the Council of 13 December 2023 establishing a European single access point providing centralised access to publicly available information of relevance to financial services, capital markets and sustainability (OL L, 2023/2859, 20.12.2023, ELI: http://data.europa.eu/eli/reg/2023/2859/oj).
+
+( 3 ) Regulation (EU) 2019/2160 of the European Parliament and of the Council of 27 November 2019 amending Regulation (EU) No 575/2013 as regards exposures in the form of covered bonds (See page 1 of this Official Journal).
+
+( *1 ) Directive (EU) 2019/2162 of the European Parliament and of the Council of 27 November 2019 on the issue of covered bonds and covered bond public supervision and amending Directives 2009/65/EC and 2014/59/EU (OJ L 328, 18.12.2019, p. 29).’;
+
+( *2 ) Directive (EU) 2019/2162 of the European Parliament and of the Council of 27 November 2019 on the issue of covered bonds and covered bond public supervision and amending Directives 2009/65/EC and 2014/59/EU (OJ L 328, 18.12.2019, p. 29).
+
+( *3 ) Directive 2009/65/EC of the European Parliament and of the Council of 13 July 2009 on the coordination of laws, regulations and administrative provisions relating to undertakings for collective investment in transferable securities (UCITS) (OJ L 302, 17.11.2009, p. 32).’.

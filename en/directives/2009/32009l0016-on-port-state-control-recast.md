@@ -1,0 +1,1873 @@
+---
+title: "Directive 2009/16/EC of the European Parliament and of the Council of 23 April 2009 on port State control (recast) (Text with EEA relevance)"
+identifier: "32009L0016"
+eli: "http://data.europa.eu/eli/dir/2009/16/oj"
+type: directive
+jurisdiction: eu
+language: en
+date: 2009-04-23
+entry_into_force: 2009-06-17
+last_amended: 2025-01-05
+consolidated_version: "02009L0016-20250105"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02009L0016-20250105"
+retrieved: 2026-10-11
+---
+
+# Directive 2009/16/EC of the European Parliament and of the Council of 23 April 2009 on port State control (recast) (Text with EEA relevance)
+
+**DIRECTIVE 2009/16/EC OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 23 April 2009**
+
+**on port State control**
+
+**(Recast)**
+
+**(Text with EEA relevance)**
+
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> DIRECTIVE 2013/38/EU OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 12 August 2013 </td><td> L 218</td><td>1</td><td>14.8.2013</td></tr>
+<tr><td> M2</td><td> REGULATION (EU) No 1257/2013 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 20 November 2013 </td><td> L 330</td><td>1</td><td>10.12.2013</td></tr>
+<tr><td> M3</td><td> REGULATION (EU) 2015/757 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 29 April 2015 </td><td> L 123</td><td>55</td><td>19.5.2015</td></tr>
+<tr><td></td><td> DIRECTIVE (EU) 2017/2110 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 15 November 2017 </td><td> L 315</td><td>61</td><td>30.11.2017</td></tr>
+<tr><td> M5</td><td> REGULATION (EU) 2023/1805 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 13 September 2023 </td><td> L 234</td><td>48</td><td>22.9.2023</td></tr>
+<tr><td></td><td> DIRECTIVE (EU) 2024/3099 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 27 November 2024 </td><td> L 3099</td><td>1</td><td>16.12.2024</td></tr>
+
+**DIRECTIVE 2009/16/EC OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 23 April 2009**
+
+**on port State control**
+
+**(Recast)**
+
+**(Text with EEA relevance)**
+
+## Article 1 — Purpose
+
+The purpose of this Directive is to help to drastically reduce substandard shipping in the waters under the jurisdiction of Member States by:
+
+(a) increasing compliance with international and relevant Community legislation on maritime safety, maritime security, protection of the marine environment and on-board living and working conditions of ships of all flags;
+
+(b) establishing common criteria for control of ships by the port State and harmonising procedures on inspection and detention, building upon the expertise and experience under the Paris MOU;
+
+(c) implementing within the Community a port State control system based on the inspections performed within the Community and the Paris MOU region, aiming at the inspection of all ships with a frequency depending on their risk profile, with ships posing a higher risk being subject to a more detailed inspection carried out at more frequent intervals.
+
+## Article 2 — Definitions
+
+For the purposes of this Directive the following definitions shall apply:
+
+1\. ‘Conventions’ means the following Conventions, with the Protocols and amendments thereto, and related codes of mandatory status, in their up-to-date version:
+
+(a) the International Convention on Load Lines, 1966 (LL 66);
+
+(b) the International Convention for the Safety of Life at Sea, 1974 (SOLAS 74);
+
+(c) the International Convention for the Prevention of Pollution from Ships, 1973, and the 1978 Protocol relating thereto (Marpol 73/78);
+
+(d) the International Convention on Standards of Training, Certification and Watchkeeping for Seafarers, 1978 (the ‘STCW Convention’);
+
+(e) the Convention on the International Regulations for Preventing Collisions at Sea, 1972 (Colreg 72);
+
+(f) the International Convention on Tonnage Measurement of Ships, 1969 (ITC 69);
+
+(h) the International Convention on Civil Liability for Oil Pollution Damage, 1992 (CLC 92);
+
+(i) the Maritime Labour Convention, 2006 (MLC 2006);
+
+(j) the International Convention on the Control of Harmful Anti-fouling Systems on Ships, 2001 (AFS 2001);
+
+(k) the International Convention on Civil Liability for Bunker Oil Pollution Damage, 2001 (Bunkers Convention, 2001);
+
+(l) the International Convention for the Control and Management of Ships’ Ballast Water and Sediments, 2004 (the ‘BWM Convention’);
+
+(m) the Nairobi International Convention on the Removal of Wrecks, 2007 (the ‘Nairobi Convention’);
+
+(n) the Hong Kong International Convention for the Safe and Environmentally Sound Recycling of Ships, 2009 (the ‘Hong Kong Convention’).
+
+2\. ‘Paris MOU’ means the Memorandum of Understanding on Port State Control, signed in Paris on 26 January 1982, in its up-to-date version.
+
+4\. ‘Paris MOU region’ means the geographical area in which the signatories to the Paris MOU conduct inspections in the context of the Paris MOU.
+
+5\. ‘Ship’ means any seagoing vessel to which one or more of the Conventions apply, flying a flag other than that of the port State.
+
+6\. ‘Ship/port interface’ means the interactions that occur when a ship is directly and immediately affected by actions involving the movement of persons or goods or the provision of port services to or from the ship.
+
+7\. ‘Ship at anchorage’ means a ship in a port or another area within the jurisdiction of a port, but not at berth, carrying out a ship/port interface.
+
+8\. ‘Inspector’ means a public-sector employee or other person, duly authorised by the competent authority of a Member State to carry out port-State control inspections, and responsible to that competent authority.
+
+8a. ‘Inspection’ means a verification of the condition of the ship, its equipment and its crew, based on the applicable Conventions and carried out by an inspector. The inspection is not a survey for the issuing, endorsement or renewal of statutory certificates, and the ensuing inspection report provided to the master of the ship is not a certificate.
+
+9\. ‘Competent authority’ means a maritime authority responsible for port State control in accordance with this Directive.
+
+10\. ‘Night time’ means any period of not less than seven hours, as defined by national law, and which must include, in any case, the period between midnight and 5.00.
+
+11\. ‘Initial inspection’ means an inspection on board a ship by an inspector, including at least the checks required under Article 13(1).
+
+12\. ‘More detailed inspection’ means an inspection that includes the elements of an initial inspection where the ship and its equipment and crew as a whole or, as appropriate, parts thereof, are subjected, in the circumstances specified in Article 13(3), to an in-depth examination covering the ship’s construction, equipment, manning, living and working conditions and compliance with on-board operational procedures.
+
+13\. ‘Expanded inspection’ means an inspection that includes at least the items listed in Annex VII and the elements of an initial inspection. An expanded inspection may include a more detailed inspection whenever there are clear grounds in accordance with Article 13(3).
+
+14\. ‘Complaint’ means any information or report submitted by any person or organisation with a legitimate interest in the safety of the ship, including an interest in safety or health hazards to its crew, on-board living and working conditions and the prevention of pollution.
+
+15\. ‘Detention’ means the formal prohibition for a ship to proceed to sea due to established deficiencies which, individually or together, make the ship unseaworthy.
+
+16\. ‘Refusal of access order’ means a decision issued to the master of a ship, to the company responsible for the ship and to the flag State notifying them that the ship will be refused access to all ports and anchorages of the Community.
+
+17\. ‘Stoppage of an operation’ means a formal prohibition for a ship to continue an operation due to established deficiencies which, individually or together, would render the continued operation hazardous.
+
+18\. ‘Company’ means the owner of the ship or any other organisation or person such as the manager, or the bareboat charterer, who has assumed the responsibility for operation of the ship from the owner of the ship and who, on assuming such responsibility, has agreed to take over all the duties and responsibilities imposed by the International Safety Management (ISM) Code.
+
+19\. ‘Recognised Organisation’ means a classification company or other private body, carrying out statutory tasks on behalf of a flag State administration.
+
+20\. ‘Statutory certificate’ means a certificate issued by or on behalf of a flag State in accordance with the applicable Conventions.
+
+21\. ‘Classification certificate’ means a document confirming compliance with SOLAS 74, Chapter II-1, Part A-1, Regulation 3-1.
+
+22\. ‘Inspection database’ means the information system contributing to the implementation of the port State control system within the Community and concerning the data related to inspections carried out in the Community and the Paris MOU region.
+
+23\. ‘Maritime labour certificate’ means the certificate referred to in Regulation 5.1.3 of MLC 2006.
+
+24\. ‘Declaration of maritime labour compliance’ means the declaration referred to in Regulation 5.1.3 of MLC 2006.
+
+25\. ‘ro-ro passenger ship’ means a ship with facilities to enable road or rail vehicles to roll on and roll off the vessel, and carrying more than 12 passengers.
+
+26\. ‘high-speed passenger craft’ means a craft as defined in Regulation 1 of Chapter X of SOLAS 74, and carrying more than 12 passengers.
+
+27\. ‘regular service’ means a series of ro-ro passenger ship or high-speed passenger craft crossings operated so as to serve traffic between the same two or more ports, or a series of voyages from and to the same port without intermediate calls, either:
+
+(i) according to a published timetable; or
+
+(ii) with crossings so regular or frequent that they constitute a recognisable systematic series.
+
+All the references in this Directive to the Conventions, international codes and resolutions, including for certificates and other documents, shall be deemed to be references to those Conventions, international codes and resolutions in their up-to-date versions.
+
+## Article 3 — Scope
+
+1\. This Directive shall apply to any ship and its crew calling at a port or anchorage of a Member State to engage in a ship/port interface.
+
+France may decide that the ports and anchorages covered by this paragraph do not include ports and anchorages situated in the overseas departments referred to in Article 299(2) of the Treaty.
+
+If a Member State performs an inspection of a ship in waters within its jurisdiction, other than at a port, it shall be considered as an inspection for the purposes of this Directive.
+
+Nothing in this Article shall affect the rights of intervention available to a Member State under the relevant Conventions.
+
+Member States which do not have seaports and which can verify that of the total number of individual vessels calling annually over a period of the three previous years at their river ports, less than 5 % are ships covered by this Directive, may derogate from the provisions of this Directive.
+
+Member States which do not have seaports shall communicate to the Commission at the latest on the date of transposition of the Directive the total number of vessels and the number of ships calling at their ports during the three-year period referred to above and shall inform the Commission of any subsequent change to the abovementioned figures.
+
+This Directive shall also apply to inspections of ro-ro passenger ships and high-speed passenger craft carried out outside a port or away from an anchorage during a regular service in accordance with Article 14a.
+
+2\. Where the gross tonnage of a ship is less than 500, Member States shall apply those requirements of a relevant Convention which are applicable and shall, to the extent that a Convention does not apply, take such action as may be necessary to ensure that the ships concerned are not clearly hazardous to safety, health or the environment. In applying this paragraph, Member States shall be guided by Annex 1 to the Paris MOU.
+
+3\. When inspecting a ship flying the flag of a State which is not a party to a Convention, Member States shall ensure that the treatment of that ship and its crew is not more favourable than that of a ship flying the flag of a State party to that Convention. Such a ship shall be subject to a more detailed inspection in accordance with procedures established under the Paris MoU. However, a ship flying the flag of a State which is not a party to the CLC 92, the Bunkers Convention, 2001, or the Nairobi Convention shall not be automatically subject to a more detailed inspection if that ship carries the relevant certificate issued by a State which is a party to those conventions and the inspector performing the inspection decides that a more detailed inspection is unnecessary. That decision and the reasons therefore shall be recorded in the inspection database.
+
+4\. Fishing vessels of less than 24 metres in length, warships, naval auxiliaries, wooden ships of a primitive build, government ships used for non-commercial purposes and pleasure yachts not engaged in trade shall be excluded from the scope of this Directive. For the purposes of this Directive, a fishing vessel’s length shall be determined in accordance with the Cape Town Agreement of 2012 on the Implementation of the Provisions of the 1993 Protocol relating to the Torremolinos International Convention for the Safety of Fishing Vessels, 1977.
+
+4a. Member States may carry out port State control inspections of fishing vessels of 24 metres in length and over. The Commission, in cooperation with the State signatories to the Paris MoU, may adopt guidelines establishing the detailed arrangements for such a parallel and separate specific port State control regime for those fishing vessels.
+
+5\. Measures adopted to give effect to this Directive shall not lead to a reduction in the general level of protection of seafarers under Union social law in the areas to which this Directive applies, as compared to the situation which already prevails in each Member State. In implementing those measures, if the competent authority of the port State becomes aware of a clear violation of Union law on board ships flying the flag of a Member State, it shall, in accordance with national law and practice, forthwith inform any other relevant competent authority in order for further action to be taken as appropriate.
+
+## Article 4 — Inspection powers
+
+1\. Member States shall take all necessary measures, in order to be legally entitled to carry out the inspections referred to in this Directive on board foreign ships, in accordance with international law.
+
+2\. Member States shall maintain appropriate competent authorities, to which the requisite number of staff, in particular qualified inspectors, for the inspection of ships is assigned, for example, through recruitment, and shall take appropriate measures to ensure that inspectors perform their duties as laid down in this Directive and in particular that they are available for carrying out the inspections required in accordance with this Directive.
+
+## Article 5 — Inspection system and annual inspection commitment
+
+1\. Member States shall carry out inspections in accordance with the selection scheme described in Article 12 and the provisions in Annex I.
+
+2\. In order to comply with its annual inspection commitment, each Member State shall:
+
+(a) inspect all Priority I ships, referred to in Article 12(a), calling at its ports and anchorages; and
+
+(b) carry out annually a total number of inspections of Priority I and Priority II ships, referred to in Article 12(a) and (b), corresponding at least to its share of the total number of inspections to be carried out annually within the Community and the Paris MOU region. The inspection share of each Member State shall be based on the number of individual ships calling at ports of the Member State concerned in relation to the sum of the number of individual ships calling at ports of each State within the Community and the Paris MOU region.
+
+2a. Inspections of ships carried out by a Member State that exceed the annual inspection commitment of that Member State by 20 % or more shall not be taken into account when calculating the annual inspection commitments of the parties to the Paris MoU.
+
+3\. With a view to calculating the share of the total number of inspections to be carried out annually within the Community and the Paris MOU region referred to in point (b) of paragraph 2, ships at anchorage shall not be counted unless otherwise specified by the Member State concerned.
+
+## Article 6 — Detailed arrangements for compliance with the inspection commitment
+
+1\. A Member State which fails to carry out the inspections required under Article 5(2), point (a), shall nevertheless be regarded as complying with that requirement if such missed inspections do not exceed 10 % of the total number of Priority I ships calling at its ports and anchorages, irrespective of their risk profile.
+
+2\. Notwithstanding the percentage of missed inspections referred to in paragraph 1, Member States shall prioritise the inspection of ships which, according to the information provided by the inspection database, call at ports within the Union infrequently.
+
+3\. Notwithstanding the percentage of missed inspections referred to in paragraph 1, for Priority I ships calling at anchorages, Member States shall prioritise the inspection of ships with a high risk profile which, according to the information provided by the inspection database, call at ports within the Union infrequently.
+
+## Article 7 — Detailed arrangements for a balanced inspection commitment across the Union
+
+1\. A Member State in which the total number of calls of Priority I ships exceeds its inspection share referred to in Article 5(2), point (b), shall be regarded as complying with its annual inspection commitment if the number of inspections carried out by that Member State corresponds to at least its inspection share as referred to in Article 5(2), point (b), and that Member State does not miss more than 40 % of the total number of Priority I ships calling at its ports and anchorages.
+
+2\. A Member State in which the total number of calls of Priority I and Priority II ships is less than 150 % of the inspection share referred to in Article 5(2), point (b), shall nevertheless be regarded as complying with its annual inspection commitment if that Member State carries out inspections of two thirds of Priority I and Priority II ships of the total number of Priority I and Priority II ships calling at its ports and anchorages.
+
+3\. The Commission shall, in its review referred to in Article 35, examine in particular the impact of this Article on the inspection commitment, taking into account the expertise and the experience gained in the Community and under the Paris MOU. The review shall take into account the objective of inspecting all ships calling at ports and anchorages within the Community. If appropriate, the Commission shall propose complementary measures with a view to improving the effectiveness of the inspection system applied in the Community, and, if necessary, a new review of the impact of this Article at a later stage.
+
+## Article 8 — Postponement of inspections and exceptional circumstances
+
+1\. A Member State may decide to postpone the inspection of a Priority I or Priority II ship in any of the following circumstances:
+
+(a) if the inspection could be carried out at any subsequent call of the ship in the same Member State within 15 days of the actual time of departure, provided that the ship does not call at any other port within the Union or the Paris MoU region in between, except any ports of the ship’s flag State;
+
+(b) if the inspection could be carried out in another port of call within the Union or the Paris MoU region within 15 days of the actual time of departure, provided that the State in which such a port of call is located has agreed in advance to carry out that inspection; or
+
+(c) if the inspection of a ship, including ro-ro passenger ships or high-speed passenger craft operating on a regular service, could be carried out in the same port of call within 15 days of the actual time of departure.
+
+Where a Member State decides to postpone an inspection pursuant to the first subparagraph, that postponed inspection shall not count towards that Member State’s compliance with its annual inspection commitment referred to in Articles 6 and 7 if the postponed inspection is recorded as such in the inspection database.
+
+2\. Where an inspection is not carried out on a Priority I or Priority II ship for operational reasons, it shall not be counted as a missed inspection, provided that the reason for not carrying out the inspection is recorded in the inspection database and any of the following exceptional circumstances apply:
+
+(a) the competent authority considers that the inspection would create a risk to the safety of inspectors, the ship or its crew, or to the port, or to the marine environment;
+
+(b) the ship call at port takes place only during night time; or
+
+(c) the duration of the ship call is too short for the inspection to be carried out satisfactorily.
+
+Where the circumstances under point (b) apply, Member States shall take the measures necessary to ensure that ships which regularly call during night time are inspected as appropriate.
+
+3\. If an inspection is not carried out on a ship at anchorage, it shall not be counted as a missed inspection if:
+
+(a) the ship is inspected in another port or anchorage within the Union or the Paris MoU region in accordance with Annex I within 15 days of the actual time of departure;
+
+(b) the ship call at port takes place only during night time or the duration of the call is too short for the inspection to be carried out satisfactorily, and the reason for not carrying out the inspection is recorded in the inspection database; or
+
+(c) the competent authority considers that the inspection would create a risk to the safety of inspectors, the ship or its crew, or to the port or to the marine environment, and the reason for not carrying out the inspection is recorded in the inspection database.
+
+4\. If an inspection is not carried out due to extraordinary and unforeseen circumstances it shall not be counted as a missed inspection and the reason for not carrying out the inspection shall be recorded in the inspection database. Those circumstances shall be duly justified and reported to the Commission.
+
+## Article 10 — Ship risk profile
+
+1\. All ships calling at a port or anchorage of a Member State shall, in the inspection database, be attributed a ship risk profile which determines their respective priority for inspection, the intervals between the inspections and the scope of inspections.
+
+2\. The risk profile of a ship shall be determined by a combination of generic, historical and environmental risk parameters as follows:
+
+(a) Generic parameters
+
+Generic parameters shall be based on the type, age, flag, recognised organisations involved and company performance in accordance with Annex I, Part I.1, and Annex II.
+
+(b) Historical parameters
+
+Historical parameters shall be based on the number of deficiencies and detentions during a given period in accordance with Annex I, Part I.2, and Annex II.
+
+(c) Environmental parameters
+
+Environmental parameters shall be based on the number of deficiencies relating to Marpol 73/78, AFS 2001, the BWM Convention, CLC 92, the Bunkers Convention, 2001, the Nairobi Convention and the Hong Kong Convention in accordance with Annex I, Part I.3, and Annex II.
+
+3\. The Commission shall adopt implementing acts laying down the methodology for the consideration of generic risk parameters relating in particular to the flag State criteria and company performance criteria adopted under the Paris MoU in 2019 establishing high, medium and low performance lists. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 31(2).
+
+## Article 11 — Frequency of inspections
+
+Ships calling at ports or anchorages within the Community shall be subject to periodic inspections or to additional inspections as follows:
+
+(a) Ships shall be subject to periodic inspections at predetermined intervals depending on their risk profile in accordance with Annex I, Part I. The interval between periodic inspections of ships shall increase as the risk decreases. For high risk ships, this interval shall not exceed six months.
+
+(b) Ships shall be subject to additional inspections regardless of the period since their last periodic inspection as follows:
+
+— the competent authority shall ensure that ships to which overriding factors listed in Annex I, Part II 2A, apply are inspected,
+
+— ships to which unexpected factors listed in Annex I, Part II 2B, apply may be inspected. The decision to undertake such an additional inspection is left to the professional judgement of the competent authority.
+
+## Article 12 — Selection of ships for inspection
+
+The competent authority shall ensure that ships are selected for inspection on the basis of their risk profile as described in Annex I, Part I, and when overriding or unexpected factors arise in accordance with Annex I, Part II 2A and 2B.
+
+With a view to the inspection of ships, the competent authority:
+
+(a) shall select ships which are due for a mandatory inspection, referred to as ‘Priority I’ ships, in accordance with the selection scheme described in Annex I, Part II 3A;
+
+(b) may select ships which are eligible for inspection, referred to as ‘Priority II’ ships, in accordance with Annex I, Part II 3B.
+
+## Article 13 — Initial and more detailed inspections
+
+Member States shall ensure that ships which are selected for inspection in accordance with Article 12 or Article 14a are subject to an initial inspection or a more detailed inspection as follows:
+
+1\. On each initial inspection of a ship, the competent authority shall ensure that the inspector, as a minimum:
+
+(a) checks the certificates and documents listed in Annex IV required to be kept on board in accordance with Community maritime legislation and Conventions relating to safety and security;
+
+(b) verifies, where appropriate, whether outstanding deficiencies found during the previous inspection carried out by a Member State or by a State signatory to the Paris MOU have been rectified;
+
+(c) is satisfied with the overall condition, including hygiene, of the ship, including the engine room and accommodation.
+
+3\. A more detailed inspection shall be carried out, including further checking of compliance with on-board operational requirements, whenever there are clear grounds for believing, after the inspection referred to in point 1, that the condition of a ship or of its equipment or crew does not substantially meet the relevant requirements of a Convention.
+
+‘Clear grounds’ shall exist when the inspector finds evidence which in his professional judgement warrants a more detailed inspection of the ship, its equipment or its crew.
+
+Examples of ‘clear grounds’ are set out in Annex V.
+
+## Article 14 — Expanded inspections
+
+1\. The following categories of ships are eligible for an expanded inspection in accordance with Annex I, Part II, 3A and 3B:
+
+(a) ships with a high risk profile;
+
+(b) passenger ships, bulk carriers, oil tankers, gas carriers, noxious liquid substances (NLS) tankers or chemical tankers, older than 12 years of age;
+
+(c) ships with a high risk profile or passenger ships, bulk carriers, oil tankers, gas carriers, NLS tankers or chemical tankers, older than 12 years of age, in cases of overriding or unexpected factors;
+
+(d) ships subject to an inspection following a refusal of access order issued in accordance with Article 16 and Article 21(4).
+
+2\. The operator or master of the ship shall ensure that sufficient time is available in the operating schedule to allow the expanded inspection to be carried out.
+
+Without prejudice to control measures required for security purposes, the ship shall remain in the port until the inspection is completed.
+
+4\. An expanded inspection shall be carried out, as far as possible, by no fewer than two port State control inspectors. If this is not possible, the reasons shall be duly recorded in the inspection database. The scope of an expanded inspection, including the risk areas to be covered, is set out in Annex VII. The Commission shall adopt implementing acts laying down detailed arrangements to ensure uniform conditions for the application of Annex VII. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 31(2).
+
+## Article 14a — Inspection of ro-ro passenger ships and high speed passenger craft in regular service
+
+1\. Ro-ro passenger ships and high-speed passenger craft operating on a regular service are eligible for inspections in accordance with the time frame and other requirements set out in Annex XVII.
+
+2\. Member States shall, when planning inspections of a ro-ro passenger ship or high-speed passenger craft, take due account of the operational and maintenance schedule of the ro-ro passenger ship or high-speed passenger craft.
+
+3\. When a ro-ro passenger ship or high-speed passenger craft has been subject to an inspection in accordance with Annex XVII, such inspection shall be recorded in the inspection database, and shall be taken into account for the purposes of Articles 10, 11 and 12 and for calculating the fulfillment of the inspection commitment of each Member State. It shall be included in the total number of annual inspections carried out by each Member State, provided for in Article 5.
+
+4\. Article 11, point (a), and Article 14 shall not apply to ro-ro passenger ships and high-speed passenger craft on a regular service that are inspected under this Article.
+
+4a. The operator or master of the ship shall ensure that sufficient time is available in the operating schedule to allow the inspections provided for in point 1.1 and point 2(a) of Annex XVII to be carried out.
+
+5\. The competent authority shall ensure that the ro-ro passenger ships or high-speed passenger craft that are subject to an additional inspection in accordance with Article 11(b) are selected for inspection in accordance with Annex I, Part II 3A(c) and 3B(c). Inspections carried out under this paragraph shall not affect the inspection interval provided for in paragraph 2 of Annex XVII.
+
+6\. The inspector of the competent authority of the port State may agree to be accompanied, during an inspection of a ro-ro passenger ship or high-speed passenger craft, by a port State inspector of another Member State acting as an observer. Where the flag of the vessel is that of a Member State, the port State shall, upon request, invite a representative of the flag State to accompany the inspection as an observer.
+
+## Article 15 — Safety and security guidelines and procedures
+
+1\. Member States shall ensure that their inspectors follow the procedures and guidelines specified in Annex VI.
+
+2\. As far as security checks are concerned, Member States shall apply the relevant procedures set out in Annex VI to this Directive to all ships referred to in Articles 3(1), 3(2) and 3(3) of Regulation (EC) No 725/2004 of the European Parliament and of the Council ( 1 ), calling at their ports and anchorages, unless they fly the flag of the port State of inspection.
+
+4\. The Commission may adopt detailed measures to ensure uniform application of the procedures referred to in paragraph 1 and of the security checks referred to in paragraph 2 of this Article. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 31(3).
+
+## Article 16 — Access refusal measures concerning certain ships
+
+1\. A Member State shall refuse access to its ports and anchorages to any ship which:
+
+(a) flies the flag of a State that appears on the low performance list, adopted in accordance with the Paris MoU on the basis of information recorded in the inspection database and published annually by the Commission, and which has been detained more than twice in the course of the preceding 36 months in a port or anchorage of a Member State or of a State signatory to the Paris MoU; or
+
+(b) flies the flag of a State that appears on the high or medium performance list, adopted in accordance with the Paris MoU on the basis of information recorded in the inspection database and published annually by the Commission, and which has been detained more than twice in the course of the preceding 24 months in a port or anchorage of a Member State or of a State signatory to the Paris MoU.
+
+The first subparagraph of this paragraph shall not apply in the situations referred to in Article 21(6).
+
+The refusal of access shall be applicable as soon as the ship leaves the port or anchorage where it has been the subject of a third detention and where a refusal of access order has been issued.
+
+2\. The refusal of access order shall be lifted only after a period of three months has passed from the date of issue of that order and when the conditions listed in points 3 to 6 of Annex VIII are met.
+
+If the ship is subject to a second refusal of access order, that refusal of access order shall be lifted only after a period of 12 months.
+
+3\. Any subsequent detention in a port or anchorage of a Member State or of a State signatory to the Paris MoU shall result in the ship being refused access to any port or anchorage within the Union. Such a third refusal of access order may be lifted after a period of 24 months has passed from the date of issue of that order and only if:
+
+(a) the ship flies the flag of a State whose detention rate appears neither on the low performance list nor on the medium performance list;
+
+(b) the statutory and classification certificates of the ship are issued by an organisation or organisations recognised under Regulation (EC) No 391/2009 of the European Parliament and of the Council ( 2 );
+
+(c) the ship is managed by a company with a high performance according to Annex I, Part I.1; and
+
+(d) the conditions listed in points 3 to 6 of Annex VIII are met.
+
+Any ship not meeting the criteria listed in the first subparagraph, after a period of 24 months has passed from the date of issue of the refusal of access order, shall be permanently refused access to any port or anchorage within the Union.
+
+4\. Any subsequent detention after a third refusal of access order, in a port or anchorage within the Union, of a ship flying the flag of a State that appears on the medium or low performance list shall result in the ship being permanently refused access to any port or anchorage within the Union.
+
+4a. A ship flying the flag of a State that appears on the high performance list, that has been refused access three times or more and that is detained in a port or anchorage of the Union at the time of its first inspection in the Union since that third or any subsequent refusal of access, shall:
+
+(a) be refused access to any Union port or anchorage for a period of 24 months, if the statutory and classification certificates of the ship are issued by an organisation or organisations recognised under Regulation (EC) No 391/2009;
+
+(b) be permanently refused access to any Union port or anchorage if the statutory and classification certificates of the ship are not issued by an organisation or organisations recognised under Regulation (EC) No 391/2009.
+
+4b. Refusal of access periods for multiple detentions shall be extended by 12 months in cases where a refusal of access measure in accordance with Article 21(4) applies.
+
+5\. For the purpose of this Article, Member States shall comply with the procedures laid down in Annex VIII.
+
+## Article 17 — Report of inspection to the master
+
+On completion of an inspection, the inspector shall draw up an inspection report in accordance with Annex IX. The master of the ship shall be provided with a copy of the inspection report.
+
+Where, following a more detailed inspection, the living and working conditions on the ship are found not to conform to the requirements of MLC 2006, the inspector shall forthwith bring the deficiencies to the attention of the master of the ship, with required deadlines for their rectification.
+
+In the event that the inspector considers such deficiencies to be significant, or if they relate to a possible complaint under point 19 of Part A of Annex V, the inspector shall also bring the deficiencies to the attention of the appropriate seafarers’ and shipowners’ organisations in the Member State in which the inspection is carried out, and may:
+
+(a) notify a representative of the flag State;
+
+(b) provide the competent authorities of the next port of call with the relevant information.
+
+In respect of matters concerning MLC 2006, the Member State in which the inspection is carried out shall have the right to transmit a copy of the inspector’s report, to be accompanied by any reply received from the competent authorities of the flag State within the prescribed deadline, to the Director-General of the International Labour Office with a view to such action as may be considered appropriate and expedient in order to ensure that a record is kept of such information and that it is brought to the attention of parties who might be interested in availing themselves of relevant recourse procedures.
+
+## Article 18 — Complaints
+
+All complaints shall be subject to a rapid initial assessment by the competent authority. This assessment shall make it possible to determine whether a complaint is justified.
+
+Should that be the case, the competent authority shall take the necessary action on the complaint, in particular, ensuring that anyone directly concerned by that complaint can make their views known.
+
+Where the competent authority deems the complaint to be manifestly unfounded, it shall inform the complainant of its decision and of the reasons therefor.
+
+The identity of the complainant shall not be revealed to the master or the shipowner of the ship concerned. The inspector shall take appropriate steps to safeguard the confidentiality of complaints made by seafarers, including ensuring confidentiality during any interviews of seafarers.
+
+Member States shall inform the flag State administration, with a copy to the International Labour Organisation (ILO) if appropriate, of complaints not manifestly unfounded and of follow-up actions taken.
+
+## Article 18a — Onshore MLC 2006 complaint-handling procedures
+
+1\. A complaint by a seafarer alleging a breach of the requirements of MLC 2006 (including seafarers’ rights) may be reported to an inspector in the port at which the seafarer’s ship has called. In such cases, the inspector shall undertake an initial investigation.
+
+2\. Where appropriate, given the nature of the complaint, the initial investigation shall include consideration of whether the on-board complaint procedures provided for under Regulation 5.1.5 of MLC 2006 have been pursued. The inspector may also conduct a more detailed inspection in accordance with Article 13 of this Directive.
+
+3\. The inspector shall, where appropriate, seek to promote a resolution of the complaint at the ship-board level.
+
+4\. In the event that the investigation or the inspection reveals a non-conformity that falls within the scope of Article 19, that Article shall apply.
+
+5\. Where paragraph 4 does not apply and a complaint by a seafarer related to matters covered by MLC 2006 has not been resolved at the ship-board level, the inspector shall forthwith notify the flag State, seeking, within a prescribed deadline, advice and a corrective plan of action to be submitted by the flag State. A report of any inspection carried out shall be transmitted by electronic means to the inspection database referred to in Article 24.
+
+6\. Where the complaint has not been resolved following action taken in accordance with paragraph 5, the port State shall transmit a copy of the inspector’s report to the Director-General of the International Labour Office. The report shall be accompanied by any reply received within the prescribed deadline from the competent authority of the flag State. The appropriate seafarers’ and shipowners’ organisations in the port State shall be similarly informed. In addition, statistics and information regarding complaints that have been resolved shall be regularly submitted by the port State to the Director-General of the International Labour Office.
+
+Such submissions are provided in order that, on the basis of such action as may be considered appropriate and expedient, a record is kept of such information and brought to the attention of parties, including seafarers’ and shipowners’ organisations, which might be interested in availing themselves of relevant recourse procedures.
+
+7\. In order to ensure uniform conditions for the implementation of this Article, implementing powers shall be conferred on the Commission regarding the setting-up of a harmonised electronic format and procedure for the reporting of follow-up actions taken by Member States. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 31(3).
+
+8\. This Article shall be without prejudice to Article 18. The fourth paragraph of Article 18 shall also apply to complaints relating to matters covered by MLC 2006.
+
+## Article 19 — Rectification and detention
+
+1\. The competent authority shall be satisfied that any deficiencies confirmed or revealed by the inspection are, or will be, rectified in accordance with the Conventions.
+
+2\. In the case of deficiencies which are clearly hazardous to safety, health or the environment, the competent authority of the port State where the ship is being inspected shall ensure that the ship is detained or that the operation in the course of which the deficiencies are revealed is stopped. The detention order or stoppage of an operation shall not be lifted until the hazard is removed or until such authority establishes that the ship can, subject to any necessary conditions, proceed to sea or the operation be resumed without risk to the safety and health of passengers or crew, or risk to other ships, or without there being an unreasonable threat of harm to the marine environment.
+
+2a. In the case of living and working conditions on board which are clearly hazardous to the safety, health or security of seafarers or deficiencies which constitute a serious or repeated breach of MLC 2006 requirements (including seafarers’ rights), the competent authority of the port State where the ship is being inspected shall ensure that the ship is detained or that the operation in the course of which the deficiencies are revealed is stopped.
+
+The detention order or stoppage of an operation shall not be lifted until those deficiencies have been rectified or if the competent authority has accepted a plan of action to rectify those deficiencies and it is satisfied that the plan will be implemented in an expeditious manner. Prior to accepting a plan of action, the inspector may consult the flag State.
+
+3\. When exercising his professional judgement as to whether or not a ship is to be detained, the inspector shall apply the criteria set out in Annex X.
+
+4\. If the inspection reveals that the ship is not equipped with a functioning voyage data recorder, and the use of such recorder is compulsory in accordance with Directive 2002/59/EC of the European Parliament and of the Council ( 3 ), the competent authority shall ensure that the ship is detained.
+
+If such deficiency cannot be readily rectified in the port of detention, the competent authority may either allow the ship to proceed to the appropriate repair yard nearest to the port of detention where it may be readily rectified or require the deficiency to be rectified within a maximum period of 30 days, as provided for in the guidelines developed by the Paris MOU. For these purposes, the procedures laid down in Article 21 shall apply.
+
+5\. In exceptional circumstances, where the overall condition of a ship is obviously substandard, the competent authority may suspend the inspection of that ship until the responsible parties take the steps necessary to ensure that it complies with the relevant requirements of the Conventions.
+
+6\. In the event of detention, the competent authority shall immediately inform, in writing and including the report of inspection, the flag State administration or, when this is not possible, the Consul or, in his absence, the nearest diplomatic representative of that State, of all the circumstances in which intervention was deemed necessary. In addition, nominated surveyors or recognised organisations responsible for the issue of classification certificates or statutory certificates in accordance with Conventions shall also be notified where relevant. Moreover, if a ship is prevented from sailing due to serious or repeated breach of the requirements of MLC 2006 (including seafarers’ rights) or due to the living and working conditions on board being clearly hazardous to the safety, health or security of seafarers, the competent authority shall forthwith notify the flag State accordingly and invite a representative of the flag State to be present, if possible, requesting the flag State to reply within a prescribed deadline. The competent authority shall also inform forthwith the appropriate seafarers’ and shipowners’ organisations in the port State in which the inspection was carried out.
+
+7\. This Directive shall be without prejudice to the additional requirements of the Conventions concerning notification and reporting procedures related to port State control.
+
+8\. When port State control is exercised under this Directive, all possible efforts shall be made to avoid a ship being unduly detained or delayed. If a ship is unduly detained or delayed, the owner or operator shall be entitled to compensation for any loss or damage suffered. In any instance of alleged undue detention or delay the burden of proof shall lie with the owner or operator of the ship.
+
+9\. In order to alleviate port congestion, a competent authority may allow a detained ship to be moved to another part of the port if it is safe to do so. However, the risk of port congestion shall not be a consideration when deciding on a detention or on a release from detention.
+
+Port authorities or bodies shall cooperate with the competent authority with a view to facilitating the accommodation of detained ships.
+
+10\. The port authorities or bodies shall be informed at the earliest convenience when a detention order is issued.
+
+## Article 20 — Right of appeal
+
+1\. The owner or operator of a ship or the owner or operator’s representative in the Member State shall have a right of appeal against any detention or refusal of access by the competent authority. An appeal shall not cause the detention or refusal of access to be suspended.
+
+2\. Member States shall establish and maintain appropriate procedures for this purpose in accordance with their national legislation.
+
+3\. The competent authority shall properly inform the master of a ship referred to in paragraph 1 of the right of appeal and the practical arrangements relating thereto.
+
+4\. When, as a result of an appeal or of a request made by the owner or the operator of a ship or his representative, a detention order or a refusal of access order is revoked or amended:
+
+(a) Member States shall ensure that the inspection database is amended accordingly without delay;
+
+(b) the Member State where the detention order or refusal of access order is issued shall, within 24 hours of such a decision, ensure that the information published in accordance with Article 26 is rectified.
+
+## Article 21 — Follow-up to inspections and detentions
+
+1\. Where deficiencies referred to in Article 19(2) cannot be rectified in the port of inspection, the competent authority of that Member State may allow the ship concerned to proceed without undue delay to the appropriate repair yard nearest to the port of detention, as chosen by the master and the authorities concerned, where follow-up action can be taken, provided that the conditions determined by the competent authority of the flag State and agreed by that Member State are complied with. Such conditions shall ensure that the ship can proceed without risk to the safety and health of passengers or crew, or risk to other ships, or without there being an unreasonable threat of harm to the marine environment.
+
+2\. Where the decision to send a ship to a repair yard is due to a lack of compliance with IMO Resolution A. 744(18), either with respect to a ship’s documentation or with respect to a ship’s structural failures and deficiencies, the competent authority may require that the necessary thickness measurements be carried out in the port of detention before the ship is allowed to sail.
+
+3\. In the circumstances referred to in paragraph 1, the competent authority of the Member State in the port of inspection shall notify the competent authority of the State where the repair yard is situated, the parties mentioned in Article 19(6) and any other authority as appropriate of all the conditions for the voyage.
+
+The competent authority of a Member State receiving such notification shall inform the notifying authority of the action taken.
+
+4\. Member States shall take measures to ensure that access to any port or anchorage within the Union is refused to ships referred to in paragraph 1 of this Article and to detained ships as referred to in Article 19(2), which:
+
+(a) proceed to sea without complying with the conditions determined by the competent authority of any Member State in the port of inspection; or
+
+(b) are permitted to proceed to sea on condition that they comply with the applicable requirements of the Conventions by subsequently calling at the repair yard indicated pursuant to paragraph 1 of this Article, but fail to do so.
+
+The refusal of access order shall become applicable from the date of its issuing. The refusal of access order shall be lifted only after a period of 12 months has passed from the date of issue of that order and when the conditions listed in points 3 to 6 of Annex VIII are met.
+
+5\. In the circumstances referred to in paragraph 4, first subparagraph, point (a), the competent authority of the Member State where the ship was found to be defective shall immediately alert the competent authorities of all the other Member States.
+
+In the circumstances referred to in paragraph 4, first subparagraph, point (b), the competent authority of the Member State in which the repair yard lies shall inform the authority of the Member State where the ship was found to be defective whether the ship has arrived. When the competent authority of the Member State where the ship was found to be defective becomes aware that the ship has not called at that repair yard, it shall immediately alert the competent authorities of all the other Member States.
+
+In the circumstances referred to in paragraph 4, first subparagraph, point (b), if the repair yard indicated pursuant to paragraph 1 is not in a Member State and the competent authority of the Member State where the ship was found to be defective becomes aware that the ship has not called at that repair yard, it shall immediately alert the competent authorities of all the other Member States.
+
+Before refusing access to the ship, the Member State may request consultations with the flag State administration of the ship concerned.
+
+6\. By way of derogation from paragraph 4, access by a ship as referred to in that paragraph to a specific port or anchorage may be permitted by the relevant authority of that port State in the event of force majeure or overriding safety considerations, to reduce or minimise the risk of pollution or to have deficiencies rectified in accordance with paragraph 1, provided that the owner, operator or master of the ship has implemented adequate measures to ensure the safe entry of the ship concerned to that port or anchorage to the satisfaction of the competent authority of that Member State.
+
+## Article 22 — Professional profile of inspectors
+
+1\. Inspections shall be carried out only by inspectors who fulfil the qualification criteria specified in Annex XI and who are authorised to carry out port State control by the competent authority.
+
+2\. When the required professional expertise cannot be provided by the competent authority of the port State, the inspector of that competent authority may be assisted by any person with the required expertise.
+
+3\. The competent authority, the inspectors carrying out port State control and the persons assisting them shall have no commercial interest either in the port of inspection or in the ships inspected, nor shall the inspectors be employed by, or undertake work on behalf of, non-governmental organisations which issue statutory and classification certificates or which carry out the surveys necessary for the issue of those certificates to ships.
+
+4\. Each inspector shall carry a personal document in the form of an identity card issued by his competent authority in accordance with Commission Directive 96/40/EC of 25 June 1996 establishing a common model for an identity card for inspectors carrying out port State control ( 4 ).
+
+5\. Member States shall ensure that the competence of inspectors and their compliance with the minimum criteria referred to in Annex XI are verified, before authorising them to carry out inspections and periodically thereafter in the light of the training scheme referred to in paragraph 7.
+
+6\. Member States shall ensure that inspectors receive appropriate training in relation to changes to the port State control system applied in the Community as laid down in this Directive and amendments to the Conventions.
+
+7\. In cooperation with Member States and the State signatories to the Paris MoU, and based on the expertise and experience gained at Member State level in the Union and under the Paris MoU, the Commission shall develop a professional training programme to support the training and the assessment of competences of port State control inspectors by Member States in order to complement the Paris MoU Training policy, with a view to harmonise port State control practices.
+
+In cooperation with the Member States and the State signatories to the Paris MoU, the Commission shall, on a continuous basis, identify and respond to new training needs, providing input to amend the curricula, syllabi and content of the training programme for inspectors, especially as regards new maritime safety challenges related to environmental, social and labour issues and new technologies, as well as providing input in relation to the additional obligations arising from the relevant instruments.
+
+## Article 23 — Reports from pilots and port authorities
+
+1\. Member States shall take appropriate measures to ensure that their pilots who are engaged in the berthing or unberthing of ships, or who are engaged on ships bound for a port or in transit within a Member State, immediately inform the competent authority of the port State or the coastal State, as appropriate, whenever they learn in the course of their normal duties that there are apparent anomalies which may prejudice safety, including the safe navigation of the ship or the safety of seafarers on board, or which may pose a threat of harm to the marine environment.
+
+2\. If port authorities or bodies, in the course of their normal duties, learn that a ship within their port has apparent anomalies which may prejudice safety, including the safe navigation of the ship or the safety of seafarers on board, or which may pose a threat of harm to the marine environment, such authority or body shall immediately inform the competent authority of the port State.
+
+3\. Member States shall require pilots and port authorities or bodies to report at least the following information, in electronic format whenever possible:
+
+— ship information (name, IMO identification number, call sign and flag),
+
+— sailing information (last port of call, port of destination),
+
+— description of apparent anomalies found on board.
+
+4\. Member States shall ensure that proper follow-up action is taken on apparent anomalies notified by pilots and port authorities or bodies and shall record the details of action taken.
+
+5\. Implementing powers shall be conferred on the Commission to adopt measures for the implementation of this Article, including harmonised procedures for the reporting of apparent anomalies by pilots and port authorities or bodies and of follow-up actions taken by Member States. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 31(3).
+
+## Article 24 — Inspection database
+
+1\. The Commission shall develop, maintain and update the inspection database, building upon the expertise and experience under the Paris MOU.
+
+The inspection database shall contain all the information required for the implementation of the inspection system set up under this Directive and shall include the functionalities set out in Annex XII.
+
+2\. Member States shall take the appropriate measures to ensure that the information on the actual time of arrival and the actual time of departure of any ship calling at their ports or anchorages, together with an identifier of the port or anchorage concerned, is transferred within three hours of the arrival and departure time, respectively, to the inspection database through the Union maritime information exchange system ‘SafeSeaNet’ referred to in Article 3, point (s), of Directive 2002/59/EC. Once they have transferred such information to the inspection database through SafeSeaNet, Member States are exempted from the provision of data in accordance with point 1.2 and point 2(a) and (b) of Annex XIV to this Directive.
+
+3\. Member States shall ensure that the information related to inspections performed in accordance with this Directive is transferred to the inspection database as soon as the inspection report is completed or the detention lifted.
+
+Within 72 hours, Member States shall ensure that the information transferred to the inspection database is validated for publication purposes. The inspection report shall be validated, before its transfer to the database, if feasible, by a port State control inspector or another duly authorised employee of the competent authority who was not part of the team that carried out the inspection.
+
+4\. On the basis of the inspection data provided by Member States, the Commission shall be able to retrieve from the inspection database any relevant data concerning the implementation of this Directive, in particular on the risk profile of the ship, on ships’ due for inspections, on ships’ movement data and on the inspection commitments of each Member State.
+
+Member States shall have access to all the information recorded in the inspection database which is relevant for implementing the inspection procedures of this Directive.
+
+Member States and third signatories to the Paris MOU shall be granted access to any data they have recorded in the inspection database and to data on ships flying their flag.
+
+## Article 24a — Electronic certificates
+
+The Commission shall, in close cooperation with the Member States, adopt implementing acts laying down the functional and technical specifications for a validation tool for electronic statutory certificates. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 31(2).
+
+## Article 25 — Exchange of information and cooperation
+
+Each Member State shall ensure that its port authorities or bodies and other relevant authorities or bodies provide the competent authority with the following types of information in their possession:
+
+(a) information concerning ships which have failed to notify any information in accordance with the requirements of this Directive, Directive 2002/59/EC and Directive (EU) 2019/883 of the European Parliament and of the Council ( 5 ), as well as, if appropriate, of Regulation (EC) No 725/2004;
+
+(b) information concerning ships which have proceeded to sea without having complied with Article 7 of Directive (EU) 2019/883;
+
+(c) information concerning ships which have been denied entry or expelled from port on security grounds;
+
+(d) information on apparent anomalies reported in accordance with Article 23.
+
+## Article 26 — Publication of information
+
+The Commission shall make available and maintain on a public website the information on inspections, detentions and refusals of access in accordance with Annex XIII, building upon the expertise and experience under the Paris MOU.
+
+## Article 27 — Publication of a list of companies with a low and very low performance
+
+The Commission shall establish and publish regularly on a public website information relating to companies whose performance, in view of determining the ship risk profile referred to in Annex I Part I, has been considered as low and very low for a period of three months or more.
+
+Implementing powers shall be conferred on the Commission to establish the detailed arrangements for publication of the information referred to in the first paragraph, the criteria for aggregating the relevant data and the frequency of updates. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 31(3).
+
+## Article 28 — Reimbursement of costs
+
+1\. Should the inspections referred to in Articles 13 and 14 confirm or reveal deficiencies in relation to the requirements of a Convention warranting the detention of a ship, all costs relating to the inspections in any normal accounting period shall be covered by the shipowner or the operator or by his representative in the port State.
+
+2\. All costs relating to inspections carried out by the competent authority of a Member State under the provisions of Articles 16 and 21(4) shall be charged to the owner or operator of the ship.
+
+3\. In the case of detention of a ship, all costs relating to the detention in port shall be borne by the owner or operator of the ship.
+
+4\. The detention shall not be lifted until full payment is made or a sufficient guarantee is given for reimbursement of the costs.
+
+## Article 29 — Data to monitor implementation
+
+Member States shall provide the Commission with the information listed in Annex XIV at the intervals stated in that Annex.
+
+## Article 30 — Monitoring of compliance and performance of Member States
+
+In order to ensure the effective implementation of this Directive and to monitor the overall functioning of the Union’s port State control regime in accordance with Regulation (EC) No 1406/2002, the Commission shall collect the necessary information and carry out visits to Member States.
+
+Each Member State shall develop, implement and maintain a quality management system covering the operational parts of the port State-related activities of its administration directly involved in inspections. That quality management system shall be certified in accordance with applicable international quality standards by 6 July 2032.
+
+## Article 30a — Delegated acts
+
+The Commission shall adopt delegated acts in accordance with Article 30b, to amend Article 2, point (1), with regard to the list of Conventions set out therein, once such Conventions have been adopted as a relevant instrument under the Paris MoU, and to amend Annex VI in order to add to or update the list of procedures, guidelines, instructions and circulars, relating to port State control, adopted under the Paris MoU and set out in that Annex.
+
+## Article 30b — Exercise of the delegation
+
+1\. The power to adopt delegated acts is conferred on the Commission subject to the conditions laid down in this Article.
+
+2\. The power to adopt delegated acts referred to in Article 30a shall be conferred on the Commission for a period of five years from 20 August 2013. The Commission shall draw up a report in respect of the delegation of power not later than nine months before the end of the five-year period. The delegation of power shall be tacitly extended for periods of an identical duration, unless the European Parliament or the Council opposes such extension not later than three months before the end of each period.
+
+3\. The delegation of power referred to in Article 30a may be revoked at any time by the European Parliament or by the Council. A decision to revoke shall put an end to the delegation of the power specified in that decision. It shall take effect the day following the publication of the decision in the Official Journal of the European Union or at a later date specified therein. It shall not affect the validity of any delegated acts already in force.
+
+4\. As soon as it adopts a delegated act, the Commission shall notify it simultaneously to the European Parliament and to the Council.
+
+5\. A delegated act adopted pursuant to Article 30a shall enter into force only if no objection has been expressed either by the European Parliament or the Council within a period of two months of notification of that act to the European Parliament and the Council or if, before the expiry of that period, the European Parliament and the Council have both informed the Commission that they will not object. That period shall be extended by two months at the initiative of the European Parliament or of the Council.
+
+## Article 31 — Committee
+
+1\. The Commission shall be assisted by the Committee on Safe Seas and the Prevention of Pollution from Ships (COSS) established by Article 3 of Regulation (EC) No 2099/2002 of the European Parliament and the Council ( 6 ). That Committee shall be a committee within the meaning of Regulation (EU) No 182/2011.
+
+2\. Where reference is made to this paragraph, Article 5 of Regulation (EU) No 182/2011 shall apply.
+
+Where the committee delivers no opinion on a draft implementing act to be adopted pursuant to Articles 10(3), 23(5) and the second paragraph of Article 27 respectively, the Commission shall not adopt the draft implementing act and the third subparagraph of Article 5(4) of Regulation (EU) No 182/2011 shall apply.
+
+## Article 31a — Amendments to the Conventions
+
+The amendments to the Conventions shall apply without prejudice to the conformity checking procedure set out in Article 5 of Regulation (EC) No 2099/2002.
+
+## Article 33 — Implementing acts
+
+When adopting the implementing acts referred to in Articles 10(3), 14(4), 15(4), 18a(7), 23(5), 24a(1) and Article 27, second paragraph, in accordance with the procedures referred to in Article 31(2), the Commission shall take specific care to ensure that those acts take into account the expertise and experience gained with the inspection system in the Union and build upon the expertise of the Paris MoU.
+
+## Article 34 — Penalties
+
+Member States shall lay down a system of penalties for the breach of national provisions adopted pursuant to this Directive and shall take all the measures necessary to ensure that those penalties are applied. The penalties provided for shall be effective, proportionate and dissuasive.
+
+## Article 35 — Implementation review
+
+The Commission shall, by 6 July 2032 and every 5 years thereafter, submit a report to the European Parliament and the Council on the implementation of, and compliance with, this Directive. On the basis of that report, the Commission shall determine whether it is necessary to submit a legislative proposal for the amendment of this Directive or for further legal acts in this area.
+
+After the IMO has concluded the revision of its carbon intensity indicator (CII), the Commission shall assess the suitability of that CII as an environmental parameter used for the determination of a risk profile of a ship under this Directive. On the basis of that assessment, the Commission shall consider a legislative proposal, as appropriate.
+
+## Article 36 — Implementation and notification
+
+1\. Member States shall adopt and publish, by 31 December 2010, the laws, regulations and administrative provisions necessary to comply with this Directive.
+
+They shall apply those provisions from 1 January 2011.
+
+2\. When Member States adopt those measures, they shall contain a reference to this Directive or be accompanied by such a reference on the occasion of their official publication. They shall also include a statement that references in existing laws, regulations and administrative provisions to the Directive repealed by this Directive shall be construed as references to this Directive. Member States shall determine how such reference is to be made and how that statement is to be formulated.
+
+3\. Member States shall communicate to the Commission the text of the main provisions of national law adopted in the field covered by this Directive.
+
+4\. In addition, the Commission shall inform the European Parliament and the Council on a regular basis of progress in the implementation of this Directive within the Member States, in particular with a view to a uniform application of the inspection system in the Community.
+
+## Article 37 — Repeal
+
+Directive 95/21/EC, as amended by the Directives listed in Annex XV, Part A, is hereby repealed, with effect from 1 January 2011, without prejudice to the obligations of Member States relating to the time limits for transposition into national law of the Directives set out in Annex XV, Part B.
+
+References to the repealed Directive shall be construed as references to this Directive and shall be read in accordance with the correlation table set out in Annex XVI to this Directive.
+
+## Article 38 — Entry into force
+
+This Directive shall enter into force on the 20th day following its publication in the Official Journal of the European Union.
+
+## Article 39 — Addressees
+
+This Directive is addressed to the Member States.
+
+## ANNEX I — ELEMENTS OF THE UNION PORT STATE INSPECTION SYSTEM — (referred to in Article 5)
+
+The following elements shall be included in the Union Port State Inspection System:
+
+I. Ship Risk profile
+
+The risk profile of a ship shall be determined by a combination of the following generic, historical, and environmental parameters.
+
+1\. Generic parameters
+
+(a) Type of ship
+
+Passenger ships, bulk carriers, oil tankers, gas carriers, NLS tankers or chemical tankers shall be considered as posing a higher risk.
+
+(b) Age of ship
+
+Ships of more than 12 years old shall be considered as posing a higher risk.
+
+(c) Flag State performance
+
+(i) Ships flying the flag of a State with a high detention rate within the Union and the Paris MoU region shall be considered as posing a higher risk.
+
+(ii) Ships flying the flag of a State with a low detention rate within the Union and the Paris MoU region shall be considered as posing a lower risk.
+
+(iii) Ships flying the flag of a State which has ratified all of the mandatory IMO and ILO instruments listed in Article 2, point (1), shall be considered as posing a lower risk.
+
+(d) Recognised organisations
+
+(i) Ships which have been delivered certificates from recognised organisations having a low or very low performance level in relation with their detention rates within the Union and the Paris MoU region shall be considered as posing a higher risk.
+
+(ii) Ships which have been delivered certificates from recognised organisations having a high performance level in relation with their detention rates within the Union and the Paris MoU region shall be considered as posing a lower risk.
+
+(iii) Ships with certificates issued by organisations recognised in accordance with Regulation (EC) No 391/2009.
+
+(e) Company performance
+
+(i) Ships of a company with a low or very low performance as determined by its ships’ deficiency and detention rates within the Union and the Paris MoU region shall be considered as posing a higher risk.
+
+(ii) Ships of a company with a high performance as determined by its ships’ deficiency and detention rates within the Union and the Paris MoU region shall be considered as posing a lower risk.
+
+2\. Historical parameters
+
+(i) Ships which have been detained more than once shall be considered as posing a higher risk.
+
+(ii) Ships which, during inspection(s) carried out within the period referred to in Annex II, have had less than the number of deficiencies referred to in Annex II shall be considered as posing a lower risk.
+
+(iii) Ships which have not been detained during the period referred to in Annex II shall be considered as posing a lower risk.
+
+The risk parameters shall be combined by using a weighting which reflects the relative influence of each parameter on the overall risk of the ship in order to determine the following ship risk profiles:
+
+— high risk,
+
+— standard risk,
+
+— low risk.
+
+In determining those risk profiles, greater emphasis shall be given to the parameters for type of ship, flag State performance, recognised organisations and company performance.
+
+3\. Environmental parameters
+
+Ships which, during inspection(s) carried out within the period referred to in Annex II have had more than the number of deficiencies relating to Marpol 73/78, AFS 2001, the BWM Convention, CLC 92, the Bunkers Convention, 2001, the Nairobi Convention and the Hong Kong Convention referred to in Annex II shall be considered as posing a higher risk.
+
+II. Inspection of ships
+
+1\. Periodic inspections
+
+Periodic inspections shall be carried out at predetermined intervals. Their frequency shall be determined by the ship risk profile. The interval between periodic inspections of high risk ships shall not exceed six months. The interval between periodic inspections of ships of other risk profiles shall increase as the risk decreases.
+
+Member States shall carry out a periodic inspection on:
+
+— Any ship with a high risk profile which has not been inspected in a port or anchorage within the Union or the Paris MoU region during the last six months. High risk ships become eligible for inspection as from the fifth month.
+
+— Any ship with a standard risk profile which has not been inspected in a port or anchorage within the Union or the Paris MoU region during the last 12 months. Standard risk ships become eligible for inspection as from the 10th month.
+
+— Any ship with a low risk profile which has not been inspected in a port or anchorage within the Union or the Paris MoU region during the last 36 months. Low risk ships become eligible for inspection as from the 24th month.
+
+2\. Additional inspections
+
+Ships to which the following overriding or unexpected factors apply are subject to an inspection regardless of the period since their last periodic inspection. However, the need to undertake such an additional inspection on the basis of unexpected factors is left to the professional judgement of the inspector.
+
+2A. Overriding factors
+
+Ships to which the following overriding factors apply shall be inspected regardless of the period since their last periodic inspection:
+
+— Ships which have been suspended or withdrawn from their class for safety reasons since the last inspection within the Union or the Paris MoU region.
+
+— Ships which have been the subject of a report or notification by another Member State.
+
+— Ships which cannot be identified in the inspection database.
+
+— Ships which:
+
+— have been involved in a collision, grounding or stranding on their way to the port;
+
+— have been accused of an alleged violation of the provisions on discharge of harmful substances or effluents;
+
+— have manoeuvred in an erratic or unsafe manner whereby routing measures, adopted by the IMO, or safe navigation practices and procedures have not been followed;
+
+— have previously been banned (first inspection after the refusal of access order has been lifted); or
+
+— have been involved in a severe incident, especially a major fire on board, engine breakdown and fatal accidents.
+
+2B. Unexpected factors
+
+Ships to which the following unexpected factors apply may be subject to inspection regardless of the period since their last periodic inspection. The decision to undertake such an additional inspection is left to the professional judgement of the competent authority:
+
+— Ships carrying certificates issued by a formerly recognised organisation whose recognition has been withdrawn since the last inspection within the Union or the Paris MoU region.
+
+— Ships which have been reported by pilots or port authorities or bodies as having apparent anomalies which may prejudice their safe navigation or pose a threat of harm to the environment in accordance with Article 23 of this Directive. Those reports may include information from Vessel Traffic Services about ships’ navigation.
+
+— Ships which have failed to comply with the relevant notification requirements referred to in Directive (EU) 2019/883.
+
+— Ships which have been the subject of a report or complaint, including an onshore complaint, by the master, a crew member, or any person or organisation with a legitimate interest in the safe operation of the ship, on-board living and working conditions or the prevention of pollution, unless the Member State concerned deems the report or complaint to be manifestly unfounded.
+
+— Ships reported with an outstanding ISM deficiency (3 months after issuing of the deficiency).
+
+— Ships which have been previously detained more than 3 months ago.
+
+— Ships which have been reported with problems concerning their cargo, in particular noxious and dangerous cargoes.
+
+— Ships which have been operated in a manner posing a danger to persons, property or the environment.
+
+— Ships where information from a reliable source became known, to the effect that their risk parameters differ from those recorded and the risk level is thereby increased.
+
+— Ships for which a plan of action to rectify deficiencies as referred to in Article 19(2a) has been agreed but in respect of which the implementation of that plan has not been checked by an inspector.
+
+3\. Selection scheme
+
+3A. Priority I ships shall be inspected as follows:
+
+(a) An expanded inspection shall be carried out on:
+
+— any ship with a high risk profile not inspected in the last six months;
+
+— any passenger ship, bulk carrier, oil tanker, gas carrier, NLS tanker or chemical tanker, older than 12 years of age, with a standard risk profile not inspected in the last 12 months.
+
+(b) An initial or a more detailed inspection, as appropriate, shall be carried out on:
+
+— any ship other than a passenger ship, bulk carrier, oil tanker, gas carrier, NLS tanker or chemical tanker, older than 12 years of age, with a standard risk profile not inspected in the last 12 months.
+
+(c) In the case of an overriding factor:
+
+— a more detailed or an expanded inspection, according to the professional judgement of the inspector, shall be carried out on any ship with a high risk profile and on any passenger ship, bulk carrier, oil tanker, gas carrier, NLS tanker or chemical tanker, older than 12 years of age;
+
+— a more detailed inspection shall be carried out on any ship other than a passenger ship, bulk carrier, oil tanker, gas carrier, NLS tanker or chemical tanker, older than 12 years of age;
+
+— an expanded inspection shall be carried out on any ship in the first inspection after a refusal of access order has been lifted.
+
+3B. Where the competent authority decides to inspect a Priority II ship, the following shall apply:
+
+(a) An expanded inspection shall be carried out on:
+
+— any ship with a high risk profile not inspected in the last 5 months;
+
+— any passenger ship, bulk carrier, oil tanker, gas carrier, NLS tanker or chemical tanker, older than 12 years of age, with a standard risk profile not inspected in the last 10 months; or
+
+— any passenger ship, bulk carrier, oil tanker, gas carrier, NLS tanker or chemical tanker, older than 12 years of age, with a low risk profile not inspected in the last 24 months.
+
+(b) An initial or a more detailed inspection, as appropriate, shall be carried out on:
+
+— any ship other than a passenger ship, bulk carrier, oil tanker, gas carrier, NLS tanker or chemical tanker, older than 12 years of age, with a standard risk profile not inspected in the last 10 months; or
+
+— any ship other than a passenger ship, bulk carrier, oil tanker, gas carrier, NLS tanker or chemical tanker, older than 12 years of age, with a low risk profile not inspected in the last 24 months.
+
+(c) In the case of an unexpected factor:
+
+— a more detailed or an expanded inspection, according to the professional judgement of the inspector, shall be carried out on any ship with a high risk profile or any passenger ship, bulk carrier, oil tanker, gas carrier, NLS tanker or chemical tanker, older than 12 years of age;
+
+— a more detailed inspection shall be carried out on any ship other than a passenger ship, bulk carrier, oil tanker, gas carrier, NLS tanker or chemical tanker, older than 12 years of age.
+
+## ANNEX II — DESIGN OF SHIP RISK PROFILE — (referred to in Article 10(2))
+
+<tbody><tr><td colspan="4" rowspan="2">  </td><td colspan="4">Profile</td></tr>
+<tr><td colspan="2">High Risk Ship (HRS)</td><td>Standard Risk Ship (SRS)</td><td>Low Risk Ship (LRS)</td></tr>
+<tr><td colspan="4">Generic parameters</td><td>Criteria</td><td>Weighting points</td><td>Criteria</td><td>Criteria</td></tr>
+<tr><td>1</td><td colspan="3">Type of ship</td><td>Passenger ship, bulk carrier, oil tanker, gas carrier, NLS tanker or chemical tanker</td><td>1</td><td rowspan="20">neither a high risk nor a low risk ship</td><td>All types</td></tr>
+<tr><td>2</td><td colspan="3">Age of ship</td><td>all types &gt; 12 y</td><td>1</td><td>All ages</td></tr>
+<tr><td>3a</td><td rowspan="3">Flag</td><td colspan="3">Low performance</td><td>2</td><td>High performance</td></tr>
+<tr><td>3b</td><td colspan="2">All IMO/ILO instruments listed in Article 2 ratified</td><td>—</td><td>—</td><td>Yes</td></tr>
+<tr><td colspan="6">  </td><td>  </td></tr>
+<tr><td rowspan="4">4a</td><td rowspan="5">Recognised organisation</td><td rowspan="4">Performance</td><td>H</td><td>—</td><td>—</td><td>High</td></tr>
+<tr><td>M</td><td>—</td><td>—</td><td>—</td></tr>
+<tr><td>L</td><td>Low</td><td rowspan="2">1</td><td>—</td></tr>
+<tr><td>VL</td><td>Very Low</td><td>—</td></tr>
+<tr><td>4b</td><td colspan="2">EU recognised</td><td>—</td><td>—</td><td>Yes</td></tr>
+<tr><td rowspan="4">5</td><td rowspan="5">Company</td><td rowspan="10">Performance</td><td>H</td><td>—</td><td>—</td><td>High</td></tr>
+<tr><td>M</td><td>—</td><td>—</td><td>—</td></tr>
+<tr><td>L</td><td>Low</td><td rowspan="3">2</td><td>—</td></tr>
+<tr><td>VL</td><td>Very low</td><td>—</td></tr>
+<tr><td colspan="4">Historical parameters</td><td colspan="2">  </td><td>  </td></tr>
+<tr><td>6</td><td colspan="2">Number of deficiencies recorded in each inspection within previous 36 months</td><td>Deficiencies</td><td>&gt;6 in one of the inspections</td><td>1</td><td>≤ 5 in every individual inspection (and at least one inspection carried out in previous 36 months)</td></tr>
+<tr><td>7</td><td colspan="2">Number of detentions within previous 36 months</td><td>Detentions</td><td>≥ 2 detentions</td><td>1</td><td>No detention</td></tr>
+<tr><td colspan="6">Environmental parameters</td><td>  </td></tr>
+<tr><td>8</td><td colspan="2">Number of deficiencies related to Marpol 73/78, AFS 2001, the BWM Convention, CLC 92, the Bunkers Convention, 2001, the Nairobi Convention and the Hong Kong Convention recorded in each inspection within previous 36 months</td><td>Deficiencies</td><td>&gt;2 in one of the inspections</td><td>1</td><td>  </td></tr>
+<tr><td colspan="8">HRS are ships which meet criteria to a total value of 5 or more weighting points. LRS are ships which meet all the criteria of the Low risk parameters.  SRS are ships which are neither HRS nor LRS. </td></tr>
+</tbody>
+
+## ANNEX IV — LIST OF CERTIFICATES AND DOCUMENTS — (referred to in Article 13(1))
+
+List of certificates and documents which, to the extent applicable, should be checked as a minimum during the inspection (as appropriate):
+
+1\. International Tonnage Certificate;
+
+2\. Reports of previous port State control inspections;
+
+3\. Passenger Ship Safety Certificate (SOLAS 1974, regulation I/12);
+
+4\. Cargo Ship Safety Construction Certificate (SOLAS 1974, regulation I/12);
+
+5\. Cargo Ship Safety Equipment Certificate (SOLAS 1974, regulation I/12);
+
+6\. Cargo Ship Safety Radio Certificate (SOLAS 1974, regulation I/12);
+
+7\. Cargo Ship Safety Certificate (SOLAS 1974, regulation I/12);
+
+8\. Exemption Certificate (SOLAS 1974, regulation I/12);
+
+9\. Minimum Safe Manning Document (SOLAS 1974, regulation V/14.2);
+
+10\. International Load Line Certificate (LL 66, Article 16.1);
+
+11\. International Load Line Exemption Certificate (LL 66, Article 16.2);
+
+12\. International Oil Pollution Prevention Certificate (MARPOL, Annex I, regulation 7.1);
+
+13\. International Pollution Prevention Certificate for the Carriage of Noxious Liquid Substances in Bulk (NLS) (MARPOL, Annex II, regulation 9.1);
+
+14\. International Sewage Pollution Prevention Certificate (ISPPC) (MARPOL, Annex IV, regulation 5.1, MEPC.1/Circ.408);
+
+15\. International Air Pollution Prevention Certificate (IAPPC) (MARPOL, Annex VI, regulation 6.1);
+
+16\. International Energy Efficiency Certificate (MARPOL, Annex VI, regulation 6);
+
+17\. International Ballast Water Management Certificate (IBWMC) (BWM Convention, Article 9.1(a) and regulation E-2);
+
+18\. International Anti-Fouling System Certificate (IAFS Certificate) (AFS 2001, Annex 4, regulation 2);
+
+19\. Declaration on AFS (AFS 2001, Annex 4, regulation 5);
+
+20\. International Ship Security Certificate (ISSC) or Interim International Ship Security Certificate (ISPS Code, part A/19 and appendices);
+
+21\. Certificates for masters, officers or ratings issued in accordance with STCW Convention (STCW Convention, Article VI, regulation I/2, and STCW Code, section A-I/2);
+
+22\. Copy of Document of Compliance or a copy of the Interim Document of Compliance issued in accordance with the International Management Code for the Safe Operation of Ships and for Pollution Prevention (DoC) ISM Code (SOLAS 1974, regulation IX/4.2, ISM Code, paragraphs 13 and 14);
+
+23\. Safety Management Certificate or an Interim Safety Management Certificate issued in accordance with the International Management Code for the Safe Operation of Ships and for Pollution Prevention (SMC) (SOLAS 1974, regulation IX/4.3, ISM Code, paragraphs 13 and 14);
+
+24\. International Certificate of Fitness for the Carriage of Liquefied Gases in Bulk, or the Certificate of Fitness for the Carriage of Liquefied Gases in Bulk, whichever is appropriate (IGC Code, regulation 1.5.4, or GC Code, regulation 1.6);
+
+25\. International Certificate of Fitness for the Carriage of Dangerous Chemicals in Bulk, or the Certificate of Fitness for the Carriage of Dangerous Chemicals in Bulk, whichever is appropriate (IBC Code, regulation 1.45.4, and BCH Code, regulation 1.6.3);
+
+26\. INF (International Code for the Safe Carriage of Packaged Irradiated Nuclear Fuel, Plutonium and High-Level Radioactive Wastes on Board Ships) Certificate of Fitness (SOLAS 1974, regulation VII/16, and INF Code, regulation 1.3);
+
+27\. Certificate of insurance or any other financial security in respect of civil liability for oil pollution damage (CLC 92, Article VII.2);
+
+28\. Certificate of insurance or any other financial security in respect of civil liability for Bunker oil pollution damage (the Bunkers Convention, 2001, Article 7.2);
+
+29\. Certificate of Insurance or other Financial Security in respect of Liability for the Removal of Wrecks (the Nairobi Convention, Article 12);
+
+30\. High-Speed Craft Safety Certificate and Permit to Operate High-Speed Craft (SOLAS 1974, regulation X/3.2 and HSC Code 94/00, regulations 1.8.1 and 1.9);
+
+31\. Document of compliance with the special requirements for ships carrying dangerous goods (SOLAS 1974, regulation II-2/19.4);
+
+32\. Document of authorization for the carriage of grain and grain loading manual (SOLAS 1974, regulation VI/9; International Code for the Safe Carriage of Grain in Bulk, section 3);
+
+33\. Condition Assessment Scheme (CAS) Statement of Compliance, CAS Final Report and Review Record (Marpol 73/78, Annex I, regulations 20 and 21; resolution MEPC.94(46), as amended by resolutions MEPC.99(48), MEPC.112(50), MEPC.131(53), MEPC.155(55) and MEPC.236(65));
+
+34\. Continuous Synopsis Record (SOLAS 1974, regulation XI-1/5);
+
+35\. Oil Record Book, parts I and II (Marpol 73/78, Annex I, regulations 17 and 36);
+
+36\. Cargo Record Book (Marpol 73/78, Annex II, regulation 15);
+
+37\. Garbage Record Book, parts I and II (Marpol 73/78, Annex V, regulation 10.3);
+
+38\. Garbage Management Plan (Marpol 73/78, Annex V, regulation 10; resolution MEPC.220(63));
+
+39\. Logbook and the recordings of the tier and on/off status of marine diesel engines (Marpol 73/78, Annex VI, regulation 13.5.3);
+
+40\. Logbook for fuel oil changeover (Marpol 73/78, Annex VI, regulation 14.6);
+
+41\. Ozone-depleting Substances Record Book (Marpol 73/78, Annex VI, regulation 12.6);
+
+42\. Ballast Water Record Book (BWRB) (BWMC, Article 9.1(b) and regulation B-2);
+
+43\. Fixed gas fire-extinguishing systems – cargo spaces Exemption Certificate and any list of cargoes (SOLAS 1974, regulation II-2/10.7.1.4);
+
+44\. Dangerous goods manifest or stowage plan (SOLAS 1974, regulations VII/4 and VII/7-2; Marpol 73/78, Annex III, regulation 54);
+
+45\. For oil tankers, the record of oil discharge monitoring and control system for the last ballast voyage (Marpol 73/78, Annex I, regulation 31.2);
+
+46\. Search and Rescue cooperation plan for passenger ships trading on fixed routes (SOLAS 1974, regulation V/7.3);
+
+47\. For passenger ships, List of operational limitations (SOLAS 1974, regulation V/30.2);
+
+48\. Nautical charts and nautical publications (SOLAS 1974, regulations V/19.2.1.4 and V/27);
+
+49\. Records of hours of rest and table of shipboard working arrangements (STCW Code, section A-VIII/1.5 and 1.7, ILO Convention No. 180, Articles 5.7 and 8.1, and MLC 2006, Standard A.2.3.10 and A.2.3.12);
+
+50\. Maritime labour certificate;
+
+51\. Declaration of maritime labour compliance, parts I and II;
+
+52\. Unattended machinery spaces (UMS) evidence (SOLAS 1974, regulation II-I/46.3);
+
+53\. Certificates required under Directive 2009/20/EC of the European Parliament and of the Council ( 7 );
+
+54\. Certificate required under Regulation (EC) No 392/2009 of the European Parliament and of the Council ( 8 );
+
+55\. A certificate on the inventory of hazardous materials or a statement of compliance as applicable pursuant to Regulation (EU) No 1257/2013 of the European Parliament and of the Council ( 9 );
+
+56\. Document of compliance issued under Regulation (EU) 2015/757 of the European Parliament and of the Council ( 10 ).
+
+## ANNEX V
+
+**EXAMPLES OF ‘CLEAR GROUNDS’**
+
+**(referred to in Article 13(3))**
+
+**A. Examples of clear grounds for a more detailed inspection**
+
+1\. Ships identified in Annex I, Part II 2A and 2B.
+
+2\. The oil record book has not been properly kept.
+
+3\. During examination of the certificates and other documentation, inaccuracies have been revealed.
+
+4\. Indications that the crew members are unable to comply with the requirements related to on-board communication set out in Article 18 of Directive 2008/106/EC of the European Parliament and of the Council of 19 November 2008 on the minimum level of training of seafarers ( 11 ).
+
+5\. A certificate has been fraudulently obtained or the holder of a certificate is not the person to whom that certificate was originally issued.
+
+6\. The ship has a master, officer or rating holding a certificate issued by a country which has not ratified the STCW 78/95.
+
+7\. Evidence of cargo and other operations not being conducted safely, or in accordance with IMO guidelines, e.g. the content of oxygen in the inert-gas main supply to the cargo tanks is above the prescribed maximum level.
+
+8\. Failure of the master on an oil tanker to produce the record of the oil discharge monitoring and control system for the last ballast voyage.
+
+9\. Absence of an up-to-date muster list, or crew members not aware of their duties in the event of fire or an order to abandon the ship.
+
+10\. The emission of false distress alerts not followed by proper cancellation procedures.
+
+11\. The absence of principal equipment or arrangements required by the Conventions.
+
+12\. Excessively unsanitary conditions on board the ship.
+
+13\. Evidence from the inspector’s general impression and observations that serious hull or structural deterioration or deficiencies exist that may place at risk the structural, watertight or weathertight integrity of the ship.
+
+14\. Information or evidence that the master or crew is not familiar with essential shipboard operations relating to the safety of ships or the prevention of pollution, or that such operations have not been carried out.
+
+15\. The absence of a table of shipboard working arrangements or of records of hours of work or rest of seafarers.
+
+16\. The documents required under MLC 2006 are not produced or maintained or are falsely maintained or the documents produced do not contain the information required by MLC 2006 or are otherwise invalid.
+
+17\. The living and working conditions on the ship do not conform to the requirements of MLC 2006.
+
+18\. There are reasonable grounds to believe that the ship has changed flag for the purpose of avoiding compliance with MLC 2006.
+
+19\. There is a complaint alleging that specific living and working conditions on the ship do not conform to the requirements of MLC 2006.
+
+**B. Examples of clear grounds for the control of ships on security aspects**
+
+1\. The inspector may establish clear grounds for further control measures on security during the initial PSC inspection as follows:
+
+1.1. ISSC is not valid or it has expired.
+
+1.2. The ship is at a lower security level than the port.
+
+1.3. Drills related to the security of the ship have not been carried out.
+
+1.4. Records for the last 10 ship/port or ship/ship interfaces are incomplete.
+
+1.5. Evidence or observation that key members of the ship’s personnel cannot communicate with each other.
+
+1.6. Evidence from observations that serious deficiencies exist in security arrangements.
+
+1.7. Information from third parties such as a report or a complaint concerning security-related information.
+
+1.8. The ship holds a subsequent, consecutively issued Interim International Ship Security Certificate (ISSC) and in the professional judgement of the inspector one of the purposes of the ship or company in requesting such a certificate is to avoid full compliance with SOLAS 74 Chapter XI-2 and Part A of the ISPS Code, beyond the period of the initial Interim Certificate. ISPS Code Part A specify the circumstances when an Interim Certificate may be issued.
+
+2\. If clear grounds as described above are established, the inspector shall immediately inform the competent security authority (unless the inspector is also an Officer Duly Authorised for Security). The competent security authority shall then decide on what further control measures are necessary taking into account the security level in accordance with Regulation 9 of SOLAS 74, Chapter XI.
+
+3\. Clear grounds other than those above are a matter for the Officer Duly Authorised for Security.
+
+## ANNEX VI — PROCEDURES FOR THE CONTROL OF SHIPS — (referred to in Article 15(1))
+
+All technical instructions and circulars issued under the Paris MoU, in their up-to-date version:
+
+**Port State control committee (PSCC) Technical instructions**
+
+— PSCC41-2008-07 Code of Good Practice
+
+— PSCC53-2020-08 Definitions and Abbreviations
+
+**General Paris MoU**
+
+— PSCC54-2021-03 Type of inspection
+
+— PSCC56-2023-06 Detention and Action Taken
+
+— PSCC56-2023-04 Model forms
+
+— PSCC52-2019-05 Operational control
+
+— PSS43-2010-11 Flag State Exemptions
+
+— PSCC51-2018-13 Stopping an operation
+
+— PSCC49-2016-11 Black-out test
+
+— PSCC53-2020-06 Refusal of Access (Banning)
+
+— PSCC50-2017-12 Structure bulk carriers/oil tankers
+
+— PSCC43-2010-06 Dry Docking
+
+— PSCC53-2020-11 Allowing for a single voyage to a repair yard for ‘accidental damage’ deficiencies
+
+**SOLAS Convention**
+
+— PSCC56-2023-05 ISM Code
+
+— PSCC54-2021-02 ISPS Code
+
+— PSCC51-2018-12 ECDIS
+
+— PSCC43-2010-32 VDR (Voyage Date Recorders)
+
+— PSCC43-2010-09 Material Safety Data Sheets
+
+— PSCC43-2010-21 GMDSS
+
+— PSCC44-2011-16 Lifeboat on-load release hooks
+
+— PSCC45-2012-10 Damage stability on tankers
+
+— PSCC55-2022-05 LRIT
+
+— PSCC43-2010-28 Thickness measurements ESP/CAS
+
+— PSCC43-2010-29 Thickness measurement
+
+— PSCC51-2018-11 Polar Code
+
+— PSCC55-2022-02 IGF Code
+
+**MARPOL Convention**
+
+— PSCC46-2013-18 MARPOL Annex I OWS
+
+— PSCC43-2010-39 MARPOL Annex II Stripping
+
+— PSCC47-2014-08 MARPOL Annex III IMDG
+
+— PSCC55-2022-07 MARPOL Annex IV Sewage
+
+— PSCC52-2019-07 MARPOL Annex V Garbage
+
+— PSCC56-2023-07 MARPOL Annex VI Air Pollution
+
+— PSCC43-2010-38 Crude oil washing
+
+— PSCC44-2011-20 MARPOL Investigation
+
+**International Load Line Convention**
+
+— PSCC54-2021-06 International Load Line Convention
+
+**AFS Convention**
+
+— PSCC47-2014-13 Anti-Fouling Systems
+
+**Bunkers Convention**
+
+— PSCC56-2023-02 Conventions related to Financial Liability
+
+**Certification of Seafarers and Manning**
+
+— PSCC56-2023-08 Certification of Seafarers and Manning (STCW, MLC and SOLAS)
+
+**Ballast Water Management Convention**
+
+— PSCC51-2018-09 Ballast Water Management Convention
+
+**ILO Conventions**
+
+— PSCC52-2019-10 Maritime Labour Convention, 2006
+
+— PSCC53-2020-14 Hours of Work or Rest and fitness for duty
+
+## ANNEX VII
+
+**EXPANDED INSPECTIONS OF SHIPS**
+
+**(referred to in Article 14)**
+
+An expanded inspection concerns in particular the overall condition of the following risk areas:
+
+— Documentation.
+
+— Structural condition.
+
+— Weathertight condition.
+
+— Emergency systems.
+
+— Radio communication.
+
+— Cargo operations.
+
+— Fire safety.
+
+— Alarms.
+
+— Living and working conditions.
+
+— Navigation equipment.
+
+— Life saving appliances.
+
+— Dangerous goods.
+
+— Propulsion and auxiliary machinery.
+
+— Pollution prevention.
+
+In addition, subject to their practical feasibility or any constraints relating to the safety of persons, the ship or the port, an expanded inspection shall include the verification of specific items of risk areas depending on the type of vessel inspected, as established in accordance with Article 14(3).
+
+## ANNEX VIII — PROVISIONS CONCERNING REFUSAL OF ACCESS TO PORTS AND ANCHORAGES WITHIN THE UNION — (referred to in Article 16 and Article 21(4))
+
+(1) If the conditions described in Article 16(1) are met, the competent authority of the port in which the ship is detained for the third time shall inform the master of the ship in writing that a refusal of access order will be issued which will become applicable immediately after the ship has left the port. The refusal of access order shall become applicable immediately after the ship has left the port after the deficiencies leading to the detention have been remedied.
+
+(2) The competent authority shall send a copy of the refusal of access order to the flag State administration, the recognised organisation concerned, the other Member States, and the other signatories to the Paris MoU, the Commission and the Paris MoU Secretariat. The competent authority shall also update the inspection database with information on the refusal of access without delay.
+
+(3) In order to have the refusal of access order lifted, the owner or the operator of the ship must address a formal request to the competent authority of the Member State that imposed the refusal of access order. Such request must be accompanied by a document from the flag State administration, issued following an on-board visit by a surveyor duly authorised by the flag State administration, showing that the ship fully complies with the applicable provisions of the Conventions. The flag State administration shall provide evidence to the competent authority that a visit on board has taken place. The document may take the form of an official statement, which must be issued by the flag State administration and not by a recognised organisation.
+
+(4) The request for the lifting of the refusal of access order must also be accompanied, where appropriate, by a document from the classification society which has the ship in class following an on-board visit by a surveyor from the classification society, showing that the ship complies with the class standards stipulated by that society. The classification society shall provide evidence to the competent authority that an on-board visit has taken place.
+
+(5) The refusal of access order may be lifted only after the period referred to Article 16 of this Directive has elapsed, and the company must address a formal request to the port State authority of the Member State that imposed the ban and provide the documents requested in paragraphs 3 and 4.
+
+(6) Such a request including the required documents must be submitted to the banning State at least one month before the end of the ban period. If this deadline is not met, then a delay may occur of up to one month after the banning State received the request.
+
+(7) The information system will add an overriding factor to the ship and the ship will be indicated as eligible for an expanded inspection at its next call at port/anchorage in the Paris MoU region.
+
+(8) The competent authority shall also notify its decision in writing to the flag State administration, the classification society concerned, the other Member States, the other signatories to the Paris MoU, the Commission and the Paris MoU Secretariat. The competent authority must also update the inspection database with information on the refusal of the access without delay.
+
+(9) Information relating to ships that have been refused access to ports within the Union must be made available in the inspection database and published in accordance with Article 26 and Annex XIII.
+
+## ANNEX IX
+
+**INSPECTION REPORT**
+
+**(referred to in Article 17)**
+
+The inspection report must contain at least the following items.
+
+**I. General**
+
+1\. Competent authority that wrote the report
+
+2\. Date and place of inspection
+
+3\. Name of the ship inspected
+
+4\. Flag
+
+5\. Type of ship (as indicated in the Safety Management Certificate)
+
+6\. IMO identification number
+
+7\. Call sign
+
+8\. Tonnage (gt)
+
+9\. Deadweight tonnage (where relevant)
+
+10\. Year of construction as determined on the basis of the date indicated in the ship’s safety certificates
+
+11\. The classification society or classification societies as well as any other organisation, where relevant, which has/have issued to this ship the classification certificates, if any
+
+12\. The recognised organisation or recognised organisations and/or any other party which has/have issued to this ship certificates in accordance with the applicable Conventions on behalf of the flag State
+
+13\. Name and address of the ship’s company or the operator
+
+14\. Name and address of the charterer responsible for the selection of the ship and type of charter in the case of ships carrying liquid or solid cargoes in bulk
+
+15\. Final date of writing the inspection report
+
+16\. Indication that detailed information on an inspection or a detention may be subject to publication.
+
+**II. Information relating to inspection**
+
+1\. Certificates issued in application of the relevant Conventions, authority or organisation that issued the certificate(s) in question, including the date of issue and expiry
+
+2\. Parts or elements of the ship that were inspected (in the case of more detailed or expanded inspection)
+
+3\. Port and date of the last intermediate or annual or renewal survey and the name of the organisation which carried out the survey
+
+4\. Type of inspection (inspection, more detailed inspection, expanded inspection)
+
+5\. Nature of the deficiencies
+
+6\. Measures taken.
+
+**III. Additional information in the event of detention**
+
+1\. Date of detention order
+
+2\. Date of lifting the detention order
+
+3\. Nature of the deficiencies warranting the detention order (references to Conventions, if relevant)
+
+4\. Indication, where relevant, of whether the recognised organisation or any other private body that carried out the survey has a responsibility in relation to the deficiencies which, alone or in combination, led to detention
+
+5\. Measures taken.
+
+## ANNEX X
+
+**CRITERIA FOR DETENTION OF A SHIP**
+
+**(referred to in Article 19(3))**
+
+**INTRODUCTION**
+
+Before determining whether deficiencies found during an inspection warrant detention of the ship involved, the inspector must apply the criteria mentioned below in points 1 and 2.
+
+Point 3 includes examples of deficiencies that may for themselves warrant detention of the ship involved (see Article 19(3)).
+
+Where the ground for detention is the result of accidental damage suffered on the ship’s voyage to a port, no detention order shall be issued, provided that:
+
+(a) due account has been given to the requirements contained in Regulation I/11(c) of SOLAS 74 regarding notification to the flag State administration, the nominated surveyor or the recognised organisation responsible for issuing the relevant certificate;
+
+(b) prior to entering a port, the master or shipowner has submitted to the port State control authority details on the circumstances of the accident and the damage suffered and information about the required notification of the flag State administration;
+
+(c) appropriate remedial action, to the satisfaction of the Authority, is being taken by the ship; and
+
+(d) the authority has ensured, having been notified of the completion of the remedial action, that deficiencies which were clearly hazardous to safety, health or the environment have been rectified.
+
+**1\. Main criteria**
+
+When exercising his professional judgement as to whether or not a ship should be detained the inspector must apply the following criteria:
+
+**Timing:**
+
+Ships which are unsafe to proceed to sea must be detained upon the first inspection irrespective of how much time the ship will stay in port.
+
+**Criterion:**
+
+The ship is detained if its deficiencies are sufficiently serious to merit an inspector returning to satisfy himself that they have been rectified before the ship sails.
+
+The need for the inspector to return to the ship is a measure of the seriousness of the deficiencies. However, it does not impose such an obligation for every case. It implies that the authority must verify one way or another, preferably by a further visit, that the deficiencies have been rectified before departure.
+
+**2\. Application of main criteria**
+
+When deciding whether the deficiencies found in a ship are sufficiently serious to merit detention the inspector must assess whether:
+
+1\. the ship has relevant, valid documentation;
+
+2\. the ship has the crew required in the Minimum Safe Manning Document.
+
+During inspection the inspector must further assess whether the ship and/or crew is able to:
+
+3\. navigate safely throughout the forthcoming voyage;
+
+4\. safely handle, carry and monitor the condition of the cargo throughout the forthcoming voyage;
+
+5\. operate the engine room safely throughout the forthcoming voyage;
+
+6\. maintain proper propulsion and steering throughout the forthcoming voyage;
+
+7\. fight fires effectively in any part of the ship if necessary during the forthcoming voyage;
+
+8\. abandon ship speedily and safely and effect rescue if necessary during the forthcoming voyage;
+
+9\. prevent pollution of the environment throughout the forthcoming voyage;
+
+10\. maintain adequate stability throughout the forthcoming voyage;
+
+11\. maintain adequate watertight integrity throughout the forthcoming voyage;
+
+12\. communicate in distress situations if necessary during the forthcoming voyage;
+
+13\. provide safe and healthy conditions on board throughout the forthcoming voyage;
+
+14\. provide the maximum of information in case of accident.
+
+If the answer to any of these assessments is negative, taking into account all deficiencies found, the ship must be strongly considered for detention. A combination of deficiencies of a less serious nature may also warrant the detention of the ship.
+
+3\. To assist the inspector in the use of these guidelines, there follows a list of deficiencies, grouped under relevant Conventions and/or codes, which are considered of such a serious nature that they may warrant the detention of the ship involved. This list is not intended to be exhaustive.
+
+**3.1. General**
+
+The lack of valid certificates and documents as required by the relevant instruments. However, ships flying the flag of States not party to a relevant Convention or not having implemented another relevant instrument, are not entitled to carry the certificates provided for by the Convention or other relevant instrument. Therefore, absence of the required certificates should not by itself constitute reason to detain these ships; however, in applying the ‘no more favourable treatment’ clause, substantial compliance with the provisions is required before the ship sails.
+
+**3.2. Areas under SOLAS 74**
+
+1\. Failure of the proper operation of propulsion and other essential machinery, as well as electrical installations.
+
+2\. Insufficient cleanliness of engine room, excessive amount of oily-water mixtures in bilges, insulation of piping, including exhaust pipes in engine room contaminated by oil, improper operation of bilge pumping arrangements.
+
+3\. Failure of the proper operation of emergency generator, lighting, batteries and switches.
+
+4\. Failure of the proper operation of the main and auxiliary steering gear.
+
+5\. Absence, insufficient capacity or serious deterioration of personal life-saving appliances, survival craft and launching arrangements.
+
+6\. Absence, non-compliance or substantial deterioration of fire detection system, fire alarms, firefighting equipment, fixed fire-extinguishing installation, ventilation valves, fire dampers, quick-closing devices to the extent that they cannot comply with their intended use.
+
+7\. Absence, substantial deterioration or failure of proper operation of the cargo deck area fire protection on tankers.
+
+8\. Absence, non-compliance or serious deterioration of lights, shapes or sound signals.
+
+9\. Absence or failure of the proper operation of the radio equipment for distress and safety communication.
+
+10\. Absence or failure of the proper operation of navigation equipment, taking the provisions of SOLAS 74, Regulation V/16.2 into account.
+
+11\. Absence of corrected navigational charts, and/or all other relevant nautical publications necessary for the intended voyage, taking into account that a type approved electronic chart display and information system (ECDIS) operating on official data may be used as a substitute for the charts.
+
+12\. Absence of non-sparking exhaust ventilation for cargo pump rooms.
+
+13\. Serious deficiency in the operational requirements, as described in Section 5.5 of Annex 1 to the Paris MOU.
+
+14\. Number, composition or certification of crew not corresponding with the safe manning document.
+
+15\. Failure to carry out the enhanced survey programme in accordance with SOLAS 74, Chapter XI, Regulation 2.
+
+**3.3. Areas under the IBC Code**
+
+1\. Transport of a substance not mentioned in the Certificate of Fitness or missing cargo information.
+
+2\. Missing or damaged high-pressure safety devices.
+
+3\. Electrical installations not intrinsically safe or not corresponding to code requirements.
+
+4\. Sources of ignition in hazardous locations.
+
+5\. Contraventions of special requirements.
+
+6\. Exceeding of maximum allowable cargo quantity per tank.
+
+7\. Insufficient heat protection for sensitive products.
+
+**3.4. Areas under the IGC Code**
+
+1\. Transport of a substance not mentioned in the Certificate of Fitness or missing cargo information.
+
+2\. Missing closing devices for accommodation or service spaces.
+
+3\. Bulkhead not gastight.
+
+4\. Defective air locks.
+
+5\. Missing or defective quick-closing valves.
+
+6\. Missing or defective safety valves.
+
+7\. Electrical installations not intrinsically safe or not corresponding to code requirements.
+
+8\. Ventilators in cargo area not operable.
+
+9\. Pressure alarms for cargo tanks not operable.
+
+10\. Gas detection plant and/or toxic gas detection plant defective.
+
+11\. Transport of substances to be inhibited without valid inhibitor certificate.
+
+**3.5. Areas under LL 66**
+
+1\. Significant areas of damage or corrosion, or pitting of plating and associated stiffening in decks and hull affecting seaworthiness or strength to take local loads, unless proper temporary repairs for a voyage to a port for permanent repairs have been carried out.
+
+2\. A recognised case of insufficient stability.
+
+3\. The absence of sufficient and reliable information, in an approved form, which by rapid and simple means, enables the master to arrange for the loading and ballasting of his ship in such a way that a safe margin of stability is maintained at all stages and at varying conditions of the voyage, and that the creation of any unacceptable stresses in the ship’s structure are avoided.
+
+4\. Absence, substantial deterioration or defective closing devices, hatch closing arrangements and watertight doors.
+
+5\. Overloading.
+
+6\. Absence of draft mark or draft mark impossible to read.
+
+**3.6. Areas under MARPOL 73/78, Annex I**
+
+1\. Absence, serious deterioration or failure of proper operation of the oily-water filtering equipment, the oil discharge monitoring and control system or the 15 ppm alarm arrangements.
+
+2\. Remaining capacity of slop and/or sludge tank insufficient for the intended voyage.
+
+3\. Oil Record Book not available.
+
+4\. Unauthorised discharge bypass fitted.
+
+5\. Survey report file missing or not in conformity with Regulation 13G(3)(b) of MARPOL 73/78.
+
+**3.7. Areas under MARPOL 73/78, Annex II**
+
+1\. Absence of the P&A Manual.
+
+2\. Cargo is not categorised.
+
+3\. No cargo record book available.
+
+4\. Transport of oil-like substances without satisfying the requirements or without an appropriately amended certificate.
+
+5\. Unauthorised discharge bypass fitted.
+
+**3.8. Areas under MARPOL 73/78, Annex V**
+
+1\. Absence of the garbage management plan.
+
+2\. No garbage record book available.
+
+3\. Ship’s personnel not familiar with disposal/discharge requirements of garbage management plan.
+
+**3.9. Areas under the STCW 78/95 and Directive 2008/106/EC.**
+
+1\. Failure of seafarers to hold a certificate, to have an appropriate certificate, to have a valid dispensation or to provide documentary proof that an application for an endorsement has been submitted to the flag State administration.
+
+2\. Evidence that a certificate has been fraudulently obtained or the holder of a certificate is not the person to whom that certificate was originally issued.
+
+3\. Failure to comply with the applicable safe manning requirements of the flag State administration.
+
+4\. Failure of navigational or engineering watch arrangements to conform to the requirements specified for the ship by the flag State administration.
+
+5\. Absence in a watch of a person qualified to operate equipment essential to safe navigation, safety radio communications or the prevention of marine pollution.
+
+6\. Failure to provide proof of professional proficiency for the duties assigned to seafarers for the safety of the ship and the prevention of pollution.
+
+7\. Inability to provide for the first watch at the commencement of a voyage and for subsequent relieving watches persons who are sufficiently rested and otherwise fit for duty.
+
+**3.10. Areas under MLC 2006**
+
+1\. Insufficient food for voyage to next port.
+
+2\. Insufficient potable water for voyage to next port.
+
+3\. Excessively unsanitary conditions on board.
+
+4\. No heating in accommodation of a ship operating in areas where temperatures may be excessively low.
+
+5\. Insufficient ventilation in accommodation of a ship.
+
+6\. Excessive garbage, blockage by equipment or cargo or otherwise unsafe conditions in passageways/accommodations.
+
+7\. Clear evidence that watchkeeping and other duty personnel for the first watch or subsequent relieving watches are impaired by fatigue.
+
+8\. The conditions on board are clearly hazardous to the safety, health or security of seafarers.
+
+9\. The non-conformity constitutes a serious or repeated breach of the requirements of MLC 2006 (including seafarer’s rights) relating to the living and working conditions of seafarers on the ship, as stipulated in the ship’s maritime labour certificate and declaration of maritime labour compliance.
+
+**3.11. Areas which may not warrant a detention, but where, e.g. cargo operations have to be suspended.**
+
+Failure of the proper operation (or maintenance) of inert gas system, cargo-related gear or machinery are considered sufficient grounds for stopping cargo operation.
+
+## ANNEX XI
+
+**MINIMUM CRITERIA FOR INSPECTORS**
+
+**(referred to in Article 22(1) and (5))**
+
+1\. Inspectors must have appropriate theoretical knowledge and practical experience of ships and their operation. They must be competent in the enforcement of the requirements of Conventions and of the relevant port State control procedures. This knowledge and competence in enforcing international and Community requirements must be acquired through documented training programmes.
+
+2\. Inspectors must, as a minimum, have either:
+
+(a) appropriate qualifications from a marine or nautical institution and relevant seagoing experience as a certificated ship officer holding or having held a valid STCW II/2 or III/2 certificate of competency not limited as regards the operating area or propulsion power or tonnage; or
+
+(b) passed an examination recognised by the competent Authority as a naval architect, mechanical engineer or an engineer related to the maritime fields and worked in that capacity for at least five years; or
+
+(c) a relevant university degree or equivalent and have properly trained and qualified as ship safety inspectors.
+
+3\. The inspector must have:
+
+— completed a minimum of one year’s service as a flag-State inspector either dealing with surveys and certification in accordance with the Conventions or involved in the monitoring of the activities of recognised organisations to which statutory tasks have been delegated, or
+
+— gained an equivalent level of competence by following a minimum of one year’s field training participating in Port State Control inspections under the guidance of experienced Port State Control Officers.
+
+4\. The inspectors mentioned under 2(a) must have gained a maritime experience of at least 5 years, including periods served at sea as officers in the deck- or engine-department respectively, or as a flag State inspector or as an assistant port State control inspector. Such experience shall include a period of at least two years at sea as a deck or engine officer.
+
+5\. The inspectors must have the ability to communicate orally and in writing with seafarers in the language most commonly spoken at sea.
+
+6\. Inspectors not fulfilling the above criteria are also accepted if they are employed by the competent authority of a Member State for port State control at the date of adoption of this Directive.
+
+7\. Where in a Member State inspections referred to in Article 15(1) and (2) are performed by port State control inspectors; those inspectors shall have appropriate qualifications, which shall include sufficient theoretical and practical experience in maritime security. This shall normally include:
+
+(a) a good understanding of maritime security and how it is applied to the operations being examined;
+
+(b) a good working knowledge of security technologies and techniques;
+
+(c) a knowledge of inspection principles, procedures and techniques;
+
+(d) a working knowledge of the operations being examined.
+
+## ANNEX XII — FUNCTIONALITIES OF THE INSPECTION DATABASE — (referred to in Article 24(1))
+
+(1) The inspection database shall include at least the following functionalities:
+
+— incorporate inspection data of Member States and all other State signatories to the Paris MoU,
+
+— provide data on the ship risk profile and on ships due for inspections,
+
+— calculate the inspection commitments for each Member State,
+
+— produce the high performance, the medium performance and the low performance list of flag States referred to in Article 16(1),
+
+— produce data on the performance of companies,
+
+— identify the items in risk areas to be checked at each inspection.
+
+(2) The inspection database shall have the capability to adapt to future developments and to interface with other Union maritime safety databases, including SafeSeaNet, which shall provide data on ships’ actual calls at ports of Member States and, where appropriate, to relevant national information systems.
+
+(3) A deep hyperlink shall be provided from the inspection database to the Equasis information system. Member States shall encourage that the public and private databases relating to ship inspection accessible through Equasis are consulted by the inspectors.
+
+## ANNEX XIII
+
+**PUBLICATION OF INFORMATION RELATED TO INSPECTIONS, DETENTIONS AND REFUSALS OF ACCESS IN PORTS AND ANCHORAGES OF MEMBER STATES**
+
+**(referred to in Article 26)**
+
+1\. Information published in accordance with Article 26 must include the following:
+
+(a) name of the ship;
+
+(b) IMO identification number;
+
+(c) type of ship;
+
+(d) tonnage (gt);
+
+(e) year of construction as determined on the basis of the date indicated in the ship’s safety certificates;
+
+(f) name and address of the company of the ship;
+
+(g) in the case of ships carrying liquid or solid cargoes in bulk, the name and address of the charterer responsible for the selection of the ship and the type of charter;
+
+(h) flag State;
+
+(i) classification and statutory certificates issued in accordance with the relevant Conventions, and the authority or organisation that issued each one of the certificates in question, including the date of issue and expiry;
+
+(j) port and date of the last intermediate or annual survey for the certificates in point (i) above and the name of the authority or organisation which carried out the survey;
+
+(k) date, country, port of detention.
+
+2\. For ships which have been detained, information published in accordance with Article 26 must also include:
+
+(a) number of detentions during the previous 36 months;
+
+(b) date when the detention was lifted;
+
+(c) duration of detention, in days;
+
+(d) the reasons for detention, in clear and explicit terms;
+
+(e) indication, where relevant, of whether the recognised organisation that carried out the survey has a responsibility in relation to the deficiencies which, alone or in combination, led to detention;
+
+(f) description of the measures taken in the case of a ship which has been allowed to proceed to the nearest appropriate repair yard;
+
+(g) if the ship has been refused access to any port or anchorage within the Community, the reasons for the measure in clear and explicit terms.
+
+## ANNEX XIV
+
+**DATA PROVIDED IN THE CONTEXT OF MONITORING IMPLEMENTATION**
+
+**(referred to in Article 29)**
+
+**1\. Every year Member States must provide the Commission with the following data for the preceding year by 1 April at the latest.**
+
+**1.1. Number of inspectors acting on their behalf in the framework of port State control**
+
+This information must be communicated to the Commission using the following model table ( 12 ) ( 13 ).
+
+| Port/area | Number of full-time inspectors (A) | Number of part-time inspectors (B) | Conversion of (B) to full-time (C) | Total (A+C) |
+| --- | --- | --- | --- | --- |
+| Port X/or Area X … |  |  |  |  |
+| Port Y/or Area Y … |  |  |  |  |
+| TOTAL |  |  |  |  |
+
+**1.2. Total number of individual ships that entered their ports at national level. The figure shall be the number of ships covered by this Directive that entered their ports at national level counted only once.**
+
+**2\. Member States must:**
+
+(a) provide the Commission every six months with a list of calls at port of individual ships, other than regular passenger and freight ferry services, that entered their ports or which have notified to a port authority or body their arrival in an anchorage, containing for each movement of the ship its IMO identification number, its date of arrival and the port. The list shall be provided in the form of a spreadsheet programme enabling an automatic retrieval and processing of the abovementioned information. The list shall be provided within 4 months from the end of the period to which data pertained;
+
+and
+
+(b) provide the Commission with separate lists of regular passenger ferry services and regular freight ferry services referred to in point (a), not later than six months following the implementation of this Directive, and thereafter each time changes take place in such services. The list shall contain for each ship its IMO identification number, its name and the route covered by the ship. The list shall be provided in the form of a spreadsheet programme enabling an automatic retrieval and processing of the abovementioned information.
+
+## ANNEX XV
+
+**PART A**
+
+**Repealed Directive with its successive amendments**
+
+**(referred to in Article 37)**
+
+| Council Directive 95/21/EC (OJ L 157, 7.7.1995, p. 1) |  |
+| --- | --- |
+| Council Directive 98/25/EC (OJ L 133, 7.5.1998, p. 19) |  |
+| Commission Directive 98/42/EC (OJ L 184, 27.6.1998, p. 40) |  |
+| Commission Directive 1999/97/EC (OJ L 331, 23.12.1999, p. 67) |  |
+| Directive 2001/106/EC of the European Parliament and of the Council (OJ L 19, 22.1.2002, p. 17) |  |
+| Directive 2002/84/EC of the European Parliament and of the Council (OJ L 324, 29.11.2002, p. 53) | Only Article 4 |
+
+**PART B**
+
+**List of time limits for transposition into national law**
+
+**(referred to in Article 37)**
+
+| Directive | Time limit for transposition |
+| --- | --- |
+| Directive 95/21/EC | 30 June 1996 |
+| Directive 98/25/EC | 30 June 1998 |
+| Directive 98/42/EC | 30 September 1998 |
+| Directive 1999/97/EC | 13 December 2000 |
+| Directive 2001/106/EC | 22 July 2003 |
+| Directive 2002/84/EC | 23 November 2003 |
+
+## ANNEX XVI
+
+**Correlation table**
+
+**(referred to in Article 37)**
+
+| Directive 95/21/EC | This Directive |
+| --- | --- |
+| Article 1, introductory wording | Article 1, introductory wording |
+| Article 1, first indent | Article 1(a) |
+| Article 1, second indent | Article 1(b) |
+| – | Article 1(c) |
+| Article 2, introductory wording | Article 2, introductory wording |
+| Article 2(1), introductory wording | Article 2(1), introductory wording |
+| Article 2(1), first indent | Article 2(1)(a) |
+| Article 2(1), second indent | Article 2(1)(b) |
+| Article 2(1), third indent | Article 2(1)(c) |
+| Article 2(1), fourth indent | Article 2(1)(d) |
+| Article 2(1), fifth indent | Article 2(1)(e) |
+| Article 2(1), sixth indent | Article 2(1)(f) |
+| Article 2(1), seventh indent | Article 2(1)(g) |
+| Article 2(1), eighth indent | Article 2(1)(h) |
+| Article 2(2) | Article 2(2) |
+| – | Article 2(3) |
+| – | Article 2(4) |
+| Article 2(3) | Article 2(5) |
+| Article 2(4) | – |
+| – | Article 2(6) |
+| – | Article 2(7) |
+| Article 2(5) | Article 2(8) |
+| – | Article 2(9) |
+| – | Article 2(10) |
+| Article 2(6) | Article 2(11) |
+| Article 2(7) | Article 2(12) |
+| Article 2(8) | Article 2(13) |
+| – | Article 2(14) |
+| Article 2(9) | Article 2(15) |
+| – | Article 2(16) |
+| Article 2(10) | Article 2(17) |
+| – | Article 2(18) |
+| – | Article 2(19) |
+| – | Article 2(20) |
+| – | Article 2(21) |
+| – | Article 2(22) |
+| Article 3(1), first subparagraph | Article 3(1), first subparagraph |
+| – | Article 3(1), second subparagraph |
+| – | Article 3(1), third subparagraph |
+| Article 3(1), second subparagraph | Article 3(1), fourth subparagraph |
+| – | Article 3(1), fifth subparagraph |
+| – | Article 3(1), sixth subparagraph |
+| Article 3(2) to (4) | Article 3(2) to (4) |
+| – | Article 4(1) |
+| Article 4 | Article 4(2) |
+| Article 5 | – |
+| – | Article 5 |
+| – | Article 6 |
+| – | Article 7 |
+| – | Article 8 |
+| – | Article 9 |
+| – | Article 10 |
+| – | Article 11 |
+| – | Article 12 |
+| Article 6(1), introductory wording | – |
+| – | Article 13(1), introductory wording |
+| Article 6(1)(a) | Article 13(1)(a) |
+| – | Article 13(1)(b) |
+| Article 6(1)(b) | Article 13(1)(c) |
+| Article 6(2) | – |
+| – | Article 13(2) |
+| Article 6(3) | Article 13(3) |
+| Article 6(4) | – |
+| Article 7 | – |
+| Article 7a | – |
+| Article 7b | – |
+| – | Article 14 |
+| – | Article 15 |
+| – | Article 16 |
+| Article 8 | Article 17 |
+| – | Article 18 |
+| Article 9(1) and (2) | Article 19(1) and (2) |
+| Article 9(3), first sentence | Article 19(3) |
+| Article 9(3), sentences 2 to 4 | Article 19(4) |
+| Article 9(4) to (7) | Article 19(5) to (8) |
+| – | Article 19(9) and (10) |
+| Article 9a | – |
+| Article 10(1) to (3) | Article 20(1) to (3) |
+| – | Article 20(4) |
+| Article 11(1) | Article 21(1) |
+| – | Article 21(2) |
+| Article 11(2) | Article 21(3), first subparagraph |
+| Article 11(3), first subparagraph | – |
+| Article 11(3), second subparagraph | Article 21(3), second subparagraph |
+| Article 11(4) to (6) | Article 21(4) to (6) |
+| Article 12(1) to (3) | Article 22(1) to (3) |
+| Article 12(4) | Article 22(4) |
+| – | Article 22(5) to (7) |
+| Article 13(1) to (2) | Article 23(1) and (2) |
+| – | Article 23(3) to (5) |
+| Article 14 | – |
+| Article 15 | – |
+| – | Article 24 |
+| – | Article 25 |
+| – | Article 26 |
+| – | Article 27 |
+| Article 16(1) and (2) | Article 28(1) and (2) |
+| Article 16(2a) | Article 28(3) |
+| Article 16(3) | Article 28(4) |
+| Article 17 | Article 29 |
+| – | Article 30 |
+| Article 18 | Article 31 |
+| Article 19 | Article 32 |
+| – | Article 33 |
+| Article 19a | Article 34 |
+| – | Article 35 |
+| Article 20 | Article 36 |
+| – | Article 37 |
+| Article 21 | Article 38 |
+| Article 22 | Article 39 |
+| Annex I | – |
+| – | Annex I |
+| – | Annex II |
+| – | Annex III |
+| Annex II | Annex IV |
+| Annex III | Annex V |
+| Annex IV | Annex VI |
+| Annex V | Annex VII |
+| Annex VI | Annex X |
+| Annex VII | Annex XI |
+| – | Annex XII |
+| Annex VIII | Annex XIII |
+| Annex IX | Annex IX |
+| Annex X | Annex XIV |
+| Annex XI | Annex VIII |
+| Annex XII | – |
+| – | Annex XV |
+| – | Annex XVI |
+
+## ANNEX XVII
+
+**Inspection of ro-ro passenger ships and high-speed passenger craft on a regular service**
+
+1.1. Before a ro-ro passenger ship or high-speed passenger craft starts to operate on a regular service covered by this Directive, Member States shall carry out an inspection, in accordance with Article 3(1) of Directive (EU) 2017/2110 ( 14 ), to ensure that that ro-ro passenger ship or high-speed passenger craft fulfills the necessary requirements for the safe operation of a regular service.
+
+1.2. When a ro-ro passenger ship or high-speed passenger craft is to be engaged on a regular service, the Member State concerned may take into account inspections carried out within the last 8 months by another Member State in respect of that ro-ro passenger ship or high-speed passenger craft for operations on another regular service covered by this Directive, provided that the Member State is satisfied in every case that those previous inspections are relevant to the new operational conditions and that during those inspections the necessary requirements for the safe operation of a regular service were fulfilled. The inspections provided for in point 1.1 do not need to be applied before the ro-ro passenger ship or high-speed passenger craft starts operating on the new regular service.
+
+1.3. Where, due to unforeseen circumstances, there is an urgent need for the rapid introduction of a replacement ro-ro passenger ship or high-speed passenger craft to ensure continuity of service, and point 1.2 is not applicable, the Member State may allow the passenger ship or craft to start operating provided that the following conditions are met:
+
+(a) a visual inspection and document check raises no concerns that the ro-ro passenger ship or high-speed passenger craft does not fulfill the necessary requirements for safe operation; and
+
+(b) the Member State completes the inspection provided for in Article 3(1) of Directive (EU) 2017/2110 within 1 month.
+
+2\. Member States shall, once per year, but not before 4 months and not later than 8 months following the previous inspection, carry out:
+
+(a) an inspection, including the requirements of Annex II to Directive (EU) 2017/2110 and of Commission Regulation (EU) No 428/2010 ( 15 ) as applicable; and
+
+(b) an inspection during a regular service. This inspection shall cover the items listed in Annex III to Directive (EU) 2017/2110 and what, in the professional judgment of the inspector, constitutes a sufficient number of the items listed in Annexes I and II to Directive (EU) 2017/2110, to ensure that the ro-ro passenger ship or high-speed passenger craft continues to fulfill all the necessary requirements for safe operation.
+
+3\. Where a ro-ro passenger ship or high-speed passenger craft has not been inspected in accordance with point 2, the ro-ro passenger ship or high-speed passenger craft shall be considered to be Priority I.
+
+4\. An inspection in accordance with point 1.1 shall be considered to be an inspection for the purposes of point 2(a) of this Annex.
+
+( 1 ) OJ L 129, 29.4.2004, p. 6.
+
+( 2 ) Regulation (EC) No 391/2009 of the European Parliament and of the Council of 23 April 2009 on common rules and standards for ship inspection and survey organisations (OJ L 131, 28.5.2009, p. 11).
+
+( 3 ) Directive 2002/59/EC of the European Parliament and of the Council of 27 June 2002 establishing a Community vessel traffic monitoring and information system and repealing Council Directive 93/75/EEC (OJ L 208, 5.8.2002, p. 10).
+
+( 4 ) OJ L 196, 7.8.1996, p. 8.
+
+( 5 ) Directive (EU) 2019/883 of the European Parliament and of the Council of 17 April 2019 on port reception facilities for the delivery of waste from ships (OJ L 151, 7.6.2019, p. 116).
+
+( 6 ) OJ L 324, 29.11.2002, p. 1.
+
+( 7 ) Directive 2009/20/EC of the European Parliament and of the Council of 23 April 2009 on the insurance of shipowners for maritime claims (OJ L 131, 28.5.2009, p. 128).
+
+( 8 ) Regulation (EC) No 392/2009 of the European Parliament and of the Council of 23 April 2009 on the liability of carriers of passengers by sea in the event of accidents (OJ L 131, 28.5.2009, p. 24).
+
+( 9 ) Regulation (EU) No 1257/2013 of the European Parliament and of the Council of 20 November 2013 on ship recycling and amending Regulation (EC) No 1013/2006 and Directive 2009/16/EC (OJ L 330, 10.12.2013, p. 1).
+
+( 10 ) Regulation (EU) 2015/757 of the European Parliament and of the Council of 29 April 2015 on the monitoring, reporting and verification of greenhouse gas emissions from maritime transport, and amending Directive 2009/16/EC (OJ L 123, 19.5.2015, p. 55).
+
+( 11 ) OJ L 323, 3.12.2008, p. 33.
+
+( 12 ) Where the inspections carried out in the context of port State control represent only part of the inspectors' work, the total number of inspectors must be converted to a number equivalent to full-time inspectors. Where the same inspector works in more than one port or geographical area the applicable part-time equivalent must be counted in each port.
+
+( 13 ) This information must be provided at national level and for each port of the Member State concerned. For the purposes of this Annex, a port is taken to mean an individual port or the geographical area covered by an inspector or team of inspectors, comprising several individual ports where appropriate.
+
+( 14 ) Directive (EU) 2017/2110 of the European Parliament and of the Council of 15 November 2017 on a system of inspections for the safe operation of ro-ro passenger ships and high-speed passenger craft in regular service and amending Directive 2009/16/EC and repealing Council Directive 1999/35/EC (OJ L 315, 30.11.2017, p. 61).
+
+( 15 ) Commission Regulation (EU) No 428/2010 of 20 May 2010 implementing Article 14 of Directive 2009/16/EC of the European Parliament and of the Council as regards expanded inspections of ships (OJ L 125, 21.5.2010, p. 2).

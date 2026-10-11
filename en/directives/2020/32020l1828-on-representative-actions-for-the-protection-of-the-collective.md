@@ -1,0 +1,559 @@
+---
+title: "Directive (EU) 2020/1828 of the European Parliament and of the Council of 25 November 2020 on representative actions for the protection of the collective interests of consumers and repealing Directive 2009/22/EC (Text with EEA relevance)"
+identifier: "32020L1828"
+eli: "http://data.europa.eu/eli/dir/2020/1828/oj"
+type: directive
+jurisdiction: eu
+language: en
+date: 2020-11-25
+entry_into_force: 2020-12-12
+last_amended: 2026-08-02
+consolidated_version: "02020L1828-20260802"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02020L1828-20260802"
+retrieved: 2026-10-11
+---
+
+# Directive (EU) 2020/1828 of the European Parliament and of the Council of 25 November 2020 on representative actions for the protection of the collective interests of consumers and repealing Directive 2009/22/EC (Text with EEA relevance)
+
+**DIRECTIVE (EU) 2020/1828 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 25 November 2020**
+
+**on representative actions for the protection of the collective interests of consumers and repealing Directive 2009/22/EC**
+
+**(Text with EEA relevance)**
+
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> REGULATION (EU) 2022/1925 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 14 September 2022 </td><td> L 265</td><td>1</td><td>12.10.2022</td></tr>
+<tr><td></td><td> REGULATION (EU) 2022/2065 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 19 October 2022 </td><td> L 277</td><td>1</td><td>27.10.2022</td></tr>
+<tr><td></td><td> REGULATION (EU) 2023/988 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 10 May 2023 </td><td> L 135</td><td>1</td><td>23.5.2023</td></tr>
+<tr><td> M4</td><td> REGULATION (EU) 2023/2854 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 13 December 2023 </td><td> L 2854</td><td>1</td><td>22.12.2023</td></tr>
+<tr><td> M5</td><td> REGULATION (EU) 2024/1781 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 13 June 2024 </td><td> L 1781</td><td>1</td><td>28.6.2024</td></tr>
+<tr><td> M6</td><td> DIRECTIVE (EU) 2024/1799 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 13 June 2024 </td><td> L 1799</td><td>1</td><td>10.7.2024</td></tr>
+<tr><td></td><td> REGULATION (EU) 2024/1689 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 13 June 2024 </td><td> L 1689</td><td>1</td><td>12.7.2024</td></tr>
+
+**DIRECTIVE (EU) 2020/1828 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 25 November 2020**
+
+**on representative actions for the protection of the collective interests of consumers and repealing Directive 2009/22/EC**
+
+**(Text with EEA relevance)**
+
+## CHAPTER 1 — SUBJECT MATTER, SCOPE AND DEFINITIONS
+
+### Article 1 — Subject matter and purpose
+
+1\. This Directive sets out rules to ensure that a representative action mechanism for the protection of the collective interests of consumers is available in all Member States, while providing appropriate safeguards to avoid abusive litigation. The purpose of this Directive is, through the achievement of a high level of consumer protection, to contribute to the proper functioning of the internal market by approximating certain aspects of the laws, regulations and administrative provisions of the Member States concerning representative actions. To this end, this Directive also aims to improve consumers’ access to justice.
+
+2\. This Directive does not prevent Member States from adopting or retaining in force procedural means for the protection of the collective interests of consumers at national level. However, Member States shall ensure that at least one procedural mechanism that allows qualified entities to bring representative actions for the purpose of both injunctive measures and redress measures complies with this Directive. The implementation of this Directive shall not constitute grounds for the reduction of consumer protection in fields covered by the scope of the legal acts listed in Annex I.
+
+3\. Qualified entities shall be free to choose any procedural means available to them under Union or national law for the protection of the collective interests of consumers.
+
+### Article 2 — Scope
+
+1\. This Directive applies to representative actions brought against infringements by traders of the provisions of Union law referred to in Annex I, including such provisions as transposed into national law, that harm or may harm the collective interests of consumers. This Directive is without prejudice to the provisions of Union law referred to in Annex I. It applies to domestic and cross-border infringements, including where those infringements ceased before the representative action was brought or where those infringements ceased before the representative action was concluded.
+
+2\. This Directive does not affect rules under Union or national law establishing contractual and non-contractual remedies available to consumers for the infringements referred to in paragraph 1.
+
+3\. This Directive is without prejudice to Union rules on private international law, in particular rules regarding jurisdiction and the recognition and enforcement of judgments in civil and commercial matters and rules on the law applicable to contractual and non-contractual obligations.
+
+### Article 3 — Definitions
+
+For the purposes of this Directive, the following definitions apply:
+
+(1) ‘consumer’ means any natural person who acts for purposes which are outside that person’s trade, business, craft or profession;
+
+(2) ‘trader’ means any natural person, or any legal person irrespective of whether privately or publicly owned, that acts, including through another person acting in that person’s name or on that person’s behalf, for purposes relating to that person’s trade, business, craft or profession;
+
+(3) ‘collective interests of consumers’ means the general interest of consumers and, in particular for the purposes of redress measures, the interests of a group of consumers;
+
+(4) ‘qualified entity’ means any organisation or public body representing consumers’ interests which has been designated by a Member State as qualified to bring representative actions in accordance with this Directive;
+
+(5) ‘representative action’ means an action for the protection of the collective interests of consumers that is brought by a qualified entity as a claimant party on behalf of consumers to seek an injunctive measure, a redress measure, or both;
+
+(6) ‘domestic representative action’ means a representative action brought by a qualified entity in the Member State in which the qualified entity was designated;
+
+(7) ‘cross-border representative action’ means a representative action brought by a qualified entity in a Member State other than that in which the qualified entity was designated;
+
+(8) ‘practice’ means any act or omission by a trader;
+
+(9) ‘final decision’ means a decision by a court or administrative authority of a Member State that cannot or can no longer be reviewed by ordinary means of appeal;
+
+(10) ‘redress measure’ means a measure that requires a trader to provide consumers concerned with remedies such as compensation, repair, replacement, price reduction, contract termination or reimbursement of the price paid, as appropriate and as available under Union or national law.
+
+## CHAPTER 2 — REPRESENTATIVE ACTIONS
+
+### Article 4 — Qualified entities
+
+1\. Member States shall ensure that representative actions as provided for by this Directive can be brought by qualified entities designated by the Member States for this purpose.
+
+2\. Member States shall ensure that entities, in particular consumer organisations, including consumer organisations that represent members from more than one Member State, are eligible to be designated as qualified entities for the purpose of bringing domestic representative actions, cross-border representative actions, or both.
+
+3\. Member States shall designate an entity as referred to in paragraph 2 that has made a request for designation as a qualified entity for the purpose of bringing cross-border representative actions if that entity complies with all of the following criteria:
+
+(a) it is a legal person that is constituted in accordance with the national law of the Member State of its designation and can demonstrate 12 months of actual public activity in the protection of consumer interests prior to its request for designation;
+
+(b) its statutory purpose demonstrates that it has a legitimate interest in protecting consumer interests as provided for in the provisions of Union law referred to in Annex I;
+
+(c) it has a non-profit-making character;
+
+(d) it is not the subject of insolvency proceedings and is not declared insolvent;
+
+(e) it is independent and not influenced by persons other than consumers, in particular by traders, who have an economic interest in the bringing of any representative action, including in the event of funding by third parties, and, to that end, has established procedures to prevent such influence as well as to prevent conflicts of interest between itself, its funding providers and the interests of consumers;
+
+(f) it makes publicly available in plain and intelligible language by any appropriate means, in particular on its website, information that demonstrates that the entity complies with the criteria listed in points (a) to (e) and information about the sources of its funding in general, its organisational, management and membership structure, its statutory purpose and its activities.
+
+4\. Member States shall ensure that the criteria they use to designate an entity as a qualified entity for the purpose of bringing domestic representative actions are consistent with the objectives of this Directive in order to make the functioning of such representative actions effective and efficient.
+
+5\. Member States may decide that the criteria listed in paragraph 3 also apply to the designation of qualified entities for the purpose of bringing domestic representative actions.
+
+6\. Member States may designate an entity as a qualified entity on an ad hoc basis for the purpose of bringing a particular domestic representative action, at the request of that entity if it complies with the criteria for designation as a qualified entity as provided for in national law.
+
+7\. Notwithstanding paragraphs 3 and 4, Member States may designate public bodies as qualified entities for the purpose of bringing representative actions. Member States may provide that public bodies already designated as qualified entities within the meaning of Article 3 of Directive 2009/22/EC are to remain designated as qualified entities for the purposes of this Directive.
+
+### Article 5 — Information and monitoring of qualified entities
+
+1\. Each Member State shall communicate to the Commission a list of the qualified entities that it has designated in advance for the purpose of bringing cross-border representative actions, including the name and statutory purpose of those qualified entities, by 26 December 2023. Each Member State shall notify the Commission whenever there are changes to that list. Member States shall make that list publicly available.
+
+The Commission shall compile a list of those qualified entities and make it publicly available. The Commission shall update that list whenever changes to the Member States’ lists of qualified entities are communicated to the Commission.
+
+2\. Member States shall ensure that information about the qualified entities designated in advance for the purpose of bringing domestic representative actions is made available to the public.
+
+3\. Member States shall assess at least every five years whether qualified entities continue to comply with the criteria listed in Article 4(3). Member States shall ensure that the qualified entity loses its status if it no longer complies with one or more of those criteria.
+
+4\. If a Member State or the Commission raises concerns regarding the compliance by a qualified entity with the criteria listed in Article 4(3), the Member State that designated that qualified entity shall investigate the concerns. If appropriate, Member States shall revoke the designation of that qualified entity if it no longer complies with one or more of those criteria. The defendant trader in a representative action shall have the right to raise justified concerns to the court or administrative authority regarding whether a qualified entity complies with the criteria listed in Article 4(3).
+
+5\. Member States shall designate national contact points for the purposes of paragraph 4 and shall communicate the name and contact details of those contact points to the Commission. The Commission shall compile a list of those contact points and make that list available to the Member States.
+
+### Article 6 — Bringing of cross-border representative actions
+
+1\. Member States shall ensure that qualified entities designated in advance in another Member State for the purpose of bringing cross-border representative actions can bring such representative actions before their courts or administrative authorities.
+
+2\. Member States shall ensure that where the alleged infringement of Union law as referred to in Article 2(1) affects or is likely to affect consumers in different Member States, the representative action can be brought before the court or administrative authority of a Member State by several qualified entities from different Member States in order to protect the collective interests of consumers in different Member States.
+
+3\. Courts and administrative authorities shall accept the list referred to in Article 5(1) as proof of the legal standing of the qualified entity to bring a cross-border representative action, without prejudice to the right of the court or administrative authority seised to examine whether the statutory purpose of the qualified entity justifies its taking action in a specific case.
+
+### Article 7 — Representative actions
+
+1\. Member States shall ensure that representative actions as provided for by this Directive can be brought before their courts or administrative authorities by qualified entities designated in accordance with Article 4.
+
+2\. When bringing a representative action, the qualified entity shall provide the court or administrative authority with sufficient information about the consumers concerned by the representative action.
+
+3\. The courts or administrative authorities shall assess the admissibility of a specific representative action in accordance with this Directive and national law.
+
+4\. Member States shall ensure that qualified entities are entitled to seek at least the following measures:
+
+(a) injunctive measures;
+
+(b) redress measures.
+
+5\. Member States may enable qualified entities to seek the measures referred to in paragraph 4 within a single representative action, where appropriate. Member States may provide that those measures are to be contained in a single decision.
+
+6\. Member States shall ensure that consumers’ interests in representative actions are represented by qualified entities and that those qualified entities have the rights and obligations of a claimant party in the proceedings. The consumers concerned by a representative action shall be entitled to benefit from the measures referred to in paragraph 4.
+
+7\. Member States shall ensure that courts or administrative authorities are able to dismiss manifestly unfounded cases at the earliest possible stage of the proceedings in accordance with national law.
+
+### Article 8 — Injunctive measures
+
+1\. Member States shall ensure that injunctive measures referred to in point (a) of Article 7(4) are available in the form of:
+
+(a) a provisional measure to cease a practice or, where appropriate, to prohibit a practice, where that practice has been deemed to constitute an infringement as referred to in Article 2(1);
+
+(b) a definitive measure to cease a practice or, where appropriate, to prohibit a practice, where that practice has been found to constitute an infringement as referred to in Article 2(1).
+
+2\. A measure referred to in point (b) of paragraph 1 may include, if provided for in national law:
+
+(a) a measure establishing that the practice constitutes an infringement as referred to in Article 2(1); and
+
+(b) an obligation to publish the decision on the measure in full or in part, in such form as the court or administrative authority considers appropriate, or an obligation to publish a corrective statement.
+
+3\. In order for a qualified entity to seek an injunctive measure, individual consumers shall not be required to express their wish to be represented by that qualified entity. The qualified entity shall not be required to prove:
+
+(a) actual loss or damage on the part of the individual consumers affected by the infringement as referred to in Article 2(1); or
+
+(b) intent or negligence on the part of the trader.
+
+4\. Member States may introduce provisions in their national law or retain provisions of national law under which a qualified entity is only allowed to seek the injunctive measure referred to in point (b) of paragraph 1 after it has entered into consultations with the trader concerned with the aim of having that trader cease the infringement as referred to in Article 2(1). If the trader does not cease the infringement within two weeks of receiving a request for consultation, the qualified entity may immediately bring a representative action for an injunctive measure.
+
+Member States shall notify the Commission of any such provisions of national law. The Commission shall ensure that that information is publicly available.
+
+### Article 9 — Redress measures
+
+1\. A redress measure shall require a trader to provide consumers concerned with remedies such as compensation, repair, replacement, price reduction, contract termination or reimbursement of the price paid, as appropriate and as available under Union or national law.
+
+2\. Member States shall lay down rules on how and at which stage of a representative action for redress measures the individual consumers concerned by that representative action explicitly or tacitly express their wish within an appropriate time limit after that representative action has been brought, to be represented or not by the qualified entity in that representative action and to be bound or not by the outcome of the representative action.
+
+3\. Notwithstanding paragraph 2, Member States shall ensure that individual consumers who are not habitually resident in the Member State of the court or administrative authority before which a representative action has been brought have to explicitly express their wish to be represented in that representative action in order for those consumers to be bound by the outcome of that representative action.
+
+4\. Member States shall lay down rules to ensure that consumers who have explicitly or tacitly expressed their wish to be represented in a representative action can neither be represented in other representative actions with the same cause of action and against the same trader, nor be able to bring an action individually with the same cause of action and against the same trader. Member States shall also lay down rules to ensure that consumers do not receive compensation more than once for the same cause of action against the same trader.
+
+5\. Where a redress measure does not specify individual consumers entitled to benefit from remedies provided by the redress measure, it shall at least describe the group of consumers entitled to benefit from those remedies.
+
+6\. Member States shall ensure that a redress measure entitles consumers to benefit from the remedies provided by that redress measure without the need to bring a separate action.
+
+7\. Member States shall lay down or retain rules on time limits for individual consumers to benefit from redress measures. Member States may lay down rules on the destination of any outstanding redress funds that are not recovered within the established time limits.
+
+8\. Member States shall ensure that qualified entities are able to bring representative actions for a redress measure without it being necessary for a court or administrative authority to have previously established an infringement as referred to in Article 2(1) in separate proceedings.
+
+9\. The remedies provided by redress measures within a representative action shall be without prejudice to any additional remedies available to consumers under Union or national law which were not the subject of that representative action.
+
+### Article 10 — Funding of representative actions for redress measures
+
+1\. Member States shall ensure that, where a representative action for redress measures is funded by a third party, insofar as allowed in accordance with national law, conflicts of interests are prevented and that funding by third parties that have an economic interest in the bringing or the outcome of the representative action for redress measures does not divert the representative action away from the protection of the collective interests of consumers.
+
+2\. For the purposes of paragraph 1, Member States shall in particular ensure that:
+
+(a) the decisions of qualified entities in the context of a representative action, including decisions on settlement, are not unduly influenced by a third party in a manner that would be detrimental to the collective interests of the consumers concerned by the representative action;
+
+(b) the representative action is not brought against a defendant that is a competitor of the funding provider or against a defendant on which the funding provider is dependent.
+
+3\. Member States shall ensure that courts or administrative authorities in representative actions for redress measures are empowered to assess compliance with paragraphs 1 and 2 in cases where any justified doubts arise with respect to such compliance. To that end, qualified entities shall disclose to the court or administrative authority a financial overview that lists sources of funds used to support the representative action.
+
+4\. Member States shall ensure that, for the purposes of paragraphs 1 and 2, courts or administrative authorities are empowered to take appropriate measures, such as requiring the qualified entity to refuse or make changes in respect of the relevant funding and, if necessary, rejecting the legal standing of the qualified entity in a specific representative action. If the legal standing of the qualified entity is rejected in a specific representative action, that rejection shall not affect the rights of the consumers concerned by that representative action.
+
+### Article 11 — Redress settlements
+
+1\. For the purpose of approving settlements, Member States shall ensure that in a representative action for redress measures:
+
+(a) the qualified entity and the trader may jointly propose to the court or administrative authority a settlement regarding redress for the consumers concerned; or
+
+(b) the court or administrative authority, after having consulted the qualified entity and the trader, may invite the qualified entity and the trader to reach a settlement regarding redress within a reasonable time limit.
+
+2\. Settlements referred to in paragraph 1 shall be subject to the scrutiny of the court or administrative authority. The court or administrative authority shall assess whether it has to refuse to approve a settlement that is contrary to mandatory provisions of national law, or includes conditions which cannot be enforced, taking into consideration the rights and interests of all parties, and in particular those of the consumers concerned. Member States may lay down rules to allow the court or administrative authority to refuse to approve a settlement on the grounds that the settlement is unfair.
+
+3\. If the court or administrative authority does not approve the settlement, it shall continue to hear the representative action concerned.
+
+4\. Approved settlements shall be binding upon the qualified entity, the trader and the individual consumers concerned.
+
+Member States may lay down rules that give the individual consumers concerned by a representative action and by the subsequent settlement the possibility of accepting or refusing to be bound by settlements referred to in paragraph 1.
+
+5\. Redress obtained through an approved settlement in accordance with paragraph 2 shall be without prejudice to any additional remedies available to consumers under Union or national law which were not the subject of that settlement.
+
+### Article 12 — Allocation of costs of a representative action for redress measures
+
+1\. Member States shall ensure that the unsuccessful party in a representative action for redress measures is required to pay the costs of the proceedings borne by the successful party, in accordance with conditions and exceptions provided for in national law applicable to court proceedings in general.
+
+2\. Individual consumers concerned by a representative action for redress measures shall not pay the costs of the proceedings.
+
+3\. By way of derogation from paragraph 2, in exceptional circumstances, an individual consumer concerned by a representative action for redress measures may be ordered to pay the costs of proceedings that were incurred as a result of the individual consumer’s intentional or negligent conduct.
+
+### Article 13 — Information on representative actions
+
+1\. Member States shall lay down rules ensuring that qualified entities provide information, in particular on their website, about:
+
+(a) the representative actions they have decided to bring before a court or administrative authority;
+
+(b) the status of the representative actions they have brought before a court or administrative authority; and
+
+(c) the outcomes of the representative actions referred to in points (a) and (b).
+
+2\. Member States shall lay down rules to ensure that the consumers concerned by an ongoing representative action for redress measures are provided with information about the representative action in a timely manner and by appropriate means, in order to enable those consumers to explicitly or tacitly express their wish to be represented in that representative action pursuant to Article 9(2).
+
+3\. Without prejudice to the information referred to in paragraphs 1 and 2 of this Article, the court or administrative authority shall require the trader to inform the consumers concerned by the representative action, at the trader’s expense, of any final decisions providing for the measures referred to in Article 7 and any approved settlements as referred to in Article 11, by means appropriate to the circumstances of the case and within specific time limits, including, where appropriate, informing all consumers concerned individually. This obligation shall not apply if the consumers concerned are informed of the final decision or approved settlement in another manner.
+
+Member States may lay down rules under which the trader would only be required to provide such information to consumers if requested to do so by the qualified entity.
+
+4\. The information requirements referred to in paragraph 3 shall apply mutatis mutandis to qualified entities concerning final decisions on the rejection or dismissal of representative actions for redress measures.
+
+5\. Member States shall ensure that the successful party can recover the costs related to providing information to consumers in the context of the representative action, in accordance with Article 12(1).
+
+### Article 14 — Electronic databases
+
+1\. Member States may set up national electronic databases that are publicly accessible through websites and that provide information on qualified entities designated in advance for the purpose of bringing domestic and cross-border representative actions and general information on ongoing and concluded representative actions.
+
+2\. Where a Member State sets up an electronic database as referred to in paragraph 1, it shall notify the Commission of the internet address at which that electronic database is accessible.
+
+3\. The Commission shall set up and maintain an electronic database for the purposes of:
+
+(a) all communications between Member States and the Commission referred to in Article 5(1), (4) and (5) and Article 23(2); and
+
+(b) cooperation between the qualified entities referred to in Article 20(4).
+
+4\. The electronic database referred to in paragraph 3 of this Article shall be directly accessible to the extent relevant, respectively, for:
+
+(a) the national contact points referred to in Article 5(5);
+
+(b) courts and administrative authorities, if necessary under national law;
+
+(c) qualified entities designated by the Member States for the purpose of bringing domestic representative actions and cross-border representative actions; and
+
+(d) the Commission.
+
+Information shared by the Member States within the electronic database referred to in paragraph 3 of this Article regarding qualified entities designated for the purpose of bringing cross-border representative actions referred to in Article 5(1) shall be publicly available.
+
+### Article 15 — Effects of final decisions
+
+Member States shall ensure that the final decision of a court or administrative authority of any Member State concerning the existence of an infringement harming collective interests of consumers can be used by all parties as evidence in the context of any other action before their national courts or administrative authorities to seek redress measures against the same trader for the same practice, in accordance with national law on evaluation of evidence.
+
+### Article 16 — Limitation periods
+
+1\. In accordance with national law, Member States shall ensure that a pending representative action for an injunctive measure referred to in Article 8 has the effect of suspending or interrupting applicable limitation periods in respect of the consumers concerned by that representative action, so that those consumers are not prevented from subsequently bringing an action for redress measures concerning the alleged infringement as referred to in Article 2(1) because the applicable limitation periods expired during the representative action for those injunctive measures.
+
+2\. Member States shall also ensure that a pending representative action for a redress measure referred to in Article 9(1) has the effect of suspending or interrupting applicable limitation periods in respect of the consumers concerned by that representative action.
+
+### Article 17 — Procedural expediency
+
+1\. Member States shall ensure that representative actions for injunctive measures referred to in Article 8 are dealt with with due expediency.
+
+2\. Representative actions for injunctive measures referred to in point (a) of Article 8(1) shall, if appropriate, be dealt with by way of a summary procedure.
+
+### Article 18 — Disclosure of evidence
+
+Member States shall ensure that, where a qualified entity has provided reasonably available evidence sufficient to support a representative action, and has indicated that additional evidence lies in the control of the defendant or a third party, if requested by that qualified entity, the court or administrative authority is able to order that such evidence be disclosed by the defendant or the third party in accordance with national procedural law, subject to the applicable Union and national rules on confidentiality and proportionality. Member States shall ensure that, if requested by the defendant, the court or administrative authority is also able to equally order the qualified entity or a third party to disclose relevant evidence, in accordance with national procedural law.
+
+### Article 19 — Penalties
+
+1\. Member States shall lay down the rules on penalties applicable to the failure or refusal to comply with:
+
+(a) an injunctive measure referred to in Article 8(1) or in point (b) of Article 8(2); or
+
+(b) obligations referred to in Article 13(3) or Article 18.
+
+Member States shall take all measures necessary to ensure that those rules are implemented. The penalties provided for shall be effective, proportionate and dissuasive.
+
+2\. Member States shall ensure that penalties can, inter alia, take the form of fines.
+
+### Article 20 — Assistance for qualified entities
+
+1\. Member States shall take measures aiming to ensure that the costs of the proceedings related to representative actions do not prevent qualified entities from effectively exercising their right to seek the measures referred to in Article 7.
+
+2\. The measures referred to in paragraph 1 may, for example, take the form of public funding, including structural support for qualified entities, limitation of applicable court or administrative fees, or access to legal aid.
+
+3\. Member States may lay down rules to allow qualified entities to require consumers who have expressed their wish to be represented by a qualified entity in a specific representative action for redress measures to pay a modest entry fee or similar charge in order to participate in that representative action.
+
+4\. Member States and the Commission shall support and facilitate cooperation between qualified entities and the exchange and dissemination of their best practices and experience as regards dealing with domestic infringements and cross-border infringements as referred to in Article 2(1).
+
+## CHAPTER 3 — FINAL PROVISIONS
+
+### Article 21 — Repeal
+
+Directive 2009/22/EC is repealed with effect from 25 June 2023 without prejudice to Article 22(2) of this Directive.
+
+References to the repealed Directive shall be construed as references to this Directive and shall be read in accordance with the correlation table in Annex II.
+
+### Article 22 — Transitional provisions
+
+1\. Member States shall apply the laws, regulations and administrative provisions transposing this Directive to representative actions that are brought on or after 25 June 2023.
+
+2\. Member States shall apply the laws, regulations and administrative provisions transposing Directive 2009/22/EC to representative actions that are brought before 25 June 2023.
+
+3\. Member States shall ensure that laws, regulations or administrative provisions on suspension or interruption of limitation periods transposing Article 16 only apply to claims for redress based on infringements as referred to in Article 2(1) that occurred on or after 25 June 2023. This shall not preclude the application of national provisions on suspension or interruption of limitation periods which applied prior to 25 June 2023 to claims for redress based on infringements as referred to in Article 2(1) that occurred before that date.
+
+### Article 23 — Monitoring and evaluation
+
+1\. No sooner than 26 June 2028, the Commission shall carry out an evaluation of this Directive and present a report on the main findings to the European Parliament, the Council and the European Economic and Social Committee. The evaluation shall be conducted in accordance with the Commission’s better regulation guidelines. In the report, the Commission shall in particular assess the scope of this Directive laid down in Article 2 and Annex I and the functioning and effectiveness of this Directive in cross-border situations, including in terms of legal certainty.
+
+2\. Member States shall provide the Commission, for the first time by 26 June 2027 and annually thereafter, with the following information necessary for the preparation of the report referred to in paragraph 1:
+
+(a) the number and type of representative actions that have been concluded before any of their courts or administrative authorities;
+
+(b) the type of infringements as referred to in Article 2(1) and the parties to those representative actions;
+
+(c) the outcomes of those representative actions.
+
+3\. By 26 June 2028, the Commission shall carry out an evaluation of whether cross-border representative actions could be best addressed at Union level by establishing a European ombudsman for representative actions for injunctive measures and redress measures, and shall present a report on its main findings to the European Parliament, the Council and the European Economic and Social Committee, accompanied, if appropriate, by a legislative proposal.
+
+### Article 24 — Transposition
+
+1\. Member States shall adopt and publish, by 25 December 2022, the laws, regulations and administrative provisions necessary to comply with this Directive. They shall immediately inform the Commission thereof.
+
+They shall apply those measures from 25 June 2023.
+
+When Member States adopt those measures, they shall contain a reference to this Directive or shall be accompanied by such a reference on the occasion of their official publication. The methods of making such a reference shall be laid down by Member States.
+
+2\. Member States shall communicate to the Commission the text of the measures of national law which they adopt in the field covered by this Directive.
+
+### Article 25 — Entry into force
+
+This Directive shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+
+### Article 26 — Addressees
+
+This Directive is addressed to the Member States.
+
+## ANNEX I — LIST OF PROVISIONS OF UNION LAW REFERRED TO IN ARTICLE 2(1)
+
+(1) Council Directive 85/374/EEC of 25 July 1985 on the approximation of the laws, regulations and administrative provisions of the Member States concerning liability for defective products (OJ L 210, 7.8.1985, p. 29).
+
+(2) Council Directive 93/13/EEC of 5 April 1993 on unfair terms in consumer contracts (OJ L 95, 21.4.1993, p. 29).
+
+(3) Council Regulation (EC) No 2027/97 of 9 October 1997 on air carrier liability in respect of the carriage of passengers and their baggage by air (OJ L 285, 17.10.1997, p. 1).
+
+(4) Directive 98/6/EC of the European Parliament and of the Council of 16 February 1998 on consumer protection in the indication of the prices of products offered to consumers (OJ L 80, 18.3.1998, p. 27).
+
+(5) Directive 1999/44/EC of the European Parliament and of the Council of 25 May 1999 on certain aspects of the sale of consumer goods and associated guarantees (OJ L 171, 7.7.1999, p. 12).
+
+(6) Directive 2000/31/EC of the European Parliament and of the Council of 8 June 2000 on certain legal aspects of information society services, in particular electronic commerce, in the Internal Market (‘Directive on electronic commerce’) (OJ L 178, 17.7.2000, p. 1): Articles 5-7, 10 and 11.
+
+(7) Directive 2001/83/EC of the European Parliament and of the Council of 6 November 2001 on the Community code relating to medicinal products for human use (OJ L 311, 28.11.2001, p. 67): Articles 86-90, 98 and 100.
+
+(8) Regulation (EU) 2023/988 of the European Parliament and of the Council of 10 May 2023 on general product safety, amending Regulation (EU) No 1025/2012 of the European Parliament and of the Council and Directive (EU) 2020/1828 of the European Parliament and the Council, and repealing Directive 2001/95/EC of the European Parliament and of the Council and Council Directive 87/357/EEC (OJ L 135, 23.5.2023, p. 1).
+
+(9) Directive 2002/22/EC of the European Parliament and of the Council of 7 March 2002 on universal service and users’ rights relating to electronic communications networks and services (Universal Service Directive) (OJ L 108, 24.4.2002, p. 51): Article 10 and Chapter IV.
+
+(10) Directive 2002/58/EC of the European Parliament and of the Council of 12 July 2002 concerning the processing of personal data and the protection of privacy in the electronic communications sector (Directive on privacy and electronic communications) (OJ L 201, 31.7.2002, p. 37): Articles 4-8 and 13.
+
+(11) Directive 2002/65/EC of the European Parliament and of the Council of 23 September 2002 concerning the distance marketing of consumer financial services and amending Council Directive 90/619/EEC and Directives 97/7/EC and 98/27/EC (OJ L 271, 9.10.2002, p. 16).
+
+(12) Regulation (EC) No 178/2002 of the European Parliament and of the Council of 28 January 2002 laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety (OJ L 31, 1.2.2002, p. 1).
+
+(13) Regulation (EC) No 261/2004 of the European Parliament and of the Council of 11 February 2004 establishing common rules on compensation and assistance to passengers in the event of denied boarding and of cancellation or long delay of flights, and repealing Regulation (EEC) No 295/91 (OJ L 46, 17.2.2004, p. 1).
+
+(14) Directive 2005/29/EC of the European Parliament and of the Council of 11 May 2005 concerning unfair business-to-consumer commercial practices in the internal market and amending Council Directive 84/450/EEC, Directives 97/7/EC, 98/27/EC and 2002/65/EC of the European Parliament and of the Council and Regulation (EC) No 2006/2004 of the European Parliament and of the Council (‘Unfair Commercial Practices Directive’) (OJ L 149, 11.6.2005, p. 22).
+
+(15) Directive 2006/114/EC of the European Parliament and of the Council of 12 December 2006 concerning misleading and comparative advertising (OJ L 376, 27.12.2006, p. 21).
+
+(16) Directive 2006/123/EC of the European Parliament and of the Council of 12 December 2006 on services in the internal market (OJ L 376, 27.12.2006, p. 36): Articles 20 and 22.
+
+(17) Regulation (EC) No 1107/2006 of the European Parliament and of the Council of 5 July 2006 concerning the rights of disabled persons and persons with reduced mobility when travelling by air (OJ L 204, 26.7.2006, p. 1).
+
+(18) Regulation (EC) No 1371/2007 of the European Parliament and of the Council of 23 October 2007 on rail passengers’ rights and obligations (OJ L 315, 3.12.2007, p. 14).
+
+(19) Directive 2008/48/EC of the European Parliament and of the Council of 23 April 2008 on credit agreements for consumers and repealing Council Directive 87/102/EEC (OJ L 133, 22.5.2008, p. 66).
+
+(20) Directive 2008/122/EC of the European Parliament and of the Council of 14 January 2009 on the protection of consumers in respect of certain aspects of timeshare, long-term holiday product, resale and exchange contracts (OJ L 33, 3.2.2009, p. 10).
+
+(21) Regulation (EC) No 1008/2008 of the European Parliament and of the Council of 24 September 2008 on common rules for the operation of air services in the Community (OJ L 293, 31.10.2008, p. 3): Article 23.
+
+(22) Regulation (EC) No 1272/2008 of the European Parliament and of the Council of 16 December 2008 on classification, labelling and packaging of substances and mixtures, amending and repealing Directives 67/548/EEC and 1999/45/EC, and amending Regulation (EC) No 1907/2006 (OJ L 353, 31.12.2008, p. 1): Articles 1-35.
+
+(23) Directive 2009/65/EC of the European Parliament and of the Council of 13 July 2009 on the coordination of laws, regulations and administrative provisions relating to undertakings for collective investment in transferable securities (UCITS) (OJ L 302, 17.11.2009, p. 32).
+
+(24) Directive 2009/72/EC of the European Parliament and of the Council of 13 July 2009 concerning common rules for the internal market in electricity and repealing Directive 2003/54/EC (OJ L 211, 14.8.2009, p. 55): Article 3 and Annex I.
+
+(25) Directive 2009/73/EC of the European Parliament and of the Council of 13 July 2009 concerning common rules for the internal market in natural gas and repealing Directive 2003/55/EC (OJ L 211, 14.8.2009, p. 94): Article 3 and Annex I.
+
+(26) Directive 2009/110/EC of the European Parliament and of the Council of 16 September 2009 on the taking up, pursuit and prudential supervision of the business of electronic money institutions amending Directives 2005/60/EC and 2006/48/EC and repealing Directive 2000/46/EC (OJ L 267, 10.10.2009, p. 7).
+
+(27) Regulation (EU) 2024/1781 of the European Parliament and of the Council of 13 June 2024 establishing a framework for the setting of ecodesign requirements for sustainable products, amending Directive (EU) 2020/1828 and Regulation (EU) 2023/1542 and repealing Directive 2009/125/EC (OJ L, 2024/1781, 28.6.2024, ELI: http://data.europa.eu/eli/reg/2024/1781/oj).
+
+(28) Directive 2009/138/EC of the European Parliament and of the Council of 25 November 2009 on the taking-up and pursuit of the business of Insurance and Reinsurance (Solvency II) (OJ L 335, 17.12.2009, p. 1): Articles 183-186.
+
+(29) Regulation (EC) No 392/2009 of the European Parliament and of the Council of 23 April 2009 on the liability of carriers of passengers by sea in the event of accidents (OJ L 131, 28.5.2009, p. 24).
+
+(30) Regulation (EC) No 924/2009 of the European Parliament and of the Council of 16 September 2009 on cross-border payments in the Community and repealing Regulation (EC) No 2560/2001 (OJ L 266, 9.10.2009, p. 11).
+
+(31) Regulation (EC) No 1222/2009 of the European Parliament and of the Council of 25 November 2009 on the labelling of tyres with respect to fuel efficiency and other essential parameters (OJ L 342, 22.12.2009, p. 46): Articles 4-6.
+
+(32) Regulation (EC) No 1223/2009 of the European Parliament and of the Council of 30 November 2009 on cosmetic products (OJ L 342, 22.12.2009, p. 59): Articles 3-8 and 19‐21.
+
+(33) Directive 2010/13/EU of the European Parliament and of the Council of 10 March 2010 on the coordination of certain provisions laid down by law, regulation or administrative action in Member States concerning the provision of audiovisual media services (Audiovisual Media Services Directive) (OJ L 95, 15.4.2010, p. 1): Articles 9-11, 19-26 and 28b.
+
+(34) Regulation (EC) No 66/2010 of the European Parliament and of the Council of 25 November 2009 on the EU Ecolabel (OJ L 27, 30.1.2010, p. 1): Articles 9-10.
+
+(35) Regulation (EU) No 1177/2010 of the European Parliament and of the Council of 24 November 2010 concerning the rights of passengers when travelling by sea and inland waterway and amending Regulation (EC) No 2006/2004 (OJ L 334, 17.12.2010, p. 1).
+
+(36) Directive 2011/61/EU of the European Parliament and of the Council of 8 June 2011 on Alternative Investment Fund Managers and amending Directives 2003/41/EC and 2009/65/EC and Regulations (EC) No 1060/2009 and (EU) No 1095/2010 (OJ L 174, 1.7.2011, p. 1).
+
+(37) Directive 2011/83/EU of the European Parliament and of the Council of 25 October 2011 on consumer rights, amending Council Directive 93/13/EEC and Directive 1999/44/EC of the European Parliament and of the Council and repealing Council Directive 85/577/EEC and Directive 97/7/EC of the European Parliament and of the Council (OJ L 304, 22.11.2011, p. 64).
+
+(38) Regulation (EU) No 181/2011 of the European Parliament and of the Council of 16 February 2011 concerning the rights of passengers in bus and coach transport and amending Regulation (EC) No 2006/2004 (OJ L 55, 28.2.2011, p. 1).
+
+(39) Regulation (EU) No 1169/2011 of the European Parliament and of the Council of 25 October 2011 on the provision of food information to consumers, amending Regulations (EC) No 1924/2006 and (EC) No 1925/2006 of the European Parliament and of the Council, and repealing Commission Directive 87/250/EEC, Council Directive 90/496/EEC, Commission Directive 1999/10/EC, Directive 2000/13/EC of the European Parliament and of the Council, Commission Directives 2002/67/EC and 2008/5/EC and Commission Regulation (EC) No 608/2004 (OJ L 304, 22.11.2011, p. 18).
+
+(40) Directive 2012/27/EU of the European Parliament and of the Council of 25 October 2012 on energy efficiency, amending Directives 2009/125/EC and 2010/30/EU and repealing Directives 2004/8/EC and 2006/32/EC (OJ L 315, 14.11.2012, p. 1): Articles 9-11a.
+
+(41) Regulation (EU) No 260/2012 of the European Parliament and of the Council of 14 March 2012 establishing technical and business requirements for credit transfers and direct debits in euro and amending Regulation (EC) No 924/2009 (OJ L 94, 30.3.2012, p. 22).
+
+(42) Regulation (EU) No 531/2012 of the European Parliament and of the Council of 13 June 2012 on roaming on public mobile communications networks within the Union (OJ L 172, 30.6.2012, p. 10).
+
+(43) Directive 2013/11/EU of the European Parliament and of the Council of 21 May 2013 on alternative dispute resolution for consumer disputes and amending Regulation (EC) No 2006/2004 and Directive 2009/22/EC (Directive on consumer ADR) (OJ L 165, 18.6.2013, p. 63): Article 13.
+
+(44) Regulation (EU) No 524/2013 of the European Parliament and of the Council of 21 May 2013 on online dispute resolution for consumer disputes and amending Regulation (EC) No 2006/2004 and Directive 2009/22/EC (Regulation on consumer ODR) (OJ L 165, 18.6.2013, p. 1): Article 14.
+
+(45) Directive 2014/17/EU of the European Parliament and of the Council of 4 February 2014 on credit agreements for consumers relating to residential immovable property and amending Directives 2008/48/EC and 2013/36/EU and Regulation (EU) No 1093/2010 (OJ L 60, 28.2.2014, p. 34).
+
+(46) Directive 2014/31/EU of the European Parliament and of the Council of 26 February 2014 on the harmonisation of the laws of the Member States relating to the making available on the market of non-automatic weighing instruments (OJ L 96, 29.3.2014, p. 107).
+
+(47) Directive 2014/35/EU of the European Parliament and of the Council of 26 February 2014 on the harmonisation of the laws of the Member States relating to the making available on the market of electrical equipment designed for use within certain voltage limits (OJ L 96, 29.3.2014, p. 357).
+
+(48) Directive 2014/65/EU of the European Parliament and of the Council of 15 May 2014 on markets in financial instruments and amending Directive 2002/92/EC and Directive 2011/61/EU (OJ L 173, 12.6.2014, p. 349): Articles 23-29.
+
+(49) Directive 2014/92/EU of the European Parliament and of the Council of 23 July 2014 on the comparability of fees related to payment accounts, payment account switching and access to payment accounts with basic features (OJ L 257, 28.8.2014, p. 214).
+
+(50) Regulation (EU) No 1286/2014 of the European Parliament and of the Council of 26 November 2014 on key information documents for packaged retail and insurance-based investment products (PRIIPs) (OJ L 352, 9.12.2014, p. 1).
+
+(51) Regulation (EU) 2015/760 of the European Parliament and of the Council of 29 April 2015 on European long-term investment funds (OJ L 123, 19.5.2015, p. 98).
+
+(52) Regulation (EU) 2015/2120 of the European Parliament and of the Council of 25 November 2015 laying down measures concerning open internet access and retail charges for regulated intra-EU communications and amending Directive 2002/22/EC and Regulation (EU) No 531/2012 (OJ L 310, 26.11.2015, p. 1).
+
+(53) Directive (EU) 2015/2302 of the European Parliament and of the Council of 25 November 2015 on package travel and linked travel arrangements, amending Regulation (EC) No 2006/2004 and Directive 2011/83/EU of the European Parliament and of the Council and repealing Council Directive 90/314/EEC (OJ L 326, 11.12.2015, p. 1).
+
+(54) Directive (EU) 2015/2366 of the European Parliament and of the Council of 25 November 2015 on payment services in the internal market, amending Directives 2002/65/EC, 2009/110/EC and 2013/36/EU and Regulation (EU) No 1093/2010, and repealing Directive 2007/64/EC (OJ L 337, 23.12.2015, p. 35).
+
+(55) Directive (EU) 2016/97 of the European Parliament and of the Council of 20 January 2016 on insurance distribution (OJ L 26, 2.2.2016, p. 19): Articles 17-24 and 28-30.
+
+(56) Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation) (OJ L 119, 4.5.2016, p. 1).
+
+(57) Regulation (EU) 2017/745 of the European Parliament and of the Council of 5 April 2017 on medical devices, amending Directive 2001/83/EC, Regulation (EC) No 178/2002 and Regulation (EC) No 1223/2009 and repealing Council Directives 90/385/EEC and 93/42/EEC (OJ L 117, 5.5.2017, p. 1): Chapter II.
+
+(58) Regulation (EU) 2017/746 of the European Parliament and of the Council of 5 April 2017 on in vitro diagnostic medical devices and repealing Directive 98/79/EC and Commission Decision 2010/227/EU (OJ L 117, 5.5.2017, p. 176): Chapter II.
+
+(59) Regulation (EU) 2017/1128 of the European Parliament and of the Council of 14 June 2017 on cross-border portability of online content services in the internal market (OJ L 168, 30.6.2017, p. 1).
+
+(60) Regulation (EU) 2017/1129 of the European Parliament and of the Council of 14 June 2017 on the prospectus to be published when securities are offered to the public or admitted to trading on a regulated market, and repealing Directive 2003/71/EC (OJ L 168, 30.6.2017, p. 12).
+
+(61) Regulation (EU) 2017/1131 of the European Parliament and of the Council of 14 June 2017 on money market funds (OJ L 169, 30.6.2017, p. 8).
+
+(62) Regulation (EU) 2017/1369 of the European Parliament and of the Council of 4 July 2017 setting a framework for energy labelling and repealing Directive 2010/30/EU (OJ L 198, 28.7.2017, p. 1): Articles 3-6.
+
+(63) Regulation (EU) 2018/302 of the European Parliament and of the Council of 28 February 2018 on addressing unjustified geo-blocking and other forms of discrimination based on customers’ nationality, place of residence or place of establishment within the internal market and amending Regulations (EC) No 2006/2004 and (EU) 2017/2394 and Directive 2009/22/EC (OJ L 60 I, 2.3.2018, p. 1): Articles 3-5.
+
+(64) Directive (EU) 2018/1972 of the European Parliament and of the Council of 11 December 2018 establishing the European Electronic Communications Code (OJ L 321, 17.12.2018, p. 36): Articles 88 and 98-116 and Annexes VI and VIII.
+
+(65) Directive (EU) 2019/770 of the European Parliament and of the Council of 20 May 2019 on certain aspects concerning contracts for the supply of digital content and digital services (OJ L 136, 22.5.2019, p. 1).
+
+(66) Directive (EU) 2019/771 of the European Parliament and of the Council of 20 May 2019 on certain aspects concerning contracts for the sale of goods, amending Regulation (EU) 2017/2394 and Directive 2009/22/EC, and repealing Directive 1999/44/EC (OJ L 136, 22.5.2019, p. 28).
+
+(67) Regulation (EU) 2022/1925 of the European Parliament and of the Council of 14 September 2022 on contestable and fair markets in the digital sector and amending Directives (EU) 2019/1937 and (EU) 2020/1828 (Digital Markets Act) (OJ L 265, 21.9.2022, p. 1).
+
+(68) Regulation (EU) 2022/2065 of the European Parliament and of the Council of 19 October 2022 on a Single Market for Digital Services and amending Directive 2000/31/EC (Digital Services Act) (OJ L 277, 27.10.2022, p. 1).
+
+(69) Regulation (EU) 2023/2854 of the European Parliament and of the Council of 13 December 2023 on harmonised rules on fair access to and use of data and amending Regulation (EU) 2017/2394 and Directive (EU) 2020/1828 (Data Act) (OJ L, 2023/2854, 22.12.2023, ELI: http://data.europa.eu/eli/reg/2023/2854/oj).
+
+(68) Regulation (EU) 2024/1689 of the European Parliament and of the Council of 13 June 2024 laying down harmonised rules on artificial intelligence and amending Regulations (EC) No 300/2008, (EU) No 167/2013, (EU) No 168/2013, (EU) 2018/858, (EU) 2018/1139 and (EU) 2019/2144 and Directives 2014/90/EU, (EU) 2016/797 and (EU) 2020/1828 (Artificial Intelligence Act) (OJ L, 2024/1689, 12.7.2024, ELI: http://data.europa.eu/eli/reg/2024/1689/oj).
+
+(70) Directive (EU) 2024/1799 of the European Parliament and of the Council of 13 June 2024 on common rules promoting the repair of goods and amending Regulation (EU) 2017/2394 and Directives (EU) 2019/771 and (EU) 2020/1828 (OJ L, 2024/1799, 10.7.2024, ELI: http://data.europa.eu/eli/dir/2024/1799/oj).
+
+## ANNEX II — CORRELATION TABLE
+
+| Directive 2009/22/EC | This Directive |
+| --- | --- |
+| Article 1(1) | Article 1(1) |
+| Article 1(2) | Article 2(1) |
+| - | Article 2(2) |
+| - | Article 3 |
+| Article 2(1) | Article 7(1) Article 7(4), point (a) |
+| - | Article 7(2) and (3) Article 7(4), point (b) Article 7(5), (6) and (7) |
+| Article 2(1), point (a) | Article 7(4), point (a) Article 8(1) Article 17 |
+| Article 2(1), point (b) | Article 7(4), point (a) Article 8(2), point (b) Article 13(1), point (c) Article 13(3) |
+| - | Article 8(2), point (a) |
+| - | Article 8(3) |
+| Article 2(1), point (c) | Article 19 |
+| Article 2(2) | Article 2(3) |
+| Article 3 | Article 3(4) Article 4(1) and (2) Article 4(3), points (a) and (b) Article 4(6) and (7) |
+| - | Article 4(3), points (c), (d), (e) and (f) Article 4(4) and (5) |
+| - | Article 5(2), (3), (4) and (5) |
+| Article 4(1) | Article 6 |
+| Article 4(2) and (3) | Article 5(1) |
+| Article 5 | Article 8(4) |
+| - | Article 9 |
+| - | Article 10 |
+| - | Article 11 |
+| - | Article 12 |
+| - | Article 13(1), points (a) and (b) Article 13(2), (4) and (5) |
+| - | Article 14 |
+| - | Article 15 |
+| - | Article 16 |
+| - | Article 18 |
+| Article 6 | Article 23 |
+| Article 7 | Article 1(2) and (3) |
+| Article 8 | Article 24 |
+| - | Article 20 |
+| Article 9 | Article 21 |
+| - | Article 22 |
+| Article 10 | Article 25 |
+| Article 11 | Article 26 |

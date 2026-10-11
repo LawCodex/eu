@@ -1,0 +1,507 @@
+---
+title: "Directive 2010/45/EU of the European Parliament and of the Council of 7 July 2010 on standards of quality and safety of human organs intended for transplantation"
+identifier: "32010L0053"
+eli: "http://data.europa.eu/eli/dir/2010/53/oj"
+type: directive
+jurisdiction: eu
+language: en
+date: 2010-07-07
+entry_into_force: 2010-08-26
+last_amended: 2010-08-06
+consolidated_version: "02010L0053-20100806"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02010L0053-20100806"
+retrieved: 2026-10-11
+---
+
+# Directive 2010/45/EU of the European Parliament and of the Council of 7 July 2010 on standards of quality and safety of human organs intended for transplantation
+
+**DIRECTIVE 2010/53/EU OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 7 July 2010**
+
+**on standards of quality and safety of human organs intended for transplantation**
+
+**DIRECTIVE 2010/53/EU OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 7 July 2010**
+
+**on standards of quality and safety of human organs intended for transplantation**
+
+## CHAPTER I — SUBJECT MATTER, SCOPE AND DEFINITIONS
+
+### Article 1 — Subject Matter
+
+This Directive lays down rules to ensure standards of quality and safety for human organs (hereinafter ‘organs’) intended for transplantation to the human body, in order to ensure a high level of human health protection.
+
+### Article 2 — Scope
+
+1\. This Directive applies to the donation, testing, characterisation, procurement, preservation, transport and transplantation of organs intended for transplantation.
+
+2\. Where such organs are used for research purposes, this Directive only applies where they are intended for transplantation into the human body.
+
+### Article 3 — Definitions
+
+For the purposes of this Directive, the following definitions apply:
+
+(a) ‘authorisation’ means authorisation, accreditation, designation, licensing or registration, depending on the concepts used and the practices in place in each Member State;
+
+(b) ‘competent authority’ means an authority, body, organisation and/or institution responsible for implementing the requirements of this Directive;
+
+(c) ‘disposal’ means the final placement of an organ where it is not used for transplantation;
+
+(d) ‘donor’ means a person who donates one or several organs, whether donation occurs during lifetime or after death;
+
+(e) ‘donation’ means donating organs for transplantation;
+
+(f) ‘donor characterisation’ means the collection of the relevant information on the characteristics of the donor needed to evaluate his/her suitability for organ donation, in order to undertake a proper risk assessment and minimise the risks for the recipient, and optimise organ allocation;
+
+(g) ‘European organ exchange organisation’ means a non-profit organisation, whether public or private, dedicated to national and cross-border organ exchange, in which the majority of its member countries are Member States;
+
+(h) ‘organ’ means a differentiated part of the human body, formed by different tissues, that maintains its structure, vascularisation, and capacity to develop physiological functions with a significant level of autonomy. A part of an organ is also considered to be an organ if its function is to be used for the same purpose as the entire organ in the human body, maintaining the requirements of structure and vascularisation;
+
+(i) ‘organ characterisation’ means the collection of the relevant information on the characteristics of the organ needed to evaluate its suitability, in order to undertake a proper risk assessment and minimise the risks for the recipient, and optimise organ allocation;
+
+(j) ‘procurement’ means a process by which the donated organs become available;
+
+(k) ‘procurement organisation’ means a healthcare establishment, a team or a unit of a hospital, a person, or any other body which undertakes or coordinates the procurement of organs, and is authorised to do so by the competent authority under the regulatory framework in the Member State concerned;
+
+(l) ‘preservation’ means the use of chemical agents, alterations in environmental conditions or other means to prevent or retard biological or physical deterioration of organs from procurement to transplantation;
+
+(m) ‘recipient’ means a person who receives a transplant of an organ;
+
+(n) ‘serious adverse event’ means any undesired and unexpected occurrence associated with any stage of the chain from donation to transplantation that might lead to the transmission of a communicable disease, to death or life-threatening, disabling or incapacitating conditions for patients or which results in, or prolongs, hospitalisation or morbidity;
+
+(o) ‘serious adverse reaction’ means an unintended response, including a communicable disease, in the living donor or in the recipient that might be associated with any stage of the chain from donation to transplantation that is fatal, life-threatening, disabling, incapacitating, or which results in, or prolongs, hospitalisation or morbidity;
+
+(p) ‘operating procedures’ means written instructions describing the steps in a specific process, including the materials and methods to be used and the expected end outcome;
+
+(q) ‘transplantation’ means a process intended to restore certain functions of the human body by transferring an organ from a donor to a recipient;
+
+(r) ‘transplantation centre’ means a healthcare establishment, a team or a unit of a hospital or any other body which undertakes the transplantation of organs and is authorised to do so by the competent authority under the regulatory framework in the Member State concerned;
+
+(s) ‘traceability’ means the ability to locate and identify the organ at each stage in the chain from donation to transplantation or disposal, including the ability to:
+
+— identify the donor and the procurement organisation,
+
+— identify the recipient(s) at the transplantation centre(s), and
+
+— locate and identify all relevant non-personal information relating to products and materials coming into contact with that organ.
+
+## CHAPTER II — THE QUALITY AND SAFETY OF ORGANS
+
+### Article 4 — Framework for quality and safety
+
+1\. Member States shall ensure that a framework for quality and safety is established to cover all stages of the chain from donation to transplantation or disposal, in compliance with the rules laid down in this Directive.
+
+2\. The framework for quality and safety shall provide for the adoption and implementation of operating procedures for:
+
+(a) the verification of donor identity;
+
+(b) the verification of the details of the donor's or the donor's family's consent, authorisation or absence of any objection, in accordance with the national rules that apply where donation and procurement take place;
+
+(c) the verification of the completion of the organ and donor characterisation in accordance with Article 7 and the Annex;
+
+(d) the procurement, preservation, packaging and labelling of organs in accordance with Articles 5, 6 and 8;
+
+(e) the transportation of organs in accordance with Article 8;
+
+(f) ensuring traceability, in accordance with Article 10, guaranteeing compliance with the Union and national provisions on the protection of personal data and confidentiality;
+
+(g) the accurate, rapid and verifiable reporting of serious adverse events and reactions in accordance with Article 11(1);
+
+(h) the management of serious adverse events and reactions in accordance with Article 11(2).
+
+The operating procedures referred to in points (f), (g) and (h) shall specify, inter alia, the responsibilities of procurement organisations, European organ exchange organisations and transplantation centres.
+
+3\. In addition, the framework for quality and safety shall ensure that the healthcare personnel involved at all stages of the chain from donation to transplantation or disposal are suitably qualified or trained and competent, and shall develop specific training programmes for such personnel.
+
+### Article 5 — Procurement organisations
+
+1\. Member States shall ensure that the procurement takes place in, or is carried out by, procurement organisations that comply with the rules laid down in this Directive.
+
+2\. Member States shall, upon the request of the Commission or another Member State, provide information on the national requirements for the authorisation of procurement organisations.
+
+### Article 6 — Organ procurement
+
+1\. Member States shall ensure that medical activities in procurement organisations, such as donor selection and evaluation, are performed under the advice and the guidance of a doctor of medicine as referred to in Directive 2005/36/EC of the European Parliament and of the Council of 7 September 2005 on the recognition of professional qualifications ( 7 ).
+
+2\. Member States shall ensure that procurement takes place in operating theatres, which are designed, constructed, maintained and operated in accordance with adequate standards and best medical practices so as to ensure the quality and safety of the organs procured.
+
+3\. Member States shall ensure that procurement material and equipment are managed in accordance with relevant Union, international and national legislation, standards and guidelines on the sterilisation of medical devices.
+
+### Article 7 — Organ and donor characterisation
+
+1\. Member States shall ensure that all procured organs and donors thereof are characterised before transplantation through the collection of the information set out in the Annex.
+
+The information specified in Part A of the Annex contains a set of minimum data which has to be collected for each donation. Information specified in Part B of the Annex contains a set of complementary data to be collected in addition, based on the decision of the medical team, taking into account the availability of such information and the particular circumstances of the case.
+
+2\. Notwithstanding paragraph 1, if according to a risk-benefit analysis in a particular case, including in life-threatening emergencies, the expected benefits for the recipient outweigh the risks posed by incomplete data, an organ may be considered for transplantation even where not all of the minimum data specified in Part A of the Annex are available.
+
+3\. In order to meet the quality and safety requirements laid down in this Directive, the medical team shall endeavour to obtain all necessary information from living donors and for that purpose shall provide them with the information they need to understand the consequences of donation. In the case of deceased donation, where possible and appropriate, the medical team shall endeavour to obtain such information from relatives of the deceased donor or other persons. The medical team shall also endeavour to make all parties from whom information is requested aware of the importance of the swift transmission of that information.
+
+4\. The tests required for organ and donor characterisation shall be carried out by laboratories with suitably qualified or trained and competent personnel and adequate facilities and equipment.
+
+5\. Member States shall ensure that organisations, bodies and laboratories involved in organ and donor characterisation have appropriate operating procedures in place to ensure that the information on organ and donor characterisation reaches the transplantation centre in due time.
+
+6\. Where organs are exchanged between Member States, those Member States shall ensure that the information on organ and donor characterisation, as specified in the Annex, is transmitted to the other Member State with which the organ is exchanged, in conformity with the procedures established by the Commission pursuant to Article 29.
+
+### Article 8 — Transport of organs
+
+1\. Member States shall ensure that the following requirements are met:
+
+(a) the organisations, bodies or companies involved in the transportation of organs have appropriate operating procedures in place to ensure the integrity of the organs during transport and a suitable transport time;
+
+(b) the shipping containers used for transporting organs are labelled with the following information:
+
+(i) identification of the procurement organisation and the establishment where the procurement took place, including their addresses and telephone numbers;
+
+(ii) identification of the transplantation centre of destination, including its address and telephone number;
+
+(iii) a statement that the package contains an organ, specifying the type of organ and, where applicable, its left or right location and marked ‘HANDLE WITH CARE’;
+
+(iv) recommended transport conditions, including instructions for keeping the container at an appropriate temperature and position;
+
+(c) the organs transported are accompanied by a report on the organ and donor characterisation.
+
+2\. The requirements laid down in paragraph 1(b) need not be met where the transportation is carried out within the same establishment.
+
+### Article 9 — Transplantation centres
+
+1\. Member States shall ensure that transplantation takes place in, or is carried out by, transplantation centres that comply with the rules laid down in this Directive.
+
+2\. The competent authority shall indicate in the authorisation which activities the transplantation centre concerned may undertake.
+
+3\. The transplantation centre shall verify before proceeding to transplantation that:
+
+(a) the organ and donor characterisation are completed and recorded in accordance with Article 7 and the Annex;
+
+(b) the conditions of preservation and transport of shipped organs have been maintained.
+
+4\. Member States shall, upon the request of the Commission or another Member State, provide information on the national requirements for the authorisation of transplantation centres.
+
+### Article 10 — Traceability
+
+1\. Member States shall ensure that all organs procured, allocated and transplanted on their territory can be traced from the donor to the recipient and vice versa in order to safeguard the health of donors and recipients.
+
+2\. Member States shall ensure the implementation of a donor and recipient identification system that can identify each donation and each of the organs and recipients associated with it. With regard to such a system, Member States shall ensure that confidentiality and data security measures are in place in compliance with Union and national provisions, as referred to in Article 16.
+
+3\. Member States shall ensure that:
+
+(a) the competent authority or other bodies involved in the chain from donation to transplantation or disposal keep the data needed to ensure traceability at all stages of the chain from donation to transplantation or disposal and the information on organ and donor characterisation as specified in the Annex, in accordance with the framework for quality and safety;
+
+(b) data required for full traceability is kept for a minimum of 30 years after donation. Such data may be stored in electronic form.
+
+4\. Where organs are exchanged between Member States, those Member States shall transmit the necessary information to ensure the traceability of organs, in conformity with the procedures established by the Commission pursuant to Article 29.
+
+### Article 11 — Reporting system and management concerning serious adverse events and reactions
+
+1\. Member States shall ensure that there is a reporting system in place to report, investigate, register and transmit relevant and necessary information concerning serious adverse events that may influence the quality and safety of organs and that may be attributed to the testing, characterisation, procurement, preservation and transport of organs, as well as any serious adverse reaction observed during or after transplantation which may be connected to those activities.
+
+2\. Member States shall ensure that an operating procedure is in place for the management of serious adverse events and reactions as provided for in the framework for quality and safety.
+
+3\. In particular, and with regard to paragraphs 1 and 2, Member States shall ensure that operating procedures are in place for the notification, in due time, of:
+
+(a) any serious adverse event and reaction to the competent authority and to the concerned procurement organisation or transplantation centre;
+
+(b) the management measures with regard to serious adverse events and reactions to the competent authority.
+
+4\. Where organs are exchanged between Member States, those Member States shall ensure the reporting of serious adverse events and reactions in conformity with the procedures established by the Commission pursuant to Article 29.
+
+5\. Member States shall ensure the interconnection between the reporting system referred to in paragraph 1 of this Article and the notification system established in accordance with Article 11(1) of Directive 2004/23/EC.
+
+### Article 12 — Healthcare personnel
+
+Member States shall ensure that healthcare personnel directly involved in the chain from donation to the transplantation or disposal of organs are suitably qualified or trained and competent to perform their tasks and are provided with the relevant training, as referred to in Article 4(3).
+
+## CHAPTER III — DONOR AND RECIPIENT PROTECTION AND DONOR SELECTION AND EVALUATION
+
+### Article 13 — Principles governing organ donation
+
+1\. Member States shall ensure that donations of organs from deceased and living donors are voluntary and unpaid.
+
+2\. The principle of non-payment shall not prevent living donors from receiving compensation, provided it is strictly limited to making good the expenses and loss of income related to the donation. Member States shall define the conditions under which such compensation may be granted, while avoiding there being any financial incentives or benefit for a potential donor.
+
+3\. Member States shall prohibit advertising the need for, or availability of, organs where such advertising is with a view to offering or seeking financial gain or comparable advantage.
+
+4\. Member States shall ensure that the procurement of organs is carried out on a non-profit basis.
+
+### Article 14 — Consent requirements
+
+The procurement of organs shall be carried out only after all requirements relating to consent, authorisation or absence of any objection in force in the Member State concerned have been met.
+
+### Article 15 — Quality and safety aspects of living donation
+
+1\. Member States shall take all necessary measures to ensure the highest possible protection of living donors in order to fully guarantee the quality and safety of organs for transplantation.
+
+2\. Member States shall ensure that living donors are selected on the basis of their health and medical history, by suitably qualified or trained and competent professionals. Such assessments may provide for the exclusion of persons whose donation could present unacceptable health risks.
+
+3\. Member States shall ensure that a register or record of the living donors is kept, in accordance with Union and national provisions on the protection of the personal data and statistical confidentiality.
+
+4\. Member States shall endeavour to carry out the follow-up of living donors and shall have a system in place in accordance with national provisions, in order to identify, report and manage any event potentially relating to the quality and safety of the donated organ, and hence of the safety of the recipient, as well as any serious adverse reaction in the living donor that may result from the donation.
+
+### Article 16 — Protection of personal data, confidentiality and security of processing
+
+Member States shall ensure that the fundamental right to protection of personal data is fully and effectively protected in all organ donation and transplantation activities, in conformity with Union provisions on the protection of personal data, such as Directive 95/46/EC, and in particular Article 8(3), Articles 16 and 17 and Article 28(2) thereof. Pursuant to Directive 95/46/EC, Member States shall take all necessary measures to ensure that:
+
+(a) the data processed are kept confidential and secure in accordance with Articles 16 and 17 of Directive 95/46/EC. Any unauthorised accessing of data or systems that makes identification of donor or recipients possible shall be penalised in accordance with Article 23 of this Directive;
+
+(b) donors and recipients whose data are processed within the scope of this Directive are not identifiable, except as permitted by Article 8(2) and (3) of Directive 95/46/EC, and national provisions implementing that Directive. Any use of systems or data that makes the identification of donors or recipients possible with a view to tracing donors or recipients other than for the purposes permitted by Article 8(2) and (3) of Directive 95/46/EC, including medical purposes, and by national provisions implementing that Directive shall be penalised in accordance with Article 23 of this Directive;
+
+(c) the principles relating to data quality, as set out in Article 6 of Directive 95/46/EC, are met.
+
+## CHAPTER IV — OBLIGATIONS OF COMPETENT AUTHORITIES AND EXCHANGE OF INFORMATION
+
+### Article 17 — Designation and tasks of competent authorities
+
+1\. Member States shall designate one or more competent authorities.
+
+Member States may delegate, or may allow a competent authority to delegate, part or all of the tasks assigned to it under this Directive to another body which is deemed suitable under national provisions. Such a body may also assist the competent authority in carrying out its functions.
+
+2\. The competent authority shall, in particular, take the following measures:
+
+(a) establish and keep updated a framework for quality and safety in accordance with Article 4;
+
+(b) ensure that procurement organisations and transplantations centres are controlled or audited on a regular basis to ascertain compliance with the requirements of this Directive;
+
+(c) grant, suspend, or withdraw, as appropriate, the authorisations of procurement organisations or transplantation centres or prohibit procurement organisations or transplantation centres from carrying out their activities where control measures demonstrate that such organisations or centres are not complying with the requirements of this Directive;
+
+(d) put in place a reporting system and management procedure for serious adverse events and reactions as provided for in Article 11(1) and (2);
+
+(e) issue appropriate guidance to healthcare establishments, professionals and other parties involved in all stages of the chain from donation to transplantation or disposal, which may include guidance for the collection of relevant post-transplantation information to evaluate the quality and safety of the organs transplanted;
+
+(f) participate, whenever possible, in the network of competent authorities referred to in Article 19 and coordinate at national level input to the activities of that network;
+
+(g) supervise organ exchange with other Member States and with third countries as provided for in Article 20(1);
+
+(h) ensure that the fundamental right to protection of personal data is fully and effectively protected in all organ transplantation activities, in conformity with Union provisions on the protection of personal data, in particular Directive 95/46/EC.
+
+### Article 18 — Records and reports concerning procurement organisations and transplantation centres
+
+1\. Member States shall ensure that the competent authority:
+
+(a) keeps a record of the activities of procurement organisations and transplantation centres, including aggregated numbers of living and deceased donors, and the types and quantities of organs procured and transplanted, or otherwise disposed of in accordance with Union and national provisions on the protection of personal data and statistical confidentiality;
+
+(b) draws up and makes publicly accessible an annual report on activities referred to in point (a);
+
+(c) establishes and maintains an updated record of procurement organisations and transplantation centres.
+
+2\. Member States shall, upon the request of the Commission or another Member State, provide information on the record of procurement organisations and transplantation centres.
+
+### Article 19 — Exchange of information
+
+1\. The Commission shall set up a network of the competent authorities with a view to exchanging information on the experience acquired with regard to the implementation of this Directive.
+
+2\. Where appropriate, experts on organ transplantation, representatives from European organ exchange organisations, as well as data protection supervisory authorities and other relevant parties may be associated with this network.
+
+## CHAPTER V — ORGAN EXCHANGE WITH THIRD COUNTRIES AND EUROPEAN ORGAN EXCHANGE ORGANISATIONS
+
+### Article 20 — Organ exchange with third countries
+
+1\. Member States shall ensure that organ exchange with third countries is supervised by the competent authority. For this purpose, the competent authority and European organ exchange organisations may conclude agreements with counterparts in third countries.
+
+2\. The supervision of organ exchange with third countries may be delegated by the Member States to European organ exchange organisations.
+
+3\. Organ exchange, as referred to in paragraph 1, shall be allowed only where the organs:
+
+(a) can be traced from the donor to the recipient and vice versa;
+
+(b) meet quality and safety requirements equivalent to those laid down in this Directive.
+
+### Article 21 — European organ exchange organisations
+
+Member States may conclude or allow a competent authority to conclude agreements with European organ exchange organisations, provided that such organisations ensure compliance with the requirements laid down in this Directive, delegating to those organisations, inter alia:
+
+(a) the performance of activities provided for under the framework for quality and safety;
+
+(b) specific tasks in relation to the exchanges of organs to and from Member States and third countries.
+
+## CHAPTER VI — GENERAL PROVISIONS
+
+### Article 22 — Reports concerning this Directive
+
+1\. Member States shall report to the Commission before 27 August 2013 and every three years thereafter on the activities undertaken in relation to the provisions of this Directive, and on the experience gained in implementing it.
+
+2\. Before 27 August 2014 and every three years thereafter, the Commission shall transmit to the European Parliament, the Council, the European Economic and Social Committee and the Committee of the Regions, a report on the implementation of this Directive.
+
+### Article 23 — Penalties
+
+Member States shall lay down the rules on penalties applicable to infringements of the national provisions adopted pursuant to this Directive and shall take all measures necessary to ensure that the penalties are implemented. The penalties provided for must be effective, proportionate and dissuasive. Member States shall notify those provisions to the Commission by 27 August 2012 and shall notify it without delay of any subsequent amendments affecting them.
+
+### Article 24 — Adaptation of the Annex
+
+The Commission may adopt delegated acts in accordance with Article 25 and subject to the conditions of Articles 26, 27 and 28 in order to:
+
+(a) supplement or amend the minimum data set specified in Part A of the Annex only in exceptional situations where it is justified by a serious risk to human health considered as such on the basis of the scientific progress;
+
+(b) supplement or amend the complementary data set specified in Part B of the Annex in order to adapt it to scientific progress and international work carried out in the field of quality and safety of organs intended for transplantation.
+
+### Article 25 — Exercise of the delegation
+
+1\. The power to adopt the delegated acts referred to in Article 24 shall be conferred on the Commission for a period of five years following 27 August 2010. The Commission shall make a report in respect of the delegated powers not later than six months before the end of the five-year period. The delegation of powers shall be automatically extended for periods of an identical duration, unless the European Parliament or the Council revokes it in accordance with Article 26.
+
+2\. As soon as it adopts a delegated act, the Commission shall notify it simultaneously to the European Parliament and to the Council.
+
+3\. The power to adopt delegated acts is conferred on the Commission subject to the conditions laid down in Articles 26 and 27.
+
+4\. Where, in the case of the emergence of new serious risk to human health, imperative grounds of urgency so require, the procedure provided for in Article 28 shall apply to delegated acts adopted pursuant to Article 24(a).
+
+### Article 26 — Revocation of the delegation
+
+1\. The delegation of powers referred to in Article 24 may be revoked at any time by the European Parliament or by the Council.
+
+2\. The institution which has commenced an internal procedure for deciding whether to revoke the delegation of powers shall endeavour to inform the other institution and the Commission within a reasonable time before the final decision is taken, indicating the delegated powers which could be subject to revocation and possible reasons for a revocation.
+
+3\. The decision of revocation shall put an end to the delegation of the powers specified in that decision. It shall take effect immediately or at a later date specified therein. It shall not affect the validity of the delegated acts already in force. It shall be published in the Official Journal of the European Union.
+
+### Article 27 — Objection to delegated acts
+
+1\. The European Parliament or the Council may object to a delegated act within a period of two months from the date of notification.
+
+At the initiative of the European Parliament or the Council this period shall be extended by two months.
+
+2\. If, on expiry of that period, neither the European Parliament nor the Council has objected to the delegated act, it shall be published in the Official Journal of the European Union and shall enter into force on the date stated therein.
+
+The delegated act may be published in the Official Journal of the European Union and enter into force before the expiry of that period if the European Parliament and the Council have both informed the Commission of their intention not to raise objections.
+
+3\. If the European Parliament or the Council objects to a delegated act, it shall not enter into force. The institution which objects shall state the reasons for objecting to the delegated act.
+
+### Article 28 — Urgency procedure
+
+1\. Delegated acts adopted under this Article shall enter into force without delay and shall apply as long as no objection is expressed in accordance with paragraph 2. The notification of a delegated act adopted under this Article to the European Parliament and to the Council shall state the reasons for the use of the urgency procedure.
+
+2\. The European Parliament or the Council may object to a delegated act adopted under this Article in accordance with the procedure referred to in Article 27(1). In such a case, the act shall cease to apply. The institution which objects to such a delegated act shall state its reasons therefor.
+
+### Article 29 — Implementing measures
+
+The Commission shall adopt, where organs are exchanged between Member States, detailed rules for the uniform implementation of this Directive in accordance with the procedure referred to in Article 30(2), on the following:
+
+(a) procedures for the transmission of information on organ and donor characterisation as specified in the Annex in accordance with Article 7(6);
+
+(b) procedures for the transmission of the necessary information to ensure the traceability of organs in accordance with Article 10(4);
+
+(c) procedures for ensuring the reporting of serious adverse events and reactions in accordance with Article 11(4).
+
+### Article 30 — Committee
+
+1\. The Commission shall be assisted by the Committee on organ transplantation, hereinafter referred to as ‘the Committee’.
+
+2\. Where reference is made to this paragraph, Articles 5 and 7 of Decision 1999/468/EC shall apply, having regard to the provisions of Article 8 thereof. The period laid down to in Article 5(6) of Decision 1999/468/EC shall be set at three months.
+
+### Article 31 — Transposition
+
+1\. Member States shall bring into force the laws, regulations and administrative provisions necessary to comply with this Directive by 27 August 2012. They shall forthwith inform the Commission thereof.
+
+When they are adopted by Member States, those measures shall contain a reference to this Directive or shall be accompanied by such reference on the occasion of their official publication. The methods of making such reference shall be laid down by Member States.
+
+2\. This Directive shall not prevent any Member State from maintaining or introducing more stringent rules, provided that they comply with the provisions of the Treaty on the Functioning of the European Union.
+
+3\. Member States shall communicate to the Commission the text of the provisions of national law which they adopt in the field covered by this Directive.
+
+## CHAPTER VII — FINAL PROVISIONS
+
+### Article 32 — Entry into force
+
+This Directive shall enter into force on the 20th day following its publication in the Official Journal of the European Union.
+
+### Article 33 — Addressees
+
+This Directive is addressed to the Member States.
+
+## ANNEX
+
+**ORGAN AND DONOR CHARACTERISATION**
+
+**PART A**
+
+**Minimum data set**
+
+Minimum data – information for the characterisation of organs and donors, which has to be collected for each donation in accordance with second subparagraph of Article 7(1) and without prejudice to Article 7(2).
+
+**Minimum data set**
+
+The establishment where the procurement takes place and other general data
+
+Type of donor
+
+Blood group
+
+Gender
+
+Cause of death
+
+Date of death
+
+Date of birth or estimated age
+
+Weight
+
+Height
+
+Past or present history of IV drug abuse
+
+Past or present history of malignant neoplasia
+
+Present history of other transmissible disease
+
+HIV; HCV; HBV tests
+
+Basic information to evaluate the function of the donated organ
+
+**PART B**
+
+**Complementary data set**
+
+Complementary data – information for the characterisation of organs and donors to be collected in addition to minimum data specified in Part A, based on the decision of the medical team, taking into account the availability of such information and the particular circumstances of the case, in accordance with the second subparagraph of Article 7(1).
+
+**Complementary data set**
+
+General data
+
+Contact details of the procurement organisation/the establishment where the procurement takes place necessary for coordination, allocation and traceability of the organs from donors to recipients and vice versa.
+
+Donor data
+
+Demographic and anthropometrical data required in order to guarantee an appropriate matching between the donor/organ and the recipient.
+
+Donor medical history
+
+Medical history of the donor, in particular the conditions which might affect the suitability of the organs for transplantation and imply the risk of disease transmission.
+
+Physical and clinical data
+
+Data from clinical examination which are necessary for the evaluation of the physiological maintenance of the potential donor as well as any finding revealing conditions which remained undetected during the examination of the donor’s medical history and which might affect the suitability of organs for transplantation or might imply the risk of disease transmission.
+
+Laboratory parameters
+
+Data needed for the assessment of the functional characterisation of the organs and for the detection of potentially transmissible diseases and of possible contraindications with respect to organ donation.
+
+Image tests
+
+Image explorations necessary for the assessment of the anatomical status of the organs for transplantation.
+
+Therapy
+
+Treatments administered to the donor and relevant for the assessment of the functional status of the organs and the suitability for organ donation, in particular the use of antibiotics, inotropic support or transfusion therapy.
+
+### Statement of the European Parliament, the Council and the Commission on Article 290 TFEU
+
+The European Parliament, the Council and the Commission declare that the provisions of this Directive shall be without prejudice to any future position of the institutions as regards the implementation of Article 290 TFEU or individual legislative acts containing such provisions.
+
+### Statement of the European Commission (Urgency)
+
+The European Commission undertakes to keep the European Parliament and the Council fully informed on the possibility of a delegated act being adopted under the urgency procedure. As soon as the Commission’s services foresee that a delegated act might be adopted under the urgency procedure, they will informally warn the secretariats of the European Parliament and of the Council.
+
+( 1 ) OJ C 306, 16.12.2009, p. 64.
+
+( 2 ) OJ C 192, 15.8.2009, p. 6.
+
+( 3 ) Position of the European Parliament of 19 May 2010 (not yet published in the Official Journal) and decision of the Council of 29 June 2010.
+
+( 4 ) OJ L 102, 7.4.2004, p. 48.
+
+( 5 ) OJ L 281, 23.11.1995, p. 31.
+
+( 6 ) OJ L 184, 17.7.1999, p. 23.
+
+( 7 ) OJ L 255, 30.9.2005, p. 22.

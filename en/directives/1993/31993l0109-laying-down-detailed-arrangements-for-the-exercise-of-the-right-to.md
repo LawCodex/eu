@@ -1,0 +1,221 @@
+---
+title: "Council Directive 93/109/EC of 6 December 1993 laying down detailed arrangements for the exercise of the right to vote and stand as a candidate in elections to the European Parliament for citizens of the Union residing in a Member State of which they are not nationals"
+identifier: "31993L0109"
+eli: "http://data.europa.eu/eli/dir/1993/109/oj"
+type: directive
+jurisdiction: eu
+language: en
+date: 1993-12-06
+entry_into_force: 1993-12-30
+last_amended: 2013-01-27
+consolidated_version: "01993L0109-20130127"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:01993L0109-20130127"
+retrieved: 2026-10-11
+---
+
+# Council Directive 93/109/EC of 6 December 1993 laying down detailed arrangements for the exercise of the right to vote and stand as a candidate in elections to the European Parliament for citizens of the Union residing in a Member State of which they are not nationals
+
+**COUNCIL DIRECTIVE 93/109/EC**
+
+**of 6 December 1993**
+
+**laying down detailed arrangements for the exercise of the right to vote and stand as a candidate in elections to the European Parliament for citizens of the Union residing in a Member State of which they are not nationals**
+
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> COUNCIL DIRECTIVE 2013/1/EU of 20 December 2012 </td><td> L 26</td><td>27</td><td>26.1.2013</td></tr>
+
+**COUNCIL DIRECTIVE 93/109/EC**
+
+**of 6 December 1993**
+
+**laying down detailed arrangements for the exercise of the right to vote and stand as a candidate in elections to the European Parliament for citizens of the Union residing in a Member State of which they are not nationals**
+
+## CHAPTER I — GENERAL PROVISIONS
+
+### Article 1
+
+1\. This Directive lays down the detailed arrangements whereby citizens of the Union residing in a Member State of which they are not nationals may exercise the right to vote and to stand as a candidate there in elections to the European Parliament.
+
+2\. Nothing in this Directive shall affect each Member State's provisions concerning the right to vote or to stand as a candidate of its nationals who reside outside its electoral territory.
+
+### Article 2
+
+For the purposes of this Directive:
+
+1\. ‘elections to the European Parliament’ means elections by direct universal suffrage to the European Parliament of representatives in accordance with the Act of 20 September 1976 ( 2 );
+
+2\. ‘electoral territory’ means the territory of a Member State in which, in accordance with the above Act and, within that framework, in accordance with the electoral law of that Member State, members of the European Parliament are elected by the people of that Member State;
+
+3\. ‘Member State of residence’ means a Member State in which a citizen of the Union resides but of which he is not a national;
+
+4\. ‘home Member State’ means the Member State of which a citizen of the Union is a national;
+
+5\. ‘Community voter’ means any citizen of the Union who is entitled to vote in elections to the European Parliament in his Member State of residence in accordance with this Directive;
+
+6\. ‘Community national entitled to stand as a candidate’ means any citizen of the Union who has the right to stand as a candidate in elections to the European Parliament in his Member State of residence in accordance with this Directive;
+
+7\. ‘electoral roll’ means the official register of all voters entitled to vote in a given constituency or locality, drawn up and kept up to date by the competent authority under the electoral law of the Member State of residence, or the population register if it indicates eligibility to vote;
+
+8\. ‘reference date’ means the day or the days on which citizens of the Union must satisfy, under the law of the Member State of residence, the requirements for voting or for standing as a candidate in that State;
+
+9\. ‘formal declaration’ means a declaration by the person concerned, inaccuracy in which makes that person liable to penalties, in accordance with the national law applicable.
+
+### Article 3
+
+Any person who, on the reference date:
+
+(a) is a citizen of the Union within the meaning of the second subparagraph of Article 8 (1) of the Treaty;
+
+(b) is not a national of the Member State of residence, but satisfies the same conditions in respect of the right to vote and to stand as a candidate as that State imposes by law on its own nationals,
+
+shall have the right to vote and to stand as a candidate in elections to the European Parliament in the Member State of residence unless deprived of those rights pursuant to Articles 6 and 7.
+
+Where, in order to stand as a candidate, nationals of the Member State of residence must have been nationals for a certain minimum period, citizens of the Union shall be deemed to have met this condition when they have been nationals of a Member State for the same period.
+
+### Article 4
+
+1\. Community voters shall exercise their right to vote either in the Member State of residence or in their home Member State. No person may vote more than once at the same election.
+
+2\. No person may stand as a candidate in more than one Member State at the same election.
+
+### Article 5
+
+If, in order to vote or to stand as candidates, nationals of the Member State or residence must have spent a certain minimum period as a resident in the electoral territory of that State, Community voters and Community nationals entitled to stand as candidates shall be deemed to have fulfilled that condition where they have resided for an equivalent period in other Member States. This provision shall apply without prejudice to any specific conditions as to length of residence in a given constituency or locality.
+
+### Article 6
+
+1\. Any citizen of the Union who resides in a Member State of which he is not a national and who, through an individual judicial decision or an administrative decision provided that the latter can be subject to judicial remedies, has been deprived of his right to stand as a candidate under either the law of the Member State of residence or the law of his home Member State, shall be precluded from exercising that right in the Member State of residence in elections to the European Parliament.
+
+2\. The Member State of residence shall check whether the citizens of the Union who have expressed a desire to exercise their right to stand as a candidate there have not been deprived of that right in the home Member State through an individual judicial decision or an administrative decision provided that the latter can be subject to judicial remedies.
+
+3\. For the purposes of paragraph 2 of this Article, the Member State of residence shall notify the home Member State of the declaration referred to in Article 10(1). To that end, the relevant information that is available from the home Member State shall be provided in any appropriate manner within five working days from the reception of the notification or, where possible, within a shorter time-limit, if so requested by the Member State of residence. Such information may include only details which are strictly necessary for the implementation of this Article and may be used only for that purpose.
+
+If the information is not received by the Member State of residence within the time-limit, the candidate shall none the less be admitted.
+
+4\. If the information provided invalidates the content of the declaration, the Member State of residence, irrespective of whether it receives the information within the time-limit or at a later stage, shall take the appropriate steps in accordance with its national law to prevent the person concerned from standing as a candidate or where this is not possible, to prevent this person either from being elected or from exercising the mandate.
+
+5\. Member States shall designate a contact point to receive and transmit the information necessary for the application of paragraph 3. They shall communicate to the Commission the name and contact details of the contact point and any updated information or changes concerning it. The Commission shall keep a list of contact points and make it available to the Member States.
+
+### Article 7
+
+1\. The Member State of residence may check whether the citizens of the Union who have expressed a desire to exercise their right to vote there have not been deprived of that right in the home Member State through an individual civil law or criminal law decision.
+
+2\. For the purposes of paragraph 1 of this Article, the Member State of residence may notify the home Member State of the declaration referred to in Article 9 (2). To that end, the relevant and normally available information from the home Member State shall be provided in good time and in an appropriate manner; such information may only include details which are strictly necessary for the implementation of this Article and may only be used for that purpose. If the information provided invalidates the content of the declaration, the Member State of residence shall take the appropriate steps to prevent the person concerned from voting.
+
+3\. The home Member State may, in good time and in an appropriate manner, submit to the Member State of residence any information necessary for the implementation of this Article.
+
+### Article 8
+
+1\. A Community voter exercises his right to vote in the Member State of residence if he has expressed the wish to do so.
+
+2\. If voting is compulsory in the Member State of residence, Community voters who have expressed the wish to do so shall be obliged to vote.
+
+## CHAPTER II — EXERCISE OF THE RIGHT TO VOTE AND THE RIGHT TO STAND AS A CANDIDATE
+
+### Article 9
+
+1\. Member States shall take the necessary measures to enable a Community voter who has expressed the wish for such to be entered on the electoral roll sufficiently in advance of polling day.
+
+2\. In order to have his name entered on the electoral roll, a Community voter shall produce the same documents as a voter who is a national. He shall also produce a formal declaration stating:
+
+(a) his nationality and his address in the electoral territory of the Member State of residence;
+
+(b) where applicable, the locality or constituency in his home Member State on the electoral roll of which his name was last entered, and
+
+(c) that he will exercise his right to vote in the Member State of residence only.
+
+3\. The Member State of residence may also require a Community voter to:
+
+(a) state in his declaration under paragraph 2 that he has not been deprived of the right to vote in his home Member State;
+
+(b) produce a valid identity document, and
+
+(c) indicate the date from which he has been resident in that State or in another Member State.
+
+4\. Community voters who have been entered on the electoral roll shall remain thereon, under the same conditions as voters who are nationals, until such time as they request to be removed or until such time as they are removed automatically because they no longer satisfy the requirements for exercising the right to vote.
+
+### Article 10
+
+1\. When he submits his application to stand as a candidate, a Community national shall produce the same supporting documents as a candidate who is a national. He shall also produce a formal declaration stating:
+
+(a) his nationality, date and place of birth, last address in the home Member State and his address in the electoral territory of the Member State of residence;
+
+(b) that he is not standing as a candidate for election to the European Parliament in any other Member State;
+
+(c) where applicable, the locality or constituency in his home Member State on the electoral roll of which his name was last entered, and
+
+(d) that he has not been deprived of the right to stand as a candidate in the home Member State through an individual judicial decision or an administrative decision provided that the latter can be subject to judicial remedies.
+
+3\. The Member State of residence may also require a Community national entitled to stand as a candidate to produce a valid identity document. It may also require him to indicate the date from which he has been a national of a Member State.
+
+### Article 11
+
+1\. The Member State of residence shall inform the person concerned of the action taken on his application for entry on the electoral roll or of the decision concerning the admissibility of his application to stand as a candidate.
+
+2\. Should a person be refused entry on the electoral roll or his application to stand as a candidate be rejected, the person concerned shall be entitled to legal remedies on the same terms as the legislation of the Member State of residence prescribes for voters and persons entitled to stand as candidates who are its nationals.
+
+### Article 12
+
+The Member State of residence shall inform Community voters and Community nationals entitled to stand as candidates in good time and in an appropriate manner of the conditions and detailed arrangements for the exercise of the right to vote and to stand as a candidate in elections in that State.
+
+### Article 13
+
+Member States shall exchange the information required for the implementation of Article 4. To that end, the Member State of residence shall, on the basis of the formal declaration referred to in Articles 9 and 10, supply the home Member State, sufficiently in advance of polling day, with information on the latter State's nationals entered on electroal rolls or standing as candidates. The home Member State shall, in accordance with its national legislation, take appropriate measures to ensure that its nationals do not vote more than once or stand as candidates in more than one Member State.
+
+## CHAPTER III — DEROGATIONS AND TRANSITIONAL PROVISIONS
+
+### Article 14
+
+1\. If on 1 January 1993, in a given Member State, the proportion of citizens of the Union of voting age who reside in it but are not nationals of it exceeds 20 % of the total number of citizens of the Union residing there who are of voting age, that Member State may, by way of derogation from Articles 3, 9 and 10:
+
+(a) restrict the right to vote to Community voters who have resided in that Member State for a minimum period, which may not exceed five years;
+
+(b) restrict the right to stand as a candidate to Community nationals entitled to stand as candidates who have resided in that Member State for a minimum period, which may not exceed 10 years.
+
+These provisions are without prejudice to appropriate measures which this Member State may take with regard to the composition of lists of candidates and which are intended in particular to encourage the integration of non-national citizens of the Union.
+
+However, Community voters and Community nationals entitled to stand as candidates who, owing to the fact that they have taken up residence outside their home Member State or by reason of the duration of such residence, do not have the right to vote or to stand as candidates in that home State shall not be subject to the conditions as to length of residence set out above.
+
+2\. Where, on 1 February 1994, the laws of a Member State prescribe that the nationals of another Member State who reside there have the right to vote for the national parliament of that State and, for that purpose, may be entered on the electoral roll of that State under exactly the same conditions as national voters, the first Member State may, by way of derogation from this Directive, refrain from applying Articles 6 to 13 in respect of such nationals.
+
+3\. By 31 December 1997 and thereafter 18 months prior to each election to the European Parliament, the Commission shall submit to the European Parliament and to the Council a report in which it shall check whether the grant to the Member States concerned of a derogation pursuant to Article 8b (2) of the EC Treaty is still warranted and shall propose that any necessary adjustments be made.
+
+Member States which invoke derogations under paragraph 1 shall furnish the Commission with all the necessary background information.
+
+### Article 15
+
+For the fourth direct elections to the European Parliament, the following special provisions shall apply:
+
+(a) citizens of the Union who, on 15 February 1994, already have the right to vote in the Member State of residence and whose names appear on the electoral roll in the Member State of residence shall not be subject to the formalities laid down in Article 9;
+
+(b) Member States in which the electoral rolls have been finalized before 15 February 1994 shall take the steps necessary to enable Community voters who wish to exercise their right to vote there to enter names on the electoral roll sufficiently in advance of polling day;
+
+(c) Member States which do not draw up specific electoral rolls but indicate eligibility to vote in the population register and where voting is not compulsory may also apply this system to Community voters who appear on that register and who, having been informed individually of their rights, have not expressed a wish to exercise their right to vote in their home Member State. They shall forward to the home Member State the document showing the intention expressed by those voters to vote in the Member State of residence;
+
+(d) Member States in which the internal procedure for the nomination of candidates for political parties and groups is governed by law may provide that any such procedures which, in accordance with that law, were opened before 1 February 1994 and the decisions taken within that framework shall remain valid.
+
+## CHAPTER IV — FINAL PROVISIONS
+
+### Article 16
+
+The Commission shall submit a report to the European Parliament and the Council by 31 December 1995 on the application of this Directive to the June 1994 elections to the European Parliament. On the basis of the said report the Council, acting unanimously on a proposal from the Commission and after consulting the European Parliament, may adopt provisions amending this Directive.
+
+### Article 17
+
+Member States shall adopt the laws, regulations and administrative provisions necessary to comply with this Directive no later than 1 February 1994. They shall forthwith inform the Commission thereof.
+
+When Member States adopt these measures, they shall contain a reference to this Directive or shall be accompanied by such reference on the occasion of their official publication. The methods of making such reference shall be laid down by Member States.
+
+### Article 18
+
+This Directive shall enter into force on the day of its publication in the Official Journal of the European Communities.
+
+### Article 19
+
+This Directive is addressed to the Member States.
+
+( 1 ) OJ No C 329, 6. 12. 1993.
+
+( 2 ) OJ No L 278, 8. 10. 1976, p. 5.

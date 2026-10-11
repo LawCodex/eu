@@ -1,0 +1,4566 @@
+---
+title: "Council Directive 92/43/EEC of 21 May 1992 on the conservation of natural habitats and of wild fauna and flora"
+identifier: "31992L0043"
+eli: "http://data.europa.eu/eli/dir/1992/43/oj"
+type: directive
+jurisdiction: eu
+language: en
+date: 1992-05-21
+entry_into_force: 1992-11-20
+last_amended: 2025-07-14
+consolidated_version: "01992L0043-20250714"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:01992L0043-20250714"
+retrieved: 2026-10-11
+---
+
+# Council Directive 92/43/EEC of 21 May 1992 on the conservation of natural habitats and of wild fauna and flora
+
+**COUNCIL DIRECTIVE 92/43/EEC**
+
+**of 21 May 1992**
+
+**on the conservation of natural habitats and of wild fauna and flora**
+
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td> M1</td><td> COUNCIL DIRECTIVE 97/62/EC of 27 October 1997 </td><td> L 305</td><td>42</td><td>8.11.1997</td></tr>
+<tr><td></td><td> REGULATION (EC) No 1882/2003 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 29 September 2003</td><td> L 284</td><td>1</td><td>31.10.2003</td></tr>
+<tr><td></td><td> COUNCIL DIRECTIVE 2006/105/EC of 20 November 2006 </td><td> L 363</td><td>368</td><td>20.12.2006</td></tr>
+<tr><td></td><td> COUNCIL DIRECTIVE 2013/17/EU of 13 May 2013 </td><td> L 158</td><td>193</td><td>10.6.2013</td></tr>
+<tr><td></td><td> DIRECTIVE (EU) 2025/1237 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 17 June 2025 </td><td> L 1237</td><td>1</td><td>24.6.2025</td></tr>
+
+| A1 | ACT (94/C 241/08) | C 241 | 21 | 29.8.1994 |
+| --- | --- | --- | --- | --- |
+|  |  | L 001 | 1 | .. |
+| A2 | ACT concerning the conditions of accession of the Czech Republic, the Republic of Estonia, the Republic of Cyprus, the Republic of Latvia, the Republic of Lithuania, the Republic of Hungary, the Republic of Malta, the Republic of Poland, the Republic of Slovenia and the Slovak Republic and the adjustments to the Treaties on which the European Union is founded | L 236 | 33 | 23.9.2003 |
+
+**COUNCIL DIRECTIVE 92/43/EEC**
+
+**of 21 May 1992**
+
+**on the conservation of natural habitats and of wild fauna and flora**
+
+## Definitions
+
+### Article 1
+
+For the purpose of this Directive:
+
+(a) conservation means a series of measures required to maintain or restore the natural habitats and the populations of species of wild fauna and flora at a favourable status as defined in (e) and (i);
+
+(b) natural habitats means terrestrial or aquatic areas distinguished by geographic, abiotic and biotic features, whether entirely natural or semi-natural;
+
+(c) natural habitat types of Community interest means those which, within the territory referred to in Article 2:
+
+(i) are in danger of disappearance in their natural range;
+
+or
+
+(ii) have a small natural range following their regression or by reason of their intrinsically restricted area;
+
+or
+
+(iii) present outstanding examples of typical characteristics of one or more of the nine following biogeographical regions: Alpine, Atlantic, Black Sea, Boreal, Continental, Macaronesian, Mediterranean, Pannonian and Steppic.
+
+Such habitat types are listed or may be listed in Annex I;
+
+(d) priority natural habitat types means natural habitat types in danger of disappearence, which are present on the territory referred to in Article 2 and for the conservation of which the Community has particular responsibility in view of the proportion of their natural range which falls within the territory referred to in Article 2; these priority natural habitat types are indicated by an asterisk (*) in Annex I;
+
+(e) conservation status of a natural habitat means the sum of the influences acting on a natural habitat and its typical species that may affect its long-term natural distribution, structure and functions as well as the long-term survival of its typical species within the territory referred to in Article 2.
+
+The conservation status  of a natural habitat will be taken as ‘favourable’ when:
+
+— its natural range and areas it covers within that range are stable or increasing, and
+
+— the specific structure and functions which are necessary for its long-term maintenance exist and are likely to continue to exist for the foreseeable future, and
+
+— the conservation status of its typical species is favourable as defined in (i);
+
+(f) habitat of a species means an environment defined by specific abiotic and biotic factors, in which the species lives at any stage of its biological cycle;
+
+(g) species of Community interest means species which, within the territory referred to in Article 2, are:
+
+(i) endangered, except those species whose natural range is marginal in that territory and which are not endangered or vulnerable in the western palearctic region; or
+
+(ii) vulnerable, i.e. believed likely to move into the endangered category in the near future if the causal factors continue operating; or
+
+(iii) rare, i.e. with small populations that are not at present endangered or vulnerable, but are at risk. The species are located within restricted geographical areas or are thinly scattered over a more extensive range; or
+
+(iv) endemic and requiring particular attention by reason of the specific nature of their habitat and/or the potential impact of their exploitation on their habitat and/or the potential impact of their exploitation on their conservation status.
+
+Such species are listed or may be listed in Annex II and/or Annex IV or V;
+
+(h) priority species means species referred to in (g) (i) for the conservation of which the Community has particular responsibility in view of the proportion of their natural range which falls within the territory referred to in Article 2; these priority species are indicated by an asterisk (*) in Annex II;
+
+(i) conservation status of a species means the sum of the influences acting on the species concerned that may affect the long-term distribution and abundance of its populations within the territory referred to in Article 2;
+
+The conservation status will be taken as ‘favourable’ when:
+
+— population dynamics data on the species concerned indicate that it is maintaining itself on a long-term basis as a viable component of its natural habitats, and
+
+— the natural range of the species is neither being reduced nor is likely to be reduced for the foreseeable future, and
+
+— there is, and will probably continue to be, a sufficiently large habitat to maintain its populations on a long-term basis;
+
+(j) site means a geographically defined area whose extent is clearly delineated;
+
+(k) site of Community importance means a site which, in the biogeographical region or regions to which it belongs,  contributes significantly to the maintenance or restoration at a favourable conservation status of a natural habitat type in Annex I or of a species in Annex II and may also contribute significantly to the coherence of Natura 2000 referred to in Article 3, and/or contributes significantly to the maintenance of biological diversity within the biogeographic region or regions concerned.
+
+For animal species ranging over wide areas, sites of Community importance shall correspond to the places within the natural range of such species which present the physical or biological factors essential to their life and reproduction;
+
+(l) special area of conservation means a site of Community importance designated by the Member States through a statutory, administrative and/or contractual act where the necessary conservation measures are applied for the maintenance or restoration, at a favourable conservation status, of the natural habitats and/or the populations of the species for which the site is designated;
+
+(m) specimen means any animal or plant, whether alive or dead, of the species listed in Annex IV and Annex V, any part or derivative thereof, as well as any other goods which appear, from an accompanying document, the packaging or a mark or label, or from any other circumstances, to be parts or derivatives of animals or plants of those species;
+
+(n) the committee means the committee set up pursuant to Article 20.
+
+### Article 2
+
+1\. The aim of this Directive shall be to contribute towards ensuring bio-diversity through the conservation of natural habitats and of wild fauna and flora in the European territory of the Member States to which the Treaty applies.
+
+2\. Measures taken pursuant to this Directive shall be designed to maintain or restore, at favourable conservation status, natural habitats and species of wild fauna and flora of Community interest.
+
+3\. Measures taken pursuant to this Directive shall take account of economic, social and cultural requirements and regional and local characteristics.
+
+## Conservation of natural habitats and habitats of species
+
+### Article 3
+
+1\. A coherent European ecological network of special areas of conservation shall be set up under the title Natura 2000. This network, composed of sites hosting the natural habitat types listed in Annex I and habitats of the species listed in Annex II, shall enable the natural habitat types and the species' habitats concerned to be maintained or, where appropriate, restored at a favourable conservation status in their natural range.
+
+The Natura 2000 network shall include the special protection areas classified by the Member States pursuant to Directive 79/409/EEC.
+
+2\. Each Member State shall contribute to the creation of Natura 2000 in proportion to the representation within its territory of the natural habitat types and the habitats of species referred to in paragraph 1. To that effect each Member State shall designate, in accordance with Article 4, sites as special areas of conservation taking account of the objectives set out in paragraph 1.
+
+3\. Where they consider it necessary, Member States shall endeavour to improve the ecological coherence of Natura 2000 by maintaining, and where appropriate developing, features of the landscape which are of major importance for wild fauna and flora, as referred to in Article 10.
+
+### Article 4
+
+1\. On the basis of the criteria set out in Annex III (Stage 1) and relevant scientific information, each Member State shall propose a list of sites indicating which natural habitat types in Annex I and which species in Annex II that are native to its territory the sites host. For animal species ranging over wide areas these sites shall correspond to the places within the natural range of such species which present the physical or biological factors essential to their life and reproduction. For aquatic species which range over wide areas, such sites will be proposed only where there is a clearly identifiable area representing the physical and biological factors essential to their life and reproduction. Where appropriate, Member States shall propose adaptation of the list in the light of the results of the surveillance referred to in Article 11.
+
+The list shall be transmitted to the Commission, within three years of the notification of this Directive, together with information on each site. That information shall include a map of the site, its name, location, extent and the data resulting from application of the criteria specified in Annex III (Stage 1) provided in a format established by the Commission in accordance with the procedure laid down in Article 21.
+
+2\. On the basis of the criteria set out in Annex III (Stage 2) and in the framework both of each of the nine  biogeographical regions referred to in Article 1 (c) (iii) and of the whole of the territory referred to in Article 2 (1), the Commission shall establish, in agreement with each Member State, a draft list of sites of Community importance drawn from the Member States' lists identifying those which host one  or more priority natural habitat types or priority species.
+
+Member States whose sites hosting one or more priority natural habitat types and priority species represent more than 5 % of their national territory may, in agreement with the Commission, request that the criteria listed in Annex III (Stage 2) be applied more flexibly in selecting all the sites of Community importance in their territory.
+
+The list of sites selected as sites of Community importance, identifying those which host one or more priority natural habitat types or priority species, shall be adopted by the Commission in accordance with the procedure laid down in Article 21.
+
+3\. The list referred to in paragraph 2 shall be established within six years of the notification of this Directive.
+
+4\. Once a site of Community importance has been adopted in accordance with the procedure laid down in paragraph 2, the Member State concerned shall designate that site as a special area of conservation as soon as possible and within six years at most, establishing priorities in the light of the importance of the sites for the maintenance or restoration, at a favourable conservation status, of a natural habitat type in Annex I or a species in Annex II and for the coherence of Natura 2000, and in the light of the threats of degradation or destruction to which those sites are exposed.
+
+5\. As soon as a site is placed on the list referred to in the third subparagraph of paragraph 2 it shall be subject to Article 6 (2), (3) and (4).
+
+### Article 5
+
+1\. In exceptional cases where the Commission finds that a national list as referred to in Article 4 (1) fails to mention a site hosting a priority natural habitat type or priority species which, on the basis of relevant and reliable scientific information, it considers to be essential for the maintenance of that priority natural habitat type or for the survival of that priority species, a bilateral consultation procedure shall be initiated between that Member State and the Commission for the purpose of comparing the scientific data used by each.
+
+2\. If, on expiry of a consultation period not exceeding six months, the dispute remains unresolved, the Commission shall forward to the Council a proposal relating to the selection of the site as a site of Community importance.
+
+3\. The Council, acting unanimously, shall take a decision within three months of the date of referral.
+
+4\. During the consultation period and pending a Council decision, the site concerned shall be subject to Article 6 (2).
+
+### Article 6
+
+1\. For special areas of conservation, Member States shall establish the necessary conservation measures involving, if need be, appropriate management plans specifically designed for the sites or integrated into other development plans, and appropriate statutory, administrative or contractual measures which correspond to the ecological requirements of the natural habitat types in Annex I and the species in Annex II present on the sites.
+
+2\. Member States shall take appropriate steps to avoid, in the special areas of conservation, the deterioration of natural habitats and the habitats of species as well as disturbance of the species for which the areas have been designated, in so far as such disturbance could be significant in relation to the objectives of this Directive.
+
+3\. Any plan or project not directly connected with or necessary to the management of the site but likely to have a significant effect thereon, either individually or in combination with other plans or projects, shall be subject to appropriate assessment of its implications for the site in view of the site's conservation objectives. In the light of the conclusions of the assessment of the implications for the site and subject to the provisions of paragraph 4, the competent national authorities shall agree to the plan or project only after having ascertained that it will not adversely affect the integrity of the site concerned and, if appropriate, after having obtained the opinion of the general public.
+
+4\. If, in spite of a negative assessment of the implications for the site and in the absence of alternative solutions, a plan or project must nevertheless be carried out for imperative reasons of overriding public interest, including those of a social or economic nature, the Member State shall take all compensatory measures necessary to ensure that the overall coherence of Natura 2000 is protected. It shall inform the Commission of the compensatory measures adopted.
+
+Where the site concerned hosts a priority natural habitat type and/or a priority species, the only considerations which may be raised are those relating to human health or public safety, to beneficial consequences of primary importance for the environment or, further to an opinion from the Commission, to other imperative reasons of overriding public interest.
+
+### Article 7
+
+Obligations arising under Article 6 (2), (3) and (4) of this Directive shall replace any obligations arising under the first sentence of Article 4 (4) of Directive 79/409/EEC in respect of areas classified pursuant to Article 4 (1) or similarly recognized under Article 4 (2) thereof, as from the date of implementation of this Directive or the date of classification or recognition by a Member State under Directive 79/409/EEC, where the latter date is later.
+
+### Article 8
+
+1\. In parallel with their proposals for sites eligible for designation as special areas of conservation, hosting priority natural habitat types and/or priority species, the Member States shall send, as appropriate, to the Commission their estimates relating to the Community co-financing which they consider necessary to allow them to meet their obligations pursuant to Article 6 (1).
+
+2\. In agreement with each of the Member States concerned, the Commission shall identify, for sites of Community importance for which co-financing is sought, those measures essential for the maintenance or re-establishment at a favourable conservation status of the priority natural habitat types and priority species on the sites concerned, as well as the total costs arising from those measures.
+
+3\. The Commission, in agreement with the Member States concerned, shall assess the financing, including co-financing, required for the operation of the measures referred to in paragraph 2, taking into account, amongst other things, the concentration on the Member State's territory of priority natural habitat types and/or priority species and the relative burdens which the required measures entail.
+
+4\. According to the assessment referred to in paragraphs 2 and 3, the Commission shall adopt, having regard to the available sources of funding under the relevant Community instruments and according to the procedure set out in Article 21, a prioritized action framework of measures involving co-financing to be taken when the site has been designated under Article 4 (4).
+
+5\. The measures which have not been retained in the action framework for lack of sufficient resources, as well as those included in the abovementioned action framework which have not received the necessary co-financing or have only been partially co-financed, shall be reconsidered in accordance with the procedure set out in Article 21, in the context of the two-yearly review of the action framework and may, in the maintime, be postponed by the Member States pending such review. This review shall take into account, as appropriate, the new situation of the site concerned.
+
+6\. In areas where the measures dependent on co-financing are postponed, Member States shall refrain from any new measures likely to result in deterioration of those areas.
+
+### Article 9
+
+The Commission, acting in accordance with the procedure laid down in Article 21, shall periodically review the contribution of Natura 2000 towards achievement of the objectives set out in Article 2 and 3. In this context, a special area of conservation may be considered for declassification where this is warranted by natural developments noted as a result of the surveillance provided for in Article 11.
+
+### Article 10
+
+Member States shall endeavour, where they consider it necessary, in their land-use planning and development policies and, in particular, with a view to improving the ecological coherence of the Natura  2000 network, to encourage the management of features of the landscape which are of major importance for wild fauna and flora.
+
+Such features are those which, by virtue of their linear and continuous structure (such as rivers with their banks or the traditional systems for marking field boundaries) or their function as stepping stones (such as ponds or small woods), are essential for the migration, dispersal and genetic exchange of wild species.
+
+### Article 11
+
+Member States shall undertake surveillance of the conservation status of the natural habitats and species referred to in Article 2 with particular regard to priority natural habitat types and priority species.
+
+## Protection of species
+
+### Article 12
+
+1\. Member States shall take the requisite measures to establish a system of strict protection for the animal species listed in Annex IV (a) in their natural range, prohibiting:
+
+(a) all forms of deliberate capture or killing of specimens of these species in the wild;
+
+(b) deliberate disturbance of these species, particularly during the period of breeding, rearing, hibernation and migration;
+
+(c) deliberate destruction or taking of eggs from the wild;
+
+(d) deterioration or destruction of breeding sites or resting places.
+
+2\. For these species, Member States shall prohibit the keeping, transport and sale or exchange, and offering for sale or exchange, of specimens taken from the wild, except for those taken legally before this Directive is implemented.
+
+3\. The prohibition referred to in paragraph 1 (a) and (b) and paragraph 2 shall apply to all stages of life of the animals to which this Article applies.
+
+4\. Member States shall establish a system to monitor the incidential capture and killing of the animal species listed in Annex IV (a). In the light of the information gathered, Member States shall take further research or conservation measures as required to ensure that incidental capture and killing does not have a significant negative impact on the species concerned.
+
+### Article 13
+
+1\. Member States shall take the requisite measures to establish a system of strict protection for the plant species listed in Annex IV (b), prohibiting:
+
+(a) the deliberate picking, collecting, cutting, uprooting or destruction of such plants in their natural range in the wild;
+
+(b) the keeping, transport and sale or exchange and offering for sale or exchange of specimens of such species taken in the wild, except for those taken legally before this Directive is implemented.
+
+2\. The prohibitions referred to in paragraph 1 (a) and (b) shall apply to all stages of the biological cycle of the plants to which this Article applies.
+
+### Article 14
+
+1\. If, in the light of the surveillance provided for in Article 11, Member States deem it necessary, they shall take measures to ensure that the taking in the wild of specimens of species of wild fauna and flora listed in Annex V as well as their exploitation is compatible with their being maintained at a favourable conservation status.
+
+2\. Where such measures are deemed necessary, they shall include continuation of the surveillance provided for in Article 11. Such measures may also include in particular:
+
+— regulations regarding access to certain property,
+
+— temporary or local prohibition of the taking of specimens in the wild and exploitation of certain populations,
+
+— regulation of the periods and/or methods of taking specimens,
+
+— application, when specimens are taken, of hunting and fishing rules which take account of the conservation of such populations,
+
+— establishment of a system of licences for taking specimens or of quotas,
+
+— regulation of the purchase, sale, offering for sale, keeping for sale or transport for sale of specimens,
+
+— breeding in captivity of animal species as well as artificial propagation of plant species, under strictly controlled conditions, with a view to reducing the taking of specimens of the wild,
+
+— assessment of the effect of the measures adopted.
+
+### Article 15
+
+In respect of the capture or killing of species of wild fauna listed in Annex V (a) and in cases where, in accordance with Article 16, derogations are applied to the taking, capture or killing of species listed in Annex IV (a), Member States shall prohibit the use of all indiscriminate means capable of causing local disappearance of, or serious disturbance to, populations of such species, and in particular:
+
+(a) use of the means of capture and killing listed in Annex VI (a);
+
+(b) any form of capture and killing from the modes of transport referred to in Annex VI (b).
+
+### Article 16
+
+1\. Provided that there is no satisfactory alternative and the derogation is not detrimental to the maintenance of the populations of the species concerned at a favourable conservation status in their natural range, Member States may derogate from the provisions of Articles 12, 13, 14 and 15 (a) and (b):
+
+(a) in the interest of protecting wild fauna and flora and conserving natural habitats;
+
+(b) to prevent serious damage, in particular to crops, livestock, forests, fisheries and water and other types of property;
+
+(c) in the interests of public health and public safety, or for other imperative reasons of overriding public interest, including those of a social or economic nature and beneficial consequences of primary importance for the environment;
+
+(d) for the purpose of research and education, of repopulating and re-introducing these species and for the breedings operations necessary for these purposes, including the artificial propagation of plants;
+
+(e) to allow, under strictly supervised conditions, on a selective basis and to a limited extent, the taking or keeping of certain specimens of the species listed in Annex IV in limited numbers specified by the competent national authorities.
+
+2\. Member States shall forward to the Commission every two years a report in accordance with the format established by the Committee on the derogations applied under paragraph 1. The Commission shall give its opinion on these derogations within a maximum time limit of 12 months following receipt of the report and shall give an account to the Committee.
+
+3\. The reports shall specify:
+
+(a) the species which are subject to the derogations and the reason for the derogation, including the nature of the risk, with, if appropriate, a reference to alternatives rejected and scientific data used;
+
+(b) the means, devices or methods authorized for the capture or killing of animal species and the reasons for their use;
+
+(c) the circumstances of when and where such derogations are granted;
+
+(d) the authority empowered to declare and check that the required conditions obtain and to decide what means, devices or methods may be used, within what limits and by what agencies, and which persons are to carry out the  task;
+
+(e) the supervisory measures used and the results obtained.
+
+## Information
+
+### Article 17
+
+1\. Every six years from the date of expiry of the period laid down in Article 23, Member States shall draw up a report on the implementation of the measures taken under this Directive. This report shall include in particular information concerning the conservation measures referred to in Article 6 (1) as well as evaluation of the impact of those measures on the conservation status of the natural habitat types of Annex I and the species in Annex II and the main results of the surveillance referred to in Article 11. The report, in accordance with the format established by the committee, shall be forwarded to the Commission and made accessible to the public.
+
+2\. The Commission shall prepare a composite report based on the reports referred to in paragraph 1. This report shall include an appropriate evaluation of the progress achieved and, in particular, of the contribution of Natura 2000 to the achievement of the objectives set out in Article 3. A draft of the part of the report covering the information supplied by a Member State shall be forwarded to the Member State in question for verification. After submission to the committee, the final version of the report shall be published by the Commission, not later than two years after receipt of the reports referred to in paragraph 1, and shall be forwarded to the Member States, the European Parliament, the Council and the Economic and Social Committee.
+
+3\. Member States may mark areas designated under this Directive by means of Community notices designed for that purpose by the committee.
+
+## Research
+
+### Article 18
+
+1\. Member States and the Commission shall encourage the necessary research and scientific work having regard to the objectives set out in Article 2 and the obligation referred to in Article 11. They shall exchange information for the purposes of proper coordination of research carried out at Member State and at Community level.
+
+2\. Particular attention shall be paid to scientific work necessary for the implementation of Articles 4 and 10, and transboundary cooperative research between Member States shall be encouraged.
+
+## Procedure for amending the Annexes
+
+### Article 19
+
+Such amendments as are necessary for adapting Annexes I, II, III, V and VI to technical and scientific progress shall be adopted by the Council acting by qualified majority on a proposal from the Commission.
+
+Such amendments as are necessary for adapting Annex IV to technical and scientific progress shall be adopted by the Council acting unanimously on a proposal from the Commission.
+
+## Committee
+
+### Article 20
+
+The Commission shall be assisted by a committee.
+
+### Article 21
+
+1\. Where reference is made to this Article, Articles 5 and 7 of Decision 1999/468/EC ( 1 ) shall apply, having regard to the provisions of Article 8 thereof.
+
+The period laid down in Article 5(6) of Decision 1999/468/EC shall be set at three months.
+
+2\. The Committee shall adopt its rules of procedure.
+
+## Supplementary provisions
+
+### Article 22
+
+In implementing the provisions of this Directive, Member States shall:
+
+(a) study the desirability of re-introducing species in Annex IV that are native to their territory where this might contribute to their conservation, provided that an investigation, also taking into account experience in other Member States or elsewhere, has established that such re-introduction contributes effectively to re-establishing these species at a favourable conservation status and that it takes place only after proper consultation of the public concerned;
+
+(b) ensure that the deliberate introduction into the wild of any species which is not native to their territory is regulated so as not to prejudice natural habitats within their natural range or the wild native fauna and flora and, if they consider it necessary, prohibit such introduction. The results of the assessment undertaken shall be forwarded to the committee for information;
+
+(c) promote education and general information on the need to protect species of wild fauna and flora and to conserve their habitats and natural habitats.
+
+## Final provisions
+
+### Article 23
+
+1\. Member States shall bring into force the laws, regulations and administrative provisions necessary to comply with this Directive within two years of its notification. They shall forthwith inform the Commission thereof.
+
+2\. When Member States adopt such measures, they shall contain a reference to this Directive or be accompanied by such reference on the occasion of their official publication. The methods of making such a reference shall be laid down by the Member States.
+
+3\. Member States shall communicate to the Commission the main provisions of national law which they adopt in the field covered by this Directive.
+
+### Article 24
+
+This Directive is addressed to the Member States.
+
+## ANNEX I
+
+**NATURAL HABITAT TYPES OF COMMUNITY INTEREST WHOSE CONSERVATION REQUIRES THE DESIGNATION OF SPECIAL AREAS OF CONSERVATION**
+
+**Interpretation**
+
+Guidance on the interpretation of habitat types is given in the Interpretation Manual of European Union Habitats as approved by the committee set up under Article 20 (‘Habitats Committee’) and published by the European Commission ( 2 ).
+
+The code corresponds to the Natura 2000 code.
+
+The sign ‘*’ indicates priority habitat types.
+
+**1\. COASTAL AND HALOPHYTIC HABITATS**
+
+**11\. Open sea and tidal areas**
+
+1110 Sandbanks which are slightly covered by sea water all the time
+
+1120 * Posidonia beds (Posidonion oceanicae)
+
+1130 Estuaries
+
+1140 Mudflats and sandflats not covered by seawater at low tide
+
+1150 * Coastal lagoons
+
+1160 Large shallow inlets and bays
+
+1170 Reefs
+
+1180 Submarine structures made by leaking gases
+
+**12\. Sea cliffs and shingle or stony beaches**
+
+1210 Annual vegetation of drift lines
+
+1220 Perennial vegetation of stony banks
+
+1230 Vegetated sea cliffs of the Atlantic and Baltic Coasts
+
+1240 Vegetated sea cliffs of the Mediterranean coasts with endemic Limonium spp.
+
+1250 Vegetated sea cliffs with endemic flora of the Macaronesian coasts
+
+**13\. Atlantic and continental salt marshes and salt meadows**
+
+1310 Salicornia and other annuals colonizing mud and sand
+
+1320 Spartina swards (Spartinion maritimae)
+
+1330 Atlantic salt meadows (Glauco-Puccinellietalia maritimae)
+
+1340 * Inland salt meadows
+
+**14\. Mediterranean and thermo-Atlantic salt marshes and salt meadows**
+
+1410 Mediterranean salt meadows (Juncetalia maritimi)
+
+1420 Mediterranean and thermo-Atlantic halophilous scrubs (Sarcocornetea fruticosi)
+
+1430 Halo-nitrophilous scrubs (Pegano-Salsoletea)
+
+**15\. Salt and gypsum inland steppes**
+
+1510 * Mediterranean salt steppes (Limonietalia)
+
+1520 * Iberian gypsum vegetation (Gypsophiletalia)
+
+1530 * Pannonic salt steppes and salt marshes
+
+**16\. Boreal Baltic archipelago, coastal and landupheaval areas**
+
+1610 Baltic esker islands with sandy, rocky and shingle beach vegetation and sublittoral vegetation
+
+1620 Boreal Baltic islets and small islands
+
+1630 * Boreal Baltic coastal meadows
+
+1640 Boreal Baltic sandy beaches with perennial vegetation
+
+1650 Boreal Baltic narrow inlets
+
+**2\. COASTAL SAND DUNES AND INLAND DUNES**
+
+**21\. Sea dunes of the Atlantic, North Sea and Baltic coasts**
+
+2110 Embryonic shifting dunes
+
+2120 Shifting dunes along the shoreline with Ammophila arenaria (‘white dunes’)
+
+2130 * Fixed coastal dunes with herbaceous vegetation (‘grey dunes’)
+
+2140 * Decalcified fixed dunes with Empetrum nigrum
+
+2150 * Atlantic decalcified fixed dunes (Calluno-Ulicetea)
+
+2160 Dunes with Hippophaë rhamnoides
+
+2170 Dunes with Salix repens ssp. argentea (Salicion arenariae)
+
+2180 Wooded dunes of the Atlantic, Continental and Boreal region
+
+2190 Humid dune slacks
+
+21A0 Machairs (* in Ireland)
+
+**22\. Sea dunes of the Mediterranean coast**
+
+2210 Crucianellion maritimae fixed beach dunes
+
+2220 Dunes with Euphorbia terracina
+
+2230 Malcolmietalia dune grasslands
+
+2240 Brachypodietalia dune grasslands with annuals
+
+2250 * Coastal dunes with Juniperus spp.
+
+2260 Cisto-Lavenduletalia dune sclerophyllous scrubs
+
+2270 * Wooded dunes with Pinus pinea and/or Pinus pinaster
+
+**23\. Inland dunes, old and decalcified**
+
+2310 Dry sand heaths with Calluna and Genista
+
+2320 Dry sand heaths with Calluna and Empetrum nigrum
+
+2330 Inland dunes with open Corynephorus and Agrostis grasslands
+
+2340 * Pannonic inland dunes
+
+**3\. FRESHWATER HABITATS**
+
+**31\. Standing water**
+
+3110 Oligotrophic waters containing very few minerals of sandy plains (Littorelletalia uniflorae)
+
+3120 Oligotrophic waters containing very few minerals generally on sandy soils of the West Mediterranean, with Isoetes spp.
+
+3130 Oligotrophic to mesotrophic standing waters with vegetation of the Littorelletea uniflorae and/or of the Isoëto-Nanojuncetea
+
+3140 Hard oligo-mesotrophic waters with benthic vegetation of Chara spp.
+
+3150 Natural eutrophic lakes with Magnopotamion or Hydrocharition — type vegetation
+
+3160 Natural dystrophic lakes and ponds
+
+3170 * Mediterranean temporary ponds
+
+3180 * Turloughs
+
+3190 Lakes of gypsum karst
+
+31A0 * Transylvanian hot-spring lotus beds
+
+**32\. Running water — sections of water courses with natural or semi-natural dynamics (minor, average and major beds) where the water quality shows no significant deterioration**
+
+3210 Fennoscandian natural rivers
+
+3220 Alpine rivers and the herbaceous vegetation along their banks
+
+3230 Alpine rivers and their ligneous vegetation with Myricaria germanica
+
+3240 Alpine rivers and their ligneous vegetation with Salix elaeagnos
+
+3250 Constantly flowing Mediterranean rivers with Glaucium flavum
+
+3260 Water courses of plain to montane levels with the Ranunculion fluitantis and Callitricho-Batrachion vegetation
+
+3270 Rivers with muddy banks with Chenopodion rubri p.p. and Bidention p.p. vegetation
+
+3280 Constantly flowing Mediterranean rivers with Paspalo-Agrostidion species and hanging curtains of Salix and Populus alba
+
+3290 Intermittently flowing Mediterranean rivers of the Paspalo-Agrostidion
+
+32A0 Tufa cascades of karstic rivers in the Dinaric Alps
+
+**4\. TEMPERATE HEATH AND SCRUB**
+
+4010 Northern Atlantic wet heaths with Erica tetralix
+
+4020 * Temperate Atlantic wet heaths with Erica ciliaris and Erica tetralix
+
+4030 European dry heaths
+
+4040 * Dry Atlantic coastal heaths with Erica vagans
+
+4050 * Endemic macaronesian heaths
+
+4060 Alpine and Boreal heaths
+
+4070 * Bushes with Pinus mugo and Rhododendron hirsutum (Mugo-Rhododendretum hirsuti)
+
+4080 Sub-Arctic Salix spp. Scrub
+
+4090 Endemic oro-Mediterranean heaths with gorse
+
+40A0 * Subcontinental peri-Pannonic scrub
+
+40B0 Rhodope Potentilla fruticosa thickets
+
+40C0 * Ponto-Sarmatic deciduous thickets
+
+**5\. SCLEROPHYLLOUS SCRUB (MATORRAL)**
+
+**51\. Sub-Mediterranean and temperate scrub**
+
+5110 Stable xerothermophilous formations with Buxus sempervirens on rock slopes (Berberidion p.p.)
+
+5120 Mountain Cytisus purgans formations
+
+5130 Juniperus communis formations on heaths or calcareous grasslands
+
+5140 * Cistus palhinhae formations on maritime wet heaths
+
+**52\. Mediterranean arborescent matorral**
+
+5210 Arborescent matorral with Juniperus spp.
+
+5220 * Arborescent matorral with Zyziphus
+
+5230 * Arborescent matorral with Laurus nobilis
+
+**53\. Thermo-Mediterranean and pre-steppe brush**
+
+5310 Laurus nobilis thickets
+
+5320 Low formations of Euphorbia close to cliffs
+
+5330 Thermo-Mediterranean and pre-desert scrub
+
+**54\. Phrygana**
+
+5410 West Mediterranean clifftop phryganas (Astragalo-Plantaginetum subulatae)
+
+5420 Sarcopoterium spinosum phryganas
+
+5430 Endemic phryganas of the Euphorbio-Verbascion
+
+**6\. NATURAL AND SEMI-NATURAL GRASSLAND FORMATIONS**
+
+**61\. Natural grasslands**
+
+6110 * Rupicolous calcareous or basophilic grasslands of the Alysso-Sedion albi
+
+6120 * Xeric sand calcareous grasslands
+
+6130 Calaminarian grasslands of the Violetalia calaminariae
+
+6140 Siliceous Pyrenean Festuca eskia grasslands
+
+6150 Siliceous alpine and boreal grasslands
+
+6160 Oro-Iberian Festuca indigesta grasslands
+
+6170 Alpine and subalpine calcareous grasslands
+
+6180 Macaronesian mesophile grasslands
+
+6190 Rupicolous pannonic grasslands (Stipo-Festucetalia pallentis)
+
+**62\. Semi-natural dry grasslands and scrubland facies**
+
+6210 Semi-natural dry grasslands and scrubland facies on calcareous substrates (Festuco-Brometalia) (* important orchid sites)
+
+6220 * Pseudo-steppe with grasses and annuals of the Thero-Brachypodietea
+
+6230 * Species-rich Nardus grasslands, on silicious substrates in mountain areas (and submountain areas in Continental Europe)
+
+6240 * Sub-Pannonic steppic grasslands
+
+6250 * Pannonic loess steppic grasslands
+
+6260 * Pannonic sand steppes
+
+6270 * Fennoscandian lowland species-rich dry to mesic grasslands
+
+6280 * Nordic alvar and precambrian calcareous flatrocks
+
+62A0 Eastern sub-Mediterranean dry grasslands (Scorzoneratalia villosae)
+
+62B0 * Serpentinophilous grassland of Cyprus
+
+62C0 * Ponto-Sarmatic steppes
+
+62D0 Oro-Moesian acidophilous grasslands
+
+**63\. Sclerophillous grazed forests (dehesas)**
+
+6310 Dehesas with evergreen Quercus spp.
+
+**64\. Semi-natural tall-herb humid meadows**
+
+6410 Molinia meadows on calcareous, peaty or clayey-silt-laden soils (Molinion caeruleae)
+
+6420 Mediterranean tall humid grasslands of the Molinio-Holoschoenion
+
+6430 Hydrophilous tall herb fringe communities of plains and of the montane to alpine levels
+
+6440 Alluvial meadows of river valleys of the Cnidion dubii
+
+6450 Northern boreal alluvial meadows
+
+6460 Peat grasslands of Troodos
+
+**65\. Mesophile grasslands**
+
+6510 Lowland hay meadows (Alopecurus pratensis, Sanguisorba officinalis)
+
+6520 Mountain hay meadows
+
+6530 * Fennoscandian wooded meadows
+
+6540 Sub-Mediterranean grasslands of the Molinio-Hordeion secalini
+
+**7\. RAISED BOGS AND MIRES AND FENS**
+
+**71\. Sphagnum acid bogs**
+
+7110 * Active raised bogs
+
+7120 Degraded raised bogs still capable of natural regeneration
+
+7130 Blanket bogs (* if active bog)
+
+7140 Transition mires and quaking bogs
+
+7150 Depressions on peat substrates of the Rhynchosporion
+
+7160 Fennoscandian mineral-rich springs and springfens
+
+**72\. Calcareous fens**
+
+7210 * Calcareous fens with Cladium mariscus and species of the Caricion davallianae
+
+7220 * Petrifying springs with tufa formation (Cratoneurion)
+
+7230 Alkaline fens
+
+7240 * Alpine pioneer formations of the Caricion bicoloris-atrofuscae
+
+**73\. Boreal mires**
+
+7310 * Aapa mires
+
+7320 * Palsa mires
+
+**8\. ROCKY HABITATS AND CAVES**
+
+**81\. Scree**
+
+8110 Siliceous scree of the montane to snow levels (Androsacetalia alpinae and Galeopsietalia ladani)
+
+8120 Calcareous and calcshist screes of the montane to alpine levels (Thlaspietea rotundifolii)
+
+8130 Western Mediterranean and thermophilous scree
+
+8140 Eastern Mediterranean screes
+
+8150 Medio-European upland siliceous screes
+
+8160 * Medio-European calcareous scree of hill and montane levels
+
+**82\. Rocky slopes with chasmophytic vegetation**
+
+8210 Calcareous rocky slopes with chasmophytic vegetation
+
+8220 Siliceous rocky slopes with chasmophytic vegetation
+
+8230 Siliceous rock with pioneer vegetation of the Sedo-Scleranthion or of the Sedo albi-Veronicion dillenii
+
+8240 * Limestone pavements
+
+**83\. Other rocky habitats**
+
+8310 Caves not open to the public
+
+8320 Fields of lava and natural excavations
+
+8330 Submerged or partially submerged sea caves
+
+8340 Permanent glaciers
+
+**9\. FORESTS**
+
+(Sub)natural woodland vegetation comprising native species forming forests of tall trees, with typical undergrowth, and meeting the following criteria: rare or residual, and/or hosting species of Community interest
+
+**90\. Forests of Boreal Europe**
+
+9010 * Western Taïga
+
+9020 * Fennoscandian hemiboreal natural old broad-leaved deciduous forests (Quercus, Tilia, Acer, Fraxinus or Ulmus) rich in epiphytes
+
+9030 * Natural forests of primary succession stages of landupheaval coast
+
+9040 Nordic subalpine/subarctic forests with Betula pubescens ssp. czerepanovii
+
+9050 Fennoscandian herb-rich forests with Picea abies
+
+9060 Coniferous forests on, or connected to, glaciofluvial eskers
+
+9070 Fennoscandian wooded pastures
+
+9080 * Fennoscandian deciduous swamp woods
+
+**91\. Forests of Temperate Europe**
+
+9110 Luzulo-Fagetum beech forests
+
+9120 Atlantic acidophilous beech forests with Ilex and sometimes also Taxus in the shrublayer (Quercion robori-petraeae or Ilici-Fagenion)
+
+9130 Asperulo-Fagetum beech forests
+
+9140 Medio-European subalpine beech woods with Acer and Rumex arifolius
+
+9150 Medio-European limestone beech forests of the Cephalanthero-Fagion
+
+9160 Sub-Atlantic and medio-European oak or oak-hornbeam forests of the Carpinion betuli
+
+9170 Galio-Carpinetum oak-hornbeam forests
+
+9180 * Tilio-Acerion forests of slopes, screes and ravines
+
+9190 Old acidophilous oak woods with Quercus robur on sandy plains
+
+91A0 Old sessile oak woods with Ilex and Blechnum in the British Isles
+
+91B0 Thermophilous Fraxinus angustifolia woods
+
+91C0 * Caledonian forest
+
+91D0 * Bog woodland
+
+91E0 * Alluvial forests with Alnus glutinosa and Fraxinus excelsior (Alno-Padion, Alnion incanae, Salicion albae)
+
+91F0 Riparian mixed forests of Quercus robur, Ulmus laevis and Ulmus minor, Fraxinus excelsior or Fraxinus angustifolia, along the great rivers (Ulmenion minoris)
+
+91G0 * Pannonic woods with Quercus petraea and Carpinus betulus
+
+91H0 * Pannonian woods with Quercus pubescens
+
+91I0 * Euro-Siberian steppic woods with Quercus spp.
+
+91J0 * Taxus baccata woods of the British Isles
+
+91K0 Illyrian Fagus sylvatica forests (Aremonio-Fagion)
+
+91L0 Illyrian oak-hornbeam forests (Erythronio-Carpinion)
+
+91M0 Pannonian-Balkanic turkey oak — sessile oak forests
+
+91N0 * Pannonic inland sand dune thicket (Junipero-Populetum albae)
+
+91P0 Holy Cross fir forest (Abietetum polonicum)
+
+91Q0 Western Carpathian calcicolous Pinus sylvestris forests
+
+91R0 Dinaric dolomite Scots pine forests (Genisto januensis-Pinetum)
+
+91S0 * Western Pontic beech forests
+
+91T0 Central European lichen Scots pine forests
+
+91U0 Sarmatic steppe pine forest
+
+91V0 Dacian Beech forests (Symphyto-Fagion)
+
+91W0 Moesian beech forests
+
+91X0 * Dobrogean beech forests
+
+91Y0 Dacian oak & hornbeam forests
+
+91Z0 Moesian silver lime woods
+
+91AA * Eastern white oak woods
+
+91BA Moesian silver fir forests
+
+91CA Rhodopide and Balkan Range Scots pine forests
+
+**92\. Mediterranean deciduous forests**
+
+9210 * Apeninne beech forests with Taxus and Ilex
+
+9220 * Apennine beech forests with Abies alba and beech forests with Abies nebrodensis
+
+9230 Galicio-Portuguese oak woods with Quercus robur and Quercus pyrenaica
+
+9240 Quercus faginea and Quercus canariensis Iberian woods
+
+9250 Quercus trojana woods
+
+9260 Castanea sativa woods
+
+9270 Hellenic beech forests with Abies borisii-regis
+
+9280 Quercus frainetto woods
+
+9290 Cupressus forests (Acero-Cupression)
+
+92A0 Salix alba and Populus alba galleries
+
+92B0 Riparian formations on intermittent Mediterranean water courses with Rhododendron ponticum, Salix and others
+
+92C0 Platanus orientalis and Liquidambar orientalis woods (Platanion orientalis)
+
+92D0 Southern riparian galleries and thickets (Nerio-Tamaricetea and Securinegion tinctoriae)
+
+**93\. Mediterranean sclerophyllous forests**
+
+9310 Aegean Quercus brachyphylla woods
+
+9320 Olea and Ceratonia forests
+
+9330 Quercus suber forests
+
+9340 Quercus ilex and Quercus rotundifolia forests
+
+9350 Quercus macrolepis forests
+
+9360 * Macaronesian laurel forests (Laurus, Ocotea)
+
+9370 * Palm groves of Phoenix
+
+9380 Forests of Ilex aquifolium
+
+9390 * Scrub and low forest vegetation with Quercus alnifolia
+
+93A0 Woodlands with Quercus infectoria (Anagyro foetidae-Quercetum infectoriae)
+
+**94\. Temperate mountainous coniferous forests**
+
+9410 Acidophilous Picea forests of the montane to alpine levels (Vaccinio-Piceetea)
+
+9420 Alpine Larix decidua and/or Pinus cembra forests
+
+9430 Subalpine and montane Pinus uncinata forests (* if on gypsum or limestone)
+
+**95\. Mediterranean and Macaronesian mountainous coniferous forests**
+
+9510 * Southern Apennine Abies alba forests
+
+9520 Abies pinsapo forests
+
+9530 * (Sub-) Mediterranean pine forests with endemic black pines
+
+9540 Mediterranean pine forests with endemic Mesogean pines
+
+9550 Canarian endemic pine forests
+
+9560 * Endemic forests with Juniperus spp.
+
+9570 * Tetraclinis articulata forests
+
+9580 * Mediterranean Taxus baccata woods
+
+9590 * Cedrus brevifolia forests (Cedrosetum brevifoliae)
+
+95A0 High oro-Mediterranean pine forests
+
+## ANNEX II
+
+**ANIMAL AND PLANT SPECIES OF COMMUNITY INTEREST WHOSE CONSERVATION REQUIRES THE DESIGNATION OF SPECIAL AREAS OF CONSERVATION**
+
+**Interpretation**
+
+(a) Annex II follows on from Annex I for the establishment of a consistent network of special areas of conservation.
+
+(b) The species listed in this Annex are indicated:
+
+— by the name of the species or subspecies, or
+
+— by all the species belonging to a higher taxon or to a designated part of that taxon.
+
+The abbreviation ‘spp.’ after the name of a family or genus designates all the species belonging to that family or genus.
+
+(c) Symbols
+
+An asterisk (*) before the name of a species indicates that it is a priority species.
+
+Most species listed in this Annex are also listed in Annex IV. Where a species appears in this Annex but does not appear in either Annex IV or Annex V, the species name is followed by the symbol (o); where a species which appears in this Annex also appears in Annex V but does not appear in Annex IV, its name is followed by the symbol (V).
+
+**(a) ANIMALS**
+
+**VERTEBRATES**
+
+MAMMALS
+
+INSECTIVORA
+
+Talpidae
+
+Galemys pyrenaicus
+
+CHIROPTERA
+
+Rhinolophidae
+
+Rhinolophus blasii
+
+Rhinolophus euryale
+
+Rhinolophus ferrumequinum
+
+Rhinolophus hipposideros
+
+Rhinolophus mehelyi
+
+Vespertilionidae
+
+Barbastella barbastellus
+
+Miniopterus schreibersii
+
+Myotis bechsteinii
+
+Myotis blythii
+
+Myotis capaccinii
+
+Myotis dasycneme
+
+Myotis emarginatus
+
+Myotis myotis
+
+Pteropodidae
+
+Rousettus aegyptiacus
+
+RODENTIA
+
+Gliridae
+
+Myomimus roachi
+
+Sciuridae
+
+* Marmota marmota latirostris
+
+* Pteromys volans (Sciuropterus russicus)
+
+Spermophilus citellus (Citellus citellus)
+
+* Spermophilus suslicus (Citellus suslicus)
+
+Castoridae
+
+Castor fiber (except the Estonian, Latvian, Lithuanian, Finnish and Swedish populations)
+
+Cricetidae
+
+Mesocricetus newtoni
+
+Microtidae
+
+Dinaromys bogdanovi
+
+Microtus cabrerae
+
+* Microtus oeconomus arenicola
+
+* Microtus oeconomus mehelyi
+
+Microtus tatricus
+
+Zapodidae
+
+Sicista subtilis
+
+CARNIVORA
+
+Canidae
+
+* Alopex lagopus
+
+* Canis lupus (except the Estonian population; Greek populations: only south of the 39th parallel; Spanish populations: only those south of the Duero; Latvian, Lithuanian and Finnish populations).
+
+Ursidae
+
+* Ursus arctos (except the Estonian, Finnish and Swedish populations)
+
+Mustelidae
+
+* Gulo gulo
+
+Lutra lutra
+
+Mustela eversmanii
+
+* Mustela lutreola
+
+Vormela peregusna
+
+Felidae
+
+Lynx lynx (except the Estonian, Latvian and Finnish populations)
+
+* Lynx pardinus
+
+Phocidae
+
+Halichoerus grypus (V)
+
+* Monachus monachus
+
+Phoca hispida bottnica (V)
+
+* Phoca hispida saimensis
+
+Phoca vitulina (V)
+
+ARTIODACTYLA
+
+Cervidae
+
+* Cervus elaphus corsicanus
+
+Rangifer tarandus fennicus (o)
+
+Bovidae
+
+* Bison bonasus
+
+Capra aegagrus (natural populations)
+
+* Capra pyrenaica pyrenaica
+
+Ovis gmelini musimon (Ovis ammon musimon) (natural populations — Corsica and Sardinia)
+
+Ovis orientalis ophion (Ovis gmelini ophion)
+
+* Rupicapra pyrenaica ornata (Rupicapra rupicapra ornata)
+
+Rupicapra rupicapra balcanica
+
+* Rupicapra rupicapra tatrica
+
+CETACEA
+
+Phocoena phocoena
+
+Tursiops truncatus
+
+REPTILES
+
+CHELONIA (TESTUDINES)
+
+Testudinidae
+
+Testudo graeca
+
+Testudo hermanni
+
+Testudo marginata
+
+Cheloniidae
+
+* Caretta caretta
+
+* Chelonia mydas
+
+Emydidae
+
+Emys orbicularis
+
+Mauremys caspica
+
+Mauremys leprosa
+
+SAURIA
+
+Lacertidae
+
+Dinarolacerta mosorensis
+
+Lacerta bonnali (Lacerta monticola)
+
+Lacerta monticola
+
+Lacerta schreiberi
+
+Gallotia galloti insulanagae
+
+* Gallotia simonyi
+
+Podarcis lilfordi
+
+Podarcis pityusensis
+
+Scincidae
+
+Chalcides simonyi (Chalcides occidentalis)
+
+Gekkonidae
+
+Phyllodactylus europaeus
+
+OPHIDIA (SERPENTES)
+
+Colubridae
+
+* Coluber cypriensis
+
+Elaphe quatuorlineata
+
+Elaphe situla
+
+* Natrix natrix cypriaca
+
+Viperidae
+
+* Macrovipera schweizeri (Vipera lebetina schweizeri)
+
+Vipera ursinii (except Vipera ursinii rakosiensis and Vipera ursinii macrops)
+
+* Vipera ursinii macrops
+
+* Vipera ursinii rakosiensis
+
+AMPHIBIANS
+
+CAUDATA
+
+Salamandridae
+
+Chioglossa lusitanica
+
+Mertensiella luschani (Salamandra luschani)
+
+* Salamandra aurorae (Salamandra atra aurorae)
+
+Salamandrina terdigitata
+
+Triturus carnifex (Triturus cristatus carnifex)
+
+Triturus cristatus (Triturus cristatus cristatus)
+
+Triturus dobrogicus (Triturus cristatus dobrogicus)
+
+Triturus karelinii (Triturus cristatus karelinii)
+
+Triturus montandoni
+
+Triturus vulgaris ampelensis
+
+Proteidae
+
+* Proteus anguinus
+
+Plethodontidae
+
+Hydromantes (Speleomantes) ambrosii
+
+Hydromantes (Speleomantes) flavus
+
+Hydromantes (Speleomantes) genei
+
+Hydromantes (Speleomantes) imperialis
+
+Hydromantes (Speleomantes) strinatii
+
+Hydromantes (Speleomantes) supramontis
+
+ANURA
+
+Discoglossidae
+
+* Alytes muletensis
+
+Bombina bombina
+
+Bombina variegata
+
+Discoglossus galganoi (including Discoglossus ‘jeanneae’ )
+
+Discoglossus montalentii
+
+Discoglossus sardus
+
+Ranidae
+
+Rana latastei
+
+Pelobatidae
+
+* Pelobates fuscus insubricus
+
+FISH
+
+PETROMYZONIFORMES
+
+Petromyzonidae
+
+Eudontomyzon spp. (o)
+
+Lampetra fluviatilis (V) (except the Finnish and Swedish populations)
+
+Lampetra planeri (o) (except the Estonian, Finnish, and Swedish populations)
+
+Lethenteron zanandreai (V)
+
+Petromyzon marinus (o) (except the Swedish populations)
+
+ACIPENSERIFORMES
+
+Acipenseridae
+
+* Acipenser naccarii
+
+* Acipenser sturio
+
+CLUPEIFORMES
+
+Clupeidae
+
+Alosa spp. (V)
+
+SALMONIFORMES
+
+Salmonidae
+
+Hucho hucho (natural populations) (V)
+
+Salmo macrostigma (o)
+
+Salmo marmoratus (o)
+
+Salmo salar (only in fresh water) (V) (except the Finnish populations)
+
+Salmothymus obtusirostris (o)
+
+Coregonidae
+
+* Coregonus oxyrhynchus (anadromous populations in certain sectors of the North Sea)
+
+Umbridae
+
+Umbra krameri (o)
+
+CYPRINIFORMES
+
+Cyprinidae
+
+Alburnus albidus (o) (Alburnus vulturius)
+
+Aulopyge huegelii (o)
+
+Anaecypris hispanica
+
+Aspius aspius (V) (except the Finnish populations)
+
+Barbus comiza (V)
+
+Barbus meridionalis (V)
+
+Barbus plebejus (V)
+
+Chalcalburnus chalcoides (o)
+
+Chondrostoma genei (o)
+
+Chondrostoma knerii (o)
+
+Chondrostoma lusitanicum (o)
+
+Chondrostoma phoxinus (o)
+
+Chondrostoma polylepis (o) (including C. willkommi)
+
+Chondrostoma soetta (o)
+
+Chondrostoma toxostoma (o)
+
+Gobio albipinnatus (o)
+
+Gobio kessleri (o)
+
+Gobio uranoscopus (o)
+
+Iberocypris palaciosi (o)
+
+* Ladigesocypris ghigii (o)
+
+Leuciscus lucumonis (o)
+
+Leuciscus souffia (o)
+
+Pelecus cultratus (V)
+
+Phoxinellus spp. (o)
+
+* Phoxinus percnurus
+
+Rhodeus sericeus amarus (o)
+
+Rutilus pigus (V)
+
+Rutilus rubilio (o)
+
+Rutilus arcasii (o)
+
+Rutilus macrolepidotus (o)
+
+Rutilus lemmingii (o)
+
+Rutilus frisii meidingeri (V)
+
+Rutilus alburnoides (o)
+
+Scardinius graecus (o)
+
+Squalius microlepis (o)
+
+Squalius svallize (o)
+
+Cobitidae
+
+Cobitis elongata (o)
+
+Cobitis taenia (o) (except the Finnish populations)
+
+Cobitis trichonica (o)
+
+Misgurnus fossilis (o)
+
+Sabanejewia aurata (o)
+
+Sabanejewia larvata (o) (Cobitis larvata and Cobitis conspersa)
+
+SILURIFORMES
+
+Siluridae
+
+Silurus aristotelis (V)
+
+ATHERINIFORMES
+
+Cyprinodontidae
+
+Aphanius iberus (o)
+
+Aphanius fasciatus (o)
+
+* Valencia hispanica
+
+* Valencia letourneuxi (Valencia hispanica)
+
+PERCIFORMES
+
+Percidae
+
+Gymnocephalus baloni
+
+Gymnocephalus schraetzer (V)
+
+* Romanichthys valsanicola
+
+Zingel spp. ((o) except Zingel asper and Zingel zingel (V))
+
+Gobiidae
+
+Knipowitschia croatica (o)
+
+Knipowitschia (Padogobius) panizzae (o)
+
+Padogobius nigricans (o)
+
+Pomatoschistus canestrini (o)
+
+SCORPAENIFORMES
+
+Cottidae
+
+Cottus gobio (o) (except the Finnish populations)
+
+Cottus petiti (o)
+
+**INVERTEBRATES**
+
+ARTHROPODS
+
+CRUSTACEA
+
+Decapoda
+
+Austropotamobius pallipes (V)
+
+* Austropotamobius torrentium (V)
+
+Isopoda
+
+* Armadillidium ghardalamensis
+
+INSECTA
+
+Coleoptera
+
+Agathidium pulchellum (o)
+
+Bolbelasmus unicornis
+
+Boros schneideri (o)
+
+Buprestis splendens
+
+Carabus hampei
+
+Carabus hungaricus
+
+* Carabus menetriesi pacholei
+
+* Carabus olympiae
+
+Carabus variolosus
+
+Carabus zawadszkii
+
+Cerambyx cerdo
+
+Corticaria planula (o)
+
+Cucujus cinnaberinus
+
+Dorcadion fulvum cervae
+
+Duvalius gebhardti
+
+Duvalius hungaricus
+
+Dytiscus latissimus
+
+Graphoderus bilineatus
+
+Leptodirus hochenwarti
+
+Limoniscus violaceus (o)
+
+Lucanus cervus (o)
+
+Macroplea pubipennis (o)
+
+Mesosa myops (o)
+
+Morimus funereus (o)
+
+* Osmoderma eremita
+
+Oxyporus mannerheimii (o)
+
+Pilemia tigrina
+
+* Phryganophilus ruficollis
+
+Probaticus subrugosus
+
+Propomacrus cypriacus
+
+* Pseudogaurotina excellens
+
+Pseudoseriscius cameroni
+
+Pytho kolwensis
+
+Rhysodes sulcatus (o)
+
+* Rosalia alpina
+
+Stephanopachys linearis (o)
+
+Stephanopachys substriatus (o)
+
+Xyletinus tremulicola (o)
+
+Hemiptera
+
+Aradus angularis (o)
+
+Lepidoptera
+
+Agriades glandon aquilo (o)
+
+Arytrura musculus
+
+* Callimorpha (Euplagia, Panaxia) quadripunctaria (o)
+
+Catopta thrips
+
+Chondrosoma fiduciarium
+
+Clossiana improba (o)
+
+Coenonympha oedippus
+
+Colias myrmidone
+
+Cucullia mixta
+
+Dioszeghyana schmidtii
+
+Erannis ankeraria
+
+Erebia calcaria
+
+Erebia christi
+
+Erebia medusa polaris (o)
+
+Eriogaster catax
+
+Euphydryas (Eurodryas, Hypodryas) aurinia (o)
+
+Glyphipterix loricatella
+
+Gortyna borelii lunata
+
+Graellsia isabellae (V)
+
+Hesperia comma catena (o)
+
+Hypodryas maturna
+
+Leptidea morsei
+
+Lignyoptera fumidaria
+
+Lycaena dispar
+
+Lycaena helle
+
+Maculinea nausithous
+
+Maculinea teleius
+
+Melanargia arge
+
+* Nymphalis vaualbum
+
+Papilio hospiton
+
+Phyllometra culminaria
+
+Plebicula golgus
+
+Polymixis rufocincta isolata
+
+Polyommatus eroides
+
+Proterebia afra dalmata
+
+Pseudophilotes bavius
+
+Xestia borealis (o)
+
+Xestia brunneopicta (o)
+
+* Xylomoia strix
+
+Mantodea
+
+Apteromantis aptera
+
+Odonata
+
+Coenagrion hylas (o)
+
+Coenagrion mercuriale (o)
+
+Coenagrion ornatum (o)
+
+Cordulegaster heros
+
+Cordulegaster trinacriae
+
+Gomphus graslinii
+
+Leucorrhinia pectoralis
+
+Lindenia tetraphylla
+
+Macromia splendens
+
+Ophiogomphus cecilia
+
+Oxygastra curtisii
+
+Orthoptera
+
+Baetica ustulata
+
+Brachytrupes megacephalus
+
+Isophya costata
+
+Isophya harzi
+
+Isophya stysi
+
+Myrmecophilus baronii
+
+Odontopodisma rubripes
+
+Paracaloptenus caloptenoides
+
+Pholidoptera transsylvanica
+
+Stenobothrus (Stenobothrodes) eurasius
+
+ARACHNIDA
+
+Pseudoscorpiones
+
+Anthrenochernes stellae (o)
+
+MOLLUSCS
+
+GASTROPODA
+
+Anisus vorticulus
+
+Caseolus calculus
+
+Caseolus commixta
+
+Caseolus sphaerula
+
+Chilostoma banaticum
+
+Discula leacockiana
+
+Discula tabellata
+
+Discus guerinianus
+
+Elona quimperiana
+
+Geomalacus maculosus
+
+Geomitra moniziana
+
+Gibbula nivosa
+
+* Helicopsis striata austriaca (o)
+
+Hygromia kovacsi
+
+Idiomela (Helix) subplicata
+
+Lampedusa imitatrix
+
+* Lampedusa melitensis
+
+Leiostyla abbreviata
+
+Leiostyla cassida
+
+Leiostyla corneocostata
+
+Leiostyla gibba
+
+Leiostyla lamellosa
+
+* Paladilhia hungarica
+
+Sadleriana pannonica
+
+Theodoxus transversalis
+
+Vertigo angustior (o)
+
+Vertigo genesii (o)
+
+Vertigo geyeri (o)
+
+Vertigo moulinsiana (o)
+
+BIVALVIA
+
+Unionoida
+
+Margaritifera durrovensis (Margaritifera margaritifera) (V)
+
+Margaritifera margaritifera (V)
+
+Unio crassus
+
+Dreissenidae
+
+Congeria kusceri
+
+**(b) PLANTS**
+
+**PTERIDOPHYTA**
+
+ASPLENIACEAE
+
+Asplenium jahandiezii (Litard.) Rouy
+
+Asplenium adulterinum Milde
+
+BLECHNACEAE
+
+Woodwardia radicans (L.) Sm.
+
+DICKSONIACEAE
+
+Culcita macrocarpa C. Presl
+
+DRYOPTERIDACEAE
+
+Diplazium sibiricum (Turcz. ex Kunze) Kurata
+
+* Dryopteris corleyi Fraser-Jenk.
+
+Dryopteris fragans (L.) Schott
+
+HYMENOPHYLLACEAE
+
+Trichomanes speciosum Willd.
+
+ISOETACEAE
+
+Isoetes boryana Durieu
+
+Isoetes malinverniana Ces. & De Not.
+
+MARSILEACEAE
+
+Marsilea batardae Launert
+
+Marsilea quadrifolia L.
+
+Marsilea strigosa Willd.
+
+OPHIOGLOSSACEAE
+
+Botrychium simplex Hitchc.
+
+Ophioglossum polyphyllum A. Braun
+
+**GYMNOSPERMAE**
+
+PINACEAE
+
+* Abies nebrodensis (Lojac.) Mattei
+
+**ANGIOSPERMAE**
+
+ALISMATACEAE
+
+* Alisma wahlenbergii (Holmberg) Juz.
+
+Caldesia parnassifolia (L.) Parl.
+
+Luronium natans (L.) Raf.
+
+AMARYLLIDACEAE
+
+Leucojum nicaeense Ard.
+
+Narcissus asturiensis (Jordan) Pugsley
+
+Narcissus calcicola Mendonça
+
+Narcissus cyclamineus DC.
+
+Narcissus fernandesii G. Pedro
+
+Narcissus humilis (Cav.) Traub
+
+* Narcissus nevadensis Pugsley
+
+Narcissus pseudonarcissus L. subsp. nobilis (Haw.) A. Fernandes
+
+Narcissus scaberulus Henriq.
+
+Narcissus triandrus L. subsp. capax (Salisb.) D. A. Webb.
+
+Narcissus viridiflorus Schousboe
+
+ASCLEPIADACEAE
+
+Vincetoxicum pannonicum (Borhidi) Holub
+
+BORAGINACEAE
+
+* Anchusa crispa Viv.
+
+Echium russicum J.F.Gemlin
+
+* Lithodora nitida (H. Ern) R. Fernandes
+
+Myosotis lusitanica Schuster
+
+Myosotis rehsteineri Wartm.
+
+Myosotis retusifolia R. Afonso
+
+Omphalodes kuzinskyanae Willk.
+
+* Omphalodes littoralis Lehm.
+
+* Onosma tornensis Javorka
+
+Solenanthus albanicus (Degen & al.) Degen & Baldacci
+
+* Symphytum cycladense Pawl.
+
+CAMPANULACEAE
+
+Adenophora lilifolia (L.) Ledeb.
+
+Asyneuma giganteum (Boiss.) Bornm.
+
+* Campanula bohemica Hruby
+
+* Campanula gelida Kovanda
+
+Campanula romanica Săvul.
+
+* Campanula sabatia De Not.
+
+* Campanula serrata (Kit.) Hendrych
+
+Campanula zoysii Wulfen
+
+Jasione crispa (Pourret) Samp. subsp. serpentinica Pinto da Silva
+
+Jasione lusitanica A. DC.
+
+CARYOPHYLLACEAE
+
+Arenaria ciliata L. subsp. pseudofrigida Ostenf. & O.C. Dahl
+
+Arenaria humifusa Wahlenberg
+
+* Arenaria nevadensis Boiss. & Reuter
+
+Arenaria provincialis Chater & Halliday
+
+* Cerastium alsinifolium Tausch Cerastium dinaricum G. Beck & Szysz.
+
+Dianthus arenarius L. subsp. arenarius
+
+* Dianthus arenarius subsp. bohemicus (Novak) O. Schwarz
+
+Dianthus cintranus Boiss. & Reuter subsp. cintranus Boiss. & Reuter
+
+* Dianthus diutinus Kit.
+
+* Dianthus lumnitzeri Wiesb.
+
+Dianthus marizii (Samp.) Samp.
+
+* Dianthus moravicus Kovanda
+
+* Dianthus nitidus Waldst. et Kit.
+
+Dianthus plumarius subsp. regis-stephani (Rapcs.) Baksay
+
+Dianthus rupicola Biv.
+
+* Gypsophila papillosa P. Porta
+
+Herniaria algarvica Chaudhri
+
+* Herniaria latifolia Lapeyr. subsp. litardierei Gamis
+
+Herniaria lusitanica (Chaudhri) subsp. berlengiana Chaudhri
+
+Herniaria maritima Link
+
+* Minuartia smejkalii Dvorakova
+
+Moehringia jankae Griseb. ex Janka
+
+Moehringia lateriflora (L.) Fenzl.
+
+Moehringia tommasinii Marches.
+
+Moehringia villosa (Wulfen) Fenzl
+
+Petrocoptis grandiflora Rothm.
+
+Petrocoptis montsicciana O. Bolos & Rivas Mart.
+
+Petrocoptis pseudoviscosa Fernández Casas
+
+Silene furcata Rafin. subsp. angustiflora (Rupr.) Walters
+
+* Silene hicesiae Brullo & Signorello
+
+Silene hifacensis Rouy ex Willk.
+
+* Silene holzmanii Heldr. ex Boiss.
+
+Silene longicilia (Brot.) Otth.
+
+Silene mariana Pau
+
+* Silene orphanidis Boiss
+
+* Silene rothmaleri Pinto da Silva
+
+* Silene velutina Pourret ex Loisel.
+
+CHENOPODIACEAE
+
+* Bassia (Kochia) saxicola (Guss.) A. J. Scott
+
+* Cremnophyton lanfrancoi Brullo et Pavone
+
+* Salicornia veneta Pignatti & Lausi
+
+CISTACEAE
+
+Cistus palhinhae Ingram
+
+Halimium verticillatum (Brot.) Sennen
+
+Helianthemum alypoides Losa & Rivas Goday
+
+Helianthemum caput-felis Boiss.
+
+* Tuberaria major (Willk.) Pinto da Silva & Rozeira
+
+COMPOSITAE
+
+* Anthemis glaberrima (Rech. f.) Greuter
+
+Artemisia campestris L. subsp. bottnica A.N. Lundström ex Kindb.
+
+* Artemisia granatensis Boiss.
+
+* Artemisia laciniata Willd.
+
+Artemisia oelandica (Besser) Komaror
+
+* Artemisia pancicii (Janka) Ronn.
+
+* Aster pyrenaeus Desf. ex DC
+
+* Aster sorrentinii (Tod) Lojac.
+
+Carlina onopordifolia Besser
+
+* Carduus myriacanthus Salzm. ex DC.
+
+* Centaurea alba L. subsp. heldreichii (Halacsy) Dostal
+
+* Centaurea alba L. subsp. princeps (Boiss. & Heldr.) Gugler
+
+* Centaurea akamantis T. Georgiadis & G. Chatzikyriakou
+
+* Centaurea attica Nyman subsp. megarensis (Halacsy & Hayek) Dostal
+
+* Centaurea balearica J.D. Rodriguez
+
+* Centaurea borjae Valdes-Berm. & Rivas Goday
+
+* Centaurea citricolor Font Quer
+
+Centaurea corymbosa Pourret
+
+Centaurea gadorensis G. Blanca
+
+* Centaurea horrida Badaro
+
+Centaurea immanuelis-loewii Degen
+
+Centaurea jankae Brandza
+
+* Centaurea kalambakensis Freyn & Sint.
+
+Centaurea kartschiana Scop.
+
+* Centaurea lactiflora Halacsy
+
+Centaurea micrantha Hoffmanns. & Link subsp. herminii (Rouy) Dostál
+
+* Centaurea niederi Heldr.
+
+* Centaurea peucedanifolia Boiss. & Orph.
+
+* Centaurea pinnata Pau
+
+Centaurea pontica Prodan & E.I. Nyárády
+
+Centaurea pulvinata (G. Blanca) G. Blanca
+
+Centaurea rothmalerana (Arènes) Dostál
+
+Centaurea vicentina Mariz
+
+Cirsium brachycephalum Juratzka
+
+* Crepis crocifolia Boiss. & Heldr.
+
+Crepis granatensis (Willk.) B. Blanca & M. Cueto
+
+Crepis pusilla (Sommier) Merxmüller
+
+Crepis tectorum L. subsp. nigrescens
+
+Erigeron frigidus Boiss. ex DC.
+
+* Helichrysum melitense (Pignatti) Brullo et al
+
+Hymenostemma pseudanthemis (Kunze) Willd.
+
+Hyoseris frutescens Brullo et Pavone
+
+* Jurinea cyanoides (L.) Reichenb.
+
+* Jurinea fontqueri Cuatrec.
+
+* Lamyropsis microcephala (Moris) Dittrich & Greuter
+
+Leontodon microcephalus (Boiss. ex DC.) Boiss.
+
+Leontodon boryi Boiss.
+
+* Leontodon siculus (Guss.) Finch & Sell
+
+Leuzea longifolia Hoffmanns. & Link
+
+Ligularia sibirica (L.) Cass.
+
+* Palaeocyanus crassifolius (Bertoloni) Dostal
+
+Santolina impressa Hoffmanns. & Link
+
+Santolina semidentata Hoffmanns. & Link
+
+Saussurea alpina subsp. esthonica (Baer ex Rupr) Kupffer
+
+* Senecio elodes Boiss. ex DC.
+
+Senecio jacobea L. subsp. gotlandicus (Neuman) Sterner
+
+Senecio nevadensis Boiss. & Reuter
+
+* Serratula lycopifolia (Vill.) A. Kern
+
+Tephroseris longifolia (Jacq.) Griseb et Schenk subsp. moravica
+
+CONVOLVULACEAE
+
+* Convolvulus argyrothamnus Greuter
+
+* Convolvulus fernandesii Pinto da Silva & Teles
+
+CRUCIFERAE
+
+Alyssum pyrenaicum Lapeyr.
+
+* Arabis kennedyae Meikle
+
+Arabis sadina (Samp.) P. Cout.
+
+Arabis scopoliana Boiss
+
+* Biscutella neustriaca Bonnet
+
+Biscutella vincentina (Samp.) Rothm.
+
+Boleum asperum (Pers.) Desvaux
+
+Brassica glabrescens Poldini
+
+Brassica hilarionis Post
+
+Brassica insularis Moris
+
+* Brassica macrocarpa Guss.
+
+Braya linearis Rouy
+
+* Cochlearia polonica E. Fröhlich
+
+* Cochlearia tatrae Borbas
+
+* Coincya rupestris Rouy
+
+* Coronopus navasii Pau
+
+Crambe tataria Sebeok
+
+* Degenia velebitica (Degen) Hayek
+
+Diplotaxis ibicensis (Pau) Gómez-Campo
+
+* Diplotaxis siettiana Maire
+
+Diplotaxis vicentina (P. Cout.) Rothm.
+
+Draba cacuminum Elis Ekman
+
+Draba cinerea Adams
+
+Draba dorneri Heuffel.
+
+Erucastrum palustre (Pirona) Vis.
+
+* Erysimum pieninicum (Zapal.) Pawl.
+
+* Iberis arbuscula Runemark
+
+Iberis procumbens Lange subsp. microcarpa Franco & Pinto da Silva
+
+* Jonopsidium acaule (Desf.) Reichenb.
+
+Jonopsidium savianum (Caruel) Ball ex Arcang.
+
+Rhynchosinapis erucastrum (L.) Dandy ex Clapham subsp. cintrana (Coutinho) Franco & P. Silva (Coincya cintrana (P. Cout.) Pinto da Silva)
+
+Sisymbrium cavanillesianum Valdés & Castroviejo
+
+Sisymbrium supinum L.
+
+Thlaspi jankae A. Kern.
+
+CYPERACEAE
+
+Carex holostoma Drejer
+
+* Carex panormitana Guss.
+
+Eleocharis carniolica Koch
+
+DIOSCOREACEAE
+
+* Borderea chouardii (Gaussen) Heslot
+
+DROSERACEAE
+
+Aldrovanda vesiculosa L.
+
+ELATINACEAE
+
+Elatine gussonei (Sommier) Brullo et al
+
+ERICACEAE
+
+Rhododendron luteum Sweet
+
+EUPHORBIACEAE
+
+* Euphorbia margalidiana Kuhbier & Lewejohann
+
+Euphorbia transtagana Boiss.
+
+GENTIANACEAE
+
+* Centaurium rigualii Esteve
+
+* Centaurium somedanum Lainz
+
+Gentiana ligustica R. de Vilm. & Chopinet
+
+Gentianella anglica (Pugsley) E.F. Warburg
+
+* Gentianella bohemica Skalicky
+
+GERANIACEAE
+
+* Erodium astragaloides Boiss. & Reuter
+
+Erodium paularense Fernández-González & Izco
+
+* Erodium rupicola Boiss.
+
+GLOBULARIACEAE
+
+* Globularia stygia Orph. ex Boiss.
+
+GRAMINEAE
+
+Arctagrostis latifolia (R. Br.) Griseb.
+
+Arctophila fulva (Trin.) N.J. Anderson
+
+Avenula hackelii (Henriq.) Holub
+
+Bromus grossus Desf. ex DC.
+
+Calamagrostis chalybaea (Laest.) Fries
+
+Cinna latifolia (Trev.) Griseb.
+
+Coleanthus subtilis (Tratt.) Seidl
+
+Festuca brigantina (Markgr.-Dannenb.) Markgr.-Dannenb.
+
+Festuca duriotagana Franco & R. Afonso
+
+Festuca elegans Boiss.
+
+Festuca henriquesii Hack.
+
+Festuca summilusitana Franco & R. Afonso
+
+Gaudinia hispanica Stace & Tutin
+
+Holcus setiglumis Boiss. & Reuter subsp. duriensis Pinto da Silva
+
+Micropyropsis tuberosa Romero - Zarco & Cabezudo
+
+Poa granitica Br.-Bl. subsp. disparilis (E. I. Nyárády) E. I. Nyárády
+
+* Poa riphaea (Ascher et Graebner) Fritsch
+
+Pseudarrhenatherum pallens (Link) J. Holub
+
+Puccinellia phryganodes (Trin.) Scribner + Merr.
+
+Puccinellia pungens (Pau) Paunero
+
+* Stipa austroitalica Martinovsky
+
+* Stipa bavarica Martinovsky & H. Scholz
+
+Stipa danubialis Dihoru & Roman
+
+* Stipa styriaca Martinovsky
+
+* Stipa veneta Moraldo
+
+* Stipa zalesskii Wilensky
+
+Trisetum subalpestre (Hartman) Neuman
+
+GROSSULARIACEAE
+
+* Ribes sardoum Martelli
+
+HIPPURIDACEAE
+
+Hippuris tetraphylla L. Fil.
+
+HYPERICACEAE
+
+* Hypericum aciferum (Greuter) N.K.B. Robson
+
+IRIDACEAE
+
+Crocus cyprius Boiss. et Kotschy
+
+Crocus hartmannianus Holmboe
+
+Gladiolus palustris Gaud.
+
+Iris aphylla L. subsp. hungarica Hegi
+
+Iris humilis Georgi subsp. arenaria (Waldst. et Kit.) A. et D.Löve
+
+JUNCACEAE
+
+Juncus valvatus Link
+
+Luzula arctica Blytt
+
+LABIATAE
+
+Dracocephalum austriacum L.
+
+* Micromeria taygetea P.H. Davis
+
+Nepeta dirphya (Boiss.) Heldr. ex Halacsy
+
+* Nepeta sphaciotica P.H. Davis
+
+Origanum dictamnus L.
+
+Phlomis brevibracteata Turril
+
+Phlomis cypria Post
+
+Salvia veneris Hedge
+
+Sideritis cypria Post
+
+Sideritis incana subsp. glauca (Cav.) Malagarriga
+
+Sideritis javalambrensis Pau
+
+Sideritis serrata Cav. ex Lag.
+
+Teucrium lepicephalum Pau
+
+Teucrium turredanum Losa & Rivas Goday
+
+* Thymus camphoratus Hoffmanns. & Link
+
+Thymus carnosus Boiss.
+
+* Thymus lotocephalus G. López & R. Morales (Thymus cephalotos L.)
+
+LEGUMINOSAE
+
+Anthyllis hystrix Cardona, Contandr. & E. Sierra
+
+* Astragalus algarbiensis Coss. ex Bunge
+
+* Astragalus aquilanus Anzalone
+
+Astragalus centralpinus Braun-Blanquet
+
+* Astragalus macrocarpus DC. subsp. lefkarensis
+
+* Astragalus maritimus Moris
+
+Astragalus peterfii Jáv.
+
+Astragalus tremolsianus Pau
+
+* Astragalus verrucosus Moris
+
+* Cytisus aeolicus Guss. ex Lindl.
+
+Genista dorycnifolia Font Quer
+
+Genista holopetala (Fleischm. ex Koch) Baldacci
+
+Melilotus segetalis (Brot.) Ser. subsp. fallax Franco
+
+* Ononis hackelii Lange
+
+Trifolium saxatile All.
+
+* Vicia bifoliolata J.D. Rodríguez
+
+LENTIBULARIACEAE
+
+* Pinguicula crystallina Sm.
+
+Pinguicula nevadensis (Lindb.) Casper
+
+LILIACEAE
+
+Allium grosii Font Quer
+
+* Androcymbium rechingeri Greuter
+
+* Asphodelus bento-rainhae P. Silva
+
+* Chionodoxa lochiae Meikle in Kew Bull.
+
+Colchicum arenarium Waldst. et Kit.
+
+Hyacinthoides vicentina (Hoffmans. & Link) Rothm.
+
+* Muscari gussonei (Parl.) Tod.
+
+Scilla litardierei Breist.
+
+* Scilla morrisii Meikle
+
+Tulipa cypria Stapf
+
+Tulipa hungarica Borbas
+
+LINACEAE
+
+* Linum dolomiticum Borbas
+
+* Linum muelleri Moris (Linum maritimum muelleri)
+
+LYTHRACEAE
+
+* Lythrum flexuosum Lag.
+
+MALVACEAE
+
+Kosteletzkya pentacarpos (L.) Ledeb.
+
+NAJADACEAE
+
+Najas flexilis (Willd.) Rostk. & W.L. Schmidt
+
+Najas tenuissima (A. Braun) Magnus
+
+OLEACEAE
+
+Syringa josikaea Jacq. Fil. ex Reichenb.
+
+ORCHIDACEAE
+
+Anacamptis urvilleana Sommier et Caruana Gatto
+
+Calypso bulbosa L.
+
+* Cephalanthera cucullata Boiss. & Heldr.
+
+Cypripedium calceolus L.
+
+Dactylorhiza kalopissii E. Nelson
+
+Gymnigritella runei Teppner & Klein
+
+Himantoglossum adriaticum Baumann
+
+Himantoglossum caprinum (Bieb.) V. Koch
+
+Liparis loeselii (L.) Rich.
+
+* Ophrys kotschyi H.Fleischm. et Soo
+
+* Ophrys lunulata Parl.
+
+Ophrys melitensis (Salkowski) J et P Devillers-Terschuren
+
+Platanthera obtusata (Pursh) subsp. oligantha (Turez.) Hulten
+
+OROBANCHACEAE
+
+Orobanche densiflora Salzm. ex Reut.
+
+PAEONIACEAE
+
+Paeonia cambessedesii (Willk.) Willk.
+
+Paeonia clusii F.C. Stern subsp. rhodia (Stearn) Tzanoudakis
+
+Paeonia officinalis L. subsp. banatica (Rachel) Soo
+
+Paeonia parnassica Tzanoudakis
+
+PALMAE
+
+Phoenix theophrasti Greuter
+
+PAPAVERACEAE
+
+Corydalis gotlandica Lidén
+
+Papaver laestadianum (Nordh.) Nordh.
+
+Papaver radicatum Rottb. subsp. hyperboreum Nordh.
+
+PLANTAGINACEAE
+
+Plantago algarbiensis Sampaio (Plantago bracteosa (Willk.) G. Sampaio)
+
+Plantago almogravensis Franco
+
+PLUMBAGINACEAE
+
+Armeria berlengensis Daveau
+
+* Armeria helodes Martini & Pold
+
+Armeria neglecta Girard
+
+Armeria pseudarmeria (Murray) Mansfeld
+
+* Armeria rouyana Daveau
+
+Armeria soleirolii (Duby) Godron
+
+Armeria velutina Welw. ex Boiss. & Reuter
+
+Limonium dodartii (Girard) O. Kuntze subsp. lusitanicum (Daveau) Franco
+
+* Limonium insulare (Beg. & Landi) Arrig. & Diana
+
+Limonium lanceolatum (Hoffmans. & Link) Franco
+
+Limonium multiflorum Erben
+
+* Limonium pseudolaetum Arrig. & Diana
+
+* Limonium strictissimum (Salzmann) Arrig.
+
+POLYGONACEAE
+
+Persicaria foliosa (H. Lindb.) Kitag.
+
+Polygonum praelongum Coode & Cullen
+
+Rumex rupestris Le Gall
+
+PRIMULACEAE
+
+Androsace mathildae Levier
+
+Androsace pyrenaica Lam.
+
+* Cyclamen fatrense Halda et Sojak
+
+* Primula apennina Widmer
+
+Primula carniolica Jacq.
+
+Primula nutans Georgi
+
+Primula palinuri Petagna
+
+Primula scandinavica Bruun
+
+Soldanella villosa Darracq.
+
+RANUNCULACEAE
+
+* Aconitum corsicum Gayer (Aconitum napellus subsp. corsicum)
+
+Aconitum firmum (Reichenb.) Neilr subsp. moravicum Skalicky
+
+Adonis distorta Ten.
+
+Aquilegia bertolonii Schott
+
+Aquilegia kitaibelii Schott
+
+* Aquilegia pyrenaica D.C. subsp. cazorlensis (Heywood) Galiano
+
+* Consolida samia P.H. Davis
+
+* Delphinium caseyi B.L. Burtt
+
+Pulsatilla grandis Wenderoth
+
+Pulsatilla patens (L.) Miller
+
+* Pulsatilla pratensis (L.) Miller subsp. hungarica Soo
+
+* Pulsatilla slavica G. Reuss.
+
+* Pulsatilla subslavica Futak ex Goliasova
+
+Pulsatilla vulgaris Hill. subsp. gotlandica (Johanss.) Zaemelis & Paegle
+
+Ranunculus kykkoensis Meikle
+
+Ranunculus lapponicus L.
+
+* Ranunculus weyleri Mares
+
+RESEDACEAE
+
+Reseda decursiva Forssk.
+
+ROSACEAE
+
+Agrimonia pilosa Ledebour
+
+Potentilla delphinensis Gren. & Godron
+
+Potentilla emilii-popii Nyárády
+
+* Pyrus magyarica Terpo
+
+Sorbus teodorii Liljefors
+
+RUBIACEAE
+
+Galium cracoviense Ehrend.
+
+* Galium litorale Guss.
+
+Galium moldavicum (Dobrescu) Franco
+
+* Galium sudeticum Tausch
+
+* Galium viridiflorum Boiss. & Reuter
+
+SALICACEAE
+
+Salix salvifolia Brot. subsp. australis Franco
+
+SANTALACEAE
+
+Thesium ebracteatum Hayne
+
+SAXIFRAGACEAE
+
+Saxifraga berica (Beguinot) D.A. Webb
+
+Saxifraga florulenta Moretti
+
+Saxifraga hirculus L.
+
+Saxifraga osloënsis Knaben
+
+Saxifraga tombeanensis Boiss. ex Engl.
+
+SCROPHULARIACEAE
+
+Antirrhinum charidemi Lange
+
+Chaenorrhinum serpyllifolium (Lange) Lange subsp. lusitanicum R. Fernandes
+
+* Euphrasia genargentea (Feoli) Diana
+
+Euphrasia marchesettii Wettst. ex Marches.
+
+Linaria algarviana Chav.
+
+Linaria coutinhoi Valdés
+
+Linaria loeselii Schweigger
+
+* Linaria ficalhoana Rouy
+
+Linaria flava (Poiret) Desf.
+
+* Linaria hellenica Turrill
+
+Linaria pseudolaxiflora Lojacono
+
+* Linaria ricardoi Cout.
+
+Linaria tonzigii Lona
+
+* Linaria tursica B. Valdés & Cabezudo
+
+Odontites granatensis Boiss.
+
+* Pedicularis sudetica Willd.
+
+Rhinanthus oesilensis (Ronniger & Saarsoo) Vassilcz
+
+Tozzia carpathica Wol.
+
+Verbascum litigiosum Samp.
+
+Veronica micrantha Hoffmanns. & Link
+
+* Veronica oetaea L.-A. Gustavsson
+
+SOLANACEAE
+
+* Atropa baetica Willk.
+
+THYMELAEACEAE
+
+* Daphne arbuscula Celak
+
+Daphne petraea Leybold
+
+* Daphne rodriguezii Texidor
+
+ULMACEAE
+
+Zelkova abelicea (Lam.) Boiss.
+
+UMBELLIFERAE
+
+* Angelica heterocarpa Lloyd
+
+Angelica palustris (Besser) Hoffm.
+
+* Apium bermejoi Llorens
+
+Apium repens (Jacq.) Lag.
+
+Athamanta cortiana Ferrarini
+
+* Bupleurum capillare Boiss. & Heldr.
+
+* Bupleurum kakiskalae Greuter
+
+Eryngium alpinum L.
+
+* Eryngium viviparum Gay
+
+* Ferula sadleriana Lebed.
+
+Hladnikia pastinacifolia Reichenb.
+
+* Laserpitium longiradium Boiss.
+
+* Naufraga balearica Constans & Cannon
+
+* Oenanthe conioides Lange
+
+Petagnia saniculifolia Guss.
+
+Rouya polygama (Desf.) Coincy
+
+* Seseli intricatum Boiss.
+
+Seseli leucospermum Waldst. et Kit
+
+Thorella verticillatinundata (Thore) Briq.
+
+VALERIANACEAE
+
+Centranthus trinervis (Viv.) Beguinot
+
+VIOLACEAE
+
+Viola delphinantha Boiss.
+
+* Viola hispida Lam.
+
+Viola jaubertiana Mares & Vigineix
+
+Viola rupestris F.W. Schmidt subsp. relicta Jalas
+
+**LOWER PLANTS**
+
+BRYOPHYTA
+
+Bruchia vogesiaca Schwaegr. (o)
+
+Bryhnia novae-angliae (Sull & Lesq.) Grout (o)
+
+* Bryoerythrophyllum campylocarpum (C. Müll.) Crum. (Bryoerythrophyllum machadoanum (Sergio) M.O. Hill) (o)
+
+Buxbaumia viridis (Moug.) Moug. & Nestl. (o)
+
+Cephalozia macounii (Aust.) Aust. (o)
+
+Cynodontium suecicum (H. Arn. & C. Jens.) I. Hag. (o)
+
+Dichelyma capillaceum (Dicks) Myr. (o)
+
+Dicranum viride (Sull. & Lesq.) Lindb. (o)
+
+Distichophyllum carinatum Dix. & Nich. (o)
+
+Drepanocladus (Hamatocaulis) vernicosus (Mitt.) Warnst. (o)
+
+Encalypta mutica (I. Hagen) (o)
+
+Hamatocaulis lapponicus (Norrl.) Hedenäs (o)
+
+Herzogiella turfacea (Lindb.) I. Wats. (o)
+
+Hygrohypnum montanum (Lindb.) Broth. (o)
+
+Jungermannia handelii (Schiffn.) Amak. (o)
+
+Mannia triandra (Scop.) Grolle (o)
+
+* Marsupella profunda Lindb. (o)
+
+Meesia longiseta Hedw. (o)
+
+Nothothylas orbicularis (Schwein.) Sull. (o)
+
+Ochyraea tatrensis Vana (o)
+
+Orthothecium lapponicum (Schimp.) C. Hartm. (o)
+
+Orthotrichum rogeri Brid. (o)
+
+Petalophyllum ralfsii (Wils.) Nees & Gott. (o)
+
+Plagiomnium drummondii (Bruch & Schimp.) T. Kop. (o)
+
+Riccia breidleri Jur. (o)
+
+Riella helicophylla (Bory & Mont.) Mont. (o)
+
+Scapania massolongi (K. Müll.) K. Müll. (o)
+
+Sphagnum pylaisii Brid. (o)
+
+Tayloria rudolphiana (Garov) B. & S. (o)
+
+Tortella rigens (N. Alberts) (o)
+
+**SPECIES FOR MACARONESIA**
+
+PTERIDOPHYTA
+
+HYMENOPHYLLACEAE
+
+Hymenophyllum maderensis Gibby & Lovis
+
+DRYOPTERIDACEAE
+
+* Polystichum drepanum (Sw.) C. Presl.
+
+ISOETACEAE
+
+Isoetes azorica Durieu & Paiva ex Milde
+
+MARSILEACEAE
+
+* Marsilea azorica Launert & Paiva
+
+ANGIOSPERMAE
+
+ASCLEPIADACEAE
+
+Caralluma burchardii N. E. Brown
+
+* Ceropegia chrysantha Svent.
+
+BORAGINACEAE
+
+Echium candicans L. fil.
+
+* Echium gentianoides Webb & Coincy
+
+Myosotis azorica H.C. Watson
+
+Myosotis maritima Hochst. in Seub.
+
+CAMPANULACEAE
+
+* Azorina vidalii (H.C. Watson) Feer
+
+Musschia aurea (L. f.) DC.
+
+* Musschia wollastonii Lowe
+
+CAPRIFOLIACEAE
+
+* Sambucus palmensis Link
+
+CARYOPHYLLACEAE
+
+Spergularia azorica (Kindb.) Lebel
+
+CELASTRACEAE
+
+Maytenus umbellata (R. Br.) Mabb.
+
+CHENOPODIACEAE
+
+Beta patula Ait.
+
+CISTACEAE
+
+Cistus chinamadensis Banares & Romero
+
+* Helianthemum bystropogophyllum Svent.
+
+COMPOSITAE
+
+Andryala crithmifolia Ait.
+
+* Argyranthemum lidii Humphries
+
+Argyranthemum thalassophylum (Svent.) Hump.
+
+Argyranthemum winterii (Svent.) Humphries
+
+* Atractylis arbuscula Svent. & Michaelis
+
+Atractylis preauxiana Schultz.
+
+Calendula maderensis DC.
+
+Cheirolophus duranii (Burchard) Holub
+
+Cheirolophus ghomerytus (Svent.) Holub
+
+Cheirolophus junonianus (Svent.) Holub
+
+Cheirolophus massonianus (Lowe) Hansen & Sund.
+
+Cirsium latifolium Lowe
+
+Helichrysum gossypinum Webb
+
+Helichrysum monogynum Burtt & Sund.
+
+Hypochoeris oligocephala (Svent. & Bramw.) Lack
+
+* Lactuca watsoniana Trel.
+
+* Onopordum nogalesii Svent.
+
+* Onorpordum carduelinum Bolle
+
+* Pericallis hadrosoma (Svent.) B. Nord.
+
+Phagnalon benettii Lowe
+
+Stemmacantha cynaroides (Chr. Son. in Buch) Ditt
+
+Sventenia bupleuroides Font Quer
+
+* Tanacetum ptarmiciflorum Webb & Berth
+
+CONVOLVULACEAE
+
+* Convolvulus caput-medusae Lowe
+
+* Convolvulus lopez-socasii Svent.
+
+* Convolvulus massonii A. Dietr.
+
+CRASSULACEAE
+
+Aeonium gomeraense Praeger
+
+Aeonium saundersii Bolle
+
+Aichryson dumosum (Lowe) Praeg.
+
+Monanthes wildpretii Banares & Scholz
+
+Sedum brissemoretii Raymond-Hamet
+
+CRUCIFERAE
+
+* Crambe arborea Webb ex Christ
+
+Crambe laevigata DC. ex Christ
+
+* Crambe sventenii R. Petters ex Bramwell & Sund.
+
+* Parolinia schizogynoides Svent.
+
+Sinapidendron rupestre (Ait.) Lowe
+
+CYPERACEAE
+
+Carex malato-belizii Raymond
+
+DIPSACACEAE
+
+Scabiosa nitens Roemer & J.A. Schultes
+
+ERICACEAE
+
+Erica scoparia L. subsp. azorica (Hochst.) D.A. Webb
+
+EUPHORBIACEAE
+
+* Euphorbia handiensis Burchard
+
+Euphorbia lambii Svent.
+
+Euphorbia stygiana H.C. Watson
+
+GERANIACEAE
+
+* Geranium maderense P.F. Yeo
+
+GRAMINEAE
+
+Deschampsia maderensis (Haeck. & Born.) Buschm.
+
+Phalaris maderensis (Menezes) Menezes
+
+GLOBULARIACEAE
+
+* Globularia ascanii D. Bramwell & Kunkel
+
+* Globularia sarcophylla Svent.
+
+LABIATAE
+
+* Sideritis cystosiphon Svent.
+
+* Sideritis discolor (Webb ex de Noe) Bolle
+
+Sideritis infernalis Bolle
+
+Sideritis marmorea Bolle
+
+Teucrium abutiloides L’Hér.
+
+Teucrium betonicum L’Hér.
+
+LEGUMINOSAE
+
+* Anagyris latifolia Brouss. ex. Willd.
+
+Anthyllis lemanniana Lowe
+
+* Dorycnium spectabile Webb & Berthel
+
+* Lotus azoricus P.W. Ball
+
+Lotus callis-viridis D. Bramwell & D. H. Davis
+
+* Lotus kunkelii (E. Chueca) D. Bramwell & al.
+
+* Teline rosmarinifolia Webb & Berthel.
+
+* Teline salsoloides Arco & Acebes.
+
+Vicia dennesiana H.C. Watson
+
+LILIACEAE
+
+* Androcymbium psammophilum Svent.
+
+Scilla maderensis Menezes
+
+Semele maderensis Costa
+
+LORANTHACEAE
+
+Arceuthobium azoricum Wiens & Hawksw.
+
+MYRICACEAE
+
+* Myrica rivas-martinezii Santos.
+
+OLEACEAE
+
+Jasminum azoricum L.
+
+Picconia azorica (Tutin) Knobl.
+
+ORCHIDACEAE
+
+Goodyera macrophylla Lowe
+
+PITTOSPORACEAE
+
+* Pittosporum coriaceum Dryand. ex. Ait.
+
+PLANTAGINACEAE
+
+Plantago malato-belizii Lawalree
+
+PLUMBAGINACEAE
+
+* Limonium arborescens (Brouss.) Kuntze
+
+Limonium dendroides Svent.
+
+* Limonium spectabile (Svent.) Kunkel & Sunding
+
+* Limonium sventenii Santos & Fernández Galván
+
+POLYGONACEAE
+
+Rumex azoricus Rech. fil.
+
+RHAMNACEAE
+
+Frangula azorica Tutin
+
+ROSACEAE
+
+* Bencomia brachystachya Svent.
+
+Bencomia sphaerocarpa Svent.
+
+* Chamaemeles coriacea Lindl.
+
+Dendriopoterium pulidoi Svent.
+
+Marcetella maderensis (Born.) Svent.
+
+Prunus lusitanica L. subsp. azorica (Mouillef.) Franco
+
+Sorbus maderensis (Lowe) Dode
+
+SANTALACEAE
+
+Kunkeliella subsucculenta Kammer
+
+SCROPHULARIACEAE
+
+* Euphrasia azorica H.C. Watson
+
+Euphrasia grandiflora Hochst. in Seub.
+
+* Isoplexis chalcantha Svent. & O’Shanahan
+
+Isoplexis isabelliana (Webb & Berthel.) Masferrer
+
+Odontites holliana (Lowe) Benth.
+
+Sibthorpia peregrina L.
+
+SOLANACEAE
+
+* Solanum lidii Sunding
+
+UMBELLIFERAE
+
+Ammi trifoliatum (H.C. Watson) Trelease
+
+Bupleurum handiense (Bolle) Kunkel
+
+Chaerophyllum azoricum Trelease
+
+Ferula latipinna Santos
+
+Melanoselinum decipiens (Schrader & Wendl.) Hoffm.
+
+Monizia edulis Lowe
+
+Oenanthe divaricata (R. Br.) Mabb.
+
+Sanicula azorica Guthnick ex Seub.
+
+VIOLACEAE
+
+Viola paradoxa Lowe
+
+**LOWER PLANTS**
+
+BRYOPHYTA
+
+* Echinodium spinosum (Mitt.) Jur. (o)
+
+* Thamnobryum fernandesii Sergio (o).
+
+## ANNEX III — CRITERIA FOR SELECTING SITES ELIGIBLE FOR IDENTIFICATION AS SITES OF COMMUNITY IMPORTANCE AND DESIGNATION AS SPECIAL AREAS OF CONSERVATION
+
+**STAGE 1: Assessment at national level of the relative importance of sites for each natural habitat type in Annex I and each species in Annex II (including priority natural habitat types and priority species)**
+
+**A. Site assessment criteria for a given natural habitat type in Annex I**
+
+(a) Degree of representativity of the natural habitat type on the site.
+
+(b) Area of the site covered by the natural habitat type in relation to the total area covered by that natural habitat type within national territory.
+
+(c) Degree of conservation of the structure and functions of the natural habitat type concerned and restoration possibilities.
+
+(d) Global assessment of the value of the site for conservation of the natural habitat type concerned.
+
+**B. Site assessment criteria for a given species in Annex II**
+
+(a) Size and density of the population of the species present on the site in relation to the populations present within national territory.
+
+(b) Degree of conservation of the features of the habitat which are important for the species concerned and restoration possibilities.
+
+(c) Degree of isolation of the population present on the site in relation to the natural range of the species.
+
+(d) Global assessment of the value of the site for conservation of the species concerned.
+
+C. On the basis of these criteria, Member States will classify the sites which they propose on the national list as sites eligible for identification as sites of Community importance according to their relative value for the conservation of each natural habitat type in Annex I or each species in Annex II.
+
+D. That list will show the sites containing the priority natural habitat types and priority species selected by the Member States on the basis of the criteria in A and B above.
+
+**STAGE 2: Assessment of the Community importance of the sites included on the national lists**
+
+1\. All the sites identified by the Member States in Stage 1 which contain priority natural habitat types and/or species will be considered as sites of Community importance.
+
+2\. The assessment of the Community importance of other sites on Member States' lists, i.e. their contribution to maintaining or re-establishing, at a favourable conservation status, a natural habitat in Annex I or a species in Annex II and/or to the coherence of Natura 2000 will take account of the following criteria:
+
+(a) relative value of the site at national level;
+
+(b) geographical situation of the site in relation to migration routes of species in Annex II and whether it belongs to a continuous ecosystem situated on both sides of one or more internal Community frontiers;
+
+(c) total area of the site;
+
+(d) number of natural habitat types in Annex I and species in Annex II present on the site;
+
+(e) global ecological value of the site for the biogeographical regions concerned and/or for the whole of the territory referred to in Article 2, as regards both the characteristic or unique  aspect of its features and the way they are combined.
+
+## ANNEX IV
+
+**ANIMAL AND PLANT SPECIES OF COMMUNITY INTEREST IN NEED OF STRICT PROTECTION**
+
+The species listed in this Annex are indicated:
+
+— by the name of species or subspecies, or
+
+— by the body of species belonging to a higher taxon or to a designated part of that taxon.
+
+The abbreviation ‘spp.’ after the name of a family or genus designates all the species belonging to that family or genus.
+
+**(a) ANIMALS**
+
+**VERTEBRATES**
+
+MAMMALS
+
+INSECTIVORA
+
+Erinaceidae
+
+Erinaceus algirus
+
+Soricidae
+
+Crocidura canariensis
+
+Crocidura sicula
+
+Talpidae
+
+Galemys pyrenaicus
+
+MICROCHIROPTERA
+
+All species
+
+MEGACHIROPTERA
+
+Pteropodidae
+
+Rousettus aegyptiacus
+
+RODENTIA
+
+Gliridae
+
+All species except Glis glis and Eliomys quercinus
+
+Sciuridae
+
+Marmota marmota latirostris
+
+Pteromys volans (Sciuropterus russicus)
+
+Spermophilus citellus (Citellus citellus)
+
+Spermophilus suslicus (Citellus suslicus)
+
+Sciurus anomalus
+
+Castoridae
+
+Castor fiber (except the Estonian, Latvian, Lithuanian, Polish, Finnish and Swedish populations)
+
+Cricetidae
+
+Cricetus cricetus (except the Hungarian populations)
+
+Mesocricetus newtoni
+
+Microtidae
+
+Dinaromys bogdanovi
+
+Microtus cabrerae
+
+Microtus oeconomus arenicola
+
+Microtus oeconomus mehelyi
+
+Microtus tatricus
+
+Zapodidae
+
+Sicista betulina
+
+Sicista subtilis
+
+Hystricidae
+
+Hystrix cristata
+
+CARNIVORA
+
+Canidae
+
+Alopex lagopus
+
+Canis lupus (except the Greek populations north of the 39th parallel; Estonian populations, Spanish populations north of the Duero; Bulgarian, Latvian, Lithuanian, Polish, Slovak populations and Finnish populations within the reindeer management area as defined in paragraph 2 of the Finnish Act No 848/90 of 14 September 1990 on reindeer management)
+
+Ursidae
+
+Ursus arctos
+
+Mustelidae
+
+Lutra lutra
+
+Mustela eversmanii
+
+Mustela lutreola
+
+Vormela peregusna
+
+Felidae
+
+Felis silvestris
+
+Lynx lynx (except the Estonian population)
+
+Lynx pardinus
+
+Phocidae
+
+Monachus monachus
+
+Phoca hispida saimensis
+
+ARTIODACTYLA
+
+Cervidae
+
+Cervus elaphus corsicanus
+
+Bovidae
+
+Bison bonasus
+
+Capra aegagrus (natural populations)
+
+Capra pyrenaica pyrenaica
+
+Ovis gmelini musimon (Ovis ammon musimon) (natural populations – Corsica and Sardinia)
+
+Ovis orientalis ophion (Ovis gmelini ophion)
+
+Rupicapra pyrenaica ornata (Rupicapra rupicapra ornata)
+
+Rupicapra rupicapra balcanica
+
+Rupicapra rupicapra tatrica
+
+CETACEA
+
+All species
+
+REPTILES
+
+TESTUDINATA
+
+Testudinidae
+
+Testudo graeca
+
+Testudo hermanni
+
+Testudo marginata
+
+Cheloniidae
+
+Caretta caretta
+
+Chelonia mydas
+
+Lepidochelys kempii
+
+Eretmochelys imbricata
+
+Dermochelyidae
+
+Dermochelys coriacea
+
+Emydidae
+
+Emys orbicularis
+
+Mauremys caspica
+
+Mauremys leprosa
+
+SAURIA
+
+Lacertidae
+
+Algyroides fitzingeri
+
+Algyroides marchi
+
+Algyroides moreoticus
+
+Algyroides nigropunctatus
+
+Dalmatolacerta oxycephala
+
+Dinarolacerta mosorensis
+
+Gallotia atlantica
+
+Gallotia galloti
+
+Gallotia galloti insulanagae
+
+Gallotia simonyi
+
+Gallotia stehlini
+
+Lacerta agilis
+
+Lacerta bedriagae
+
+Lacerta bonnali (Lacerta monticola)
+
+Lacerta monticola
+
+Lacerta danfordi
+
+Lacerta dugesi
+
+Lacerta graeca
+
+Lacerta horvathi
+
+Lacerta schreiberi
+
+Lacerta trilineata
+
+Lacerta viridis
+
+Lacerta vivipara pannonica
+
+Ophisops elegans
+
+Podarcis erhardii
+
+Podarcis filfolensis
+
+Podarcis hispanica atrata
+
+Podarcis lilfordi
+
+Podarcis melisellensis
+
+Podarcis milensis
+
+Podarcis muralis
+
+Podarcis peloponnesiaca
+
+Podarcis pityusensis
+
+Podarcis sicula
+
+Podarcis taurica
+
+Podarcis tiliguerta
+
+Podarcis wagleriana
+
+Scincidae
+
+Ablepharus kitaibelii
+
+Chalcides bedriagai
+
+Chalcides ocellatus
+
+Chalcides sexlineatus
+
+Chalcides simonyi (Chalcides occidentalis)
+
+Chalcides viridianus
+
+Ophiomorus punctatissimus
+
+Gekkonidae
+
+Cyrtopodion kotschyi
+
+Phyllodactylus europaeus
+
+Tarentola angustimentalis
+
+Tarentola boettgeri
+
+Tarentola delalandii
+
+Tarentola gomerensis
+
+Agamidae
+
+Stellio stellio
+
+Chamaeleontidae
+
+Chamaeleo chamaeleon
+
+Anguidae
+
+Ophisaurus apodus
+
+OPHIDIA
+
+Colubridae
+
+Coluber caspius
+
+Coluber cypriensis
+
+Coluber hippocrepis
+
+Coluber jugularis
+
+Coluber laurenti
+
+Coluber najadum
+
+Coluber nummifer
+
+Coluber viridiflavus
+
+Coronella austriaca
+
+Eirenis modesta
+
+Elaphe longissima
+
+Elaphe quatuorlineata
+
+Elaphe situla
+
+Natrix natrix cetti
+
+Natrix natrix corsa
+
+Natrix natrix cypriaca
+
+Natrix tessellata
+
+Telescopus falax
+
+Viperidae
+
+Vipera ammodytes
+
+Macrovipera schweizeri (Vipera lebetina schweizeri)
+
+Vipera seoanni (except Spanish populations)
+
+Vipera ursinii
+
+Vipera xanthina
+
+Boidae
+
+Eryx jaculus
+
+AMPHIBIANS
+
+CAUDATA
+
+Salamandridae
+
+Chioglossa lusitanica
+
+Euproctus asper
+
+Euproctus montanus
+
+Euproctus platycephalus
+
+Mertensiella luschani (Salamandra luschani)
+
+Salamandra atra
+
+Salamandra aurorae
+
+Salamandra lanzai
+
+Salamandrina terdigitata
+
+Triturus carnifex (Triturus cristatus carnifex)
+
+Triturus cristatus (Triturus cristatus cristatus)
+
+Triturus italicus
+
+Triturus karelinii (Triturus cristatus karelinii)
+
+Triturus marmoratus
+
+Triturus montandoni
+
+Triturus vulgaris ampelensis
+
+Proteidae
+
+Proteus anguinus
+
+Plethodontidae
+
+Hydromantes (Speleomantes) ambrosii
+
+Hydromantes (Speleomantes) flavus
+
+Hydromantes (Speleomantes) genei
+
+Hydromantes (Speleomantes) imperialis
+
+Hydromantes (Speleomantes) strinatii (Hydromantes (Speleomantes) italicus)
+
+Hydromantes (Speleomantes) supramontis
+
+ANURA
+
+Discoglossidae
+
+Alytes cisternasii
+
+Alytes muletensis
+
+Alytes obstetricans
+
+Bombina bombina
+
+Bombina variegata
+
+Discoglossus galganoi (including Discoglossus ‘jeanneae’ )
+
+Discoglossus montalentii
+
+Discoglossus pictus
+
+Discoglossus sardus
+
+Ranidae
+
+Rana arvalis
+
+Rana dalmatina
+
+Rana graeca
+
+Rana iberica
+
+Rana italica
+
+Rana latastei
+
+Rana lessonae
+
+Pelobatidae
+
+Pelobates cultripes
+
+Pelobates fuscus
+
+Pelobates syriacus
+
+Bufonidae
+
+Bufo calamita
+
+Bufo viridis
+
+Hylidae
+
+Hyla arborea
+
+Hyla meridionalis
+
+Hyla sarda
+
+FISH
+
+ACIPENSERIFORMES
+
+Acipenseridae
+
+Acipenser naccarii
+
+Acipenser sturio
+
+SALMONIFORMES
+
+Coregonidae
+
+Coregonus oxyrhynchus (anadromous populations in certain sectors of the North Sea, except the Finnish populations)
+
+CYPRINIFORMES
+
+Cyprinidae
+
+Anaecypris hispanica
+
+Phoxinus percnurus
+
+ATHERINIFORMES
+
+Cyprinodontidae
+
+Valencia hispanica
+
+PERCIFORMES
+
+Percidae
+
+Gymnocephalus baloni
+
+Romanichthys valsanicola
+
+Zingel asper
+
+**INVERTEBRATES**
+
+ARTHROPODS
+
+CRUSTACEA
+
+Isopoda
+
+Armadillidium ghardalamensis
+
+INSECTA
+
+Coleoptera
+
+Bolbelasmus unicornis
+
+Buprestis splendens
+
+Carabus hampei
+
+Carabus hungaricus
+
+Carabus olympiae
+
+Carabus variolosus
+
+Carabus zawadszkii
+
+Cerambyx cerdo
+
+Cucujus cinnaberinus
+
+Dorcadion fulvum cervae
+
+Duvalius gebhardti
+
+Duvalius hungaricus
+
+Dytiscus latissimus
+
+Graphoderus bilineatus
+
+Leptodirus hochenwarti
+
+Pilemia tigrina
+
+Osmoderma eremita
+
+Phryganophilus ruficollis
+
+Probaticus subrugosus
+
+Propomacrus cypriacus
+
+Pseudogaurotina excellens
+
+Pseudoseriscius cameroni
+
+Pytho kolwensis
+
+Rosalia alpina
+
+Lepidoptera
+
+Apatura metis
+
+Arytrura musculus
+
+Catopta thrips
+
+Chondrosoma fiduciarium
+
+Coenonympha hero
+
+Coenonympha oedippus
+
+Colias myrmidone
+
+Cucullia mixta
+
+Dioszeghyana schmidtii
+
+Erannis ankeraria
+
+Erebia calcaria
+
+Erebia christi
+
+Erebia sudetica
+
+Eriogaster catax
+
+Fabriciana elisa
+
+Glyphipterix loricatella
+
+Gortyna borelii lunata
+
+Hypodryas maturna
+
+Hyles hippophaes
+
+Leptidea morsei
+
+Lignyoptera fumidaria
+
+Lopinga achine
+
+Lycaena dispar
+
+Lycaena helle
+
+Maculinea arion
+
+Maculinea nausithous
+
+Maculinea teleius
+
+Melanargia arge
+
+Nymphalis vaualbum
+
+Papilio alexanor
+
+Papilio hospiton
+
+Parnassius apollo
+
+Parnassius mnemosyne
+
+Phyllometra culminaria
+
+Plebicula golgus
+
+Polymixis rufocincta isolata
+
+Polyommatus eroides
+
+Proserpinus proserpina
+
+Proterebia afra dalmata
+
+Pseudophilotes bavius
+
+Xylomoia strix
+
+Zerynthia polyxena
+
+Mantodea
+
+Apteromantis aptera
+
+Odonata
+
+Aeshna viridis
+
+Cordulegaster heros
+
+Cordulegaster trinacriae
+
+Gomphus graslinii
+
+Leucorrhinia albifrons
+
+Leucorrhinia caudalis
+
+Leucorrhinia pectoralis
+
+Lindenia tetraphylla
+
+Macromia splendens
+
+Ophiogomphus cecilia
+
+Oxygastra curtisii
+
+Stylurus flavipes
+
+Sympecma braueri
+
+Orthoptera
+
+Baetica ustulata
+
+Brachytrupes megacephalus
+
+Isophya costata
+
+Isophya harzi
+
+Isophya stysi
+
+Myrmecophilus baronii
+
+Odontopodisma rubripes
+
+Paracaloptenus caloptenoides
+
+Pholidoptera transsylvanica
+
+Saga pedo
+
+Stenobothrus (Stenobothrodes) eurasius
+
+ARACHNIDA
+
+Araneae
+
+Macrothele calpeiana
+
+MOLLUSCS
+
+GASTROPODA
+
+Anisus vorticulus
+
+Caseolus calculus
+
+Caseolus commixta
+
+Caseolus sphaerula
+
+Chilostoma banaticum
+
+Discula leacockiana
+
+Discula tabellata
+
+Discula testudinalis
+
+Discula turricula
+
+Discus defloratus
+
+Discus guerinianus
+
+Elona quimperiana
+
+Geomalacus maculosus
+
+Geomitra moniziana
+
+Gibbula nivosa
+
+Hygromia kovacsi
+
+Idiomela (Helix) subplicata
+
+Lampedusa imitatrix
+
+Lampedusa melitensis
+
+Leiostyla abbreviata
+
+Leiostyla cassida
+
+Leiostyla corneocostata
+
+Leiostyla gibba
+
+Leiostyla lamellosa
+
+Paladilhia hungarica
+
+Patella ferruginea
+
+Sadleriana pannonica
+
+Theodoxus prevostianus
+
+Theodoxus transversalis
+
+BIVALVIA
+
+Anisomyaria
+
+Lithophaga lithophaga
+
+Pinna nobilis
+
+Unionoida
+
+Margaritifera auricularia
+
+Unio crassus
+
+Dreissenidae
+
+Congeria kusceri
+
+ECHINODERMATA
+
+Echinoidea
+
+Centrostephanus longispinus
+
+**(b) PLANTS**
+
+Annex IV (b) contains all the plant species listed in Annex II (b) ( *1 ) plus those mentioned below:
+
+**PTERIDOPHYTA**
+
+ASPLENIACEAE
+
+Asplenium hemionitis L.
+
+**ANGIOSPERMAE**
+
+AGAVACEAE
+
+Dracaena draco (L.) L.
+
+AMARYLLIDACEAE
+
+Narcissus longispathus Pugsley
+
+Narcissus triandrus L.
+
+BERBERIDACEAE
+
+Berberis maderensis Lowe
+
+CAMPANULACEAE
+
+Campanula morettiana Reichenb.
+
+Physoplexis comosa (L.) Schur.
+
+CARYOPHYLLACEAE
+
+Moehringia fontqueri Pau
+
+COMPOSITAE
+
+Argyranthemum pinnatifidum (L.f.) Lowe subsp. succulentum (Lowe) C. J. Humphries
+
+Helichrysum sibthorpii Rouy
+
+Picris willkommii (Schultz Bip.) Nyman
+
+Santolina elegans Boiss. ex DC.
+
+Senecio caespitosus Brot.
+
+Senecio lagascanus DC. subsp. lusitanicus (P. Cout.) Pinto da Silva
+
+Wagenitzia lancifolia (Sieber ex Sprengel) Dostal
+
+CRUCIFERAE
+
+Murbeckiella sousae Rothm.
+
+EUPHORBIACEAE
+
+Euphorbia nevadensis Boiss. & Reuter
+
+GESNERIACEAE
+
+Jankaea heldreichii (Boiss.) Boiss.
+
+Ramonda serbica Pancic
+
+IRIDACEAE
+
+Crocus etruscus Parl.
+
+Iris boissieri Henriq.
+
+Iris marisca Ricci & Colasante
+
+LABIATAE
+
+Rosmarinus tomentosus Huber-Morath & Maire
+
+Teucrium charidemi Sandwith
+
+Thymus capitellatus Hoffmanns. & Link
+
+Thymus villosus L. subsp. villosus L.
+
+LILIACEAE
+
+Androcymbium europaeum (Lange) K. Richter
+
+Bellevalia hackelli Freyn
+
+Colchicum corsicum Baker
+
+Colchicum cousturieri Greuter
+
+Fritillaria conica Rix
+
+Fritillaria drenovskii Degen & Stoy.
+
+Fritillaria gussichiae (Degen & Doerfler) Rix
+
+Fritillaria obliqua Ker-Gawl.
+
+Fritillaria rhodocanakis Orph. ex Baker
+
+Ornithogalum reverchonii Degen & Herv.-Bass.
+
+Scilla beirana Samp.
+
+Scilla odorata Link
+
+ORCHIDACEAE
+
+Ophrys argolica Fleischm.
+
+Orchis scopulorum Simsmerh.
+
+Spiranthes aestivalis (Poiret) L.C.M. Richard
+
+PRIMULACEAE
+
+Androsace cylindrica DC.
+
+Primula glaucescens Moretti
+
+Primula spectabilis Tratt.
+
+RANUNCULACEAE
+
+Aquilegia alpina L.
+
+SAPOTACEAE
+
+Sideroxylon marmulano Banks ex Lowe
+
+SAXIFRAGACEAE
+
+Saxifraga cintrana Kuzinsky ex Willk.
+
+Saxifraga portosanctana Boiss.
+
+Saxifraga presolanensis Engl.
+
+Saxifraga valdensis DC.
+
+Saxifraga vayredana Luizet
+
+SCROPHULARIACEAE
+
+Antirrhinum lopesianum Rothm.
+
+Lindernia procumbens (Krocker) Philcox
+
+SOLANACEAE
+
+Mandragora officinarum L.
+
+THYMELAEACEAE
+
+Thymelaea broterana P. Cout.
+
+UMBELLIFERAE
+
+Bunium brevifolium Lowe
+
+VIOLACEAE
+
+Viola athois W. Becker
+
+Viola cazorlensis Gandoger
+
+## ANNEX V — ANIMAL AND PLANT SPECIES OF COMMUNITY INTEREST WHOSE TAKING IN THE WILD AND EXPLOITATION MAY BE SUBJECT TO MANAGEMENT MEASURES
+
+The species listed in this Annex are indicated:
+
+— by the name of the species or subspecies, or
+
+— by the body of species belonging to a higher taxon or to a designated part of that taxon.
+
+The abbreviation ‘spp.’ after the name of a family or genus designates all the species belonging to that family or genus.
+
+**(a) ANIMALS**
+
+**VERTEBRATES**
+
+**MAMMALS**
+
+RODENTIA
+
+Castoridae
+
+Castor fiber (Finnish, Swedish, Latvian, Lithuanian, Estonian and Polish populations)
+
+Cricetidae
+
+Cricetus cricetus (Hungarian populations)
+
+CARNIVORA
+
+Canidae
+
+Canis aureus
+
+Canis lupus
+
+Mustelidae
+
+Martes martes
+
+Mustela putorius
+
+Felidae
+
+Lynx lynx (Estonian population)
+
+Phocidae
+
+All species not mentioned in Annex IV
+
+Viverridae
+
+Genetta genetta
+
+Herpestes ichneumon
+
+DUPLICIDENTATA
+
+Leporidae
+
+Lepus timidus
+
+ARTIODACTYLA
+
+Bovidae
+
+Capra ibex
+
+Capra pyrenaica (except Capra pyrenaica pyrenaica)
+
+Rupicapra rupicapra (except Rupicapra rupicapra balcanica, Rupicapra rupicapra ornata and Rupicapra rupicapra tatrica)
+
+**AMPHIBIANS**
+
+ANURA
+
+Ranidae
+
+Rana esculenta
+
+Rana perezi
+
+Rana ridibunda
+
+Rana temporaria
+
+**FISH**
+
+PETROMYZONIFORMES
+
+Petromyzonidae
+
+Lampetra fluviatilis
+
+Lethenteron zanandrai
+
+ACIPENSERIFORMES
+
+Acipenseridae
+
+All species not mentioned in Annex IV
+
+CLUPEIFORMES
+
+Clupeidae
+
+Alosa spp.
+
+SALMONIFORMES
+
+Salmonidae
+
+Thymallus thymallus
+
+Coregonus spp. (except Coregonus oxyrhynchus — anadromous populations in certain sectors of the North Sea)
+
+Hucho hucho
+
+Salmo salar (only in fresh water)
+
+CYPRINIFORMES
+
+Cyprinidae
+
+Aspius aspius
+
+Barbus spp.
+
+Pelecus cultratus
+
+Rutilus friesii meidingeri
+
+Rutilus pigus
+
+SILURIFORMES
+
+Siluridae
+
+Silurus aristotelis
+
+PERCIFORMES
+
+Percidae
+
+Gymnocephalus schraetzer
+
+Zingel zingel
+
+**INVERTEBRATES**
+
+**COELENTERATA**
+
+CNIDARIA
+
+Corallium rubrum
+
+**MOLLUSCA**
+
+GASTROPODA — STYLOMMATOPHORA
+
+Helix pomatia
+
+BIVALVIA — UNIONOIDA
+
+Margaritiferidae
+
+Margaritifera margaritifera
+
+Unionidae
+
+Microcondylaea compressa
+
+Unio elongatulus
+
+**ANNELIDA**
+
+HIRUDINOIDEA — ARHYNCHOBDELLAE
+
+Hirudinidae
+
+Hirudo medicinalis
+
+**ARTHROPODA**
+
+CRUSTACEA — DECAPODA
+
+Astacidae
+
+Astacus astacus
+
+Austropotamobius pallipes
+
+Austropotamobius torrentium
+
+Scyllaridae
+
+Scyllarides latus
+
+INSECTA — LEPIDOPTERA
+
+Saturniidae
+
+Graellsia isabellae
+
+**(b) PLANTS**
+
+**ALGAE**
+
+RHODOPHYTA
+
+CORALLINACEAE
+
+Lithothamnium coralloides Crouan frat.
+
+Phymatholithon calcareum (Poll.) Adey & McKibbin
+
+**LICHENES**
+
+CLADONIACEAE
+
+Cladonia L. subgenus Cladina (Nyl.) Vain.
+
+**BRYOPHYTA**
+
+MUSCI
+
+LEUCOBRYACEAE
+
+Leucobryum glaucum (Hedw.) AAngstr.
+
+SPHAGNACEAE
+
+Sphagnum L. spp. (except Sphagnum pylaisii Brid.)
+
+**PTERIDOPHYTA**
+
+Lycopodium spp.
+
+**ANGIOSPERMAE**
+
+AMARYLLIDACEAE
+
+Galanthus nivalis L.
+
+Narcissus bulbocodium L.
+
+Narcissus juncifolius Lagasca
+
+COMPOSITAE
+
+Arnica montana L.
+
+Artemisia eriantha Tem
+
+Artemisia genipi Weber
+
+Doronicum plantagineum L. subsp. tournefortii (Rouy) P. Cout.
+
+Leuzea rhaponticoides Graells
+
+CRUCIFERAE
+
+Alyssum pintadasilvae Dudley.
+
+Malcolmia lacera (L.) DC. subsp. graccilima (Samp.) Franco
+
+Murbeckiella pinnatifida (Lam.) Rothm. subsp. herminii (Rivas-Martinez) Greuter & Burdet
+
+GENTIANACEAE
+
+Gentiana lutea L.
+
+IRIDACEAE
+
+Iris lusitanica Ker-Gawler
+
+LABIATAE
+
+Teucrium salviastrum Schreber subsp. salviastrum Schreber
+
+LEGUMINOSAE
+
+Anthyllis lusitanica Cullen & Pinto da Silva
+
+Dorycnium pentaphyllum Scop. subsp. transmontana Franco
+
+Ulex densus Welw. ex Webb.
+
+LILIACEAE
+
+Lilium rubrum Lmk
+
+Ruscus aculeatus L.
+
+PLUMBAGINACEAE
+
+Armeria sampaio (Bernis) Nieto Feliner
+
+ROSACEAE
+
+Rubus genevieri Boreau subsp. herminii (Samp.) P. Cout.
+
+SCROPHULARIACEAE
+
+Anarrhinum longipedicelatum R. Fernandes
+
+Euphrasia mendonçae Samp.
+
+Scrophularia grandiflora DC. subsp. grandiflora DC.
+
+Scrophularia berminii Hoffmanns & Link
+
+Scrophularia sublyrata Brot.
+
+## ANNEX VI — PROHIBITED METHODS AND MEANS OF CAPTURE AND KILLING AND MODES OF TRANSPORT
+
+**(a) Non-selective means**
+
+**MAMMALS**
+
+— Blind or mutilated animals used as live decoys
+
+— Tape recorders
+
+— Electrical and electronic devices capable of killing or stunning
+
+— Artificial light sources
+
+— Mirrors and other dazzling devices
+
+— Devices for illuminating targets
+
+— Sighting devices for night shooting comprising an electronic image magnifier or image converter
+
+— Explosives
+
+— Nets which are non-selective according to their principle or their conditions of use
+
+— Traps which are non-selective according to their principle or their conditions of use
+
+— Crossbows
+
+— Poisons and poisoned or anaesthetic bait
+
+— Gassing or smoking out
+
+— Semi-automatic or automatic weapons with a magazine capable of holding more than two rounds of ammunition
+
+**FISH**
+
+— Poison
+
+— Explosives
+
+**(b) Modes of transport**
+
+— Aircraft
+
+— Moving motor vehicles
+
+( 1 ) Council Decision 1999/468/EC of 28 June 1999 laying down the procedures for the exercise of implementing powers conferred on the Commission (OJ L 184, 17.7.1999, p. 23).
+
+( 2 ) (+)
+
+Interpretation Manual of European Union Habitats, version EUR 15/2, adopted by the Habitats Committee on 4 October 1999 and Amendments to the ‘Interpretation Manual of European Union Habitats’ with a view to EU enlargement (Hab. 01/11b-rev. 1), adopted by the Habitats Committee on 24 April 2002 after written consultation, European Commission, Directorate General for Environment;
+
+( *1 ) Except bryophytes in Annex II (b).

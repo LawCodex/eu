@@ -1,0 +1,1356 @@
+---
+title: "Directive 2008/50/EC of the European Parliament and of the Council of 21 May 2008 on ambient air quality and cleaner air for Europe"
+identifier: "32008L0050"
+eli: "http://data.europa.eu/eli/dir/2008/50/oj"
+type: directive
+jurisdiction: eu
+language: en
+date: 2008-05-21
+entry_into_force: 2008-03-21
+last_amended: 2015-09-18
+consolidated_version: "02008L0050-20150918"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02008L0050-20150918"
+retrieved: 2026-10-11
+---
+
+# Directive 2008/50/EC of the European Parliament and of the Council of 21 May 2008 on ambient air quality and cleaner air for Europe
+
+**DIRECTIVE 2008/50/EC OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 21 May 2008**
+
+**on ambient air quality and cleaner air for Europe**
+
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> COMMISSION DIRECTIVE (EU) 2015/1480 of 28 August 2015 </td><td> L 226</td><td>4</td><td>29.8.2015</td></tr>
+
+**DIRECTIVE 2008/50/EC OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 21 May 2008**
+
+**on ambient air quality and cleaner air for Europe**
+
+## CHAPTER I — GENERAL PROVISIONS
+
+#### Article 1 — Subject matter
+
+This Directive lays down measures aimed at the following:
+
+1\. defining and establishing objectives for ambient air quality designed to avoid, prevent or reduce harmful effects on human health and the environment as a whole;
+
+2\. assessing the ambient air quality in Member States on the basis of common methods and criteria;
+
+3\. obtaining information on ambient air quality in order to help combat air pollution and nuisance and to monitor long-term trends and improvements resulting from national and Community measures;
+
+4\. ensuring that such information on ambient air quality is made available to the public;
+
+5\. maintaining air quality where it is good and improving it in other cases;
+
+6\. promoting increased cooperation between the Member States in reducing air pollution.
+
+#### Article 2 — Definitions
+
+For the purposes of this Directive:
+
+1\. ‘ambient air’ shall mean outdoor air in the troposphere, excluding workplaces as defined by Directive 89/654/EEC ( 1 ) where provisions concerning health and safety at work apply and to which members of the public do not have regular access;
+
+2\. ‘pollutant’ shall mean any substance present in ambient air and likely to have harmful effects on human health and/or the environment as a whole;
+
+3\. ‘level’ shall mean the concentration of a pollutant in ambient air or the deposition thereof on surfaces in a given time;
+
+4\. ‘assessment’ shall mean any method used to measure, calculate, predict or estimate levels;
+
+5\. ‘limit value’ shall mean a level fixed on the basis of scientific knowledge, with the aim of avoiding, preventing or reducing harmful effects on human health and/or the environment as a whole, to be attained within a given period and not to be exceeded once attained;
+
+6\. ‘critical level’ shall mean a level fixed on the basis of scientific knowledge, above which direct adverse effects may occur on some receptors, such as trees, other plants or natural ecosystems but not on humans;
+
+7\. ‘margin of tolerance’ shall mean the percentage of the limit value by which that value may be exceeded subject to the conditions laid down in this Directive;
+
+8\. ‘air quality plans’ shall mean plans that set out measures in order to attain the limit values or target values;
+
+9\. ‘target value’ shall mean a level fixed with the aim of avoiding, preventing or reducing harmful effects on human health and/or the environment as a whole, to be attained where possible over a given period;
+
+10\. ‘alert threshold’ shall mean a level beyond which there is a risk to human health from brief exposure for the population as a whole and at which immediate steps are to be taken by the Member States;
+
+11\. ‘information threshold’ shall mean a level beyond which there is a risk to human health from brief exposure for particularly sensitive sections of the population and for which immediate and appropriate information is necessary;
+
+12\. ‘upper assessment threshold’ shall mean a level below which a combination of fixed measurements and modelling techniques and/or indicative measurements may be used to assess ambient air quality;
+
+13\. ‘lower assessment threshold’ shall mean a level below which modelling or objective-estimation techniques alone may be used to assess ambient air quality;
+
+14\. ‘long-term objective’ shall mean a level to be attained in the long term, save where not achievable through proportionate measures, with the aim of providing effective protection of human health and the environment;
+
+15\. ‘contributions from natural sources’ shall mean emissions of pollutants not caused directly or indirectly by human activities, including natural events such as volcanic eruptions, seismic activities, geothermal activities, wild-land fires, high-wind events, sea sprays or the atmospheric re-suspension or transport of natural particles from dry regions;
+
+16\. ‘zone’ shall mean part of the territory of a Member State, as delimited by that Member State for the purposes of air quality assessment and management;
+
+17\. ‘agglomeration’ shall mean a zone that is a conurbation with a population in excess of 250 000 inhabitants or, where the population is 250 000 inhabitants or less, with a given population density per km2 to be established by the Member States;
+
+18\. ‘PM10’ shall mean particulate matter which passes through a size-selective inlet as defined in the reference method for the sampling and measurement of PM10, EN 12341, with a 50 % efficiency cut-off at 10 μm aerodynamic diameter;
+
+19\. ‘PM2,5’ shall mean particulate matter which passes through a size-selective inlet as defined in the reference method for the sampling and measurement of PM2,5, EN 14907, with a 50 % efficiency cut-off at 2,5 μm aerodynamic diameter;
+
+20\. ‘average exposure indicator’ shall mean an average level determined on the basis of measurements at urban background locations throughout the territory of a Member State and which reflects population exposure. It is used to calculate the national exposure reduction target and the exposure concentration obligation;
+
+21\. ‘exposure concentration obligation’ shall mean a level fixed on the basis of the average exposure indicator with the aim of reducing harmful effects on human health, to be attained over a given period;
+
+22\. ‘national exposure reduction target’ shall mean a percentage reduction of the average exposure of the population of a Member State set for the reference year with the aim of reducing harmful effects on human health, to be attained where possible over a given period;
+
+23\. ‘urban background locations’ shall mean places in urban areas where levels are representative of the exposure of the general urban population;
+
+24\. ‘oxides of nitrogen’ shall mean the sum of the volume mixing ratio (ppbv) of nitrogen monoxide (nitric oxide) and nitrogen dioxide expressed in units of mass concentration of nitrogen dioxide (μg/m3);
+
+25\. ‘fixed measurements’ shall mean measurements taken at fixed sites, either continuously or by random sampling, to determine the levels in accordance with the relevant data quality objectives;
+
+26\. ‘indicative measurements’ shall mean measurements which meet data quality objectives that are less strict than those required for fixed measurements;
+
+27\. ‘volatile organic compounds’ (VOC) shall mean organic compounds from anthropogenic and biogenic sources, other than methane, that are capable of producing photochemical oxidants by reactions with nitrogen oxides in the presence of sunlight;
+
+28\. ‘ozone precursor substances’ means substances which contribute to the formation of ground-level ozone, some of which are listed in Annex X.
+
+#### Article 3 — Responsibilities
+
+Member States shall designate at the appropriate levels the competent authorities and bodies responsible for the following:
+
+(a) assessment of ambient air quality;
+
+(b) approval of measurement systems (methods, equipment, networks and laboratories);
+
+(c) ensuring the accuracy of measurements;
+
+(d) analysis of assessment methods;
+
+(e) coordination on their territory if Community-wide quality assurance programmes are being organised by the Commission;
+
+(f) cooperation with the other Member States and the Commission.
+
+Where relevant, the competent authorities and bodies shall comply with Section C of Annex I.
+
+#### Article 4 — Establishment of zones and agglomerations
+
+Member States shall establish zones and agglomerations throughout their territory. Air quality assessment and air quality management shall be carried out in all zones and agglomerations.
+
+## CHAPTER II — ASSESSMENT OF AMBIENT AIR QUALITY
+
+### SECTION 1 — Assessment of ambient air quality in relation to sulphur dioxide, nitrogen dioxide and oxides of nitrogen, particulate matter, lead, benzene and carbon monoxide
+
+#### Article 5 — Assessment regime
+
+1\. The upper and lower assessment thresholds specified in Section A of Annex II shall apply to sulphur dioxide, nitrogen dioxide and oxides of nitrogen, particulate matter (PM10 and PM2,5), lead, benzene and carbon monoxide.
+
+Each zone and agglomeration shall be classified in relation to those assessment thresholds.
+
+2\. The classification referred to in paragraph 1 shall be reviewed at least every five years in accordance with the procedure laid down in Section B of Annex II.
+
+However, classifications shall be reviewed more frequently in the event of significant changes in activities relevant to the ambient concentrations of sulphur dioxide, nitrogen dioxide or, where relevant, oxides of nitrogen, particulate matter (PM10, PM2,5), lead, benzene or carbon monoxide.
+
+#### Article 6 — Assessment criteria
+
+1\. Member States shall assess ambient air quality with respect to the pollutants referred to in Article 5 in all their zones and agglomerations, in accordance with the criteria laid down in paragraphs 2, 3 and 4 of this Article and in accordance with the criteria laid down in Annex III.
+
+2\. In all zones and agglomerations where the level of pollutants referred to in paragraph 1 exceeds the upper assessment threshold established for those pollutants, fixed measurements shall be used to assess the ambient air quality. Those fixed measurements may be supplemented by modelling techniques and/or indicative measurements to provide adequate information on the spatial distribution of the ambient air quality.
+
+3\. In all zones and agglomerations where the level of pollutants referred to in paragraph 1 is below the upper assessment threshold established for those pollutants, a combination of fixed measurements and modelling techniques and/or indicative measurements may be used to assess the ambient air quality.
+
+4\. In all zones and agglomerations where the level of pollutants referred to in paragraph 1 is below the lower assessment threshold established for those pollutants, modelling techniques or objective-estimation techniques or both shall be sufficient for the assessment of the ambient air quality.
+
+5\. In addition to the assessments referred to in paragraphs 2, 3 and 4, measurements shall be made, at rural background locations away from significant sources of air pollution, for the purposes of providing, as a minimum, information on the total mass concentration and the chemical speciation concentrations of fine particulate matter (PM2,5) on an annual average basis and shall be conducted using the following criteria:
+
+(a) one sampling point shall be installed every 100 000 km2;
+
+(b) each Member State shall set up at least one measuring station or may, by agreement with adjoining Member States, set up one or several common measuring stations, covering the relevant neighbouring zones, to achieve the necessary spatial resolution;
+
+(c) where appropriate, monitoring shall be coordinated with the monitoring strategy and measurement programme of the Cooperative Programme for Monitoring and Evaluation of the Long-range Transmission of Air Pollutants in Europe (EMEP);
+
+(d) Sections A and C of Annex I shall apply in relation to the data quality objectives for mass concentration measurements of particulate matter and Annex IV shall apply in its entirety.
+
+Member States shall inform the Commission of the measurement methods used in the measurement of the chemical composition of fine particulate matter (PM2,5).
+
+#### Article 7 — Sampling points
+
+1\. The location of sampling points for the measurement of sulphur dioxide, nitrogen dioxide and oxides of nitrogen, particulate matter (PM10, PM2,5), lead, benzene and carbon monoxide in ambient air shall be determined using the criteria listed in Annex III.
+
+2\. In each zone or agglomeration where fixed measurements are the sole source of information for assessing air quality, the number of sampling points for each relevant pollutant shall not be less than the minimum number of sampling points specified in Section A of Annex V.
+
+3\. For zones and agglomerations within which information from fixed measurement sampling points is supplemented by information from modelling and/or indicative measurement, the total number of sampling points specified in Section A of Annex V may be reduced by up to 50 %, provided that the following conditions are met:
+
+(a) the supplementary methods provide sufficient information for the assessment of air quality with regard to limit values or alert thresholds, as well as adequate information for the public;
+
+(b) the number of sampling points to be installed and the spatial resolution of other techniques are sufficient for the concentration of the relevant pollutant to be established in accordance with the data quality objectives specified in Section A of Annex I and enable assessment results to meet the criteria specified in Section B of Annex I.
+
+The results of modelling and/or indicative measurement shall be taken into account for the assessment of air quality with respect to the limit values.
+
+4\. The application in Member States of the criteria for selecting sampling points shall be monitored by the Commission so as to facilitate the harmonised application of those criteria throughout the European Union.
+
+#### Article 8 — Reference measurement methods
+
+1\. Member States shall apply the reference measurement methods and criteria specified in Section A and Section C of Annex VI.
+
+2\. Other measurement methods may be used subject to the conditions set out in Section B of Annex VI.
+
+### SECTION 2 — Assessment of ambient air quality in relation to ozone
+
+#### Article 9 — Assessment criteria
+
+1\. Where, in a zone or agglomeration, concentrations of ozone have exceeded the long-term objectives specified in Section C of Annex VII during any of the previous five years of measurement, fixed measurements shall be taken.
+
+2\. Where fewer than five years' data are available, Member States may, for the purposes of determining whether the long-term objectives referred to in paragraph 1 have been exceeded during those five years, combine the results from measurement campaigns of short duration carried out when and where levels are likely to be at their highest, with the results obtained from emission inventories and modelling.
+
+#### Article 10 — Sampling points
+
+1\. The siting of sampling points for the measurement of ozone shall be determined using the criteria set out in Annex VIII.
+
+2\. The sampling points for fixed measurements of ozone in each zone or agglomeration within which measurement is the sole source of information for assessing air quality shall not be less than the minimum number of sampling points specified in Section A of Annex IX.
+
+3\. For zones and agglomerations within which information from sampling points for fixed measurements is supplemented by information from modelling and/or indicative measurements, the number of sampling points specified in Section A of Annex IX may be reduced provided that the following conditions are met:
+
+(a) the supplementary methods provide sufficient information for the assessment of air quality with regard to target values, long-term objectives, information and alert thresholds;
+
+(b) the number of sampling points to be installed and the spatial resolution of other techniques are sufficient for the concentration of ozone to be established in accordance with the data quality objectives specified in Section A of Annex I and enable assessment results to meet the criteria specified in Section B of Annex I;
+
+(c) the number of sampling points in each zone or agglomeration amounts to at least one sampling point per two million inhabitants or one sampling point per 50 000 km2, whichever produces the greater number of sampling points, but must not be less than one sampling point in each zone or agglomeration;
+
+(d) nitrogen dioxide is measured at all remaining sampling points except at rural background stations as referred to in Section A of Annex VIII.
+
+The results of modelling and/or indicative measurement shall be taken into account for the assessment of air quality with respect to the target values.
+
+4\. Nitrogen dioxide shall be measured at a minimum of 50 % of the ozone sampling points required under Section A of Annex IX. That measurement shall be continuous except at rural background stations, as referred to in Section A of Annex VIII, where other measurement methods may be used.
+
+5\. In zones and agglomerations where, during each of the previous five years of measurement, concentrations are below the long-term objectives, the number of sampling points for fixed measurements shall be determined in accordance with Section B of Annex IX.
+
+6\. Each Member State shall ensure that at least one sampling point is installed and operated in its territory to supply data on concentrations of the ozone precursor substances listed in Annex X. Each Member State shall choose the number and siting of the stations at which ozone precursor substances are to be measured, taking into account the objectives and methods laid down in Annex X.
+
+#### Article 11 — Reference measurement methods
+
+1\. Member States shall apply the reference method for measurement of ozone, set out in point 8 of Section A of Annex VI. Other measuring methods may be used subject to the conditions set out in Section B of Annex VI.
+
+2\. Each Member State shall inform the Commission of the methods it uses to sample and measure VOC, as listed in Annex X.
+
+## CHAPTER III — AMBIENT AIR QUALITY MANAGEMENT
+
+#### Article 12 — Requirements where levels are lower than the limit values
+
+In zones and agglomerations where the levels of sulphur dioxide, nitrogen dioxide, PM10, PM2,5, lead, benzene and carbon monoxide in ambient air are below the respective limit values specified in Annexes XI and XIV, Member States shall maintain the levels of those pollutants below the limit values and shall endeavour to preserve the best ambient air quality, compatible with sustainable development.
+
+#### Article 13 — Limit values and alert thresholds for the protection of human health
+
+1\. Member States shall ensure that, throughout their zones and agglomerations, levels of sulphur dioxide, PM10, lead, and carbon monoxide in ambient air do not exceed the limit values laid down in Annex XI.
+
+In respect of nitrogen dioxide and benzene, the limit values specified in Annex XI may not be exceeded from the dates specified therein.
+
+Compliance with these requirements shall be assessed in accordance with Annex III.
+
+The margins of tolerance laid down in Annex XI shall apply in accordance with Article 22(3) and Article 23(1).
+
+2\. The alert thresholds for concentrations of sulphur dioxide and nitrogen dioxide in ambient air shall be those laid down in Section A of Annex XII.
+
+#### Article 14 — Critical levels
+
+1\. Member States shall ensure compliance with the critical levels specified in Annex XIII as assessed in accordance with Section A of Annex III.
+
+2\. Where fixed measurements are the sole source of information for assessing air quality, the number of sampling points shall not be less than the minimum number specified in Section C of Annex V. Where that information is supplemented by indicative measurements or modelling, the minimum number of sampling points may be reduced by up to 50 % so long as the assessed concentrations of the relevant pollutant can be established in accordance with the data quality objectives specified in Section A of Annex I.
+
+#### Article 15 — National PM2,5 exposure reduction target for the protection of human health
+
+1\. Member States shall take all necessary measures not entailing disproportionate costs to reduce exposure to PM2,5 with a view to attaining the national exposure reduction target laid down in Section B of Annex XIV by the year specified therein.
+
+2\. Member States shall ensure that the average exposure indicator for the year 2015 established in accordance with Section A of Annex XIV does not exceed the exposure concentration obligation laid down in Section C of that Annex.
+
+3\. The average exposure indicator for PM2,5 shall be assessed in accordance with Section A of Annex XIV.
+
+4\. Each Member State shall, in accordance with Annex III, ensure that the distribution and the number of sampling points on which the average exposure indicator for PM2,5 is based reflect the general population exposure adequately. The number of sampling points shall be no less than that determined by application of Section B of Annex V.
+
+#### Article 16 — PM2,5 target value and limit value for the protection of human health
+
+1\. Member States shall take all necessary measures not entailing disproportionate costs to ensure that concentrations of PM2,5 in ambient air do not exceed the target value laid down in Section D of Annex XIV as from the date specified therein.
+
+2\. Member States shall ensure that concentrations of PM2,5 in ambient air do not exceed the limit value laid down in Section E of Annex XIV throughout their zones and agglomerations as from the date specified therein. Compliance with this requirement shall be assessed in accordance with Annex III.
+
+3\. The margin of tolerance laid down in Section E of Annex XIV shall apply in accordance with Article 23(1).
+
+#### Article 17 — Requirements in zones and agglomerations where ozone concentrations exceed the target values and long-term objectives
+
+1\. Member States shall take all necessary measures not entailing disproportionate costs to ensure that the target values and long-term objectives are attained.
+
+2\. For zones and agglomerations in which a target value is exceeded, Member States shall ensure that the programme prepared pursuant to Article 6 of Directive 2001/81/EC and, if appropriate, an air quality plan is implemented in order to attain the target values, save where not achievable through measures not entailing disproportionate costs, as from the date specified in Section B of Annex VII to this Directive.
+
+3\. For zones and agglomerations in which the levels of ozone in ambient air are higher than the long-term objectives but below, or equal to, the target values, Member States shall prepare and implement cost-effective measures with the aim of achieving the long-term objectives. Those measures shall, at least, be consistent with all the air quality plans and the programme referred to in paragraph 2.
+
+#### Article 18 — Requirements in zones and agglomerations where ozone concentrations meet the long-term objectives
+
+In zones and agglomerations in which ozone levels meet the long-term objectives, Member States shall, in so far as factors including the transboundary nature of ozone pollution and meteorological conditions permit, maintain those levels below the long-term objectives and shall preserve through proportionate measures the best ambient air quality compatible with sustainable development and a high level of environmental and human health protection.
+
+#### Article 19 — Measures required in the event of information or alert thresholds being exceeded
+
+Where the information threshold specified in Annex XII or any of the alert thresholds laid down therein is exceeded, Member States shall take the necessary steps to inform the public by means of radio, television, newspapers or the Internet.
+
+Member States shall also forward to the Commission, on a provisional basis, information concerning the levels recorded and the duration of the periods during which the alert threshold or information threshold was exceeded.
+
+#### Article 20 — Contributions from natural sources
+
+1\. Member States shall transmit to the Commission, for a given year, lists of zones and agglomerations where exceedances of limit values for a given pollutant are attributable to natural sources. Member States shall provide information on concentrations and sources and the evidence demonstrating that the exceedances are attributable to natural sources.
+
+2\. Where the Commission has been informed of an exceedance attributable to natural sources in accordance with paragraph 1, that exceedance shall not be considered as an exceedance for the purposes of this Directive.
+
+3\. The Commission shall by 11 June 2010 publish guidelines for demonstration and subtraction of exceedances attributable to natural sources.
+
+#### Article 21 — Exceedances attributable to winter-sanding or -salting of roads
+
+1\. Member States may designate zones or agglomerations within which limit values for PM10 are exceeded in ambient air due to the re-suspension of particulates following winter-sanding or -salting of roads.
+
+2\. Member States shall send the Commission lists of any such zones or agglomerations together with information on concentrations and sources of PM10 therein.
+
+3\. When informing the Commission in accordance with Article 27, Member States shall provide the necessary evidence to demonstrate that any exceedances are due to re-suspended particulates and that reasonable measures have been taken to lower the concentrations.
+
+4\. Without prejudice to Article 20, in the case of zones and agglomerations referred to in paragraph 1 of this Article, Member States need to establish the air quality plan provided for in Article 23 only in so far as exceedances are attributable to PM10 sources other than winter-sanding or -salting of roads.
+
+5\. The Commission shall by 11 June 2010 publish guidelines for determination of contributions from the re-suspension of particulates following winter-sanding or -salting of roads.
+
+#### Article 22 — Postponement of attainment deadlines and exemption from the obligation to apply certain limit values
+
+1\. Where, in a given zone or agglomeration, conformity with the limit values for nitrogen dioxide or benzene cannot be achieved by the deadlines specified in Annex XI, a Member State may postpone those deadlines by a maximum of five years for that particular zone or agglomeration, on condition that an air quality plan is established in accordance with Article 23 for the zone or agglomeration to which the postponement would apply; such air quality plan shall be supplemented by the information listed in Section B of Annex XV related to the pollutants concerned and shall demonstrate how conformity will be achieved with the limit values before the new deadline.
+
+2\. Where, in a given zone or agglomeration, conformity with the limit values for PM10 as specified in Annex XI cannot be achieved because of site-specific dispersion characteristics, adverse climatic conditions or transboundary contributions, a Member State shall be exempt from the obligation to apply those limit values until 11 June 2011 provided that the conditions laid down in paragraph 1 are fulfilled and that the Member State shows that all appropriate measures have been taken at national, regional and local level to meet the deadlines.
+
+3\. Where a Member State applies paragraphs 1 or 2, it shall ensure that the limit value for each pollutant is not exceeded by more than the maximum margin of tolerance specified in Annex XI for each of the pollutants concerned.
+
+4\. Member States shall notify the Commission where, in their view, paragraphs 1 or 2 are applicable, and shall communicate the air quality plan referred to in paragraph 1 including all relevant information necessary for the Commission to assess whether or not the relevant conditions are satisfied. In its assessment, the Commission shall take into account estimated effects on ambient air quality in the Member States, at present and in the future, of measures that have been taken by the Member States as well as estimated effects on ambient air quality of current Community measures and planned Community measures to be proposed by the Commission.
+
+Where the Commission has raised no objections within nine months of receipt of that notification, the relevant conditions for the application of paragraphs 1 or 2 shall be deemed to be satisfied.
+
+If objections are raised, the Commission may require Member States to adjust or provide new air quality plans.
+
+## CHAPTER IV — PLANS
+
+#### Article 23 — Air quality plans
+
+1\. Where, in given zones or agglomerations, the levels of pollutants in ambient air exceed any limit value or target value, plus any relevant margin of tolerance in each case, Member States shall ensure that air quality plans are established for those zones and agglomerations in order to achieve the related limit value or target value specified in Annexes XI and XIV.
+
+In the event of exceedances of those limit values for which the attainment deadline is already expired, the air quality plans shall set out appropriate measures, so that the exceedance period can be kept as short as possible. The air quality plans may additionally include specific measures aiming at the protection of sensitive population groups, including children.
+
+Those air quality plans shall incorporate at least the information listed in Section A of Annex XV and may include measures pursuant to Article 24. Those plans shall be communicated to the Commission without delay, but no later than two years after the end of the year the first exceedance was observed.
+
+Where air quality plans must be prepared or implemented in respect of several pollutants, Member States shall, where appropriate, prepare and implement integrated air quality plans covering all pollutants concerned.
+
+2\. Member States shall, to the extent feasible, ensure consistency with other plans required under Directive 2001/80/EC, Directive 2001/81/EC or Directive 2002/49/EC in order to achieve the relevant environmental objectives.
+
+#### Article 24 — Short-term action plans
+
+1\. Where, in a given zone or agglomeration, there is a risk that the levels of pollutants will exceed one or more of the alert thresholds specified in Annex XII, Member States shall draw up action plans indicating the measures to be taken in the short term in order to reduce the risk or duration of such an exceedance. Where this risk applies to one or more limit values or target values specified in Annexes VII, XI and XIV, Member States may, where appropriate, draw up such short-term action plans.
+
+However, where there is a risk that the alert threshold for ozone specified in Section B of Annex XII will be exceeded, Member States shall only draw up such short-term action plans when in their opinion there is a significant potential, taking into account national geographical, meteorological and economic conditions, to reduce the risk, duration or severity of such an exceedance. When drawing up such a short-term action plan Member States shall take account of Decision 2004/279/EC.
+
+2\. The short-term action plans referred to in paragraph 1 may, depending on the individual case, provide for effective measures to control and, where necessary, suspend activities which contribute to the risk of the respective limit values or target values or alert threshold being exceeded. Those action plans may include measures in relation to motor-vehicle traffic, construction works, ships at berth, and the use of industrial plants or products and domestic heating. Specific actions aiming at the protection of sensitive population groups, including children, may also be considered in the framework of those plans.
+
+3\. When Member States have drawn up a short-term action plan, they shall make available to the public and to appropriate organisations such as environmental organisations, consumer organisations, organisations representing the interests of sensitive population groups, other relevant health-care bodies and the relevant industrial federations both the results of their investigations on the feasibility and the content of specific short-term action plans as well as information on the implementation of these plans.
+
+4\. For the first time before 11 June 2010 and at regular intervals thereafter, the Commission shall publish examples of best practices for the drawing-up of short-term action plans, including examples of best practices for the protection of sensitive population groups, including children.
+
+#### Article 25 — Transboundary air pollution
+
+1\. Where any alert threshold, limit value or target value plus any relevant margin of tolerance or long-term objective is exceeded due to significant transboundary transport of air pollutants or their precursors, the Member States concerned shall cooperate and, where appropriate, draw up joint activities, such as the preparation of joint or coordinated air quality plans pursuant to Article 23 in order to remove such exceedances through the application of appropriate but proportionate measures.
+
+2\. The Commission shall be invited to be present and to assist in any cooperation referred to in paragraph 1. Where appropriate, the Commission shall, taking into account the reports established pursuant to Article 9 of Directive 2001/81/EC, consider whether further action should be taken at Community level in order to reduce precursor emissions responsible for transboundary pollution.
+
+3\. Member States shall, if appropriate pursuant to Article 24, prepare and implement joint short-term action plans covering neighbouring zones in other Member States. Member States shall ensure that neighbouring zones in other Member States which have developed short-term action plans receive all appropriate information.
+
+4\. Where the information threshold or alert thresholds are exceeded in zones or agglomerations close to national borders, information shall be provided as soon as possible to the competent authorities in the neighbouring Member States concerned. That information shall also be made available to the public.
+
+5\. In drawing up plans as provided for in paragraphs 1 and 3 and in informing the public as referred to in paragraph 4, Member States shall, where appropriate, endeavour to pursue cooperation with third countries, and in particular with candidate countries.
+
+## CHAPTER V — INFORMATION AND REPORTING
+
+#### Article 26 — Public information
+
+1\. Member States shall ensure that the public as well as appropriate organisations such as environmental organisations, consumer organisations, organisations representing the interests of sensitive populations, other relevant health-care bodies and the relevant industrial federations are informed, adequately and in good time, of the following:
+
+(a) ambient air quality in accordance with Annex XVI;
+
+(b) any postponement decisions pursuant to Article 22(1);
+
+(c) any exemptions pursuant to Article 22(2);
+
+(d) air quality plans as provided for in Article 22(1) and Article 23 and programmes referred to in Article 17(2).
+
+The information shall be made available free of charge by means of any easily accessible media including the Internet or any other appropriate means of telecommunication, and shall take into account the provisions laid down in Directive 2007/2/EC.
+
+2\. Member States shall make available to the public annual reports for all pollutants covered by this Directive.
+
+Those reports shall summarise the levels exceeding limit values, target values, long-term objectives, information thresholds and alert thresholds, for the relevant averaging periods. That information shall be combined with a summary assessment of the effects of those exceedances. The reports may include, where appropriate, further information and assessments on forest protection as well as information on other pollutants for which monitoring provisions are specified in this Directive, such as, inter alia, selected non-regulated ozone precursor substances as listed in Section B of Annex X.
+
+3\. Member States shall inform the public of the competent authority or body designated in relation to the tasks referred to in Article 3.
+
+#### Article 27 — Transmission of information and reporting
+
+1\. Member States shall ensure that information on ambient air quality is made available to the Commission within the required timescale as determined by the implementing measures referred to in Article 28(2).
+
+2\. In any event, for the specific purpose of assessing compliance with the limit values and critical levels and the attainment of target values, such information shall be made available to the Commission no later than nine months after the end of each year and shall include:
+
+(a) the changes made in that year to the list and delimitation of zones and agglomerations established under Article 4;
+
+(b) the list of zones and agglomerations in which the levels of one or more pollutants are higher than the limit values plus the margin of tolerance where applicable or higher than target values or critical levels; and for these zones and agglomerations:
+
+(i) levels assessed and, if relevant, the dates and periods when such levels were observed;
+
+(ii) if appropriate, an assessment on contributions from natural sources and from re-suspension of particulates following winter-sanding or -salting of roads to the levels assessed, as declared to the Commission under Articles 20 and 21.
+
+3\. Paragraphs 1 and 2 shall apply to information collected as from the beginning of the second calendar year after the entry into force of the implementing measures referred to in Article 28(2).
+
+#### Article 28 — Implementing measures
+
+1\. Measures designed to amend the non-essential elements of this Directive, namely Annexes I to VI, Annexes VIII to X and Annex XV, shall be adopted in accordance with the regulatory procedure with scrutiny referred to in Article 29(3).
+
+However, the amendments may not have the effect of directly or indirectly modifying either of the following:
+
+(a) the limit values, exposure reduction targets, critical levels, target values, information or alert thresholds or long-term objectives specified in Annex VII and Annexes XI to XIV;
+
+(b) the dates for compliance with any of the parameters referred to in point (a).
+
+2\. The Commission shall, in accordance with the regulatory procedure referred to in Article 29(2), determine the additional information to be made available by Member States pursuant to Article 27 as well as the timescales in which such information is to be communicated.
+
+The Commission shall also identify ways of streamlining the way data are reported and the reciprocal exchange of information and data from networks and individual stations measuring ambient air pollution within the Member States, in accordance with the regulatory procedure referred to in Article 29(2).
+
+3\. The Commission shall draw up guidelines for the agreements on setting up common measuring stations as referred to in Article 6(5).
+
+4\. The Commission shall publish guidance on the demonstration of equivalence referred to in Section B of Annex VI.
+
+## CHAPTER VI — COMMITTEE, TRANSITIONAL AND FINAL PROVISIONS
+
+#### Article 29 — Committee
+
+1\. The Commission shall be assisted by a committee, ‘the Ambient Air Quality Committee’.
+
+2\. Where reference is made to this paragraph, Articles 5 and 7 of Decision 1999/468/EC shall apply, having regard to the provisions of Article 8 thereof.
+
+The period laid down in Article 5(6) of Decision 1999/468/EC shall be set at three months.
+
+3\. Where reference is made to this paragraph, Article 5a(1) to (4) and Article 7 of Decision 1999/468/EC shall apply, having regard to the provisions of Article 8 thereof.
+
+#### Article 30 — Penalties
+
+Member States shall lay down the rules on penalties applicable to infringements of the national provisions adopted pursuant to this Directive and shall take all measures necessary to ensure that they are implemented. The penalties provided for must be effective, proportionate and dissuasive.
+
+#### Article 31 — Repeal and transitional provisions
+
+1\. Directives 96/62/EC, 1999/30/EC, 2000/69/EC and 2002/3/EC shall be repealed as from 11 June 2010, without prejudice to the obligations on the Member States relating to time-limits for transposition or application of those Directives.
+
+However, from 11 June 2008, the following shall apply:
+
+(a) in Directive 96/62/EC, paragraph 1 of Article 12 shall be replaced by the following:
+
+‘1. The detailed arrangements for forwarding the information to be provided under Article 11 shall be adopted in accordance with the procedure referred to in paragraph 3.’;
+
+(b) in Directive 1999/30/EC, Article 7(7), footnote 1 in point I of Annex VIII and point VI of Annex IX shall be deleted;
+
+(c) in Directive 2000/69/EC, Article 5(7) and point III in Annex VII shall be deleted;
+
+(d) in Directive 2002/3/EC, Article 9(5) and point II of Annex VIII shall be deleted.
+
+2\. Notwithstanding the first subparagraph of paragraph 1, the following Articles shall remain in force:
+
+(a) Article 5 of Directive 96/62/EC until 31 December 2010;
+
+(b) Article 11(1) of Directive 96/62/EC and Article 10(1), (2) and (3) of Directive 2002/3/EC until the end of the second calendar year following the entry into force of the implementing measures referred to in Article 28(2) of this Directive;
+
+(c) Article 9(3) and (4) of Directive 1999/30/EC until 31 December 2009.
+
+3\. References made to the repealed Directives shall be construed as being made to this Directive and should be read in accordance with the correlation table in Annex XVII.
+
+4\. Decision 97/101/EC shall be repealed with effect from the end of the second calendar year following the entry into force of the implementing measures referred to in Article 28(2) of this Directive.
+
+However, the third, fourth and fifth indents of Article 7 of Decision 97/101/EC shall be deleted with effect from 11 June 2008.
+
+#### Article 32 — Review
+
+1\. In 2013 the Commission shall review the provisions related to PM2,5 and, as appropriate, other pollutants, and shall present a proposal to the European Parliament and the Council.
+
+As regards PM2,5, the review shall be undertaken with a view to establishing a legally binding national exposure reduction obligation in order to replace the national exposure reduction target and to review the exposure concentration obligation laid down in Article 15, taking into account, inter alia, the following elements:
+
+— latest scientific information from WHO and other relevant organisations,
+
+— air quality situations and reduction potentials in the Member States,
+
+— the revision of Directive 2001/81/EC,
+
+— progress made in implementing Community reduction measures for air pollutants,
+
+2\. The Commission shall take into account the feasibility of adopting a more ambitious limit value for PM2,5, shall review the indicative limit value of the second stage for PM2,5 and consider confirming or altering that value.
+
+3\. As part of the review, the Commission shall also prepare a report on the experience and on the necessity of monitoring of PM10 and PM2,5, taking into account technical progress in automatic measuring techniques. If appropriate, new reference methods for the measurement of PM10 and PM2,5 shall be proposed.
+
+#### Article 33 — Transposition
+
+1\. Member States shall bring into force the laws, regulations and administrative provisions necessary to comply with this Directive before 11 June 2010. They shall forthwith communicate to the Commission the text of those measures.
+
+When Member States adopt these measures, they shall contain a reference to this Directive or shall be accompanied by such reference on the occasion of their official publication. The methods of making such reference shall be laid down by Member States.
+
+2\. However, Member States shall ensure that a sufficient number of urban background measurement stations of PM2,5 necessary for the calculation of the Average Exposure Indicator, in accordance with Section B of Annex V, is established at the latest by 1 January 2009, in order to comply with the timeframe and the conditions indicated in Section A of Annex XIV.
+
+3\. Member States shall communicate to the Commission the text of the main provisions of national law which they adopt in the field covered by this Directive.
+
+#### Article 34 — Entry into force
+
+This Directive shall enter into force on the day of its publication in the Official Journal of the European Union.
+
+#### Article 35 — Addressees
+
+This Directive is addressed to the Member States.
+
+## ANNEX I — DATA QUALITY OBJECTIVES
+
+**A. Data quality objectives for ambient air quality assessment**
+
+<tbody><tr><td>  </td><td>Sulphur dioxide, nitrogen dioxide and oxides of nitrogen and carbon monoxide</td><td>Benzene</td><td>Particulate matter (PM10/PM2,5) and lead</td><td>Ozone and related NO and NO2</td></tr>
+<tr><td>Fixed measurements (1)</td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Uncertainty</td><td>15 %</td><td>25 %</td><td>25 %</td><td>15 %</td></tr>
+<tr><td>Minimum data capture</td><td>90 %</td><td>90 %</td><td>90 %</td><td>90 % during summer 75 % during winter </td></tr>
+<tr><td>Minimum time coverage:</td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>— urban background and traffic</td><td>—</td><td>35 % (2)</td><td>—</td><td>—</td></tr>
+<tr><td>— industrial sites</td><td>—</td><td>90 %</td><td>—</td><td>—</td></tr>
+<tr><td>Indicative measurements</td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Uncertainty</td><td>25 %</td><td>30 %</td><td>50 %</td><td>30 %</td></tr>
+<tr><td>Minimum data capture</td><td>90 %</td><td>90 %</td><td>90 %</td><td>90 %</td></tr>
+<tr><td>Minimum time coverage</td><td>14 % (4)</td><td>14 % (3)</td><td>14 % (4)</td><td>&gt; 10 % during summer</td></tr>
+<tr><td>Modelling uncertainty:</td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Hourly</td><td>50 %</td><td>—</td><td>—</td><td>50 %</td></tr>
+<tr><td>Eight-hour averages</td><td>50 %</td><td>—</td><td>—</td><td>50 %</td></tr>
+<tr><td>Daily averages</td><td>50 %</td><td>—</td><td>not yet defined</td><td>—</td></tr>
+<tr><td>Annual averages</td><td>30 %</td><td>50 %</td><td>50 %</td><td>—</td></tr>
+<tr><td>Objective estimation</td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Uncertainty</td><td>75 %</td><td>100 %</td><td>100 %</td><td>75 %</td></tr>
+<tr><td colspan="5">(1)  Member States may apply random measurements instead of continuous measurements for benzene, lead and particulate matter if they can demonstrate to the Commission that the uncertainty, including the uncertainty due to random sampling, meets the quality objective of 25 % and the time coverage is still larger than the minimum time coverage for indicative measurements. Random sampling must be evenly distributed over the year in order to avoid skewing of results. The uncertainty due to random sampling may be determined by the procedure laid down in ISO 11222 (2002) ‘Air Quality — Determination of the Uncertainty of the Time Average of Air Quality Measurements’. If random measurements are used to assess the requirements of the PM10 limit value, the 90,4 percentile (to be lower than or equal to 50 μg/m3) should be evaluated instead of the number of exceedances, which is highly influenced by data coverage.  (2)  Distributed over the year to be representative of various conditions for climate and traffic.  (3)  One day's measurement a week at random, evenly distributed over the year, or eight weeks evenly distributed over the year.  (4)  One measurement a week at random, evenly distributed over the year, or eight weeks evenly distributed over the year. </td></tr>
+</tbody>
+
+The uncertainty (expressed at a 95 % confidence level) of the assessment methods will be evaluated in accordance with the principles of the CEN Guide to the Expression of Uncertainty in Measurement (ENV 13005-1999), the methodology of ISO 5725:1994 and the guidance provided in the CEN report ‘Air Quality — Approach to Uncertainty Estimation for Ambient Air Reference Measurement Methods’ (CR 14377:2002E). The percentages for uncertainty in the above table are given for individual measurements averaged over the period considered by the limit value (or target value in the case of ozone), for a 95 % confidence interval. The uncertainty for the fixed measurements shall be interpreted as being applicable in the region of the appropriate limit value (or target value in the case of ozone).
+
+The uncertainty for modelling is defined as the maximum deviation of the measured and calculated concentration levels for 90 % of individual monitoring points, over the period considered, by the limit value (or target value in the case of ozone), without taking into account the timing of the events. The uncertainty for modelling shall be interpreted as being applicable in the region of the appropriate limit value (or target value in the case of ozone). The fixed measurements that have to be selected for comparison with modelling results shall be representative of the scale covered by the model.
+
+The uncertainty for objective estimation is defined as the maximum deviation of the measured and calculated concentration levels, over the period considered, by the limit value (or target value in the case of ozone), without taking into account the timing of the events.
+
+The requirements for minimum data capture and time coverage do not include losses of data due to the regular calibration or the normal maintenance of the instrumentation.
+
+**B. Results of air quality assessment**
+
+The following information shall be compiled for zones or agglomerations within which sources other than measurement are employed to supplement information from measurement or as the sole means of air quality assessment:
+
+— a description of assessment activities carried out,
+
+— the specific methods used, with references to descriptions of the method,
+
+— the sources of data and information,
+
+— a description of results, including uncertainties and, in particular, the extent of any area or, if relevant, the length of road within the zone or agglomeration over which concentrations exceed any limit value, target value or long-term objective plus margin of tolerance, if applicable, and of any area within which concentrations exceed the upper assessment threshold or the lower assessment threshold,
+
+— the population potentially exposed to levels in excess of any limit value for protection of human health.
+
+**C. Quality assurance for ambient air quality assessment. Data validation**
+
+1\. To ensure accuracy of measurements and compliance with the data quality objectives laid down in Section A, the appropriate competent authorities and bodies designated pursuant to Article 3 shall ensure the following:
+
+(i) that all measurements undertaken in relation to the assessment of ambient air quality pursuant to Articles 6 and 9 are traceable in accordance with the requirements set out in the harmonised standard for testing and calibration laboratories,
+
+(ii) that institutions operating networks and individual stations have an established quality assurance and quality control system which provides for regular maintenance to assure the continued accuracy of measuring devices. The quality system shall be reviewed as necessary and at least every five years by the relevant National Reference Laboratory
+
+(iii) that a quality assurance/quality control process is established for the process of data collection and reporting and that institutions appointed for this task actively participate, in the related Union-wide quality assurance programmes,
+
+(iv) that the National Reference Laboratories are appointed by the appropriate competent authority or body designated pursuant to Article 3 and are accredited for the reference methods referred to in Annex VI, at least for those pollutants for which concentrations are above the lower assessment threshold, according to the relevant harmonised standard for testing and calibration laboratories, the reference to which has been published in the Official Journal of the European Union pursuant to Article 2(9) of Regulation (EC) No 765/2008 setting out the requirements for accreditation and market surveillance. These laboratories shall also be responsible for the coordination in Member State's territory of the Union-wide quality assurance programmes to be organised by the Commission's Joint Research Centre and shall also be responsible for coordinating, on the national level, the appropriate use of reference methods, and the demonstration of equivalence of non-reference methods. National Reference Laboratories organising intercomparison on the national level should also be accredited according to the relevant harmonised standard for proficiency testing.
+
+(v) that the National Reference Laboratories, take part at least every three years in the Union-wide quality assurance programmes organized by the Commission's Joint Research Centre. If this participation produces unsatisfactory results then the national laboratory should demonstrate at the next participation in the intercomparison satisfactory remediation measures, and provide a report to the Joint Research Centre on these.
+
+(vi) that the national reference laboratories support the work done by the European network of National Reference Laboratories set up by the Commission.
+
+2\. All reported data under Article 27 shall be deemed to be valid except data flagged as provisional.
+
+## ANNEX II — Determination of requirements for assessment of concentrations of sulphur dioxide, nitrogen dioxide and oxides of nitrogen, particulate matter (PM10 and PM2,5), lead, benzene and carbon monoxide in ambient air within a zone or agglomeration
+
+**A. Upper and lower assessment thresholds**
+
+The following upper and lower assessment thresholds will apply:
+
+**1\. Sulphur dioxide**
+
+|  | Health protection | Vegetation protection |
+| --- | --- | --- |
+| Upper assessment threshold | 60 % of 24-hour limit value (75 μg/m3, not to be exceeded more than 3 times in any calendar year) | 60 % of winter critical level (12 μg/m3) |
+| Lower assessment threshold | 40 % of 24-hour limit value (50 μg/m3, not to be exceeded more than three times in any calendar year) | 40 % of winter critical level (8 μg/m3) |
+
+**2\. Nitrogen dioxide and oxides of nitrogen**
+
+|  | Hourly limit value for the protection of human health (NO2) | Annual limit value for the protection of human health (NO2) | Annual critical level for the protection of vegetation and natural ecosystems (NOx) |
+| --- | --- | --- | --- |
+| Upper assessment threshold | 70 % of limit value (140 μg/m3, not to be exceeded more than 18 times in any calendar year) | 80 % of limit value (32 μg/m3) | 80 % of critical level (24 μg/m3) |
+| Lower assessment threshold | 50 % of limit value (100 μg/m3, not to be exceeded more than 18 times in any calendar year) | 65 % of limit value (26 μg/m3) | 65 % of critical level (19,5 μg/m3) |
+
+**3\. Particulate matter (PM10/PM2,5)**
+
+<tbody><tr><td>  </td><td>24-hour average PM10</td><td>Annual average PM10</td><td>Annual average PM2,5(1)</td></tr>
+<tr><td>Upper assessment threshold</td><td>70 % of limit value (35 μg/m3, not to be exceeded more than 35 times in any calendar year)</td><td>70 % of limit value (28 μg/m3)</td><td>70 % of limit value (17 μg/m3)</td></tr>
+<tr><td>Lower assessment threshold</td><td>50 % of limit value (25 μg/m3, not to be exceeded more than 35 times in any calendar year)</td><td>50 % of limit value (20 μg/m3)</td><td>50 % of limit value (12 μg/m3)</td></tr>
+<tr><td colspan="4">(1)  The upper assessment threshold and the lower assessment threshold for PM2,5 do not apply to the measurements to assess compliance with the PM2,5 exposure reduction target for the protection of human health. </td></tr>
+</tbody>
+
+**4\. Lead**
+
+|  | Annual average |
+| --- | --- |
+| Upper assessment threshold | 70 % of limit value (0,35 μg/m3) |
+| Lower assessment threshold | 50 % of limit value (0,25 μg/m3) |
+
+**5\. Benzene**
+
+|  | Annual average |
+| --- | --- |
+| Upper assessment threshold | 70 % of limit value (3,5 μg/m3) |
+| Lower assessment threshold | 40 % of limit value (2 μg/m3) |
+
+**6\. Carbon monoxide**
+
+|  | Eight-hour average |
+| --- | --- |
+| Upper assessment threshold | 70 % of limit value (7 mg/m3) |
+| Lower assessment threshold | 50 % of limit value (5 mg/m3) |
+
+**B. Determination of exceedances of upper and lower assessment thresholds**
+
+Exceedances of upper and lower assessment thresholds shall be determined on the basis of concentrations during the previous five years where sufficient data are available. An assessment threshold shall be deemed to have been exceeded if it has been exceeded during at least three separate years out of those previous five years.
+
+Where fewer than five years’ data are available, Member States may combine measurement campaigns of short duration during the period of the year and at locations likely to be typical of the highest pollution levels with results obtained from information from emission inventories and modelling to determine exceedances of the upper and lower assessment thresholds.
+
+## ANNEX III — Assessment of ambient air quality and location of sampling points for the measurement of sulphur dioxide, nitrogen dioxide and oxides of nitrogen, particulate matter (PM10 and PM2,5), lead, benzene and carbon monoxide in ambient air
+
+**A. General**
+
+Ambient air quality shall be assessed in all zones and agglomerations in accordance with the following criteria:
+
+1\. Ambient air quality shall be assessed at all locations except those listed in paragraph 2, in accordance with the criteria established by Sections B and C for the location of sampling points for fixed measurement. The principles established by Sections B and C shall also apply in so far as they are relevant in identifying the specific locations in which concentration of the relevant pollutants are established where ambient air quality is assessed by indicative measurement or modelling.
+
+2\. Compliance with the limit values directed at the protection of human health shall not be assessed at the following locations:
+
+(a) any locations situated within areas where members of the public do not have access and there is no fixed habitation;
+
+(b) in accordance with Article 2(1), on factory premises or at industrial installations to which all relevant provisions concerning health and safety at work apply;
+
+(c) on the carriageway of roads; and on the central reservations of roads except where there is normally pedestrian access to the central reservation.
+
+**B. Macroscale siting of sampling points**
+
+1\. Protection of human health
+
+(a) Sampling points directed at the protection of human health shall be sited in such a way as to provide data on the following:
+
+— the areas within zones and agglomerations where the highest concentrations occur to which the population is likely to be directly or indirectly exposed for a period which is significant in relation to the averaging period of the limit value(s),
+
+— levels in other areas within the zones and agglomerations which are representative of the exposure of the general population,
+
+(b) Sampling points shall in general be sited in such a way as to avoid measuring very small micro-environments in their immediate vicinity, which means that a sampling point must be sited in such a way that the air sampled is representative of air quality for a street segment no less than 100 m length at traffic-orientated sites and at least 250 m × 250 m at industrial sites, where feasible;
+
+(c) Urban background locations shall be located so that their pollution level is influenced by the integrated contribution from all sources upwind of the station. The pollution level should not be dominated by a single source unless such a situation is typical for a larger urban area. Those sampling points shall, as a general rule, be representative for several square kilometres;
+
+(d) Where the objective is to assess rural background levels, the sampling point shall not be influenced by agglomerations or industrial sites in its vicinity, i.e. sites closer than five kilometres;
+
+(e) Where contributions from industrial sources are to be assessed, at least one sampling point shall be installed downwind of the source in the nearest residential area. Where the background concentration is not known, an additional sampling point shall be situated within the main wind direction;
+
+(f) Sampling points shall, where possible, also be representative of similar locations not in their immediate vicinity;
+
+(g) Account shall be taken of the need to locate sampling points on islands where that is necessary for the protection of human health.
+
+2\. Protection of vegetation and natural ecosystems
+
+Sampling points targeted at the protection of vegetation and natural ecosystems shall be sited more than 20 km away from agglomerations or more than 5 km away from other built-up areas, industrial installations or motorways or major roads with traffic counts of more than 50 000 vehicles per day, which means that a sampling point must be sited in such a way that the air sampled is representative of air quality in a surrounding area of at least 1 000 km2. A Member State may provide for a sampling point to be sited at a lesser distance or to be representative of air quality in a less extended area, taking account of geographical conditions or of the opportunities to protect particularly vulnerable areas.
+
+Account shall be taken of the need to assess air quality on islands.
+
+**C. Microscale siting of sampling points**
+
+In so far as is practicable, the following shall apply:
+
+— the flow around the inlet sampling probe shall be unrestricted (in general free in an arc of at least 270° or 180° for sampling points at the building line) without any obstructions affecting the airflow in the vicinity of the inlet (normally some metres away from buildings, balconies, trees and other obstacles and at least 0,5 m from the nearest building in the case of sampling points representing air quality at the building line),
+
+— in general, the inlet sampling point shall be between 1,5 m (the breathing zone) and 4 m above the ground. Higher siting may also be appropriate if the station is representative of a large area and any derogations should be fully documented,
+
+— the inlet probe shall not be positioned in the immediate vicinity of sources in order to avoid the direct intake of emissions unmixed with ambient air,
+
+— the sampler's exhaust outlet shall be positioned so that recirculation of exhaust air to the sampler inlet is avoided,
+
+— for all pollutants, traffic-orientated sampling probes shall be at least 25 m from the edge of major junctions and no more than 10 m from the kerbside. A ‘major junction’ to be considered here is a junction which interrupts the traffic flow and causes different emissions (stop&go) from the rest of the road.,
+
+The following factors may also be taken into account:
+
+— interfering sources,
+
+— security,
+
+— access,
+
+— availability of electrical power and telephone communications,
+
+— visibility of the site in relation to its surroundings,
+
+— safety of the public and operators,
+
+— the desirability of co-locating sampling points for different pollutants,
+
+— planning requirements.,
+
+Any deviation from the criteria listed in this Section shall be fully documented through the procedures described in Section D.
+
+**D. Documentation and review of site selection**
+
+The competent authorities responsible for air quality assessment shall for all zones and agglomerations fully document the site-selection procedures and record information to support the network design and choice of location for all monitoring sites. The documentation shall include compass-point photographs of the area surrounding monitoring sites and detailed maps. Where supplementary methods are used within a zone or agglomeration, the documentation shall include details of these methods and information on how the criteria listed in Article 7(3) are met. The documentation shall be updated as necessary and reviewed at least every 5 years, to ensure that selection criteria, network design and monitoring site locations remain valid and optimal over time. The documentation shall be provided to the Commission within 3 months of being requested.
+
+## ANNEX IV — MEASUREMENTS AT RURAL BACKGROUND LOCATIONS IRRESPECTIVE OF CONCENTRATION
+
+**A. Objectives**
+
+The main objectives of such measurements are to ensure that adequate information is made available on levels in the background. This information is essential to judge the enhanced levels in more polluted areas (such as urban background, industry related locations, traffic related locations), assess the possible contribution from long-range transport of air pollutants, support source apportionment analysis and for the understanding of specific pollutants such as particulate matter. It is also essential for the increased use of modelling also in urban areas.
+
+**B. Substances**
+
+Measurement of PM2,5 must include at least the total mass concentration and concentrations of appropriate compounds to characterise its chemical composition. At least the list of chemical species given below shall be included.
+
+| SO4 2– | Na+ | NH4 + | Ca2+ | elemental carbon (EC) |
+| --- | --- | --- | --- | --- |
+| NO3 – | K+ | Cl– | Mg2+ | organic carbon (OC) |
+
+**C. Siting**
+
+Measurements should be taken in particular in rural background areas in accordance with parts A, B and C of Annex III.
+
+## ANNEX V — Criteria for determining minimum numbers of sampling points for fixed measurement of concentrations of sulphur dioxide, nitrogen dioxide and oxides of nitrogen, particulate matter (PM10, PM2,5), lead, benzene and carbon monoxide in ambient air
+
+A. Minimum number of sampling points for fixed measurement to assess compliance with limit values for the protection of human health and alert thresholds in zones and agglomerations where fixed measurement is the sole source of information
+
+**1\. Diffuse sources**
+
+<tbody><tr><td rowspan="2">Population of agglomeration or zone (thousands) </td><td colspan="2">If maximum concentrations exceed the upper assessment threshold (1)</td><td colspan="2">If maximum concentrations are between the upper and lower assessment thresholds</td></tr>
+<tr><td>Pollutants except PM</td><td>PM (2) (sum of PM10 and PM2,5)</td><td>Pollutants except PM</td><td>PM (2) (sum of PM10 and PM2,5)</td></tr>
+<tr><td>0-249</td><td>1</td><td>2</td><td>1</td><td>1</td></tr>
+<tr><td>250-499</td><td>2</td><td>3</td><td>1</td><td>2</td></tr>
+<tr><td>500-749</td><td>2</td><td>3</td><td>1</td><td>2</td></tr>
+<tr><td>750-999</td><td>3</td><td>4</td><td>1</td><td>2</td></tr>
+<tr><td>1 000 -1 499 </td><td>4</td><td>6</td><td>2</td><td>3</td></tr>
+<tr><td>1 500 -1 999 </td><td>5</td><td>7</td><td>2</td><td>3</td></tr>
+<tr><td>2 000 -2 749 </td><td>6</td><td>8</td><td>3</td><td>4</td></tr>
+<tr><td>2 750 -3 749 </td><td>7</td><td>10</td><td>3</td><td>4</td></tr>
+<tr><td>3 750 -4 749 </td><td>8</td><td>11</td><td>3</td><td>6</td></tr>
+<tr><td>4 750 -5 999 </td><td>9</td><td>13</td><td>4</td><td>6</td></tr>
+<tr><td>≥ 6 000 </td><td>10</td><td>15</td><td>4</td><td>7</td></tr>
+<tr><td colspan="5">(1)  For nitrogen dioxide, particulate matter, benzene and carbon monoxide: to include at least one urban background monitoring station and one traffic-orientated station provided this does not increase the number of sampling points. For these pollutants, the total number of urban-background stations and the total number of traffic oriented stations in a Member State required under Section A(1) shall not differ by more than a factor of 2. Sampling points with exceedances of the limit value for PM10 within the last three years shall be maintained, unless a relocation is necessary owing to special circumstances, in particular spatial development.  (2)  Where PM2,5 and PM10 are measured in accordance with Article 8 at the same monitoring station, these shall count as two separate sampling points. The total number of PM2,5 and PM10 sampling points in a Member State required under Section A(1) shall not differ by more than a factor of 2, and the number of PM2,5 sampling points in the urban background of agglomerations and urban areas shall meet the requirements under Section B of Annex V. </td></tr>
+</tbody>
+
+**2\. Point sources**
+
+For the assessment of pollution in the vicinity of point sources, the number of sampling points for fixed measurement shall be calculated taking into account emission densities, the likely distribution patterns of ambient-air pollution and the potential exposure of the population.
+
+B. Minimum number of sampling points for fixed measurement to assess compliance with the PM2,5 exposure reduction target for the protection of human health
+
+One sampling point per million inhabitants summed over agglomerations and additional urban areas in excess of 100 000 inhabitants shall be operated for this purpose. Those sampling points may coincide with sampling points under Section A.
+
+C. Minimum number of sampling points for fixed measurements to assess compliance with critical levels for the protection of vegetation in zones other than agglomerations
+
+| If maximum concentrations exceed the upper assessment threshold | If maximum concentrations are between upper and lower assessment threshold |
+| --- | --- |
+| 1 station every 20 000 km2 | 1 station every 40 000 km2 |
+
+In island zones the number of sampling points for fixed measurement should be calculated taking into account the likely distribution patterns of ambient-air pollution and the potential exposure of vegetation.
+
+## ANNEX VI — Reference methods for assessment of concentrations of sulphur dioxide, nitrogen dioxide and oxides of nitrogen, particulate matter (PM10 and PM2,5), lead, benzene, carbon monoxide, and ozone
+
+**A. Reference methods for the assessment of concentrations of sulphur dioxide, nitrogen dioxide and oxides of nitrogen, particulate matter (PM10 and PM2,5), lead, benzene, carbon monoxide and ozone**
+
+**1\. Reference method for the measurement of sulphur dioxide**
+
+The reference method for the measurement of sulphur dioxide is that described in EN 14212:2012 ‘Ambient air — Standard method for the measurement of the concentration of sulphur dioxide by ultraviolet fluorescence’.
+
+**2\. Reference method for the measurement of nitrogen dioxide and oxides of nitrogen**
+
+The reference method for the measurement of nitrogen dioxide and oxides of nitrogen is that described in EN 14211:2012 ‘Ambient air — Standard method for the measurement of the concentration of nitrogen dioxide and nitrogen monoxide by chemiluminescence’.
+
+**3\. Reference method for the sampling and measurement of lead**
+
+The reference method for the sampling of lead is that described in Section A(4) of this Annex. The reference method for the measurement of lead is that described in EN 14902:2005 ‘Standard method for measurement of Pb/Cd/As/Ni in the PM10 fraction of suspended particulate matter’.
+
+**4\. Reference method for the sampling and measurement of PM10**
+
+The reference method for the sampling and measurement of PM10 is that described in EN12341:2014 ‘Ambient Air — standard gravimetric measurement method for the determination of the PM10 or PM2,5 mass concentration of suspended particulate matter’.
+
+**5\. Reference method for the sampling and measurement of PM2,5**
+
+The reference method for the sampling and measurement of PM2,5 is that described in EN12341:2014 ‘Ambient Air — standard gravimetric measurement method for the determination of the PM10 or PM2,5 mass concentration of suspended particulate matter’
+
+**6\. Reference method for the sampling and measurement of benzene**
+
+The reference method for the measurement of benzene is that described in EN 14662:2005, parts 1, 2 and 3 ‘Ambient air quality — Standard method for measurement of benzene concentrations’.
+
+**7\. Reference method for the measurement of carbon monoxide**
+
+The reference method for the measurement of carbon monoxide is that described in EN 14626:2012 ‘Ambient air — Standard method for the measurement of the concentration of carbon monoxide by non-dispersive infrared spectroscopy’.
+
+**8\. Reference method for measurement of ozone**
+
+The reference method for the measurement of ozone is that described in EN 14625:2012 ‘Ambient air — Standard method for the measurement of the concentration of ozone by ultraviolet photometry’.
+
+**B. Demonstration of equivalence**
+
+1\. A Member State may use any other method which it can demonstrate gives results equivalent to any of the methods referred to in Section A or, in the case of particulate matter, any other method which the Member State concerned can demonstrate displays a consistent relationship to the reference method. In that event the results achieved by that method must be corrected to produce results equivalent to those that would have been achieved by using the reference method.
+
+2\. The Commission may require the Member States to prepare and submit a report on the demonstration of equivalence in accordance with paragraph 1.
+
+3\. When assessing the acceptability of the report mentioned in paragraph 2, the Commission will make reference to its guidance on the demonstration of equivalence (to be published). Where Member States have been using interim factors to approximate equivalence, the latter shall be confirmed and/or amended with reference to the Commission's guidance.
+
+4\. Member States should ensure that whenever appropriate, the correction is also applied retroactively to past measurement data in order to achieve better data comparability.
+
+**C. Standardisation**
+
+For gaseous pollutants the volume must be standardised at a temperature of 293 K and an atmospheric pressure of 101,3 kPa. For particulate matter and substances to be analysed in particulate matter (e.g. lead) the sampling volume refers to ambient conditions in terms of temperature and atmospheric pressure at the date of measurements.
+
+**E. Mutual recognition of data**
+
+When demonstrating that equipment meets the performance requirements of the reference methods listed in Section A of this Annex, the competent authorities and bodies designated pursuant to Article 3 shall accept test reports issued in other Member States provided that the test laboratories are accredited to the relevant harmonised standard for testing and calibration laboratories.
+
+The detailed test reports and all the results of the tests shall be available to other competent authorities or their designated bodies. Test reports shall demonstrate that the equipment meets all the performance requirements including where some environmental and site conditions are specific to a Member State and are outside the conditions for which the equipment has been already tested and type approved in another Member State.
+
+## ANNEX VII — OZONE TARGET VALUES AND LONG-TERM OBJECTIVES
+
+**A. Definitions and criteria**
+
+**1\. Definitions**
+
+AOT40 (expressed in (μg/m3) · hours) means the sum of the difference between hourly concentrations greater than 80 μg/m3 (= 40 parts per billion) and 80 μg/m3 over a given period using only the one-hour values measured between 8.00 and 20.00 Central European Time (CET) each day.
+
+**2\. Criteria**
+
+The following criteria shall be used for checking validity when aggregating data and calculating statistical parameters:
+
+<tbody><tr><td>Parameter</td><td>Required proportion of valid data</td></tr>
+<tr><td>One hour values</td><td>75 % (i.e. 45 minutes)</td></tr>
+<tr><td>Eight hours values</td><td>75 % of values (i.e. six hours)</td></tr>
+<tr><td>Maximum daily 8 hours mean from hourly running 8 hours</td><td>75 % of the hourly running eight hours averages (i.e. 18 eight-hourly averages per day)</td></tr>
+<tr><td>AOT40</td><td>90 % of the one hour values over the time period defined for calculating the AOT40 value (1)</td></tr>
+<tr><td>Annual mean</td><td>75 % of the one hour values over summer (April to September) and 75 % over winter (January to March, October to December) seasons separately</td></tr>
+<tr><td>Number of exceedances and maximum values per month</td><td>90 % of the daily maximum eight hours mean values (27 available daily values per month) 90 % of the one hour values between 8.00 and 20.00 CET </td></tr>
+<tr><td>Number of exceedances and maximum values per year</td><td>five out of six months over the summer season (April to September)</td></tr>
+<tr><td colspan="2">(1)  In cases where all possible measured data are not available, the following factor shall be used to calculate AOT40 values: <br> <br><table><tbody><tr><td rowspan="2">AOT40estimate = AOT40measured ×</td><td>total possible number of hours (*)</td></tr>
+<tr><td>number of measured hourly values</td></tr>
+</tbody>
+</table>  (*) being the number of hours within the time period of AOT40 definition, (i.e. 08:00 to 20:00 CET from 1 May to 31 July each year, for vegetation protection and from 1 April to 30 September each year for forest protection). </td></tr>
+</tbody>
+
+**B. Target values**
+
+<tbody><tr><td>Objective</td><td>Averaging period</td><td>Target value</td><td>Date by which target value should be met (1)</td></tr>
+<tr><td>Protection of human health</td><td>Maximum daily eight-hour mean (2)</td><td>120 μg/m3 not to be exceeded on more than 25 days per calendar year averaged over three years (3)</td><td>1.1.2010</td></tr>
+<tr><td>Protection of vegetation</td><td>May to July</td><td>AOT40 (calculated from 1 h values) 18 000 μg/m3 · h averaged over five years (3) </td><td>1.1.2010</td></tr>
+<tr><td colspan="4">(1)  Compliance with target values will be assessed as of this date. That is, 2010 will be the first year the data for which is used in calculating compliance over the following three or five years, as appropriate.  (2)  The maximum daily eight-hour mean concentration shall be selected by examining eight-hour running averages, calculated from hourly data and updated each hour. Each eight -hour average so calculated shall be assigned to the day on which it ends. i.e. the first calculation period for any one day will be the period from 17:00 on the previous day to 01:00 on that day; the last calculation period for any one day will be the period from 16:00 to 24:00 on the day.  (3)  If the three or five year averages cannot be determined on the basis of a full and consecutive set of annual data, the minimum annual data required for checking compliance with the target values will be as follows:  — for the target value for the protection of human health: valid data for one year,  — for the target value for the protection of vegetation: valid data for three years. </td></tr>
+</tbody>
+
+**C. Long-term objectives**
+
+| Objective | Averaging period | Longterm objective | Date by which the longterm objective should be met |
+| --- | --- | --- | --- |
+| Protection of human health | Maximum daily eight-hour mean within a calendar year | 120 μg/m3 | not defined |
+| Protection of vegetation | May to July | AOT40 (calculated from 1 h values) 6 000 μg/m3 · h | not defined |
+
+## ANNEX VIII — Criteria for classifying and locating sampling points for assessments of ozone concentrations
+
+The following apply to fixed measurements:
+
+**A. Macroscale siting**
+
+<tbody><tr><td>Type of station</td><td>Objectives of measurement</td><td>Representativeness (1)</td><td>Macroscale siting criteria</td></tr>
+<tr><td>Urban</td><td>Protection of human health: to assess the exposure of the urban population to ozone, i.e. where population density and ozone concentration are relatively high and representative of the exposure of the general population </td><td>A few km2</td><td>Away from the influence of local emissions such as traffic, petrol stations, etc.; vented locations where well mixed levels can be measured;  locations such as residential and commercial areas of cities, parks (away from the trees), big streets or squares with very little or no traffic, open areas characteristic of educational, sports or recreation facilities </td></tr>
+<tr><td>Suburban</td><td>Protection of human health and vegetation: to assess the exposure of the population and vegetation located in the outskirts of the agglomeration, where the highest ozone levels, to which the population and vegetation are likely to be directly or indirectly exposed occur </td><td>Some tens of km2</td><td>At a certain distance from the area of maximum emissions, downwind following the main wind direction/directions during conditions favourable to ozone formation; where population, sensitive crops or natural ecosystems located in the outer fringe of an agglomeration are exposed to high ozone levels;  where appropriate, some suburban stations also upwind of the area of maximum emissions, in order to determine the regional background levels of ozone </td></tr>
+<tr><td>Rural</td><td>Protection of human health and vegetation: to assess the exposure of population, crops and natural ecosystems to sub-regional scale ozone concentrations </td><td>Sub-regional levels (some hundreds of km2) </td><td>Stations can be located in small settlements and/or areas with natural ecosystems, forests or crops; representative for ozone away from the influence of immediate local emissions such as industrial installations and roads;  at open area sites, but not on summits of higher mountains </td></tr>
+<tr><td>Rural background</td><td>Protection of vegetation and human health: to assess the exposure of crops and natural ecosystems to regional-scale ozone concentrations as well as exposure of the population </td><td>Regional/national/continental levels (1 000 to 10 000 km2) </td><td>Station located in areas with lower population density, e.g. with natural ecosystems, forests, at a distance of at least 20 km from urban and industrial areas and away from local emissions; avoid locations which are subject to locally enhanced formation of ground-near inversion conditions, also summits of higher mountains;  coastal sites with pronounced diurnal wind cycles of local character are not recommended. </td></tr>
+<tr><td colspan="4">(1)  Sampling points should, where possible, be representative of similar locations not in their immediate vicinity. </td></tr>
+</tbody>
+
+For rural and rural background stations the location shall, where appropriate, be coordinated with the monitoring requirements of Commission Regulation (EC) No 1737/2006 of 7 November 2006 laying down detailed rules for the implementation of Regulation (EC) No 2152/2003 of the European Parliament and of the Council concerning monitoring of forests and environmental interactions in the Community ( 2 ).
+
+**B. Microscale siting**
+
+In so far as is practicable the procedure on microscale siting in Section C of Annex III shall be followed, ensuring also that the inlet probe is positioned well away from such sources as furnaces and incineration flues and more than 10 m from the nearest road, with distance increasing as a function of traffic intensity.
+
+**C. Documentation and review of site selection**
+
+The procedures in Section D of Annex III shall be followed, applying proper screening and interpretation of the monitoring data in the context of the meteorological and photochemical processes affecting the ozone concentrations measured at the respective sites.
+
+## ANNEX IX — Criteria for determining the minimum number of sampling points for fixed measurement of concentrations of ozone
+
+**A. Minimum number of sampling points for fixed measurements of concentrations of ozone**
+
+Minimum number of sampling points for fixed continuous measurements to assess compliance with target values, long — term objectives and information and alert thresholds where such measurements are the sole source of information.
+
+<tbody><tr><td>Population (× 1 000 )</td><td>Agglomeration (1)</td><td>Other zones (1)</td><td>Rural background</td></tr>
+<tr><td>&lt; 250</td><td>  </td><td>1</td><td rowspan="8">1 station/50 000 km2 as an average density over all zones per country (2)</td></tr>
+<tr><td>&lt; 500</td><td>1</td><td>2</td></tr>
+<tr><td>&lt; 1 000 </td><td>2</td><td>2</td></tr>
+<tr><td>&lt; 1 500 </td><td>3</td><td>3</td></tr>
+<tr><td>&lt; 2 000 </td><td>3</td><td>4</td></tr>
+<tr><td>&lt; 2 750 </td><td>4</td><td>5</td></tr>
+<tr><td>&lt; 3 750 </td><td>5</td><td>6</td></tr>
+<tr><td>&gt; 3 750 </td><td>One additional station per 2 million inhabitants</td><td>One additional station per 2 million inhabitants</td></tr>
+<tr><td colspan="4">(1)  At least 1 station in areas where exposure of the population to the highest concentrations of ozone is likely to occur. In agglomerations, at least 50 % of the stations shall be located in suburban areas.  (2)  1 station per 25 000 km2 for complex terrain is recommended. </td></tr>
+</tbody>
+
+**B. Minimum number of sampling points for fixed measurements for zones and agglomerations attaining the long-term objectives**
+
+The number of sampling points for ozone shall, in combination with other means of supplementary assessment such as air quality modelling and collocated nitrogen dioxide measurements, be sufficient to examine the trend of ozone pollution and check compliance with the long-term objectives. The number of stations located in agglomerations and other zones may be reduced to one-third of the number specified in Section A. Where information from fixed measurement stations is the sole source of information, at least one monitoring station shall be kept. If, in zones where there is supplementary assessment, the result of this is that a zone has no remaining station, coordination with the number of stations in neighbouring zones shall ensure adequate assessment of ozone concentrations against long-term objectives. The number of rural background stations shall be one per 100 000 km2.
+
+## ANNEX X — MEASUREMENTS OF OZONE PRECURSOR SUBSTANCES
+
+**A. Objectives**
+
+The main objectives of such measurements are to analyse any trend in ozone precursors, to check the efficiency of emission reduction strategies, to check the consistency of emission inventories and to help attribute emission sources to observed pollution concentrations.
+
+An additional aim is to support the understanding of ozone formation and precursor dispersion processes, as well as the application of photochemical models.
+
+**B. Substances**
+
+Measurement of ozone precursor substances shall include at least nitrogen oxides (NO and NO2), and appropriate volatile organic compounds (VOC). A list of volatile organic compounds recommended for measurement is given below:
+
+|  | 1-Butene | Isoprene | Ethyl benzene |
+| --- | --- | --- | --- |
+| Ethane | Trans-2-Butene | n-Hexane | m + p-Xylene |
+| Ethylene | cis-2-Butene | i-Hexane | o-Xylene |
+| Acetylene | 1,3-Butadiene | n-Heptane | 1,2,4-Trimethylebenzene |
+| Propane | n-Pentane | n-Octane | 1,2,3-Trimethylebenzene |
+| Propene | i-Pentane | i-Octane | 1,3,5-Trimethylebenzene |
+| n-Butane | 1-Pentene | Benzene | Formaldehyde |
+| i-Butane | 2-Pentene | Toluene | Total non-methane hydrocarbons |
+
+**C. Siting**
+
+Measurements shall be taken in particular in urban or suburban areas at any monitoring site set up in accordance with the requirements of this Directive and considered appropriate with regard to the monitoring objectives referred to in Section A.
+
+## ANNEX XI — LIMIT VALUES FOR THE PROTECTION OF HUMAN HEALTH
+
+**A. Criteria**
+
+Without prejudice to Annex I, the following criteria shall be used for checking validity when aggregating data and calculating statistical parameters:
+
+<tbody><tr><td>Parameter</td><td>Required proportion of valid data</td></tr>
+<tr><td>One hour values</td><td>75 % (i.e. 45 minutes)</td></tr>
+<tr><td>Eight hours values</td><td>75 % of values (i.e. 6 hours)</td></tr>
+<tr><td>Maximum daily 8-hour mean</td><td>75 % of the hourly running eight hour averages (i.e. 18 eight hour averages per day)</td></tr>
+<tr><td>24-hour values</td><td>75 % of the hourly averages (i.e. at least 18 hour values)</td></tr>
+<tr><td>Annual mean</td><td>90 % (1) of the one hour values or (if not available) 24-hour values over the year</td></tr>
+<tr><td colspan="2">(1)  The requirements for the calculation of annual mean do not include losses of data due to the regular calibration or the normal maintenance of the instrumentation. </td></tr>
+</tbody>
+
+**B. Limit values**
+
+<tbody><tr><td>Averaging Period</td><td>Limit value</td><td>Margin of tolerance</td><td>Date by which limit value is to be met</td></tr>
+<tr><td colspan="4">Sulphur dioxide</td></tr>
+<tr><td>One hour</td><td>350 μg/m3, not to be exceeded more than 24 times a calendar year</td><td>150 μg/m3 (43 %)</td><td>— (1)</td></tr>
+<tr><td>One day</td><td>125 μg/m3, not to be exceeded more than 3 times a calendar year</td><td>None</td><td>— (1)</td></tr>
+<tr><td colspan="4">Nitrogen dioxide</td></tr>
+<tr><td>One hour</td><td>200 μg/m3, not to be exceeded more than 18 times a calendar year</td><td>50 % on 19 July 1999, decreasing on 1 January 2001 and every 12 months thereafter by equal annual percentages to reach 0 % by 1 January 2010</td><td>1 January 2010</td></tr>
+<tr><td>Calendar year</td><td>40 μg/m3</td><td>50 % on 19 July 1999, decreasing on 1 January 2001 and every 12 months thereafter by equal annual percentages to reach 0 % by 1 January 2010</td><td>1 January 2010</td></tr>
+<tr><td colspan="4">Benzene</td></tr>
+<tr><td>Calendar year</td><td>5 μg/m3</td><td>5 μg/m3 (100 %) on 13 December 2000, decreasing on 1 January 2006 and every 12 months thereafter by 1 μg/m3 to reach 0 % by 1 January 2010</td><td>1 January 2010</td></tr>
+<tr><td colspan="4">Carbon monoxide</td></tr>
+<tr><td>maximum daily eight hour mean (2)</td><td>10 mg/m3</td><td>60 %</td><td>— (1)</td></tr>
+<tr><td colspan="4">Lead</td></tr>
+<tr><td>Calendar year</td><td>0,5 μg/m3(3)</td><td>100 %</td><td>— (3)</td></tr>
+<tr><td colspan="4">PM10</td></tr>
+<tr><td>One day</td><td>50 μg/m3, not to be exceeded more than 35 times a calendar year</td><td>50 %</td><td>— (1)</td></tr>
+<tr><td>Calendar year</td><td>40 μg/m3</td><td>20 %</td><td>— (1)</td></tr>
+<tr><td colspan="4">(1)  Already in force since 1 January 2005  (2)  The maximum daily eight hour mean concentration will be selected by examining eight hour running averages, calculated from hourly data and updated each hour. Each eight hour average so calculated will be assigned to the day on which it ends i.e. the first calculation period for any one day will be the period from 17:00 on the previous day to 01:00 on that day; the last calculation period for any one day will be the period from 16:00 to 24:00 on that day.  (3)  Already in force since 1 January 2005. Limit value to be met only by 1 January 2010 in the immediate vicinity of the specific industrial sources situated on sites contaminated by decades of industrial activities. In such cases, the limit value until 1 January 2010 will be 1,0 μg/m3. The area in which higher limit values apply must not extend further than 1 000 m from such specific sources. </td></tr>
+</tbody>
+
+## ANNEX XII — INFORMATION AND ALERT THRESHOLDS
+
+**A. Alert thresholds for pollutants other than ozone**
+
+To be measured over three consecutive hours at locations representative of air quality over at least 100 km2 or an entire zone or agglomeration, whichever is the smaller.
+
+| Pollutant | Alert threshold |
+| --- | --- |
+| Sulphur dioxide | 500 μg/m3 |
+| Nitrogen dioxide | 400 μg/m3 |
+
+**B. Information and alert thresholds for ozone**
+
+<tbody><tr><td>Purpose</td><td>Averaging period</td><td>Threshold</td></tr>
+<tr><td>Information</td><td>1 hour</td><td>180 μg/m3</td></tr>
+<tr><td>Alert</td><td>1 hour (1)</td><td>240 μg/m3</td></tr>
+<tr><td colspan="3">(1)  For the implementation of Article 24, the exceedance of the threshold is to be measured or predicted for three consecutive hours. </td></tr>
+</tbody>
+
+## ANNEX XIII — CRITICAL LEVELS FOR THE PROTECTION OF VEGETATION
+
+<tbody><tr><td>Averaging period</td><td>Critical level</td><td>Margin of tolerance</td></tr>
+<tr><td colspan="3">Sulphur dioxide</td></tr>
+<tr><td>Calendar year and winter (1 October to 31 March)</td><td>20 μg/m3</td><td>None</td></tr>
+<tr><td colspan="3">Oxides of nitrogen</td></tr>
+<tr><td>Calendar year</td><td>30 μg/m3 NOx</td><td>None</td></tr>
+</tbody>
+
+## ANNEX XIV — NATIONAL EXPOSURE REDUCTION TARGET, TARGET VALUE AND LIMIT VALUE FOR PM2,5
+
+**A. Average exposure indicator**
+
+The Average Exposure Indicator expressed in μg/m3 (AEI) shall be based upon measurements in urban background locations in zones and agglomerations throughout the territory of a Member State. It should be assessed as a three-calendar year running annual mean concentration averaged over all sampling points established pursuant to Section B of Annex V. The AEI for the reference year 2010 shall be the mean concentration of the years 2008, 2009 and 2010.
+
+However, where data are not available for 2008, Member States may use the mean concentration of the years 2009 and 2010 or the mean concentration of the years 2009, 2010 and 2011. Member States making use of these possibilities shall communicate their decisions to the Commission by 11 September 2008.
+
+The AEI for the year 2020 shall be the three-year running mean concentration averaged over all those sampling points for the years 2018, 2019 and 2020. The AEI is used for the examination whether the national exposure reduction target is met.
+
+The AEI for the year 2015 shall be the three-year running mean concentration averaged over all those sampling points for the years 2013, 2014 and 2015. The AEI is used for the examination whether the exposure concentration obligation is met.
+
+**B. National exposure reduction target**
+
+<tbody><tr><td colspan="2">Exposure reduction target relative to the AEI in 2010</td><td>Year by which the exposure reduction target should be met</td></tr>
+<tr><td>Initial concentration in μg/m3</td><td>Reduction target in percent</td><td rowspan="6">2020</td></tr>
+<tr><td>&lt; 8,5 = 8,5</td><td>0 %</td></tr>
+<tr><td>&gt; 8,5 — &lt; 13</td><td>10 %</td></tr>
+<tr><td>= 13 — &lt; 18</td><td>15 %</td></tr>
+<tr><td>= 18 — &lt; 22</td><td>20 %</td></tr>
+<tr><td>≥ 22</td><td>All appropriate measures to achieve 18 μg/m3</td></tr>
+</tbody>
+
+Where the AEI in the reference year is 8,5 μg/m3 or less the exposure reduction target shall be zero. The reduction target shall be zero also in cases where the AEI reaches the level of 8,5 μg/m3 at any point of time during the period from 2010 to 2020 and is maintained at or below that level.
+
+**C. Exposure concentration obligation**
+
+| Exposure concentration obligation | Year by which the obligation value is to be met |
+| --- | --- |
+| 20 μg/m3 | 2015 |
+
+**D. Target value**
+
+| Averaging period | Target value | Date by which target value should be met |
+| --- | --- | --- |
+| Calendar year | 25 μg/m3 | 1 January 2010 |
+
+**E. Limit value**
+
+<tbody><tr><td>Averaging period</td><td>Limit value</td><td>Margin of tolerance</td><td>Date by which limit value is to be met</td></tr>
+<tr><td colspan="4">STAGE 1</td></tr>
+<tr><td>Calendar year</td><td>25 μg/m3</td><td>20 % on 11 June 2008, decreasing on the next 1 January and every 12 months thereafter by equal annual percentages to reach 0 % by 1 January 2015</td><td>1 January 2015</td></tr>
+<tr><td colspan="4">STAGE 2 (1)</td></tr>
+<tr><td>Calendar year</td><td>20 μg/m3</td><td>  </td><td>1 January 2020</td></tr>
+<tr><td colspan="4">(1)  Stage 2 — indicative limit value to be reviewed by the Commission in 2013 in the light of further information on health and environmental effects, technical feasibility and experience of the target value in Member States. </td></tr>
+</tbody>
+
+## ANNEX XV — Information to be included in the local, regional or national air quality plans for improvement in ambient air quality
+
+**A. Information to be provided under article 23 (air quality plans)**
+
+**1\. Localisation of excess pollution**
+
+(a) region;
+
+(b) city (map);
+
+(c) measuring station (map, geographical coordinates).
+
+**2\. General information**
+
+(a) type of zone (city, industrial or rural area);
+
+(b) estimate of the polluted area (km2) and of the population exposed to the pollution;
+
+(c) useful climatic data;
+
+(d) relevant data on topography;
+
+(e) sufficient information on the type of targets requiring protection in the zone.
+
+**3\. Responsible authorities**
+
+Names and addresses of persons responsible for the development and implementation of improvement plans.
+
+**4\. Nature and assessment of pollution**
+
+(a) concentrations observed over previous years (before the implementation of the improvement measures);
+
+(b) concentrations measured since the beginning of the project;
+
+(c) techniques used for the assessment.
+
+**5\. Origin of pollution**
+
+(a) list of the main emission sources responsible for pollution (map);
+
+(b) total quantity of emissions from these sources (tonnes/year);
+
+(c) information on pollution imported from other regions.
+
+**6\. Analysis of the situation**
+
+(a) details of those factors responsible for the exceedance (e.g. transport, including cross-border transport, formation of secondary pollutants in the atmosphere);
+
+(b) details of possible measures for the improvement of air quality.
+
+**7\. Details of those measures or projects for improvement which existed prior to 11 June 2008, i.e:**
+
+(a) local, regional, national, international measures;
+
+(b) observed effects of these measures.
+
+**8\. Details of those measures or projects adopted with a view to reducing pollution following the entry into force of this Directive:**
+
+(a) listing and description of all the measures set out in the project;
+
+(b) timetable for implementation;
+
+(c) estimate of the improvement of air quality planned and of the expected time required to attain these objectives.
+
+**9\. Details of the measures or projects planned or being researched for the long term.**
+
+**10\. List of the publications, documents, work, etc., used to supplement information required under this Annex.**
+
+**B. Information to be provided under article 22(1)**
+
+1\. All information as laid down in Section A.
+
+2\. Information concerning the status of implementation of the following Directives:
+
+1\. Council Directive 70/220/EEC of 20 March 1970 on the approximation of the laws of the Member States on measures to be taken against air pollution by emissions from motor vehicles ( 3 );
+
+2\. Directive 94/63/EC of the European Parliament and of the Council of 20 December 1994 on the control of volatile organic compound (VOC) emissions resulting from the storage of petrol and its distribution from terminals to service stations ( 4 );
+
+3\. Directive 2008/1/EC of the European Parliament and of the Council of 15 January 2008 concerning integrated pollution prevention and control ( 5 );
+
+4\. Directive 97/68/EC of the European Parliament and of the Council of 16 December 1997 on the approximation of the laws of the Member States relating to measures against the emission of gaseous and particulate pollutants from internal combustion engines to be installed in non-road mobile machinery ( 6 );
+
+5\. Directive 98/70/EC of the European Parliament and of the Council of 13 October 1998 relating to the quality of petrol and diesel fuels ( 7 );
+
+6\. Council Directive 1999/13/EC of 11 March 1999 on the limitation of emissions of volatile organic compounds due to the use of organic solvents in certain activities and installations ( 8 );
+
+7\. Council Directive 1999/32/EC of 26 April 1999 relating to a reduction in the sulphur content of certain liquid fuels ( 9 );
+
+8\. Directive 2000/76/EC of the European Parliament and of the Council of 4 December 2000 on the incineration of waste ( 10 );
+
+9\. Directive 2001/80/EC of the European Parliament and of the Council of 23 October 2001 on the limitation of emissions of certain pollutants into the air from large combustion plants;
+
+10\. Directive 2001/81/EC of the European Parliament and of the Council of 23 October 2001 on national emission ceilings for certain atmospheric pollutants;
+
+11\. Directive 2004/42/EC of the European Parliament and of the Council of 21 April 2004 on the limitation of emissions of volatile organic compounds due to the use of organic solvents in certain paints and varnishes and vehicle refinishing products ( 11 );
+
+12\. Directive 2005/33/EC of the European Parliament and of the Council of 6 July 2005 amending Directive 1999/32/EC as regards the sulphur content of marine fuels ( 12 );
+
+13\. Directive 2005/55/EC of the European Parliament and of the Council of 28 September 2005 on the approximation of the laws of the Member States relating to the measures to be taken against the emission of gaseous and particulate pollutants from compression-ignition engines for use in vehicles, and the emission of gaseous pollutants from positive-ignition engines fuelled with natural gas or liquefied petroleum gas for use in vehicles ( 13 );
+
+14\. Directive 2006/32/EC of the European Parliament and of the Council of 5 April 2006 on energy end-use efficiency and energy services ( 14 ).
+
+3\. Information on all air pollution abatement measures that have been considered at appropriate local, regional or national level for implementation in connection with the attainment of air quality objectives, including:
+
+(a) reduction of emissions from stationary sources by ensuring that polluting small and medium sized stationary combustion sources (including for biomass) are fitted with emission control equipment or replaced;
+
+(b) reduction of emissions from vehicles through retrofitting with emission control equipment. The use of economic incentives to accelerate take-up should be considered;
+
+(c) procurement by public authorities, in line with the handbook on environmental public procurement, of road vehicles, fuels and combustion equipment to reduce emissions, including the purchase of:
+
+— new vehicles, including low emission vehicles,
+
+— cleaner vehicle transport services,
+
+— low emission stationary combustion sources,
+
+— low emission fuels for stationary and mobile sources,
+
+(d) measures to limit transport emissions through traffic planning and management (including congestion pricing, differentiated parking fees or other economic incentives; establishing low emission zones);
+
+(e) measures to encourage a shift of transport towards less polluting modes;
+
+(f) ensuring that low emission fuels are used in small, medium and large scale stationary sources and in mobile sources;
+
+(g) measures to reduce air pollution through the permit system under Directive 2008/1/EC, the national plans under Directive 2001/80/EC, and through the use of economic instruments such as taxes, charges or emission trading.
+
+(h) where appropriate, measures to protect the health of children or other sensitive groups.
+
+## ANNEX XVI — PUBLIC INFORMATION
+
+1\. Member States shall ensure that up-to-date information on ambient concentrations of the pollutants covered by this Directive is routinely made available to the public.
+
+2\. Ambient concentrations provided shall be presented as average values according to the appropriate averaging period as laid down in Annex VII and Annexes XI to XIV. The information shall at least indicate any levels exceeding air quality objectives including limit values, target values, alert thresholds, information thresholds or long term objectives of the regulated pollutant. It shall also provide a short assessment in relation to the air quality objectives and appropriate information regarding effects on health, or, where appropriate, vegetation.
+
+3\. Information on ambient concentrations of sulphur dioxide, nitrogen dioxide, particulate matter (at least PM10), ozone and carbon monoxide shall be updated on at least a daily basis, and, wherever practicable, information shall be updated on an hourly basis. Information on ambient concentrations of lead and benzene, presented as an average value for the last 12 months, shall be updated on a three-monthly basis, and on a monthly basis, wherever practicable.
+
+4\. Member States shall ensure that timely information about actual or predicted exceedances of alert thresholds, and any information threshold is provided to the public. Details supplied shall include at least the following information:
+
+(a) information on observed exceedance(s):
+
+— location or area of the exceedance,
+
+— type of threshold exceeded (information or alert),
+
+— start time and duration of the exceedance,
+
+— highest one hour concentration and in addition highest eight hour mean concentration in the case of ozone;
+
+(b) forecast for the following afternoon/day(s):
+
+— geographical area of expected exceedances of information and/or alert threshold,
+
+— expected changes in pollution (improvement, stabilisation or deterioration), together with the reasons for those changes;
+
+(c) information on the type of population concerned, possible health effects and recommended behaviour:
+
+— information on population groups at risk,
+
+— description of likely symptoms,
+
+— recommended precautions to be taken by the population concerned,
+
+— where to find further information;
+
+(d) information on preventive action to reduce pollution and/or exposure to it: indication of main source sectors; recommendations for action to reduce emissions;
+
+(e) in the case of predicted exceedances, Member State shall take steps to ensure that such details are supplied to the extent practicable.
+
+## ANNEX XVII — CORRELATION TABLE
+
+| This Directive | Directive 96/62/EC | Directive 1999/30/EC | Directive 2000/69/EC | Directive 2002/3/EC |
+| --- | --- | --- | --- | --- |
+| Article 1 | Article 1 | Article 1 | Article 1 | Article 1 |
+| Article 2(1) to (5) | Article 2(1) to (5) | — | — | — |
+| Article 2(6) and (7) | — | — | — | — |
+| Article 2(8) | Article 2(8) | Article 2(7) | — | — |
+| Article 2(9) | Article 2(6) | — | — | Article 2(9) |
+| Article 2(10) | Article 2(7) | Article 2(6) | — | Article 2(11) |
+| Article 2(11) | — | — | — | Article 2(12) |
+| Article 2(12) and (13) | — | Article 2(13) and (14) | Article 2(a) and (b) | — |
+| Article 2(14) | — | — | — | Article 2(10) |
+| Article 2(15) and (16) | Article 2(9) and (10) | Article 2(8) and (9) | — | Article 2(7) and (8) |
+| Article 2(17) and (18) | — | Article 2(11) and (12) | — | — |
+| Article 2(19), (20), (21), (22) and (23) | — | — | — | — |
+| Article 2(24) | — | Article 2(10) | — | — |
+| Article 2(25) and (26) | Article 6(5) | — | — | — |
+| Article 2(27) | — | — | — | Article 2(13) |
+| Article 2(28) | — | — | — | Article 2(3) |
+| Article 3, with the exception of paragraph (1)(f) | Article 3 | — | — | — |
+| Article 3(1)(f) | — | — | — | — |
+| Article 4 | Article 2(9) and (10), Article 6(1) | — | — | — |
+| Article 5 | — | Article 7(1) | Article 5(1) | — |
+| Article 6(1) to (4) | Article 6(1) to (4) | — | — | — |
+| Article 6(5) | — | — | — | — |
+| Article 7 | — | Article 7(2) and (3) with amendments | Article 5(2) and (3) with amendments | — |
+| Article 8 | — | Article 7(5) | Article 5(5) | — |
+| Article 9 | — | — | — | Article 9(1) first and second subparagraphs |
+| Article 10 | — | — | — | Article 9(1) to (3) with amendments |
+| Article 11(1) | — | — | — | Article 9(4) |
+| Article 11(2) | — | — | — | — |
+| Article 12 | Article 9 | — | — | — |
+| Article 13(1) | — | Articles 3(1), 4(1), 5(1) and 6 | Articles 3(1) and 4 | — |
+| Article 13(2) | — | Articles 3(2) and 4(2) | — | — |
+| Article 13(3) | — | Article 5(5) | — | — |
+| Article 14 | — | Articles 3(1) and 4(1) with amendments | — | — |
+| Article 15 | — | — | — | — |
+| Article 16 | — | — | — | — |
+| Article 17(1) | — | — | — | Articles 3(1) and 4(1) |
+| Article 17(2) | — | — | — | Article 3(2) and (3) |
+| Article 17(3) | — | — | — | Article 4(2) |
+| Article 18 | — | — | — | Article 5 |
+| Article 19 | Article 10 with amendments | Article 8(3) | — | Article 6 with amendments |
+| Article 20 | — | Articles 3(4) and 5(4) with amendments | — | — |
+| Article 21 | — | — | — | — |
+| Article 22 | — | — | — | — |
+| Article 23 | Article 8(1) to (4) with amendments | — | — | — |
+| Article 24 | Article 7(3) with amendments | — | — | Article 7 with amendments |
+| Article 25 | Article 8(5) with amendments | — | — | Article 8 with amendments |
+| Article 26 | — | Article 8 with amendments | Article 7 with amendments | Article 6 with amendments |
+| Article 27 | Article 11 with amendments | Article 5(2) second subparagraph | — | Article 10 with amendments |
+| Article 28(1) | Article 12(1) with amendments | — | — | — |
+| Article 28(2) | Article 11 with amendments | — | — | — |
+| Article 28(3) | — | — | — | — |
+| Article 28(4) | — | Annex IX with amendments | — | — |
+| Article 29 | Article 12(2) | — | — | — |
+| Article 30 | — | Article 11 | Article 9 | Article 14 |
+| Article 31 | — | — | — | — |
+| Article 32 | — | — | — | — |
+| Article 33 | Article 13 | Article 12 | Article 10 | Article 15 |
+| Article 34 | Article 14 | Article 13 | Article 11 | Article 17 |
+| Article 35 | Article 15 | Article 14 | Article 12 | Article 18 |
+| Annex I | — | Annex VIII with amendments | Annex VI | Annex VII |
+| Annex II | — | Annex V with amendments | Annex III | — |
+| Annex III | — | Annex VI | Annex IV | — |
+| Annex IV | — | — | — | — |
+| Annex V | — | Annex VII with amendments | Annex V | — |
+| Annex VI | — | Annex IX with amendments | Annex VII | Annex VIII |
+| Annex VII | — | — | — | Annex I, Annex III section II |
+| Annex VIII | — | — | — | Annex IV |
+| Annex IX | — | — | — | Annex V |
+| Annex X | — | — | — | Annex VI |
+| Annex XI | — | Annex I, section I, Annex II, section I and Annex III (with amendments); Annex IV (unchanged) | Annex I, Annex II | — |
+| Annex XII | — | Annex I, section II, Annex II, section II, | — | Annex II, section I |
+| Annex XIII | — | Annex I, section I, Annex II, section I | — | — |
+| Annex XIV | — | — | — | — |
+| Annex XV Section A | Annex IV | — | — | — |
+| Annex XV Section B | — | — | — | — |
+| Annex XVI | — | Article 8 | Article 7 | Article 6 with amendments |
+
+**STATEMENT BY THE COMMISSION**
+
+The Commission takes note of the text adopted by the Council and the European Parliament for the Directive on ambient air quality and cleaner air for Europe. In particular, the Commission notes the importance attributed by the European Parliament and the Member States in Article 22(4) and recital 16 to Community measures for the abatement of air pollutant emissions at source.
+
+The Commission recognises the need to reduce the emissions of harmful air pollutants if significant progress is to be delivered towards the objectives established in the Sixth Environmental Action Programme. The Commission's communication on a thematic strategy on air pollution sets out a significant number of possible Community measures. Significant progress on these and other measures has been made since the adoption of the strategy:
+
+— the Council and Parliament have already adopted new legislation limiting the exhaust emissions of light duty vehicles,
+
+— the Commission has adopted a proposal for new legislation to improve the effectiveness of Community industrial emissions legislation including intensive agricultural installations and measures to tackle smaller scale industrial combustion sources,
+
+— the Commission has adopted a proposal for new legislation limiting the exhaust emissions of engines installed in heavy duty vehicles,
+
+— in 2008 the Commission foresees new legislative proposals that would:
+
+— further reduce the Member States’ permitted national emissions of key pollutants,
+
+— reduce emissions associated with refuelling of petrol cars at service stations,
+
+— address the sulphur content of fuels including marine fuels,
+
+— preparatory work is also underway to investigate the feasibility of:
+
+— improving the eco-design and reducing the emissions of domestic boilers and water heaters,
+
+— reducing the solvent content of paints, varnishes and vehicle refinishing products,
+
+— reducing the exhaust emissions of non-road mobile machinery and thereby maximise the benefit of lower sulphur non-road fuels already proposed by the Commission,
+
+— The Commission also continues to push for substantial emissions reductions from ships at the International Maritime Organisation and it is committed to bringing forward proposals for Community measures should the IMO fail to deliver sufficiently ambitious proposals as foreseen in 2008.
+
+The Commission is, however, committed to the aims of its Better Regulation initiative and the need for proposals to be underpinned by a comprehensive assessment of the impacts and benefits. In this regard and in accordance with the Treaty establishing the European Community, the Commission will continue to evaluate the need to bring forward new legislative proposals but reserves its right to decide if and when it would be appropriate to present any such proposal.
+
+**STATEMENT BY THE NETHERLANDS**
+
+The Netherlands has always supported the development of ambitious and effective European policy on air quality and will continue to do so in the future. It is, therefore, happy with the compromise agreed by the Council and the European Parliament and compliments the Parliament, the Commission and the Presidency on the results achieved. The new Directive on ambient air quality marks significant progress for both the environment and public health.
+
+As the Netherlands pointed out when the Common Position was drawn up, the air quality in our country is strongly influenced by transboundary developments and will therefore benefit enormously from an effective European approach. The Netherlands’ main concern has been that the Directive should contain a balanced package of European and national measures, as well as realistic time limits to achieve the air quality targets. Only then will Member States be able to achieve the ambitious targets that have been set.
+
+The Netherlands is pleased with the Commission's statement that it will present Community measures in good time. Timely, EU-wide compliance with the air quality standards will depend on sound European policy tackling pollution at the source. The Netherlands would especially point to the lack of data and prevailing uncertainties about emissions and concentrations of fine particulates (PM2,5). It will of course make every effort to meet the objectives of the Directive by the target date. On the basis of the knowledge currently at our command, this will largely be feasible. The Dutch government is developing a National Air Quality Cooperation Programme to tackle locations where emission ceilings are persistently exceeded, so that, there too, air quality standards may be met by the target date.
+
+The Netherlands is pleased that the Council and the European Parliament concluded their second reading in time for the Directive to take effect as of early 2008. This is essential for our own national programme, as well as actions in the countries around us. The Netherlands will work hard to ensure that the national cooperation programme and all local and regional measures are sufficient.
+
+( 1 ) Council Directive 89/654/EEC of 30 November 1989 concerning the minimum safety and health requirements for the workplace (OJ L 393, 30.12.1989, p. 1). Directive as amended by Directive 2007/30/EC of the European Parliament and of the Council (OJ L 165, 27.6.2007, p. 21).
+
+( 2 ) OJ L 334, 30.11.2006, p. 1.
+
+( 3 ) OJ L 76, 6.4.1970, p. 1. Directive as last amended by Directive 2006/96/EC (OJ L 363, 20.12.2006, p. 81).
+
+( 4 ) OJ L 365, 31.12.1994, p. 24. Directive as amended by Regulation (EC) No 1882/2003 (OJ L 284, 31.10.2003, p. 1).
+
+( 5 ) OJ L 24, 29.1.2008, p. 8.
+
+( 6 ) OJ L 59, 27.2.1998, p. 1. Directive as last amended by Directive 2006/105/EC.
+
+( 7 ) OJ L 350, 28.12.1998, p. 58. Directive as amended by Regulation (EC) No 1882/2003.
+
+( 8 ) OJ L 85, 29.3.1999, p. 1. Directive as last amended by Directive 2004/42/EC of the European Parliament and of the Council (OJ L 143, 30.4.2004, p. 87).
+
+( 9 ) OJ L 121, 11.5.1999, p. 13. Directive as last amended by Directive 2005/33/EC of the European Parliament and of the Council (OJ L 191, 22.7.2005, p. 59).
+
+( 10 ) OJ L 332, 28.12.2000, p. 91.
+
+( 11 ) OJ L 143, 30.4.2004, p. 87.
+
+( 12 ) OJ L 191, 22.7.2005, p. 59.
+
+( 13 ) OJ L 275, 20.10.2005, p. 1. Directive as last amended by Regulation (EC) No 715/2007 (OJ L 171, 29.6.2007, p. 1).
+
+( 14 ) OJ L 114, 27.4.2006, p. 64.

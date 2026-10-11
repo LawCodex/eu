@@ -1,0 +1,472 @@
+---
+title: "Council Directive 2003/109/EC of 25 November 2003 concerning the status of third-country nationals who are long-term residents"
+identifier: "32003L0109"
+eli: "http://data.europa.eu/eli/dir/2003/109/oj"
+type: directive
+jurisdiction: eu
+language: en
+date: 2003-11-25
+entry_into_force: 2003-07-25
+last_amended: 2026-06-12
+consolidated_version: "02003L0109-20260612"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02003L0109-20260612"
+retrieved: 2026-10-11
+---
+
+# Council Directive 2003/109/EC of 25 November 2003 concerning the status of third-country nationals who are long-term residents
+
+**COUNCIL DIRECTIVE 2003/109/EC**
+
+**of 25 November 2003**
+
+**concerning the status of third-country nationals who are long-term residents**
+
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> DIRECTIVE 2011/51/EU OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 11 May 2011 </td><td> L 132</td><td>1</td><td>19.5.2011</td></tr>
+<tr><td></td><td> REGULATION (EU) 2024/1347 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 14 May 2024 </td><td> L 1347</td><td>1</td><td>22.5.2024</td></tr>
+
+C1
+
+**COUNCIL DIRECTIVE 2003/109/EC**
+
+**of 25 November 2003**
+
+**concerning the status of third-country nationals who are long-term residents**
+
+## CHAPTER I — GENERAL PROVISIONS
+
+### Article 1 — Subject matter
+
+This Directive determines:
+
+(a) the terms for conferring and withdrawing long-term resident status granted by a Member State in relation to third-country nationals legally residing in its territory, and the rights pertaining thereto; and
+
+(b) the terms of residence in Member States other than the one which conferred long-term status on them for third-country nationals enjoying that status.
+
+### Article 2 — Definitions
+
+For the purposes of this Directive:
+
+(a) ‘third-country national’ means any person who is not a citizen of the Union within the meaning of Article 17(1) of the Treaty;
+
+(b) ‘long-term resident’ means any third-country national who has long-term resident status as provided for under Articles 4 to 7;
+
+(c) ‘first Member State’ means the Member State which for the first time granted long-term resident status to a third-country national;
+
+(d) ‘second Member State’ means any Member State other than the one which for the first time granted long-term resident status to a third-country national and in which that long-term resident exercises the right of residence;
+
+(e) ‘family members’ means the third-country nationals who reside in the Member State concerned in accordance with Council Directive 2003/86/EC of 22 September 2003 on the right to family reunification ( 1 );
+
+(f) ‘international protection’ means international protection as defined in Article 2(a) of Council Directive 2004/83/EC of 29 April 2004 on minimum standards for the qualification and status of third-country nationals or stateless persons as refugees or as persons who otherwise need international protection and the content of the protection granted ( 2 );
+
+(g) ‘long-term resident's EC residence permit’ means a residence permit issued by the Member State concerned upon the acquisition of long-term resident status.
+
+### Article 3 — Scope
+
+1\. This Directive applies to third-country nationals residing legally in the territory of a Member State.
+
+2\. This Directive does not apply to third-country nationals who:
+
+(a) reside in order to pursue studies or vocational training;
+
+(b) are authorised to reside in a Member State on the basis of temporary protection or have applied for authorisation to reside on that basis and are awaiting a decision on their status;
+
+(c) are authorised to reside in a Member State on the basis of a form of protection other than international protection or have applied for authorisation to reside on that basis and are awaiting a decision on their status;
+
+(d) have applied for international protection and whose application has not yet given rise to a final decision;
+
+(e) reside solely on temporary grounds such as au pair or seasonal worker, or as workers posted by a service provider for the purposes of cross-border provision of services, or as cross-border providers of services or in cases where their residence permit has been formally limited;
+
+(f) enjoy a legal status governed by the Vienna Convention on Diplomatic Relations of 1961, the Vienna Convention on Consular Relations of 1963, the Convention of 1969 on Special Missions or the Vienna Convention on the Representation of States in their Relations with International Organisations of a Universal Character of 1975.
+
+3\. This Directive shall apply without prejudice to more favourable provisions of:
+
+(a) bilateral and multilateral agreements between the Community or the Community and its Member States, on the one hand, and third countries, on the other;
+
+(b) bilateral agreements already concluded between a Member State and a third country before the date of entry into force of this Directive;
+
+(c) the European Convention on Establishment of 13 December 1955, the European Social Charter of 18 October 1961, the amended European Social Charter of 3 May 1987, the European Convention on the Legal Status of Migrant Workers of 24 November 1977, paragraph 11 of the Schedule to the Convention Relating to the Status of Refugees of 28 July 1951, as amended by the Protocol signed in New York on 31 January 1967, and the European Agreement on Transfer of Responsibility for Refugees of 16 October 1980.
+
+## CHAPTER II — LONG-TERM RESIDENT STATUS IN A MEMBER STATE
+
+### Article 4 — Duration of residence
+
+1\. Member States shall grant long-term resident status to third-country nationals who have resided legally and continuously within its territory for five years immediately prior to the submission of the relevant application.
+
+1a. Member States shall not grant long-term resident status on the basis of international protection in the event of the revocation of, ending of or refusal to renew international protection as laid down in Articles 14(3) and 19(3) of Directive 2004/83/EC.
+
+2\. Periods of residence for the reasons referred to in Article 3(2)(e) and (f) shall not be taken into account for the purposes of calculating the period referred to in paragraph 1.
+
+Regarding the cases covered in Article 3(2)(a), where the third-country national concerned has acquired a title of residence which will enable him/her to be granted long-term resident status, only half of the periods of residence for study purposes or vocational training may be taken into account in the calculation of the period referred to in paragraph 1.
+
+Regarding persons to whom international protection has been granted, the period between the date of the lodging of the application for international protection on the basis of which that international protection was granted and the date of the granting of the residence permit referred to in Article 24 of Regulation (EU) 2024/1347 ( 3 ) shall be taken into account in the calculation of the period referred to in paragraph 1.
+
+3\. Periods of absence from the territory of the Member State concerned shall not interrupt the period referred to in paragraph 1 and shall be taken into account for its calculation where they are shorter than six consecutive months and do not exceed in total 10 months within the period referred to in paragraph 1.
+
+In cases of specific or exceptional reasons of a temporary nature and in accordance with their national law, Member States may accept that a longer period of absence than that which is referred to in the first subparagraph shall not interrupt the period referred to in paragraph 1. In such cases Member States shall not take into account the relevant period of absence in the calculation of the period referred to in paragraph 1.
+
+By way of derogation from the second subparagraph, Member States may take into account in the calculation of the total period referred to in paragraph 1 periods of absence relating to secondment for employment purposes, including the provision of cross-border services.
+
+3a. Where a beneficiary of international protection is found in a Member State other than the one that granted international protection, without a right to stay or to reside there in accordance with relevant national, Union or international law, the period of legal stay in the Member State that granted international protection preceding such a situation shall not be taken into account in the calculation of the period referred to in paragraph 1.
+
+By way of derogation from the first subparagraph, in particular where the beneficiary of international protection demonstrates that the reason for the stay or residence without a right was due to circumstances beyond that beneficiary’s control, Member States may provide, in accordance with their national law, that the calculation of the period referred to in paragraph 1 shall not be interrupted.
+
+### Article 5 — Conditions for acquiring long-term resident status
+
+1\. Member States shall require third-country nationals to provide evidence that they have, for themselves and for dependent family members:
+
+(a) stable and regular resources which are sufficient to maintain himself/herself and the members of his/her family, without recourse to the social assistance system of the Member State concerned. Member States shall evaluate these resources by reference to their nature and regularity and may take into account the level of minimum wages and pensions prior to the application for long-term resident status;
+
+(b) sickness insurance in respect of all risks normally covered for his/her own nationals in the Member State concerned.
+
+2\. Member States may require third-country nationals to comply with integration conditions, in accordance with national law.
+
+### Article 6 — Public policy and public security
+
+1\. Member States may refuse to grant long-term resident status on grounds of public policy or public security.
+
+When taking the relevant decision, the Member State shall consider the severity or type of offence against public policy or public security, or the danger that emanates from the person concerned, while also having proper regard to the duration of residence and to the existence of links with the country of residence.
+
+2\. The refusal referred to in paragraph 1 shall not be founded on economic considerations.
+
+### Article 7 — Acquisition of long-term resident status
+
+1\. To acquire long-term resident status, the third-country national concerned shall lodge an application with the competent authorities of the Member State in which he/she resides. The application shall be accompanied by documentary evidence to be determined by national law that he/she meets the conditions set out in Articles 4 and 5 as well as, if required, by a valid travel document or its certified copy.
+
+The evidence referred to in the first subparagraph may also include documentation with regard to appropriate accommodation.
+
+2\. The competent national authorities shall give the applicant written notification of the decision as soon as possible and in any event no later than six months from the date on which the application was lodged. Any such decision shall be notified to the third-country national concerned in accordance with the notification procedures under the relevant national legislation.
+
+In exceptional circumstances linked to the complexity of the examination of the application, the time limit referred to in the first subparagraph may be extended.
+
+In addition, the person concerned shall be informed about his/her rights and obligations under this Directive.
+
+Any consequences of no decision being taken by the end of the period provided for in this provision shall be determined by national legislation of the relevant Member State.
+
+3\. If the conditions provided for by Articles 4 and 5 are met, and the person does not represent a threat within the meaning of Article 6, the Member State concerned shall grant the third-country national concerned long-term resident status.
+
+### Article 8 — Long-term resident's EC residence permit
+
+1\. The status as long-term resident shall be permanent, subject to Article 9.
+
+2\. Member States shall issue a long-term resident's EC residence permit to long-term residents. The permit shall be valid at least for five years; it shall, upon application if required, be automatically renewable on expiry.
+
+3\. A long-term resident's EC residence permit may be issued in the form of a sticker or of a separate document. It shall be issued in accordance with the rules and standard model as set out in Council Regulation (EC) No 1030/2002 of 13 June 2002 laying down a uniform format for residence permits for third-country nationals ( 4 ). Under the heading ‘type of permit’, the Member States shall enter ‘long-term resident — EC’.
+
+4\. Where a Member State issues a long-term resident’s EU residence permit to a third-country national to whom it granted international protection, it shall enter the following remark in that long-term resident’s EU residence permit, under the heading ‘Remarks’: ‘International protection granted by [name of the Member State] on [date]’.
+
+5\. Where a long-term resident’s EU residence permit is issued by a second Member State to a third-country national who already has a long-term resident’s EU residence permit issued by another Member State which contains the remark referred to in paragraph 4, the second Member State shall enter the same remark in the long-term resident’s EU residence permit.
+
+Before the second Member State enters the remark referred to in paragraph 4, it shall request the Member State mentioned in that remark to provide information as to whether the long-term resident is still a beneficiary of international protection. The Member State mentioned in the remark shall reply no later than 1 month after receiving the request for information. Where international protection has been withdrawn by a final decision, the second Member State shall not enter that remark.
+
+6\. Where, in accordance with the relevant international instruments or national law, responsibility for the international protection of the long-term resident was transferred to the second Member State after the long-term resident’s EU residence permit referred to in paragraph 5 was issued, the second Member State shall amend accordingly the remark referred to in paragraph 4 no later than 3 months after the transfer.
+
+### Article 9 — Withdrawal or loss of status
+
+1\. Long-term residents shall no longer be entitled to maintain long-term resident status in the following cases:
+
+(a) detection of fraudulent acquisition of long-term resident status;
+
+(b) adoption of an expulsion measure under the conditions provided for in Article 12;
+
+(c) in the event of absence from the territory of the Community for a period of 12 consecutive months.
+
+2\. By way of derogation from paragraph 1(c), Member States may provide that absences exceeding 12 consecutive months or for specific or exceptional reasons shall not entail withdrawal or loss of status.
+
+3\. Member States may provide that the long-term resident shall no longer be entitled to maintain his/her long-term resident status in cases where he/she constitutes a threat to public policy, in consideration of the seriousness of the offences he/she committed, but such threat is not a reason for expulsion within the meaning of Article 12.
+
+3a. Member States may withdraw the long-term resident status in the event of the revocation of, ending of or refusal to renew international protection as laid down in Articles 14(3) and 19(3) of Directive 2004/83/EC if the long-term resident status was obtained on the basis of international protection.
+
+4\. The long-term resident who has resided in another Member State in accordance with Chapter III shall no longer be entitled to maintain his/her long-term resident status acquired in the first Member State when such a status is granted in another Member State pursuant to Article 23.
+
+In any case after six years of absence from the territory of the Member State that granted long-term resident status the person concerned shall no longer be entitled to maintain his/her long term resident status in the said Member State.
+
+By way of derogation from the second subparagraph the Member State concerned may provide that for specific reasons the long-term resident shall maintain his/her status in the said Member State in case of absences for a period exceeding six years.
+
+5\. With regard to the cases referred to in paragraph 1(c) and in paragraph 4, Member States who have granted the status shall provide for a facilitated procedure for the re-acquisition of long-term resident status.
+
+The said procedure shall apply in particular to the cases of persons that have resided in a second Member State on grounds of pursuit of studies.
+
+The conditions and the procedure for the re-acquisition of long-term resident status shall be determined by national law.
+
+6\. The expiry of a long-term resident's EC residence permit shall in no case entail withdrawal or loss of long-term resident status.
+
+7\. Where the withdrawal or loss of long-term resident status does not lead to removal, the Member State shall authorise the person concerned to remain in its territory if he/she fulfils the conditions provided for in its national legislation and/or if he/she does not constitute a threat to public policy or public security.
+
+### Article 10 — Procedural guarantees
+
+1\. Reasons shall be given for any decision rejecting an application for long-term resident status or withdrawing that status. Any such decision shall be notified to the third-country national concerned in accordance with the notification procedures under the relevant national legislation. The notification shall specify the redress procedures available and the time within which he/she may act.
+
+2\. Where an application for long-term resident status is rejected or that status is withdrawn or lost or the residence permit is not renewed, the person concerned shall have the right to mount a legal challenge in the Member State concerned.
+
+### Article 11 — Equal treatment
+
+1\. Long-term residents shall enjoy equal treatment with nationals as regards:
+
+(a) access to employment and self-employed activity, provided such activities do not entail even occasional involvement in the exercise of public authority, and conditions of employment and working conditions, including conditions regarding dismissal and remuneration;
+
+(b) education and vocational training, including study grants in accordance with national law;
+
+(c) recognition of professional diplomas, certificates and other qualifications, in accordance with the relevant national procedures;
+
+(d) social security, social assistance and social protection as defined by national law;
+
+(e) tax benefits;
+
+(f) access to goods and services and the supply of goods and services made available to the public and to procedures for obtaining housing;
+
+(g) freedom of association and affiliation and membership of an organisation representing workers or employers or of any organisation whose members are engaged in a specific occupation, including the benefits conferred by such organisations, without prejudice to the national provisions on public policy and public security;
+
+(h) free access to the entire territory of the Member State concerned, within the limits provided for by the national legislation for reasons of security.
+
+2\. With respect to the provisions of paragraph 1, points (b), (d), (e), (f) and (g), the Member State concerned may restrict equal treatment to cases where the registered or usual place of residence of the long-term resident, or that of family members for whom he/she claims benefits, lies within the territory of the Member State concerned.
+
+3\. Member States may restrict equal treatment with nationals in the following cases:
+
+(a) Member States may retain restrictions to access to employment or self-employed activities in cases where, in accordance with existing national or Community legislation, these activities are reserved to nationals, EU or EEA citizens;
+
+(b) Member States may require proof of appropriate language proficiency for access to education and training. Access to university may be subject to the fulfilment of specific educational prerequisites.
+
+4\. Member States may limit equal treatment in respect of social assistance and social protection to core benefits.
+
+4a. As far as the Member State which granted international protection is concerned, paragraphs 3 and 4 shall be without prejudice to Directive 2004/83/EC.
+
+5\. Member States may decide to grant access to additional benefits in the areas referred to in paragraph 1.
+
+Member States may also decide to grant equal treatment with regard to areas not covered in paragraph 1.
+
+### Article 12 — Protection against expulsion
+
+1\. Member States may take a decision to expel a long-term resident solely where he/she constitutes an actual and sufficiently serious threat to public policy or public security.
+
+2\. The decision referred to in paragraph 1 shall not be founded on economic considerations.
+
+3\. Before taking a decision to expel a long-term resident, Member States shall have regard to the following factors:
+
+(a) the duration of residence in their territory;
+
+(b) the age of the person concerned;
+
+(c) the consequences for the person concerned and family members;
+
+(d) links with the country of residence or the absence of links with the country of origin.
+
+3a. Where a Member State decides to expel a long-term resident whose long-term resident’s EU residence permit contains the remark referred to in Article 8(4), it shall request the Member State mentioned in that remark to confirm whether the person concerned is still a beneficiary of international protection in that Member State. The Member State mentioned in the remark shall reply no later than 1 month after receiving the request for information.
+
+3b. If the long-term resident is still a beneficiary of international protection in the Member State mentioned in the remark, that person shall be expelled to that Member State, which shall, without prejudice to the applicable Union or national law and to the principle of family unity, immediately readmit, without formalities, that beneficiary and his/her family members.
+
+3c. By way of derogation from paragraph 3b, the Member State which adopted the expulsion decision shall retain the right to remove, in accordance with its international obligations, the long-term resident to a country other than the Member State which granted international protection where that person fulfils the conditions specified in Article 21(2) of Directive 2004/83/EC.
+
+4\. Where an expulsion decision has been adopted, a judicial redress procedure shall be available to the long-term resident in the Member State concerned.
+
+5\. Legal aid shall be given to long-term residents lacking adequate resources, on the same terms as apply to nationals of the State where they reside.
+
+6\. This Article shall be without prejudice to Article 21(1) of Directive 2004/83/EC.
+
+### Article 13 — More favourable national provisions
+
+Member States may issue residence permits of permanent or unlimited validity on terms that are more favourable than those laid down by this Directive. Such residence permits shall not confer the right of residence in the other Member States as provided by Chapter III of this Directive.
+
+## CHAPTER III — RESIDENCE IN THE OTHER MEMBER STATES
+
+### Article 14 — Principle
+
+1\. A long-term resident shall acquire the right to reside in the territory of Member States other than the one which granted him/her the long-term residence status, for a period exceeding three months, provided that the conditions set out in this chapter are met.
+
+2\. A long-term resident may reside in a second Member State on the following grounds:
+
+(a) exercise of an economic activity in an employed or self-employed capacity;
+
+(b) pursuit of studies or vocational training;
+
+(c) other purposes.
+
+3\. In cases of an economic activity in an employed or self-employed capacity referred to in paragraph 2(a), Member States may examine the situation of their labour market and apply their national procedures regarding the requirements for, respectively, filling a vacancy, or for exercising such activities.
+
+For reasons of labour market policy, Member States may give preference to Union citizens, to third-country nationals, when provided for by Community legislation, as well as to third-country nationals who reside legally and receive unemployment benefits in the Member State concerned.
+
+4\. By way of derogation from the provisions of paragraph 1, Member States may limit the total number of persons entitled to be granted right of residence, provided that such limitations are already set out for the admission of third-country nationals in the existing legislation at the time of the adoption of this Directive.
+
+5\. This chapter does not concern the residence of long-term residents in the territory of the Member States:
+
+(a) as employed workers posted by a service provider for the purposes of cross-border provision of services;
+
+(b) as providers of cross-border services.
+
+Member States may decide, in accordance with national law, the conditions under which long-term residents who wish to move to a second Member State with a view to exercising an economic activity as seasonal workers may reside in that Member State. Cross-border workers may also be subject to specific provisions of national law.
+
+6\. This Chapter is without prejudice to the relevant Community legislation on social security with regard to third-country nationals.
+
+### Article 15 — Conditions for residence in a second Member State
+
+1\. As soon as possible and no later than three months after entering the territory of the second Member State, the long-term resident shall apply to the competent authorities of that Member State for a residence permit.
+
+Member States may accept that the long-term resident submits the application for a residence permit to the competent authorities of the second Member State while still residing in the territory of the first Member State.
+
+2\. Member States may require the persons concerned to provide evidence that they have:
+
+(a) stable and regular resources which are sufficient to maintain themselves and the members of their families, without recourse to the social assistance of the Member State concerned. For each of the categories referred to in Article 14(2), Member States shall evaluate these resources by reference to their nature and regularity and may take into account the level of minimum wages and pensions;
+
+(b) sickness insurance covering all risks in the second Member State normally covered for its own nationals in the Member State concerned.
+
+3\. Member States may require third-country nationals to comply with integration measures, in accordance with national law.
+
+This condition shall not apply where the third-country nationals concerned have been required to comply with integration conditions in order to be granted long-term resident status, in accordance with the provisions of Article 5(2).
+
+Without prejudice to the second subparagraph, the persons concerned may be required to attend language courses.
+
+4\. The application shall be accompanied by documentary evidence, to be determined by national law, that the persons concerned meets the relevant conditions, as well as by their long-term resident permit and a valid travel document or their certified copies.
+
+The evidence referred to in the first subparagraph may also include documentation with regard to appropriate accommodation.
+
+In particular:
+
+(a) in case of exercise of an economic activity the second Member State may require the persons concerned to provide evidence:
+
+(i) if they are in an employed capacity, that they have an employment contract, a statement by the employer that they are hired or a proposal for an employment contract, under the conditions provided for by national legislation. Member States shall determine which of the said forms of evidence is required;
+
+(ii) if they are in a self-employed capacity, that they have the appropriate funds which are needed, in accordance with national law, to exercise an economic activity in such capacity, presenting the necessary documents and permits;
+
+(b) in case of study or vocational training the second Member State may require the persons concerned to provide evidence of enrolment in an accredited establishment in order to pursue studies or vocational training.
+
+### Article 16 — Family members
+
+1\. When the long-term resident exercises his/her right of residence in a second Member State and when the family was already constituted in the first Member State, the members of his/her family, who fulfil the conditions referred to in Article 4(1) of Directive 2003/86/EC shall be authorised to accompany or to join the long-term resident.
+
+2\. When the long-term resident exercises his/her right of residence in a second Member State and when the family was already constituted in the first Member State, the members of his/her family, other than those referred to in Article 4(1) of Directive 2003/86/EC may be authorised to accompany or to join the long-term resident.
+
+3\. With respect to the submission of the application for a residence permit, the provisions of Article 15(1) apply.
+
+4\. The second Member State may require the family members concerned to present with their application for a residence permit:
+
+(a) their long-term resident's EC residence permit or residence permit and a valid travel document or their certified copies;
+
+(b) evidence that they have resided as members of the family of the long-term resident in the first Member State;
+
+(c) evidence that they have stable and regular resources which are sufficient to maintain themselves without recourse to the social assistance of the Member State concerned or that the long-term resident has such resources and insurance for them, as well as sickness insurance covering all risks in the second Member State. Member States shall evaluate these resources by reference to their nature and regularity and may take into account the level of minimum wages and pensions.
+
+5\. Where the family was not already constituted in the first Member State, Directive 2003/86/EC shall apply.
+
+### Article 17 — Public policy and public security
+
+1\. Member States may refuse applications for residence from long-term residents or their family members where the person concerned constitutes a threat to public policy or public security.
+
+When taking the relevant decision, the Member State shall consider the severity or type of offence against public policy or public security committed by the long-term resident or his/her family member(s), or the danger that emanates from the person concerned.
+
+2\. The decision referred to in paragraph 1 shall not be based on economic considerations.
+
+### Article 18 — Public health
+
+1\. Member States may refuse applications for residence from long-term residents or their family members where the person concerned constitutes a threat to public health.
+
+2\. The only diseases that may justify a refusal to allow entry or the right of residence in the territory of the second Member State shall be the diseases as defined by the relevant applicable instruments of the World Health Organisation's and such other infectious or contagious parasite-based diseases as are the subject of protective provisions in relation to nationals in the host country. Member States shall not introduce new more restrictive provisions or practices.
+
+3\. Diseases contracted after the first residence permit was issued in the second Member State shall not justify a refusal to renew the permit or expulsion from the territory.
+
+4\. A Member State may require a medical examination, for persons to whom this Directive applies, in order to certify that they do not suffer from any of the diseases referred to in paragraph 2. Such medical examinations, which may be free of charge, shall not be performed on a systematic basis.
+
+### Article 19 — Examination of applications and issue of a residence permit
+
+1\. The competent national authorities shall process applications within four months from the date that these have been lodged.
+
+If an application is not accompanied by the documentary evidence listed in Articles 15 and 16, or in exceptional circumstances linked with the complexity of the examination of the application, the time limit referred to in the first subparagraph may be extended for a period not exceeding three months. In such cases the competent national authorities shall inform the applicant thereof.
+
+2\. If the conditions provided for in Articles 14, 15 and 16 are met, then, subject to the provisions relating to public policy, public security and public health in Articles 17 and 18, the second Member State shall issue the long-term resident with a renewable residence permit. This residence permit shall, upon application, if required, be renewable on expiry. The second Member State shall inform the first Member State of its decision.
+
+3\. The second Member State shall issue members of the long-term resident's family with renewable residence permits valid for the same period as the permit issued to the long-term resident.
+
+### Article 19a — Amendments of long-term resident’s EU residence permits
+
+1\. Where a long-term resident’s EU residence permit contains the remark referred to in Article 8(4), and where, in accordance with the relevant international instruments or national law, responsibility for the international protection of the long-term resident is transferred to a second Member State before that Member State issues the long-term resident’s EU residence permit referred to in Article 8(5), the second Member State shall ask the Member State which has issued the long-term resident’s EU residence permit to amend that remark accordingly.
+
+2\. Where a long-term resident is granted international protection in the second Member State before that Member State issued the long-term resident’s EU residence permit referred to in Article 8(5), that Member State shall ask the Member State which has issued the long-term resident’s EU residence permit to amend it in order to enter the remark referred to in Article 8(4).
+
+3\. Following the request referred to in paragraphs 1 and 2, the Member State which has issued the long-term resident’s EU residence permit shall issue the amended long-term resident’s EU residence permit no later than 3 months after receiving the request from the second Member State.
+
+### Article 20 — Procedural guarantees
+
+1\. Reasons shall be given for any decision rejecting an application for a residence permit. It shall be notified to the third-country national concerned in accordance with the notification procedures under the relevant national legislation. The notification shall specify the possible redress procedures available and the time limit for taking action.
+
+Any consequences of no decision being taken by the end of the period referred to in Article 19(1) shall be determined by the national legislation of the relevant Member State.
+
+2\. Where an application for a residence permit is rejected, or the permit is not renewed or is withdrawn, the person concerned shall have the right to mount a legal challenge in the Member State concerned.
+
+### Article 21 — Treatment granted in the second Member State
+
+1\. As soon as they have received the residence permit provided for by Article 19 in the second Member State, long-term residents shall in that Member State enjoy equal treatment in the areas and under the conditions referred to in Article 11.
+
+2\. Long-term residents shall have access to the labour market in accordance with the provisions of paragraph 1.
+
+Member States may provide that the persons referred to in Article 14(2)(a) shall have restricted access to employed activities different than those for which they have been granted their residence permit under the conditions set by national legislation for a period not exceeding 12 months.
+
+Member States may decide in accordance with national law the conditions under which the persons referred to in Article 14(2)(b) or (c) may have access to an employed or self-employed activity.
+
+3\. As soon as they have received the residence permit provided for by Article 19 in the second Member State, members of the family of the long-term resident shall in that Member State enjoy the rights listed in Article 14 of Directive 2003/86/EC.
+
+### Article 22 — Withdrawal of residence permit and obligation to readmit
+
+1\. Until the third-country national has obtained long-term resident status, the second Member State may decide to refuse to renew or to withdraw the resident permit and to oblige the person concerned and his/her family members, in accordance with the procedures provided for by national law, including removal procedures, to leave its territory in the following cases:
+
+(a) on grounds of public policy or public security as defined in Article 17;
+
+(b) where the conditions provided for in Articles 14, 15 and 16 are no longer met;
+
+(c) where the third-country national is not lawfully residing in the Member State concerned.
+
+2\. If the second Member State adopts one of the measures referred to in paragraph 1, the first Member State shall immediately readmit without formalities the long-term resident and his/her family members. The second Member State shall notify the first Member State of its decision.
+
+3\. Until the third-country national has obtained long-term resident status and without prejudice to the obligation to readmit referred to in paragraph 2, the second Member State may adopt a decision to remove the third-country national from the territory of the Union, in accordance with and under the guarantees of Article 12, on serious grounds of public policy or public security.
+
+In such cases, when adopting the said decision the second Member State shall consult the first Member State.
+
+When the second Member State adopts a decision to remove the third-country national concerned, it shall take all the appropriate measures to effectively implement it. In such cases the second Member State shall provide to the first Member State appropriate information with respect to the implementation of the removal decision.
+
+3a. Unless, in the meantime, the international protection has been withdrawn or the person falls within one of the categories specified in Article 21(2) of Directive 2004/83/EC, paragraph 3 of this Article shall not apply to third-country nationals whose long-term resident’s EU residence permit issued by the first Member State contains the remark referred to in Article 8(4) of this Directive.
+
+This paragraph shall be without prejudice to Article 21(1) of Directive 2004/83/EC.
+
+4\. Removal decisions may not be accompanied by a permanent ban on residence in the cases referred to in paragraph 1(b) and (c).
+
+5\. The obligation to readmit referred to in paragraph 2 shall be without prejudice to the possibility of the long-term resident and his/her family members moving to a third Member State.
+
+### Article 23 — Acquisition of long-term resident status in the second Member State
+
+1\. Upon application, the second Member State shall grant long-term residents the status provided for by Article 7, subject to the provisions of Articles 3, 4, 5 and 6. The second Member State shall notify its decision to the first Member State.
+
+2\. The procedure laid down in Article 7 shall apply to the presentation and examination of applications for long-term resident status in the second Member State. Article 8 shall apply for the issuance of the residence permit. Where the application is rejected, the procedural guarantees provided for by Article 10 shall apply.
+
+## CHAPTER IV — FINAL PROVISIONS
+
+### Article 24 — Report and rendez-vous clause
+
+Periodically, and for the first time no later than 23 January 2011, the Commission shall report to the European Parliament and to the Council on the application of this Directive in the Member States and shall propose such amendments as may be necessary. These proposals for amendments shall be made by way of priority in relation to Articles 4, 5, 9, 11 and to Chapter III.
+
+### Article 25 — Contact points
+
+Member States shall appoint contact points who will be responsible for receiving and transmitting the information and documentation referred to in Articles 8, 12, 19, 19a, 22 and 23.
+
+Member States shall provide appropriate cooperation in the exchange of the information and documentation referred to in the first paragraph.
+
+### Article 26 — Transposition
+
+Member States shall bring into force the laws, regulations and administrative provisions necessary to comply with this Directive by 23 January 2006 at the latest. Member States shall bring into force the laws, regulations and administrative provisions necessary to comply with Article 4(2), third subparagraph, and (3a) by 12 June 2026. They shall immediately communicate the text of those measures to the Commission.
+
+When Member States adopt these measures, they shall contain a reference to this Directive or shall be accompanied by such reference on the occasion of their official publication. The methods of making such reference shall be laid down by Member States.
+
+### Article 27 — Entry into force
+
+This Directive shall enter into force on the day of its publication in the Official Journal of the European Union.
+
+### Article 28 — Addressees
+
+This Directive is addressed to the Member States in accordance with the Treaty establishing the European Community.
+
+( 1 ) OJ L 251, 3.10.2003, p. 12.
+
+( 2 ) OJ L 304, 30.9.2004, p. 12.
+
+( 3 ) Regulation (EU) 2024/1347 of the European Parliament and of the Council of 14 May 2024 on standards for the qualification of third-country nationals or stateless persons as beneficiaries of international protection, for a uniform status for refugees or for persons eligible for subsidiary protection and for the content of the protection granted, amending Council Directive 2003/109/EC and repealing Council Directive 2011/95/EU of the European Parliament and of the Council (OJ L, 2024/1347, 22.5.2024, ELI: http://data.europa.eu/eli/reg/2024/1347/oj).
+
+( 4 ) OJ L 157, 15.6.2002, p. 1.

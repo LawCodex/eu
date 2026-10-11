@@ -1,0 +1,409 @@
+---
+title: "Council Directive 89/391/EEC of 12 June 1989 on the introduction of measures to encourage improvements in the safety and health of workers at work"
+identifier: "31989L0391"
+eli: "http://data.europa.eu/eli/dir/1989/391/oj"
+type: directive
+jurisdiction: eu
+language: en
+date: 1989-06-12
+entry_into_force: 1989-11-08
+last_amended: 2008-12-11
+consolidated_version: "01989L0391-20081211"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:01989L0391-20081211"
+retrieved: 2026-10-11
+---
+
+# Council Directive 89/391/EEC of 12 June 1989 on the introduction of measures to encourage improvements in the safety and health of workers at work
+
+**COUNCIL DIRECTIVE**
+
+**of 12 June 1989**
+
+**on the introduction of measures to encourage improvements in the safety and health of workers at work**
+
+**(89/391/EEC)**
+
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td> M1</td><td> REGULATION (EC) No 1882/2003 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 29 September 2003</td><td> L 284</td><td>1</td><td>31.10.2003</td></tr>
+<tr><td></td><td> DIRECTIVE 2007/30/EC OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 20 June 2007 </td><td> L 165</td><td>21</td><td>27.6.2007</td></tr>
+<tr><td></td><td> REGULATION (EC) No 1137/2008 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 22 October 2008 </td><td> L 311</td><td>1</td><td>21.11.2008</td></tr>
+
+**COUNCIL DIRECTIVE**
+
+**of 12 June 1989**
+
+**on the introduction of measures to encourage improvements in the safety and health of workers at work**
+
+**(89/391/EEC)**
+
+## SECTION I — GENERAL PROVISIONS
+
+### Article 1 — Object
+
+1\. The object of this Directive is to introduce measures to encourage improvements in the safety and health of workers at work.
+
+2\. To that end it contains general principles concerning the prevention of occupational risks, the protection of safety and health, the elimination of risk and accident factors, the informing, consultation, balanced participation in accordance with national laws and/ or practices and training of workers and their representatives, as well as general guidelines for the implementation of the said principles.
+
+3\. This Directive shall be without prejudice to existing or future national and Community provisions which are more favourable to protection of the safety and health of workers at work.
+
+### Article 2 — Scope
+
+1\. This Directive shall apply to all sectors of activity, both public and private (industrial, agricultural, commercial, administrative, service, educational, cultural, leisure, etc.).
+
+2\. This Directive shall not be applicable where characteristics peculiar to certain specific public service activities, such as the armed forces or the police, or to certain specific activities in the civil protection services inevitably conflict with it.
+
+In that event, the safety and health of workers must be ensured as far as possible in the light of the objectives of this Directive.
+
+### Article 3 — Definitions
+
+For the purposes of this Directive, the following terms shall have the following meanings:
+
+(a) worker: any person employed by an employer, including trainees and apprentices but excluding domestic servants;
+
+(b) employer: any natural or legal person who has an employment relationship with the worker and has responsibility for the undertaking and/ or establishment;
+
+(c) workers' representative with specific responsibility for the safety and health of workers: any person elected, chosen or designated in accordance with national laws and/ or practices to represent workers where problems arise relating to the safety and health protection of workers at work;
+
+(d) prevention: all the steps or measures taken or planned at all stages of work in the undertaking to prevent or reduce occupational risks.
+
+### Article 4
+
+1\. Member States shall take the necessary steps to ensure that employers, workers and workers' representatives are subject to the legal provisions necessary for the implementation of this Directive.
+
+2\. In particular, Member States shall ensure adequate controls and supervision.
+
+## SECTION II — EMPLOYERS' OBLIGATIONS
+
+### Article 5 — General provision
+
+1\. The employer shall have a duty to ensure the safety and health of workers in every aspect related to the work.
+
+2\. Where, pursuant to Article 7 (3), an employer enlists competent external services or persons, this shall not discharge him from his responsibilities in this area.
+
+3\. The workers' obligations in the field of safety and health at work shall not affect the principle of the responsibility of the employer.
+
+4\. This Directive shall not restrict the option of Member States to provide for the exclusion or the limitation of employers' responsibility where occurrences are due to unusual and unforeseeable circumstances, beyond the employers' control, or to exceptional events, the consequences of which could not have been avoided despite the exercise of all due care.
+
+Member States need not exercise the option referred to in the first subparagraph.
+
+### Article 6 — General obligations on employers
+
+1\. Within the context of his responsibilities, the employer shall take the measures necessary for the safety and health protection of workers, including prevention of occupational risks and provision of information and training, as well as provision of the necessary organization and means.
+
+The employer shall be alert to the need to adjust these measures to take account of changing circumstances and aim to improve existing situations.
+
+2\. The employer shall implement the measures referred to in the first subparagraph of paragraph 1 on the basis of the following general principles of prevention:
+
+(a) avoiding risks;
+
+(b) evaluating the risks which cannot be avoided:
+
+(c) combating the risks at source;
+
+(d) adapting the work to the individual, especially as regards the design of work places, the choice of work equipment and the choice of working and production methods, with a view, in particular, to alleviating monotonous work and work at a predetermined work-rate and to reducing their effect on health.
+
+(e) adapting to technical progress;
+
+(f) replacing the dangerous by the non-dangerous or the less dangerous;
+
+(g) developing a coherent overall prevention policy which covers technology, organization of work, working conditions, social relationships and the influence of factors related to the working environment;
+
+(h) giving collective protective measures priority over individual protective measures;
+
+(i) giving appropriate instructions to the workers.
+
+3\. Without prejudice to the other provisions of this Directive, the employer shall, taking into account the nature of the activities of the enterprise and/ or establishment:
+
+(a) evaluate the risks to the safety and health of workers, inter alia in the choice of work equipment, the chemical substances or preparations used, and the fitting-out of work places.
+
+Subsequent to this evaluation and as necessary, the preventive measures and the working and production methods implemented by the employer must:
+
+— assure an improvement in the level of protection afforded to workers with regard to safety and health,
+
+— be integrated into all the activities of the undertaking and/ or establishment and at all hierarchical levels;
+
+(b) where he entrusts tasks to a worker, take into consideration the worker's capabilities as regards health and safety;
+
+(c) ensure that the planning and introduction of new technologies are the subject of consultation with the workers and/ or their representatives, as regards the consequences of the choice of equipment, the working conditions and the working environment for the safety and health of workers;
+
+(d) take appropriate steps to ensure that only workers who have received adequate instructions may have access to areas where there is serious and specific danger.
+
+4\. Without prejudice to the other provisions of this Directive, where several undertakings share a work place, the employers shall cooperate in implementing the safety, health and occupational hygiene provisions and, taking into account the nature of the activities, shall coordinate their actions in matters of the protection and prevention of occupational risks, and shall inform one another and their respective workers and/ or workers' representatives of these risks.
+
+5\. Measures related to safety, hygiene and health at work may in no circumstances involve the workers in financial cost.
+
+### Article 7 — Protective and preventive services
+
+1\. Without prejudice to the obligations referred to in Articles 5 and 6, the employer shall designate one or more workers to carry out activities related to the protection and prevention of occupational risks for the undertaking and/ or establishment.
+
+2\. Designated workers may not be placed at any disadvantage because of their activities related to the protection and prevention of occupational risks.
+
+Designated workers shall be allowed adequate time to enable them to fulfil their obligations arising from this Directive.
+
+3\. If such protective and preventive measures cannot be organized for lack of competent personnel in the undertaking and/ or establishment, the employer shall enlist competent external services or persons.
+
+4\. Where the employer enlists such services or persons, he shall inform them of the factors known to affect, or suspected of affecting, the safety and health of the workers and they must have access to the information referred to in Article 10 (2).
+
+5\. In all cases:
+
+— the workers designated must have the necessary capabilities and the necessary means,
+
+— the external services or persons consulted must have the necessary aptitudes and the necessary personal and professional means, and
+
+— the workers designated and the external services or persons consulted must be sufficient in number
+
+to deal with the organization of protective and preventive measures, taking into account the size of the undertaking and/ or establishment and/ or the hazards to which the workers are exposed and their distribution throughout the entire undertaking and/ or establishment.
+
+6\. The protection from, and prevention of, the health and safety risks which form the subject of this Article shall be the responsibility of one or more workers, of one service or of separate services whether from inside or outside the undertaking and/ or establishment.
+
+The worker(s) and/ or agency(ies) must work together whenever necessary.
+
+7\. Member States may define, in the light of the nature of the activities and size of the undertakings, the categories of undertakings in which the employer, provided he is competent, may himself take responsibility for the measures referred to in paragraph 1.
+
+8\. Member States shall define the necessary capabilities and aptitudes referred to in paragraph 5.
+
+They may determine the sufficient number referred to in paragraph 5.
+
+### Article 8 — First aid, fire-fighting and evacuation of workers, serious and imminent danger
+
+1\. The employer shall:
+
+— take the necessary measures for first aid, fire-fighting and evacuation of workers, adapted to the nature of the activities and the size of the undertaking and/ or establishment and taking into account other persons present,
+
+— arrange any necessary contacts with external services, particularly as regards first aid, emergency medical care, rescue work and fire-fighting.
+
+2\. Pursuant to paragraph 1, the employer shall, inter alia, for first aid, fire-fighting and the evacuation of workers, designate the workers required to implement such measures.
+
+The number of such workers, their training and the equipment available to them shall be adequate, taking account of the size and/ or specific hazards of the undertaking and/ or establishment.
+
+3\. The employer shall:
+
+(a) as soon as possible, inform all workers who are, or may be, exposed to serious and imminent danger of the risk involved and of the steps taken or to be taken as regards protection;
+
+(b) take action and give instructions to enable workers in the event of serious, imminent and unavoidable danger to stop work and/ or immediately to leave the work place and proceed to a place of safety;
+
+(c) save in exceptional cases for reasons duly substantiated, refrain from asking workers to resume work in a working situation where there is still a serious and imminent danger.
+
+4\. Workers who, in the event of serious, imminent and unavoidable danger, leave their workstation and/ or a dangerous area may not be placed at any disadvantage because of their action and must be protected against any harmful and unjustified consequences, in accordance with national laws and/ or practices.
+
+5\. The employer shall ensure that all workers are able, in the event of serious and imminent danger to their own safety and/ or that of other persons, and where the immediate superior responsible cannot be contacted, to take the appropriate steps in the light of their knowledge and the technical means at their disposal, to avoid the consequences of such danger.
+
+Their actions shall not place them at any disadvantage, unless they acted carelessly or there was negligence on their part.
+
+### Article 9 — Various obligations on employers
+
+1\. The employer shall:
+
+(a) be in possession of an assessment of the risks to safety and health at work, including those facing groups of workers exposed to particular risks;
+
+(b) decide on the protective measures to be taken and, if necessary, the protective equipment to be used;
+
+(c) keep a list of occupational accidents resulting in a worker being unfit for work for more than three working days;
+
+(d) draw up, for the responsible authorities and in accordance with national laws and/ or practices, reports on occupational accidents suffered by his workers.
+
+2\. Member States shall define, in the light of the nature of the activities and size of the undertakings, the obligations to be met by the different categories of undertakings in respect of the drawing-up of the documents provided for in paragraph 1 (a) and (b) and when preparing the documents provided for in paragraph 1 (c) and (d).
+
+### Article 10 — Worker information
+
+1\. The employer shall take appropriate measures so that workers and/ or their representatives in the undertaking and/ or establishment receive, in accordance with national laws and/ or practices which may take account, inter alia, of the size of the undertaking and/ or establishment, all the necessary information concerning:
+
+(a) the safety and health risks and protective and preventive measures and activities in respect of both the undertaking and/ or establishment in general and each type of workstation and/ or job;
+
+(b) the measures taken pursuant to Article 8 (2).
+
+2\. The employer shall take appropriate measures so that employers of workers from any outside undertakings and/ or establishments engaged in work in his undertaking and/ or establishment receive, in accordance with national laws and/ or practices, adequate information concerning the points referred to in paragraph 1 (a) and (b) which is to be provided to the workers in question.
+
+3\. The employer shall take appropriate measures so that workers with specific functions in protecting the safety and health of workers, or workers' representatives with specific responsibility for the safety and health of workers shall have access, to carry out their functions and in accordance with national laws and/ or practices, to:
+
+(a) the risk assessment and protective measures referred to in Article 9 (1) (a) and (b);
+
+(b) the list and reports referred to in Article 9 (1) (c) and (d);
+
+(c) the information yielded by protective and preventive measures, inspection agencies and bodies responsible for safety and health.
+
+### Article 11 — Consultation and participation of workers
+
+1\. Employers shall consult workers and/ or their representatives and allow them to take part in discussions on all questions relating to safety and health at work.
+
+This presupposes:
+
+— the consultation of workers,
+
+— the right of workers and/ or their representatives to make proposals,
+
+— balanced participation in accordance with national laws and/ or practices.
+
+2\. Workers or workers' representatives with specific responsibility for the safety and health of workers shall take part in a balanced way, in accordance with national laws and/ or practices, or shall be consulted in advance and in good time by the employer with regard to:
+
+(a) any measure which may substantially affect safety and health;
+
+(b) the designation of workers referred to in Articles 7 (1) and 8 (2) and the activities referred to in Article 7 (1);
+
+(c) the information referred to in Articles 9 (1) and 10;
+
+(d) the enlistment, where appropriate, of the competent services or persons outside the undertaking and/ or establishment, as referred to in Article 7 (3);
+
+(e) the planning and organization of the training referred to in Article 12.
+
+3\. Workers' representatives with specific responsibility for the safety and health of workers shall have the right to ask the employer to take appropriate measures and to submit proposals to him to that end to mitigate hazards for workers and/ or to remove sources of danger.
+
+4\. The workers referred to in paragraph 2 and the workers' representatives referred to in paragraphs 2 and 3 may not be placed at a disadvantage because of their respective activities referred to in paragraphs 2 and 3.
+
+5\. Employers must allow workers' representatives with specific responsibility for the safety and health of workers adequate time off work, without loss of pay, and provide them with the necessary means to enable such representatives to exercise their rights and functions deriving from this Directive.
+
+6\. Workers and/ or their representatives are entitled to appeal, in accordance with national law and/ or practice, to the authority responsible for safety and health protection at work if they consider that the measures taken and the means employed by the employer are inadequate for the purposes of ensuring safety and health at work.
+
+Workers' representatives must be given the opportunity to submit their observations during inspection visits by the competent authority.
+
+### Article 12 — Training of workers
+
+1\. The employer shall ensure that each worker receives adequate safety and health training, in particular in the form of information and instructions specific to his workstation or job:
+
+— on recruitment,
+
+— in the event of a transfer or a change of job,
+
+— in the event of the introduction of new work equipment or a change in equipment,
+
+— in the event of the introduction of any new technology.
+
+The training shall be:
+
+— adapted to take account of new or changed risks, and
+
+— repeated periodically if necessary.
+
+2\. The employer shall ensure that workers from outside undertakings and/ or establishments engaged in work in his undertaking and/ or establishment have in fact received appropriate instructions regarding health and safety risks during their activities in his undertaking and/ or establishment.
+
+3\. Workers' representatives with a specific role in protecting the safety and health of workers shall be entitled to appropriate training.
+
+4\. The training referred to in paragraphs 1 and 3 may not be at the workers' expense or at that of the workers' representatives.
+
+The training referred to in paragraph 1 must take place during working hours.
+
+The training referred to in paragraph 3 must take place during working hours or in accordance with national practice either within or outside the undertaking and/ or the establishment.
+
+## SECTION III — WORKERS' OBLIGATIONS
+
+### Article 13
+
+1\. It shall be the responsibility of each worker to take care as far as possible of his own safety and health and that of other persons affected by his acts or omissions  at work in accordance with his training and the instructions given by his employer.
+
+2\. To this end, workers must in particular, in accordance with their training and the instructions given by their employer:
+
+(a) make correct use of machinery, apparatus, tools, dangerous substances, transport equipment and other means of production;
+
+(b) make correct use of the personal protective equipment supplied to them and, after use, return it to its proper place;
+
+(c) refrain from disconnecting, changing or removing arbitrarily safety devices fitted, e.g. to machinery, apparatus, tools, plant and buildings, and use such safety devices correctly;
+
+(d) immediately inform the employer and/ or the workers with specific responsibility for the safety and health of workers of any work situation they have reasonable grounds for considering represents a serious and immediate danger to safety and health and of any shortcomings in the protection arrangements;
+
+(e) cooperate, in accordance with national practice, with the employer and/ or workers with specific responsibility for the safety and health of workers, for as long as may be necessary to enable any tasks or requirements imposed by the competent authority to protect the safety and health of workers at work to be carried out;
+
+(f) cooperate, in accordance with national practice, with the employer and/ or workers with specific responsibility for the safety and health of workers, for as long as may be necessary to enable the employer to ensure that the working environment and working conditions are safe and pose no risk to safety and health within their field of activity.
+
+## SECTION IV — MISCELLANEOUS PROVISIONS
+
+### Article 14 — Health surveillance
+
+1\. To ensure that workers receive health surveillance appropriate to the health and safety risks they incur at work, measures shall be introduced in accordance with national law and/ or practices.
+
+2\. The measures referred to in paragraph 1 shall be such that each worker, if he so wishes, may receive health surveillance at regular intervals.
+
+3\. Health surveillance may be provided as part of a national health system.
+
+### Article 15 — Risk groups
+
+Particularly sensitive risk groups must be protected against the dangers which specifically affect them.
+
+### Article 16
+
+Individual Directives — Amendments —
+
+General scope of this Directive
+
+1\. The Council, acting on a proposal from the Commission based on Article 118a of the Treaty, shall adopt individual Directives, inter alia, in the areas listed in the Annex.
+
+2\. This Directive and, without prejudice to the procedure referred to in Article 17 concerning technical adjustments, the individual Directives may be amended in accordance with the procedure provided for in Article 118a of the Treaty.
+
+3\. The provisions of this Directive shall apply in full to all the areas covered by the individual Directives, without prejudice to more stringent and/ or specific provisions contained in these individual Directives.
+
+### Article 17
+
+Committee procedure
+
+1\. The Commission shall be assisted by a committee to make purely technical adjustments to the individual directives provided for in Article 16(1) in order to take account of:
+
+(a) the adoption of directives in the field of technical harmonisation and standardisation;
+
+(b) technical progress, changes in international regulations or specifications and new findings.
+
+Those measures, designed to amend non-essential elements of the individual directives, shall be adopted in accordance with the regulatory procedure with scrutiny referred to in paragraph 2. On imperative grounds of urgency, the Commission may have recourse to the urgency procedure referred to in paragraph 3.
+
+2\. Where reference is made to this paragraph, Article 5a(1) to (4) and Article 7 of Decision 1999/468/EC shall apply, having regard to the provisions of Article 8 thereof.
+
+3\. Where reference is made to this paragraph, Article 5a(1), (2), (4) and (6) and Article 7 of Decision 1999/468/EC shall apply, having regard to the provisions of Article 8 thereof.
+
+### Article 17a — Implementation reports
+
+1\. Every five years, the Member States shall submit a single report to the Commission on the practical implementation of this Directive and individual Directives within the meaning of Article 16(1), indicating the points of view of the social partners. The report shall assess the various points related to the practical implementation of the different Directives and, where appropriate and available, provide data disaggregated by gender.
+
+2\. The structure of the report, together with a questionnaire specifying its content, shall be defined by the Commission, in cooperation with the Advisory Committee on Safety and Health at Work.
+
+The report shall include a general part on the provisions of this Directive relating to the common principles and points applicable to all of the Directives referred to in paragraph 1.
+
+To complement the general part, specific chapters shall deal with implementation of the particular aspects of each Directive, including specific indicators, where available.
+
+3\. The Commission shall submit the structure of the report, together with the above-mentioned questionnaire specifying its content, to the Member States at least six months before the end of the period covered by the report. The report shall be transmitted to the Commission within 12 months of the end of the five-year period that it covers.
+
+4\. Using these reports as a basis, the Commission shall evaluate the implementation of the Directives concerned in terms of their relevance, of research and of new scientific knowledge in the various fields in question. It shall, within 36 months of the end of the five-year period, inform the European Parliament, the Council, the European Economic and Social Committee and the Advisory Committee on Safety and Health at Work of the results of this evaluation and, if necessary, of any initiatives to improve the operation of the regulatory framework.
+
+5\. The first report shall cover the period 2007 to 2012.
+
+### Article 18 — Final provisions
+
+1\. Member States shall bring into force the laws, regulations and administrative provisions necessary to comply with this Directive by 31 December 1992.
+
+They shall forthwith inform the Commission thereof.
+
+2\. Member States shall communicate to the Commission the texts of the provisions of national law which they have already adopted or adopt in the field covered by this Directive.
+
+### Article 19
+
+This Directive is addressed to the Member States.
+
+## ANNEX — List of areas referred to in Article 16 (1)
+
+— Work places
+
+— Work equipment
+
+— Personal protective equipment
+
+— Work with visual display units
+
+— Handling of heavy loads involving risk of back injury
+
+— Temporary or mobile work sites
+
+— Fisheries and agriculture
+
+( 1 ) OJ No C 141, 30. 5. 1988, p. 1.
+
+( 2 ) OJ No C 326, 19. 12. 1988, p. 102, and OJ No C 158, 26. 6. 1989.
+
+( 3 ) OJ No C 175, 4. 7. 1988, p. 22.
+
+( 4 ) OJ No C 28, 3. 2. 1988, p. 3.
+
+( 5 ) OJ No C 28, 3. 2. 1988, p. 1.
+
+( 6 ) OJ No L 327, 3. 12. 1980, p. 8.
+
+( 7 ) OJ No L 356, 24. 12. 1988, p. 74.
+
+( 8 ) OJ No L 185, 9. 7. 1974, p. 15.

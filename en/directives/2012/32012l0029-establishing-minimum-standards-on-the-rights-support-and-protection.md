@@ -1,0 +1,701 @@
+---
+title: "Directive 2012/29/EU of the European Parliament and of the Council of 25 October 2012 establishing minimum standards on the rights, support and protection of victims of crime, and replacing Council Framework Decision 2001/220/JHA"
+identifier: "32012L0029"
+eli: "http://data.europa.eu/eli/dir/2012/29/oj"
+type: directive
+jurisdiction: eu
+language: en
+date: 2012-10-25
+entry_into_force: 2013-01-07
+last_amended: 2026-07-20
+consolidated_version: "02012L0029-20260720"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02012L0029-20260720"
+retrieved: 2026-10-11
+---
+
+# Directive 2012/29/EU of the European Parliament and of the Council of 25 October 2012 establishing minimum standards on the rights, support and protection of victims of crime, and replacing Council Framework Decision 2001/220/JHA
+
+**DIRECTIVE 2012/29/EU OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 25 October 2012**
+
+**establishing minimum standards on the rights, support and protection of victims of crime, and replacing Council Framework Decision 2001/220/JHA**
+
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> DIRECTIVE (EU) 2026/1472 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 17 June 2026 </td><td> L 1472</td><td>1</td><td>30.6.2026</td></tr>
+
+**DIRECTIVE 2012/29/EU OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 25 October 2012**
+
+**establishing minimum standards on the rights, support and protection of victims of crime, and replacing Council Framework Decision 2001/220/JHA**
+
+## CHAPTER 1 — GENERAL PROVISIONS
+
+### Article 1 — Objectives
+
+1\. The purpose of this Directive is to ensure that victims of crime receive appropriate information, support and protection and are able to participate in criminal proceedings.
+
+Member States shall ensure that victims are recognised and treated in a respectful, sensitive, tailored, professional and non-discriminatory manner, in all contacts with victim support or restorative justice services or a competent authority, operating within the context of criminal proceedings. The rights set out in this Directive shall apply to victims in a non-discriminatory manner, including with respect to their residence status.
+
+2\. Member States shall ensure that in the application of this Directive, where the victim is a child, the child's best interests shall be a primary consideration and shall be assessed on an individual basis. A child-sensitive approach, taking due account of the child's age, maturity, views, needs and concerns, shall prevail. The child and the holder of parental responsibility or other legal representative, if any, shall be informed of any measures or rights specifically focused on the child.
+
+### Article 2 — Definitions
+
+1\. For the purposes of this Directive the following definitions shall apply:
+
+(a) ‘victim’ means:
+
+(i) a natural person who has suffered harm, including physical, mental or emotional harm or economic loss which was directly caused by a criminal offence;
+
+(ii) family members of a person whose death was directly caused by a criminal offence and who have suffered harm as a result of that person's death;
+
+(b) ‘family members’ means the spouse, the person who is living with the victim in a committed intimate relationship, in a joint household and on a stable and continuous basis, the relatives in direct line, the siblings and the dependants of the victim;
+
+(c) ‘child’ means any person below 18 years of age;
+
+(d) ‘restorative justice’ means any process whereby the victim and the offender are enabled, if they freely consent, to participate actively in the resolution of matters arising from the criminal offence through the help of an impartial third party.
+
+2\. Member States may establish procedures:
+
+(a) to limit the number of family members who may benefit from the rights set out in this Directive taking into account the individual circumstances of each case; and
+
+(b) in relation to paragraph (1)(a)(ii), to determine which family members have priority in relation to the exercise of the rights set out in this Directive.
+
+## CHAPTER 2 — PROVISION OF INFORMATION AND SUPPORT
+
+### Article 3 — Right to understand and to be understood
+
+1\. Member States shall take appropriate measures to assist victims to understand and to be understood from the first contact and during any further necessary interaction they have with a competent authority in the context of criminal proceedings, including where information is provided by that authority.
+
+2\. Member States shall ensure that communications with victims are given in simple and accessible language, orally or in writing. Such communications shall take into account the personal characteristics of the victim including any disability which may affect the ability to understand or to be understood.
+
+3\. Unless contrary to the interests of the victim or unless the course of proceedings would be prejudiced, Member States shall allow victims to be accompanied by a person of their choice in the first contact with a competent authority where, due to the impact of the crime, the victim requires assistance to understand or to be understood.
+
+### Article 3a — Helplines for victims
+
+1\. Member States shall take the necessary measures to establish accessible, user-friendly, secure, free-of-charge and confidential helplines for victims. Those helplines shall:
+
+(a) provide victims with the information referred to in Article 4(1);
+
+(b) offer emotional support;
+
+(c) refer victims to relevant services, including general and specialist support services or specialist helplines, if needed.
+
+2\. Member States shall ensure that the helplines referred to in paragraph 1 are reachable by telephone via a Union-wide telephone number for domestic calls, namely ‘116 006 ’, in addition to any existing national telephone numbers. Member States shall also ensure that such services are provided by means of other secure and accessible information and communication technologies, including online applications and websites.
+
+3\. Member States shall ensure that, in addition to the Union-wide number, the helplines are reachable via a dedicated number for international calls for victims who suffered harm in a Member State other than their Member State of residence. Such international calls are not required to be free of charge.
+
+4\. Member States shall ensure that the services provided by their helplines referred to in paragraph 1 are available in their official language or languages, as determined by national law. Member States shall strive to ensure the provision of those services in at least one other language widely understood in the Member State concerned.
+
+5\. Where the services referred to in paragraph 1, points (a) and (c), are provided by means of information and communication technologies, Member States shall ensure that those services are available in a language that the victim can understand, such as by means of translation and interpretation technologies.
+
+6\. Helplines may be set up by public or non-governmental organisations and may be organised on a professional or voluntary basis.
+
+7\. Member States shall take the necessary measures to ensure that helplines provide quality and accessible support to victims during adequate operating hours.
+
+8\. Member States shall ensure that helplines are operated by appropriately trained persons.
+
+### Article 4 — Right to receive information from the first contact with a competent authority
+
+1\. Member States shall ensure that victims are offered the following information, without unnecessary delay, from their first contact with a competent authority in order to enable them to access the rights set out in this Directive:
+
+(a) the type of support they can obtain and from whom, including, where relevant, basic information about access to medical support, any specialist support, including psychological support, and alternative accommodation;
+
+(b) the procedures for making complaints with regard to a criminal offence and their role in connection with such procedures;
+
+(c) how and under what conditions they can obtain protection, including protection measures;
+
+(d) how and under what conditions they can access legal advice, legal aid and any other sort of advice;
+
+(e) how and under what conditions they can access compensation;
+
+(f) how and under what conditions they are entitled to interpretation and translation;
+
+(g) if they are resident in a Member State other than that where the criminal offence was committed, any special measures, procedures or arrangements, which are available to protect their interests in the Member State where the first contact with the competent authority is made;
+
+(h) the available procedures for making complaints where their rights are not respected by the competent authority operating within the context of criminal proceedings;
+
+(i) the contact details for communications about their case;
+
+(j) the available restorative justice services;
+
+(k) how and under what conditions expenses incurred as a result of their participation in the criminal proceedings can be reimbursed.
+
+2\. The extent or detail of information referred to in paragraph 1 may vary depending on the specific needs and personal circumstances of the victim and the type or nature of the crime. Additional details may also be provided at later stages depending on the needs of the victim and the relevance, at each stage of proceedings, of such details.
+
+### Article 5 — Right of victims when making a complaint
+
+1\. Member States shall ensure that victims receive written acknowledgement of their formal complaint made by them to the competent authority of a Member State, stating the basic elements of the criminal offence concerned.
+
+2\. Member States shall ensure that victims who wish to make a complaint with regard to a criminal offence and who do not understand or speak the language of the competent authority be enabled to make the complaint in a language that they understand or by receiving the necessary linguistic assistance.
+
+3\. Member States shall ensure that victims who do not understand or speak the language of the competent authority, receive translation, free of charge, of the written acknowledgement of their complaint provided for in paragraph 1, if they so request, in a language that they understand.
+
+### Article 5a — Reporting of criminal offences
+
+1\. Member States shall ensure that victims can report criminal offences to the competent authorities through free, accessible, user-friendly, safe, and readily available channels.
+
+In addition to reporting criminal offences in person, Member States shall ensure that criminal offences can be reported to the competent authorities by means of free, accessible, secure and user-friendly information and communication technologies at least for non-urgent cases and non-violent criminal offences provided that such reporting is in the best interests of victims.
+
+Where a Member State provides for the possibility of reporting criminal offences by means of information and communication technologies, that possibility shall, where feasible, include the submission of evidence.
+
+The reporting of criminal offences by means of information and communication technologies shall be without prejudice to national procedural rules regarding formalising of such reporting and of submission of evidence.
+
+2\. Member States shall take the necessary measures to facilitate reporting by a natural or legal person who knows, or in good faith suspects, that criminal offences have been committed or that acts of violence are expected, to the competent authorities in accordance with national procedural rules.
+
+3\. For the purpose of facilitating third-party reporting by civil society organisations who are likely to receive information regarding criminal offences, Member States shall take the necessary measures to enable cooperation between competent authorities and such organisations.
+
+4\. Where a person other than the victim reports a criminal offence, Member States shall ensure that, where necessary and in accordance with national law, the competent authorities take appropriate measures to protect the victim before the offender is informed that an offence has been reported.
+
+5\. Member States shall ensure that any person who is deprived of liberty or whose liberty is restricted can effectively report a criminal offence that has been committed in the detention or accommodation facilities which that person is not permitted to leave or is not in a position to leave at will or places where that person's freedom of movement is restricted. Such facilities shall include at least:
+
+(a) prisons, detention centres and holding cells for suspects and accused persons;
+
+(b) specialised detention and accommodation facilities for third-country nationals who are staying illegally in the Member State concerned, including for the purpose of preparing their return and removal;
+
+(c) facilities for applicants and beneficiaries of international protection;
+
+(d) any other form of public or private institution which the victim is not permitted to leave or is not in a position to leave at will such as specialised accommodation centres for persons with disabilities, children and elderly people.
+
+6\. Where children contact competent authorities to report criminal offences, Member States shall ensure that the reporting procedures are safe, are carried out in a confidential manner in accordance with national law, are designed and accessible in a child-friendly manner and use language appropriate to their age and maturity.
+
+Where a criminal offence involves the holder of parental responsibility and there is a conflict of interest between the child victim and the holder of parental responsibility, Member States shall ensure that the ability of the child victim to report the criminal offence is not conditional upon the consent of the holder of parental responsibility. Member States shall ensure that the competent authorities take the necessary measures to protect the safety of the child before they inform the holder of parental responsibility that a criminal offence has been reported.
+
+7\. Member States shall take the necessary measures to ensure that victims who are third-country nationals, irrespective of their residence status, are not discouraged from reporting a criminal offence and that they are treated in a non-discriminatory manner. Member States shall in particular ensure that all victims, irrespective of their residence status, are not prevented from exercising their rights under this Directive, including their right to be heard pursuant to Article 10 and the right to have an individual assessment carried out under Article 22.
+
+Member States may, in accordance with national law, at any time grant an autonomous residence permit or other authorisation offering a right to stay to a third-country national staying illegally on their territory.
+
+8\. Member States shall ensure that at the moment a criminal offence is reported, victims are:
+
+(a) informed of the possibility that their personal data might be disclosed to the offender in accordance with Article 21(3) in order to enable the offender to exercise their right of defence, and
+
+(b) provided with an opportunity to express their views on that possibility.
+
+### Article 6 — Right to receive information about their case
+
+1\. Member States shall ensure that victims are notified without unnecessary delay of their right to receive the following information about the criminal proceedings instituted as a result of the complaint with regard to a criminal offence suffered by the victim and that, upon request, they receive such information:
+
+(a) any decision not to proceed with or to end an investigation or not to prosecute the offender;
+
+(b) the time and place of the trial, and the nature of the charges against the offender;
+
+(c) any decision to prosecute the offender;
+
+(d) on the availability of protection measures, including protection orders;
+
+(e) on the role of the victim in criminal proceedings in accordance with national rules, including, where applicable, on the possibility of becoming a party in such proceedings;
+
+(f) on applicable rules on claiming and obtaining compensation.
+
+2\. Member States shall ensure that, in accordance with their role in the relevant criminal justice system, victims are notified without unnecessary delay of their right to receive the following information about the criminal proceedings instituted as a result of the complaint with regard to a criminal offence suffered by them and that, upon request, they receive such information:
+
+(a) any final judgment in a trial;
+
+(b) information enabling the victim to know about the state of the criminal proceedings, unless in exceptional cases the proper handling of the case may be adversely affected by such notification.
+
+3\. Information provided for under paragraph 1(a) and paragraph 2(a) shall include reasons or a brief summary of reasons for the decision concerned, except in the case of a jury decision or a decision where the reasons are confidential in which cases the reasons are not provided as a matter of national law.
+
+4\. The wish of victims as to whether or not to receive information shall bind the competent authority, unless that information must be provided due to the entitlement of the victim to active participation in the criminal proceedings. Member States shall allow victims to modify their wish at any moment, and shall take such modification into account.
+
+5\. Member States shall ensure that victims are offered the opportunity to be notified, without unnecessary delay, when the person remanded in custody, prosecuted or sentenced for criminal offences concerning them is released from detention, including under judicial supervision, or has escaped detention. Furthermore, Member States shall ensure that victims are informed of any relevant measures issued for their protection in case of the release or escape of the offender.
+
+6\. Victims shall, upon request, receive the information provided for in paragraph 5 at least in cases where there is a danger or an identified risk of harm to them, unless there is an identified risk of harm to the offender which would result from the notification.
+
+7\. Member States shall ensure that the fact that victims have been notified of their right to receive information about the criminal proceedings, as well as the victims’ request to receive information under this Article, are duly recorded in accordance with the recording procedure under national law.
+
+### Article 7 — Right to interpretation and translation
+
+1\. Member States shall ensure that victims who do not understand or speak the language of the criminal proceedings concerned are provided, upon request, with interpretation in accordance with their role in the relevant criminal justice system in criminal proceedings, free of charge, at least during any interviews or questioning of the victim during criminal proceedings before investigative and judicial authorities, including during police questioning, and interpretation for their active participation in court hearings and any necessary interim hearings.
+
+2\. Without prejudice to the rights of the defence and in accordance with rules of judicial discretion, communication technology such as videoconferencing, telephone or internet may be used, unless the physical presence of the interpreter is required in order for the victims to properly exercise their rights or to understand the proceedings.
+
+3\. Member States shall ensure that victims who do not understand or speak the language of the criminal proceedings concerned are provided, in accordance with their role in the relevant criminal justice system in criminal proceedings, upon request, with translations of information essential to the exercise of their rights in criminal proceedings in a language that they understand, free of charge, to the extent that such information is made available to the victims. Translations of such information shall include at least any decision ending the criminal proceedings related to the criminal offence suffered by the victim, and upon the victim's request, reasons or a brief summary of reasons for such decision, except in the case of a jury decision or a decision where the reasons are confidential in which cases the reasons are not provided as a matter of national law.
+
+4\. Member States shall ensure that victims who are entitled to information about the time and place of the trial in accordance with Article 6(1)(b) and who do not understand the language of the competent authority, are provided with a translation of the information to which they are entitled, upon request.
+
+5\. Victims may submit a reasoned request to consider a document as essential. There shall be no requirement to translate passages of essential documents which are not relevant for the purpose of enabling victims to actively participate in the criminal proceedings.
+
+6\. Notwithstanding paragraphs 1 and 3, an oral translation or oral summary of essential documents may be provided instead of a written translation on condition that such oral translation or oral summary does not prejudice the fairness of the proceedings or the ability of the victim to exercise his or her rights, including the ability to participate in criminal proceedings in accordance with the victim’s role therein.
+
+7\. Member States shall ensure that the competent authority assesses whether victims need interpretation or translation as provided for under paragraphs 1 and 3 of this Article. Victims may challenge a decision not to provide interpretation or translation. The procedural rules for such a challenge shall be determined by national law. The provisions of Article 10b(2) shall apply to decisions not to provide interpretation or translation taken during court hearings.
+
+8\. Interpretation and translation and any consideration of a challenge of a decision not to provide interpretation or translation under this Article shall not unreasonably prolong the criminal proceedings.
+
+### Article 8 — Right to access victim support services
+
+1\. Member States shall ensure that victims, in accordance with their needs, have access to confidential victim support services, free of charge, acting in the interests of the victims before, during and for an appropriate time after criminal proceedings. Family members shall have access to victim support services in accordance with their needs and the degree of harm suffered as a result of the criminal offence committed against the victim.
+
+2\. Member States shall ensure that victims are contacted without undue delay by the relevant general or specialist support services if the individual assessment referred to in Article 22 identifies a need for support and provided that the victim, having been informed of the support services that can be provided, consents to being contacted by support services or if the victim requests support.
+
+3\. Member States shall take measures to establish free-of-charge and confidential specialist support services in addition to, or as an integrated part of, general victim support services, or to enable victim support organisations to call on existing specialised entities providing such specialist support. Victims shall have access to such services in accordance with their specific needs and family members shall have access in accordance with their specific needs and the degree of harm suffered as a result of the criminal offence committed against the victim. Where specialist support services are not provided as an integrated part of general victim support services, general and specialist support services shall be coordinated.
+
+4\. Victim support services and any specialist support services may be set up as public or non-governmental organisations and may be organised on a professional or voluntary basis.
+
+5\. Member States shall ensure that access to any victim support services is not dependent on a victim making a formal complaint with regard to a criminal offence to a competent authority.
+
+6\. Member States shall aim to ensure that specialist support services remain fully operational for victims in times of crisis, such as health crises, humanitarian situations or other states of emergency.
+
+7\. Victim support services shall be available and easy to access including online or through other suitable means, such as information and communication technologies. Member States shall ensure that the geographical distribution and capacity of the victim support services referred to in this Article and in Article 9a are sufficient, taking into account the geography and demographic composition of the Member State concerned.
+
+### Article 9 — Support from victim support services
+
+1\. Victim support services, as referred to in Article 8(1), shall, as a minimum, provide:
+
+(a) information, advice and support relevant to the rights of victims, including relating to accessing national compensation schemes for criminal injuries, accessing legal advice, including on legal aid, and relating to their role in criminal proceedings, including preparation for attendance at the trial;
+
+(b) information about or direct referral to any relevant specialist support services in place;
+
+(c) emotional support;
+
+(ca) psychological support or, where psychological support is not available, a referral to services that can provide psychological support;
+
+(d) advice relating to financial and practical issues arising from the crime;
+
+(e) unless otherwise provided by other public or private services, advice relating to the risk and prevention of secondary and repeat victimisation, of intimidation and of retaliation.
+
+For the purpose of the first subparagraph, point (ca), if a special need for psychological support has been identified by an individual assessment as referred to in Article 22, additional psychological support shall be available to the victim in need of such support for as long as necessary, in accordance with the victim’s individual needs and the relevant national healthcare or social systems governing access to psychological support.
+
+2\. Member States shall take the necessary measures to ensure that victim support services pay particular attention to the specific needs of victims who have suffered considerable harm due to the severity of the crime.
+
+3\. Unless otherwise provided by other public or private services, specialist support services referred to in Article 8(3), shall, as a minimum, develop and provide:
+
+(a) shelters or any other appropriate interim accommodation for victims in need of a safe place due to an imminent risk of secondary and repeat victimisation, of intimidation and of retaliation;
+
+(b) targeted and integrated support, as well as information on and, where appropriate, a referral to services providing medical and forensic examinations, which can include comprehensive medical healthcare services, including sexual and reproductive healthcare services, in accordance with national law, and information on and, where appropriate, a referral to social and psychological counselling, including trauma care, for victims with specific needs, such as victims of sexual violence, victims of gender-based violence, including violence against women and domestic violence falling within the scope of Directive (EU) 2024/1385 of the European Parliament and of the Council ( 1 ), victims of trafficking in human beings, victims of organised crime, victims with disabilities, victims of exploitation, victims of hate crime, victims of terrorism, victims of torture, victims of enforced disappearance and victims of genocide, crimes against humanity, war crimes or the crime of aggression as defined in Articles 6, 7, 8 and 8bis of the Statute of the International Criminal Court.
+
+4\. Member States shall provide access to healthcare services, including to sexual and reproductive healthcare services for victims of sexual violence in a timely manner, in accordance with Directive (EU) 2024/1385 and national law.
+
+5\. Member States shall provide the protection and specialist support services necessary to address the multiple needs of victims with specific needs in accordance with the protocols or guidelines referred to in Article 26a(1), point (d).
+
+6\. Member States shall ensure that the support services referred to in this Article and in Article 9a meet applicable standards with regard to the quality of those services. The services provided by the support services shall, where appropriate, be reviewed, and, where necessary, adapted accordingly. Reviews of those services shall not place an undue burden on organisations providing those services.
+
+### Article 9a — Targeted and integrated support services for child victims
+
+1\. Member States shall take the necessary measures to ensure the availability of child-friendly, targeted and integrated support services for child victims that provide age-appropriate support and protection necessary to comprehensively address the multitude of needs of child victims, including children who have suffered harm as a result of witnessing a crime.
+
+2\. Targeted and integrated support services for child victims referred to in paragraph 1 shall provide for a coordinated multi-agency mechanism that includes the following services:
+
+(a) the provision of information referred to in Article 4;
+
+(b) medical examinations;
+
+(c) emotional, social and psychological support;
+
+(d) administrative assistance;
+
+(e) the reporting of criminal offences;
+
+(f) individual assessment referred to in Article 22;
+
+(g) video recording of interviews referred to in Article 24(1), point (a).
+
+3\. Member States shall consider ensuring the provision of the services referred to in paragraph 2 within the same premises, paying particular attention to the interests of child victims, including the seriousness of harm suffered by child victims as a result of crime.
+
+4\. The targeted and integrated support services for child victims referred to in this Article may be set up as public or non-governmental organisations.
+
+## CHAPTER 3 — PARTICIPATION IN CRIMINAL PROCEEDINGS
+
+### Article 10 — Right to be heard
+
+1\. Member States shall ensure that victims may be heard during criminal proceedings and may provide evidence. Where a child victim is to be heard, due account shall be taken of the child's age and maturity.
+
+2\. The procedural rules under which victims may be heard during criminal proceedings and may provide evidence shall be determined by national law.
+
+### Article 10a — Right to assistance on court premises
+
+Member States shall take the necessary measures to ensure that victims receive emotional support and practical information on organisational aspects of criminal court proceedings, on court premises and in accordance with their individual needs.
+
+### Article 10b — Right to information concerning decisions taken during court proceedings and right to review
+
+1\. Member States shall ensure that victims, in accordance with their status in the criminal proceedings under national law, are informed without delay of decisions with regard to their right to interpretation and translation during court hearings under Article 7(1) and (3) and of decisions with regard to measures under Article 23(3), taken in court proceedings, that affect them directly.
+
+2\. Member States shall ensure that victims, in accordance with their status in criminal proceedings under national law, have the right to request the review, in accordance with national law, at least, of any decision taken during court hearings with regard to their:
+
+(a) right to interpretation or translation under Article 7(1) and (3);
+
+(b) right to be heard under Article 10; and
+
+(c) right to legal aid under Article 13.
+
+Member States may provide for the possibility for victims to request the review of decisions taken under Article 18 and Article 23(3).
+
+The procedural rules for the review of decisions pursuant to this paragraph, including whether such review has suspensive effect, shall be determined by national law. Any consideration of such a review shall not unreasonably prolong the criminal proceedings. That review may be carried out within the same instance and by the same authority, including orally during the court proceedings.
+
+### Article 11 — Rights in the event of a decision not to prosecute
+
+1\. Member States shall ensure that victims, in accordance with their role in the relevant criminal justice system, have the right to a review of a decision not to prosecute. The procedural rules for such a review shall be determined by national law.
+
+2\. Where, in accordance with national law, the role of the victim in the relevant criminal justice system will be established only after a decision to prosecute the offender has been taken, Member States shall ensure that at least the victims of serious crimes have the right to a review of a decision not to prosecute. The procedural rules for such a review shall be determined by national law.
+
+3\. Member States shall ensure that victims are notified without unnecessary delay of their right to receive, and that they receive sufficient information to decide whether to request a review of any decision not to prosecute upon request.
+
+4\. Where the decision not to prosecute is taken by the highest prosecuting authority against whose decision no review may be carried out under national law, the review may be carried out by the same authority.
+
+5\. Paragraphs 1, 3 and 4 shall not apply to a decision of the prosecutor not to prosecute, if such a decision results in an out-of-court settlement, in so far as national law makes such provision.
+
+### Article 12 — Right to safeguards in the context of restorative justice services
+
+1\. Member States shall take measures to safeguard the victim from secondary and repeat victimisation, from intimidation and from retaliation, to be applied when providing any restorative justice services. Such measures shall ensure that victims who choose to participate in restorative justice processes have access to safe and competent restorative justice services, subject to at least the following conditions:
+
+(a) the restorative justice services are used only if they are in the interest of the victim, subject to any safety considerations, and are based on the victim's free and informed consent, which may be withdrawn at any time;
+
+(b) before agreeing to participate in the restorative justice process, the victim is provided with full and unbiased information about that process and the potential outcomes as well as information about the procedures for supervising the implementation of any agreement;
+
+(c) the offender has acknowledged the basic facts of the case;
+
+(d) any agreement is arrived at voluntarily and may be taken into account in any further criminal proceedings;
+
+(e) discussions in restorative justice processes that are not conducted in public are confidential and are not subsequently disclosed, except with the agreement of the parties or as required by national law due to an overriding public interest.
+
+2\. Member States shall facilitate the referral of cases, as appropriate to restorative justice services, including through the establishment of procedures or guidelines on the conditions for such referral.
+
+### Article 13 — Right to legal aid
+
+1\. Member States shall ensure that victims who have the right to become parties to criminal proceedings and who do not have sufficient means to pay for the assistance of a lawyer during criminal proceedings have access to legal aid, including, where applicable, for the purpose of claiming compensation.
+
+Member States may apply a means test, a merits test or both to determine whether legal aid is to be granted.
+
+Where a Member State applies a means test, it shall take into account all relevant and objective factors, such as the income, capital and family situation of the person concerned, the costs of the assistance of a lawyer and the standard of living in that Member State as well as the victim’s dependence on the offender.
+
+Where a Member State applies a merits test, it shall take into account the seriousness of the criminal offence, the complexity of the case and the seriousness of the harm suffered by the victim.
+
+The procedural rules governing victims’ access to legal aid shall be determined by national law.
+
+2\. Notwithstanding paragraph 1, Member States shall ensure that certain categories of victims, as defined under national law, such as child victims or victims with disabilities, who have the right to become parties to criminal proceedings and who do not have sufficient means are entitled to legal aid.
+
+### Article 14 — Right to reimbursement of expenses
+
+Member States shall afford victims who participate in criminal proceedings, the possibility of reimbursement of expenses incurred as a result of their active participation in criminal proceedings, in accordance with their role in the relevant criminal justice system. The conditions or procedural rules under which victims may be reimbursed shall be determined by national law.
+
+### Article 15 — Right to the return of property
+
+Member States shall ensure that, following a decision by a competent authority, recoverable property which is seized in the course of criminal proceedings is returned to victims without delay, unless required for the purposes of criminal proceedings. The conditions or procedural rules under which such property is returned to the victims shall be determined by national law.
+
+### Article 16 — Right to decision on compensation from the offender in the course of criminal proceedings
+
+1\. Member States shall ensure that, in the course of criminal proceedings, victims are entitled to obtain a decision on compensation by the offender, within a reasonable time, except where national law provides for such a decision to be made in other legal proceedings.
+
+2\. Member States shall have execution or enforcement measures in place that aim to facilitate the payment by the offender, without undue delay, of the compensation awarded to the victim.
+
+3\. Where compensation has been awarded to a victim of a violent intentional crime, but the offender has not paid that awarded compensation to the victim within a reasonable time and the measures referred to in paragraph 2 have not been successful within a reasonable time, Member States may advance all or part of the awarded compensation to that victim in accordance with national law. Such payment shall not relieve the offender of his or her obligation to pay the compensation awarded and Member States shall have the right to recover that payment from the offender.
+
+### Article 17 — Rights of victims resident in another Member State
+
+1\. Member States shall ensure that their competent authorities take appropriate measures to minimise the difficulties faced where the victim is a resident of a Member State other than that in which the criminal offence was committed, particularly with regard to the organisation of proceedings. For that purpose, the authorities of the Member State where the criminal offence was committed shall be in a position to:
+
+(a) take a statement from the victim immediately after the complaint with regard to the criminal offence is made to the competent authority;
+
+(b) hear victims who are resident in another Member State by videoconference or other audiovisual transmission in accordance with the Convention established by the Council in accordance with Article 34 of the Treaty on European Union, on Mutual Assistance in Criminal Matters between the Member States of the European Union ( 2 ), signed on 29 May 2000, and with Directive 2014/41/EU of the European Parliament and of the Council ( 3 );
+
+(c) facilitate the participation in the criminal proceedings of victims who are resident in another Member State through videoconferencing or other distance communication technology, to the extent possible under Union and national law and in accordance with the victim’s role in the criminal proceedings.
+
+2\. Member States shall ensure that victims of a criminal offence committed in Member States other than that where they reside may make a complaint to the competent authorities of the Member State of residence, if they are unable to do so in the Member State where the criminal offence was committed or, in the event of a serious offence, as determined by national law of that Member State, if they do not wish to do so.
+
+3\. Member States shall ensure that the competent authority to which the victim makes a complaint transmits it without delay to the competent authority of the Member State in which the criminal offence was committed, if the competence to institute the proceedings has not been exercised by the Member State in which the complaint was made.
+
+4\. Member States shall ensure that the competent authorities can request assistance from Eurojust in accordance with Regulation (EU) 2018/1727 of the European Parliament and of the Council ( 4 ) and from the European Judicial Network set up by Council Decision 2008/976/JHA ( 5 ), and can transmit to Eurojust and the European Judicial Network information for the purpose of facilitating cooperation with the competent authorities of other Member States in cross-border cases, in accordance with the mandates of Eurojust and the European Judicial Network.
+
+## CHAPTER 4 — PROTECTION OF VICTIMS AND RECOGNITION OF VICTIMS WITH SPECIFIC PROTECTION NEEDS
+
+### Article 18 — Right to protection
+
+Without prejudice to the rights of the defence, Member States shall ensure that measures are available to protect victims and their family members from secondary and repeat victimisation, from intimidation and from retaliation, including against the risk of emotional or psychological harm, and to protect the dignity of victims during questioning and when testifying. When necessary, such measures shall also include procedures established under national law for the physical protection of victims and their family members.
+
+### Article 18a — Additional right to protection
+
+Member States shall ensure that access to support and protection measures under this Directive can be granted to victims who suffered additional harm, such as deprivation of dignity, resulting from the glorification of serious criminal offences as defined under national law, such as public provocation to commit a terrorist offence as defined in Article 5 of Directive (EU) 2017/541 of the European Parliament and of the Council ( 6 ), or from paying tribute to the offenders.
+
+### Article 19 — Right to avoid contact with the offender
+
+1\. Member States shall establish the necessary conditions to enable, where necessary, contact to be avoided between victims and their family members and the offender within the premises where criminal proceedings are conducted, ex officio or upon the victim’s request, unless the criminal proceedings require such contact.
+
+2\. Member States shall ensure that new court premises have separate waiting areas for victims. Member States shall assess the possibility and feasibility of creating separate waiting areas for victims in existing court premises.
+
+3\. Member States shall ensure that, where necessary, victims are informed about measures that are available to avoid contact with the offender.
+
+### Article 20 — Right to protection of victims during criminal investigations
+
+Without prejudice to the rights of the defence and in accordance with rules of judicial discretion, Member States shall ensure that during criminal investigations:
+
+(a) interviews of victims are conducted without unjustified delay after the complaint with regard to a criminal offence has been made to the competent authority;
+
+(b) the number of interviews of victims is kept to a minimum and interviews are carried out only where strictly necessary for the purposes of the criminal investigation;
+
+(c) victims may be accompanied by their legal representative and a person of their choice, unless a reasoned decision has been made to the contrary;
+
+(d) medical examinations are kept to a minimum and are carried out only where strictly necessary for the purposes of the criminal proceedings.
+
+### Article 21 — Right to protection of privacy and the non-disclosure of personal data
+
+1\. Member States shall ensure that competent authorities may take during the criminal proceedings appropriate measures to protect the privacy, including personal characteristics of the victim taken into account in the individual assessment provided for under Article 22, and images of victims and of their family members. Furthermore, Member States shall ensure that competent authorities may take all lawful measures to prevent public dissemination of any information that could lead to the identification of a child victim.
+
+2\. In order to protect the privacy, personal integrity and personal data of victims, Member States shall, with respect for freedom of expression and information and freedom and pluralism of the media, encourage the media to take self-regulatory measures.
+
+3\. Member States shall ensure that the personal data concerning the victim’s place of residence or other equivalent contact details, such as the victim’s phone number and email address are not provided to the offender, unless disclosure is necessary for the purposes of Article 7 of Directive 2012/13/EU of the European Parliament and of the Council ( 7 ) or where the competent authorities, either upon request or ex officio, following a case-by-case assessment, have established that there is a legitimate interest in disclosure which outweighs the victim’s right to protection of personal data.
+
+4\. Paragraph 3 shall apply to criminal proceedings initiated after 2 July 2029.
+
+### Article 22 — Individual assessment of victims to identify specific support and protection needs
+
+1\. Member States shall ensure that an individual assessment of victims is carried out in a timely manner (the ‘individual assessment’) to identify throughout the proceedings specific support and protection needs and to determine whether and to what extent the victim would benefit from additional psychological support under Article 9(1), point (ca), from services provided under Article 9a or from special measures under Article 18, 18a, 23 or 24, due to the particular vulnerability of that victim to secondary and repeat victimisation, intimidation or retaliation.
+
+Member States shall determine the practical organisation of the individual assessment of victims.
+
+1a. The individual assessment shall be initiated at the earliest stage possible, such as at the first contact of the victim with the competent authorities and shall last as long as necessary, depending on the specific needs of each victim. Where the result of the initial stage of the individual assessment by the first contact authorities demonstrates that there is a need for an enhanced assessment, such an assessment shall be carried out, where appropriate, in collaboration or coordination with the relevant institutions and bodies, as well as with general and specialist support services, including by means of referrals to such services, depending on the victim’s individual needs and on the stage of the procedure.
+
+The individual assessment shall be carried out by appropriately trained persons, in the best interests of the victim, and while paying particular attention to avoid secondary or repeated victimisation.
+
+Competent authorities, institutions, bodies and support services shall respond to victims’ needs for support and protection without undue delay and in a coordinated manner.
+
+2\. The individual assessment shall take into account:
+
+(a) the personal characteristics of the victim, including relevant experiences of discrimination, including discrimination based on intersectional grounds, such as gender, including gender identity, age, disability, residence status, religion or belief, language, racial, social or ethnic origin, and sexual orientation;
+
+(b) the type or nature of the crime;
+
+(c) the circumstances of the crime;
+
+(d) the victim’s relationship to and the risks emanating from the offender.
+
+3\. In the context of the individual assessment, particular attention shall be paid to:
+
+(a) victims who have suffered considerable harm due to the severity or to repetition of the crime;
+
+(b) victims who have suffered a crime committed with a bias or discriminatory motive which could, in particular, be related to their personal characteristics;
+
+(c) victims whose relationship to and dependence on the offender make them particularly vulnerable.
+
+For the purposes of the first subparagraph, victims of terrorism, victims of organised crime, victims of trafficking in human beings, victims of gender-based violence, including violence against women and domestic violence, victims of sexual violence, including child sexual abuse, victims of exploitation, victims of hate crime, victims of torture, victims of enforced disappearance, victims with disabilities and victims of genocide, crimes against humanity, war crimes or the crime of aggression as defined in Articles 6, 7, 8 and 8bis of the Statute of the International Criminal Court shall be duly considered. Particular attention shall be paid to, where applicable, victims of online forms of those crimes and to victims who fall under more than one of those categories.
+
+Where relevant and appropriate, the individual assessment shall take into account the specific needs of the victim’s family members.
+
+3a. In the context of the individual assessment, particular attention shall be paid to the risk emanating from the offender referred to in paragraph 2, point (d), such as:
+
+(a) the risk of violent behaviour;
+
+(b) the risk of bodily harm;
+
+(c) the risk of the use of weapons;
+
+(d) links to or involvement in a group of organised crime;
+
+(e) drug or alcohol abuse;
+
+(f) child abuse;
+
+(g) mental health issues;
+
+(h) behaviour of stalking; or
+
+(i) expression of threats or hate speech.
+
+4\. For the purposes of this Directive, child victims shall be presumed to have specific support and protection needs due to their vulnerability to secondary and repeat victimisation, to intimidation and to retaliation. To determine whether and to what extent they would benefit from special measures as provided for under Articles 18, 18a, 23 and 24, child victims shall be subject to the individual assessment. The individual assessment of child victims shall be organised within the framework of targeted and integrated support services referred to in Article 9a and shall take into account any specific needs that child victims without parental care might have as a result of a crime.
+
+5\. The extent of the individual assessment may be adapted according to the severity of the crime and the degree of apparent harm suffered by the victim.
+
+6\. Individual assessments shall be carried out with the close involvement of the victim and shall take into account the victim’s wishes including where they do not wish to benefit from special measures as provided for in Articles 8, 9, 9a, 23 and 24.
+
+7\. Member States shall ensure that the individual assessment is reviewed according to the individual needs of the victim and that, where relevant, new measures are taken or ongoing measures are adapted to reflect the individual needs of the victim to ensure the support and protection measures relate to the victim’s changing situation. If the elements that form the basis of the individual assessment have changed significantly, Member States shall ensure that it is updated throughout the criminal proceedings.
+
+### Article 23 — Right to protection of victims with specific protection needs during criminal proceedings
+
+1\. Without prejudice to the rights of the defence and in accordance with rules of judicial discretion, Member States shall ensure that victims with specific protection needs who benefit from special measures identified as a result of the individual assessment, may benefit from the measures provided for in paragraphs 2, 3 and 4 of this Article. Where operational or practical constraints make it impossible to provide a special measure envisaged following the individual assessment, or where there is an urgent need to interview the victim and failure to do so could harm the victim or another person or could prejudice the course of the proceedings, Member States may, as an exception, decide not to provide the envisaged special measure.
+
+2\. The following measures shall be available during criminal investigations to victims with specific protection needs identified in accordance with Article 22(1):
+
+(a) interviews with the victim being carried out in premises designed or adapted for that purpose;
+
+(b) interviews with the victim being carried out by or through professionals trained for that purpose;
+
+(c) all interviews with the victim being conducted by the same persons unless this is contrary to the good administration of justice;
+
+(d) all interviews with victims of sexual violence or of gender-based violence, including violence against women and domestic violence falling withing the scope of Directive (EU) 2024/1385, unless conducted by a prosecutor or a judge, being conducted by a person of the same sex as the victim, if the victim so wishes, provided that the course of the criminal proceedings will not be prejudiced.
+
+3\. The following measures shall be available for victims with specific protection needs identified in accordance with Article 22(1) during court proceedings:
+
+(a) measures to avoid visual contact between victims and offenders including during the giving of evidence, by appropriate means including the use of communication technology;
+
+(b) measures to ensure that the victim may be heard in the courtroom without being present, in particular through the use of appropriate communication technology;
+
+(c) measures to avoid unnecessary questioning concerning the victim’s private life not related to the criminal offence, including the victim’s sexual orientation, gender, including gender identity, or past sexual conduct; and
+
+(d) measures allowing a hearing to take place without the presence of the public.
+
+4\. Member States shall ensure that their competent authorities are granted the power to take appropriate measures during criminal proceedings and for as long as necessary to provide physical protection to victims with specific protection needs as identified in accordance with Article 22, including the following measures:
+
+(a) continuous or temporary presence of law enforcement authorities or other bodies providing physical protection in accordance with national law;
+
+(b) barring, restraining or protection orders to provide protection for victims against any acts of violence, in accordance with national law;
+
+(c) access to shelters and other appropriate interim accommodation, in accordance with national law.
+
+5\. Member States shall ensure that, where relevant for the safety of the victim, the competent authorities inform the victim of the possibility to apply for barring, restraining or protection orders and the possibility to seek the cross-border recognition of protection orders in accordance with Directive 2011/99/EU of the European Parliament and of the Council ( 8 ) or protection measures pursuant to Regulation (EU) No 606/2013 of the European Parliament and of the Council ( 9 ).
+
+### Article 24 — Right to protection of child victims during criminal proceedings
+
+1\. In addition to the measures provided for in Article 23, Member States shall ensure that where the victim is a child:
+
+(a) in criminal investigations, all interviews with the child victim may be audiovisually recorded and such recorded interviews may be used as evidence in criminal proceedings;
+
+(b) in criminal investigations and proceedings, in accordance with the role of victims in the relevant criminal justice system, competent authorities appoint a special representative for child victims where, according to national law, the holders of parental responsibility are precluded from representing the child victim as a result of a conflict of interest between them and the child victim, or where the child victim is unaccompanied or separated from the family;
+
+(c) where the child victim has the right to a lawyer, he or she has the right to legal advice and representation, in his or her own name, in proceedings where there is, or there could be, a conflict of interest between the child victim and the holders of parental responsibility;
+
+(d) the child’s right to be heard and the best interests of the child are ensured in criminal investigations and proceedings, in accordance with Article 10.
+
+The procedural rules for the audiovisual recordings referred to in point (a) of the first subparagraph and the use thereof shall be determined by national law.
+
+2\. Where the age of a victim is uncertain and there are reasons to believe that the victim is a child, the victim shall, for the purposes of this Directive, be presumed to be a child.
+
+3\. Where the offence involves the holder of parental responsibility in a manner that includes a conflict of interest between the child victim and the holder of parental responsibility, Member States shall take into account the best interests of the child and ensure that any act requiring consent under national law is not conditional upon the consent of the holder of parental responsibility.
+
+## CHAPTER 5 — OTHER PROVISIONS
+
+### Article 25 — Training of practitioners
+
+1\. Member States shall ensure that officials likely to come into contact with victims, such as police officers and court staff, receive both general and specialist training to a level appropriate to their contact with victims to increase their awareness of the needs of victims, to enable them to deal with victims in an impartial, respectful, non-discriminatory and professional manner and, where relevant, in a trauma-sensitive, gender-sensitive, disability-sensitive and child-sensitive manner and to avoid secondary victimisation. Training shall also be provided in relation to victims of cybercrime.
+
+2\. Without prejudice to judicial independence and differences in the organisation of the judiciary across the Union, Member States shall take the necessary measures to ensure that both general and specialist training is provided for judges and prosecutors involved in criminal investigations and criminal proceedings with regard to the objectives of this Directive and appropriate to the functions of those judges and prosecutors. Such training shall be human rights based, victim-centred and gender-, disability- and child- sensitive.
+
+3\. Without prejudice to the independence of the legal profession, Member States shall recommend that those responsible for the training of lawyers make available both general and specialist training to increase the awareness of lawyers of the needs of victims and to enable them to treat victims in a trauma-, gender-, disability- and child-sensitive manner.
+
+4\. Through their public services or by funding victim support organisations, Member States shall encourage initiatives enabling those providing victim support and restorative justice services to receive adequate training to a level appropriate to their contact with victims and observe professional standards to ensure such services are provided in an impartial, respectful, non-discriminatory, child-sensitive and professional manner.
+
+5\. In accordance with the duties involved, and the nature and level of contact the practitioner, including relevant health practitioners, has with victims, training shall aim to enable the practitioner to recognise victims and to treat them in a respectful, professional and non-discriminatory manner.
+
+6\. Training referred to in this Article shall take into account the protocols or guidelines referred to in Article 26a(1).
+
+7\. Training referred to in this Article, which is under the responsibility of Member States, shall be carried out regularly. Each Member State shall take measures to support bodies and organisations responsible for such training to develop, deliver and ensure the receipt of such training as well as its quality and availability throughout the territory of that Member State.
+
+### Article 25a — Awareness raising and communication of victims’ rights
+
+1\. Member States shall take appropriate action, including through information and communication technologies, to raise awareness of the rights set out in this Directive, reduce the risk of victimisation and minimise the negative impact of crime and the risks of secondary and repeat victimisation, of intimidation and of retaliation, in particular by targeting groups at risk such as children and victims of gender-based violence. Such action may include information and awareness raising campaigns and research and education programmes, where appropriate in cooperation with relevant civil society organisations and other stakeholders, as well as measures to increase the awareness of victims of where to obtain help and how to exercise their rights, including by making available public registers of accredited support organisations.
+
+2\. Member States shall provide information to the public on reporting a crime, victims’ rights, available general and specialist victim support services, the functioning of the justice system as well as relevant procedures and application processes. Such information shall be easy to access, user-friendly, provided in a plain language and readily available, such as on a website.
+
+Member States shall ensure that the content of the information provided to the public is developed, where relevant, in collaboration with civil society organisations, is not contradictory and is regularly updated to ensure accuracy.
+
+### Article 26 — Cooperation and coordination of services
+
+1\. Member States shall take appropriate action to facilitate cooperation between Member States to improve the access of victims to the rights set out in this Directive and under national law. Such cooperation shall be aimed at least at:
+
+(a) the exchange of best practices;
+
+(b) consultation in individual cases; and
+
+(c) assistance to European networks working on matters directly relevant to victims' rights.
+
+2\. Member States shall ensure that their competent authorities are able to process the personal data of victims, including transmit those personal data to the competent authorities of the Member State of residence of the victim, where the victim consents, or where the victim is incapable of giving consent, without such consent, in accordance with applicable Union law.
+
+### Article 26a — Protocols or guidelines for coordination and cooperation in the Member States
+
+1\. Member States shall establish and implement specific protocols or guidelines, binding or non-binding in nature depending on national law, on the organisation of services and actions under this Directive of the competent authorities and persons coming in contact with victims. The protocols or guidelines shall be drawn up in coordination and cooperation with relevant stakeholders, such as central authorities, in accordance with the internal structure of, and division of competences in, the Member States, law enforcement, prosecution authorities, judicial authorities, detention authorities, restorative justice services and victim support services, in consultation with relevant professional organisations and civil society organisations, with a view to responding to the victims’ needs.
+
+The protocols or guidelines shall, as a minimum, provide general instructions on how:
+
+(a) to provide to victims all the necessary information adapted to their needs in accordance with this Directive;
+
+(b) Article 5a of this Directive is to be applied by the competent authorities;
+
+(c) the individual assessment as referred to in Article 22 and provision of support services for victims with specific needs is carried out, taking into account the victims’ individual needs at different stages of the criminal proceedings;
+
+(d) cooperation between general and specialist support services is carried out, including targeted and integrated support services for child victims as referred to in Article 9a.
+
+2\. Member States shall ensure that the protocols or guidelines referred to in paragraph 1 are reviewed where necessary to ensure their effectiveness, such as in the event of significant changes in national law.
+
+### Article 26b — Use of information and communication technologies
+
+1\. Member States shall ensure that victims can exercise their rights provided for in Article 3a, Article 5(1) and Article 5a(1) insofar as online reporting is concerned, by means of information and communication technologies.
+
+2\. Member States shall ensure that victims can exercise their rights provided for in Article 4(1), Article 5(3), Article 5a(6), Article 6(1), (2), (4), (5) and (6), and Article 10b by means of, where available, information and communication technologies in accordance with national law.
+
+3\. Member States shall ensure that victims are not prevented, on the basis that they are residents of another Member State, from exercising their rights referred to in paragraph 1 by means of information and communication technologies.
+
+Member States shall ensure that victims are not prevented, on the basis that they are residents of another Member State, from exercising their rights referred to in paragraph 2 by means of information and communication technologies where such technologies are available in the Member States.
+
+4\. Where national systems offering information and communication technologies require the use of electronic identification, signatures and seals, Member States shall allow the use of European Digital Identity Wallets, notified electronic identification schemes, qualified electronic signatures and qualified electronic seals of any other Member States as provided for in Regulation (EU) No 910/2014 of the European Parliament and of the Council ( 10 ).
+
+### Article 26c — Rights of victims with disabilities
+
+1\. Member States shall ensure that victims with disabilities benefit, on an equal basis with others, from the information and communication technologies referred to in Article 26b of this Directive by complying with the accessibility requirements set out in Annex I to Directive (EU) 2019/882 of the European Parliament and of the Council ( 11 ).
+
+2\. Member States shall ensure that victims with disabilities can access, on an equal basis with others, any procedure, support service and protection measure falling within the scope of this Directive in accordance with the accessibility requirements set out in Annex I to Directive (EU) 2019/882.
+
+Member States shall ensure that reasonable accommodation and procedural accommodation is provided for victims with disabilities upon request.
+
+## CHAPTER 6 — FINAL PROVISIONS
+
+### Article 27 — Transposition
+
+1\. Member States shall bring into force the laws, regulations and administrative provisions necessary to comply with this Directive by 16 November 2015.
+
+2\. When Member States adopt those provisions they shall contain a reference to this Directive or be accompanied by such a reference on the occasion of their official publication. Member States shall determine how such a reference is to be made.
+
+### Article 28 — Provision of data and statistics
+
+1\. Each Member State shall take the necessary measures to establish a system for the collection, production and dissemination of statistics on victims.
+
+The statistics shall, as a minimum, include the following data, available at central level, disaggregated by sex and age group (child/adult) of the victim and, where possible and relevant, the relationship between the victim and the offender and the type of offence:
+
+(a) the number of victims;
+
+(b) the number and type of reported crimes.
+
+The statistics shall also include data available at central level showing how victims have accessed the rights set out in this Directive. For the purposes of this paragraph, Member States may use data collected on the basis of relevant Union acts.
+
+2\. Member States shall endeavour to collect the statistics referred to in this Article on the basis of common disaggregation developed in cooperation with, and in accordance with the standards developed by, the Commission (Eurostat) in cooperation with national authorities. They shall transmit the data to the Commission (Eurostat) every three years. The transmitted data shall not contain personal data.
+
+3\. The European Union Agency for Fundamental Rights shall support Member States and the Commission in the collection, production and dissemination of available statistics on victims of crime and in reporting available data showing how victims have accessed the rights set out in this Directive.
+
+4\. The Commission (Eurostat) shall support Member States in the collection of data referred to in paragraph 1, including by establishing common standards.
+
+5\. The Member States shall make the collected statistics available to the public in an accessible and user-friendly manner. The statistics shall not contain personal data.
+
+### Article 28b — Resources
+
+Without prejudice to the budgetary autonomy of the Member States, Member States shall ensure sufficient human and financial resources for the effective application of the measures set out in this Directive.
+
+### Article 29 — Reporting by the Commission and review
+
+By 2 July 2032, the Commission shall submit a report on the application of this Directive to the European Parliament and the Council. The report shall assess the extent to which the Member States have taken the necessary measures to comply with this Directive, including the technical implementation, and in particular the way the Member States implement Article 9a(3). In its report, the Commission shall take into consideration the findings of the European Union Agency for Fundamental Rights and Eurostat.
+
+The report shall be accompanied, if necessary, by a legislative proposal.
+
+### Article 30 — Replacement of Framework Decision 2001/220/JHA
+
+Framework Decision 2001/220/JHA is hereby replaced in relation to Member States participating in the adoption of this Directive, without prejudice to the obligations of the Member States relating to the time limits for transposition into national law.
+
+In relation to Member States participating in the adoption of this Directive, references to that Framework Decision shall be construed as references to this Directive.
+
+### Article 31 — Entry into force
+
+This Directive shall enter into force on the day following that of its publication in the Official Journal of the European Union.
+
+### Article 32 — Addressees
+
+This Directive is addressed to the Member States in accordance with the Treaties.
+
+( 1 ) Directive (EU) 2024/1385 of the European Parliament and of the Council of 14 May 2024 on combating violence against women and domestic violence (OJ L, 2024/1385, 24.5.2024, ELI: http://data.europa.eu/eli/dir/2024/1385/oj).
+
+( 2 ) OJ C 197, 12.7.2000, p. 3.
+
+( 3 ) Directive 2014/41/EU of the European Parliament and of the Council of 3 April 2014 regarding the European Investigation Order in criminal matters (OJ L 130, 1.5.2014, p. 1, ELI: http://data.europa.eu/eli/dir/2014/41/oj).
+
+( 4 ) Regulation (EU) 2018/1727 of the European Parliament and of the Council of 14 November 2018 on the European Union Agency for Criminal Justice Cooperation (Eurojust), and replacing and repealing Council Decision 2002/187/JHA (OJ L 295, 21.11.2018, p. 138, ELI: http://data.europa.eu/eli/reg/2018/1727/oj).
+
+( 5 ) Council Decision 2008/976/JHA of 16 December 2008 on the European Judicial Network (OJ L 348, 24.12.2008, p. 130, ELI: http://data.europa.eu/eli/dec/2008/976/oj).
+
+( 6 ) Directive (EU) 2017/541 of the European Parliament and of the Council of 15 March 2017 on combating terrorism and replacing Council Framework Decision 2002/475/JHA and amending Council Decision 2005/671/JHA (OJ L 88, 31.3.2017, p. 6, ELI: http://data.europa.eu/eli/dir/2017/541/oj).
+
+( 7 ) Directive 2012/13/EU of the European Parliament and of the Council of 22 May 2012 on the right to information in criminal proceedings (OJ L 142, 1.6.2012, p. 1, ELI: http://data.europa.eu/eli/dir/2012/13/oj).
+
+( 8 ) Directive 2011/99/EU of the European Parliament and of the Council of 13 December 2011 on the European protection order (OJ L 338, 21.12.2011, p. 2, ELI: http://data.europa.eu/eli/dir/2011/99/oj).
+
+( 9 ) Regulation (EU) No 606/2013 of the European Parliament and of the Council of 12 June 2013 on mutual recognition of protection measures in civil matters (OJ L 181, 29.6.2013, p. 4, ELI: http://data.europa.eu/eli/reg/2013/606/oj).
+
+( 10 ) Regulation (EU) No 910/2014 of the European Parliament and of the Council of 23 July 2014 on electronic identification and trust services for electronic transactions in the internal market and repealing Directive 1999/93/EC (OJ L 257, 28.8.2014, p. 73, ELI: http://data.europa.eu/eli/reg/2014/910/oj).
+
+( 11 ) Directive (EU) 2019/882 of the European Parliament and of the Council of 17 April 2019 on the accessibility requirements for products and services (OJ L 151, 7.6.2019, p. 70, ELI: http://data.europa.eu/eli/dir/2019/882/oj).

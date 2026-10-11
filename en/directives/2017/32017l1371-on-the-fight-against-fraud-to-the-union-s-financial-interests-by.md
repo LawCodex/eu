@@ -1,0 +1,319 @@
+---
+title: "Directive (EU) 2017/1371 of the European Parliament and of the Council of 5 July 2017 on the fight against fraud to the Union's financial interests by means of criminal law"
+identifier: "32017L1371"
+eli: "http://data.europa.eu/eli/dir/2017/1371/oj"
+type: directive
+jurisdiction: eu
+language: en
+date: 2017-07-05
+entry_into_force: 2017-12-20
+last_amended: 2026-05-31
+consolidated_version: "02017L1371-20260531"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02017L1371-20260531"
+retrieved: 2026-10-11
+---
+
+# Directive (EU) 2017/1371 of the European Parliament and of the Council of 5 July 2017 on the fight against fraud to the Union's financial interests by means of criminal law
+
+**DIRECTIVE (EU) 2017/1371 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 5 July 2017**
+
+**on the fight against fraud to the Union's financial interests by means of criminal law**
+
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> DIRECTIVE (EU) 2026/1021 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 29 April 2026 </td><td> L 1021</td><td>1</td><td>11.5.2026</td></tr>
+
+**DIRECTIVE (EU) 2017/1371 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 5 July 2017**
+
+**on the fight against fraud to the Union's financial interests by means of criminal law**
+
+## TITLE I — SUBJECT MATTER, DEFINITIONS AND SCOPE
+
+### Article 1 — Subject matter
+
+This Directive establishes minimum rules concerning the definition of criminal offences and sanctions with regard to combatting fraud and other illegal activities affecting the Union's financial interests, with a view to strengthening protection against criminal offences which affect those financial interests, in line with the acquis of the Union in this field.
+
+### Article 2 — Definitions and scope
+
+1\. For the purposes of this Directive, the following definitions apply:
+
+(a) ‘Union's financial interests’ means all revenues, expenditure and assets covered by, acquired through, or due to:
+
+(i) the Union budget;
+
+(ii) the budgets of the Union institutions, bodies, offices and agencies established pursuant to the Treaties or budgets directly or indirectly managed and monitored by them;
+
+(b) ‘legal person’ means an entity having legal personality under the applicable law, except for States or public bodies in the exercise of State authority and for public international organisations;
+
+(c) ‘high-level official’ means a high-level official as defined in Article 2, point (9), of Directive (EU) 2026/1021 of the European Parliament and of the Council ( 1 ).
+
+2\. In respect of revenue arising from VAT own resources, this Directive shall apply only in cases of serious offences against the common VAT system. For the purposes of this Directive, offences against the common VAT system shall be considered to be serious where the intentional acts or omissions defined in point (d) of Article 3(2) are connected with the territory of two or more Member States of the Union and involve a total damage of at least EUR 10 000 000 .
+
+3\. The structure and functioning of the tax administration of the Member States are not affected by this Directive.
+
+## TITLE II — CRIMINAL OFFENCES WITH REGARD TO FRAUD AFFECTING THE UNION'S FINANCIAL INTERESTS
+
+### Article 3 — Fraud affecting the Union's financial interests
+
+1\. Member States shall take the necessary measures to ensure that fraud affecting the Union's financial interests constitutes a criminal offence when committed intentionally.
+
+2\. For the purposes of this Directive, the following shall be regarded as fraud affecting the Union's financial interests:
+
+(a) in respect of non-procurement-related expenditure, any act or omission relating to:
+
+(i) the use or presentation of false, incorrect or incomplete statements or documents, which has as its effect the misappropriation or wrongful retention of funds or assets from the Union budget or budgets managed by the Union, or on its behalf;
+
+(ii) non-disclosure of information in violation of a specific obligation, with the same effect; or
+
+(iii) the misapplication of such funds or assets for purposes other than those for which they were originally granted;
+
+(b) in respect of procurement-related expenditure, at least when committed in order to make an unlawful gain for the perpetrator or another by causing a loss to the Union's financial interests, any act or omission relating to:
+
+(i) the use or presentation of false, incorrect or incomplete statements or documents, which has as its effect the misappropriation or wrongful retention of funds or assets from the Union budget or budgets managed by the Union, or on its behalf;
+
+(ii) non-disclosure of information in violation of a specific obligation, with the same effect; or
+
+(iii) the misapplication of such funds or assets for purposes other than those for which they were originally granted, which damages the Union's financial interests;
+
+(c) in respect of revenue other than revenue arising from VAT own resources referred to in point (d), any act or omission relating to:
+
+(i) the use or presentation of false, incorrect or incomplete statements or documents, which has as its effect the illegal diminution of the resources of the Union budget or budgets managed by the Union, or on its behalf;
+
+(ii) non-disclosure of information in violation of a specific obligation, with the same effect; or
+
+(iii) misapplication of a legally obtained benefit, with the same effect;
+
+(d) in respect of revenue arising from VAT own resources, any act or omission committed in cross-border fraudulent schemes in relation to:
+
+(i) the use or presentation of false, incorrect or incomplete VAT-related statements or documents, which has as an effect the diminution of the resources of the Union budget;
+
+(ii) non-disclosure of VAT-related information in violation of a specific obligation, with the same effect; or
+
+(iii) the presentation of correct VAT-related statements for the purposes of fraudulently disguising the non-payment or wrongful creation of rights to VAT refunds.
+
+### Article 4 — Other criminal offences affecting the Union's financial interests
+
+1\. Member States shall take the necessary measures to ensure that money laundering as described in Article 1(3) of Directive (EU) 2015/849 involving property derived from the criminal offences covered by this Directive constitutes a criminal offence.
+
+2\. Member States shall take the necessary measures to ensure that passive and active bribery in the public sector, when committed intentionally, constitute criminal offences.
+
+(a) For the purposes of this Directive, ‘passive bribery in the public sector’ means the action of a public official who, directly or through an intermediary, requests or receives advantages of any kind, for himself or for a third party, or accepts a promise of such an advantage, to act or to refrain from acting in accordance with his duty or in the exercise of his functions in a way which damages or is likely to damage the Union’s financial interests.
+
+(b) For the purposes of this Directive, ‘active bribery in the public sector’ means the action of a person who promises, offers or gives, directly or through an intermediary, an advantage of any kind to a public official for himself or for a third party for him to act or to refrain from acting in accordance with his duty or in the exercise of his functions in a way which damages or is likely to damage the Union’s financial interests.
+
+3\. Member States shall take the necessary measures to ensure that misappropriation, when committed intentionally, constitutes a criminal offence.
+
+For the purposes of this Directive, ‘misappropriation’ means the action of a public official who is directly or indirectly entrusted with the management of funds or assets to commit or disburse funds or appropriate or use assets contrary to the purpose for which they were intended in any way which damages the Union's financial interests.
+
+4\. For the purposes of this Directive, ‘public official’ means:
+
+(a) a Union official or a national official, including any national official of another Member State and any national official of a third country:
+
+(i) ‘Union official’ means a person who is:
+
+— an official or other servant engaged under contract by the Union within the meaning of the Staff Regulations of Officials and the Conditions of Employment of Other Servants of the European Union laid down in Council Regulation (EEC, Euratom, ECSC) No 259/68 ( 2 ) (the ‘Staff Regulations’), or
+
+— seconded to the Union by a Member State or by any public or private body, who carries out functions equivalent to those performed by Union officials or other servants.
+
+Without prejudice to the provisions on privileges and immunities contained in Protocols No 3 and No 7, Members of the Union institutions, bodies, offices and agencies, set up in accordance with the Treaties and the staff of such bodies shall be assimilated to Union officials, inasmuch as the Staff Regulations do not apply to them;
+
+(ii) ‘national official’ shall be understood by reference to the definition of ‘official’ or ‘public official’ in the national law of the Member State or third country in which the person in question carries out his or her functions.
+
+Nevertheless, in the case of proceedings involving a national official of a Member State, or a national official of a third country, initiated by another Member State, the latter shall not be bound to apply the definition of ‘national official’ except insofar as that definition is compatible with its national law.
+
+The term ‘national official’ shall include any person holding an executive, administrative or judicial office at national, regional or local level. Any person holding a legislative office at national, regional or local level shall be assimilated to a national official;
+
+(b) any other person assigned and exercising a public service function involving the management of or decisions concerning the Union's financial interests in Member States or third countries.
+
+## TITLE III — GENERAL PROVISIONS RELATING TO FRAUD AND OTHER CRIMINAL OFFENCES AFFECTING THE UNION'S FINANCIAL INTERESTS
+
+### Article 5 — Incitement, aiding and abetting, and attempt
+
+1\. Member States shall take the necessary measures to ensure that inciting, and aiding and abetting the commission of any of the criminal offences referred to in Articles 3 and 4 are punishable as criminal offences.
+
+2\. Member States shall take the necessary measures to ensure that an attempt to commit any of the criminal offences referred to in Article 3 and Article 4(3) is punishable as a criminal offence.
+
+### Article 6 — Liability of legal persons
+
+1\. Member States shall take the necessary measures to ensure that legal persons can be held liable for any of the criminal offences referred to in Articles 3, 4 and 5 committed for their benefit by any person, acting either individually or as part of an organ of the legal person, and having a leading position within the legal person, based on:
+
+(a) a power of representation of the legal person;
+
+(b) an authority to take decisions on behalf of the legal person; or
+
+(c) an authority to exercise control within the legal person.
+
+2\. Member States shall also take the necessary measures to ensure that legal persons can be held liable where the lack of supervision or control by a person referred to in paragraph 1 of this Article has made possible the commission, by a person under its authority, of any of the criminal offences referred to in Article 3, 4 or 5 for the benefit of that legal person.
+
+3\. Liability of legal persons under paragraphs 1 and 2 of this Article shall not exclude the possibility of criminal proceedings against natural persons who are perpetrators of the criminal offences referred to in Articles 3 and 4 or who are criminally liable under Article 5.
+
+### Article 7 — Sanctions with regard to natural persons
+
+1\. As regards natural persons, Member States shall ensure that the criminal offences referred to in Articles 3, 4 and 5 are punishable by effective, proportionate and dissuasive criminal sanctions.
+
+2\. Member States shall take the necessary measures to ensure that the criminal offences referred to in Articles 3 and 4 are punishable by a maximum penalty which provides for imprisonment.
+
+3\. Member States shall take the necessary measures to ensure that the criminal offences referred to in Article 3 and in Article 4(1) and (3) are punishable by a maximum term of imprisonment of at least four years where those criminal offences involve considerable damage or advantage.
+
+Member States shall take the necessary measures to ensure that, where the act to be performed or the refraining from acting to be performed by the official is not in breach of that official’s duties, the criminal offences referred to in Article 4(2) are punishable by a maximum term of imprisonment of at least four years where those criminal offences involve considerable damage or advantage.
+
+Member States shall take the necessary measures to ensure that, where the act to be performed or the refraining from acting to be performed by the official is in breach of that official’s duties, the criminal offences referred to in Article 4(2) are punishable by a maximum term of imprisonment of at least five years of imprisonment where those criminal offences involve considerable damage or advantage.
+
+The damage or advantage resulting from the criminal offences referred to in points (a), (b) and (c) of Article 3(2) and in Article 4 shall be presumed to be considerable where the damage or advantage involves more than EUR 100 000 .
+
+The damage or advantage resulting from the criminal offences referred to in point (d) of Article 3(2) and subject to Article 2(2) shall always be presumed to be considerable.
+
+Member States may also provide for a maximum term of imprisonment of at least four years in other serious circumstances defined in their national law.
+
+4\. Where a criminal offence referred to in points (a), (b) or (c) of Article 3(2) or in Article 4(1) and (3) involves damage of less than EUR 10 000 or an advantage of less than EUR 10 000 , Member States may provide for penalties other than criminal penalties.
+
+5\. Paragraph 1 shall be without prejudice to the exercise of disciplinary powers by the competent authorities against public officials.
+
+6\. Without prejudice to paragraphs 1 to 5 of this Article, Member States shall take the necessary measures to ensure that natural persons who have committed the criminal offences referred to in Articles 3, 4 and 5 of this Directive may be subject to additional criminal or non-criminal penalties or measures which may include those referred to in Article 12(4) of Directive (EU) 2026/1021
+
+### Article 8
+
+Aggravating and mitigating circumstances
+
+Member States shall take the necessary measures to ensure that where a criminal offence referred to in Articles 3, 4 or 5 of this Directive is committed within a criminal organisation as defined in Framework Decision 2008/841/JHA, this shall be considered to be an aggravating circumstance.
+
+Member States may take the necessary measures to ensure that one or more of the circumstances referred to in Article 15 and 16 of Directive (EU) 2026/1021 can, in accordance with the relevant provisions of national law, be regarded as aggravating and mitigating circumstances, in relation to the criminal offences referred to in this Directive.
+
+### Article 9
+
+Penalties for legal persons
+
+1\. Member States shall take the necessary measures to ensure that a legal person held liable pursuant to Article 6 is punishable by effective, proportionate and dissuasive criminal or non-criminal penalties or measures.
+
+2\. Member States shall take the necessary measures to ensure that penalties or measures for legal persons held liable pursuant to Article 6 of this Directive shall include criminal or non-criminal fines, the amount of which shall be proportionate to the gravity of the conduct and to the individual, financial and other circumstances of the legal person concerned, and may include other criminal or non-criminal penalties or measures that are proportionate to the gravity of the conduct, such as those referred to in Article 14(2) of Directive (EU) 2026/1021.
+
+Insofar as legal persons are held liable pursuant to Article 6(1) of this Directive, for the criminal offences referred to Articles 4(2) and (3) of this Directive, Article 14(3) of Directive (EU) 2026/1021 is applicable.
+
+### Article 10 — Freezing and confiscation
+
+Member States shall take the necessary measures to enable the freezing and confiscation of instrumentalities and proceeds from the criminal offences referred to in Articles 3, 4 and 5. Member States bound by Directive 2014/42/EU of the European Parliament and of the Council ( 3 ) shall do so in accordance with that Directive.
+
+### Article 11 — Jurisdiction
+
+1\. Each Member State shall take the necessary measures to establish its jurisdiction over the criminal offences referred to in Articles 3, 4 and 5 where:
+
+(a) the criminal offence is committed in whole or in part within its territory; or
+
+(b) the offender is one of its nationals.
+
+2\. Each Member State shall take the necessary measures to establish its jurisdiction over the criminal offences referred to in Articles 3, 4 and 5 where the offender is subject to the Staff Regulations at the time of the criminal offence. Each Member State may refrain from applying the rules on jurisdiction established in this paragraph or may apply them only in specific cases or only where specific conditions are fulfilled and shall inform the Commission thereof.
+
+3\. A Member State shall inform the Commission where it decides to extend its jurisdiction to criminal offences referred to in Article 3, 4 or 5 which have been committed outside its territory in any of the following situations:
+
+(a) the offender is a habitual resident in its territory;
+
+(b) the criminal offence is committed for the benefit of a legal person established in its territory; or
+
+(c) the offender is one of its officials who acts in his or her official duty.
+
+4\. In cases referred to in point (b) of paragraph 1, Member States shall take the necessary measures to ensure that the exercise of their jurisdiction is not subject to the condition that a prosecution can be initiated only following a report made by the victim in the place where the criminal offence was committed, or a denunciation from the State of the place where the criminal offence was committed.
+
+### Article 12 — Limitation periods for criminal offences affecting the Union's financial interests
+
+1\. Member States shall take the necessary measures to provide for a limitation period that enables the investigation, prosecution, trial and judicial decision of criminal offences referred to in Articles 3, 4 and 5 for a sufficient period of time after the commission of those criminal offences, in order for those criminal offences to be tackled effectively.
+
+2\. Member States shall take the necessary measures to enable the investigation, prosecution, trial and adjudication of criminal offences referred to in Article 3, in Article 4(1) and in Article 5 which are punishable by a maximum term of imprisonment of at least four years, for a period of at least five years from the commission of the criminal offence.
+
+3\. By way of derogation from paragraph 2, Member States may establish a limitation period that is shorter than five years, but not shorter than three years, provided that such limitation period may be interrupted or suspended in the event of specified acts.
+
+4\. Member States shall take the necessary measures to enable the investigation, prosecution, trial and adjudication of criminal offences referred to in Articles 4(2) and (3) which are punishable by a maximum term of imprisonment of at least four years, for a period of at least eight years from the commission of the criminal offence.
+
+5\. By way of derogation from paragraph 4, Member States may establish a limitation period that is shorter than eight years, but not shorter than five years, provided that such limitation period may be interrupted or suspended in the event of specified acts.
+
+6\. Member States shall take the necessary measures to provide for a limitation period of at least five years from the date of the final conviction for a criminal offence referred to in Article 3, Article 4(1) and Article 5 that enables the enforcement of the following penalties imposed following that conviction:
+
+(a) a penalty of imprisonment of more than one year; or alternatively
+
+(b) a penalty of imprisonment for a criminal offence punishable by a maximum term of imprisonment of at least four years.
+
+7\. By way of derogation from paragraph 6, Member States may establish a limitation period that is shorter than five years, but not shorter than three years, provided that such limitation period may be interrupted or suspended in the event of specified acts.
+
+8\. Member States shall take the necessary measures to provide for a limitation period of at least 10 years from the date of the final conviction for a criminal offence referred to in Article 4(2) and (3) that enables the enforcement of the following penalties imposed following that conviction:
+
+(a) a penalty of imprisonment of more than one year, or alternatively
+
+(b) a penalty of imprisonment for a criminal offence which is punishable by a maximum term of imprisonment of at least four years.
+
+9\. By way of derogation from paragraph 8, Member States may establish a limitation period that is shorter than 10 years but not shorter than five years, provided that the period may be interrupted or suspended in the event of specified acts.
+
+### Article 13 — Recovery
+
+This Directive shall be without prejudice to the recovery of the following:
+
+(1) at Union level of sums unduly paid in the context of the commission of the criminal offences referred to in point (a), (b) or (c) of Article 3(2), or in Article 4 or 5;
+
+(2) at national level, of any VAT not paid in the context of the commission of the criminal offences referred in point (d) of Article 3(2), or in Article 4 or 5.
+
+### Article 14 — Interaction with other applicable legal acts of the Union
+
+The application of administrative measures, penalties and fines as laid down in Union law, in particular those within the meaning of Articles 4 and 5 of Regulation (EC, Euratom) No 2988/95, or in national law adopted in compliance with a specific obligation under Union law, shall be without prejudice to this Directive. Member States shall ensure that any criminal proceedings initiated on the basis of national provisions implementing this Directive do not unduly affect the proper and effective application of administrative measures, penalties and fines that cannot be equated to criminal proceedings, laid down in Union law or national implementing provisions.
+
+## TITLE IV — FINAL PROVISIONS
+
+### Article 15 — Cooperation between the Member States and the Commission (OLAF) and other Union institutions, bodies, offices or agencies
+
+1\. Without prejudice to the rules on cross-border cooperation and mutual legal assistance in criminal matters, the Member States, Eurojust, the European Public Prosecutor's Office and the Commission shall, within their respective competences, cooperate with each other in the fight against the criminal offences referred to in Articles 3, 4 and 5. To that end the Commission, and where appropriate, Eurojust, shall provide such technical and operational assistance as the competent national authorities need to facilitate coordination of their investigations.
+
+2\. The competent authorities in the Member States may, within their competences, exchange information with the Commission so as to make it easier to establish the facts and to ensure effective action against the criminal offences referred to in Articles 3, 4 and 5. The Commission and the competent national authorities shall take into account in each specific case the requirements of confidentiality and the rules on data protection. Without prejudice to national law on access to information, a Member State may, to that end, when supplying information to the Commission, set specific conditions covering the use of information, whether by the Commission or by another Member State to which the information is passed.
+
+3\. The Court of Auditors and auditors responsible for auditing the budgets of the Union institutions, bodies, offices and agencies established pursuant to the Treaties, and the budgets managed and audited by the institutions, shall disclose to OLAF and to other competent authorities any fact of which they become aware when carrying out their duties, which could be qualified as a criminal offence referred to in Article 3, 4 or 5. Member States shall ensure that national audit bodies do the same.
+
+### Article 16 — Replacement of the Convention on the protection of the European Communities' financial interests
+
+The Convention on the protection of the European Communities' financial interests of 26 July 1995, including the Protocols thereto of 27 September 1996, of 29 November 1996 and of 19 June 1997, is hereby replaced by this Directive for the Member States bound by it, with effect from 6 July 2019.
+
+For the Member States bound by this Directive, references to the Convention shall be construed as references to this Directive.
+
+### Article 17 — Transposition
+
+1\. Member States shall adopt and publish, by 6 July 2019, the laws, regulations and administrative provisions necessary to comply with this Directive. They shall immediately communicate the text of those measures to the Commission. They shall apply those measures from 6 July 2019.
+
+When Member States adopt those measures, they shall contain a reference to this Directive or be accompanied by such a reference on the occasion of their official publication. They shall also include a statement that, for the Member States bound by this Directive, references in existing laws, regulations and administrative provisions to the Convention replaced by this Directive shall be construed as references to this Directive. Member States shall determine how such reference is to be made and how that statement is to be formulated.
+
+2\. Member States shall communicate to the Commission the text of the main provisions of national law which they adopt in the field covered by this Directive.
+
+### Article 18 — Reporting and assessment
+
+1\. The Commission shall by 6 July 2021 submit a report to the European Parliament and the Council, assessing the extent to which the Member States have taken the necessary measures in order to comply with this Directive.
+
+2\. Without prejudice to reporting obligations laid down in other Union legal acts, Member States shall, on an annual basis, submit the following statistics on the criminal offences referred to in Articles 3, 4 and 5 to the Commission, if they are available at a central level in the Member State concerned:
+
+(a) the number of criminal proceedings initiated, dismissed, resulting in an acquittal, resulting in a conviction and ongoing;
+
+(b) the amounts recovered following criminal proceedings and the estimated damage.
+
+3\. The Commission shall, by 6 July 2024 and taking into account its report submitted pursuant to paragraph 1 and the Member States' statistics submitted pursuant to paragraph 2, submit a report to the European Parliament and to the Council, assessing the impact of national law transposing this Directive on the prevention of fraud to the Union's financial interests.
+
+4\. The Commission shall, by 6 July 2022 and on the basis of the statistics submitted by Member States, pursuant to paragraph 2, submit a report to the European Parliament and to the Council, assessing, with regard to the general objective to strengthen the protection of the Union's financial interests, whether:
+
+(a) the threshold indicated in Article 2(2) is appropriate;
+
+(b) the provisions relating to limitation periods as referred to in Article 12 are sufficiently effective;
+
+(c) this Directive effectively addresses cases of procurement fraud.
+
+5\. The reports referred to in paragraphs 3 and 4 shall be accompanied, if necessary, by a legislative proposal, which may include a specific provision on procurement fraud.
+
+### Article 19 — Entry into force
+
+This Directive shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+
+### Article 20 — Addressees
+
+This Directive is addressed to the Member States in accordance with the Treaties.
+
+( 1 ) Directive (EU) 2026/1021 of the European Parliament and of the Council of 29 April 2026 on combatting corruption, replacing Council Framework Decision 2003/568/JHA and the Convention on the fight against corruption involving officials of the European Communities or officials of Member States of the European Union and amending Directive (EU) 2017/1371 of the European Parliament and of the Council (OJ L, 2026/1021, 11.5.2026, ELI: http://data.europa.eu/eli/dir/2026/1021/oj).
+
+( 2 ) OJ L 56, 4.3.1968, p. 1.
+
+( 3 ) Directive 2014/42/EU of the European Parliament and of the Council of 3 April 2014 on the freezing and confiscation of instrumentalities and proceeds of crime in the European Union (OJ L 127, 29.4.2014, p. 39).

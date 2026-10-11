@@ -1,0 +1,1021 @@
+---
+title: "Directive 2011/92/EU of the European Parliament and of the Council of 13 December 2011 on the assessment of the effects of certain public and private projects on the environment (codification) Text with EEA relevance"
+identifier: "32011L0092"
+eli: "http://data.europa.eu/eli/dir/2011/92/oj"
+type: directive
+jurisdiction: eu
+language: en
+date: 2011-12-13
+entry_into_force: 2011-12-01
+last_amended: 2014-05-15
+consolidated_version: "02011L0092-20140515"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02011L0092-20140515"
+retrieved: 2026-10-11
+---
+
+# Directive 2011/92/EU of the European Parliament and of the Council of 13 December 2011 on the assessment of the effects of certain public and private projects on the environment (codification) Text with EEA relevance
+
+**DIRECTIVE 2011/92/EU OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 13 December 2011**
+
+**on the assessment of the effects of certain public and private projects on the environment**
+
+**(codification)**
+
+**(Text with EEA relevance)**
+
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> DIRECTIVE 2014/52/EU OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 16 April 2014 </td><td> L 124</td><td>1</td><td>25.4.2014</td></tr>
+
+**DIRECTIVE 2011/92/EU OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 13 December 2011**
+
+**on the assessment of the effects of certain public and private projects on the environment**
+
+**(codification)**
+
+**(Text with EEA relevance)**
+
+## Article 1
+
+1\. This Directive shall apply to the assessment of the environmental effects of those public and private projects which are likely to have significant effects on the environment.
+
+2\. For the purposes of this Directive, the following definitions shall apply:
+
+(a) ‘project’ means:
+
+— the execution of construction works or of other installations or schemes,
+
+— other interventions in the natural surroundings and landscape including those involving the extraction of mineral resources;
+
+(b) ‘developer’ means the applicant for authorisation for a private project or the public authority which initiates a project;
+
+(c) ‘development consent’ means the decision of the competent authority or authorities which entitles the developer to proceed with the project;
+
+(d) ‘public’ means one or more natural or legal persons and, in accordance with national legislation or practice, their associations, organisations or groups;
+
+(e) ‘public concerned’ means the public affected or likely to be affected by, or having an interest in, the environmental decision-making procedures referred to in Article 2(2). For the purposes of this definition, non-governmental organisations promoting environmental protection and meeting any requirements under national law shall be deemed to have an interest;
+
+(f) ‘competent authority or authorities’ means that authority or those authorities which the Member States designate as responsible for performing the duties arising from this Directive;
+
+(g) ‘environmental impact assessment’ means a process consisting of:
+
+(i) the preparation of an environmental impact assessment report by the developer, as referred to in Article 5(1) and (2);
+
+(ii) the carrying out of consultations as referred to in Article 6 and, where relevant, Article 7;
+
+(iii) the examination by the competent authority of the information presented in the environmental impact assessment report and any supplementary information provided, where necessary, by the developer in accordance with Article 5(3), and any relevant information received through the consultations under Articles 6 and 7;
+
+(iv) the reasoned conclusion by the competent authority on the significant effects of the project on the environment, taking into account the results of the examination referred to in point (iii) and, where appropriate, its own supplementary examination; and
+
+(v) the integration of the competent authority's reasoned conclusion into any of the decisions referred to in Article 8a.
+
+3\. Member States may decide, on a case-by-case basis and if so provided under national law, not to apply this Directive to projects, or parts of projects, having defence as their sole purpose, or to projects having the response to civil emergencies as their sole purpose, if they deem that such application would have an adverse effect on those purposes.
+
+## Article 2
+
+1\. Member States shall adopt all measures necessary to ensure that, before development consent is given, projects likely to have significant effects on the environment by virtue, inter alia, of their nature, size or location are made subject to a requirement for development consent and an assessment with regard to their effects on the environment. Those projects are defined in Article 4.
+
+2\. The environmental impact assessment may be integrated into the existing procedures for development consent to projects in the Member States, or, failing this, into other procedures or into procedures to be established to comply with the aims of this Directive.
+
+3\. In the case of projects for which the obligation to carry out assessments of the effects on the environment arises simultaneously from this Directive and from Council Directive 92/43/EEC ( 5 ) and/or Directive 2009/147/EC of the European Parliament and the Council ( 6 ), Member States shall, where appropriate, ensure that coordinated and/or joint procedures fulfilling the requirements of that Union legislation are provided for.
+
+In the case of projects for which the obligation to carry out assessments of the effects on the environment arises simultaneously from this Directive and Union legislation other than the Directives listed in the first subparagraph, Member States may provide for coordinated and/or joint procedures.
+
+Under the coordinated procedure referred to in the first and second subparagraphs, Member States shall endeavour to coordinate the various individual assessments of the environmental impact of a particular project, required by the relevant Union legislation, by designating an authority for this purpose, without prejudice to any provisions to the contrary contained in other relevant Union legislation.
+
+Under the joint procedure referred to in the first and second subparagraphs, Member States shall endeavour to provide for a single assessment of the environmental impact of a particular project required by the relevant Union legislation, without prejudice to any provisions to the contrary contained in other relevant Union legislation.
+
+The Commission shall provide guidance regarding the setting up of any coordinated or joint procedures for projects that are simultaneously subject to assessments under this Directive and Directives 92/43/EEC, 2000/60/EC, 2009/147/EC or 2010/75/EU.
+
+4\. Without prejudice to Article 7, Member States may, in exceptional cases, exempt a specific project from the provisions laid down in this Directive, where the application of those provisions would result in adversely affecting the purpose of the project, provided the objectives of this Directive are met.
+
+In that event, the Member States shall:
+
+(a) consider whether another form of assessment would be appropriate;
+
+(b) make available to the public concerned the information obtained under other forms of assessment referred to in point (a), the information relating to the decision granting exemption and the reasons for granting it;
+
+(c) inform the Commission, prior to granting consent, of the reasons justifying the exemption granted, and provide it with the information made available, where applicable, to their own nationals.
+
+The Commission shall immediately forward the documents received to the other Member States.
+
+The Commission shall report annually to the European Parliament and to the Council on the application of this paragraph.
+
+5\. Without prejudice to Article 7, in cases where a project is adopted by a specific act of national legislation, Member States may exempt that project from the provisions relating to public consultation laid down in this Directive, provided the objectives of this Directive are met.
+
+Member States shall inform the Commission of any application of the exemption referred to in the first subparagraph every two years from 16 May 2017.
+
+## Article 3
+
+1\. The environmental impact assessment shall identify, describe and assess in an appropriate manner, in the light of each individual case, the direct and indirect significant effects of a project on the following factors:
+
+(a) population and human health;
+
+(b) biodiversity, with particular attention to species and habitats protected under Directive 92/43/EEC and Directive 2009/147/EC;
+
+(c) land, soil, water, air and climate;
+
+(d) material assets, cultural heritage and the landscape;
+
+(e) the interaction between the factors referred to in points (a) to (d).
+
+2\. The effects referred to in paragraph 1 on the factors set out therein shall include the expected effects deriving from the vulnerability of the project to risks of major accidents and/or disasters that are relevant to the project concerned.
+
+## Article 4
+
+1\. Subject to Article 2(4), projects listed in Annex I shall be made subject to an assessment in accordance with Articles 5 to 10.
+
+2\. Subject to Article 2(4), for projects listed in Annex II, Member States shall determine whether the project shall be made subject to an assessment in accordance with Articles 5 to 10. Member States shall make that determination through:
+
+(a) a case-by-case examination;
+
+or
+
+(b) thresholds or criteria set by the Member State.
+
+Member States may decide to apply both procedures referred to in points (a) and (b).
+
+3\. Where a case-by-case examination is carried out or thresholds or criteria are set for the purpose of paragraph 2, the relevant selection criteria set out in Annex III shall be taken into account. Member States may set thresholds or criteria to determine when projects need not undergo either the determination under paragraphs 4 and 5 or an environmental impact assessment, and/or thresholds or criteria to determine when projects shall in any case be made subject to an environmental impact assessment without undergoing a determination set out under paragraphs 4 and 5.
+
+4\. Where Member States decide to require a determination for projects listed in Annex II, the developer shall provide information on the characteristics of the project and its likely significant effects on the environment. The detailed list of information to be provided is specified in Annex IIA. The developer shall take into account, where relevant, the available results of other relevant assessments of the effects on the environment carried out pursuant to Union legislation other than this Directive. The developer may also provide a description of any features of the project and/or measures envisaged to avoid or prevent what might otherwise have been significant adverse effects on the environment.
+
+5\. The competent authority shall make its determination, on the basis of the information provided by the developer in accordance with paragraph 4 taking into account, where relevant, the results of preliminary verifications or assessments of the effects on the environment carried out pursuant to Union legislation other than this Directive. The determination shall be made available to the public and:
+
+(a) where it is decided that an environmental impact assessment is required, state the main reasons for requiring such assessment with reference to the relevant criteria listed in Annex III; or
+
+(b) where it is decided that an environmental impact assessment is not required, state the main reasons for not requiring such assessment with reference to the relevant criteria listed in Annex III, and, where proposed by the developer, state any features of the project and/or measures envisaged to avoid or prevent what might otherwise have been significant adverse effects on the environment.
+
+6\. Member States shall ensure that the competent authority makes its determination as soon as possible and within a period of time not exceeding 90 days from the date on which the developer has submitted all the information required pursuant to paragraph 4. In exceptional cases, for instance relating to the nature, complexity, location or size of the project, the competent authority may extend that deadline to make its determination; in that event, the competent authority shall inform the developer in writing of the reasons justifying the extension and of the date when its determination is expected.
+
+## Article 5
+
+1\. Where an environmental impact assessment is required, the developer shall prepare and submit an environmental impact assessment report. The information to be provided by the developer shall include at least:
+
+(a) a description of the project comprising information on the site, design, size and other relevant features of the project;
+
+(b) a description of the likely significant effects of the project on the environment;
+
+(c) a description of the features of the project and/or measures envisaged in order to avoid, prevent or reduce and, if possible, offset likely significant adverse effects on the environment;
+
+(d) a description of the reasonable alternatives studied by the developer, which are relevant to the project and its specific characteristics, and an indication of the main reasons for the option chosen, taking into account the effects of the project on the environment;
+
+(e) a non-technical summary of the information referred to in points (a) to (d); and
+
+(f) any additional information specified in Annex IV relevant to the specific characteristics of a particular project or type of project and to the environmental features likely to be affected.
+
+Where an opinion is issued pursuant to paragraph 2, the environmental impact assessment report shall be based on that opinion, and include the information that may reasonably be required for reaching a reasoned conclusion on the significant effects of the project on the environment, taking into account current knowledge and methods of assessment. The developer shall, with a view to avoiding duplication of assessments, take into account the available results of other relevant assessments under Union or national legislation, in preparing the environmental impact assessment report.
+
+2\. Where requested by the developer, the competent authority, taking into account the information provided by the developer in particular on the specific characteristics of the project, including its location and technical capacity, and its likely impact on the environment, shall issue an opinion on the scope and level of detail of the information to be included by the developer in the environmental impact assessment report in accordance with paragraph 1 of this Article. The competent authority shall consult the authorities referred to in Article 6(1) before it gives its opinion.
+
+Member States may also require the competent authorities to give an opinion as referred to in the first subparagraph, irrespective of whether the developer so requests.
+
+3\. In order to ensure the completeness and quality of the environmental impact assessment report:
+
+(a) the developer shall ensure that the environmental impact assessment report is prepared by competent experts;
+
+(b) the competent authority shall ensure that it has, or has access as necessary to, sufficient expertise to examine the environmental impact assessment report; and
+
+(c) where necessary, the competent authority shall seek from the developer supplementary information, in accordance with Annex IV, which is directly relevant to reaching the reasoned conclusion on the significant effects of the project on the environment.
+
+4\. Member States shall, if necessary, ensure that any authorities holding relevant information, with particular reference to Article 3, make this information available to the developer.
+
+## Article 6
+
+1\. Member States shall take the measures necessary to ensure that the authorities likely to be concerned by the project by reason of their specific environmental responsibilities or local and regional competences are given an opportunity to express their opinion on the information supplied by the developer and on the request for development consent, taking into account, where appropriate, the cases referred to in Article 8a(3). To that end, Member States shall designate the authorities to be consulted, either in general terms or on a case-by-case basis. The information gathered pursuant to Article 5 shall be forwarded to those authorities. Detailed arrangements for consultation shall be laid down by the Member States.
+
+2\. In order to ensure the effective participation of the public concerned in the decision-making procedures, the public shall be informed electronically and by public notices or by other appropriate means, of the following matters early in the environmental decision-making procedures referred to in Article 2(2) and, at the latest, as soon as information can reasonably be provided:
+
+(a) the request for development consent;
+
+(b) the fact that the project is subject to an environmental impact assessment procedure and, where relevant, the fact that Article 7 applies;
+
+(c) details of the competent authorities responsible for taking the decision, those from which relevant information can be obtained, those to which comments or questions can be submitted, and details of the time schedule for transmitting comments or questions;
+
+(d) the nature of possible decisions or, where there is one, the draft decision;
+
+(e) an indication of the availability of the information gathered pursuant to Article 5;
+
+(f) an indication of the times and places at which, and the means by which, the relevant information will be made available;
+
+(g) details of the arrangements for public participation made pursuant to paragraph 5 of this Article.
+
+3\. Member States shall ensure that, within reasonable time-frames, the following is made available to the public concerned:
+
+(a) any information gathered pursuant to Article 5;
+
+(b) in accordance with national legislation, the main reports and advice issued to the competent authority or authorities at the time when the public concerned is informed in accordance with paragraph 2 of this Article;
+
+(c) in accordance with the provisions of Directive 2003/4/EC of the European Parliament and of the Council of 28 January 2003 on public access to environmental information ( 7 ), information other than that referred to in paragraph 2 of this Article which is relevant for the decision in accordance with Article 8 of this Directive and which only becomes available after the time the public concerned was informed in accordance with paragraph 2 of this Article.
+
+4\. The public concerned shall be given early and effective opportunities to participate in the environmental decision-making procedures referred to in Article 2(2) and shall, for that purpose, be entitled to express comments and opinions when all options are open to the competent authority or authorities before the decision on the request for development consent is taken.
+
+5\. The detailed arrangements for informing the public, for example by bill posting within a certain radius or publication in local newspapers, and for consulting the public concerned, for example by written submissions or by way of a public inquiry, shall be determined by the Member States. Member States shall take the necessary measures to ensure that the relevant information is electronically accessible to the public, through at least a central portal or easily accessible points of access, at the appropriate administrative level.
+
+6\. Reasonable time-frames for the different phases shall be provided for, allowing sufficient time for:
+
+(a) informing the authorities referred to in paragraph 1 and the public; and
+
+(b) the authorities referred to in paragraph 1 and the public concerned to prepare and participate effectively in the environmental decision-making, subject to the provisions of this Article.
+
+7\. The time-frames for consulting the public concerned on the environmental impact assessment report referred to in Article 5(1) shall not be shorter than 30 days.
+
+## Article 7
+
+1\. Where a Member State is aware that a project is likely to have significant effects on the environment in another Member State or where a Member State likely to be significantly affected so requests, the Member State in whose territory the project is intended to be carried out shall send to the affected Member State as soon as possible and no later than when informing its own public, inter alia:
+
+(a) a description of the project, together with any available information on its possible transboundary impact;
+
+(b) information on the nature of the decision which may be taken.
+
+The Member State in whose territory the project is intended to be carried out shall give the other Member State a reasonable time in which to indicate whether it wishes to participate in the environmental decision-making procedures referred to in Article 2(2), and may include the information referred to in paragraph 2 of this Article.
+
+2\. If a Member State which receives information pursuant to paragraph 1 indicates that it intends to participate in the environmental decision-making procedures referred to in Article 2(2), the Member State in whose territory the project is intended to be carried out shall, if it has not already done so, send to the affected Member State the information required to be given pursuant to Article 6(2) and made available pursuant to points (a) and (b) of Article 6(3).
+
+3\. The Member States concerned, each insofar as it is concerned, shall also:
+
+(a) arrange for the information referred to in paragraphs 1 and 2 to be made available, within a reasonable time, to the authorities referred to in Article 6(1) and the public concerned in the territory of the Member State likely to be significantly affected; and
+
+(b) ensure that the authorities referred to in Article 6(1) and the public concerned are given an opportunity, before development consent for the project is granted, to forward their opinion within a reasonable time on the information supplied to the competent authority in the Member State in whose territory the project is intended to be carried out.
+
+4\. The Member States concerned shall enter into consultations regarding, inter alia, the potential transboundary effects of the project and the measures envisaged to reduce or eliminate such effects and shall agree on a reasonable time- frame for the duration of the consultation period.
+
+Such consultations may be conducted through an appropriate joint body.
+
+5\. The detailed arrangements for implementing paragraphs 1 to 4 of this Article, including the establishment of time-frames for consultations, shall be determined by the Member States concerned, on the basis of the arrangements and time-frames referred to in Article 6(5) to (7), and shall be such as to enable the public concerned in the territory of the affected Member State to participate effectively in the environmental decision-making procedures referred to in Article 2(2) for the project.
+
+## Article 8
+
+The results of consultations and the information gathered pursuant to Articles 5 to 7 shall be duly taken into account in the development consent procedure.
+
+## Article 8a
+
+1\. The decision to grant development consent shall incorporate at least the following information:
+
+(a) the reasoned conclusion referred to in Article 1(2)(g)(iv);
+
+(b) any environmental conditions attached to the decision, a description of any features of the project and/or measures envisaged to avoid, prevent or reduce and, if possible, offset significant adverse effects on the environment as well as, where appropriate, monitoring measures.
+
+2\. The decision to refuse development consent shall state the main reasons for the refusal.
+
+3\. In the event Member States make use of the procedures referred to in Article 2(2) other than the procedures for development consent, the requirements of paragraphs 1 and 2 of this Article, as appropriate, shall be deemed to be fulfilled when any decision issued in the context of those procedures contains the information referred to in those paragraphs and there are mechanisms in place which enable the fulfilment of the requirements of paragraph 6 of this Article.
+
+4\. In accordance with the requirements referred to in paragraph 1(b), Member States shall ensure that the features of the project and/or measures envisaged to avoid, prevent or reduce and, if possible, offset significant adverse effects on the environment are implemented by the developer, and shall determine the procedures regarding the monitoring of significant adverse effects on the environment.
+
+The type of parameters to be monitored and the duration of the monitoring shall be proportionate to the nature, location and size of the project and the significance of its effects on the environment.
+
+Existing monitoring arrangements resulting from Union legislation other than this Directive and from national legislation may be used if appropriate, with a view to avoiding duplication of monitoring.
+
+5\. Member States shall ensure that the competent authority takes any of the decisions referred to in paragraphs 1 to 3 within a reasonable period of time.
+
+6\. The competent authority shall be satisfied that the reasoned conclusion referred to in Article 1(2)(g)(iv), or any of the decisions referred to in paragraph 3 of this Article, is still up to date when taking a decision to grant development consent. To that effect, Member States may set time-frames for the validity of the reasoned conclusion referred to in Article 1(2)(g)(iv) or any of the decisions referred to in paragraph 3 of this Article.
+
+## Article 9
+
+1\. When a decision to grant or refuse development consent has been taken, the competent authority or authorities shall promptly inform the public and the authorities referred to in Article 6(1) thereof, in accordance with the national procedures, and shall ensure that the following information is available to the public and to the authorities referred to in Article 6(1), taking into account, where appropriate, the cases referred to in Article 8a(3):
+
+(a) the content of the decision and any conditions attached thereto as referred to in Article 8a(1) and (2);
+
+(b) the main reasons and considerations on which the decision is based, including information about the public participation process. This also includes the summary of the results of the consultations and the information gathered pursuant to Articles 5 to 7 and how those results have been incorporated or otherwise addressed, in particular the comments received from the affected Member State referred to in Article 7.
+
+2\. The competent authority or authorities shall inform any Member State which has been consulted pursuant to Article 7, forwarding to it the information referred to in paragraph 1 of this Article.
+
+The consulted Member States shall ensure that that information is made available in an appropriate manner to the public concerned in their own territory.
+
+## Article 9a
+
+Member States shall ensure that the competent authority or authorities perform the duties arising from this Directive in an objective manner and do not find themselves in a situation giving rise to a conflict of interest.
+
+Where the competent authority is also the developer, Member States shall at least implement, within their organisation of administrative competences, an appropriate separation between conflicting functions when performing the duties arising from this Directive.
+
+## Article 10
+
+Without prejudice to Directive 2003/4/EC, the provisions of this Directive shall not affect the obligation on the competent authorities to respect the limitations imposed by national laws, regulations and administrative provisions, and accepted legal practices with regard to commercial and industrial confidentiality, including intellectual property, and the safeguarding of the public interest.
+
+Where Article 7 applies, the transmission of information to another Member State and the receipt of information by another Member State shall be subject to the limitations in force in the Member State in which the project is proposed.
+
+## Article 10a
+
+Member States shall lay down rules on penalties applicable to infringements of the national provisions adopted pursuant to this Directive. The penalties thus provided for shall be effective, proportionate and dissuasive.
+
+## Article 11
+
+1\. Member States shall ensure that, in accordance with the relevant national legal system, members of the public concerned:
+
+(a) having a sufficient interest, or alternatively;
+
+(b) maintaining the impairment of a right, where administrative procedural law of a Member State requires this as a precondition;
+
+have access to a review procedure before a court of law or another independent and impartial body established by law to challenge the substantive or procedural legality of decisions, acts or omissions subject to the public participation provisions of this Directive.
+
+2\. Member States shall determine at what stage the decisions, acts or omissions may be challenged.
+
+3\. What constitutes a sufficient interest and impairment of a right shall be determined by the Member States, consistently with the objective of giving the public concerned wide access to justice. To that end, the interest of any non-governmental organisation meeting the requirements referred to in Article 1(2) shall be deemed sufficient for the purpose of point (a) of paragraph 1 of this Article. Such organisations shall also be deemed to have rights capable of being impaired for the purpose of point (b) of paragraph 1 of this Article.
+
+4\. The provisions of this Article shall not exclude the possibility of a preliminary review procedure before an administrative authority and shall not affect the requirement of exhaustion of administrative review procedures prior to recourse to judicial review procedures, where such a requirement exists under national law.
+
+Any such procedure shall be fair, equitable, timely and not prohibitively expensive.
+
+5\. In order to further the effectiveness of the provisions of this Article, Member States shall ensure that practical information is made available to the public on access to administrative and judicial review procedures.
+
+## Article 12
+
+1\. The Member States and the Commission shall exchange information on the experience gained in applying this Directive.
+
+2\. In particular, every six years from 16 May 2017 Member States shall inform the Commission, where such data are available, of:
+
+(a) the number of projects referred to in Annexes I and II made subject to an environmental impact assessment in accordance with Articles 5 to 10;
+
+(b) the breakdown of environmental impact assessments according to the project categories set out in Annexes I and II;
+
+(c) the number of projects referred to in Annex II made subject to a determination in accordance with Article 4(2);
+
+(d) the average duration of the environmental impact assessment process;
+
+(e) general estimates on the average direct costs of environmental impact assessments, including the impact from the application of this Directive to SMEs.
+
+3\. On the basis of that exchange of information, the Commission shall if necessary submit additional proposals to the European Parliament and to the Council, with a view to ensuring that this Directive is applied in a sufficiently coordinated manner.
+
+## Article 13
+
+Member States shall communicate to the Commission the texts of the provisions of national law which they adopt in the field covered by this Directive.
+
+## Article 14
+
+Directive 85/337/EEC, as amended by the Directives listed in Annex V, Part A, is repealed, without prejudice to the obligations of the Member States relating to the time limits for transposition into national law of the Directives set out in Annex V, Part B.
+
+References to the repealed Directive shall be construed as references to this Directive and shall be read in accordance with the correlation table in Annex VI.
+
+## Article 15
+
+This Directive shall enter into force on the 20th day following its publication in the Official Journal of the European Union.
+
+## Article 16
+
+This Directive is addressed to the Member States.
+
+## ANNEX I
+
+**PROJECTS REFERRED TO IN ARTICLE 4(1)**
+
+1\. Crude-oil refineries (excluding undertakings manufacturing only lubricants from crude oil) and installations for the gasification and liquefaction of 500 tonnes or more of coal or bituminous shale per day.
+
+2.
+
+(a) Thermal power stations and other combustion installations with a heat output of 300 megawatts or more;
+
+(b) Nuclear power stations and other nuclear reactors including the dismantling or decommissioning of such power stations or reactors ( 8 ) (except research installations for the production and conversion of fissionable and fertile materials, whose maximum power does not exceed 1 kilowatt continuous thermal load).
+
+3.
+
+(a) Installations for the reprocessing of irradiated nuclear fuel;
+
+(b) Installations designed:
+
+(i) for the production or enrichment of nuclear fuel;
+
+(ii) for the processing of irradiated nuclear fuel or high-level radioactive waste;
+
+(iii) for the final disposal of irradiated nuclear fuel;
+
+(iv) solely for the final disposal of radioactive waste;
+
+(v) solely for the storage (planned for more than 10 years) of irradiated nuclear fuels or radioactive waste in a different site than the production site.
+
+4.
+
+(a) Integrated works for the initial smelting of cast iron and steel;
+
+(b) Installations for the production of non-ferrous crude metals from ore, concentrates or secondary raw materials by metallurgical, chemical or electrolytic processes.
+
+5\. Installations for the extraction of asbestos and for the processing and transformation of asbestos and products containing asbestos: for asbestos-cement products, with an annual production of more than 20 000 tonnes of finished products, for friction material, with an annual production of more than 50 tonnes of finished products, and for other uses of asbestos, utilisation of more than 200 tonnes per year.
+
+6\. Integrated chemical installations, i.e. those installations for the manufacture on an industrial scale of substances using chemical conversion processes, in which several units are juxtaposed and are functionally linked to one another and which are:
+
+(a) for the production of basic organic chemicals;
+
+(b) for the production of basic inorganic chemicals;
+
+(c) for the production of phosphorous-, nitrogen- or potassium-based fertilisers (simple or compound fertilisers);
+
+(d) for the production of basic plant health products and of biocides;
+
+(e) for the production of basic pharmaceutical products using a chemical or biological process;
+
+(f) for the production of explosives.
+
+7.
+
+(a) Construction of lines for long-distance railway traffic and of airports ( 9 ) with a basic runway length of 2 100 m or more;
+
+(b) Construction of motorways and express roads ( 10 );
+
+(c) Construction of a new road of four or more lanes, or realignment and/or widening of an existing road of two lanes or less so as to provide four or more lanes, where such new road or realigned and/or widened section of road would be 10 km or more in a continuous length.
+
+8.
+
+(a) Inland waterways and ports for inland-waterway traffic which permit the passage of vessels of over 1 350 tonnes;
+
+(b) Trading ports, piers for loading and unloading connected to land and outside ports (excluding ferry piers) which can take vessels of over 1 350 tonnes.
+
+9\. Waste disposal installations for the incineration, chemical treatment as defined in Annex I to Directive 2008/98/EC of the European Parliament and of the Council of 19 November 2008 on waste ( 11 ) under heading D9, or landfill of hazardous waste, as defined in point 2 of Article 3 of that Directive.
+
+10\. Waste disposal installations for the incineration or chemical treatment as defined in Annex I to Directive 2008/98/EC under heading D9 of non-hazardous waste with a capacity exceeding 100 tonnes per day.
+
+11\. Groundwater abstraction or artificial groundwater recharge schemes where the annual volume of water abstracted or recharged is equivalent to or exceeds 10 million cubic metres.
+
+12.
+
+(a) Works for the transfer of water resources between river basins where that transfer aims at preventing possible shortages of water and where the amount of water transferred exceeds 100 million cubic metres/year;
+
+(b) In all other cases, works for the transfer of water resources between river basins where the multi-annual average flow of the basin of abstraction exceeds 2 000 million cubic metres/year and where the amount of water transferred exceeds 5 % of that flow.
+
+In both cases transfers of piped drinking water are excluded.
+
+13\. Waste water treatment plants with a capacity exceeding 150 000 population equivalent as defined in point 6 of Article 2 of Council Directive 91/271/EEC of 21 May 1991 concerning urban waste-water treatment ( 12 ).
+
+14\. Extraction of petroleum and natural gas for commercial purposes where the amount extracted exceeds 500 tonnes/day in the case of petroleum and 500 000 cubic metres/day in the case of gas.
+
+15\. Dams and other installations designed for the holding back or permanent storage of water, where a new or additional amount of water held back or stored exceeds 10 million cubic metres.
+
+16\. Pipelines with a diameter of more than 800 mm and a length of more than 40 km:
+
+(a) for the transport of gas, oil, chemicals;
+
+(b) for the transport of carbon dioxide (CO2) streams for the purposes of geological storage, including associated booster stations.
+
+17\. Installations for the intensive rearing of poultry or pigs with more than:
+
+(a) 85 000 places for broilers, 60 000 places for hens;
+
+(b) 3 000 places for production pigs (over 30 kg); or
+
+(c) 900 places for sows.
+
+18\. Industrial plants for the production of:
+
+(a) pulp from timber or similar fibrous materials;
+
+(b) paper and board with a production capacity exceeding 200 tonnes per day.
+
+19\. Quarries and open-cast mining where the surface of the site exceeds 25 hectares, or peat extraction, where the surface of the site exceeds 150 hectares.
+
+20\. Construction of overhead electrical power lines with a voltage of 220 kV or more and a length of more than 15 km.
+
+21\. Installations for storage of petroleum, petrochemical, or chemical products with a capacity of 200 000 tonnes or more.
+
+22\. Storage sites pursuant to Directive 2009/31/EC of the European Parliament and of the Council of 23 April 2009 on the geological storage of carbon dioxide ( 13 ).
+
+23\. Installations for the capture of CO2 streams for the purposes of geological storage pursuant to Directive 2009/31/EC from installations covered by this Annex, or where the total yearly capture of CO2 is 1,5 megatonnes or more.
+
+24\. Any change to or extension of projects listed in this Annex where such a change or extension in itself meets the thresholds, if any, set out in this Annex.
+
+## ANNEX II
+
+**PROJECTS REFERRED TO IN ARTICLE 4(2)**
+
+**1\. AGRICULTURE, SILVICULTURE AND AQUACULTURE**
+
+(a) Projects for the restructuring of rural land holdings;
+
+(b) Projects for the use of uncultivated land or semi-natural areas for intensive agricultural purposes;
+
+(c) Water management projects for agriculture, including irrigation and land drainage projects;
+
+(d) Initial afforestation and deforestation for the purposes of conversion to another type of land use;
+
+(e) Intensive livestock installations (projects not included in Annex I);
+
+(f) Intensive fish farming;
+
+(g) Reclamation of land from the sea.
+
+**2\. EXTRACTIVE INDUSTRY**
+
+(a) Quarries, open-cast mining and peat extraction (projects not included in Annex I);
+
+(b) Underground mining;
+
+(c) Extraction of minerals by marine or fluvial dredging;
+
+(d) Deep drillings, in particular:
+
+(i) geothermal drilling;
+
+(ii) drilling for the storage of nuclear waste material;
+
+(iii) drilling for water supplies;
+
+with the exception of drillings for investigating the stability of the soil;
+
+(e) Surface industrial installations for the extraction of coal, petroleum, natural gas and ores, as well as bituminous shale.
+
+**3\. ENERGY INDUSTRY**
+
+(a) Industrial installations for the production of electricity, steam and hot water (projects not included in Annex I);
+
+(b) Industrial installations for carrying gas, steam and hot water; transmission of electrical energy by overhead cables (projects not included in Annex I);
+
+(c) Surface storage of natural gas;
+
+(d) Underground storage of combustible gases;
+
+(e) Surface storage of fossil fuels;
+
+(f) Industrial briquetting of coal and lignite;
+
+(g) Installations for the processing and storage of radioactive waste (unless included in Annex I);
+
+(h) Installations for hydroelectric energy production;
+
+(i) Installations for the harnessing of wind power for energy production (wind farms);
+
+(j) Installations for the capture of CO2 streams for the purposes of geological storage pursuant to Directive 2009/31/EC from installations not covered by Annex I to this Directive.
+
+**4\. PRODUCTION AND PROCESSING OF METALS**
+
+(a) Installations for the production of pig iron or steel (primary or secondary fusion) including continuous casting;
+
+(b) Installations for the processing of ferrous metals:
+
+(i) hot-rolling mills;
+
+(ii) smitheries with hammers;
+
+(iii) application of protective fused metal coats;
+
+(c) Ferrous metal foundries;
+
+(d) Installations for the smelting, including the alloyage, of non-ferrous metals, excluding precious metals, including recovered products (refining, foundry casting, etc.);
+
+(e) Installations for surface treatment of metals and plastic materials using an electrolytic or chemical process;
+
+(f) Manufacture and assembly of motor vehicles and manufacture of motor-vehicle engines;
+
+(g) Shipyards;
+
+(h) Installations for the construction and repair of aircraft;
+
+(i) Manufacture of railway equipment;
+
+(j) Swaging by explosives;
+
+(k) Installations for the roasting and sintering of metallic ores.
+
+**5\. MINERAL INDUSTRY**
+
+(a) Coke ovens (dry coal distillation);
+
+(b) Installations for the manufacture of cement;
+
+(c) Installations for the production of asbestos and the manufacture of asbestos products (projects not included in Annex I);
+
+(d) Installations for the manufacture of glass including glass fibre;
+
+(e) Installations for smelting mineral substances including the production of mineral fibres;
+
+(f) Manufacture of ceramic products by burning, in particular roofing tiles, bricks, refractory bricks, tiles, stoneware or porcelain.
+
+**6\. CHEMICAL INDUSTRY (PROJECTS NOT INCLUDED IN ANNEX I)**
+
+(a) Treatment of intermediate products and production of chemicals;
+
+(b) Production of pesticides and pharmaceutical products, paint and varnishes, elastomers and peroxides;
+
+(c) Storage facilities for petroleum, petrochemical and chemical products.
+
+**7\. FOOD INDUSTRY**
+
+(a) Manufacture of vegetable and animal oils and fats;
+
+(b) Packing and canning of animal and vegetable products;
+
+(c) Manufacture of dairy products;
+
+(d) Brewing and malting;
+
+(e) Confectionery and syrup manufacture;
+
+(f) Installations for the slaughter of animals;
+
+(g) Industrial starch manufacturing installations;
+
+(h) Fish-meal and fish-oil factories;
+
+(i) Sugar factories.
+
+**8\. TEXTILE, LEATHER, WOOD AND PAPER INDUSTRIES**
+
+(a) Industrial plants for the production of paper and board (projects not included in Annex I);
+
+(b) Plants for the pre-treatment (operations such as washing, bleaching, mercerisation) or dyeing of fibres or textiles;
+
+(c) Plants for the tanning of hides and skins;
+
+(d) Cellulose-processing and production installations.
+
+**9\. RUBBER INDUSTRY**
+
+Manufacture and treatment of elastomer-based products.
+
+**10\. INFRASTRUCTURE PROJECTS**
+
+(a) Industrial estate development projects;
+
+(b) Urban development projects, including the construction of shopping centres and car parks;
+
+(c) Construction of railways and intermodal transhipment facilities, and of intermodal terminals (projects not included in Annex I);
+
+(d) Construction of airfields (projects not included in Annex I);
+
+(e) Construction of roads, harbours and port installations, including fishing harbours (projects not included in Annex I);
+
+(f) Inland-waterway construction not included in Annex I, canalisation and flood-relief works;
+
+(g) Dams and other installations designed to hold water or store it on a long-term basis (projects not included in Annex I);
+
+(h) Tramways, elevated and underground railways, suspended lines or similar lines of a particular type, used exclusively or mainly for passenger transport;
+
+(i) Oil and gas pipeline installations and pipelines for the transport of CO2 streams for the purposes of geological storage (projects not included in Annex I);
+
+(j) Installations of long-distance aqueducts;
+
+(k) Coastal work to combat erosion and maritime works capable of altering the coast through the construction, for example, of dykes, moles, jetties and other sea defence works, excluding the maintenance and reconstruction of such works;
+
+(l) Groundwater abstraction and artificial groundwater recharge schemes not included in Annex I;
+
+(m) Works for the transfer of water resources between river basins not included in Annex I.
+
+**11\. OTHER PROJECTS**
+
+(a) Permanent racing and test tracks for motorised vehicles;
+
+(b) Installations for the disposal of waste (projects not included in Annex I);
+
+(c) Waste-water treatment plants (projects not included in Annex I);
+
+(d) Sludge-deposition sites;
+
+(e) Storage of scrap iron, including scrap vehicles;
+
+(f) Test benches for engines, turbines or reactors;
+
+(g) Installations for the manufacture of artificial mineral fibres;
+
+(h) Installations for the recovery or destruction of explosive substances;
+
+(i) Knackers’ yards.
+
+**12\. TOURISM AND LEISURE**
+
+(a) Ski runs, ski lifts and cable cars and associated developments;
+
+(b) Marinas;
+
+(c) Holiday villages and hotel complexes outside urban areas and associated developments;
+
+(d) Permanent campsites and caravan sites;
+
+(e) Theme parks.
+
+13\. (a) Any change or extension of projects listed in Annex I or this Annex, already authorised, executed or in the process of being executed, which may have significant adverse effects on the environment (change or extension not included in Annex I);
+
+(b) Projects in Annex I, undertaken exclusively or mainly for the development and testing of new methods or products and not used for more than two years.
+
+## ANNEX II.A — INFORMATION REFERRED TO IN ARTICLE 4(4) — (INFORMATION TO BE PROVIDED BY THE DEVELOPER ON THE PROJECTS LISTED IN ANNEX II)
+
+1\. A description of the project, including in particular:
+
+(a) a description of the physical characteristics of the whole project and, where relevant, of demolition works;
+
+(b) a description of the location of the project, with particular regard to the environmental sensitivity of geographical areas likely to be affected.
+
+2\. A description of the aspects of the environment likely to be significantly affected by the project.
+
+3\. A description of any likely significant effects, to the extent of the information available on such effects, of the project on the environment resulting from:
+
+(a) the expected residues and emissions and the production of waste, where relevant;
+
+(b) the use of natural resources, in particular soil, land, water and biodiversity.
+
+4\. The criteria of Annex III shall be taken into account, where relevant, when compiling the information in accordance with points 1 to 3.
+
+## ANNEX III — SELECTION CRITERIA REFERRED TO IN ARTICLE 4(3) — (CRITERIA TO DETERMINE WHETHER THE PROJECTS LISTED IN ANNEX II SHOULD BE SUBJECT TO AN ENVIRONMENTAL IMPACT ASSESSMENT)
+
+**1\. Characteristics of projects**
+
+The characteristics of projects must be considered, with particular regard to:
+
+(a) the size and design of the whole project;
+
+(b) cumulation with other existing and/or approved projects;
+
+(c) the use of natural resources, in particular land, soil, water and biodiversity;
+
+(d) the production of waste;
+
+(e) pollution and nuisances;
+
+(f) the risk of major accidents and/or disasters which are relevant to the project concerned, including those caused by climate change, in accordance with scientific knowledge;
+
+(g) the risks to human health (for example due to water contamination or air pollution).
+
+**2\. Location of projects**
+
+The environmental sensitivity of geographical areas likely to be affected by projects must be considered, with particular regard to:
+
+(a) the existing and approved land use;
+
+(b) the relative abundance, availability, quality and regenerative capacity of natural resources (including soil, land, water and biodiversity) in the area and its underground;
+
+(c) the absorption capacity of the natural environment, paying particular attention to the following areas:
+
+(i) wetlands, riparian areas, river mouths;
+
+(ii) coastal zones and the marine environment;
+
+(iii) mountain and forest areas;
+
+(iv) nature reserves and parks;
+
+(v) areas classified or protected under national legislation; Natura 2000 areas designated by Member States pursuant to Directive 92/43/EEC and Directive 2009/147/EC;
+
+(vi) areas in which there has already been a failure to meet the environmental quality standards, laid down in Union legislation and relevant to the project, or in which it is considered that there is such a failure;
+
+(vii) densely populated areas;
+
+(viii) landscapes and sites of historical, cultural or archaeological significance.
+
+**3\. Type and characteristics of the potential impact**
+
+The likely significant effects of projects on the environment must be considered in relation to criteria set out in points 1 and 2 of this Annex, with regard to the impact of the project on the factors specified in Article 3(1), taking into account:
+
+(a) the magnitude and spatial extent of the impact (for example geographical area and size of the population likely to be affected);
+
+(b) the nature of the impact;
+
+(c) the transboundary nature of the impact;
+
+(d) the intensity and complexity of the impact;
+
+(e) the probability of the impact;
+
+(f) the expected onset, duration, frequency and reversibility of the impact;
+
+(g) the cumulation of the impact with the impact of other existing and/or approved projects;
+
+(h) the possibility of effectively reducing the impact.
+
+## ANNEX IV — INFORMATION REFERRED TO IN ARTICLE 5(1) — (INFORMATION FOR THE ENVIRONMENTAL IMPACT ASSESSMENT REPORT)
+
+1\. Description of the project, including in particular:
+
+(a) a description of the location of the project;
+
+(b) a description of the physical characteristics of the whole project, including, where relevant, requisite demolition works, and the land-use requirements during the construction and operational phases;
+
+(c) a description of the main characteristics of the operational phase of the project (in particular any production process), for instance, energy demand and energy used, nature and quantity of the materials and natural resources (including water, land, soil and biodiversity) used;
+
+(d) an estimate, by type and quantity, of expected residues and emissions (such as water, air, soil and subsoil pollution, noise, vibration, light, heat, radiation) and quantities and types of waste produced during the construction and operation phases.
+
+2\. A description of the reasonable alternatives (for example in terms of project design, technology, location, size and scale) studied by the developer, which are relevant to the proposed project and its specific characteristics, and an indication of the main reasons for selecting the chosen option, including a comparison of the environmental effects.
+
+3\. A description of the relevant aspects of the current state of the environment (baseline scenario) and an outline of the likely evolution thereof without implementation of the project as far as natural changes from the baseline scenario can be assessed with reasonable effort on the basis of the availability of environmental information and scientific knowledge.
+
+4\. A description of the factors specified in Article 3(1) likely to be significantly affected by the project: population, human health, biodiversity (for example fauna and flora), land (for example land take), soil (for example organic matter, erosion, compaction, sealing), water (for example hydromorphological changes, quantity and quality), air, climate (for example greenhouse gas emissions, impacts relevant to adaptation), material assets, cultural heritage, including architectural and archaeological aspects, and landscape.
+
+5\. A description of the likely significant effects of the project on the environment resulting from, inter alia:
+
+(a) the construction and existence of the project, including, where relevant, demolition works;
+
+(b) the use of natural resources, in particular land, soil, water and biodiversity, considering as far as possible the sustainable availability of these resources;
+
+(c) the emission of pollutants, noise, vibration, light, heat and radiation, the creation of nuisances, and the disposal and recovery of waste;
+
+(d) the risks to human health, cultural heritage or the environment (for example due to accidents or disasters);
+
+(e) the cumulation of effects with other existing and/or approved projects, taking into account any existing environmental problems relating to areas of particular environmental importance likely to be affected or the use of natural resources;
+
+(f) the impact of the project on climate (for example the nature and magnitude of greenhouse gas emissions) and the vulnerability of the project to climate change;
+
+(g) the technologies and the substances used.
+
+The description of the likely significant effects on the factors specified in Article 3(1) should cover the direct effects and any indirect, secondary, cumulative, transboundary, short-term, medium-term and long-term, permanent and temporary, positive and negative effects of the project. This description should take into account the environmental protection objectives established at Union or Member State level which are relevant to the project.
+
+6\. A description of the forecasting methods or evidence, used to identify and assess the significant effects on the environment, including details of difficulties (for example technical deficiencies or lack of knowledge) encountered compiling the required information and the main uncertainties involved.
+
+7\. A description of the measures envisaged to avoid, prevent, reduce or, if possible, offset any identified significant adverse effects on the environment and, where appropriate, of any proposed monitoring arrangements (for example the preparation of a post-project analysis). That description should explain the extent, to which significant adverse effects on the environment are avoided, prevented, reduced or offset, and should cover both the construction and operational phases.
+
+8\. A description of the expected significant adverse effects of the project on the environment deriving from the vulnerability of the project to risks of major accidents and/or disasters which are relevant to the project concerned. Relevant information available and obtained through risk assessments pursuant to Union legislation such as Directive 2012/18/EU of the European Parliament and of the Council ( 14 ) or Council Directive 2009/71/Euratom ( 15 ) or relevant assessments carried out pursuant to national legislation may be used for this purpose provided that the requirements of this Directive are met. Where appropriate, this description should include measures envisaged to prevent or mitigate the significant adverse effects of such events on the environment and details of the preparedness for and proposed response to such emergencies.
+
+9\. A non-technical summary of the information provided under points 1 to 8.
+
+10\. A reference list detailing the sources used for the descriptions and assessments included in the report.
+
+## ANNEX V
+
+**PART A**
+
+**Repealed Directive with list of its successive amendments**
+
+**(referred to in Article 14)**
+
+| Council Directive 85/337/EEC (OJ L 175, 5.7.1985, p. 40) |  |
+| --- | --- |
+| Council Directive 97/11/EC (OJ L 73, 14.3.1997, p. 5) |  |
+| Directive 2003/35/EC of the European Parliament and of the Council (OJ L 156, 25.6.2003, p. 17) | Article 3 only |
+| Directive 2009/31/EC of the European Parliament and of the Council (OJ L 140, 5.6.2009, p. 114) | Article 31 only |
+
+**PART B**
+
+**List of time limits for transposition into national law**
+
+**(referred to in Article 14)**
+
+Directive Time limit for transposition
+
+85/337/EEC 3 July 1988
+
+97/11/EC 14 March 1999
+
+2003/35/EC 25 June 2005
+
+2009/31/EC 25 June 2011
+
+## ANNEX VI
+
+**Correlation table**
+
+| Directive 85/337/EEC | This Directive |
+| --- | --- |
+| Article 1(1) | Article 1(1) |
+| Article 1(2), first subparagraph | Article 1(2), introductory wording |
+| Article 1(2), second subparagraph, introductory wording | Article 1(2)(a), introductory wording |
+| Article 1(2), second subparagraph, first indent | Article 1(2), point (a), first indent |
+| Article 1(2), second subparagraph, second indent | Article 1(2), point (a), second indent |
+| Article 1(2), third subparagraph | Article 1(2), point (b) |
+| Article 1(2), fourth subparagraph | Article 1(2), point (c) |
+| Article 1(2), fifth subparagraph | Article 1(2), point (d) |
+| Article 1(2), sixth subparagraph | Article 1(2), point (e) |
+| Article 1(3) | Article 1(2), point (f) |
+| Article 1(4) | Article 1(3) |
+| Article 1(5) | Article 1(4) |
+| Article 2(1) | Article 2(1) |
+| Article 2(2) | Article 2(2) |
+| Article 2(2a) | Article 2(3) |
+| Article 2(3) | Article 2(4) |
+| Article 3, introductory wording | Article 3, introductory wording |
+| Article 3, first indent | Article 3, point (a) |
+| Article 3, second indent | Article 3, point (b) |
+| Article 3, third indent | Article 3, point (c) |
+| Article 3, fourth indent | Article 3, point (d) |
+| Article 4 | Article 4 |
+| Article 5(1) | Article 5(1) |
+| Article 5(2) | Article 5(2) |
+| Article 5(3), introductory wording | Article 5(3), introductory wording |
+| Article 5(3), first indent | Article 5(3), point (a) |
+| Article 5(3), second indent | Article 5(3), point (b) |
+| Article 5(3), third indent | Article 5(3), point (c) |
+| Article 5(3), fourth indent | Article 5(3), point (d) |
+| Article 5(3), fifth indent | Article 5(3), point (e) |
+| Article 5(4) | Article 5(4) |
+| Article 6 | Article 6 |
+| Article 7(1), introductory wording | Article 7(1), first subparagraph, introductory wording |
+| Article 7(1), point (a) | Article 7(1), first subparagraph, point (a) |
+| Article 7(1), point (b) | Article 7(1), first subparagraph, point (b) |
+| Article 7(1), final wording | Article 7(1), second subparagraph |
+| Article 7(2)-7(5) | Article 7(2)-7(5) |
+| Article 8 | Article 8 |
+| Article 9(1), introductory wording | Article 9, introductory wording |
+| Article 9(1), first indent | Article 9(1), point (a) |
+| Article 9(1), second indent | Article 9(1), point (b) |
+| Article 9(1), third indent | Article 9(1), point (c) |
+| Article 9(2) | Article 9(2) |
+| Article 10 | Article 10 |
+| Article 10a, first paragraph | Article 11(1) |
+| Article 10a, second paragraph | Article 11(2) |
+| Article 10a, third paragraph | Article 11(3) |
+| Article 10a, fourth and fifth paragraphs | Article 11(4), first and second subparagraphs |
+| Article 10a, sixth paragraph | Article 11(5) |
+| Article 11(1) | Article 12(1) |
+| Article 11(2) | Article 12(2) |
+| Article 11(3) | — |
+| Article 11(4) | Article 12(3) |
+| Article 12(1) | — |
+| Article 12(2) | Article 13 |
+| — | Article 14 |
+| — | Article 15 |
+| Article 14 | Article 16 |
+| Annex I, point 1 | Annex I, point 1 |
+| Annex I, point 2, first indent | Annex I, point 2(a) |
+| Annex I, point 2, second indent | Annex I, point 2(b) |
+| Annex I, point 3(a) | Annex I, point 3(a) |
+| Annex I, point 3(b), introductory wording | Annex I, point 3(b), introductory wording |
+| Annex I, point 3(b), first indent | Annex I, point 3(b)(i) |
+| Annex I, point 3(b), second indent | Annex I, point 3(b)(ii) |
+| Annex I, point 3(b), third indent | Annex I, point 3(b)(iii) |
+| Annex I, point 3(b), fourth indent | Annex I, point 3(b)(iv) |
+| Annex I, point 3(b), fifth indent | Annex I, point 3(b)(v) |
+| Annex I, point 4, first indent | Annex I, point 4(a) |
+| Annex I, point 4, second indent | Annex I, point 4(b) |
+| Annex I, point 5 | Annex I, point 5 |
+| Annex I, point 6, introductory wording | Annex I, point 6, introductory wording |
+| Annex I, point 6(i) | Annex I, point 6(a) |
+| Annex I, point 6(ii) | Annex I, point 6(b) |
+| Annex I, point 6(iii) | Annex I, point 6(c) |
+| Annex I, point 6(iv) | Annex I, point 6(d) |
+| Annex I, point 6(v) | Annex I, point 6(e) |
+| Annex I, point 6(vi) | Annex I, point 6(f) |
+| Annex I, points 7-15 | Annex I, points 7-15 |
+| Annex I, point 16, introductory wording | Annex I, point 16, introductory wording |
+| Annex I, point 16, first indent | Annex I, point 16(a) |
+| Annex I, point 16, second indent | Annex I, point 16(b) |
+| Annex I, points 17-21 | Annex I, points 17-21 |
+| Annex I, point 22 | Annex I, point 24 |
+| Annex I, point 23 | Annex I, point 22 |
+| Annex I, point 24 | Annex I, point 23 |
+| Annex II, point 1 | Annex II, point 1 |
+| Annex II, point 2(a), (b) and (c) | Annex II, point 2(a), (b) and (c) |
+| Annex II, point 2(d), introductory wording | Annex II, point 2(d), introductory wording |
+| Annex II, point 2(d), first indent | Annex II, point 2(d)(i) |
+| Annex II, point 2(d), second indent | Annex II, point 2(d)(ii) |
+| Annex II, point 2(d), third indent | Annex II, point 2(d)(iii) |
+| Annex II, point 2(d), final wording | Annex II, point 2(d), final wording |
+| Annex II, point 2(e) | Annex II, point 2(e) |
+| Annex II, points 3-12 | Annex II, points 3-12 |
+| Annex II, point 13, first indent | Annex II, point 13(a) |
+| Annex II, point 13, second indent | Annex II, point 13(b) |
+| Annex III, point 1, introductory wording | Annex III, point 1, introductory wording |
+| Annex III, point 1, first indent | Annex III, point 1(a) |
+| Annex III, point 1, second indent | Annex III, point 1(b) |
+| Annex III, point 1, third indent | Annex III, point 1(c) |
+| Annex III, point 1, fourth indent | Annex III, point 1(d) |
+| Annex III, point 1, fifth indent | Annex III, point 1(e) |
+| Annex III, point 1, sixth indent | Annex III, point 1(f) |
+| Annex III, point 2, introductory wording | Annex III, point 2, introductory wording |
+| Annex III, point 2, first indent | Annex III, point 2(a) |
+| Annex III, point 2, second indent | Annex III, point 2(b) |
+| Annex III, point 2, third indent, introductory wording | Annex III, point 2(c), introductory wording |
+| Annex III, point 2, third indent, point (a) | Annex III, point 2(c)(i) |
+| Annex III, point 2, third indent, point (b) | Annex III, point 2(c)(ii) |
+| Annex III, point 2, third indent, point (c) | Annex III, point 2(c)(iii) |
+| Annex III, point 2, third indent, point (d) | Annex III, point 2(c)(iv) |
+| Annex III, point 2, third indent, point (e) | Annex III, point 2(c)(v) |
+| Annex III, point 2, third indent, point (f) | Annex III, point 2(c)(vi) |
+| Annex III, point 2, third indent, point (g) | Annex III, point 2(c)(vii) |
+| Annex III, point 2, third indent, point (h) | Annex III, point 2(c)(viii) |
+| Annex III, point 3, introductory wording | Annex III, point 3, introductory wording |
+| Annex III, point 3, first indent | Annex III, point 3(a) |
+| Annex III, point 3, second indent | Annex III, point 3(b) |
+| Annex III, point 3, third indent | Annex III, point 3(c) |
+| Annex III, point 3, fourth indent | Annex III, point 3(d) |
+| Annex III, point 3, fifth indent | Annex III, point 3(e) |
+| Annex IV, point 1, introductory wording | Annex IV, point 1, introductory wording |
+| Annex IV, point 1, first indent | Annex IV, point 1(a) |
+| Annex IV, point 1, second indent | Annex IV, point 1(b) |
+| Annex IV, point 1, third indent | Annex IV, point 1(c) |
+| Annex IV, points 2 and 3 | Annex IV, points 2 and 3 |
+| Annex IV, point 4, introductory wording | Annex IV, point 4, first subparagraph, introductory wording |
+| Annex IV, point 4, first indent | Annex IV, point 4, first subparagraph, point (a) |
+| Annex IV, point 4, second indent | Annex IV, point 4, first subparagraph, point (b) |
+| Annex IV, point 4, third indent | Annex IV, point 4, first subparagraph, point (c) |
+| Annex IV, point 4, final wording | Annex IV, point 5 |
+| Annex IV, point 5 | Annex IV, point 6 |
+| Annex IV, point 6 | Annex IV, point 7 |
+| Annex IV, point 7 | Annex IV, point 8 |
+| — | Annex V |
+| — | Annex VI |
+
+( 1 ) OJ C 248, 25.8.2011, p. 154.
+
+( 2 ) Position of the European Parliament of 13 September 2011 (not yet published in the Official Journal) and decision of the Council of 15 November 2011.
+
+( 3 ) OJ L 175, 5.7.1985, p. 40.
+
+( 4 ) See Annex VI, Part A.
+
+( 5 ) Council Directive 92/43/EEC of 21 May 1992 on the conservation of natural habitats and of wild fauna and flora (OJ L 206, 22.7.1992, p. 7).
+
+( 6 ) Directive 2009/147/EC of the European Parliament and of the Council of 30 November 2009 on the conservation of wild birds (OJ L 20, 26.1.2010, p. 7).
+
+( 7 ) OJ L 41, 14.2.2003, p. 26.
+
+( 8 ) Nuclear power stations and other nuclear reactors cease to be such an installation when all nuclear fuel and other radioactively contaminated elements have been removed permanently from the installation site.
+
+( 9 ) For the purposes of this Directive, ‘airport’ means an airport which complies with the definition in the 1944 Chicago Convention setting up the International Civil Aviation Organisation (Annex 14).
+
+( 10 ) For the purposes of this Directive, ‘express road’ means a road which complies with the definition in the European Agreement on Main International Traffic Arteries of 15 November 1975.
+
+( 11 ) OJ L 312, 22.11.2008, p. 3.
+
+( 12 ) OJ L 135, 30.5.1991, p. 40.
+
+( 13 ) OJ L 140, 5.6.2009, p. 114.
+
+( 14 ) Directive 2012/18/EU of the European Parliament and the Council of 4 July 2012 on the control of major-accident hazards involving dangerous substances, amending and subsequently repealing Council Directive 96/82/EC (OJ L 197, 24.7.2012, p. 1).
+
+( 15 ) Council Directive 2009/71/Euratom of 25 June 2009 establishing a Community framework for the nuclear safety of nuclear installations (OJ L 172, 2.7.2009, p. 18).

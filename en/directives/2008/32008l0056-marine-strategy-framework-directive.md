@@ -1,0 +1,678 @@
+---
+title: "Directive 2008/56/EC of the European Parliament and of the Council of 17 June 2008 establishing a framework for community action in the field of marine environmental policy (Marine Strategy Framework Directive) (Text with EEA relevance)"
+identifier: "32008L0056"
+eli: "http://data.europa.eu/eli/dir/2008/56/oj"
+type: directive
+jurisdiction: eu
+language: en
+date: 2008-06-17
+entry_into_force: 2008-12-19
+last_amended: 2017-06-07
+consolidated_version: "02008L0056-20170607"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02008L0056-20170607"
+retrieved: 2026-10-11
+---
+
+# Directive 2008/56/EC of the European Parliament and of the Council of 17 June 2008 establishing a framework for community action in the field of marine environmental policy (Marine Strategy Framework Directive) (Text with EEA relevance)
+
+**DIRECTIVE 2008/56/EC OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 17 June 2008**
+
+**establishing a framework for community action in the field of marine environmental policy (Marine Strategy Framework Directive)**
+
+**(Text with EEA relevance)**
+
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> COMMISSION DIRECTIVE (EU) 2017/845 of 17 May 2017 </td><td> L 125</td><td>27</td><td>18.5.2017</td></tr>
+
+**DIRECTIVE 2008/56/EC OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 17 June 2008**
+
+**establishing a framework for community action in the field of marine environmental policy (Marine Strategy Framework Directive)**
+
+**(Text with EEA relevance)**
+
+## CHAPTER I — GENERAL PROVISIONS
+
+### Article 1 — Subject matter
+
+1\. This Directive establishes a framework within which Member States shall take the necessary measures to achieve or maintain good environmental status in the marine environment by the year 2020 at the latest.
+
+2\. For that purpose, marine strategies shall be developed and implemented in order to:
+
+(a) protect and preserve the marine environment, prevent its deterioration or, where practicable, restore marine ecosystems in areas where they have been adversely affected;
+
+(b) prevent and reduce inputs in the marine environment, with a view to phasing out pollution as defined in Article 3(8), so as to ensure that there are no significant impacts on or risks to marine biodiversity, marine ecosystems, human health or legitimate uses of the sea.
+
+3\. Marine strategies shall apply an ecosystem-based approach to the management of human activities, ensuring that the collective pressure of such activities is kept within levels compatible with the achievement of good environmental status and that the capacity of marine ecosystems to respond to human-induced changes is not compromised, while enabling the sustainable use of marine goods and services by present and future generations.
+
+4\. This Directive shall contribute to coherence between, and aim to ensure the integration of environmental concerns into, the different policies, agreements and legislative measures which have an impact on the marine environment.
+
+### Article 2 — Scope
+
+1\. This Directive shall apply to all marine waters as defined in Article 3(1), and shall take account of the transboundary effects on the quality of the marine environment of third States in the same marine region or subregion.
+
+2\. This Directive shall not apply to activities the sole purpose of which is defence or national security. Member States shall, however, endeavour to ensure that such activities are conducted in a manner that is compatible, so far as reasonable and practicable, with the objectives of this Directive.
+
+### Article 3 — Definitions
+
+For the purposes of this Directive the following definitions shall apply:
+
+1\. ‘marine waters’ means:
+
+(a) waters, the seabed and subsoil on the seaward side of the baseline from which the extent of territorial waters is measured extending to the outmost reach of the area where a Member State has and/or exercises jurisdictional rights, in accordance with the Unclos, with the exception of waters adjacent to the countries and territories mentioned in Annex II to the Treaty and the French Overseas Departments and Collectivities; and
+
+(b) coastal waters as defined by Directive 2000/60/EC, their seabed and their subsoil, in so far as particular aspects of the environmental status of the marine environment are not already addressed through that Directive or other Community legislation;
+
+2\. ‘marine region’ means a sea region which is identified under Article 4. Marine regions and their subregions are designated for the purpose of facilitating implementation of this Directive and are determined taking into account hydrological, oceanographic and biogeographic features;
+
+3\. ‘marine strategy’ means the strategy to be developed and implemented in respect of each marine region or subregion concerned as laid down in Article 5;
+
+4\. ‘environmental status’ means the overall state of the environment in marine waters, taking into account the structure, function and processes of the constituent marine ecosystems together with natural physiographic, geographic, biological, geological and climatic factors, as well as physical, acoustic and chemical conditions, including those resulting from human activities inside or outside the area concerned;
+
+5\. ‘good environmental status’ means the environmental status of marine waters where these provide ecologically diverse and dynamic oceans and seas which are clean, healthy and productive within their intrinsic conditions, and the use of the marine environment is at a level that is sustainable, thus safeguarding the potential for uses and activities by current and future generations, i.e.:
+
+(a) the structure, functions and processes of the constituent marine ecosystems, together with the associated physiographic, geographic, geological and climatic factors, allow those ecosystems to function fully and to maintain their resilience to human-induced environmental change. Marine species and habitats are protected, human-induced decline of biodiversity is prevented and diverse biological components function in balance;
+
+(b) hydro-morphological, physical and chemical properties of the ecosystems, including those properties which result from human activities in the area concerned, support the ecosystems as described above. Anthropogenic inputs of substances and energy, including noise, into the marine environment do not cause pollution effects;
+
+Good environmental status shall be determined at the level of the marine region or subregion as referred to in Article 4, on the basis of the qualitative descriptors in Annex I. Adaptive management on the basis of the ecosystem approach shall be applied with the aim of attaining good environmental status;
+
+6\. ‘criteria’ means distinctive technical features that are closely linked to qualitative descriptors;
+
+7\. ‘environmental target’ means a qualitative or quantitative statement on the desired condition of the different components of, and pressures and impacts on, marine waters in respect of each marine region or subregion. Environmental targets are established in accordance with Article 10;
+
+8\. ‘pollution’ means the direct or indirect introduction into the marine environment, as a result of human activity, of substances or energy, including human-induced marine underwater noise, which results or is likely to result in deleterious effects such as harm to living resources and marine ecosystems, including loss of biodiversity, hazards to human health, the hindering of marine activities, including fishing, tourism and recreation and other legitimate uses of the sea, impairment of the quality for use of sea water and reduction of amenities or, in general, impairment of the sustainable use of marine goods and services;
+
+9\. ‘regional cooperation’ means cooperation and coordination of activities between Member States and, whenever possible, third countries sharing the same marine region or subregion, for the purpose of developing and implementing marine strategies;
+
+10\. ‘regional sea convention’ means any of the international conventions or international agreements together with their governing bodies established for the purpose of protecting the marine environment of the marine regions referred to in Article 4, such as the Convention on the Protection of the Marine Environment of the Baltic Sea, the Convention for the Protection of the Marine Environment of the North-east Atlantic and the Convention for the Marine Environment and the Coastal Region of the Mediterranean Sea.
+
+### Article 4 — Marine regions or subregions
+
+1\. Member States shall, when implementing their obligations under this Directive, take due account of the fact that marine waters covered by their sovereignty or jurisdiction form an integral part of the following marine regions:
+
+(a) the Baltic Sea;
+
+(b) the North-east Atlantic Ocean;
+
+(c) the Mediterranean Sea;
+
+(d) the Black Sea.
+
+2\. Member States may, in order to take into account the specificities of a particular area, implement this Directive by reference to subdivisions at the appropriate level of the marine waters referred to in paragraph 1, provided that such subdivisions are delimited in a manner compatible with the following marine subregions:
+
+(a) in the North-east Atlantic Ocean:
+
+(i) the Greater North Sea, including the Kattegat, and the English Channel;
+
+(ii) the Celtic Seas;
+
+(iii) the Bay of Biscay and the Iberian Coast;
+
+(iv) in the Atlantic Ocean, the Macaronesian biogeographic region, being the waters surrounding the Azores, Madeira and the Canary Islands;
+
+(b) in the Mediterranean Sea:
+
+(i) the Western Mediterranean Sea;
+
+(ii) the Adriatic Sea;
+
+(iii) the Ionian Sea and the Central Mediterranean Sea;
+
+(iv) the Aegean-Levantine Sea.
+
+Member States shall inform the Commission of any subdivisions by the date specified in the first subparagraph of Article 26(1) but may revise these upon completion of the initial assessment referred in Article 5(2), point (a)(i).
+
+### Article 5 — Marine strategies
+
+1\. Each Member State shall, in respect of each marine region or subregion concerned, develop a marine strategy for its marine waters in accordance with the plan of action set out in points (a) and (b) of paragraph 2.
+
+2\. Member States sharing a marine region or subregion shall cooperate to ensure that, within each marine region or subregion, the measures required to achieve the objectives of this Directive, in particular the different elements of the marine strategies referred to in points (a) and (b), are coherent and coordinated across the marine region or subregion concerned, in accordance with the following plan of action for which Member States concerned endeavour to follow a common approach:
+
+(a) preparation:
+
+(i) an initial assessment, to be completed by 15 July 2012 of the current environmental status of the waters concerned and the environmental impact of human activities thereon, in accordance with Article 8;
+
+(ii) a determination, to be established by 15 July 2012 of good environmental status for the waters concerned, in accordance with Article 9(1);
+
+(iii) establishment, by 15 July 2012, of a series of environmental targets and associated indicators, in accordance with Article 10(1);
+
+(iv) establishment and implementation, by 15 July 2014 except where otherwise specified in the relevant Community legislation, of a monitoring programme for ongoing assessment and regular updating of targets, in accordance with Article 11(1);
+
+(b) programme of measures:
+
+(i) development, by 2015 at the latest, of a programme of measures designed to achieve or maintain good environmental status, in accordance with Article 13(1), (2) and (3);
+
+(ii) entry into operation of the programme provided for in point (i), by 2016 at the latest, in accordance with Article 13(10).
+
+3\. Member States having borders on the same marine region or subregion covered by this Directive should, where the status of the sea is so critical as to necessitate urgent action, devise a plan of action in accordance with paragraph 1 which includes an earlier entry into operation of programmes of measures as well as possible stricter protective measures, provided that this does not prevent good environmental status from being achieved or maintained in another marine region or subregion. In these cases:
+
+(a) the Member States concerned shall inform the Commission of their revised timetable and proceed accordingly;
+
+(b) the Commission shall be invited to consider providing supportive action to Member States for their enhanced efforts to improve the marine environment by making the region in question a pilot project.
+
+### Article 6 — Regional cooperation
+
+1\. In order to achieve the coordination referred to in Article 5(2), Member States shall, where practical and appropriate, use existing regional institutional cooperation structures, including those under Regional Sea Conventions, covering that marine region or subregion.
+
+2\. For the purpose of establishing and implementing marine strategies, Member States shall, within each marine region or subregion, make every effort, using relevant international forums, including mechanisms and structures of Regional Sea Conventions, to coordinate their actions with third countries having sovereignty or jurisdiction over waters in the same marine region or subregion.
+
+In that context, Member States shall, as far as possible, build upon relevant existing programmes and activities developed in the framework of structures stemming from international agreements such as Regional Sea Conventions.
+
+Coordination and cooperation shall be extended, where appropriate, to all Member States in the catchment area of a marine region or subregion, including land-locked countries, in order to allow Member States within that marine region or subregion to meet their obligations under this Directive, using established cooperation structures prescribed in this Directive or in Directive 2000/60/EC.
+
+### Article 7 — Competent authorities
+
+1\. Member States shall, by 15 July 2010, for each marine region or subregion concerned, designate the authority or authorities competent for the implementation of this Directive with respect to their marine waters.
+
+By 15 January 2011, Member States shall provide the Commission with a list of the competent authorities designated, together with the items of information listed in Annex II.
+
+At the same time, Member States shall send to the Commission a list of their competent authorities as regards those international bodies in which they participate and which are relevant for the implementation of this Directive.
+
+Member States within the catchment area of each marine region or subregion shall also designate the authority or authorities competent for cooperation and coordination as referred to in Article 6.
+
+2\. Member States shall inform the Commission of any changes to the information provided pursuant to paragraph 1 within six months of such a change coming into effect.
+
+## CHAPTER II — MARINE STRATEGIES: PREPARATION
+
+### Article 8 — Assessment
+
+1\. In respect of each marine region or subregion, Member States shall make an initial assessment of their marine waters, taking account of existing data where available and comprising the following:
+
+(a) an analysis of the essential features and characteristics, and current environmental status of those waters, based on the indicative lists of elements set out in Table 1 of Annex III, and covering the physical and chemical features, the habitat types, the biological features and the hydro-morphology;
+
+(b) an analysis of the predominant pressures and impacts, including human activity, on the environmental status of those waters which:
+
+(i) is based on the indicative lists of elements set out in Table 2 of Annex III, and covers the qualitative and quantitative mix of the various pressures, as well as discernible trends;
+
+(ii) covers the main cumulative and synergetic effects; and
+
+(iii) takes account of the relevant assessments which have been made pursuant to existing Community legislation;
+
+(c) an economic and social analysis of the use of those waters and of the cost of degradation of the marine environment.
+
+2\. The analyses referred to in paragraph 1 shall take into account elements regarding coastal, transitional and territorial waters covered by relevant provisions of existing Community legislation, in particular Directive 2000/60/EC. They shall also take into account, or use as their basis, other relevant assessments such as those carried out jointly in the context of Regional Sea Conventions, so as to produce a comprehensive assessment of the status of the marine environment.
+
+3\. In preparing assessments pursuant to paragraph 1, Member States shall, by means of the coordination established pursuant to Articles 5 and 6, make every effort to ensure that:
+
+(a) assessment methodologies are consistent across the marine region or subregion;
+
+(b) transboundary impacts and transboundary features are taken into account.
+
+### Article 9 — Determination of good environmental status
+
+1\. By reference to the initial assessment made pursuant to Article 8(1), Member States shall, in respect of each marine region or subregion concerned, determine, for the marine waters, a set of characteristics for good environmental status, on the basis of the qualitative descriptors listed in Annex I.
+
+Member States shall take into account the indicative lists of elements set out in Table 1 of Annex III and, in particular, physical and chemical features, habitat types, biological features and hydro-morphology.
+
+Member States shall also take into account the pressures or impacts of human activities in each marine region or subregion, having regard to the indicative lists set out in Table 2 of Annex III.
+
+2\. Member States shall notify the Commission of the assessment made pursuant to Article 8(1) and of the determination made pursuant to paragraph 1 of this Article within three months of completion of the latter.
+
+3\. Criteria and methodological standards to be used by the Member States, which are designed to amend non-essential elements of this Directive by supplementing it, shall be laid down, on the basis of Annexes I and III, in accordance with the regulatory procedure with scrutiny referred to in Article 25(3) by 15 July 2010 in such a way as to ensure consistency and to allow for comparison between marine regions or subregions of the extent to which good environmental status is being achieved. Before proposing such criteria and standards the Commission shall consult all interested parties, including Regional Sea Conventions.
+
+### Article 10 — Establishment of environmental targets
+
+1\. On the basis of the initial assessment made pursuant to Article 8(1), Member States shall, in respect of each marine region or subregion, establish a comprehensive set of environmental targets and associated indicators for their marine waters so as to guide progress towards achieving good environmental status in the marine environment, taking into account the indicative lists of pressures and impacts set out in Table 2 of Annex III, and of characteristics set out in Annex IV.
+
+When devising those targets and indicators, Member States shall take into account the continuing application of relevant existing environmental targets laid down at national, Community or international level in respect of the same waters, ensuring that these targets are mutually compatible and that relevant transboundary impacts and transboundary features are also taken into account, to the extent possible.
+
+2\. Member States shall notify the Commission of the environmental targets within three months of their establishment.
+
+### Article 11 — Monitoring programmes
+
+1\. On the basis of the initial assessment made pursuant to Article 8(1), Member States shall establish and implement coordinated monitoring programmes for the ongoing assessment of the environmental status of their marine waters on the basis of the indicative lists of elements set out in Annex III and the list set out in Annex V, and by reference to the environmental targets established pursuant to Article 10.
+
+Monitoring programmes shall be compatible within marine regions or subregions and shall build upon, and be compatible with, relevant provisions for assessment and monitoring laid down by Community legislation, including the Habitats and Birds Directives, or under international agreements.
+
+2\. Member States sharing a marine region or subregion shall draw up monitoring programmes in accordance with paragraph 1 and shall, in the interest of coherence and coordination, endeavour to ensure that:
+
+(a) monitoring methods are consistent across the marine region or subregion so as to facilitate comparability of monitoring results;
+
+(b) relevant transboundary impacts and transboundary features are taken into account.
+
+3\. Member States shall notify the Commission of the monitoring programmes within three months of their establishment.
+
+4\. Specifications and standardised methods for monitoring and assessment which take into account existing commitments and ensure comparability between monitoring and assessment results, and which are designed to amend non-essential elements of this Directive by supplementing it, shall be adopted in accordance with the regulatory procedure with scrutiny referred to in Article 25(3).
+
+### Article 12 — Notifications and Commission’s assessment
+
+On the basis of all the notifications made pursuant to Articles 9(2), 10(2) and 11(3) in respect of each marine region or subregion, the Commission shall assess whether, in the case of each Member State, the elements notified constitute an appropriate framework to meet the requirements of this Directive and may ask the Member State concerned to provide any additional information that is available and necessary.
+
+In drawing up those assessments, the Commission shall consider the coherence of frameworks within the different marine regions or subregions and across the Community.
+
+Within six months of receiving all those notifications, the Commission informs Member States concerned whether, in its opinion, the elements notified are consistent with this Directive and provides guidance on any modifications it considers necessary.
+
+## CHAPTER III — MARINE STRATEGIES: PROGRAMMES OF MEASURES
+
+### Article 13 — Programmes of measures
+
+1\. Member States shall, in respect of each marine region or subregion concerned, identify the measures which need to be taken in order to achieve or maintain good environmental status, as determined pursuant to Article 9(1), in their marine waters.
+
+Those measures shall be devised on the basis of the initial assessment made pursuant to Article 8(1) and by reference to the environmental targets established pursuant to Article 10(1), and taking into consideration the types of measures listed in Annex VI.
+
+2\. Member States shall integrate the measures devised pursuant to paragraph 1 into a programme of measures, taking into account relevant measures required under Community legislation, in particular Directive 2000/60/EC, Council Directive 91/271/EEC of 21 May 1991 concerning urban waste-water treatment ( 1 ) and Directive 2006/7/EC of the European Parliament and of the Council of 15 February 2006 concerning the management of bathing water quality ( 2 ), as well as forthcoming legislation on environmental quality standards in the field of water policy, or international agreements.
+
+3\. When drawing up the programme of measures pursuant to paragraph 2, Member States shall give due consideration to sustainable development and, in particular, to the social and economic impacts of the measures envisaged. To assist the competent authority or authorities referred to in Article 7 to pursue their objectives in an integrated manner, Member States may identify or establish administrative frameworks in order to benefit from such interaction.
+
+Member States shall ensure that measures are cost-effective and technically feasible, and shall carry out impact assessments, including cost-benefit analyses, prior to the introduction of any new measure.
+
+4\. Programmes of measures established pursuant to this Article shall include spatial protection measures, contributing to coherent and representative networks of marine protected areas, adequately covering the diversity of the constituent ecosystems, such as special areas of conservation pursuant to the Habitats Directive, special protection areas pursuant to the Birds Directive, and marine protected areas as agreed by the Community or Member States concerned in the framework of international or regional agreements to which they are parties.
+
+5\. Where Member States consider that the management of a human activity at Community or international level is likely to have a significant impact on the marine environment, particularly in the areas addressed in paragraph 4, they shall, individually or jointly, address the competent authority or international organisation concerned with a view to the consideration and possible adoption of measures that may be necessary in order to achieve the objectives of this Directive, so as to enable the integrity, structure and functioning of ecosystems to be maintained or, where appropriate, restored.
+
+6\. By 2013 at the latest, Member States shall make publicly available, in respect of each marine region or subregion, relevant information on the areas referred to in paragraphs 4 and 5.
+
+7\. Member States shall indicate in their programmes of measures how the measures are to be implemented and how they will contribute to the achievement of the environmental targets established pursuant to Article 10(1).
+
+8\. Member States shall consider the implications of their programmes of measures on waters beyond their marine waters in order to minimise the risk of damage to, and if possible have a positive impact on, those waters.
+
+9\. Member States shall notify the Commission and any other Member State concerned of their programmes of measures, within three months of their establishment.
+
+10\. Subject to Article 16, Member States shall ensure that the programmes are made operational within one year of their establishment.
+
+### Article 14 — Exceptions
+
+1\. A Member State may identify instances within its marine waters where, for any of the reasons listed under points (a) to (d), the environmental targets or good environmental status cannot be achieved in every aspect through measures taken by that Member State, or, for reasons referred to under point (e), they cannot be achieved within the time schedule concerned:
+
+(a) action or inaction for which the Member State concerned is not responsible;
+
+(b) natural causes;
+
+(c) force majeure;
+
+(d) modifications or alterations to the physical characteristics of marine waters brought about by actions taken for reasons of overriding public interest which outweigh the negative impact on the environment, including any transboundary impact;
+
+(e) natural conditions which do not allow timely improvement in the status of the marine waters concerned.
+
+The Member State concerned shall identify such instances clearly in its programme of measures and shall substantiate its view to the Commission. In identifying instances a Member State shall consider the consequences for Member States in the marine region or subregion concerned.
+
+However, the Member State concerned shall take appropriate ad-hoc measures aiming to continue pursuing the environmental targets, to prevent further deterioration in the status of the marine waters affected for reasons identified under points (b), (c) or (d) and to mitigate the adverse impact at the level of the marine region or subregion concerned or in the marine waters of other Member States.
+
+2\. In the situation covered by paragraph 1(d), Member States shall ensure that the modifications or alterations do not permanently preclude or compromise the achievement of good environmental status at the level of the marine region or subregion concerned or in the marine waters of other Member States.
+
+3\. The ad-hoc measures referred to in the third subparagraph of paragraph 1 shall be integrated as far as practicable into the programmes of measures.
+
+4\. Member States shall develop and implement all the elements of marine strategies referred to in Article 5(2), but shall not be required, except in respect of the initial assessment described in Article 8, to take specific steps where there is no significant risk to the marine environment, or where the costs would be disproportionate taking account of the risks to the marine environment, and provided that there is no further deterioration.
+
+Where, for either of these reasons, a Member State does not take any steps, it shall provide the Commission with the necessary justification to substantiate its decision, while avoiding that the achievement of good environmental status be permanently compromised.
+
+### Article 15 — Recommendations for Community action
+
+1\. Where a Member State identifies an issue which has an impact on the environmental status of its marine waters and which cannot be tackled by measures adopted at national level, or which is linked to another Community policy or international agreement, it shall inform the Commission accordingly and provide a justification to substantiate its view.
+
+The Commission shall respond within a period of six months.
+
+2\. Where action by Community institutions is needed, Member States shall make appropriate recommendations to the Commission and the Council for measures regarding the issues referred to in paragraph 1. Unless otherwise specified in relevant Community legislation, the Commission shall respond to any such recommendation within a period of six months and, as appropriate, reflect the recommendations when presenting related proposals to the European Parliament and to the Council.
+
+### Article 16 — Notifications and Commission’s assessment
+
+On the basis of the notifications of programmes of measures made pursuant to Article 13(9), the Commission shall assess whether, in the case of each Member State, the programmes notified constitute an appropriate framework to meet the requirements of this Directive, and may ask the Member State concerned to provide any additional information that is available and necessary.
+
+In drawing up those assessments, the Commission shall consider the coherence of programmes of measures within the different marine regions or subregions and across the Community.
+
+Within six months of receiving all those notifications, the Commission informs Member States concerned whether, in its opinion, the programmes of measures notified are consistent with this Directive and provides guidance on any modifications it considers necessary.
+
+## CHAPTER IV — UPDATING, REPORTS AND PUBLIC INFORMATION
+
+### Article 17 — Updating
+
+1\. Member States shall ensure that, in respect of each marine region or subregion concerned, marine strategies are kept up to date.
+
+2\. For the purposes of paragraph 1, Member States shall review, in a coordinated manner as referred to in Article 5, the following elements of their marine strategies every six years after their initial establishment:
+
+(a) the initial assessment and the determination of good environmental status, as provided for in Articles 8(1) and 9(1) respectively;
+
+(b) the environmental targets established pursuant to Article 10(1);
+
+(c) the monitoring programmes established pursuant to Article 11(1);
+
+(d) the programmes of measures established pursuant to Article 13(2).
+
+3\. Details of any updates made following the reviews provided for in paragraph 2 shall be sent to the Commission, to the Regional Sea Conventions and to any other Member States concerned within three months of their publication in accordance with Article 19(2).
+
+4\. Articles 12 and 16 shall apply mutatis mutandis to this Article.
+
+### Article 18 — Interim reports
+
+Member States shall, within three years of the publication of each programme of measures or update thereof in accordance with Article 19(2), submit to the Commission a brief interim report describing progress in the implementation of that programme.
+
+### Article 19 — Public consultation and information
+
+1\. In accordance with relevant existing Community legislation, Member States shall ensure that all interested parties are given early and effective opportunities to participate in the implementation of this Directive, involving, where possible, existing management bodies or structures, including Regional Sea Conventions, Scientific Advisory Bodies and Regional Advisory Councils.
+
+2\. Member States shall publish, and make available to the public for comment, summaries of the following elements of their marine strategies, or the related updates, as follows:
+
+(a) the initial assessment and the determination of good environmental status, as provided for in Articles 8(1) and 9(1) respectively;
+
+(b) the environmental targets established pursuant to Article 10(1);
+
+(c) the monitoring programmes established pursuant to Article 11(1);
+
+(d) the programmes of measures established pursuant to Article 13(2).
+
+3\. With regard to access to environmental information, Directive 2003/4/EC of the European Parliament and of the Council of 28 January 2003 on public access to environmental information ( 3 ) shall apply.
+
+In accordance with Directive 2007/2/EC, Member States shall provide the Commission, for the performance of its tasks in relation to this Directive, in particular the review of the status of the marine environment in the Community under Article 20(3)(b), with access and use rights in respect of data and information resulting from the initial assessments made pursuant to Article 8 and from the monitoring programmes established pursuant to Article 11.
+
+No later than six months after the data and information resulting from the initial assessment made pursuant to Article 8 and from the monitoring programmes established pursuant to Article 11 have become available, such information and data shall also be made available to the European Environment Agency, for the performance of its tasks.
+
+### Article 20 — Commission reports
+
+1\. The Commission shall publish a first evaluation report on the implementation of this Directive within two years of receiving all programmes of measures and, in any case, by 2019 at the latest.
+
+The Commission shall publish further reports every six years thereafter. It shall submit the reports to the European Parliament and to the Council.
+
+2\. By 15 July 2012 at the latest, the Commission shall publish a report assessing the contribution of this Directive to the implementation of existing obligations, commitments and initiatives of the Member States or the Community at Community or international level in the sphere of environmental protection in marine waters.
+
+That report shall be submitted to the European Parliament and to the Council.
+
+3\. The reports provided for in paragraph 1 shall include the following:
+
+(a) a review of progress in the implementation of this Directive;
+
+(b) a review of the status of the marine environment in the Community, undertaken in coordination with the European Environment Agency and the relevant regional marine and fisheries organisations and conventions;
+
+(c) a survey of the marine strategies, together with suggestions for their improvement;
+
+(d) a summary of the information received from Member States pursuant to Articles 12 and 16 and of the assessments made by the Commission, in accordance with Article 16, in relation to information received from Member States pursuant to Article 15;
+
+(e) a summary of the response to each of the reports submitted to the Commission by Member States pursuant to Article 18;
+
+(f) a summary of the responses to comments made by the European Parliament and the Council on previous marine strategies;
+
+(g) a summary of the contribution made by other relevant Community policies to the attainment of the objectives of this Directive.
+
+### Article 21 — Progress report on protected areas
+
+On the basis of the information provided by the Member States by 2013, the Commission shall report by 2014 on progress in the establishment of marine protected areas, having regard to existing obligations under applicable Community law and international commitments of the Community and the Member States.
+
+The report shall be submitted to the European Parliament and to the Council.
+
+### Article 22 — Community financing
+
+1\. Given the priority inherently attached to the establishment of marine strategies, the implementation of this Directive shall be supported by existing Community financial instruments in accordance with applicable rules and conditions.
+
+2\. The programmes drawn up by the Member States shall be co-financed by the EU in accordance with existing financial instruments.
+
+### Article 23 — Review of this Directive
+
+The Commission shall review this Directive by 15 July 2023 and shall, where appropriate, propose any necessary amendments.
+
+## CHAPTER V — FINAL PROVISIONS
+
+### Article 24 — Technical adaptations
+
+1\. Annexes III, IV and V may be amended in the light of scientific and technical progress in accordance with the regulatory procedure with scrutiny referred to in Article 25(3), taking into account the periods for the review and updating of marine strategies laid down in Article 17(2).
+
+2\. In accordance with the regulatory procedure referred to in Article 25(2):
+
+(a) methodological standards may be adopted for the application of Annexes I, III, IV and V;
+
+(b) technical formats may be adopted for the purposes of transmission and processing of data, including statistical and cartographic data.
+
+### Article 25 — Regulatory Committee
+
+1\. The Commission shall be assisted by a committee.
+
+2\. Where reference is made to this paragraph, Articles 5 and 7 of Decision 1999/468/EC shall apply, having regard to the provisions of Article 8 thereof.
+
+The period laid down in Article 5(6) of Decision 1999/468/EC shall be set at three months.
+
+3\. Where reference is made to this paragraph, Article 5a(1) to (4) and Article 7 of Decision 1999/468/EC shall apply, having regard to the provisions of Article 8 thereof.
+
+### Article 26 — Transposition
+
+1\. Member States shall bring into force the laws, regulations and administrative provisions necessary to comply with this Directive by 15 July 2010 at the latest. They shall forthwith communicate to the Commission the text of those provisions.
+
+When Member States adopt those measures, they shall contain a reference to this Directive or shall be accompanied by such a reference on the occasion of their official publication. The methods of making such reference shall be laid down by Member States.
+
+2\. Member States shall communicate to the Commission the texts of the main measures of national law which they adopt in the field covered by this Directive.
+
+3\. Member States without marine waters shall bring into force only those measures which are necessary to ensure compliance with requirements under Article 6 and Article 7.
+
+Where such measures are already in force in national legislation, Member States concerned shall communicate to the Commission the text of those measures.
+
+### Article 27 — Entry into force
+
+This Directive shall enter into force on the 20th day following its publication in the Official Journal of the European Union.
+
+### Article 28 — Addressees
+
+This Directive is addressed to the Member States.
+
+## ANNEX I
+
+**Qualitative descriptors for determining good environmental status**
+
+**(referred to in Articles 3(5), 9(1), 9(3) and 24)**
+
+(1) Biological diversity is maintained. The quality and occurrence of habitats and the distribution and abundance of species are in line with prevailing physiographic, geographic and climatic conditions.
+
+(2) Non-indigenous species introduced by human activities are at levels that do not adversely alter the ecosystems.
+
+(3) Populations of all commercially exploited fish and shellfish are within safe biological limits, exhibiting a population age and size distribution that is indicative of a healthy stock.
+
+(4) All elements of the marine food webs, to the extent that they are known, occur at normal abundance and diversity and levels capable of ensuring the long-term abundance of the species and the retention of their full reproductive capacity.
+
+(5) Human-induced eutrophication is minimised, especially adverse effects thereof, such as losses in biodiversity, ecosystem degradation, harmful algae blooms and oxygen deficiency in bottom waters.
+
+(6) Sea-floor integrity is at a level that ensures that the structure and functions of the ecosystems are safeguarded and benthic ecosystems, in particular, are not adversely affected.
+
+(7) Permanent alteration of hydrographical conditions does not adversely affect marine ecosystems.
+
+(8) Concentrations of contaminants are at levels not giving rise to pollution effects.
+
+(9) Contaminants in fish and other seafood for human consumption do not exceed levels established by Community legislation or other relevant standards.
+
+(10) Properties and quantities of marine litter do not cause harm to the coastal and marine environment.
+
+(11) Introduction of energy, including underwater noise, is at levels that do not adversely affect the marine environment.
+
+To determine the characteristics of good environmental status in a marine region or subregion as provided for in Article 9(1), Member States shall consider each of the qualitative descriptors listed in this Annex in order to identify those descriptors which are to be used to determine good environmental status for that marine region or subregion. When a Member State considers that it is not appropriate to use one or more of those descriptors, it shall provide the Commission with a justification in the framework of the notification made pursuant to Article 9(2).
+
+## ANNEX II
+
+**Competent authorities**
+
+**(referred to in Article 7(1))**
+
+(1) Name and address of the competent authority or authorities — the official name and address of the competent authority or authorities identified.
+
+(2) Legal status of the competent authority or authorities — a brief description of the legal status of the competent authority, or authorities.
+
+(3) Responsibilities — a brief description of the legal and administrative responsibilities of the competent authority or authorities, and of its role in relation to the marine waters concerned.
+
+(4) Membership — when the competent authority or authorities acts as a coordinating body for other competent authorities, a list of these is required together with a summary of the institutional relationships established in order to ensure coordination.
+
+(5) Regional or subregional coordination — a summary is required of the mechanisms established in order to ensure coordination between the Member States whose marine waters fall within the same marine region or subregion.
+
+## ANNEX III
+
+**Indicative lists of ecosystem elements, anthropogenic pressures and human activities relevant to the marine waters**
+
+**(referred to in Articles 8(1), 9(1), 9(3), 10(1), 11(1) and 24)**
+
+**Table 1**
+
+**Structure, functions and processes of marine ecosystems**
+
+**with particular relevance for point (a) of Article 8(1), and Articles 9 and 11**
+
+| Theme | Ecosystem elements | Possible parameters and characteristics (Note 1) | Relevant qualitative descriptors laid down in Annex I (Notes 2 and 3) |
+| --- | --- | --- | --- |
+| Species | Species groups (Note 4) of marine birds, mammals, reptiles, fish and cephalopods of the marine region or subregion | Spatial and temporal variation per species or population: — distribution, abundance and/or biomass — size, age and sex structure — fecundity, survival and mortality/injury rates — behaviour including movement and migration — habitat for the species (extent, suitability) Species composition of the group | (1); (3) |
+| Habitats | Broad habitat types of the water column (pelagic) and seabed (benthic) (Note 5), or other habitat types, including their associated biological communities throughout the marine region or subregion | Per habitat type: — habitat distribution and extent (and volume, if appropriate) — species composition, abundance and/or biomass (spatial and temporal variation) — size and age structure of species (if appropriate) — physical, hydrological and chemical characteristics Additionally for pelagic habitats: — chlorophyll a concentration — plankton bloom frequencies and spatial extent | (1); (6) |
+| Ecosystems, including food webs | Ecosystem structure, functions and processes, comprising: — physical and hydrological characteristics — chemical characteristics — biological characteristics — functions and processes | Spatial and temporal variation in: — temperature and ice — hydrology (wave and current regimes; upwelling, mixing, residence time, freshwater input; sea level) — bathymetry — turbidity (silt/sediment loads), transparency, sound — seabed substrate and morphology — salinity, nutrients (N, P), organic carbon, dissolved gases (pCO2, O2) and pH — links between habitats and species of marine birds, mammals, reptiles, fish and cephalopods — pelagic-benthic community structure — productivity | (1); (4) |
+
+**Notes related to Table 1**
+
+Note 1: An indicative list of relevant parameters and characteristics for species, habitats and ecosystems is given, reflecting parameters affected by the pressures of Table 2 of this Annex and of relevance to criteria laid down in accordance with Article 9(3). The particular parameters and characteristics to be used for monitoring and assessment should be determined in accordance with the requirements of this Directive, including those of its Articles 8 to 11.
+
+Note 2: The numbers in this column refer to the respective numbered points in Annex I.
+
+Note 3: Only the state-based qualitative descriptors (1), (3), (4) and (6) which have criteria laid down in accordance with Article 9(3) are listed in Table 1. All other, pressure-based, qualitative descriptors under Annex I may be relevant for each theme.
+
+Note 4: These species groups are further specified in Part II of the Annex to Commission Decision (EU) 2017/848 of 17 May 2017 laying down criteria and methodological standards on good environmental status of marine waters and specifications and standardised methods for monitoring and assessment, and repealing Decision 2010/477/EU (see page 43 of this Official Journal).
+
+Note 5: These broad habitat types are further specified in Part II of the Annex to Decision (EU) 2017/848.
+
+**Table 2**
+
+**Anthropogenic pressures, uses and human activities in or affecting the marine environment**
+
+<tbody><tr><td colspan="4">2a. Anthropogenic pressures on the marine environment with particular relevance for points (a) and (b) of Article 8(1), and Articles 9, 10 and 11 </td></tr>
+<tr><td>Theme</td><td>Pressure (Note 1)</td><td>Possible parameters</td><td>Relevant qualitative descriptors laid down in Annex I (Notes 2 and 3)</td></tr>
+<tr><td rowspan="6">Biological</td><td>Input or spread of non-indigenous species</td><td rowspan="16">Intensity of, and spatial and temporal variation in, the pressure in the marine environment and, where relevant, at source For assessment of environmental impacts of the pressure, select relevant ecosystem elements and parameters from Table 1 </td><td>(2)</td></tr>
+<tr><td>Input of microbial pathogens</td><td>  </td></tr>
+<tr><td>Input of genetically modified species and translocation of native species</td><td>  </td></tr>
+<tr><td>Loss of, or change to, natural biological communities due to cultivation of animal or plant species</td><td>  </td></tr>
+<tr><td>Disturbance of species (e.g. where they breed, rest and feed) due to human presence</td><td>  </td></tr>
+<tr><td>Extraction of, or mortality/injury to, wild species (by commercial and recreational fishing and other activities)</td><td>(3)</td></tr>
+<tr><td rowspan="3">Physical</td><td>Physical disturbance to seabed (temporary or reversible)</td><td rowspan="3">(6); (7)</td></tr>
+<tr><td>Physical loss (due to permanent change of seabed substrate or morphology and to extraction of seabed substrate)</td></tr>
+<tr><td>Changes to hydrological conditions</td></tr>
+<tr><td rowspan="7">Substances, litter and energy</td><td>Input of nutrients — diffuse sources, point sources, atmospheric deposition</td><td rowspan="2">(5)</td></tr>
+<tr><td>Input of organic matter — diffuse sources and point sources</td></tr>
+<tr><td>Input of other substances (e.g. synthetic substances, non-synthetic substances, radionuclides) — diffuse sources, point sources, atmospheric deposition, acute events</td><td>(8); (9)</td></tr>
+<tr><td>Input of litter (solid waste matter, including micro-sized litter)</td><td>(10)</td></tr>
+<tr><td>Input of anthropogenic sound (impulsive, continuous)</td><td rowspan="2">(11)</td></tr>
+<tr><td>Input of other forms of energy (including electromagnetic fields, light and heat)</td></tr>
+<tr><td>Input of water — point sources (e.g. brine)</td><td>  </td></tr>
+</tbody>
+
+<tbody><tr><td colspan="2">2b. Uses and human activities in or affecting the marine environment with particular relevance for points (b) and (c) of Article 8(1) (only activities marked * are relevant for point (c) of Article 8(1)), and Articles 10 and 13 </td></tr>
+<tr><td>Theme</td><td>Activity</td></tr>
+<tr><td rowspan="5">Physical restructuring of rivers, coastline or seabed (water management)</td><td>Land claim</td></tr>
+<tr><td>Canalisation and other watercourse modifications</td></tr>
+<tr><td>Coastal defence and flood protection*</td></tr>
+<tr><td>Offshore structures (other than for oil/gas/renewables)*</td></tr>
+<tr><td>Restructuring of seabed morphology, including dredging and depositing of materials*</td></tr>
+<tr><td rowspan="4">Extraction of non-living resources</td><td>Extraction of minerals (rock, metal ores, gravel, sand, shell)*</td></tr>
+<tr><td>Extraction of oil and gas, including infrastructure*</td></tr>
+<tr><td>Extraction of salt*</td></tr>
+<tr><td>Extraction of water*</td></tr>
+<tr><td rowspan="3">Production of energy</td><td>Renewable energy generation (wind, wave and tidal power), including infrastructure*</td></tr>
+<tr><td>Non-renewable energy generation</td></tr>
+<tr><td>Transmission of electricity and communications (cables)*</td></tr>
+<tr><td rowspan="4">Extraction of living resources</td><td>Fish and shellfish harvesting (professional, recreational)*</td></tr>
+<tr><td>Fish and shellfish processing*</td></tr>
+<tr><td>Marine plant harvesting*</td></tr>
+<tr><td>Hunting and collecting for other purposes*</td></tr>
+<tr><td rowspan="4">Cultivation of living resources</td><td>Aquaculture — marine, including infrastructure*</td></tr>
+<tr><td>Aquaculture — freshwater</td></tr>
+<tr><td>Agriculture</td></tr>
+<tr><td>Forestry</td></tr>
+<tr><td rowspan="4">Transport</td><td>Transport infrastructure*</td></tr>
+<tr><td>Transport — shipping*</td></tr>
+<tr><td>Transport — air</td></tr>
+<tr><td>Transport — land</td></tr>
+<tr><td rowspan="3">Urban and industrial uses</td><td>Urban uses</td></tr>
+<tr><td>Industrial uses</td></tr>
+<tr><td>Waste treatment and disposal*</td></tr>
+<tr><td rowspan="2">Tourism and leisure</td><td>Tourism and leisure infrastructure*</td></tr>
+<tr><td>Tourism and leisure activities*</td></tr>
+<tr><td>Security/defence</td><td>Military operations (subject to Article 2(2))</td></tr>
+<tr><td>Education and research</td><td>Research, survey and educational activities*</td></tr>
+</tbody>
+
+**Notes related to Table 2**
+
+Note 1: Assessments of pressures should address their levels in the marine environment and, if appropriate, the rates of input (from land-based or atmospheric sources) to the marine environment.
+
+Note 2: The numbers in this column refer to the respective numbered points in Annex I.
+
+Note 3: Only pressure-based qualitative descriptors (2), (3), (5), (6), (7), (8), (9), (10) and (11), which have criteria laid down in accordance with Article 9(3), are listed in Table 2a. All other, state-based, qualitative descriptors under Annex I may be relevant for each theme.
+
+## ANNEX IV
+
+**Indicative list of characteristics to be taken into account for setting environmental targets**
+
+**(referred to in Articles 10(1) and 24)**
+
+(1) Adequate coverage of the elements characterising marine waters under the sovereignty or jurisdiction of Member States within a marine region or subregion.
+
+(2) Need to set (a) targets establishing desired conditions based on the definition of good environmental status; (b) measurable targets and associated indicators that allow for monitoring and assessment; and (c) operational targets relating to concrete implementation measures to support their achievement.
+
+(3) Specification of environmental status to be achieved or maintained and formulation of that status in terms of measurable properties of the elements characterising the marine waters of a Member State within a marine region or subregion.
+
+(4) Consistency of the set of targets; absence of conflicts between them.
+
+(5) Specification of the resources needed for the achievement of targets.
+
+(6) Formulation of targets, including possible interim targets, with a timescale for their achievement.
+
+(7) Specification of indicators intended to monitor progress and guide management decisions with a view to achieving targets.
+
+(8) Where appropriate, specification of reference points (target and limit reference points).
+
+(9) Due consideration of social and economic concerns in the setting of targets.
+
+(10) Examination of the set of environmental targets, associated indicators and limit and target reference points developed in light of the environmental objectives laid down in Article 1, in order to assess whether the achievement of the targets would lead the marine waters falling under the sovereignty or jurisdiction of Member States within a marine region to a status matching them.
+
+(11) Compatibility of targets with objectives to which the Community and its Member States have committed themselves under relevant international and regional agreements, making use of those that are most relevant for the marine region or subregion concerned with a view to achieving the environmental objectives laid down in Article 1.
+
+(12) When the set of targets and indicators has been assembled, they should be examined together relative to the environmental objectives laid down in Article 1 to assess whether the achievement of the targets would lead the marine environment to a status matching them.
+
+## ANNEX V
+
+**Monitoring programmes**
+
+**(referred to in Articles 11(1) and 24)**
+
+(1) Need to provide information for an assessment of the environmental status and for an estimate of the distance from, and progress towards, good environmental status in accordance with Annex III and with the criteria and methodological standards to be defined pursuant to Article 9(3).
+
+(2) Need to ensure the generation of information enabling the identification of suitable indicators for the environmental targets provided for in Article 10.
+
+(3) Need to ensure the generation of information allowing the assessment of the impact of the measures referred to in Article 13.
+
+(4) Need to include activities to identify the cause of the change and hence the possible corrective measures that would need to be taken to restore the good environmental status, when deviations from the desired status range have been identified.
+
+(5) Need to provide information on chemical contaminants in species for human consumption from commercial fishing areas.
+
+(6) Need to include activities to confirm that the corrective measures deliver the desired changes and not any unwanted side effects.
+
+(7) Need to aggregate the information on the basis of marine regions or subregions in accordance with Article 4.
+
+(8) Need to ensure comparability of assessment approaches and methods within and between marine regions and/or subregions.
+
+(9) Need to develop technical specifications and standardised methods for monitoring at Community level, so as to allow comparability of information.
+
+(10) Need to ensure, as far as possible, compatibility with existing programmes developed at regional and international level with a view to fostering consistency between these programmes and avoiding duplication of effort, making use of those monitoring guidelines that are the most relevant for the marine region or subregion concerned.
+
+(11) Need to include, as part of the initial assessment provided for in Article 8, an assessment of major changes in the environmental conditions as well as, where necessary, new and emerging issues.
+
+(12) Need to address, as part of the initial assessment provided for in Article 8, the relevant elements listed in Annex III including their natural variability and to evaluate the trends towards the achievement of the environmental targets laid down pursuant to Article 10(1), using, as appropriate, the indicators established and their limit or target reference points.
+
+## ANNEX VI
+
+**Programmes of measures**
+
+**(referred to in Articles 13(1) and 24)**
+
+(1) Input controls: management measures that influence the amount of a human activity that is permitted.
+
+(2) Output controls: management measures that influence the degree of perturbation of an ecosystem component that is permitted.
+
+(3) Spatial and temporal distribution controls: management measures that influence where and when an activity is allowed to occur.
+
+(4) Management coordination measures: tools to ensure that management is coordinated.
+
+(5) Measures to improve the traceability, where feasible, of marine pollution.
+
+(6) Economic incentives: management measures which make it in the economic interest of those using the marine ecosystems to act in ways which help to achieve the good environmental status objective.
+
+(7) Mitigation and remediation tools: management tools which guide human activities to restore damaged components of marine ecosystems.
+
+(8) Communication, stakeholder involvement and raising public awareness.
+
+( 1 ) OJ L 135, 30.5.1991, p. 40. Directive as last amended by Regulation (EC) No 1882/2003 of the European Parliament and of the Council (OJ L 284, 31.10.2003, p. 1).
+
+( 2 ) OJ L 64, 4.3.2006, p. 37.
+
+( 3 ) OJ L 41, 14.2.2003, p. 26.

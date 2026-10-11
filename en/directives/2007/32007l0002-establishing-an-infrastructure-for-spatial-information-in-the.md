@@ -1,0 +1,522 @@
+---
+title: "Directive 2007/2/EC of the European Parliament and of the Council of 14 March 2007 establishing an Infrastructure for Spatial Information in the European Community (INSPIRE)"
+identifier: "32007L0002"
+eli: "http://data.europa.eu/eli/dir/2007/2/oj"
+type: directive
+jurisdiction: eu
+language: en
+date: 2007-03-14
+entry_into_force: 2007-07-05
+last_amended: 2024-11-26
+consolidated_version: "02007L0002-20241126"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02007L0002-20241126"
+retrieved: 2026-10-11
+---
+
+# Directive 2007/2/EC of the European Parliament and of the Council of 14 March 2007 establishing an Infrastructure for Spatial Information in the European Community (INSPIRE)
+
+**DIRECTIVE 2007/2/EC OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 14 March 2007**
+
+**establishing an Infrastructure for Spatial Information in the European Community (INSPIRE)**
+
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> REGULATION (EU) 2019/1010 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 5 June 2019 </td><td> L 170</td><td>115</td><td>25.6.2019</td></tr>
+<tr><td></td><td> DECISION (ΕU) 2024/2829 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 23 October 2024 </td><td> L 2829</td><td>1</td><td>6.11.2024</td></tr>
+
+**DIRECTIVE 2007/2/EC OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 14 March 2007**
+
+**establishing an Infrastructure for Spatial Information in the European Community (INSPIRE)**
+
+## CHAPTER I — GENERAL PROVISIONS
+
+### Article 1
+
+1\. The purpose of this Directive is to lay down general rules aimed at the establishment of the Infrastructure for Spatial Information in the European Community (hereinafter referred to as Inspire), for the purposes of Community environmental policies and policies or activities which may have an impact on the environment.
+
+2\. Inspire shall build upon infrastructures for spatial information established and operated by the Member States.
+
+### Article 2
+
+1\. This Directive is without prejudice to Directives 2003/4/EC and 2003/98/EC.
+
+2\. This Directive does not affect the existence or ownership of public authorities' intellectual property rights.
+
+### Article 3
+
+For the purposes of this Directive, the following definitions shall apply:
+
+1\. ‘infrastructure for spatial information’ means metadata, spatial data sets and spatial data services; network services and technologies; agreements on sharing, access and use; and coordination and monitoring mechanisms, processes and procedures, established, operated or made available in accordance with this Directive;
+
+2\. ‘spatial data’ means any data with a direct or indirect reference to a specific location or geographical area;
+
+3\. ‘spatial data set’ means an identifiable collection of spatial data;
+
+4\. ‘spatial data services’ means the operations which may be performed, by invoking a computer application, on the spatial data contained in spatial data sets or on the related metadata;
+
+5\. ‘spatial object’ means an abstract representation of a real-world phenomenon related to a specific location or geographical area;
+
+6\. ‘metadata’ means information describing spatial data sets and spatial data services and making it possible to discover, inventory and use them;
+
+7\. ‘interoperability’ means the possibility for spatial data sets to be combined, and for services to interact, without repetitive manual intervention, in such a way that the result is coherent and the added value of the data sets and services is enhanced;
+
+8\. ‘Inspire geo-portal’ means an Internet site, or equivalent, providing access to the services referred to in Article 11(1);
+
+9\. ‘public authority’ means:
+
+(a) any government or other public administration, including public advisory bodies, at national, regional or local level;
+
+(b) any natural or legal person performing public administrative functions under national law, including specific duties, activities or services in relation to the environment; and
+
+(c) any natural or legal person having public responsibilities or functions, or providing public services relating to the environment under the control of a body or person falling within (a) or (b).
+
+Member States may provide that when bodies or institutions are acting in a judicial or legislative capacity, they are not to be regarded as a public authority for the purposes of this Directive;
+
+10\. ‘third party’ means any natural or legal person other than a public authority.
+
+### Article 4
+
+1\. This Directive shall cover spatial data sets which fulfil the following conditions:
+
+(a) they relate to an area where a Member State has and/or exercises jurisdictional rights;
+
+(b) they are in electronic format;
+
+(c) they are held by or on behalf of any of the following:
+
+(i) a public authority, having been produced or received by a public authority, or being managed or updated by that authority and falling within the scope of its public tasks;
+
+(ii) a third party to whom the network has been made available in accordance with Article 12;
+
+(d) they relate to one or more of the themes listed in Annex I, II or III.
+
+2\. In cases where multiple identical copies of the same spatial data set are held by or on behalf of various public authorities, this Directive shall apply only to the reference version from which the various copies are derived.
+
+3\. This Directive shall also cover the spatial data services relating to the data contained in the spatial data sets referred to in paragraph 1.
+
+4\. This Directive does not require collection of new spatial data.
+
+5\. In the case of spatial data sets which comply with the condition set out in paragraph 1(c), but in respect of which a third party holds intellectual property rights, the public authority may take action under this Directive only with the consent of that third party.
+
+6\. By way of derogation from paragraph 1, this Directive shall cover spatial data sets held by or on behalf of a public authority operating at the lowest level of government within a Member State only if the Member State has laws or regulations requiring their collection or dissemination.
+
+7\. The description of the existing data themes referred to in Annexes I, II and III may be adapted in accordance with the regulatory procedure with scrutiny referred to in Article 22(3), in order to take into account the evolving needs for spatial data in support of Community policies that affect the environment.
+
+## CHAPTER II — METADATA
+
+### Article 5
+
+1\. Member States shall ensure that metadata are created for the spatial data sets and services corresponding to the themes listed in Annexes I, II and III, and that those metadata are kept up to date.
+
+2\. Metadata shall include information on the following:
+
+(a) the conformity of spatial data sets with the implementing rules provided for in Article 7(1);
+
+(b) conditions applying to access to, and use of, spatial data sets and services and, where applicable, corresponding fees;
+
+(c) the quality and validity of spatial data sets;
+
+(d) the public authorities responsible for the establishment, management, maintenance and distribution of spatial data sets and services;
+
+(e) limitations on public access and the reasons for such limitations, in accordance with Article 13.
+
+3\. Member States shall take the necessary measures to ensure that metadata are complete and of a quality sufficient to fulfil the purpose set out in point (6) of Article 3.
+
+4\. Rules for the implementation of this Article shall be adopted by 15 May 2008 in accordance with the regulatory procedure referred to in Article 22(2). These rules shall take account of relevant, existing international standards and user requirements, in particular with relation to validation metadata.
+
+### Article 6
+
+Member States shall create the metadata referred to in Article 5 in accordance with the following timetable:
+
+(a) not later than two years after the date of adoption of implementing rules in accordance with Article 5(4) in the case of the spatial data sets corresponding to the themes listed in Annexes I and II;
+
+(b) not later than five years after the date of adoption of implementing rules in accordance with Article 5(4) in the case of the spatial data sets corresponding to the themes listed in Annex III.
+
+## CHAPTER III — INTEROPERABILITY OF SPATIAL DATA SETS AND SERVICES
+
+### Article 7
+
+1\. Implementing rules laying down technical arrangements for the interoperability and, where practicable, harmonisation of spatial data sets and services, designed to amend non-essential elements of this Directive by supplementing it, shall be adopted in accordance with the regulatory procedure with scrutiny referred to in Article 22(3). Relevant user requirements, existing initiatives and international standards for the harmonisation of spatial data sets, as well as feasibility and cost-benefit considerations shall be taken into account in the development of the implementing rules. Where organisations established under international law have adopted relevant standards to ensure interoperability or harmonisation of spatial data sets and services, these standards shall be integrated, and the existing technical means shall be referred to, if appropriate, in the implementing rules mentioned in this paragraph.
+
+2\. As a basis for developing the implementing rules provided for in paragraph 1, the Commission shall undertake analyses to ensure that the rules are feasible and proportionate in terms of their likely costs and benefits and shall share the results of such analyses with the committee referred to in Article 22(1). Member States shall, on request, provide the Commission with the information necessary to enable it to undertake such analyses.
+
+3\. Member States shall ensure that all newly collected and extensively restructured spatial data sets and the corresponding spatial data services are available in conformity with the implementing rules referred to in paragraph 1 within two years of their adoption, and that other spatial data sets and services still in use are available in conformity with the implementing rules within seven years of their adoption. Spatial data sets shall be made available in conformity with the implementing rules either through the adaptation of existing spatial data sets or through the transformation services referred to point (d) of Article 11(1).
+
+4\. Implementing rules referred to in paragraph 1 shall cover the definition and classification of spatial objects relevant to spatial data sets related to the themes listed in Annex I, II or III and the way in which those spatial data are geo-referenced.
+
+5\. Representatives of Member States at national, regional and local level as well as other natural or legal persons with an interest in the spatial data concerned by virtue of their role in the infrastructure for spatial information, including users, producers, added value service providers or any coordinating body shall be given the opportunity to participate in preparatory discussions on the content of the implementing rules referred to in paragraph 1, prior to consideration by the Committee referred to in Article 22(1).
+
+### Article 8
+
+1\. In the case of spatial data sets corresponding to one or more of the themes listed in Annex I or II, the implementing rules provided for in Article 7(1) shall meet the conditions laid down in paragraphs 2, 3 and 4 of this Article.
+
+2\. The implementing rules shall address the following aspects of spatial data:
+
+(a) a common framework for the unique identification of spatial objects, to which identifiers under national systems can be mapped in order to ensure interoperability between them;
+
+(b) the relationship between spatial objects;
+
+(c) the key attributes and the corresponding multilingual thesauri commonly required for policies which may have an impact on the environment;
+
+(d) information on the temporal dimension of the data;
+
+(e) updates of the data.
+
+3\. The implementing rules shall be designed to ensure consistency between items of information which refer to the same location or between items of information which refer to the same object represented at different scales.
+
+4\. The implementing rules shall be designed to ensure that information derived from different spatial data sets is comparable as regards the aspects referred to in Article 7(4) and in paragraph 2 of this Article.
+
+### Article 9
+
+The implementing rules provided for in Article 7(1) shall be adopted in accordance with the following timetable:
+
+(a) no later than 15 May 2009 in the case of the spatial data sets corresponding to the themes listed in Annex I;
+
+(b) no later than 15 May 2012 in the case of the spatial data sets corresponding to the themes listed in Annex II or III.
+
+### Article 10
+
+1\. Member States shall ensure that any information, including data, codes and technical classifications, needed for compliance with the implementing rules provided for in Article 7(1) is made available to public authorities or third parties in accordance with conditions that do not restrict its use for that purpose.
+
+2\. In order to ensure that spatial data relating to a geographical feature, the location of which spans the frontier between two or more Member States, are coherent, Member States shall, where appropriate, decide by mutual consent on the depiction and position of such common features.
+
+## CHAPTER IV — NETWORK SERVICES
+
+### Article 11
+
+1\. Member States shall establish and operate a network of the following services for the spatial data sets and services for which metadata have been created in accordance with this Directive:
+
+(a) discovery services making it possible to search for spatial data sets and services on the basis of the content of the corresponding metadata and to display the content of the metadata;
+
+(b) view services making it possible, as a minimum, to display, navigate, zoom in/out, pan, or overlay viewable spatial data sets and to display legend information and any relevant content of metadata;
+
+(c) download services, enabling copies of spatial data sets, or parts of such sets, to be downloaded and, where practicable, accessed directly;
+
+(d) transformation services, enabling spatial data sets to be transformed with a view to achieving interoperability;
+
+(e) services allowing spatial data services to be invoked.
+
+Those services shall take into account relevant user requirements and shall be easy to use, available to the public and accessible via the Internet or any other appropriate means of telecommunication.
+
+2\. For the purposes of the services referred to in point (a) of paragraph 1, as a minimum the following combination of search criteria shall be implemented:
+
+(a) keywords;
+
+(b) classification of spatial data and services;
+
+(c) the quality and validity of spatial data sets;
+
+(d) degree of conformity with the implementing rules provided for in Article 7(1);
+
+(e) geographical location;
+
+(f) conditions applying to the access to and use of spatial data sets and services;
+
+(g) the public authorities responsible for the establishment, management, maintenance and distribution of spatial data sets and services.
+
+3\. The transformation services referred to in point (d) of paragraph 1 shall be combined with the other services referred to in that paragraph in such a way as to enable all those services to be operated in conformity with the implementing rules provided for in Article 7(1).
+
+### Article 12
+
+Member States shall ensure that public authorities are given the technical possibility to link their spatial data sets and services to the network referred to in Article 11(1). This service shall also be made available upon request to third parties whose spatial data sets and services comply with implementing rules laying down obligations with regard, in particular, to metadata, network services and interoperability.
+
+### Article 13
+
+1\. By way of derogation from Article 11(1), Member States may limit public access to spatial data sets and services through the services referred to in point (a) of Article 11(1) where such access would adversely affect international relations, public security or national defence.
+
+By way of derogation from Article 11(1), Member States may limit public access to spatial data sets and services through the services referred to in points (b) to (e) of Article 11(1), or to the e-commerce services referred to in Article 14(3), where such access would adversely affect any of the following:
+
+(a) the confidentiality of the proceedings of public authorities, where such confidentiality is provided for by law;
+
+(b) international relations, public security or national defence;
+
+(c) the course of justice, the ability of any person to receive a fair trial or the ability of a public authority to conduct an enquiry of a criminal or disciplinary nature;
+
+(d) the confidentiality of commercial or industrial information, where such confidentiality is provided for by national or Community law to protect a legitimate economic interest, including the public interest in maintaining statistical confidentiality and tax secrecy;
+
+(e) intellectual property rights;
+
+(f) the confidentiality of personal data and/or files relating to a natural person where that person has not consented to the disclosure of the information to the public, where such confidentiality is provided for by national or Community law;
+
+(g) the interests or protection of any person who supplied the information requested on a voluntary basis without being under, or capable of being put under, a legal obligation to do so, unless that person has consented to the release of the information concerned;
+
+(h) the protection of the environment to which such information relates, such as the location of rare species.
+
+2\. The grounds for limiting access, as provided for in paragraph 1, shall be interpreted in a restrictive way, taking into account for the particular case the public interest served by providing this access. In every particular case, the public interest served by disclosure shall be weighed against the interest served by limiting or conditioning the access. Member States may not, by virtue of points (a), (d), (f), (g) and (h) of paragraph 1, limit access to information on emissions into the environment.
+
+3\. Within this framework, and for the purposes of the application of point (f) of paragraph 1, Member States shall ensure that the requirements of Directive 95/46/EC are complied with.
+
+### Article 14
+
+1\. Member States shall ensure that the services referred to in points (a) and (b) of Article 11(1) are available to the public free of charge.
+
+2\. By way of derogation from paragraph 1, Member States may allow a public authority supplying a service referred to in point (b) of Article 11(1) to apply charges where such charges secure the maintenance of spatial data sets and corresponding data services, especially in cases involving very large volumes of frequently updated data.
+
+3\. Data made available through the view services referred to in point (b) of Article 11(1) may be in a form preventing their re-use for commercial purposes.
+
+4\. Where public authorities levy charges for the services referred to in points (b), (c) or (e) of Article 11(1), Member States shall ensure that e-commerce services are available. Such services may be covered by disclaimers, click-licences or, where necessary, licences.
+
+### Article 15
+
+1\. The Commission shall establish and operate an Inspire geo-portal at Community level.
+
+2\. Member States shall provide access to the services referred to in Article 11(1) through the Inspire geo-portal referred to in paragraph 1. Member States may also provide access to those services through their own access points.
+
+### Article 16
+
+Rules for implementation designed to amend non-essential elements of this Chapter by supplementing it, shall be adopted in accordance with the regulatory procedure with scrutiny referred to in Article 22(3), and shall in particular lay down the following:
+
+(a) technical specifications for the services referred to in Articles 11 and 12 and minimum performance criteria for those services, taking account of existing reporting requirements and recommendations adopted within the framework of Community environmental legislation, existing e-commerce services and technological progress;
+
+(b) the obligations referred to in Article 12.
+
+## CHAPTER V — DATA-SHARING
+
+### Article 17
+
+1\. Each Member State shall adopt measures for the sharing of spatial data sets and services between its public authorities referred to in point (9)(a) and (b) of Article 3. Those measures shall enable those public authorities to gain access to spatial data sets and services, and to exchange and use those sets and services, for the purposes of public tasks that may have an impact on the environment.
+
+2\. The measures provided for in paragraph 1 shall preclude any restrictions likely to create practical obstacles, occurring at the point of use, to the sharing of spatial data sets and services.
+
+3\. Member States may allow public authorities that supply spatial data sets and services to license them to, and/or require payment from, the public authorities or institutions and bodies of the Community that use these spatial data sets and services. Any such charges and licenses must be fully compatible with the general aim of facilitating the sharing of spatial data sets and services between public authorities. Where charges are made, these shall be kept to the minimum required to ensure the necessary quality and supply of spatial data sets and services together with a reasonable return on investment, while respecting the self-financing requirements of public authorities supplying spatial data sets and services, where applicable. Spatial data sets and services provided by Member States to Community institutions and bodies in order to fulfil their reporting obligations under Community legislation relating to the environment shall not be subject to any charging.
+
+4\. The arrangements for the sharing of spatial data sets and services provided for in paragraphs 1, 2 and 3 shall be open to public authorities referred to in point (9)(a) and (b) of Article 3 of other Member States and to the institutions and bodies of the Community, for the purposes of public tasks that may have an impact on the environment.
+
+5\. The arrangements for the sharing of spatial data sets and services provided for in paragraphs 1, 2 and 3 shall be open, on a reciprocal and equivalent basis, to bodies established by international agreements to which the Community and Member States are parties, for the purposes of tasks that may have an impact on the environment.
+
+6\. Where the arrangements for the sharing of spatial data sets and services provided for in paragraphs 1, 2 and 3 are made available in accordance with paragraphs 4 and 5, these arrangements may be accompanied by requirements under national law conditioning their use.
+
+7\. By way of derogation from this Article, Member States may limit sharing when this would compromise the course of justice, public security, national defence or international relations.
+
+8\. Member States shall provide the institutions and bodies of the Community with access to spatial data sets and services in accordance with harmonised conditions. Implementing rules governing those conditions, designed to amend non-essential elements of this Directive by supplementing it, shall be adopted in accordance with the regulatory procedure with scrutiny referred to in Article 22(3). These implementing rules shall fully respect the principles set out in paragraphs 1 to 3.
+
+## CHAPTER VI — COORDINATION AND COMPLEMENTARY MEASURES
+
+### Article 18
+
+Member States shall ensure that appropriate structures and mechanisms are designated for coordinating, across the different levels of government, the contributions of all those with an interest in their infrastructures for spatial information.
+
+These structures shall coordinate the contributions of, inter alia, users, producers, added-value service providers and coordinating bodies, concerning the identification of relevant data sets, user needs, the provision of information on existing practices and the provision of feedback on the implementation of this Directive.
+
+### Article 19
+
+1\. The Commission shall be responsible for coordinating Inspire at Community level and shall be assisted for that purpose by relevant organisations and, in particular, by the European Environment Agency.
+
+2\. Each Member State shall designate a contact point, usually a public authority, to be responsible for contacts with the Commission in relation to this Directive. This contact point will be supported by a coordination structure, taking account of the distribution of powers and responsibilities within the Member State.
+
+### Article 20
+
+The implementing rules referred to in this Directive shall take due account of standards adopted by European standardisation bodies in accordance with the procedure laid down in Directive 98/34/EC, as well as international standards.
+
+## CHAPTER VII — FINAL PROVISIONS
+
+### Article 21
+
+1\. Member States shall monitor the implementation and use of their infrastructures for spatial information. They shall make the results of this monitoring accessible to the Commission and to the public on a permanent basis.
+
+2\. No later than 31 March every two years, starting from 31 March 2025, Member States shall update, if necessary, a summary report. Those reports, which shall be made public by the Commission services, shall include summary descriptions of:
+
+(a) how public sector providers and users of spatial data sets and services and intermediary bodies are coordinated, and of the relationship with the third parties and of the organisation of quality assurance;
+
+(b) the contribution made by public authorities or third parties to the functioning and coordination of the infrastructure for spatial information;
+
+(c) information on the use of the infrastructure for spatial information;
+
+(d) data-sharing agreements between public authorities;
+
+(e) the costs and benefits of implementing this Directive.
+
+4\. Detailed rules for the implementation of this Article shall be adopted in accordance with the regulatory procedure referred to in Article 22(2).
+
+### Article 22
+
+1\. The Commission shall be assisted by a Committee.
+
+2\. Where reference is made to this paragraph, Articles 5 and 7 of Decision 1999/468/EC shall apply, having regard to the provisions of Article 8 thereof.
+
+The period laid down in Article 5(6) of Decision 1999/468/EC shall be set at three months.
+
+3\. Where reference is made to this paragraph, Article 5a(1) to (4) and Article 7 of Decision 1999/468/EC shall apply, having regard to the provisions of Article 8 thereof.
+
+### Article 23
+
+The European Environment Agency shall publish and update annually the Union-wide overview on the basis of metadata and data made available by Member States through their network services in accordance with Article 21. The Union-wide overview shall include, as appropriate, indicators for outputs, results and impacts of this Directive, Union-wide overview maps and Member State overview reports.
+
+The Commission shall, no later than 1 January 2022 and at least every five years thereafter, carry out an evaluation of this Directive, and of its implementation, and make it publicly available. That evaluation shall be based, inter alia, on the following elements:
+
+(a) the experience gathered from the implementation of this Directive;
+
+(b) the information collected by Member States in accordance with Article 21 and the Union-wide overviews compiled by the European Environment Agency;
+
+(c) relevant scientific, analytical data;
+
+(d) other information including relevant scientific, analytical data required on the basis of the Better regulation guidelines, in particular by relying on efficient and effective information management processes.
+
+### Article 24
+
+1\. Member States shall bring into force the laws, regulations and administrative provisions necessary to comply with this Directive by 15 May 2009.
+
+When Member States adopt these measures, they shall contain a reference to this Directive or shall be accompanied by such reference on the occasion of their official publication. The methods of making such reference shall be laid down by Member States.
+
+2\. Member States shall communicate to the Commission the text of the main provisions of national law which they adopt in the field covered by this Directive.
+
+### Article 25
+
+This Directive shall enter into force on the 20th day following its publication in the Official Journal of the European Union.
+
+### Article 26
+
+This Directive is addressed to the Member States.
+
+## ANNEX I — SPATIAL DATA THEMES REFERRED TO IN ARTICLES 6(A), 8(1) AND 9(A)
+
+1\. Coordinate reference systems
+
+Systems for uniquely referencing spatial information in space as a set of coordinates (x, y, z) and/or latitude and longitude and height, based on a geodetic horizontal and vertical datum.
+
+2\. Geographical grid systems
+
+Harmonised multi-resolution grid with a common point of origin and standardised location and size of grid cells.
+
+3\. Geographical names
+
+Names of areas, regions, localities, cities, suburbs, towns or settlements, or any geographical or topographical feature of public or historical interest.
+
+4\. Administrative units
+
+Units of administration, dividing areas where Member States have and/or exercise jurisdictional rights, for local, regional and national governance, separated by administrative boundaries.
+
+5\. Addresses
+
+Location of properties based on address identifiers, usually by road name, house number, postal code.
+
+6\. Cadastral parcels
+
+Areas defined by cadastral registers or equivalent.
+
+7\. Transport networks
+
+Road, rail, air and water transport networks and related infrastructure. Includes links between different networks. Also includes the trans-European transport network as defined in Decision No 1692/96/EC of the European Parliament and of the Council of 23 July 1996 on Community Guidelines for the development of the trans-European transport network ( 1 ) and future revisions of that Decision.
+
+8\. Hydrography
+
+Hydrographic elements, including marine areas and all other water bodies and items related to them, including river basins and sub-basins. Where appropriate, according to the definitions set out in Directive 2000/60/EC of the European Parliament and of the Council of 23 October 2000 establishing a framework for Community action in the field of water policy ( 2 ) and in the form of networks.
+
+9\. Protected sites
+
+Area designated or managed within a framework of international, Community and Member States' legislation to achieve specific conservation objectives.
+
+## ANNEX II — SPATIAL DATA THEMES REFERRED TO IN ARTICLES 6(A), 8(1) AND 9(B)
+
+1\. Elevation
+
+Digital elevation models for land, ice and ocean surface. Includes terrestrial elevation, bathymetry and shoreline.
+
+2\. Land cover
+
+Physical and biological cover of the earth's surface including artificial surfaces, agricultural areas, forests, (semi-)natural areas, wetlands, water bodies.
+
+3\. Orthoimagery
+
+Geo-referenced image data of the Earth's surface, from either satellite or airborne sensors.
+
+4\. Geology
+
+Geology characterised according to composition and structure. Includes bedrock, aquifers and geomorphology.
+
+## ANNEX III — SPATIAL DATA THEMES REFERRED TO IN ARTICLES 6(B) AND 9(B)
+
+1\. Statistical units
+
+Units for dissemination or use of statistical information.
+
+2\. Buildings
+
+Geographical location of buildings.
+
+3\. Soil
+
+Soils and subsoil characterised according to depth, texture, structure and content of particles and organic material, stoniness, erosion, where appropriate mean slope and anticipated water storage capacity.
+
+4\. Land use
+
+Territory characterised according to its current and future planned functional dimension or socio-economic purpose (e.g. residential, industrial, commercial, agricultural, forestry, recreational).
+
+5\. Human health and safety
+
+Geographical distribution of dominance of pathologies (allergies, cancers, respiratory diseases, etc.), information indicating the effect on health (biomarkers, decline of fertility, epidemics) or well-being of humans (fatigue, stress, etc.) linked directly (air pollution, chemicals, depletion of the ozone layer, noise, etc.) or indirectly (food, genetically modified organisms, etc.) to the quality of the environment.
+
+6\. Utility and governmental services
+
+Includes utility facilities such as sewage, waste management, energy supply and water supply, administrative and social governmental services such as public administrations, civil protection sites, schools and hospitals.
+
+7\. Environmental monitoring facilities
+
+Location and operation of environmental monitoring facilities includes observation and measurement of emissions, of the state of environmental media and of other ecosystem parameters (biodiversity, ecological conditions of vegetation, etc.) by or on behalf of public authorities.
+
+8\. Production and industrial facilities
+
+Industrial production sites, including installations covered by Council Directive 96/61/EC of 24 September 1996 concerning integrated pollution prevention and control ( 3 ) and water abstraction facilities, mining, storage sites.
+
+9\. Agricultural and aquaculture facilities
+
+Farming equipment and production facilities (including irrigation systems, greenhouses and stables).
+
+10\. Population distribution — demography
+
+Geographical distribution of people, including population characteristics and activity levels, aggregated by grid, region, administrative unit or other analytical unit.
+
+11\. Area management/restriction/regulation zones and reporting units
+
+Areas managed, regulated or used for reporting at international, European, national, regional and local levels. Includes dumping sites, restricted areas around drinking water sources, nitrate-vulnerable zones, regulated fairways at sea or large inland waters, areas for the dumping of waste, noise restriction zones, prospecting and mining permit areas, river basin districts, relevant reporting units and coastal zone management areas.
+
+12\. Natural risk zones
+
+Vulnerable areas characterised according to natural hazards (all atmospheric, hydrologic, seismic, volcanic and wildfire phenomena that, because of their location, severity, and frequency, have the potential to seriously affect society), e.g. floods, landslides and subsidence, avalanches, forest fires, earthquakes, volcanic eruptions.
+
+13\. Atmospheric conditions
+
+Physical conditions in the atmosphere. Includes spatial data based on measurements, on models or on a combination thereof and includes measurement locations.
+
+14\. Meteorological geographical features
+
+Weather conditions and their measurements; precipitation, temperature, evapotranspiration, wind speed and direction.
+
+15\. Oceanographic geographical features
+
+Physical conditions of oceans (currents, salinity, wave heights, etc.).
+
+16\. Sea regions
+
+Physical conditions of seas and saline water bodies divided into regions and sub-regions with common characteristics.
+
+17\. Bio-geographical regions
+
+Areas of relatively homogeneous ecological conditions with common characteristics.
+
+18\. Habitats and biotopes
+
+Geographical areas characterised by specific ecological conditions, processes, structure, and (life support) functions that physically support the organisms that live there. Includes terrestrial and aquatic areas distinguished by geographical, abiotic and biotic features, whether entirely natural or semi-natural.
+
+19\. Species distribution
+
+Geographical distribution of occurrence of animal and plant species aggregated by grid, region, administrative unit or other analytical unit.
+
+20\. Energy resources
+
+Energy resources including hydrocarbons, hydropower, bio-energy, solar, wind, etc., where relevant including depth/height information on the extent of the resource.
+
+21\. Mineral resources
+
+Mineral resources including metal ores, industrial minerals, etc., where relevant including depth/height information on the extent of the resource.
+
+( ) OJ L 228, 9.9.1996, p. 1. Decision as last amended by Council Regulation (EC) No 1791/2006 (OJ L 363, 20.12.2006, p. 1).
+
+( ) OJ L 327, 22.12.2000, p. 1. Directive as amended by Decision No 2455/2001/EC (OJ L 331, 15.12.2001, p. 1).
+
+( ) OJ L 257, 10.10.1996, p. 26. Directive as last amended by Regulation (EC) No 166/2006 of the European Parliament and of the Council (OJ L 33, 4.2.2006, p. 1).

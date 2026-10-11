@@ -1,0 +1,631 @@
+---
+title: "Directive 2009/18/EC of the European Parliament and of the Council of 23 April 2009 establishing the fundamental principles governing the investigation of accidents in the maritime transport sector and amending Council Directive 1999/35/EC and Directive 2002/59/EC of the European Parliament and of the Council (Text with EEA relevance)"
+identifier: "32009L0018"
+eli: "http://data.europa.eu/eli/dir/2009/18/oj"
+type: directive
+jurisdiction: eu
+language: en
+date: 2009-04-23
+entry_into_force: 2009-06-17
+last_amended: 2024-12-26
+consolidated_version: "02009L0018-20241226"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02009L0018-20241226"
+retrieved: 2026-10-11
+---
+
+# Directive 2009/18/EC of the European Parliament and of the Council of 23 April 2009 establishing the fundamental principles governing the investigation of accidents in the maritime transport sector and amending Council Directive 1999/35/EC and Directive 2002/59/EC of the European Parliament and of the Council (Text with EEA relevance)
+
+**DIRECTIVE 2009/18/EC OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 23 April 2009**
+
+**establishing the fundamental principles governing the investigation of accidents in the maritime transport sector and amending Council Directive 1999/35/EC and Directive 2002/59/EC of the European Parliament and of the Council**
+
+**(Text with EEA relevance)**
+
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> DIRECTIVE (EU) 2024/3017 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 27 November 2024 </td><td> L 3017</td><td>1</td><td>6.12.2024</td></tr>
+
+**DIRECTIVE 2009/18/EC OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 23 April 2009**
+
+**establishing the fundamental principles governing the investigation of accidents in the maritime transport sector and amending Council Directive 1999/35/EC and Directive 2002/59/EC of the European Parliament and of the Council**
+
+**(Text with EEA relevance)**
+
+## Article 1 — Subject matter
+
+1\. The purpose of this Directive is to improve maritime safety and the prevention of pollution by ships, and so reduce the risk of future marine casualties, by:
+
+(a) facilitating the expeditious holding of safety investigations and proper analysis of marine casualties and incidents in order to determine their causes; and
+
+(b) ensuring the timely and accurate reporting of safety investigations and proposals for remedial action.
+
+2\. Since the purpose of marine safety investigations (‘safety investigations’) pursuant to this Directive is not to determine liability or apportion blame, no fault or liability shall be inferred from the findings of those investigations. Member States shall ensure that the marine safety investigation authorities (‘safety investigation authorities’) are not prevented or hindered from fully reporting the causes of a marine casualty or incident.
+
+## Article 2 — Scope
+
+1\. This Directive shall apply to marine casualties and incidents that:
+
+(a) involve ships flying the flag of one of the Member States;
+
+(b) occur within Member States' territorial sea and internal waters as defined in UNCLOS; or
+
+(c) involve other substantial interests of the Member States.
+
+2\. This Directive shall not apply to marine casualties and incidents involving only:
+
+(a) ships of war and troop ships and other ships owned or operated by a Member State and used only on government non-commercial service;
+
+(b) ships not propelled by mechanical means, wooden ships of primitive build, pleasure yachts and pleasure craft not engaged in trade, unless they are or will be crewed and carrying more than 12 passengers for commercial purposes;
+
+(c) inland waterway vessels operating in inland waterways;
+
+(e) fixed offshore drilling units.
+
+## Article 3 — Definitions
+
+For the purposes of this Directive, the following definitions apply:
+
+(1) ‘IMO Casualty Investigation Code’ means the Code of the International Standards and Recommended Practices for a Safety Investigation into a Marine Casualty or Marine Incident in the Annex to IMO resolution MSC.255(84) of the IMO Maritime Safety Committee of 16 May 2008, in its up-to-date version;
+
+(2) ‘IMO Guidelines to Assist Investigators in the Implementation of the Casualty Investigation Code’ means the guidelines in the Annex to IMO resolution A.1075(28) adopted by the IMO Assembly on 4 December 2013, in their up-to-date version;
+
+(3) the following terms shall be understood in accordance with the definitions contained in the IMO Casualty Investigation Code:
+
+(a) ‘marine casualty’;
+
+(b) ‘very serious marine casualty’;
+
+(c) ‘marine incident’;
+
+(d) ‘marine safety investigation’;
+
+(e) ‘marine safety investigation authority’;
+
+(f) ‘marine safety investigating State’;
+
+(g) ‘substantially interested State’;
+
+(h) ‘serious injury’;
+
+(4) ‘IMO Guidelines on the Fair Treatment of Seafarers in the Event of a Maritime Accident’ means the guidelines in the Annex to IMO resolution LEG.3(91) of the IMO Legal Committee of 27 April 2006 as approved by the Governing Body of the International Labour Organisation at its 296th session of 12 to 16 June 2006, in their up-to-date version;
+
+(5) ‘ro-ro passenger ship’ means ‘ro-ro passenger ship’ as defined in Article 2, point (1), of Directive (EU) 2017/2110 of the European Parliament and of the Council ( 1 );
+
+(6) ‘high-speed passenger craft’ means ‘high-speed passenger craft’ as defined in Article 2, point (2), of Directive (EU) 2017/2110;
+
+(7) ‘voyage data recorder’ (‘VDR’) means ‘voyage data recorder’ as defined in point 4.1 of the Annex to IMO resolution MSC.333(90) of the IMO Maritime Safety Committee of 22 May 2012, in its up-to-date version and as supplemented by the relevant IMO performance standards applicable on the date of installation on-board of that VDR, and without prejudice to Union law;
+
+(8) ‘simplified voyage data recorder’ (‘S-VDR’) means ‘simplified voyage data recorder’ as defined in point 4.1 of the Annex to IMO resolution MSC. 163(78) of the IMO Maritime Safety Committee of 17 May 2004, in its up-to-date version and as supplemented by the relevant IMO performance standards applicable on the date of installation on-board of that S-VDR, and without prejudice to Union law;
+
+(9) ‘safety recommendation’ means any proposal made, including for the purposes of registration and control, by:
+
+(a) the safety investigation authority of the State conducting or leading the safety investigation on the basis of information derived from that investigation; or
+
+(b) where appropriate, the Commission, acting on the basis of an abstract data analysis and the results of safety investigations carried out;
+
+(10) ‘length of a fishing vessel’ means ‘length of a fishing vessel’ within the meaning of Article 2 of Regulation (EU) 2017/1130 of the European Parliament and of the Council ( 2 );
+
+(11) ‘fatal injury’ means an injury which is sustained by a person in an accident, and which results in his or her death within 30 days of the date of the accident, if the related information is available.
+
+## Article 4 — Status of safety investigations
+
+1\. Member States shall define, in accordance with their legal systems, the legal status of the safety investigation in such a way that such investigations can be carried out as effectively and rapidly as possible.
+
+Member States shall ensure, in accordance with their legislation and, where appropriate, through collaboration with the authorities responsible for the judicial inquiry, that safety investigations are:
+
+(a) independent of criminal or other parallel investigations held to determine liability or to apportion blame, and that safety investigation authorities are able to report on the results of safety investigations without direction or interference from any persons, organisations or parties who may be affected by the outcome of those safety investigations;
+
+(b) not unduly precluded, suspended or delayed by reason of such investigations.
+
+2\. The rules to be established by the Member States shall include, in accordance with the permanent cooperation framework referred to in Article 10, provisions for allowing:
+
+(a) cooperation and mutual assistance in safety investigations led by other Member States, or the delegation to another Member State of the task of leading such an investigation in accordance with Article 7; and
+
+(b) coordination of the activities of their respective safety investigation authorities to the extent necessary to achieve the objective of this Directive.
+
+## Article 5 — Obligation to investigate
+
+1\. Each Member State shall ensure that a safety investigation is carried out by the safety investigation authority referred to in Article 8 after any very serious marine casualty:
+
+(a) involving a ship flying its flag, irrespective of the location of the casualty;
+
+(b) occurring within its territorial sea and internal waters as defined in UNCLOS, irrespective of the flag of the ship or ships involved in the casualty; or
+
+(c) involving a substantial interest of the Member State, irrespective of the location of the casualty and of the flag of the ship or ships involved in the casualty.
+
+2\. In the case of a fishing vessel of less than 15 metres in length, the safety investigation authority shall without delay and no later than two months after the very serious marine casualty referred to in paragraph 1 of this Article, carry out a preliminary assessment to determine whether to conduct a safety investigation. Where the safety investigation authority decides not to conduct such a safety investigation, the reasons for that decision shall without delay and no later than two months after the very serious marine casualty be recorded and notified in accordance with Article 17(3).
+
+3\. When deciding whether to conduct a safety investigation in accordance with paragraph 2, the safety investigation authority shall take into account the evidence available, as well as the potential for the findings of the safety investigation to lead to the prevention of future marine casualties and incidents.
+
+4\. In the case of any marine casualty or incident not covered by paragraph 1, 2 or 3, the safety investigation authority shall decide whether to conduct a safety investigation.
+
+5\. The scope and practical arrangements for the conduct of safety investigation shall be determined by the safety investigation authority of the lead investigating Member State in cooperation with the equivalent authorities of the other substantially interested States, in a manner that the safety investigation authority of the lead investigating Member State believes will be most conducive to achieving the objective of this Directive, and with a view to preventing future marine casualties and incidents.
+
+6\. When carrying out safety investigation, the safety investigation authority shall follow the IMO Guidelines to Assist Investigators in the Implementation of the Casualty Investigation Code. Investigators may depart from those guidelines where this can be justified as necessary, in their professional judgement, in order to achieve the aims of the safety investigation. The Commission may adopt recommendations for the implementation of those guidelines, taking into account any relevant lessons drawn from safety investigations, and after consulting the safety investigation authorities in the context of the permanent cooperation framework referred to in Article 10.
+
+7\. When deciding whether a marine casualty or incident occurring when a ship is alongside, moored or in dock, involving shore or port workers, occurred ‘directly in connection with the operations of a ship’ and, therefore, is subject to a safety investigation, Member States shall, in accordance with their national law, give particular consideration to the involvement of the ship’s structure, equipment, procedures, crew and ship management in and their relevance to the activity being undertaken.
+
+8\. A safety investigation shall be started without delay after the occurrence of the marine casualty or incident, and, in any event, no later than two months thereafter.
+
+9\. In accordance with national law, if in the course of a safety investigation it becomes known or it is suspected that an offence has been committed under Articles 3, 3bis, 3ter or 3quater of the IMO Convention for the Suppression of Unlawful Acts Against the Safety of Maritime Navigation of 10 March 1988, in its up-to-date version, the safety investigation authority shall immediately inform the maritime security authorities of the Member State or Member States and of any third country concerned thereof.
+
+## Article 6 — Obligation to notify
+
+A Member State shall require, in the framework of its legal system, that its safety investigation authority be notified without delay, by the responsible authorities or by the parties involved, or by both, of the occurrence of all marine casualties and incidents falling within the scope of this Directive.
+
+## Article 7 — Leading of, and participation in, safety investigations
+
+1\. In principle, each marine casualty or incident shall be subject to only one investigation carried out by a Member State or a lead investigating Member State with the participation of any other substantially interested Member State.
+
+In cases of safety investigations involving two or more Member States, the Member States concerned shall therefore cooperate with a view to rapidly agreeing which of them is to be the lead investigating Member State. They shall make every effort to agree on the procedures to investigate. In the framework of this agreement, other substantially interested States shall have equal rights and access to witnesses and evidence as the Member State conducting the safety investigation. They shall also have the right to see their point of view taken into consideration by the lead investigating Member State.
+
+The conduct of parallel safety investigations into the same marine casualty or incident shall be strictly limited to exceptional cases. In such cases, Member States shall notify the Commission of the reasons for conducting such parallel safety investigations. Member States conducting parallel safety investigations shall cooperate with each other. In particular, the safety investigation authorities involved shall exchange any pertinent information gathered in the course of their respective safety investigations in a timely manner, in particular in order to reach, as far as possible, shared conclusions.
+
+Member States shall abstain from any measure which could unduly preclude, suspend or delay the conduct of a safety investigation falling within the scope of this Directive.
+
+1a. During the conduct of the safety investigation, substantially interested Member States shall assist, to the extent practical, the marine safety investigating Member State or States with access to relevant information for the safety investigation. The investigator or investigators carrying out a safety investigation shall, if it is considered to be necessary, also be granted access to information held by government surveyors, coastguard officers, ship traffic service operators, pilots and other marine personnel of the substantially interested State, in accordance with its national law.
+
+2\. Notwithstanding paragraph 1, each Member State shall remain responsible for the safety investigation and coordination with other substantially interested Member States until such time as it is mutually agreed which of them is to be the lead investigating State.
+
+3\. Without prejudice to its obligations under this Directive and international law, a Member State may, on a case-by-case basis, delegate by mutual agreement to another Member State the task of leading a safety investigation or specific tasks for the conduct of such an investigation.
+
+4\. When a ro-ro passenger ship or high-speed passenger craft is involved in a marine casualty or incident, the safety investigation procedure shall be launched by the Member State in whose territorial sea or internal waters, as defined in UNCLOS, the marine casualty or incident occurs. If the marine casualty or incident occurs in other waters, the safety investigation procedure shall be launched by the last Member State visited by that ro-ro passenger ship or high-speed passenger craft. The Member State that launched the safety investigation procedure shall remain responsible for the safety investigation and for the coordination with other substantially interested Member States until it is mutually agreed which of those Member States is to be the lead investigating Member State.
+
+## Article 8 — Safety investigation authority
+
+1\. Member States shall ensure that safety investigations are conducted under the responsibility of an impartial, independent and permanent safety investigation authority, endowed with the necessary powers and with sufficient means and financial resources, and with suitably qualified investigators, competent in matters relating to marine casualties and incidents, in order to comply with their obligations pursuant to this Directive.
+
+Safety investigation authorities shall not be precluded from appointing on a temporary basis appropriate investigators with the necessary specialist skills to form part of a safety investigation, or from using consultants to provide it with expert advice on any aspect of a safety investigation.
+
+In order to conduct a safety investigation in an unbiased manner, the safety investigation authority shall be independent in its organisation, legal structure and decision-making of any party whose interests could conflict with the task entrusted to it.
+
+Landlocked Member States which have neither ships nor vessels flying their flag within the scope of this Directive shall identify an independent body to serve as a focal point for cooperation on the safety investigation pursuant to Article 5(1), point (c).
+
+2\. The safety investigation authority shall ensure that individual investigators have a working knowledge of, and practical experience in, those subject areas pertaining to their normal investigative duties. Additionally, the safety investigation authority shall ensure ready access to appropriate expertise, as necessary.
+
+3\. The activities entrusted to the safety investigation authority may be extended to the gathering and analysis of data relating to maritime safety, in particular for prevention purposes, insofar as those activities do not affect its independence or entail responsibility in regulatory, administrative or standardisation matters.
+
+4\. Member States, acting in the framework of their respective legal systems, shall ensure that the investigators of their safety investigation authority, or of any other safety investigation authority to which they have delegated the task of safety investigation, where appropriate in collaboration with the authorities responsible for the judicial inquiry, are provided with any information and technological means pertinent to the conduct of the safety investigation and therefore are authorised to:
+
+(a) have access to any relevant area or casualty site as well as to any ship, wreck or structure including cargo, equipment or debris;
+
+(b) ensure the immediate listing of evidence and controlled search for and removal of wreckage, debris or other components or substances for examination or analysis;
+
+(c) require the examination or analysis of the items referred to in point (b), and have free access to the results of such examination or analysis;
+
+(d) have free access to, and be able to copy, and have use of any relevant information and recorded data, including VDR or S-VDR data, pertaining to a ship, vessel traffic service recordings, voyage, cargo, crew or any other person, object, condition or circumstance;
+
+(e) have free access to the results of examinations of the bodies of victims or of tests made on samples taken from the bodies of victims;
+
+(f) require and have free access to the results of examinations of, or tests made on, samples taken from, people involved in the operation of a ship or any other relevant person;
+
+(g) interview witnesses in the absence of any person whose interests could be considered to be detrimental to the safety investigation;
+
+(h) obtain survey records and relevant information held by the flag State, the owners, classification societies or any other relevant party, whenever those parties or their representatives are established in the Member State;
+
+(i) call for the assistance of the relevant authorities in the respective States, including flag State and port State surveyors, coastguard officers, vessel traffic service operators, search and rescue teams, pilots or other port or maritime personnel.
+
+5\. The safety investigation authority shall be enabled to respond immediately on being notified at any time of a casualty, and to obtain sufficient resources to carry out its functions independently. Its investigators shall be afforded a status that gives them the necessary guarantees of independence.
+
+6\. The safety investigation authority may combine its tasks under this Directive with the work of investigating occurrences other than marine casualties or incidents on condition that such safety investigations do not endanger its independence.
+
+7\. Each Member State may develop, implement and maintain a quality management system for its safety investigation authority.
+
+8\. The permanent cooperation framework referred to in Article 10 shall support safety investigation authorities and enhance their safety investigation capabilities by drawing up guidance and recommendations to ensure that safety investigations are conducted in a consistent manner, and shall in this regard develop and implement a peer review programme.
+
+## Article 9 — Confidentiality
+
+1\. Without prejudice to Regulation (EU) 2016/679 of the European Parliament and of the Council ( 3 ), a Member State, acting in the framework of its legal system, shall ensure that the following records are not made available for purposes other than the safety investigation, unless that Member State’s competent authority concludes that there is an overriding public interest in the disclosure of those records, including where that competent authority concludes that the benefits of the disclosure outweigh the adverse domestic and international impact that such disclosure could have on that or any future safety investigation:
+
+(a) all statements taken from persons by the safety investigation authority in the course of the safety investigation;
+
+(b) records revealing the identity of persons who have given evidence in the context of the safety investigation;
+
+(c) information collected by the safety investigation authority that is of a particularly sensitive and personal nature, including information concerning the health of individuals;
+
+(d) material subsequently produced during the course of the safety investigation such as notes, drafts and opinions written by the investigators, and opinions expressed in the analysis of information;
+
+(e) information and evidence provided by investigators from other Member States or third countries in accordance with the international standards and recommended practices, where so requested by their safety investigation authority;
+
+(f) draft of interim, concise or final reports;
+
+(g) all communications between persons having been involved in the operation of the ship;
+
+(h) written or electronic recordings and transcriptions of recordings from vessel traffic service, including their reports and results made for internal purposes.
+
+2\. VDR and S-VDR recordings from a safety investigation shall not be made available or used for purposes other than those of the safety investigation or of ship safety, unless such recordings are anonymised or disclosed under secure procedures.
+
+3\. For the purposes referred to in paragraph 1, only data that is strictly necessary shall be disclosed.
+
+4\. Member States may decide to limit the cases in which a disclosure as referred to in paragraph 3 may be taken, while respecting Union law.
+
+## Article 10 — Permanent cooperation framework
+
+1\. Member States shall, in close cooperation with the Commission, establish a permanent cooperation framework enabling their respective safety investigation authorities to cooperate with each other to the extent necessary to attain the objectives of this Directive.
+
+2\. The rules of procedure of the permanent cooperation framework and the organisation arrangements required therefor shall be decided in accordance with the regulatory procedure referred to in Article 19(2).
+
+3\. Within the permanent cooperation framework, the safety investigation authorities shall agree, in particular, upon the best modalities of cooperation in order to:
+
+(a) enable safety investigation authorities to share installations, facilities and equipment for the technical investigation of wreckage and ship’s equipment and other objects relevant to the safety investigations, including the extraction and evaluation of information from VDRs or S-VDRs and other electronic devices;
+
+(b) provide each other with the technical cooperation or expertise needed to undertake specific tasks;
+
+(c) acquire and share information relevant for analysing casualty data and making appropriate safety recommendations at Community level;
+
+(d) draw up common principles for the follow-up of safety recommendations and for the adaptation of investigative methods to the development of technical and scientific progress;
+
+(e) manage appropriately the early alerts referred to in Article 16;
+
+(f) establish confidentiality rules for the sharing, in the respect of national rules, of witness evidence and the processing of data and other records referred to in Article 9, including in relations with third countries;
+
+(g) organise, where appropriate, relevant training activities for individual investigators;
+
+(h) promote cooperation with the safety investigation authorities of third countries and with the international maritime accidents investigation organisations in the fields covered by this Directive;
+
+(i) provide safety investigation authorities conducting safety investigations with any pertinent information.
+
+## Article 11 — Costs
+
+1\. Where safety investigations involve two or more Member States, the respective activities shall be free of charge.
+
+2\. Where assistance is requested of a Member State that is not involved in the safety investigation, Member States shall agree on the reimbursement of costs incurred.
+
+## Article 12 — Cooperation with substantially interested third countries
+
+1\. Member States shall cooperate, to the maximum extent possible, with other substantially interested third countries in safety investigations.
+
+2\. Substantially interested third countries shall, by mutual agreement, be allowed to join a safety investigation led by a Member State under this Directive at any stage of the investigation.
+
+3\. The cooperation of a Member State in a safety investigation conducted by a substantially interested third country shall be without prejudice to its compliance with the conduct and reporting requirements of safety investigations under this Directive. Where a substantially interested third country is leading a safety investigation involving one or more Member States, those Member States may decide not to conduct a parallel safety investigation, provided that the safety investigation led by the third country is conducted in accordance with the IMO Casualty Investigation Code. In such cases, Article 14 shall not apply to the safety investigation authorities.
+
+## Article 13 — Preservation of evidence
+
+Member States shall adopt measures to ensure that the parties concerned by casualties and incidents under the scope of this Directive make every effort to:
+
+(a) save all information from charts, logbooks, electronic and magnetic recordings and video tapes, including information from VDRs or S-VDRs and other electronic devices relating to the period preceding, during and after an accident;
+
+(b) prevent the overwriting or other alteration of such information;
+
+(c) prevent interference with any other equipment which might reasonably be considered pertinent to the safety investigation of the accident;
+
+(d) collect and preserve all evidence expeditiously for the purposes of the safety investigations.
+
+## Article 14 — Accident reports
+
+1\. Safety investigations carried out under this Directive shall result in a published accident report presented in a format defined by the competent safety investigation authority and in accordance with the relevant sections of Annex I.
+
+A safety investigation authority may decide to publish only a concise report on a safety investigation, where:
+
+(a) the safety investigation does not concern a very serious marine casualty; or
+
+(b) the findings of the safety investigation concerning a marine casualty or incident do not have the potential to lead to the prevention of future marine casualties or incidents.
+
+2\. A safety investigation authority shall make every effort to make the accident report referred to in paragraph 1, including its conclusions and any possible recommendations, available to the public, and especially to the maritime sector, within 12 months of the date of the marine casualty or incident. If, in the case of a very serious marine casualty, it is not possible to produce the final accident report within that time, an interim accident report shall be published within 12 months of the date of the marine casualty or incident.
+
+3\. The safety investigation authority of the lead investigating Member State shall send a copy of the final or interim report to the Commission. The safety investigation authority shall take into account any technical observations of the Commission on final reports provided that those observations do not affect the substance of the findings, in order to improve the quality of the accident report in the way most conducive to achieving the objective of this Directive.
+
+4\. The Commission is empowered to adopt delegated acts in accordance with Article 20 in order to amend the following parts of Annex I to this Directive: ‘2. Factual information’, ‘3. Narrative’ and ‘4. Analysis’.
+
+## Article 15 — Safety recommendations
+
+1\. Member States shall ensure that safety recommendations made by the safety investigation authorities are duly taken into account by the addressees, in particular with a view to preventing future accidents, and, where appropriate, are given an adequate follow-up in accordance with Union and international law.
+
+2\. Where appropriate, a safety investigation authority or the Commission shall make safety recommendations on the basis of an abstract data analysis and of the overall results of safety investigations carried out.
+
+3\. A safety recommendation shall in no circumstances determine liability or apportion blame for a casualty.
+
+## Article 16 — Early alert system
+
+Without prejudice to its right to give an early alert, the safety investigation authority shall, at any stage of a safety investigation, if it takes the view that urgent action is needed at Union level to prevent the risk of new casualties, inform the Commission without delay of the need to give an early alert.
+
+If necessary, the Commission shall issue a note of warning for the attention of the responsible authorities in all the other Member States, the shipping industry, and to any other relevant party.
+
+## Article 17 — European database for marine casualties
+
+1\. Data on marine casualties and incidents shall be stored and analysed by means of a European electronic database to be set up by the Commission, which shall be known as the European Marine Casualty Information Platform (EMCIP).
+
+2\. Member States shall notify the Commission of the entitled authorities that will have access to the database.
+
+2a. Member States shall notify to EMCIP all marine casualties and incidents in accordance with the format in Annex II and, when a safety investigation is carried out, provide data resulting from that safety investigation in accordance with the EMCIP database scheme. In the case of fishing vessels of less than 15 metres in length only the reporting of very serious marine casualties is required. If very serious marine casualties involving fishing vessels of less than 15 metres are not investigated, the reasons for not doing so shall be reported to EMCIP.
+
+3\. The safety investigation authorities shall notify all very serious marine casualties to EMCIP. The Member States may decide upon and nominate the competent national authority or authorities to report on all other marine casualties and incidents. When the Commission is aware of a marine casualty or incident, it shall inform the competent national authorities.
+
+4\. The Commission and the Member States shall develop the database scheme and a method for the notification of data within the appropriate timescale.
+
+5\. The Commission is empowered to adopt delegated acts in accordance with Article 20 to amend Annex II to this Directive, to update the list of marine casualty or incident notification data to take into account changes by the IMO to the IMO Casualty Investigation Code.
+
+## Article 17a — Training and operational support
+
+1\. The Commission, with the assistance of the Agency and in cooperation with Member States, shall facilitate the development of capacities within and the sharing of knowledge between the safety investigation authorities through the provision of regular training on new legal and technological developments, specific techniques and tools and technologies relating to ships, their equipment and operations, depending on the needs of safety investigation authorities.
+
+2\. At the request of the safety investigation authorities, and assuming that no conflict of interest arises, the Commission shall provide operational support to the Member States in the conduct of their safety investigations. Such support may include the provision of specialised analytical tools or equipment, as well as specific expertise, provided that the provision of support does not result in the independence of the safety investigation authorities concerned being compromised.
+
+## Article 18 — Fair treatment of seafarers
+
+In accordance with their national law, Member States shall take into account the relevant provisions of the IMO guidelines on the fair treatment of seafarers in the event of a maritime accident in the waters under their jurisdiction.
+
+## Article 19 — Committee procedure
+
+1\. The Commission shall be assisted by the Committee on Safe Seas and the Prevention of Pollution from Ships (COSS) established by Regulation (EC) No 2099/2002 of the European Parliament and of the Council ( 4 ). That Committee shall be a committee within the meaning of Regulation (EU) No 182/2011 of the European Parliament and of the Council ( 5 ).
+
+2\. Where reference is made to this paragraph, Article 5 of Regulation (EU) No 182/2011 shall apply.
+
+## Article 20 — Exercise of the delegation
+
+1\. The power to adopt delegated acts is conferred on the Commission subject to the conditions laid down in this Article.
+
+2\. The power to adopt delegated acts referred to in Articles 14(4) and 17(5) shall be conferred on the Commission for an indeterminate period of time from 26 December 2024.
+
+3\. The delegation of power referred to in Articles 14(4) and 17(5) may be revoked at any time by the European Parliament or by the Council. A decision to revoke shall put an end to the delegation of the power specified in that decision. It shall take effect on the day following the publication of the decision in the Official Journal of the European Union or at a later date specified therein. It shall not affect the validity of any delegated acts already in force.
+
+4\. Before adopting a delegated act, the Commission shall consult experts designated by each Member State in accordance with the principles laid down in the Interinstitutional Agreement of 13 April 2016 on Better Law-Making ( 6 ).
+
+5\. As soon as it adopts a delegated act, the Commission shall notify it simultaneously to the European Parliament and to the Council.
+
+6\. A delegated act adopted pursuant to Articles 14(4) and 17(5) shall enter into force only if no objection has been expressed either by the European Parliament or by the Council within a period of two months of notification of that act to the European Parliament and to the Council or if, before the expiry of that period, the European Parliament and the Council have both informed the Commission that they will not object. That period shall be extended by two months at the initiative of the European Parliament or of the Council.
+
+## Article 20a — Amendments to the IMO Casualty Investigation Code
+
+The amendments to the IMO Casualty Investigation Code shall apply, without prejudice to the Conformity checking procedure set out in Article 5 of Regulation (EC) No 2099/2002.
+
+## Article 21 — Additional measures
+
+Nothing contained in this Directive shall prevent a Member State from taking additional measures on maritime safety which are not covered by it, provided that such measures neither infringe this Directive nor in any way adversely affect the attainment of its objective, nor jeopardise the achievement of its objective.
+
+## Article 22 — Penalties
+
+Member States shall lay down the rules on penalties applicable to infringements of the national provisions adopted pursuant to this Directive and shall take all measures necessary to ensure that they are implemented. The penalties provided for must be effective, proportionate and dissuasive.
+
+## Article 23 — Implementation review
+
+The Commission shall by 27 June 2032 submit a report to the European Parliament and to the Council on the implementation of, and compliance with, this Directive, and, if necessary, shall propose further measures in the light of the recommendations set out therein, including considering the possibility of including mandatory safety investigation for fishing vessels of less than 15 meters in length in the scope of this Directive and the impact thereof on the workload of the safety investigation authorities.
+
+## Article 24 — Amendments to existing acts
+
+1\. Article 12 of Directive 1999/35/EC shall be deleted.
+
+2\. Article 11 of Directive 2002/59/EC shall be deleted.
+
+## Article 25 — Transposition
+
+1\. Member States shall bring into force the laws, regulations and administrative provisions necessary to comply with this Directive by 17 June 2011.
+
+When Member States adopt those measures, they shall contain a reference to this Directive or be accompanied by such a reference on the occasion of their official publication. Member States shall determine how such reference is to be made.
+
+2\. Member States shall communicate to the Commission the text of the main provisions of national law which they adopt in the field covered by this Directive.
+
+## Article 26 — Entry into force
+
+This Directive shall enter into force on the 20th day following its publication in the Official Journal of the European Union.
+
+## Article 27 — Addressees
+
+This Directive is addressed to the Member States.
+
+## ANNEX I
+
+**Safety investigation report content**
+
+**Foreword**
+
+This identifies the sole objective of the safety investigation and indicates that a safety recommendation shall in no case create a presumption of liability or blame and that the report has not been written, in terms of content and style, with the intention of it being used in legal proceedings.
+
+(The report should make no reference to witness evidence nor link anyone who is referred to in the report to a person who has given evidence during the course of the safety investigation.)
+
+**1\. SUMMARY**
+
+This part outlines the basic facts of the marine casualty or incident: what happened, when, where and how it happened; it also states whether any deaths, injuries, damage to the ship, cargo, third parties or environment occurred as a result.
+
+**2\. FACTUAL INFORMATION**
+
+This part includes a number of discrete sections, providing sufficient information that the investigating body interprets to be factual, substantiate the analysis and ease understanding.
+
+These sections include, in particular, the following information:
+
+**2.1. Ship particulars**
+
+Flag/register,
+
+Identification,
+
+Main characteristics,
+
+Ownership and management,
+
+Construction details,
+
+Minimum safe manning,
+
+Authorised cargo,
+
+In relation to fishing vessels, the type of fisheries being carried out at the time of the accident.
+
+**2.2. Voyage particulars**
+
+Ports of call,
+
+Type of voyage,
+
+Cargo information,
+
+Manning.
+
+**2.3. Marine casualty or incident information**
+
+Type of marine casualty or incident,
+
+Date and time,
+
+Position and location of the marine casualty or incident,
+
+External and internal environment,
+
+Ship operation and voyage segment,
+
+Place on board,
+
+For marine casualties or incidents involving shore or port workers, the cargo being carried,
+
+Human factors data,
+
+Consequences (for people, ship, cargo, environment, other).
+
+**2.4. Shore authority involvement and emergency response**
+
+Who was involved,
+
+Means used,
+
+Speed of response,
+
+Actions taken,
+
+Results achieved.
+
+**3\. NARRATIVE**
+
+This part reconstructs the marine casualty or incident through a sequence of events, in a chronological order leading up to, during and following the marine casualty or incident and the involvement of each actor (i.e. person, material, environment, equipment or external agent). The period covered by the narrative depends on the timing of those particular accidental events that directly contributed to the marine casualty or incident. This part also includes any relevant details of the safety investigation conducted, including the results of examinations or tests.
+
+**4\. ANALYSIS**
+
+This part includes a number of discrete sections, providing an analysis of each accidental event, with comments relating to the results of any relevant examinations or tests conducted during the course of the safety investigation and to any safety action that might already have been taken to prevent marine casualties.
+
+These sections should cover issues such as:
+
+— accidental event context and environment,
+
+— human erroneous actions and omissions, events involving hazardous material, environmental effects, equipment failures, and external influences,
+
+— contributing factors involving person-related functions, shipboard operations, shore management or regulatory influence.
+
+The analysis and comment enable the report to reach logical conclusions, establishing all of the contributing factors, including those with risks for which existing defences aimed at preventing an accidental event, and/or those aimed at eliminating or reducing its consequences, are assessed to be either inadequate or missing.
+
+**5\. CONCLUSIONS**
+
+This part consolidates the established contributing factors and missing or inadequate defences (material, functional, symbolic or procedural) for which safety actions should be developed to prevent marine casualties.
+
+**6\. SAFETY RECOMMENDATIONS**
+
+When appropriate, this part of the report contains safety recommendations derived from the analysis and conclusions and related to particular subject areas, such as legislation, design, procedures, inspection, management, health and safety at work, training, repair work, maintenance, shore assistance and emergency response.
+
+The safety recommendations are addressed to those that are best placed to implement them, such as ship owners, managers, recognised organisations, maritime authorities, vessel traffic services, emergency bodies, international maritime organisations and European institutions, with the aim of preventing marine casualties.
+
+This part also includes any interim safety recommendations that may have been made or any safety actions taken during the course of the safety investigation.
+
+**7\. APPENDICES**
+
+When appropriate, the following non-exhaustive list of information is attached to the report in paper and/or electronic form:
+
+— photographs, moving images, audio recordings, charts, drawings,
+
+— applicable standards,
+
+— technical terms and abbreviations used,
+
+— special safety studies,
+
+— miscellaneous information.
+
+## ANNEX II
+
+**MARINE CASUALTY OR INCIDENT NOTIFICATION DATA**
+
+**(Part of the European Marine Casualty Information Platform)**
+
+Note: Underlined numbers mean that data should be provided for each ship if more than one ship is involved in the marine casualty or incident.
+
+01\. Member Sate responsible/contact person
+
+02\. Member Sate investigator
+
+03\. Member State role
+
+04\. Coastal state affected
+
+05\. Number of substantially interested States
+
+06\. Substantially interested States
+
+07\. Notification entity
+
+08\. Time of the notification
+
+09\. Date of the notification
+
+10\. Name of the ship
+
+11\. IMO number/distinctive letters
+
+12\. Ship flag
+
+13\. Type of marine casualty or incident
+
+14\. Type of ship
+
+15\. Date of the marine casualty or incident
+
+16\. Time of the marine casualty or incident
+
+17\. Position – Latitude
+
+18\. Position – Longitude
+
+19\. Location of the marine casualty or incident
+
+20\. Port of departure
+
+21\. Port of destination
+
+22\. Traffic separation scheme
+
+23\. Voyage segment
+
+24\. Ship operation
+
+25\. Place on board
+
+26\. Lives lost:
+
+— Crew
+
+— Passengers
+
+— Other
+
+27\. Serious injuries:
+
+— Crew
+
+— Passengers
+
+— Other
+
+28\. Pollution
+
+29\. Ship damage
+
+30\. Cargo damage, including containers lost at sea
+
+31\. Other damage
+
+32\. Brief description of the marine casualty or incident
+
+33\. Brief description of the reasons not to undertake a safety investigation.
+
+( 1 ) Directive (EU) 2017/2110 of the European Parliament and of the Council of 15 November 2017 on a system of inspections for the safe operation of ro-ro passenger ships and high-speed passenger craft in regular service and amending Directive 2009/16/EC and repealing Council Directive 1999/35/EC (OJ L 315, 30.11.2017, p. 61).
+
+( 2 ) Regulation (EU) 2017/1130 of the European Parliament and of the Council of 14 June 2017 defining characteristics for fishing vessels (OJ L 169, 30.6.2017, p. 1).
+
+( 3 ) Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation) (OJ L 119, 4.5.2016, p. 1).
+
+( 4 ) Regulation (EC) No 2099/2002 of the European Parliament and of the Council of 5 November 2002 establishing a Committee on Safe Seas and the Prevention of Pollution from Ships (COSS) and amending the Regulations on maritime safety and the prevention of pollution from ships (OJ L 324, 29.11.2002, p. 1).
+
+( 5 ) Regulation (EU) No 182/2011 of the European Parliament and of the Council of 16 February 2011 laying down the rules and general principles concerning mechanisms for control by the Member States of the Commission’s exercise of implementing powers (OJ L 55, 28.2.2011, p. 13).
+
+( 6 ) OJ L 123, 12.5.2016, p. 1.

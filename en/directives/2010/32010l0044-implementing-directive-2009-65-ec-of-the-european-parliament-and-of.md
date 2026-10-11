@@ -1,0 +1,553 @@
+---
+title: "Commission Directive 2010/42/EU of 1 July 2010 implementing Directive 2009/65/EC of the European Parliament and of the Council as regards certain provisions concerning fund mergers, master-feeder structures and notification procedure (Text with EEA relevance)"
+identifier: "32010L0044"
+eli: "http://data.europa.eu/eli/dir/2010/44/oj"
+type: directive
+jurisdiction: eu
+language: en
+date: 2010-07-01
+entry_into_force: 2010-10-21
+last_amended: 2010-07-10
+consolidated_version: "02010L0044-20100710"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02010L0044-20100710"
+retrieved: 2026-10-11
+---
+
+# Commission Directive 2010/42/EU of 1 July 2010 implementing Directive 2009/65/EC of the European Parliament and of the Council as regards certain provisions concerning fund mergers, master-feeder structures and notification procedure (Text with EEA relevance)
+
+**COMMISSION DIRECTIVE 2010/44/EU**
+
+**of 1 July 2010**
+
+**implementing Directive 2009/65/EC of the European Parliament and of the Council as regards certain provisions concerning fund mergers, master-feeder structures and notification procedure**
+
+**(Text with EEA relevance)**
+
+**COMMISSION DIRECTIVE 2010/44/EU**
+
+**of 1 July 2010**
+
+**implementing Directive 2009/65/EC of the European Parliament and of the Council as regards certain provisions concerning fund mergers, master-feeder structures and notification procedure**
+
+**(Text with EEA relevance)**
+
+## CHAPTER I — GENERAL
+
+##### Article 1 — Subject matter
+
+This Directive lays down detailed rules for the implementation of Article 43(5), Article 60(6)(a) and (c), Articles 61(3) and 62(4), Article 64(4)(a) and Article 95(1) of Directive 2009/65/EC.
+
+##### Article 2 — Definitions
+
+For the purpose of this Directive the following definitions shall apply:
+
+1\. ‘rebalancing of the portfolio’ means a significant modification of the composition of the portfolio of a UCITS;
+
+2\. ‘synthetic risk and reward indicators’ means synthetic indicators within the meaning of Article 8 of Commission Regulation (EU) No 583/2010 of 1 July 2010 implementing Directive 2009/65/EC of the European Parliament and of the Council as regards key investor information and conditions to be met when providing key investor information or the prospectus in a durable medium other than paper or by means of a website ( 1 ).
+
+## CHAPTER II — UCITS MERGERS
+
+### SECTION 1 — Content of the merger information
+
+##### Article 3 — General rules regarding the content of information to be provided to unit-holders
+
+1\. Member States shall require that the information to be provided to unit-holders pursuant to Article 43(1) of Directive 2009/65/EC shall be written in a concise manner and in non-technical language that enables unit-holders to make an informed judgement of the impact of the proposed merger on their investment.
+
+In the case of a proposed cross-border merger, the merging UCITS and the receiving UCITS, respectively, shall explain in plain language any terms or procedures relating to the other UCITS which differ from those commonly used in the other Member State.
+
+2\. The information to be provided to the unit-holders of the merging UCITS shall meet the needs of investors who have no prior knowledge of the features of the receiving UCITS or of the manner of its operation. It shall draw their attention to the key investor information of the receiving UCITS and emphasise the desirability of reading it.
+
+3\. The information to be provided to the unit-holders of the receiving UCITS shall focus on the operation of the merger and its potential impact on the receiving UCITS.
+
+##### Article 4 — Specific rules regarding the content of information to be provided to unit-holders
+
+1\. Member States shall require that the information to be provided in accordance with Article 43(3)(b) of Directive 2009/65/EC to the unit-holders of the merging UCITS shall also include:
+
+(a) details of any differences in the rights of unit-holders of the merging UCITS before and after the proposed merger takes effect;
+
+(b) if the key investor information of the merging UCITS and the receiving UCITS show synthetic risk and reward indicators in different categories, or identify different material risks in the accompanying narrative, a comparison of those differences;
+
+(c) a comparison of all charges, fees and expenses for both UCITS, based on the amounts disclosed in their respective key investor information;
+
+(d) if the merging UCITS applies a performance-related fee, an explanation of how it will be applied up to the point at which the merger becomes effective;
+
+(e) if the receiving UCITS applies a performance-related fee, how it will subsequently be applied to ensure fair treatment of those unit-holders who previously held units in the merging UCITS;
+
+(f) in cases where Article 46 of Directive 2009/65/EC permits costs associated with the preparation and the completion of the merger to be charged to either the merging or the receiving UCITS or any of their unit-holders, details of how those costs are to be allocated;
+
+(g) an explanation of whether the management or investment company of the merging UCITS intends to undertake any rebalancing of the portfolio before the merger takes effect.
+
+2\. Member States shall require that the information to be provided in accordance with Article 43(3)(b) of Directive 2009/65/EC to the unit-holders of the receiving UCITS shall also include an explanation of whether the management or investment company of the receiving UCITS expects the merger to have any material impact on the portfolio of the receiving UCITS, and whether it intends to undertake any rebalancing of the portfolio either before or after the merger takes effect.
+
+3\. Member States shall require that the information to be provided in accordance with Article 43(3)(c) of Directive 2009/65/EC shall also include:
+
+(a) details of how any accrued income in the respective UCITS is to be treated;
+
+(b) an indication of how the report of the independent auditor or the depositary referred to in Article 42(3) of Directive 2009/65/EC may be obtained.
+
+4\. Member States shall require that if the terms of the proposed merger include provisions for a cash payment in accordance with points (p)(i) and (p)(ii) of Article 2(1) of Directive 2009/65/EC, the information to be provided to the unit-holders of the merging UCITS shall contain details of that proposed payment, including when and how unit-holders of the merging UCITS will receive the cash payment.
+
+5\. Member States shall require that the information to be provided in accordance with Article 43(3)(d) shall include:
+
+(a) where relevant under national law for the particular UCITS, the procedure by which unit-holders will be asked to approve the merger proposal, and what arrangements will be made to inform them of the outcome;
+
+(b) the details of any intended suspension of dealing in units to enable the merger to be carried out efficiently;
+
+(c) when the merger will take effect in accordance with Article 47(1) of Directive 2009/65/EC.
+
+6\. Member States shall ensure that in cases where, under the national law for the particular UCITS, the merger proposal must be approved by unit-holders, the information may contain a recommendation by the respective management company or board of directors of the investment company as to the course of action.
+
+7\. Member States shall require that the information to be provided to the unit-holders of the merging UCITS shall include:
+
+(a) the period during which the unit-holders shall be able to continue making subscriptions and requesting redemptions of units in the merging UCITS;
+
+(b) the time when those unit-holders not making use of their rights granted pursuant to Article 45(1) of Directive 2009/65/EC, within the relevant time limit, shall be able to exercise their rights as unit-holders of the receiving UCITS;
+
+(c) an explanation that in cases where the merger proposal must be approved by the unit-holders of the merging UCITS under national law and the proposal is approved by the necessary majority, those unit-holders who vote against the proposal or who do not vote at all, and who do not make use of their rights granted pursuant to Article 45(1) of Directive 2009/65/EC within the relevant time limit, shall become unit-holders of the receiving UCITS.
+
+8\. If a summary of the key points of the merger proposal is provided at the beginning of the information document, it must cross-refer to the parts of the information document where further information is provided.
+
+##### Article 5 — Key investor information
+
+1\. Member States shall ensure that an up-to-date version of the key investor information of the receiving UCITS shall be provided to existing unit-holders of the merging UCITS.
+
+2\. The key investor information of the receiving UCITS shall be provided to existing unit-holders of the receiving UCITS where it has been amended for the purpose of the proposed merger.
+
+##### Article 6 — New unit-holders
+
+Between the date when the information document pursuant to Article 43(1) of Directive 2009/65/EC is provided to unit-holders and the date when the merger takes effect, the information document and the up-to-date key investor information of the receiving UCITS shall be provided to each person who purchases or subscribes units in either the merging or the receiving UCITS or asks to receive copies of the fund rules or instruments of incorporation, prospectus or key investor information of either UCITS.
+
+### SECTION 2 — Method of providing the information
+
+##### Article 7 — Method of providing the information to unit-holders
+
+1\. Member States shall ensure that the merging and the receiving UCITS provide the information pursuant to Article 43(1) of Directive 2009/65/EC to unit-holders on paper or in another durable medium.
+
+2\. Where the information is to be provided to all or certain unit-holders using a durable medium other than paper, the following conditions shall be fulfilled:
+
+(a) the provision of the information is appropriate to the context in which the business between the unit-holder and the merging or receiving UCITS or, where relevant, the respective management company is, or is to be, carried on;
+
+(b) the unit-holder to whom the information is to be provided, when offered the choice between information on paper or in another durable medium, specifically chooses the durable medium other than paper.
+
+3\. For the purposes of paragraphs 1 and 2, the provision of information by means of electronic communications shall be treated as appropriate to the context in which the business between the merging and receiving UCITS or their respective management companies and the unit-holder is, or is to be, carried on if there is evidence that the unit-holder has regular access to the Internet. The provision by the unit-holder of an e-mail address for the purposes of the carrying on of that business shall be treated as such evidence.
+
+## CHAPTER III — MASTER-FEEDER STRUCTURES
+
+### SECTION 1 — Agreement and internal conduct of business rules between feeder UCITS and master UCITS
+
+#### Subsection 1 — Content of the agreement between master UCITS and feeder UCITS
+
+##### Article 8 — Access to information
+
+Member States shall require that the agreement between the master UCITS and the feeder UCITS referred to in the first subparagraph of Article 60(1) of Directive 2009/65/EC includes the following with regard to access to information:
+
+(a) how and when the master UCITS provides the feeder UCITS with a copy of its fund rules or instruments of incorporation, prospectus and key investor information or any amendment thereof;
+
+(b) how and when the master UCITS informs the feeder UCITS of a delegation of investment management and risk management functions to third parties in accordance with Article 13 of Directive 2009/65/EC;
+
+(c) where applicable, how and when the master UCITS provides the feeder UCITS with internal operational documents, such as its risk management process and its compliance reports;
+
+(d) what details of breaches by the master UCITS of the law, the fund rules or instruments of incorporation and the agreement between the master UCITS and the feeder UCITS the master UCITS shall notify the feeder UCITS of and the manner and timing thereof;
+
+(e) where the feeder UCITS uses financial derivative instruments for hedging purposes, how and when the master UCITS will provide the feeder UCITS with information about its actual exposure to financial derivative instruments to enable the feeder UCITS to calculate its own global exposure as envisaged by point (a) of the second subparagraph of Article 58(2) of Directive 2009/65/EC;
+
+(f) a statement that the master UCITS informs the feeder UCITS of any other information-sharing arrangements entered into with third parties and where applicable, how and when the master UCITS makes those other information-sharing arrangements available to the feeder UCITS.
+
+##### Article 9 — Basis of investment and divestment by the feeder UCITS
+
+Member States shall require that the agreement between the master UCITS and the feeder UCITS referred to in the first subparagraph of Article 60(1) of Directive 2009/65/EC includes the following with regard to the basis of investment and divestment by the feeder UCITS:
+
+(a) a statement of which share classes of the master UCITS are available for investment by the feeder UCITS;
+
+(b) the charges and expenses to be borne by the feeder UCITS, and details of any rebate or retrocession of charges or expenses by the master UCITS;
+
+(c) if applicable, the terms on which any initial or subsequent transfer of assets in kind may be made from the feeder UCITS to the master UCITS.
+
+##### Article 10 — Standard dealing arrangements
+
+Member States shall require that the agreement between the master UCITS and the feeder UCITS referred to in the first subparagraph of Article 60(1) of Directive 2009/65/EC includes the following with regard to standard dealing arrangements:
+
+(a) coordination of the frequency and timing of the net asset value calculation process and the publication of prices of units;
+
+(b) coordination of transmission of dealing orders by the feeder UCITS, including, where applicable, the role of transfer agents or any other third party;
+
+(c) where applicable, any arrangements necessary to take account of the fact that either or both UCITS are listed or traded on a secondary market;
+
+(d) where necessary, other appropriate measures to ensure compliance with the requirements of Article 60(2) of Directive 2009/65/EC;
+
+(e) where the units of the feeder UCITS and the master UCITS are denominated in different currencies, the basis for conversion of dealing orders;
+
+(f) settlement cycles and payment details for purchases or subscriptions and repurchases or redemptions of units of the master UCITS including, where agreed between the parties, the terms on which the master UCITS may settle redemption requests by a transfer of assets in kind to the feeder UCITS, notably in the cases referred to in Article 60(4) and (5) of Directive 2009/65/EC;
+
+(g) procedures to ensure enquiries and complaints from unit-holders are handled appropriately;
+
+(h) where the fund rules or instruments of incorporation and prospectus of the master UCITS give it certain rights or powers in relation to unit-holders, and the master UCITS chooses to limit or forego the exercise of all or any such rights and powers in relation to the feeder UCITS, a statement of the terms on which it does so.
+
+##### Article 11 — Events affecting dealing arrangements
+
+Member States shall require that the agreement between the master UCITS and the feeder UCITS referred to in the first subparagraph of Article 60(1) of Directive 2009/65/EC includes the following with regard to events affecting dealing arrangements:
+
+(a) the manner and timing of a notification by either UCITS of the temporary suspension and the resumption of repurchase, redemption, purchase or subscription of units of that UCITS;
+
+(b) arrangements for notifying and resolving pricing errors in the master UCITS.
+
+##### Article 12 — Standard arrangements for the audit report
+
+Member States shall require that the agreement between the master UCITS and the feeder UCITS referred to in the first subparagraph of Article 60(1) of Directive 2009/65/EC includes the following with regard to standard arrangements for the audit report:
+
+(a) where the feeder UCITS and the master UCITS have the same accounting years, the coordination of the production of their periodic reports;
+
+(b) where the feeder UCITS and the master UCITS have different accounting years, arrangements for the feeder UCITS to obtain any necessary information from the master UCITS to enable it to produce its periodic reports on time and which ensure that the auditor of the master UCITS is in a position to produce an ad hoc report on the closing date of the feeder UCITS in accordance with the first subparagraph of Article 62(2) of Directive 2009/65/EC.
+
+##### Article 13 — Changes to standing arrangements
+
+Member States shall require that the agreement between the master UCITS and the feeder UCITS referred to in the first subparagraph of Article 60(1) of Directive 2009/65/EC includes the following with regard to changes to standing arrangements:
+
+(a) the manner and timing of notice to be given by the master UCITS of proposed and effective amendments to its fund rules or instruments of incorporation, prospectus and key investor information, if these details differ from the standard arrangements for notification of unit-holders laid down in the master UCITS fund rules, instruments of incorporation or prospectus;
+
+(b) the manner and timing of notice by the master UCITS of a planned or proposed liquidation, merger, or division;
+
+(c) the manner and timing of notice by either UCITS that it has ceased or will cease to meet the qualifying conditions to be a feeder UCITS or a master UCITS respectively;
+
+(d) the manner and timing of notice by either UCITS that it intends to replace its management company, its depositary, its auditor or any third party which is mandated to carry out investment management or risk management functions;
+
+(e) the manner and timing of notice of other changes to standing arrangements that the master UCITS undertakes to provide.
+
+##### Article 14 — Choice of the applicable law
+
+1\. Member States shall ensure that where the feeder UCITS and the master UCITS are established in the same Member State, the agreement between the master UCITS and the feeder UCITS referred to in the first subparagraph of Article 60(1) of Directive 2009/65/EC provides that the law of that Member State shall apply to the agreement and that both parties agree to the exclusive jurisdiction of the courts of that Member State.
+
+2\. Member States shall ensure that where the feeder UCITS and the master UCITS are established in different Member States, the agreement between the master UCITS and the feeder UCITS referred to in the first subparagraph of Article 60(1) of Directive 2009/65/EC provides that the applicable law shall be either the law of the Member State in which the feeder UCITS is established or that it shall be that of the Member State in which the master UCITS is established and that both parties agree to the exclusive jurisdiction of the courts of the Member State whose law they have stipulated to be applicable to the agreement.
+
+#### Subsection 2 — Content of the internal conduct of business rules
+
+##### Article 15 — Conflicts of interest
+
+Member States shall ensure that the management company's internal conduct of business rules referred to in the third subparagraph of Article 60(1) of Directive 2009/65/EC shall include appropriate measures to mitigate conflicts of interest that may arise between the feeder UCITS and the master UCITS, or between the feeder UCITS and other unit-holders of the master UCITS, to the extent that these are not sufficiently addressed by the measures applied by the management company in order to meet requirements of Articles 12(1)(b) and 14(1)(d) of Directive 2009/65/EC and Chapter III of Commission Directive 2010/43/EU of 1 July 2010 implementing Directive 2009/65/EC of the European Parliament and of the Council as regards organisational requirements, conflicts of interest, conduct of business, risk management and content of the agreement between a depositary and a management company ( 2 ).
+
+##### Article 16 — Basis of investment and divestment by the feeder UCITS
+
+Member States shall ensure that the management company's internal conduct of business rules referred to in the third subparagraph of Article 60(1) of Directive 2009/65/EC shall include at least the following with regard to the basis of investment and divestment by the feeder UCITS:
+
+(a) a statement of which share classes of the master UCITS are available for investment by the feeder UCITS;
+
+(b) the charges and expenses to be borne by the feeder UCITS, and details of any rebate or retrocession of charges or expenses by the master UCITS;
+
+(c) where applicable, the terms on which any initial or subsequent transfer of assets in kind may be made from the feeder UCITS to the master UCITS.
+
+##### Article 17 — Standard dealing arrangements
+
+Member States shall ensure that the management company's internal conduct of business rules referred to in the third subparagraph of Article 60(1) of Directive 2009/65/EC shall include at least the following with regard to standard dealing arrangements:
+
+(a) coordination of the frequency and timing of the net asset value calculation process and the publication of prices of units;
+
+(b) coordination of transmission of dealing orders by the feeder UCITS, including, if applicable, the role of transfer agents or any other third party;
+
+(c) where applicable, any arrangements necessary to take account of the fact that either or both UCITS are listed or traded on a secondary market;
+
+(d) appropriate measures to ensure compliance with the requirements of Article 60(2) of Directive 2009/65/EC;
+
+(e) where the feeder UCITS and the master UCITS are denominated in different currencies, the basis for conversion of dealing orders;
+
+(f) settlement cycles and payment details for purchases and redemptions of units of the master UCITS including, where agreed between the parties, the terms on which the master UCITS may settle redemption requests by a transfer of assets in kind to the feeder UCITS, notably in the cases referred to in Article 60(4) and (5) of Directive 2009/65/EC;
+
+(g) where the fund rules or instruments of incorporation and prospectus of the master UCITS give it certain rights or powers in relation to unit-holders, and the master UCITS chooses to limit or forego the exercise of all or any such rights and powers in relation to the feeder UCITS, a statement of the terms on which it does so.
+
+##### Article 18 — Events affecting dealing arrangements
+
+Member States shall ensure that the management company's internal conduct of business rules referred to in the third subparagraph of Article 60(1) of Directive 2009/65/EC shall include at least the following with regard to events affecting dealing arrangements:
+
+(a) the manner and timing of notification by either UCITS of the temporary suspension and the resumption of the repurchase, redemption or subscription of units of UCITS;
+
+(b) arrangements for notifying and resolving pricing errors in the master UCITS.
+
+##### Article 19 — Standard arrangements for the audit report
+
+Member States shall ensure that the management company's internal conduct of business rules referred to in the third subparagraph of Article 60(1) of Directive 2009/65/EC shall include at least the following with regard to standard arrangements for the audit report:
+
+(a) where the feeder UCITS and the master UCITS have the same accounting years, the coordination of the production of their periodic reports;
+
+(b) where the feeder UCITS and the master UCITS have different accounting years, arrangements for the feeder UCITS to obtain any necessary information from the master UCITS to enable it to produce its periodic reports on time and which ensure that the auditor of the master UCITS is in a position to make an ad hoc report on the closing date of the feeder UCITS in accordance with the first subparagraph of Article 62(2) of Directive 2009/65/EC.
+
+### SECTION 2 — Liquidation, merger or division of the master UCITS
+
+#### Subsection 1 — Procedures in the event of a liquidation
+
+##### Article 20 — Application for approval
+
+1\. Member States shall require the feeder UCITS to submit to its competent authorities no later than two months after the date on which the master UCITS informed it of the binding decision to liquidate, the following:
+
+(a) where the feeder UCITS intends to invest at least 85 % of its assets in units of another master UCITS in accordance with Article 60(4)(a) of Directive 2009/65/EC:
+
+(i) its application for approval for that investment;
+
+(ii) its application for approval of the proposed amendments to its fund rules or instrument of incorporation;
+
+(iii) the amendments to its prospectus and its key investor information in accordance with Articles 74 and 82 of Directive 2009/65/EC, respectively;
+
+(iv) the other documents required pursuant to Article 59(3) of Directive 2009/65/EC;
+
+(b) where the feeder UCITS intends to convert into a UCITS that is not a feeder UCITS in accordance with Article 60(4)(b) of Directive 2009/65/EC:
+
+(i) its application for approval of the proposed amendments to its fund rules or instrument of incorporation;
+
+(ii) the amendments to its prospectus and its key investor information in accordance with Articles 74 and 82 of Directive 2009/65/EC, respectively;
+
+(c) where the feeder UCITS intends to be liquidated, a notification of that intention.
+
+2\. By way of derogation from paragraph 1, where the master UCITS informed the feeder UCITS of its binding decision to liquidate more than five months before the date at which the liquidation will start, the feeder UCITS shall submit to its competent authorities its application or notification in accordance with one of the points (a), (b) or (c) of paragraph 1 at the latest three months before that date.
+
+3\. The feeder UCITS shall inform its unit-holders of its intention to be liquidated without undue delay.
+
+##### Article 21 — Approval
+
+1\. The feeder UCITS shall be informed within 15 working days following the complete submission of the documents referred to in points (a) or (b) of Article 20(1) respectively, whether the competent authorities have granted the required approvals.
+
+2\. On receiving the competent authorities’ approval pursuant to paragraph 1, the feeder UCITS shall inform the master UCITS of it.
+
+3\. The feeder UCITS shall take necessary measures to comply with the requirements of Article 64 of Directive 2009/65/EC as soon as possible after the competent authorities have granted the necessary approvals pursuant to Article 20(1)(a) of this Directive.
+
+4\. Where the payment of liquidation proceeds of the master UCITS is to be executed before the date on which the feeder UCITS is to start to invest in either a different master UCITS pursuant to Article 20(1)(a) or in accordance with its new investment objectives and policy pursuant to Article 20(1)(b), the competent authorities of the feeder UCITS shall grant approval subject to the following conditions:
+
+(a) the feeder UCITS shall receive the proceeds of the liquidation:
+
+(i) in cash; or
+
+(ii) some or all of the proceeds as a transfer of assets in kind where the feeder UCITS so wishes and where the agreement between the feeder UCITS and master UCITS or the internal conduct of business rules and the binding decision to liquidate provide for it;
+
+(b) any cash held or received in accordance with this paragraph may be re-invested only for the purpose of efficient cash management before the date on which the feeder UCITS is to start to invest either in a different master UCITS or in accordance with its new investment objectives and policy.
+
+Where point (a)(ii) of the first subparagraph applies, the feeder UCITS may realise any part of the assets transferred in kind for cash at any time.
+
+#### Subsection 2 — Procedures in the event of a merger or division
+
+##### Article 22 — Application for approval
+
+1\. Member States shall require that the feeder UCITS submits to its competent authorities, no later than one month after the date on which the feeder UCITS received the information of the planned merger or division in accordance with the second subparagraph of Article 60(5) of Directive 2009/65/EC, the following:
+
+(a) where the feeder UCITS intends to continue to be a feeder UCITS of the same master UCITS:
+
+(i) its application for approval thereof;
+
+(ii) where applicable, its application for approval of the proposed amendments to its fund rules or instrument of incorporation;
+
+(iii) where applicable, the amendments to its prospectus and its key investor information in accordance with Articles 74 and 82 of Directive 2009/65/EC, respectively;
+
+(b) where the feeder UCITS intends to become a feeder UCITS of another master UCITS resulting from the proposed merger or division of the master UCITS or where the feeder UCITS intends to invest at least 85 % of its assets in units of another master UCITS not resulting from the merger or division:
+
+(i) its application for approval of that investment;
+
+(ii) its application for approval of the proposed amendments to its fund rules or instruments of incorporation;
+
+(iii) the amendments to its prospectus and its key investor information in accordance with Articles 74 and 82 of Directive 2009/65/EC, respectively;
+
+(iv) the other documents required pursuant to Article 59(3) of Directive 2009/65/EC;
+
+(c) where the feeder UCITS intends to convert into a UCITS that is not a feeder UCITS in accordance with Article 60(4)(b) of Directive 2009/65/EC:
+
+(i) its application for approval of the proposed amendments to its fund rules or instrument of incorporation;
+
+(ii) the amendments to its prospectus and its key investor information in accordance with Articles 74 and 82 of Directive 2009/65/EC, respectively;
+
+(d) where the feeder UCITS intends to be liquidated, a notification of that intention.
+
+2\. For the purpose of the application of points (a) and (b) of paragraph 1 the following should be taken into account:
+
+The expression ‘continues to be a feeder UCITS of the same master UCITS’ refers to cases where:
+
+(a) the master UCITS is the receiving UCITS in a proposed merger;
+
+(b) the master UCITS is to continue materially unchanged as one of the resulting UCITS in a proposed division.
+
+The expression ‘becomes a feeder UCITS of another master UCITS resulting from the merger or division of the master UCITS’ refers to cases where:
+
+(a) the master UCITS is the merging UCITS and, due to the merger, the feeder UCITS becomes a unit-holder of the receiving UCITS;
+
+(b) the feeder UCITS becomes a unit-holder of a UCITS resulting from a division that is materially different to the master UCITS.
+
+3\. By way of derogation from paragraph 1, in cases where the master UCITS provided the information referred to in or comparable with Article 43 of Directive 2009/65/EC to the feeder UCITS more than four months before the proposed effective date, the feeder UCITS shall submit to its competent authorities its application or notification in accordance with one of the points (a) to (d) of paragraph 1 of this Article at the latest three months before the proposed effective date of the merger or division of the master UCITS.
+
+4\. The feeder UCITS shall inform its unit-holders and the master UCITS of its intention to be liquidated without undue delay.
+
+##### Article 23 — Approval
+
+1\. The feeder UCITS shall be informed within 15 working days following the complete submission of the documents referred to in Article 22(1)(a) to (c) respectively, whether the competent authorities have granted the required approvals.
+
+2\. Upon receipt of the information that the competent authorities have granted approval according to paragraph 1, the feeder UCITS shall inform the master UCITS of it.
+
+3\. After the feeder UCITS has been informed that the competent authorities have granted the necessary approvals pursuant to Article 22(1)(b) of this Directive, the feeder UCITS shall take the necessary measures to comply with the requirements of Article 64 of Directive 2009/65/EC without undue delay.
+
+4\. In the cases of Article 22(1)(b) and (c) of this Directive, the feeder UCITS shall exercise the right to request repurchase and redemption of its units in the master UCITS in accordance with the third subparagraph of Article 60(5) and Article 45(1) of Directive 2009/65/EC, where the competent authorities of the feeder UCITS have not granted the necessary approvals required pursuant to Article 22(1) of this Directive by the working day preceding the last day on which the feeder UCITS can request repurchase and redemption of its units in the master UCITS before the merger or division is effected.
+
+The feeder UCITS shall also exercise this right in order to ensure that the right of its own unit-holders to request repurchase or redemption of their units in the feeder UCITS according to Article 64(1)(d) of Directive 2009/65/EC is not affected.
+
+Before exercising the right referred to in the first subparagraph, the feeder UCITS shall consider available alternative solutions which may help to avoid or reduce transaction costs or other negative impacts for its own unit-holders.
+
+5\. Where the feeder UCITS requests repurchase or redemption of its units in the master UCITS, it shall receive one of the following:
+
+(a) the repurchase or redemption proceeds in cash;
+
+(b) some or all of the repurchase or redemption proceeds as a transfer in kind where the feeder UCITS so wishes and where the agreement between the feeder UCITS and the master UCITS provides for it.
+
+Where point (b) of the first subparagraph applies, the feeder UCITS may realise any part of the transferred assets for cash at any time.
+
+6\. The competent authorities of the feeder UCITS shall grant approval on the condition that any cash held or received in accordance with paragraph 5 may be re-invested only for the purpose of efficient cash management before the date on which the feeder UCITS is to start to invest either in the new master UCITS or in accordance with its new investment objectives and policy.
+
+### SECTION 3 — Depositaries and auditors
+
+#### Subsection 1 — Depositaries
+
+##### Article 24 — Content of the information-sharing agreement between depositaries
+
+The information-sharing agreement between the depositary of the master UCITS and the depositary of the feeder UCITS referred to in Article 61(1) of Directive 2009/65/EC shall include the following:
+
+(a) the identification of the documents and categories of information which are to be routinely shared between both depositaries, and whether such information or documents are provided by one depositary to the other or made available on request;
+
+(b) the manner and timing, including any applicable deadlines, of the transmission of information by the depositary of the master UCITS to the depositary of the feeder UCITS;
+
+(c) the coordination of the involvement of both depositaries, to the extent appropriate in view of their respective duties under national law, in relation to operational matters, including:
+
+(i) the procedure for calculating the net asset value of each UCITS, including any measures appropriate to protect against the activities of market timing in accordance with Article 60(2) of Directive 2009/65/EC;
+
+(ii) the processing of instructions by the feeder UCITS to purchase, subscribe or request the repurchase or redemption of units in the master UCITS, and the settlement of such transactions, including any arrangement to transfer assets in kind;
+
+(d) the coordination of accounting year-end procedures;
+
+(e) what details of breaches by the master UCITS of the law and the fund rules or instrument of incorporation the depositary of the master UCITS shall provide to the depositary of the feeder UCITS and the manner and timing of their provision;
+
+(f) the procedure for handling ad hoc requests for assistance from one depositary to the other;
+
+(g) identification of particular contingent events which ought to be notified by one depositary to the other on an ad hoc basis, and the manner and timing in which this will be done.
+
+##### Article 25 — Choice of the applicable law
+
+1\. Member States shall ensure that where the feeder UCITS and the master UCITS have concluded an agreement in accordance with Article 60(1) of Directive 2009/65/EC, the agreement between the depositaries of the master UCITS and the feeder UCITS provides that the law of the Member State applying to that agreement in accordance with Article 14 of this Directive shall also apply to the information-sharing agreement between both depositaries and that both depositaries agree to the exclusive jurisdiction of the courts of that Member State;
+
+2\. Member States shall ensure that where the agreement between the feeder UCITS and the master UCITS has been replaced by internal conduct of business rules in accordance with the third subparagraph of Article 60(1) of Directive 2009/65/EC, the agreement between the depositaries of the master UCITS and the feeder UCITS provides that the law applying to the information-sharing agreement between both depositaries shall be either that of the Member State in which the feeder UCITS is established or, where different, that of the Member State in which the master UCITS is established, and that both depositaries agree to the exclusive jurisdiction of the courts of the Member State whose law is applicable to the information-sharing agreement.
+
+##### Article 26 — Reporting of irregularities by the depositary of the master UCITS
+
+The irregularities referred to in Article 61(2) of Directive 2009/65/EC which the depositary of the master UCITS detects in the course of carrying out its function under the national law and which may have a negative impact on the feeder UCITS shall include, but are not limited to:
+
+(a) errors in the net asset value calculation of the master UCITS;
+
+(b) errors in transactions for or settlement of the purchase, subscription or request to repurchase or redeem units in the master UCITS undertaken by the feeder UCITS;
+
+(c) errors in the payment or capitalisation of income arising from the master UCITS, or in the calculation of any related withholding tax;
+
+(d) breaches of the investment objectives, policy or strategy of the master UCITS, as described in its fund rules or instrument of incorporation, prospectus or key investor information;
+
+(e) breaches of investment and borrowing limits set out in national law or in the fund rules, instruments of incorporation, prospectus or key investor information.
+
+#### Subsection 2 — Auditors
+
+##### Article 27 — Information-sharing agreement between auditors
+
+1\. The information-sharing agreement between the auditor of the master UCITS and the auditor of the feeder UCITS referred to in Article 62(1) of Directive 2009/65/EC shall include the following:
+
+(a) the identification of the documents and categories of information which are to be routinely shared between both auditors;
+
+(b) whether the information or documents referred to in point (a) are to be provided by one auditor to the other or made available on request;
+
+(c) the manner and timing, including any applicable deadlines, of the transmission of information by the auditor of the master UCITS to the auditor of the feeder UCITS;
+
+(d) the coordination of the involvement of each auditor in the accounting year-end procedures for the respective UCITS;
+
+(e) identification of matters that shall be treated as irregularities disclosed in the audit report of the auditor of the master UCITS for the purposes of the second subparagraph of Article 62(2) of Directive 2009/65/EC;
+
+(f) the manner and timing for handling ad hoc requests for assistance from one auditor to the other, including a request for further information on irregularities disclosed in the audit report of the auditor of the master UCITS.
+
+2\. The agreement referred to in paragraph 1 shall include provisions on the preparation of the audit reports referred to in Article 62(2) and Article 73 of Directive 2009/65/EC and the manner and timing for the provision of the audit report for the master UCITS and drafts of it to the auditor of the feeder UCITS.
+
+3\. Where the feeder UCITS and the master UCITS have different accounting year-end dates, the agreement referred to in paragraph 1 shall include the manner and timing by which the auditor of the master UCITS is to make the ad hoc report required by the first subparagraph of Article 62(2) Directive 2009/65/EC and to provide it and drafts of it to the auditor of the feeder UCITS.
+
+##### Article 28 — Choice of the applicable law
+
+1\. Member State shall ensure that where the feeder UCITS and the master UCITS have concluded an agreement in accordance with Article 60(1) of Directive 2009/65/EC, the agreement between the auditors of the master UCITS and the feeder UCITS provides that the law of the Member State applying to that agreement in accordance with Article 14 of this Directive shall also apply to the information-sharing agreement between both auditors and that both auditors agree to the exclusive jurisdiction of the courts of that Member State.
+
+2\. Member States shall ensure that where the agreement between the feeder UCITS and the master UCITS has been replaced by internal conduct of business rules in accordance with the third subparagraph of Article 60(1) of Directive 2009/65/EC, the agreement between the auditors of the master UCITS and the feeder UCITS provides that the law applying to the information-sharing agreement between both auditors shall be either that of the Member State in which the feeder UCITS is established or, where different, that of the Member State in which the master UCITS is established, and that both auditors agree to the exclusive jurisdiction of the courts of the Member State whose law is applicable to the information-sharing agreement.
+
+### SECTION 4 — Manner of providing the information to unit-holders
+
+##### Article 29 — Manner of providing the information to unit-holders
+
+Member States shall ensure that the feeder UCITS provides the information to unit-holders pursuant to Article 64(1) of Directive 2009/65/EC in the same manner as prescribed by Article 7 of this Directive.
+
+## CHAPTER IV — NOTIFICATION PROCEDURE
+
+##### Article 30 — Scope of the information to be made accessible by Member States in accordance with Article 91(3) of Directive 2009/65/EC
+
+1\. Member States shall ensure that the following categories of information on the relevant laws, regulations and administrative provisions are made accessible in accordance with Article 91(3) of Directive 2009/65/EC:
+
+(a) the definition of the term ‘marketing of units of UCITS’ or the equivalent legal term either as stated in national legislation or as developed in practice;
+
+(b) requirements for the contents, format and manner of presentation of marketing communications, including all compulsory warnings and restrictions on the use of certain words or phrases;
+
+(c) without prejudice to Chapter IX of Directive 2009/65/EC, details of any additional information required to be disclosed to investors;
+
+(d) details of any exemptions from rules or requirements governing arrangements made for marketing applicable in that Member State for certain UCITS, certain share classes of UCITS or certain categories of investors;
+
+(e) requirements for any reporting or transmission of information to the competent authorities of that Member State, and the procedure for lodging updated versions of required documents;
+
+(f) requirements for any fees or other sums to be paid to the competent authorities or any other statutory body in that Member State, either when marketing commences or periodically thereafter;
+
+(g) requirements in relation to the facilities to be made available to unit-holders as required by Article 92 of Directive 2009/65/EC;
+
+(h) conditions for the termination of marketing of units of UCITS in that Member State by a UCITS situated in another Member State;
+
+(i) detailed contents of the information required by a Member State to be included in Part B of the notification letter as referred to in Article 1 of Commission Regulation (EU) No 584/2010 of 1 July 2010 implementing Directive 2009/65/EC of the European Parliament and of the Council as regards the form and content of standard notification letter and UCITS attestation, the use of electronic communication between competent authorities for the purpose of notification, and procedures for on-the-spot verifications and investigations and the exchange of information between competent authorities ( 3 );
+
+(j) the e-mail address designated for the purpose of Article 32.
+
+2\. Member States shall give the information listed in paragraph 1 in the form of a narrative description, or a combination of a narrative description and a series of references or links to source documents.
+
+##### Article 31 — UCITS host Member State's access to documents
+
+1\. Member States shall require UCITS to ensure that an electronic copy of each document referred to in Article 93(2) of Directive 2009/65/EC is made available on a website of the UCITS, or a website of the management company that manages that UCITS, or on another website designated by the UCITS in the notification letter submitted in accordance with Article 93(1) of Directive 2009/65/EC or any updates of it. Any document made available on a website shall be provided in an electronic format in common use.
+
+2\. Member States shall require UCITS to ensure that the UCITS host Member State has access to the website referred to in paragraph 1.
+
+##### Article 32 — Updates of documents
+
+1\. Competent authorities shall designate an e-mail address for the purpose of receiving notification of updates and amendments to the documents referred to in Article 93(2) of Directive 2009/65/EC, pursuant to Article 93(7) of that Directive.
+
+2\. Member States shall allow UCITS to notify any update or amendment to the documents referred to in Article 93(2) of Directive 2009/65/EC, pursuant to Article 93(7) of Directive 2009/65/EC by e-mail to be sent to the e-mail address referred to in paragraph 1.
+
+The e-mail notifying such an update or amendment may either describe the update or the amendment that has been made, or provide a new version of the document as an attachment.
+
+3\. Member States shall require that any document attached to the e-mail referred to in paragraph 2, shall be provided by UCITS in a commonly used electronic format.
+
+##### Article 33 — Development of common data processing systems
+
+1\. In order to facilitate access by the competent authorities of the UCITS host Member States to the information or documents referred to in Article 93(1), (2) and (3) of Directive 2009/65/EC, for the purpose of Article 93(7) of that Directive, competent authorities of Member States may coordinate the establishment of sophisticated electronic data processing and central storage systems common to all Member States.
+
+2\. The coordination between Member States referred to in paragraph 1 shall take place in the Committee of European Securities Regulators.
+
+## CHAPTER V — FINAL PROVISIONS
+
+##### Article 34 — Transposition
+
+1\. Member States shall bring into force the laws, regulations and administrative provisions necessary to comply with this Directive by 30 June 2011 at the latest.
+
+However, they shall bring into force the laws, regulations and administrative provisions necessary to comply with Articles 7 and 29 by 31 December 2013 at the latest.
+
+They shall forthwith communicate to the Commission the text of those provisions and a correlation table between those provisions and this Directive.
+
+When Member States adopt those provisions, they shall contain a reference to this Directive or be accompanied by such a reference on the occasion of their official publication. Member States shall determine how such reference is to be made.
+
+2\. Member States shall communicate to the Commission the text of the main provisions of national law which they adopt in the field covered by this Directive.
+
+##### Article 35 — Entry into force
+
+This Directive shall enter into force on the 20th day following its publication in the Official Journal of the European Union.
+
+##### Article 36 — Addressees
+
+This Directive is addressed to the Member States.
+
+( 1 ) See page 1 of this Official Journal.
+
+( 2 ) See page 42 of this Official Journal.
+
+( 3 ) See page 16 of this Official Journal.

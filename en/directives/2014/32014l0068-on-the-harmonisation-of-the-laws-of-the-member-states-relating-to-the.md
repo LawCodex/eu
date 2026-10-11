@@ -1,0 +1,3065 @@
+---
+title: "Directive 2014/68/EU of the European Parliament and of the Council of 15 May 2014 on the harmonisation of the laws of the Member States relating to the making available on the market of pressure equipment (recast) Text with EEA relevance"
+identifier: "32014L0068"
+eli: "http://data.europa.eu/eli/dir/2014/68/oj"
+type: directive
+jurisdiction: eu
+language: en
+date: 2014-05-15
+entry_into_force: 2014-03-25
+last_amended: 2026-05-30
+consolidated_version: "02014L0068-20260530"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02014L0068-20260530"
+retrieved: 2026-10-11
+---
+
+# Directive 2014/68/EU of the European Parliament and of the Council of 15 May 2014 on the harmonisation of the laws of the Member States relating to the making available on the market of pressure equipment (recast) Text with EEA relevance
+
+**DIRECTIVE 2014/68/EU OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 15 May 2014**
+
+**on the harmonisation of the laws of the Member States relating to the making available on the market of pressure equipment**
+
+**(recast)**
+
+**(Text with EEA relevance)**
+
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> DIRECTIVE (EU) 2024/2749 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 9 October 2024 </td><td> L 2749</td><td>1</td><td>8.11.2024</td></tr>
+
+**DIRECTIVE 2014/68/EU OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 15 May 2014**
+
+**on the harmonisation of the laws of the Member States relating to the making available on the market of pressure equipment**
+
+**(recast)**
+
+**(Text with EEA relevance)**
+
+## CHAPTER 1 — GENERAL PROVISIONS
+
+### Article 1 — Scope
+
+1\. This Directive shall apply to the design, manufacture and conformity assessment of pressure equipment and assemblies with a maximum allowable pressure PS greater than 0,5 bar.
+
+2\. This Directive shall not apply to:
+
+(a) pipelines comprising piping or a system of piping designed for the conveyance of any fluid or substance to or from an installation (onshore or offshore) starting from and including the last isolation device located within the confines of the installation, including all the annexed equipment designed specifically for pipelines; this exclusion shall not apply to standard pressure equipment such as may be found in pressure reduction stations or compression stations;
+
+(b) networks for the supply, distribution and discharge of water and associated equipment and headraces such as penstocks, pressure tunnels, pressure shafts for hydroelectric installations and their related specific accessories;
+
+(c) simple pressure vessels covered by Directive 2014/29/EU of the European Parliament and of the Council ( 1 );
+
+(d) aerosol dispensers covered by Council Directive 75/324/EEC ( 2 );
+
+(e) equipment intended for the functioning of vehicles defined by the following legal acts:
+
+(i) Directive 2007/46/EC of the European Parliament and of the Council ( 3 );
+
+(ii) Regulation (EU) No 167/2013 of the European Parliament and of the Council ( 4 );
+
+(iii) Regulation (EU) No 168/2013 of the European Parliament and of the Council ( 5 );
+
+(f) equipment classified as no higher than category I under Article 13 of this Directive and covered by one of the following Directives:
+
+(i) Directive 2006/42/EC of the European Parliament and of the Council ( 6 );
+
+(ii) Directive 2014/33/EU of the European Parliament and of the Council ( 7 );
+
+(iii) Directive 2014/35/EU of the European Parliament and of the Council ( 8 );
+
+(iv) Council Directive 93/42/EEC ( 9 );
+
+(v) Directive 2009/142/EC of the European Parliament and of the Council ( 10 );
+
+(vi) Directive 2014/34/EU of the European Parliament and of the Council ( 11 );
+
+(g) equipment covered by point (b) of Article 346(1) TFEU;
+
+(h) items specifically designed for nuclear use, failure of which may cause an emission of radioactivity;
+
+(i) well-control equipment used in the petroleum, gas or geothermal exploration and extraction industry and in underground storage which is intended to contain and/or control well pressure; this shall comprise the wellhead (Christmas tree), the blow out preventers (BOP), the piping manifolds and all their equipment upstream;
+
+(j) equipment comprising casings or machinery where the dimensioning, choice of material and manufacturing rules are based primarily on requirements for sufficient strength, rigidity and stability to meet the static and dynamic operational effects or other operational characteristics and for which pressure is not a significant design factor; such equipment may include:
+
+(i) engines including turbines and internal combustion engines;
+
+(ii) steam engines, gas/steam turbines, turbo-generators, compressors, pumps and actuating devices;
+
+(k) blast furnaces including the furnace cooling system, hot-blast recuperators, dust extractors and blast-furnace exhaust-gas scrubbers and direct reducing cupolas, including the furnace cooling, gas converters and pans for melting, re-melting, de-gassing and casting of steel, iron and non-ferrous metals;
+
+(l) enclosures for high-voltage electrical equipment such as switchgear, control gear, transformers, and rotating machines;
+
+(m) pressurised pipes for the containment of transmission systems, e.g. for electrical power and telephone cables;
+
+(n) ships, rockets, aircraft and mobile off-shore units, as well as equipment specifically intended for installation on board or the propulsion thereof;
+
+(o) pressure equipment consisting of a flexible casing, e.g. tyres, air cushions, balls used for play, inflatable craft, and other similar pressure equipment;
+
+(p) exhaust and inlet silencers;
+
+(q) bottles or cans for carbonated drinks for final consumption;
+
+(r) vessels designed for the transport and distribution of drinks having a PS·V of not more than 500 bar·L and a maximum allowable pressure not exceeding 7 bar;
+
+(s) equipment covered by Directive 2008/68/EC and Directive 2010/35/EU and equipment covered by the International Maritime Dangerous Goods Code and the Convention on International Civil Aviation;
+
+(t) radiators and pipes in warm water heating systems;
+
+(u) vessels designed to contain liquids with a gas pressure above the liquid of not more than 0,5 bar.
+
+### Article 2 — Definitions
+
+For the purposes of this Directive, the following definitions shall apply:
+
+(1) ‘pressure equipment’ means vessels, piping, safety accessories and pressure accessories, including, where applicable, elements attached to pressurised parts, such as flanges, nozzles, couplings, supports, lifting lugs;
+
+(2) ‘vessel’ means a housing designed and built to contain fluids under pressure including its direct attachments up to the coupling point connecting it to other equipment; a vessel may be composed of more than one chamber;
+
+(3) ‘piping’ means piping components intended for the transport of fluids, when connected together for integration into a pressure system; piping includes in particular a pipe or system of pipes, tubing, fittings, expansion joints, hoses, or other pressure-bearing components as appropriate; heat exchangers consisting of pipes for the purpose of cooling or heating air shall be considered as piping;
+
+(4) ‘safety accessories’ means devices designed to protect pressure equipment against the allowable limits being exceeded, including devices for direct pressure limitation, such as safety valves, bursting disc safety devices, buckling rods, controlled safety pressure relief systems (CSPRS), and limiting devices, which either activate the means for correction or provide for shutdown or shutdown and lockout, such as pressure switches or temperature switches or fluid level switches and safety related measurement control and regulation (SRMCR) devices;
+
+(5) ‘pressure accessories’ means devices with an operational function and having pressure-bearing housings;
+
+(6) ‘assemblies’ means several pieces of pressure equipment assembled by a manufacturer to constitute an integrated and functional whole;
+
+(7) ‘pressure’ means pressure relative to atmospheric pressure, i.e. gauge pressure. As a consequence, vacuum is designated by a negative value;
+
+(8) ‘maximum allowable pressure PS’ means the maximum pressure for which the equipment is designed, as specified by the manufacturer, and defined at a location specified by him, being either the connection of protective and/or limiting devices, or the top of equipment or, if not appropriate, any point specified;
+
+(9) ‘maximum/minimum allowable temperature TS’ means the maximum/minimum temperatures for which the equipment is designed, as specified by the manufacturer;
+
+(10) ‘volume (V)’ means the internal volume of a chamber, including the volume of nozzles to the first connection or weld and excluding the volume of permanent internal parts;
+
+(11) ‘nominal size (DN)’ means a numerical designation of size which is common to all components in a piping system other than components indicated by outside diameters or by thread size; it is a convenient round number for reference purposes and is only loosely related to manufacturing dimensions; the nominal size is designated by DN followed by a number;
+
+(12) ‘fluids’ means gases, liquids and vapours in pure phase as well as mixtures thereof; fluids may contain a suspension of solids;
+
+(13) ‘permanent joints’ means joints which cannot be disconnected except by destructive methods;
+
+(14) ‘European approval for materials’ means a technical document defining the characteristics of materials intended for repeated use in the manufacture of pressure equipment which are not covered by any harmonised standard;
+
+(15) ‘making available on the market’ means any supply of pressure equipment or assemblies for distribution or use on the Union market in the course of a commercial activity, whether in return for payment or free of charge;
+
+(16) ‘placing on the market’ means the first making available of pressure equipment or assemblies on the Union market;
+
+(17) ‘putting into service’ means the first use of pressure equipment or an assembly by its user;
+
+(18) ‘manufacturer’ means any natural or legal person who manufactures pressure equipment or an assembly or has such equipment or assembly designed or manufactured, and markets that pressure equipment or assembly under his name or trademark or uses it for his own purposes;
+
+(19) ‘authorised representative’ means any natural or legal person established within the Union who has received a written mandate from a manufacturer to act on his behalf in relation to specified tasks;
+
+(20) ‘importer’ means any natural or legal person established within the Union who places pressure equipment or assemblies from a third country on the Union market;
+
+(21) ‘distributor’ means any natural or legal person in the supply chain, other than the manufacturer or the importer, who makes pressure equipment or assemblies available on the market;
+
+(22) ‘economic operators’ means the manufacturer, the authorised representative, the importer and the distributor;
+
+(23) ‘technical specification’ means a document that prescribes technical requirements to be fulfilled by pressure equipment or assemblies;
+
+(24) ‘harmonised standard’ means harmonised standard as defined in point (c) of Article 2(1) of Regulation (EU) No 1025/2012;
+
+(25) ‘accreditation’ means accreditation as defined in point 10 of Article 2 of Regulation (EC) No 765/2008;
+
+(26) ‘national accreditation body’ means national accreditation body as defined in point 11 of Article 2 of Regulation (EC) No 765/2008;
+
+(27) ‘conformity assessment’ means the process demonstrating whether the essential safety requirements of this Directive relating to pressure equipment or assemblies have been fulfilled;
+
+(28) ‘conformity assessment body’ means a body that performs conformity assessment activities including calibration, testing, certification and inspection;
+
+(29) ‘recall’ means any measure aimed at achieving the return of pressure equipment or assemblies that have already been made available to consumers or other users;
+
+(30) ‘withdrawal’ means any measure aimed at preventing pressure equipment or assemblies in the supply chain from being made available on the market;
+
+(31) ‘CE marking’ means a marking by which the manufacturer indicates that the pressure equipment or assembly is in conformity with the applicable requirements set out in Union harmonisation legislation providing for its affixing;
+
+(32) ‘Union harmonisation legislation’ means any Union legislation harmonising the conditions for the marketing of products;
+
+(33) ‘crisis-relevant goods’ means crisis-relevant goods as defined in Article 3, point (6), of Regulation (EU) 2024/2747 of the European Parliament and of the Council ( 12 );
+
+(34) ‘internal market emergency mode’ means internal market emergency mode as defined in Article 3, point (3), of Regulation (EU) 2024/2747.
+
+### Article 3 — Making available on the market and putting into service
+
+1\. Member States shall take all appropriate measures to ensure that pressure equipment and assemblies may be made available on the market and put into service only if they satisfy the requirements of this Directive when properly installed and maintained and used for the purposes for which they are intended.
+
+2\. This Directive shall not affect Member States’ entitlement to lay down such requirements as they may deem necessary to ensure that persons and, in particular, workers are protected during use of the pressure equipment or assembly in question provided that this does not mean modifications to such equipment or assembly in a way not specified in this Directive.
+
+3\. At trade fairs, exhibitions, demonstrations and other similar events, Member States shall not prevent the showing of pressure equipment or assemblies which do not comply with this Directive, provided that a visible sign clearly indicates that such pressure equipment or assemblies may not be made available on the market and/or put into service until they are brought into conformity. During demonstrations, appropriate safety measures shall be taken in accordance with any requirements laid down by the competent authority of the Member State concerned in order to ensure the safety of persons.
+
+### Article 4 — Technical requirements
+
+1\. The following pressure equipment shall satisfy the essential safety requirements set out in Annex I:
+
+(a) vessels, except those referred to in point (b), for:
+
+(i) gases, liquefied gases, gases dissolved under pressure, vapours and also those liquids whose vapour pressure at the maximum allowable temperature is greater than 0,5 bar above normal atmospheric pressure (1 013 mbar) within the following limits:
+
+— for fluids in Group 1 with a volume greater than 1 L and a product of PS and V greater than 25 bar·L, or with a pressure PS greater than 200 bar (Annex II, table 1),
+
+— for fluids in Group 2, with a volume greater than 1 L and a product of PS and V is greater than 50 bar·L, or with a pressure PS greater than 1 000 bar, and all portable extinguishers and bottles for breathing apparatus (Annex II, table 2);
+
+(ii) liquids having a vapour pressure at the maximum allowable temperature of not more than 0,5 bar above normal atmospheric pressure (1 013 mbar) within the following limits:
+
+— for fluids in Group 1 with a volume greater than 1 L and a product of PS and V greater than 200 bar·L, or with a pressure PS greater than 500 bar (Annex II, table 3),
+
+— for fluids in Group 2 with a pressure PS greater than 10 bar and a product of PS and V greater than 10 000 bar·L, or with a pressure PS greater than 1 000 bar (Annex II, table 4);
+
+(b) fired or otherwise heated pressure equipment with the risk of overheating intended for generation of steam or super-heated water at temperatures higher than 110 °C having a volume greater than 2 L, and all pressure cookers (Annex II, table 5);
+
+(c) piping intended for:
+
+(i) gases, liquefied gases, gases dissolved under pressure, vapours and those liquids whose vapour pressure at the maximum allowable temperature is greater than 0,5 bar above normal atmospheric pressure (1 013 mbar) within the following limits:
+
+— for fluids in Group 1 with a DN greater than 25 (Annex II, table 6),
+
+— for fluids in Group 2 with a DN greater than 32 and a product of PS and DN greater than 1 000 bar (Annex II, table 7);
+
+(ii) liquids having a vapour pressure at the maximum allowable temperature of not more than 0,5 bar above normal atmospheric pressure (1 013 mbar) within the following limits:
+
+— for fluids in Group 1 with a DN greater than 25 and a product of PS and DN greater than 2 000 bar (Annex II, table 8),
+
+— for fluids in Group 2 with a PS greater than 10 bar, a DN greater than 200 and a product of PS and DN greater than 5 000 bar (Annex II, table 9).
+
+(d) safety and pressure accessories intended for equipment covered by points (a), (b), and (c) including where such equipment is incorporated into an assembly.
+
+2\. The following assemblies which include at least one item of pressure equipment covered by paragraph 1 shall satisfy the essential safety requirements set out in Annex I:
+
+(a) assemblies intended for generating steam or superheated water at a temperature higher than 110 °C comprising at least one item of fired or otherwise heated pressure equipment presenting a risk of overheating;
+
+(b) assemblies other than those referred to in point (a), if the manufacturer intends them to be made available on the market and put into service as assemblies.
+
+By way of derogation from the first subparagraph, assemblies intended for generating warm water at temperatures not greater than 110 °C which are manually fed with solid fuels and have a PS·V greater than 50 bar·L shall comply with the essential safety requirements referred to in points 2.10, 2.11, 3.4, 5 (a) and 5 (d) of Annex I.
+
+3\. Pressure equipment and assemblies below or equal to the limits set out in points (a), (b) and (c) of paragraph 1 and in paragraph 2 respectively shall be designed and manufactured in accordance with the sound engineering practice of a Member State in order to ensure safe use. Pressure equipment and assemblies shall be accompanied by adequate instructions for use.
+
+Without prejudice to other applicable Union harmonisation legislation providing for its affixing, such equipment or assemblies shall not bear the CE marking referred to in Article 18.
+
+### Article 5 — Free movement
+
+1\. Member States shall not, on grounds of the risks due to pressure, prohibit, restrict or impede the making available on the market or the putting into service under the conditions specified by the manufacturer of pressure equipment or assemblies which comply with this Directive.
+
+Member States shall not, on grounds of the risks due to pressure, prohibit, restrict or impede the making available on the market or the putting into service of pressure equipment or assemblies which comply with Article 4(3).
+
+2\. When a Member State has designated a user inspectorate in accordance with the requirements set out in Article 25, it may not, on grounds of the risks due to pressure, prohibit, restrict or impede the placing on the market or putting into service under the conditions provided for in Article 16, of pressure equipment or assemblies the conformity of which has been assessed by a user inspectorate designated by another Member State in accordance with the requirements set out in Article 25.
+
+3\. Member States may require, to the extent that it is needed for safe and correct use of pressure equipment and assemblies, the information referred to in points 3.3 and 3.4 of Annex I to be provided in the official language(s) of the Union which may be determined by the Member State in which the equipment or assembly is made available on the market.
+
+## CHAPTER 2 — OBLIGATIONS OF ECONOMIC OPERATORS
+
+### Article 6 — Obligations of manufacturers
+
+1\. When placing their pressure equipment or assemblies referred to in Article 4(1) and (2) on the market or using them for their own purposes, manufacturers shall ensure that they have been designed and manufactured in accordance with the essential safety requirements set out in Annex I.
+
+When placing their pressure equipment or assemblies referred to in Article 4(3) on the market or using them for their own purposes, manufacturers shall ensure that they have been designed and manufactured in accordance with the sound engineering practice of a Member State.
+
+2\. For the pressure equipment or assemblies referred to in Article 4(1) and (2), manufacturers shall draw up the technical documentation referred to in Annex III and carry out the relevant conformity assessment procedure referred to in Article 14 or have it carried out.
+
+Where compliance of the pressure equipment or assemblies referred to in Article 4(1) and (2) with the applicable requirements has been demonstrated by the procedure referred to in the first subparagraph of this paragraph, manufacturers shall draw up an EU declaration of conformity and affix the CE marking.
+
+3\. Manufacturers shall keep the technical documentation and the EU declaration of conformity for 10 years after pressure equipment or assemblies have been placed on the market.
+
+4\. Manufacturers shall ensure that procedures are in place for series production to remain in conformity with this Directive. Changes in design or characteristics of pressure equipment or assemblies and changes in the harmonised standards or in other technical specifications by reference to which conformity of pressure equipment or assemblies is declared shall be adequately taken into account.
+
+When deemed appropriate with regard to the risks presented by pressure equipment or assemblies, manufacturers shall, to protect the health and safety of consumers and other users, carry out sample testing of pressure equipment or assemblies made available on the market, investigate, and, if necessary, keep a register of complaints of non-conforming pressure equipment and assemblies and recalls of such equipment, and shall keep distributors informed of any such monitoring.
+
+5\. Manufacturers shall ensure that their pressure equipment or assemblies bear a type, batch or serial number or other element allowing their identification, or, where the size or nature of the equipment or assembly does not allow it, that the required information is provided on the packaging or in a document accompanying the equipment.
+
+6\. Manufacturers shall indicate on the pressure equipment or assembly their name, registered trade name or registered trade mark and the postal address at which they can be contacted or, where that is not possible, on the packaging or in a document accompanying the equipment or assembly. The address shall indicate a single point at which the manufacturer can be contacted. The contact details shall be in a language easily understood by consumers, other users and market surveillance authorities.
+
+7\. Manufacturers shall ensure that the pressure equipment or assemblies referred to in Article 4(1) and (2) is accompanied by instructions and safety information in accordance with points 3.3 and 3.4 of Annex I, in a language which can be easily understood by consumers and other users, as determined by the Member State concerned. Such instructions and safety information shall be clear, understandable and intelligible.
+
+Manufacturers shall ensure that the pressure equipment or assemblies referred to in Article 4(3) are accompanied by instructions and safety information in accordance with Article 4(3), in a language which can be easily understood by consumers and other users, as determined by the Member State concerned. Such instructions and safety information shall be clear, understandable and intelligible.
+
+8\. Manufacturers who consider or have reason to believe that pressure equipment or assemblies which they have placed on the market are not in conformity with this Directive shall immediately take the corrective measures necessary to bring that pressure equipment or those assemblies into conformity, to withdraw it or recall it, if appropriate. Furthermore, where pressure equipment or assemblies present a risk, manufacturers shall immediately inform the competent national authorities of the Member States in which they made that pressure equipment or those assemblies available on the market to that effect, giving details, in particular, of the non-compliance and of any corrective measures taken.
+
+9\. Manufacturers shall, further to a reasoned request from a competent national authority, provide it with all the information and documentation necessary to demonstrate the conformity of the pressure equipment or assembly with this Directive, in a language which can be easily understood by that authority. That information and documentation may be provided in paper or electronic form. They shall cooperate with that authority, at its request, on any action taken to eliminate the risks posed by the pressure equipment or assembly which they have placed on the market.
+
+### Article 7 — Authorised representatives
+
+1\. A manufacturer may, by a written mandate, appoint an authorised representative.
+
+The obligations laid down in Article 6(1) and the obligation to draw up technical documentation referred to in Article 6(2) shall not form part of the authorised representative’s mandate.
+
+2\. An authorised representative shall perform the tasks specified in the mandate received from the manufacturer. The mandate shall allow the authorised representative to do at least the following:
+
+(a) keep the EU declaration of conformity and the technical documentation at the disposal of national market surveillance authorities for 10 years after the pressure equipment or assembly has been placed on the market;
+
+(b) further to a reasoned request from a competent national authority, provide that authority with all the information and documentation necessary to demonstrate the conformity of the pressure equipment or assembly;
+
+(c) cooperate with the competent national authorities, at their request, on any action taken to eliminate the risks posed by the pressure equipment or assembly covered by the authorised representative’s mandate.
+
+### Article 8 — Obligations of importers
+
+1\. Importers shall place only compliant pressure equipment or assemblies on the market.
+
+2\. Before placing on the market the pressure equipment or assemblies referred to in Article 4(1) and (2), importers shall ensure that the appropriate conformity assessment procedure in accordance with Article 14 has been carried out by the manufacturer. They shall ensure that the manufacturer has drawn up the technical documentation, that pressure equipment or assemblies bear the CE marking and are accompanied by instructions and safety information in accordance with points 3.3 and 3.4 of Annex I, and that the manufacturer has complied with the requirements set out in Article 6(5) and (6).
+
+Before placing on the market the pressure equipment or assemblies referred to in Article 4(3), importers shall ensure that the manufacturer has drawn up the technical documentation and that pressure equipment or assemblies are accompanied by adequate instructions for use and that the manufacturer has complied with the requirements set out in Article 6(5) and (6).
+
+Where an importer considers or has reason to believe that the pressure equipment or assembly is not in conformity with the essential safety requirements set out in Annex I, he shall not place the pressure equipment or assembly on the market until it has been brought into conformity. Furthermore, where the pressure equipment or assembly presents a risk, the importer shall inform the manufacturer and the market surveillance authorities to that effect.
+
+3\. Importers shall indicate their name, registered trade name or registered trade mark and the postal address at which they can be contacted on the pressure equipment or assembly, or, where that is not possible, on its packaging or in a document accompanying the equipment or assembly. The contact details shall be in a language easily understood by consumers, other users and market surveillance authorities.
+
+4\. Importers shall ensure that pressure equipment or assemblies referred to in Article 4(1) and (2) are accompanied by instructions and safety information in accordance with points 3.3 and 3.4 of Annex I, in a language which can be easily understood by consumers and other users, as determined by the Member State concerned.
+
+Importers shall ensure that the pressure equipment or assembly referred to in Article 4(3) is accompanied by instructions and safety information in a language which can be easily understood by consumers and other users, as determined by the Member State concerned.
+
+5\. Importers shall ensure that, while pressure equipment or assemblies referred to in Article 4(1) and (2) are under their responsibility, storage or transport conditions do not jeopardise their compliance with the essential safety requirements set out in Annex I.
+
+6\. When deemed appropriate with regard to the risks presented by pressure equipment or assemblies, importers shall, to protect the health and safety of consumers and other users, carry out sample testing of pressure equipment and assemblies made available on the market, investigate, and, if necessary, keep a register of complaints, of non-conforming pressure equipment or assemblies and recalls of such equipment, and shall keep distributors informed of any such monitoring.
+
+7\. Importers who consider or have reason to believe that pressure equipment or assemblies which they have placed on the market are not in conformity with this Directive shall immediately take the corrective measures necessary to bring that pressure equipment or assembly into conformity, to withdraw it or recall it, if appropriate. Furthermore, where the pressure equipment or assembly presents a risk, importers shall immediately inform the competent national authorities of the Member States in which they made the pressure equipment or assembly available on the market to that effect, giving details, in particular, of the non-compliance and of any corrective measures taken.
+
+8\. Importers shall, for 10 years after the pressure equipment or assembly has been placed on the market, keep a copy of the EU declaration of conformity at the disposal of the market surveillance authorities and ensure that the technical documentation can be made available to those authorities, upon request.
+
+9\. Importers shall, further to a reasoned request from a competent national authority, provide it with all the information and documentation necessary to demonstrate the conformity of pressure equipment or an assembly in a language which can be easily understood by that authority. That information and documentation may be provided in paper or electronic form. They shall cooperate with that authority, at its request, on any action taken to eliminate the risks posed by pressure equipment or an assembly which they have placed on the market.
+
+### Article 9 — Obligations of distributors
+
+1\. When making pressure equipment or assemblies available on the market distributors shall act with due care in relation to the requirements of this Directive.
+
+2\. Before making the pressure equipment or assemblies referred to in Article 4(1) and (2) available on the market distributors shall verify that the pressure equipment or assembly bears the CE marking, that it is accompanied by the required documents and by instructions and safety information in accordance with points 3.3 and 3.4 of Annex I, in a language which can be easily understood by consumers and other users in the Member State in which the pressure equipment or assembly is to be made available on the market, and that the manufacturer and the importer have complied with the requirements set out in Article 6(5) and (6) and Article 8(3) respectively.
+
+Where a distributor considers or has reason to believe that pressure equipment or assemblies are not in conformity with the essential safety requirements set out in Annex I, he shall not make the pressure equipment or assembly available on the market until it has been brought into conformity. Furthermore, where the pressure equipment or assembly presents a risk, the distributor shall inform the manufacturer or the importer to that effect as well as the market surveillance authorities.
+
+Before making the pressure equipment or assembly referred to in Article 4(3) available on the market, distributors shall verify that that pressure equipment or assembly is accompanied by adequate instructions for use, in a language which can be easily understood by consumers and other users in the Member State in which that pressure equipment or assembly is to be made available on the market, and that the manufacturer and the importer have complied with the requirements set out in Article 6(5) and (6) and Article 8(3) respectively.
+
+3\. Distributors shall ensure that, while the pressure equipment or assemblies referred to in Article 4(1) and (2) are under their responsibility, storage or transport conditions do not jeopardise their compliance with the essential safety requirements set out in Annex I.
+
+4\. Distributors who consider or have reason to believe that pressure equipment or assemblies which they have made available on the market are not in conformity with this Directive shall make sure that the corrective measures necessary to bring that equipment or assembly into conformity, to withdraw it or recall it, if appropriate, are taken. Furthermore, where the pressure equipment or assembly presents a risk, distributors shall immediately inform the competent national authorities of the Member States in which they made the equipment or assembly available on the market to that effect, giving details, in particular, of the non-compliance and of any corrective measures taken.
+
+5\. Distributors shall, further to a reasoned request from a competent national authority, provide it with all the information and documentation necessary to demonstrate the conformity of pressure equipment or assemblies. That information and documentation may be provided in paper or electronic form. They shall cooperate with that authority, at its request, on any action taken to eliminate the risks posed by the pressure equipment or assemblies which they have made available on the market.
+
+### Article 10 — Cases in which obligations of manufacturers apply to importers and distributors
+
+An importer or distributor shall be considered a manufacturer for the purposes of this Directive and he shall be subject to the obligations of the manufacturer under Article 6, where he places pressure equipment or an assembly on the market under his name or trademark or modifies pressure equipment or an assembly already placed on the market in such a way that compliance with the requirements of this Directive may be affected.
+
+### Article 11 — Identification of economic operators
+
+Economic operators shall, on request, identify the following to the market surveillance authorities:
+
+(a) any economic operator who has supplied them with pressure equipment or an assembly;
+
+(b) any economic operator to whom they have supplied pressure equipment or an assembly.
+
+Economic operators shall be able to present the information referred to in the first paragraph for 10 years after they have been supplied with the pressure equipment or assembly and for 10 years after they have supplied the pressure equipment or assembly.
+
+## CHAPTER 3 — CONFORMITY AND CLASSIFICATION OF PRESSURE EQUIPMENT AND ASSEMBLIES
+
+### Article 12 — Presumption of conformity
+
+1\. Pressure equipment or assemblies referred to in Article 4(1) and (2) which are in conformity with harmonised standards or parts thereof the references of which have been published in the Official Journal of the European Union shall be presumed to be in conformity with the essential safety requirements covered by those standards or parts thereof, referred to in Annex I.
+
+2\. The materials used for the manufacture of pressure equipment or assemblies which are in conformity with European approvals for materials, the references of which have been published in the Official Journal of the European Union in accordance with Article 15(4), shall be presumed to be in conformity with the applicable essential safety requirements set out in Annex I.
+
+### Article 13 — Classification of pressure equipment
+
+1\. Pressure equipment referred to in Article 4(1) shall be classified by category in accordance with Annex II, according to an ascending level of hazard.
+
+For the purposes of such classification fluids shall be divided into the following two groups:
+
+(a) group 1 consisting of substances and mixtures, as defined in points (7) and (8) of Article 2 of Regulation (EC) No 1272/2008, that are classified as hazardous in accordance with the following physical or health hazard classes laid down in Parts 2 and 3 of Annex I to that Regulation:
+
+(i) unstable explosives or explosives of Divisions 1.1, 1.2, 1.3, 1.4 and 1.5;
+
+(ii) flammable gases, category 1 and 2;
+
+(iii) oxidising gases, category 1;
+
+(iv) flammable liquids, category 1 and 2;
+
+(v) flammable liquids, category 3 where the maximum allowable temperature is above the flashpoint;
+
+(vi) flammable solids, category 1 and 2;
+
+(vii) self-reactive substances and mixtures, type A to F;
+
+(viii) pyrophoric liquids, category 1;
+
+(ix) pyrophoric solids, category 1;
+
+(x) substances and mixtures which in contact with water emit flammable gases, category 1, 2 and 3;
+
+(xi) oxidising liquids, category 1, 2 and 3;
+
+(xii) oxidising solids, category 1, 2 and 3;
+
+(xiii) organic peroxides types A to F;
+
+(xiv) acute oral toxicity, category 1 and 2;
+
+(xv) acute dermal toxicity, category 1 and 2;
+
+(xvi) acute inhalation toxicity, category 1, 2 and 3;
+
+(xvii) specific target organ toxicity – single exposure, category 1.
+
+Group 1 comprises also substances and mixtures contained in pressure equipment with a maximum allowable temperature TS which exceeds the flashpoint of the fluid;
+
+(b) group 2 consisting of substances and mixtures not referred to in point (a).
+
+2\. Where a vessel is composed of a number of chambers, it shall be classified in the highest category applicable to the individual chambers. Where a chamber contains several fluids, classification shall be on the basis of the fluid which requires the highest category.
+
+### Article 14 — Conformity assessment procedures
+
+1\. The conformity assessment procedures to be applied to an item of pressure equipment shall be determined by the category, as set out in Article 13, in which the equipment is classified.
+
+2\. The conformity assessment procedures to be applied for the various categories are the following:
+
+(a) category I:
+
+— Module A
+
+(b) category II:
+
+— Module A2
+
+— Module D1
+
+— Module E1
+
+(c) category III:
+
+— Modules B (design type) + D
+
+— Modules B (design type) + F
+
+— Modules B (production type) + E
+
+— Modules B (production type) + C2
+
+— Module H
+
+(d) category IV:
+
+— Modules B (production type) + D
+
+— Modules B (production type) + F
+
+— Module G
+
+— Module H1
+
+The conformity assessment procedures are set out in Annex III.
+
+3\. Pressure equipment shall be subject to one of the conformity assessment procedures which may be chosen by the manufacturer among those laid down for the category in which it is classified. The manufacturer may also choose to apply one of the procedures which apply to a higher category, if available.
+
+4\. In the framework of quality assurance procedures for pressure equipment in categories III and IV referred to in point (i) of point (a) of Article 4(1), first indent of point (ii) of point (a) of Article 4(1) and point (b) of Article 4(1), the notified body shall, when performing unexpected visits, take a sample of equipment from the manufacturing or storage premises in order to perform, or have performed, the final assessment as referred to in Annex I, point 3.2. To this end, the manufacturer shall inform the notified body of the intended schedule of production. The notified body shall carry out at least two visits during the first year of manufacturing. The frequency of subsequent visits shall be determined by the notified body on the basis of the criteria set out in point 4.4 of modules D, E and H and point 5.4 of module H1.
+
+5\. In the case of one-off production of vessels and pressure equipment in category III referred to in point (b) of Article 4(1) under the module H procedure, the notified body shall perform or have performed the final assessment, as referred to in point 3.2 of Annex I, for each unit. To this end, the manufacturer shall communicate the intended schedule of production to the notified body.
+
+6\. Assemblies referred to in Article 4(2) shall be subject to a global conformity assessment procedure comprising the following assessments:
+
+(a) the assessment of each item of pressure equipment making up the assembly and referred to in Article 4(1) which has not been previously subjected to a conformity assessment procedure and to a separate CE marking; the assessment procedure shall be determined by the category of each item of equipment;
+
+(b) the assessment of the integration of the various components of the assembly as referred to in points 2.3, 2.8 and 2.9 of Annex I which shall be determined by the highest category applicable to the equipment concerned other than that applicable to any safety accessories;
+
+(c) the assessment of the protection of an assembly against exceeding the permissible operating limits as referred to in points 2.10 and 3.2.3 of Annex I shall be conducted in the light of the highest category applicable to the items of equipment to be protected.
+
+7\. By way of derogation from paragraphs 1 to 6 of this Article, the competent authorities may, where justified, allow the making available on the market and putting into service in the territory of the Member State concerned of individual pressure equipment items and assemblies referred to in Article 2, in respect of which the procedures referred to in paragraphs 1 to 6 of this Article have not been applied and the use of which is in the interests of experimentation.
+
+8\. The records and correspondence relating to conformity assessment procedures shall be drafted in an official language of the Member State where the body responsible for carrying out these conformity assessment procedures is established, or in a language accepted by that body.
+
+### Article 15 — European approval for materials
+
+1\. European approval for materials shall be issued at the request of one or more manufacturers of materials or equipment, by one of the notified bodies referred to in Article 20 specifically designated for that task. The notified body shall determine and perform, or arrange for the performance of, the appropriate inspections and tests to certify the conformity of the types of material with the corresponding requirements of this Directive. In the case of materials recognised as being safe to use before 29 November 1999, the notified body shall take account of the existing data when certifying such conformity.
+
+2\. Before issuing a European approval for materials, the notified body shall notify the Member States and the Commission by sending them the appropriate information. Within three months, a Member State or the Commission may provide comments giving its reasons. The notified body may issue the European approval for materials taking into account the comments submitted.
+
+3\. A copy of the European approval for materials shall be sent to the Member States, the notified bodies and the Commission.
+
+4\. When the European approval for materials satisfies the requirements which it covers and which are set out in Annex I, the Commission shall publish the references of that approval. The Commission shall keep up to date a list of such approvals in the Official Journal of the European Union.
+
+5\. The notified body which issued the European approval for materials shall withdraw that approval if it finds that it should not have been issued or if the type of materials is covered by a harmonised standard. It shall immediately inform the other Member States, the notified bodies and the Commission of any withdrawal of an approval.
+
+6\. When a Member State or the Commission considers that a European approval for materials whose references have been published in the Official Journal of the European Union, does not entirely satisfy the essential safety requirements which it covers and which are set out in Annex I, the Commission shall decide by means of implementing acts whether to withdraw the references of that European approval for materials from the Official Journal of the European Union.
+
+The implementing acts referred to in the first subparagraph of this paragraph shall be adopted in accordance with the examination procedure referred to in Article 44(3).
+
+### Article 16 — User inspectorates
+
+1\. By way of derogation from the provisions relating to the tasks carried out by the notified bodies, Member States may authorise on their territory the placing on the market and the putting into service by users, of pressure equipment or assemblies of which conformity with the essential safety requirements has been assessed by a user inspectorate designated in accordance with paragraph 7.
+
+2\. Pressure equipment and assemblies the conformity of which has been assessed by a user inspectorate shall not bear the CE marking.
+
+3\. The pressure equipment or assemblies referred to in paragraph 1 may be used only in establishments operated by the group of which the inspectorate is part. The group shall apply a common safety policy as regards the technical specifications for the design, manufacture, inspection, maintenance and use of pressure equipment and assemblies.
+
+4\. The user inspectorates shall act exclusively for the group of which they are part.
+
+5\. The conformity assessment procedures applicable by user inspectorates shall be modules A2, C2, F and G, set out in Annex III.
+
+6\. Member States shall notify the other Member States and the Commission which user inspectorates they have authorised, the tasks for which they have been designated and, for each inspectorate, a list of the establishments satisfying the provisions of paragraph 3.
+
+7\. In designating the user inspectorates, the Member States shall apply the requirements set out in Article 25 and ensure that the group of which the inspectorate is part applies the criteria referred to in the second sentence of paragraph 3 of this Article.
+
+### Article 17 — EU declaration of conformity
+
+1\. The EU declaration of conformity shall state that the fulfilment of essential safety requirements set out in Annex I has been demonstrated.
+
+2\. The EU declaration of conformity shall have the model structure set out in Annex IV and shall contain the elements specified in the relevant conformity assessment procedures set out in Annex III and shall be continuously updated. It shall be translated into the language or languages required by the Member State in whose market the pressure equipment or assembly is placed or made available on the market.
+
+3\. Where pressure equipment or an assembly is subject to more than one Union act requiring an EU declaration of conformity, a single EU declaration of conformity shall be drawn up in respect of all such Union acts. That declaration shall contain the identification of the Union acts concerned including their publication references.
+
+4\. By drawing up the EU declaration of conformity, the manufacturer shall assume responsibility for the compliance of the pressure equipment or assembly with the requirements laid down in this Directive.
+
+### Article 18 — General principles of the CE marking
+
+The CE marking shall be subject to the general principles set out in Article 30 of Regulation (EC) No 765/2008.
+
+### Article 19 — Rules and conditions for affixing the CE marking
+
+1\. The CE marking shall be affixed visibly, legibly and indelibly to any of the following:
+
+(a) each item of pressure equipment referred to in Article 4(1) or its dataplate;
+
+(b) each assembly referred to in Article 4(2) or its dataplate.
+
+Where the affixing of the CE marking is not possible or not warranted on account of the nature of the equipment or assembly, it shall be affixed to the packaging and to the accompanying documents.
+
+The item or assembly referred to in points (a) and (b) of the first subparagraph shall be complete or shall be in a state permitting final assessment as described in point 3.2 of Annex I.
+
+2\. It is not necessary for the CE marking to be affixed to each individual item of pressure equipment making up an assembly. Individual items of pressure equipment already bearing the CE marking when incorporated into the assembly shall continue to bear that marking.
+
+3\. The CE marking shall be affixed before the item of pressure equipment or the assembly is placed on the market.
+
+4\. The CE marking shall be followed by the identification number of the notified body, where that body is involved in the production control phase.
+
+The identification number of the notified body shall be affixed by the body itself or, under its instructions, by the manufacturer or his authorised representative.
+
+5\. The CE marking and, where applicable, the identification number referred to in paragraph 4 may be followed by any other mark indicating a special risk or use.
+
+6\. Member States shall build upon existing mechanisms to ensure correct application of the regime governing the CE marking and shall take appropriate action in the event of improper use of that marking.
+
+## CHAPTER 4 — NOTIFICATION OF CONFORMITY ASSESSMENT BODIES
+
+### Article 20 — Notification
+
+Member States shall notify the Commission and the other Member States of the notified bodies and the user inspectorates authorised to carry out conformity assessment tasks in accordance with Article 14, Article 15 or Article 16 and of the third-party organisations they have recognised, for the purposes of the tasks referred to in points 3.1.2 and 3.1.3 of Annex I.
+
+### Article 21 — Notifying authorities
+
+1\. Member States shall designate a notifying authority that shall be responsible for setting up and carrying out the necessary procedures for the assessment and notification of conformity assessment bodies and the monitoring of notified bodies, recognised third-party organisations and user inspectorates, including compliance with Article 27.
+
+2\. Member States may decide that the assessment and monitoring referred to in paragraph 1 shall be carried out by a national accreditation body within the meaning of and in accordance with Regulation (EC) No 765/2008.
+
+3\. Where the notifying authority delegates or otherwise entrusts the assessment, notification or monitoring referred to in paragraph 1 to a body which is not a governmental entity, that body shall be a legal entity and shall comply mutatis mutandis with the requirements laid down in Article 22. In addition it shall have arrangements to cover liabilities arising out of its activities.
+
+4\. The notifying authority shall take full responsibility for the tasks performed by the body referred to in paragraph 3.
+
+### Article 22 — Requirements relating to notifying authorities
+
+1\. A notifying authority shall be established in such a way that no conflict of interest with conformity assessment bodies occurs.
+
+2\. A notifying authority shall be organised and operated so as to safeguard the objectivity and impartiality of its activities.
+
+3\. A notifying authority shall be organised in such a way that each decision relating to notification of a conformity assessment body is taken by competent persons different from those who carried out the assessment.
+
+4\. A notifying authority shall not offer or provide any activities that conformity assessment bodies perform or consultancy services on a commercial or competitive basis.
+
+5\. A notifying authority shall safeguard the confidentiality of the information it obtains.
+
+6\. A notifying authority shall have a sufficient number of competent personnel at its disposal for the proper performance of its tasks.
+
+### Article 23 — Information obligation on notifying authorities
+
+Member States shall inform the Commission of their procedures for the assessment and notification of conformity assessment bodies and the monitoring of notified bodies, recognised third-party organisations and user inspectorates, and of any changes thereto.
+
+The Commission shall make that information publicly available.
+
+### Article 24 — Requirements relating to notified bodies and recognised third-party organisations
+
+1\. For the purposes of notification, a notified body or recognised third party organisation shall meet the requirements laid down in paragraphs 2 to 11.
+
+2\. A conformity assessment body shall be established under national law of a Member State and have legal personality.
+
+3\. A conformity assessment body shall be a third-party body independent of the organisation or the pressure equipment or assembly it assesses.
+
+A body belonging to a business association or professional federation representing undertakings involved in the design, manufacturing, provision, assembly, use or maintenance of pressure equipment or assemblies which it assesses, may, on condition that its independence and the absence of any conflict of interest are demonstrated, be considered such a body.
+
+4\. A conformity assessment body, its top level management and the personnel responsible for carrying out the conformity assessment tasks shall not be the designer, manufacturer, supplier, installer, purchaser, owner, user or maintainer of the pressure equipment or assembly which they assess, nor the representative of any of those parties. This shall not preclude the use of assessed pressure equipment or assemblies that are necessary for the operations of the conformity assessment body or the use of such equipment for personal purposes.
+
+A conformity assessment body, its top level management and the personnel responsible for carrying out the conformity assessment tasks shall not be directly involved in the design, manufacture or construction, the marketing, installation, use or maintenance of that pressure equipment or assembly, or represent the parties engaged in those activities. They shall not engage in any activity that may conflict with their independence of judgement or integrity in relation to conformity assessment activities for which they are notified. This shall in particular apply to consultancy services.
+
+Conformity assessment bodies shall ensure that the activities of their subsidiaries or subcontractors do not affect the confidentiality, objectivity or impartiality of their conformity assessment activities.
+
+5\. Conformity assessment bodies and their personnel shall carry out the conformity assessment activities with the highest degree of professional integrity and the requisite technical competence in the specific field and shall be free from all pressures and inducements, particularly financial, which might influence their judgement or the results of their conformity assessment activities, especially as regards persons or groups of persons with an interest in the results of those activities.
+
+6\. A conformity assessment body shall be capable of carrying out all the conformity assessment tasks assigned to it by Article 14 or Article 15, or points 3.1.2 and 3.1.3 of Annex I and in relation to which it has been notified, whether those tasks are carried out by the conformity assessment body itself or on its behalf and under its responsibility.
+
+At all times and for each conformity assessment procedure and each kind or category of pressure equipment in relation to which it has been notified, a conformity assessment body shall have at its disposal the necessary:
+
+(a) personnel with technical knowledge and sufficient and appropriate experience to perform the conformity assessment tasks;
+
+(b) descriptions of procedures in accordance with which conformity assessment is carried out, ensuring the transparency and the ability of reproduction of those procedures. It shall have appropriate policies and procedures in place that distinguish between tasks it carries out as a conformity assessment body and other activities;
+
+(c) procedures for the performance of activities which take due account of the size of an undertaking, the sector in which it operates, its structure, the degree of complexity of the product technology in question and the mass or serial nature of the production process.
+
+A conformity assessment body shall have the means necessary to perform the technical and administrative tasks connected with the conformity assessment activities in an appropriate manner and shall have access to all necessary equipment or facilities.
+
+7\. The personnel responsible for carrying out conformity assessment tasks shall have the following:
+
+(a) sound technical and vocational training covering all the conformity assessment activities in relation to which the conformity assessment body has been notified;
+
+(b) satisfactory knowledge of the requirements of the assessments they carry out and adequate authority to carry out those assessments;
+
+(c) appropriate knowledge and understanding of the essential safety requirements set out in Annex I, of the applicable harmonised standards and of the relevant provisions of Union harmonisation legislation and of national legislation;
+
+(d) the ability to draw up certificates, records and reports demonstrating that assessments have been carried out.
+
+8\. The impartiality of the conformity assessment bodies, their top level management and of the personnel responsible for carrying out the conformity assessment tasks shall be guaranteed.
+
+The remuneration of the top level management and personnel responsible for carrying out the conformity assessment tasks of a conformity assessment body shall not depend on the number of assessments carried out or on the results of those assessments.
+
+9\. Conformity assessment bodies shall take out liability insurance unless liability is assumed by the State in accordance with national law, or the Member State itself is directly responsible for the conformity assessment.
+
+10\. The personnel of a conformity assessment body shall observe professional secrecy with regard to all information obtained in carrying out their tasks under Article 14, Article 15, or under points 3.1.2 and 3.1.3 of Annex I or any provision of national law giving effect to them, except in relation to the competent authorities of the Member State in which its activities are carried out. Proprietary rights shall be protected.
+
+11\. Conformity assessment bodies shall participate in, or ensure that their personnel responsible for carrying out conformity assessment tasks are informed of, the relevant standardisation activities and the activities of the notified body coordination group established under the relevant Union harmonisation legislation and shall apply as general guidance the administrative decisions and documents produced as a result of the work of that group.
+
+### Article 25 — Requirements relating to user inspectorates
+
+1\. For the purposes of notification, a user inspectorate shall meet the requirements laid down in paragraphs 2 to 11.
+
+2\. A user inspectorate shall be established under national law of a Member State and have legal personality.
+
+3\. A user inspectorate shall be organisationally identifiable and have reporting methods within the group of which it is part which ensure and demonstrate its impartiality.
+
+4\. A user inspectorate, its top level management and the personnel responsible for carrying out the conformity assessment tasks shall not be the designer, manufacturer, supplier, installer, purchaser, owner, user or maintainer of the pressure equipment or assembly which they assess, nor the authorised representative of any of those parties. This shall not preclude the use of assessed pressure equipment or assemblies that are necessary for the operations of the user inspectorate or the use of such equipment for personal purposes.
+
+A user inspectorate, its top level management and the personnel responsible for carrying out the conformity assessment tasks shall not be directly involved in the design, manufacture or construction, the marketing, installation, use or maintenance of that pressure equipment or assembly, or represent the parties engaged in those activities. They shall not engage in any activity that may conflict with their independence of judgement or integrity in relation to conformity assessment activities for which they are notified. This shall in particular apply to consultancy services.
+
+5\. User inspectorates and their personnel shall carry out the conformity assessment activities with the highest degree of professional integrity and the requisite technical competence in the specific field and shall be free from all pressures and inducements, particularly financial, which might influence their judgement or the results of their conformity assessment activities, especially as regards persons or groups of persons with an interest in the results of those activities.
+
+6\. A user inspectorate shall be capable of carrying out all the conformity assessment tasks assigned to it by Article 16 and in relation to which it has been notified, whether those tasks are carried out by the user inspectorate itself or on its behalf and under its responsibility.
+
+At all times and for each conformity assessment procedure and each kind or category of pressure equipment in relation to which it has been notified, the user inspectorate shall have at its disposal the necessary:
+
+(a) personnel with technical knowledge and sufficient and appropriate experience to perform the conformity assessment tasks;
+
+(b) descriptions of procedures in accordance with which conformity assessment is carried out, ensuring the transparency and the ability of reproduction of those procedures. It shall have appropriate policies and procedures in place that distinguish between tasks it carries out as a user inspectorate and other activities;
+
+(c) procedures for the performance of activities which take due account of the size of an undertaking, the sector in which it operates, its structure, the degree of complexity of the product technology in question and the mass or serial nature of the production process.
+
+A user inspectorate shall have the means necessary to perform the technical and administrative tasks connected with the conformity assessment activities in an appropriate manner and shall have access to all necessary equipment or facilities.
+
+7\. The personnel responsible for carrying out conformity assessment tasks shall have the following:
+
+(a) sound technical and vocational training covering all the conformity assessment activities in relation to which the conformity assessment body has been notified;
+
+(b) satisfactory knowledge of the requirements of the assessments they carry out and adequate authority to carry out those assessments;
+
+(c) appropriate knowledge and understanding of the essential safety requirements set out in Annex I, of the applicable harmonised standards and of the relevant provisions of Union harmonisation legislation and of national legislation;
+
+(d) the ability to draw up certificates, records and reports demonstrating that assessments have been carried out.
+
+8\. The impartiality of the user inspectorates, their top level management and of the personnel responsible for carrying out conformity assessment tasks shall be guaranteed. User inspectorates must not engage in any activities that might conflict with its independence of judgement and integrity in relation to its inspection activities.
+
+The remuneration of the top level management and personnel responsible for carrying out conformity assessment tasks of a user inspectorate shall not depend on the number of assessments carried out or on the results of those assessments.
+
+9\. User inspectorates shall take out liability insurance unless liability is assumed by the group of which they are part.
+
+10\. The personnel of user inspectorates shall observe professional secrecy with regard to all information obtained in carrying out their tasks under Article 16 or any provision of national law giving effect to them, except in relation to the competent authorities of the Member State in which its activities are carried out. Proprietary rights shall be protected.
+
+11\. User inspectorates shall participate in, or ensure that their personnel responsible for carrying out conformity assessment tasks are informed of, the relevant standardisation activities and the activities of the notified body coordination group established under the relevant Union harmonisation legislation and shall apply as general guidance the administrative decisions and documents produced as a result of the work of that group.
+
+### Article 26 — Presumption of conformity of conformity assessment bodies
+
+Where a conformity assessment body demonstrates its conformity with the criteria laid down in the relevant harmonised standards or parts thereof the references of which have been published in the Official Journal of the European Union it shall be presumed to comply with the requirements set out in Article 24 or Article 25 in so far as the applicable harmonised standards cover those requirements.
+
+### Article 27 — Subsidiaries of and subcontracting by conformity assessment bodies
+
+1\. Where a notified body, a user inspectorate or a recognised third-party organisation subcontracts specific tasks connected with conformity assessment or has recourse to a subsidiary, it shall ensure that the subcontractor or the subsidiary meets the requirements set out in Article 24 or Article 25 and shall inform the notifying authority accordingly.
+
+2\. Notified bodies, user inspectorates and recognised third-party organisations shall take full responsibility for the tasks performed by subcontractors or subsidiaries wherever these are established.
+
+3\. Activities may be subcontracted or carried out by a subsidiary only with the agreement of the client.
+
+4\. Notified bodies, user inspectorates and recognised third-party organisations shall keep at the disposal of the notifying authority the relevant documents concerning the assessment of the qualifications of the subcontractor or the subsidiary and the work carried out by them under Article 14, Article 15, Article 16 or points 3.1.2 and 3.1.3 of Annex I.
+
+### Article 28 — Application for notification
+
+1\. A conformity assessment body shall submit an application for notification to the notifying authority of the Member State in which it is established.
+
+2\. The application for notification shall be accompanied by a description of the conformity assessment activities, the conformity assessment module or modules and the pressure equipment for which that body claims to be competent, as well as by an accreditation certificate, where one exists, issued by a national accreditation body attesting that the conformity assessment body fulfils the requirements laid down in Article 24 or Article 25.
+
+3\. Where the conformity assessment body concerned cannot provide an accreditation certificate, it shall provide the notifying authority with all the documentary evidence necessary for the verification, recognition and regular monitoring of its compliance with the requirements laid down in Article 24 or Article 25.
+
+### Article 29 — Notification procedure
+
+1\. Notifying authorities may notify only conformity assessment bodies which have satisfied the requirements laid down in Article 24 or Article 25.
+
+2\. They shall notify the Commission and the other Member States using the electronic notification tool developed and managed by the Commission.
+
+3\. The notification shall include full details of the conformity assessment activities, the conformity assessment module or modules and the pressure equipment concerned and the relevant attestation of competence.
+
+4\. Where a notification is not based on an accreditation certificate as referred to in Article 28(2), the notifying authority shall provide the Commission and the other Member States with documentary evidence which attests to the conformity assessment body’s competence and the arrangements in place to ensure that that body will be monitored regularly and will continue to satisfy the requirements laid down in Article 24 or Article 25.
+
+5\. The body concerned may perform the activities of a notified body, a recognised third-party organisation or a user inspectorate only where no objections are raised by the Commission or the other Member States within two weeks of a notification where an accreditation certificate is used or within two months of a notification where accreditation is not used.
+
+Only such a body shall be considered a notified body, a recognised third-party organisation or a user inspectorate for the purposes of this Directive.
+
+6\. The notifying authority shall notify the Commission and the other Member States of any subsequent relevant changes to the notification.
+
+### Article 30 — Identification numbers and lists of notified bodies
+
+1\. The Commission shall assign an identification number to a notified body.
+
+It shall assign a single such number even where the body is notified under several Union acts.
+
+2\. The Commission shall make publicly available the list of the bodies notified under this Directive, including the identification numbers that have been assigned to them and the activities for which they have been notified.
+
+The Commission shall ensure that the list is kept up to date.
+
+### Article 31 — Lists of recognised third-party organisations and user inspectorates
+
+The Commission shall make publicly available the list of the recognised third-party organisations and of the user inspectorates under this Directive and the tasks for which they have been recognised.
+
+The Commission shall ensure that the list is kept up to date.
+
+### Article 32 — Changes to notifications
+
+1\. Where a notifying authority has ascertained or has been informed that a notified body or a recognised third-party organisation no longer meets the requirements laid down in Article 24 or that it is failing to fulfil its obligations, the notifying authority shall, as appropriate, restrict, suspend or withdraw the notification, depending on the seriousness of the failure to meet those requirements or fulfil those obligations. It shall immediately inform the Commission and the other Member States accordingly.
+
+Where a notifying authority has ascertained or has been informed that a user inspectorate no longer meets the requirements laid down in Article 25, or that it is failing to fulfil its obligations, the notifying authority shall as appropriate, restrict, suspend or withdraw the notification, depending on the seriousness of the failure to meet those requirements or fulfil those obligations. It shall immediately inform the Commission and the other Member States accordingly.
+
+2\. In the event of restriction, suspension or withdrawal of notification, or where the notified body, the recognised third-party organisation or the user inspectorate has ceased its activity, the notifying Member State shall take appropriate steps to ensure that the files of that body are either processed by another notified body, recognised third-party organisation or user inspectorate, or kept available for the responsible notifying and market surveillance authorities at their request.
+
+### Article 33 — Challenge of the competence of notified bodies, recognised third party organisations and user inspectorates
+
+1\. The Commission shall investigate all cases where it doubts, or doubt is brought to its attention regarding, the competence of a notified body, a recognised third-party organisation or a user inspectorate, or the continued fulfilment by a notified body, a recognised third-party organisation or a user inspectorate of the requirements and responsibilities to which it is subject.
+
+2\. The notifying Member State shall provide the Commission, on request, with all information relating to the basis for the notification or the maintenance of the competence of the conformity assessment body concerned.
+
+3\. The Commission shall ensure that all sensitive information obtained in the course of its investigations is treated confidentially.
+
+4\. Where the Commission ascertains that a notified body, a recognised third-party organisation or a user inspectorate does not meet or no longer meets the requirements for its notification, it shall adopt an implementing act requesting the notifying Member State to take the necessary corrective measures, including withdrawal of notification if necessary.
+
+That implementing act shall be adopted in accordance with the advisory procedure referred to in Article 44(2).
+
+### Article 34 — Operational obligations of notified bodies, user inspectorates and recognised third party organisations
+
+1\. Notified bodies, user inspectorates and recognised third-party organisations shall carry out conformity assessments in accordance with the conformity assessment tasks provided for in Article 14, Article 15, Article 16, or in points 3.1.2 and 3.1.3 of Annex I.
+
+2\. Conformity assessments shall be carried out in a proportionate manner, avoiding unnecessary burdens for economic operators.
+
+Conformity assessment bodies shall perform their activities taking due account of the size of an undertaking, the sector in which it operates, its structure, the degree of complexity of the pressure equipment or assembly technology in question and the mass or serial nature of the production process.
+
+In so doing they shall nevertheless respect the degree of rigour and the level of protection required for the compliance of the pressure equipment with the requirements of this Directive.
+
+3\. Where a conformity assessment body finds that essential safety requirements set out in Annex I or corresponding harmonised standards or other technical specifications have not been met by a manufacturer, it shall require that manufacturer to take appropriate corrective measures and shall not issue a certificate of conformity.
+
+4\. Where, in the course of the monitoring of conformity following the issue of a certificate, a conformity assessment body finds that pressure equipment no longer complies, it shall require the manufacturer to take appropriate corrective measures and shall suspend or withdraw the certificate if necessary.
+
+5\. Where corrective measures are not taken or do not have the required effect, the conformity assessment body shall restrict, suspend or withdraw any certificates, as appropriate.
+
+### Article 35 — Appeal against decisions of notified bodies, recognised third party organisations and user inspectorates
+
+Member States shall ensure that appeal procedures against decisions of notified bodies, recognised third-party organisations and user inspectorates are available.
+
+### Article 36 — Information obligation on notified bodies, recognised third party organisations and user inspectorates
+
+1\. Notified bodies, recognised third-party organisations and user inspectorates shall inform the notifying authority of the following:
+
+(a) any refusal, restriction, suspension or withdrawal of a certificate;
+
+(b) any circumstances affecting the scope of or conditions for notification;
+
+(c) any request for information which they have received from market surveillance authorities regarding conformity assessment activities;
+
+(d) on request, conformity assessment activities performed within the scope of their notification and any other activity performed, including cross-border activities and subcontracting.
+
+2\. Notified bodies, recognised third-party organisations and user inspectorates shall provide the other bodies notified under this Directive carrying out similar conformity assessment activities covering the same pressure equipment with relevant information on issues relating to negative and, on request, positive conformity assessment results.
+
+### Article 37 — Exchange of experience
+
+The Commission shall provide for the organisation of exchange of experience between the Member States’ national authorities responsible for notification policy.
+
+### Article 38 — Coordination of notified bodies, recognised third-party organisations and user inspectorates
+
+The Commission shall ensure that appropriate coordination and cooperation between the conformity assessment bodies notified under this Directive are put in place and properly operated in the form of a sectoral group or groups of conformity assessment bodies.
+
+Member States shall ensure that the conformity assessment bodies notified by them participate in the work of that or those group or groups, directly or by means of designated representatives.
+
+## CHAPTER 5 — UNION MARKET SURVEILLANCE, CONTROL OF PRESSURE EQUIPMENT AND ASSEMBLIES ENTERING THE UNION MARKET, AND UNION SAFEGUARD PROCEDURE
+
+### Article 39 — Union market surveillance and control of pressure equipment and assemblies entering the Union market
+
+Article 15(3) and Articles 16 to 29 of Regulation (EC) No 765/2008 shall apply to pressure equipment and assemblies covered by Article 1 of this Directive.
+
+### Article 40 — Procedure for dealing with pressure equipment or assemblies presenting a risk at national level
+
+1\. Where the market surveillance authorities of one Member State have sufficient reasons to believe that pressure equipment or assemblies covered by this Directive present a risk to the health or safety of persons or to domestic animals or property, they shall carry out an evaluation in relation to the pressure equipment or assembly concerned covering all relevant requirements laid down in this Directive. The relevant economic operators shall cooperate as necessary with the market surveillance authorities for that purpose.
+
+Where, in the course of the evaluation referred to in the first subparagraph, the market surveillance authorities find that the equipment or assembly does not comply with the requirements laid down in this Directive, they shall without delay require the relevant economic operator to take all appropriate corrective actions to bring the pressure equipment or assembly into compliance with those requirements, to withdraw the equipment or assembly from the market, or to recall it within a reasonable period, commensurate with the nature of the risk, as they may prescribe.
+
+The market surveillance authorities shall inform the relevant notified body accordingly.
+
+Article 21 of Regulation (EC) No 765/2008 shall apply to the measures referred to in the second subparagraph of this paragraph.
+
+2\. Where the market surveillance authorities consider that non-compliance is not restricted to their national territory, they shall inform the Commission and the other Member States of the results of the evaluation and of the actions which they have required the economic operator to take.
+
+3\. The economic operator shall ensure that all appropriate corrective action is taken in respect of all the pressure equipment and assemblies concerned that it has made available on the market throughout the Union.
+
+4\. Where the relevant economic operator does not take adequate corrective action within the period referred to in the second subparagraph of paragraph 1, the market surveillance authorities shall take all appropriate provisional measures to prohibit or restrict the equipment’s or assembly’s being made available on their national market, to withdraw the equipment or assembly from that market or to recall it.
+
+The market surveillance authorities shall inform the Commission and the other Member States, without delay, of those measures.
+
+5\. The information referred to in the second subparagraph of paragraph 4 shall include all available details, in particular the data necessary for the identification of the non-compliant equipment or assembly, the origin of the equipment or assembly, the nature of the non-compliance alleged and the risk involved, the nature and duration of the national measures taken and the arguments put forward by the relevant economic operator. In particular, the market surveillance authorities shall indicate whether the non-compliance is due to either of the following:
+
+(a) failure of the equipment or assembly to meet requirements relating to the health or safety of persons or to the protection of domestic animals or property; or
+
+(b) shortcomings in the harmonised standards referred to in Article 12 conferring a presumption of conformity.
+
+6\. Member States other than the Member State initiating the procedure under this Article shall without delay inform the Commission and the other Member States of any measures adopted and of any additional information at their disposal relating to the non-compliance of the equipment or assembly concerned, and, in the event of disagreement with the adopted national measure, of their objections.
+
+7\. Where, within three months of receipt of the information referred to in the second subparagraph of paragraph 4, no objection has been raised by either a Member State or the Commission in respect of a provisional measure taken by a Member State, that measure shall be deemed justified.
+
+8\. Member States shall ensure that appropriate restrictive measures, such as withdrawal of the equipment or assembly from the market, are taken in respect of the equipment or assembly concerned without delay.
+
+### Article 41 — Union safeguard procedure
+
+1\. Where, on completion of the procedure set out in Article 40(3) and (4), objections are raised against a measure taken by a Member State, or where the Commission considers a national measure to be contrary to Union legislation, the Commission shall without delay enter into consultation with the Member States and the relevant economic operator or operators and shall evaluate the national measure. On the basis of the results of that evaluation, the Commission shall adopt an implementing act determining whether the national measure is justified or not.
+
+The Commission shall address its decision to all Member States and shall immediately communicate it to them and the relevant economic operator or operators.
+
+2\. If the national measure is considered justified, all Member States shall take the necessary measures to ensure that the non-compliant equipment or assembly is withdrawn from their market, and shall inform the Commission accordingly. If the national measure is considered unjustified, the Member State concerned shall withdraw that measure.
+
+3\. Where the national measure is considered justified and the non-compliance of the equipment or assembly is attributed to shortcomings in the harmonised standards referred to in point (b) of Article 40(5) of this Directive, the Commission shall apply the procedure provided for in Article 11 of Regulation (EU) No 1025/2012.
+
+### Article 42 — Compliant pressure equipment or assemblies which present a risk
+
+1\. Where, having carried out an evaluation under Article 40(1), a Member State finds that although pressure equipment or an assembly is in compliance with this Directive, it presents a risk to the health or safety of persons, to domestic animals or property, it shall require the relevant economic operator to take all appropriate measures to ensure that the equipment or assembly concerned, when placed on the market, no longer presents that risk, to withdraw the equipment or assembly from the market or to recall it within a reasonable period, commensurate with the nature of the risk, as it may prescribe.
+
+2\. The economic operator shall ensure that corrective action is taken in respect of all the equipment or assemblies concerned that he has made available on the market throughout the Union.
+
+3\. The Member State shall immediately inform the Commission and the other Member States. That information shall include all available details, in particular the data necessary for the identification of the equipment or assembly concerned, the origin and the supply chain of the equipment or assembly, the nature of the risk involved and the nature and duration of the national measures taken.
+
+4\. The Commission shall without delay enter into consultation with the Member States and the relevant economic operator or operators and shall evaluate the national measures taken. On the basis of the results of that evaluation, the Commission shall decide by means of implementing acts whether the national measure is justified or not and, where necessary, propose appropriate measures.
+
+The implementing acts referred to in the first subparagraph of this paragraph shall be adopted in accordance with the examination procedure referred to in Article 44(3).
+
+On duly justified imperative grounds of urgency relating to the protection of health and safety of persons, or of domestic animals or of property, the Commission shall adopt immediately applicable implementing acts in accordance with the procedure referred to in Article 44(4).
+
+5\. The Commission shall address its decision to all Member States and shall immediately communicate it to them and the relevant economic operator or operators.
+
+### Article 43 — Formal non-compliance
+
+1\. Without prejudice to Article 40, where a Member State makes one of the following findings, it shall require the relevant economic operator to put an end to the non-compliance concerned:
+
+(a) the CE marking has been affixed in violation of Article 30 of Regulation (EC) No 765/2008 or of Article 19 of this Directive;
+
+(b) the CE marking has not been affixed;
+
+(c) the identification number of the notified body involved in the production control phase, has been affixed in violation of Article 19 or has not been affixed;
+
+(d) the marking and labelling referred to in point 3.3. of Annex I have not been affixed or have been affixed in violation of Article 19 or point 3.3 of Annex I;
+
+(e) the EU declaration of conformity has not been drawn up;
+
+(f) the EU declaration of conformity has not been drawn up correctly;
+
+(g) the technical documentation is either not available or not complete;
+
+(h) the information referred to in Article 6(6) or Article 8(3) is absent, false or incomplete;
+
+(i) any other administrative requirement provided for in Article 6 or Article 8 is not fulfilled.
+
+2\. Where the non-compliance referred to in paragraph 1 persists, the Member State concerned shall take all appropriate measures to restrict or prohibit the equipment or assembly being made available on the market or ensure that it is recalled or withdrawn from the market.
+
+## CHAPTER 5a — EMERGENCY PROCEDURES
+
+### Article 43a
+
+Application of emergency procedures
+
+1\. Member States shall ensure that measures taken to transpose Articles 43b to 43e of this Directive apply only if the Commission has adopted an implementing act pursuant to Article 28 of Regulation (EU) 2024/2747 with respect to pressure equipment and assemblies covered by this Directive.
+
+2\. Member States shall ensure that measures taken to transpose Articles 43b to 43e of this Directive apply only to pressure equipment and assemblies which have been designated as crisis-relevant goods pursuant to Article 18(4) of Regulation (EU) 2024/2747.
+
+3\. Member States shall ensure that measures taken to transpose Articles 43b to 43e of this Directive apply only during the internal market emergency mode that has been activated in accordance with Article 18 of Regulation (EU) 2024/2747.
+
+However, Article 43c(7) of this Directive shall apply during the internal market emergency mode and after its expiry or deactivation.
+
+4\. The Commission may adopt implementing acts regarding the corrective or restrictive actions to be taken, the procedures to be followed and the specific labelling and traceability requirements with respect to pressure equipment and assemblies placed on the market or used for the manufacturer’s own purposes in accordance with Articles 43c and 43d. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 44(3).
+
+### Article 43b
+
+Prioritisation of the conformity assessment of pressure equipment and assemblies designated as crisis-relevant goods
+
+1\. This Article applies to pressure equipment or assemblies listed in the implementing act referred to in Article 43a(1) that are subject to the conformity assessment procedures referred to in Article 14 that require the mandatory involvement of a notified body.
+
+2\. The notified bodies shall make best efforts to process as a matter of priority all applications for a conformity assessment of pressure equipment and assemblies referred to in paragraph 1 of this Article, irrespective of whether those applications have been lodged before or after the activation of the emergency procedures pursuant to Article 43a.
+
+3\. The prioritisation of applications for conformity assessment of pressure equipment and assemblies pursuant to paragraph 2 shall not result in additional disproportionate costs for the manufacturers who have lodged those applications.
+
+4\. The notified bodies shall make reasonable efforts to increase their testing capacities for pressure equipment and assemblies referred to in paragraph 1 in respect of which they have been notified.
+
+### Article 43c
+
+Derogation from the conformity assessment procedures requiring the mandatory involvement of a notified body
+
+1\. By way of derogation from Article 14, a Member State may authorise, on a duly justified request from an economic operator, the placing on the market or use for the manufacturer’s own purposes within the territory of that Member State, of specific pressure equipment or assembly listed in the implementing act referred to in Article 43a(1) and for which the conformity assessment procedures referred to in Article 14 that require the mandatory involvement of a notified body have not been carried out but for which the compliance with all the applicable essential safety requirements set out in Annex I has been demonstrated in accordance with procedures referred to in that authorisation.
+
+2\. The Member State shall immediately inform the Commission and the other Member States of any authorisation granted in accordance with paragraph 1 of this Article. Provided that the requirements set out in the authorisation ensure conformity with the applicable essential safety requirements set out in Annex I, the Commission shall adopt, without delay, an implementing act extending the validity of the authorisation granted by a Member State in accordance with paragraph 1 of this Article to the territory of the whole Union and shall set out the conditions under which the specific pressure equipment or assemblies may be placed on the market or used for the manufacturer’s own purposes. When preparing the draft implementing act, the Commission may request national market surveillance authorities to provide relevant information or comments regarding the technical assessment that served as the basis for the authorisation referred to in paragraph 1 of this Article. The implementing act shall be adopted in accordance with the examination procedure referred to in Article 44(3).
+
+The pressure equipment or assemblies subject to the extension of validity referred to in the first subparagraph shall bear the information that they are placed on the market or used for the manufacturer’s own purposes as a ‘crisis-relevant good’. The implementing act referred to in the first subparagraph shall specify the content and presentation of that information. That information, as well as any labelling, shall be clear, understandable and intelligible and, where relevant, in a language which can be easily understood by consumers and other end-users, as determined by the Member State concerned.
+
+3\. On duly justified imperative grounds of urgency relating to the need to preserve the health and safety of persons, the Commission shall adopt immediately applicable implementing acts in accordance with the procedure referred to in Article 44(4).
+
+4\. As long as an implementing act as referred to in paragraph 2 or 3 is not adopted, the authorisation granted by a competent national authority in one Member State shall be valid only on the territory of that Member State, and on the territories of any other Member States whose competent national authorities have recognised the validity of that authorisation before the adoption of such an implementing act. Member States shall inform the Commission and the other Member States of any decision to recognise the validity of that authorisation.
+
+5\. Manufacturers of pressure equipment or assemblies subject to the authorisation procedure referred to in paragraph 1 shall declare on their sole responsibility that the pressure equipment or assembly concerned complies with all the applicable essential safety requirements set out in Annex I and shall be responsible for the fulfilment of all the conformity assessment procedures indicated by the competent national authority.
+
+6\. Any authorisation issued pursuant to paragraph 1 shall set out the conditions and requirements under which the pressure equipment or assembly may be placed on the market or used for the manufacturer’s own purposes. Such authorisations shall set out at least the following:
+
+(a) a description of the procedures by means of which compliance with the applicable essential safety requirements set out in Annex I to this Directive was successfully demonstrated;
+
+(b) any specific requirements regarding the traceability of the pressure equipment or assembly concerned;
+
+(c) an end date of validity of the authorisation, which cannot go beyond the last day of the period for which the internal market emergency mode has been activated in accordance with Article 18 of Regulation (EU) 2024/2747;
+
+(d) any specific requirements regarding the need to ensure a continuous conformity assessment with respect to the pressure equipment or assembly concerned;
+
+(e) measures to be taken upon expiry or deactivation of the internal market emergency mode with respect to the pressure equipment or assembly concerned that has been placed on the market or used for the manufacturer’s own purposes.
+
+7\. By way of derogation from Articles 5, 18 and 19, pressure equipment or assemblies for which an authorisation has been granted in accordance with paragraph 1 of this Article shall not bear the CE marking and Article 5 shall not apply.
+
+8\. The market surveillance authorities of a Member State where an authorisation pursuant to paragraphs 1, 2 and 4 of this Article is valid shall be entitled, with respect to such pressure equipment or assemblies, to take all corrective and restrictive actions at national level provided for under Regulation (EU) 2019/1020 of the European Parliament and of the Council ( 13 ) and under this Directive. They shall immediately inform the Commission and the market surveillance authorities of all other Member States of these actions.
+
+9\. The use of the authorisation procedure set out in paragraphs 1 to 4 of this Article shall not affect the application on the territory of the Member State concerned of the relevant conformity assessment procedures laid down in Article 14.
+
+### Article 43d
+
+Presumption of conformity based on standards and common specifications
+
+1\. Where pressure equipment and assemblies have been designated as crisis-relevant goods, the Commission is empowered to adopt implementing acts listing appropriate standards or establishing common specifications for such pressure equipment and assemblies to cover the applicable essential safety requirements set out in Annex I to this Directive in the following cases:
+
+(a) where a reference to harmonised standards covering the applicable essential safety requirements set out in Annex I to this Directive has not been published in the Official Journal of the European Union in accordance with Regulation (EU) No 1025/2012 and no such reference is expected to be published within a reasonable period; or
+
+(b) where severe disruptions to the functioning of the internal market, which led to the activation of the internal market emergency mode in accordance with Article 18 of Regulation (EU) 2024/2747, significantly restrict the possibilities of manufacturers to make use of the harmonised standards that cover the applicable essential safety requirements set out in Annex I to this Directive and the references of which have already been published in the Official Journal of the European Union in accordance with Regulation (EU) No 1025/2012.
+
+2\. The implementing acts referred to in paragraph 1 shall set out the most appropriate alternative technical solution for the purposes of providing a presumption of conformity in accordance with paragraph 5. To that end, references of European standards or references of relevant applicable national or international standards may be published in those implementing acts or, if there is no European standard or relevant applicable national or international standard, common specifications may be established by those implementing acts.
+
+3\. The implementing acts referred to in paragraph 1 of this Article shall be adopted in accordance with the examination procedure referred to in Article 44(3) and shall apply until the last day of the period during which the internal market emergency mode is activated, unless such implementing acts are amended or repealed in accordance with paragraph 7 of this Article.
+
+4\. Before preparing the draft implementing act referred to in paragraph 1 of this Article, the Commission shall inform the committee referred to in Article 22 of Regulation (EU) No 1025/2012 that it considers that the conditions in paragraph 1 of this Article have been fulfilled. When preparing that draft implementing act, the Commission shall take into account the views of relevant bodies or expert groups established under this Directive and shall duly consult all relevant stakeholders.
+
+5\. Without prejudice to Article 12, pressure equipment or assemblies that are in conformity with the standards or common specifications referred to in paragraph 1 of this Article, or parts thereof, shall be presumed to be in conformity with the applicable essential safety requirements set out in Annex I that are covered by those standards, common specifications or parts thereof. From the day following the expiry or deactivation of the internal market emergency mode, it shall no longer be possible for manufacturers to rely on the presumption of conformity provided by the standards or the common specifications referred to in the implementing acts referred to in paragraph 1 of this Article.
+
+6\. By way of derogation from Article 43a(3), first subparagraph, unless there is sufficient reason to believe that the pressure equipment and assemblies covered by the standards or common specifications referred to in paragraph 1 of this Article present a risk to the health or safety of persons, the pressure equipment and assemblies that are in conformity with those standards or common specifications and which have been placed on the market or used for the manufacturer’s own purposes shall be deemed to be in conformity with the applicable essential safety requirements set out in Annex I after the expiry or repeal of an implementing act adopted pursuant to paragraph 3 of this Article and after the expiry or deactivation of the internal market emergency mode.
+
+7\. When a Member State considers that a standard or common specification as referred to in paragraph 1 does not entirely satisfy the applicable essential safety requirements set out in Annex I, it shall inform the Commission thereof by submitting a detailed explanation. The Commission shall assess that detailed explanation and may, if appropriate, amend or repeal the implementing act listing the standard or establishing the common specification in question.
+
+### Article 43e
+
+Prioritisation of market surveillance activities and mutual assistance among authorities
+
+1\. Member States shall prioritise the market surveillance activities for pressure equipment and assemblies listed in the implementing act referred to in Article 43a(1) of this Directive. The Commission shall facilitate coordination of such prioritisation efforts through the Union Product Compliance Network established under Article 29 of Regulation (EU) 2019/1020.
+
+2\. The market surveillance authorities of the Member States shall ensure that best efforts are made to provide assistance to other market surveillance authorities during an internal market emergency mode, including by mobilising and dispatching expert teams to temporarily reinforce the staff of market surveillance authorities requesting assistance or by providing logistical support, such as the reinforcement of the testing capacity for pressure equipment and assemblies listed in the implementing act referred to in Article 43a(1).
+
+## CHAPTER 6 — COMMITTEE PROCEDURE AND DELEGATED ACTS
+
+### Article 44 — Committee procedure
+
+1\. The Commission shall be assisted by the Committee on Pressure Equipment. That committee shall be a committee within the meaning of Regulation (EU) No 182/2011.
+
+2\. Where reference is made to this paragraph, Article 4 of Regulation (EU) No 182/2011 shall apply.
+
+3\. Where reference is made to this paragraph, Article 5 of Regulation (EU) No 182/2011 shall apply.
+
+4\. Where reference is made to this paragraph, Article 8 of Regulation (EU) No 182/2011, in conjunction with Article 5 thereof, shall apply.
+
+5\. The committee shall be consulted by the Commission on any matter for which consultation of sectoral experts is required by Regulation (EU) No 1025/2012 or by any other Union legislation.
+
+The committee may furthermore examine any other matter concerning the application of this Directive raised either by its chair or by a representative of a Member State in accordance with its rules of procedure.
+
+### Article 45 — Delegated power
+
+1\. In order to take into account emerging very serious safety reasons, the Commission shall be empowered to adopt delegated acts in accordance with Article 46 reclassifying pressure equipment or assemblies so as to:
+
+(a) make an item or family of pressure equipment referred to in Article 4(3) subject to the requirements of Article 4(1);
+
+(b) make an assembly or family of assemblies referred to in Article 4(3) subject to the requirements of Article 4(2);
+
+(c) classify an item or family of pressure equipment, by way of derogation from the requirements of Annex II, in another category.
+
+2\. A Member State having concerns about the safety of pressure equipment or assemblies shall immediately inform the Commission of its concerns and provide reasons in support.
+
+3\. Prior to adopting a delegated act the Commission shall carry out a thorough assessment of the risks that require reclassification.
+
+### Article 46 — Exercise of the delegation
+
+1\. The power to adopt delegated acts is conferred on the Commission subject to the conditions laid down in this Article.
+
+2\. The power to adopt delegated acts referred to in Article 45 shall be conferred on the Commission for a period of five years from 1 June 2015. The Commission shall draw up a report in respect of the delegation of power not later than nine months before the end of the five-year period. The delegation of power shall be tacitly extended for periods of an identical duration, unless the European Parliament or the Council opposes such extension not later than three months before the end of each period.
+
+3\. The delegation of power referred to in Article 45 may be revoked at any time by the European Parliament or by the Council. A decision to revoke shall put an end to the delegation of the power specified in that decision. It shall take effect the day following the publication of the decision in the Official Journal of the European Union or at a later date specified therein. It shall not affect the validity of any delegated acts already in force.
+
+4\. As soon as it adopts a delegated act, the Commission shall notify it simultaneously to the European Parliament and to the Council.
+
+5\. A delegated act adopted pursuant to Article 45 shall enter into force only if no objection has been expressed either by the European Parliament or the Council within a period of two months of notification of that act to the European Parliament and the Council or if, before the expiry of that period, the European Parliament and the Council have both informed the Commission that they will not object. That period shall be extended by two months at the initiative of the European Parliament or of the Council.
+
+## CHAPTER 7 — TRANSITIONAL AND FINAL PROVISIONS
+
+### Article 47 — Penalties
+
+Member States shall lay down rules on penalties applicable to infringements by economic operators of the provisions of national law adopted pursuant to this Directive and shall take all measures necessary to ensure that they are implemented. Such rules may include criminal penalties for serious infringements.
+
+The penalties referred to in the first paragraph shall be effective, proportionate and dissuasive.
+
+### Article 48 — Transitional provisions
+
+1\. Member States shall not impede the putting into service of pressure equipment and assemblies which comply with the regulations in force in their territory at the date of application of Directive 97/23/EC and were placed on the market until 29 May 2002.
+
+2\. Member States shall not impede the making available on the market and/or the putting into service of pressure equipment or assemblies covered by Directive 97/23/EC which are in conformity with that Directive and which were placed on the market before 19 July 2016.
+
+3\. Certificates and decisions issued by conformity assessment bodies under Directive 97/23/EC shall be valid under this Directive.
+
+### Article 49 — Transposition
+
+1\. Member States shall adopt and publish, by 28 February 2015, the laws, regulations and administrative provisions necessary to comply with Article 13. They shall forthwith communicate the text of those measures to the Commission.
+
+They shall apply those measures from 1 June 2015.
+
+When Member States adopt those measures, they shall contain a reference to this Directive or be accompanied by such reference on the occasion of their official publication. They shall also include a statement that references in existing laws, regulations and administrative provisions to Article 9 of Directive 97/23/EC shall be construed as references to Article 13 of this Directive. Member States shall determine how such reference is to be made and how that statement is to be formulated.
+
+2\. Member States shall adopt and publish, by 18 July 2016, the laws, regulations and administrative provisions necessary to comply with Article 2(15) to (32), Articles 6 to 12, 14, 17 and 18, Article 19(3) to (5), Articles 20 to 43, 47 and 48 and Annexes I, II, III and IV. They shall forthwith communicate the text of those measures to the Commission.
+
+They shall apply those measures from 19 July 2016.
+
+When Member States adopt those measures, they shall contain a reference to this Directive or be accompanied by such reference on the occasion of their official publication. They shall also include a statement that references in existing laws, regulations and administrative provisions to the Directive repealed by this Directive shall be construed as references to this Directive. Member States shall determine how such reference is to be made and how that statement is to be formulated.
+
+3\. Member States shall communicate to the Commission the text of the main provisions of national law which they adopt in the field governed by this Directive.
+
+### Article 50 — Repeal
+
+Article 9 of Directive 97/23/EC is deleted with effect from 1 June 2015, without prejudice to the obligations of the Member States relating to the time-limit for transposition into national law and the date of application of that Article, set out in Annex V, Part B.
+
+Directive 97/23/EC, as amended by the acts listed in Annex V, Part A, is repealed with effect from 19 July 2016, without prejudice to the obligations of the Member States relating to the time-limit for transposition into national law and the date of application of the Directive set out in Annex V, Part B.
+
+References to the repealed Directive shall be construed as references to this Directive and shall be read in accordance with the correlation table in Annex VI.
+
+### Article 51 — Entry into force and application
+
+This Directive shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+
+Article 1, points 1 to 14 of Article 2, Articles 3, 4, 5, 14, 15 and 16, Article 19(1) and (2), and Articles 44, 45 and 46 shall apply from 19 July 2016.
+
+### Article 52 — Addressees
+
+This Directive is addressed to the Member States.
+
+## ANNEX I
+
+**ESSENTIAL SAFETY REQUIREMENTS**
+
+**PRELIMINARY OBSERVATIONS**
+
+1\. The obligations arising from the essential safety requirements listed in this Annex for pressure equipment also apply to assemblies where the corresponding hazard exists.
+
+2\. The essential safety requirements laid down in this Directive are compulsory. The obligations following from those essential safety requirements apply only if the corresponding hazard exists for the pressure equipment in question when it is used under conditions which are reasonably foreseeable by the manufacturer.
+
+3\. The manufacturer is under an obligation to analyse the hazards and risks in order to identify those which apply to his equipment on account of pressure; he shall then design and construct it taking account of his analysis.
+
+4\. The essential safety requirements are to be interpreted and applied in such a way as to take account of the state of the art and current practice at the time of design and manufacture as well as of technical and economic considerations which are consistent with a high degree of health and safety protection.
+
+**1\. GENERAL**
+
+1.1. Pressure equipment shall be designed, manufactured and checked, and if applicable equipped and installed, in such a way as to ensure its safety when put into service in accordance with the manufacturer’s instructions, or in reasonably foreseeable conditions.
+
+1.2. In choosing the most appropriate solutions, the manufacturer shall apply the principles set out below in the following order:
+
+— eliminate or reduce hazards as far as is reasonably practicable;
+
+— apply appropriate protection measures against hazards which cannot be eliminated;
+
+— where appropriate, inform users of residual hazards and indicate whether it is necessary to take appropriate special measures to reduce the risks at the time of installation and/or use.
+
+1.3. Where the potential for misuse is known or can be clearly foreseen, the pressure equipment shall be designed to prevent risks from such misuse or, if that is not possible, adequate warning given that the pressure equipment shall not be used in that way.
+
+**2\. DESIGN**
+
+2.1. General
+
+The pressure equipment shall be properly designed taking all relevant factors into account in order to ensure that the equipment will be safe throughout its intended life.
+
+The design shall incorporate appropriate safety coefficients using comprehensive methods which are known to incorporate adequate safety margins against all relevant failure modes in a consistent manner.
+
+2.2. Design for adequate strength
+
+2.2.1. The pressure equipment shall be designed for loadings appropriate to its intended use and other reasonably foreseeable operating conditions. In particular, the following factors shall be taken into account:
+
+— internal/external pressure,
+
+— ambient and operational temperatures,
+
+— static pressure and mass of contents in operating and test conditions,
+
+— traffic, wind, earthquake loading,
+
+— reaction forces and moments which result from the supports, attachments, piping, etc.,
+
+— corrosion and erosion, fatigue, etc.,
+
+— decomposition of unstable fluids.
+
+Various loadings which can occur at the same time shall be considered, taking into account the probability of their simultaneous occurrence.
+
+2.2.2. Design for adequate strength shall be based on either of the following:
+
+— as a general rule, a calculation method, as described in point 2.2.3, and supplemented if necessary by an experimental design method as described in point 2.2.4,
+
+— an experimental design method without calculation, as described in point 2.2.4, when the product of the maximum allowable pressure PS and the volume V is less than 6 000 bar·L or the product PS·DN less than 3 000 bar.
+
+2.2.3. Calculation method
+
+(a) Pressure containment and other loading aspects
+
+The allowable stresses for pressure equipment shall be limited having regard to reasonably foreseeable failure modes under operating conditions. To this end, safety factors shall be applied to eliminate fully any uncertainty arising out of manufacture, actual operational conditions, stresses, calculation models and the properties and behaviour of the material.
+
+These calculation methods shall provide sufficient safety margins consistent, where applicable, with the requirements of point 7.
+
+The requirements set out above may be met by applying one of the following methods, as appropriate, if necessary as a supplement to or in combination with another method:
+
+— design by formula,
+
+— design by analysis,
+
+— design by fracture mechanics.
+
+(b) Resistance
+
+Appropriate design calculations shall be used to establish the resistance of the pressure equipment concerned.
+
+In particular:
+
+— the calculation pressures shall not be less than the maximum allowable pressures and take into account static head and dynamic fluid pressures and the decomposition of unstable fluids. Where a vessel is separated into individual pressure-containing chambers, the partition wall shall be designed on the basis of the highest possible chamber pressure relative to the lowest pressure possible in the adjoining chamber,
+
+— the calculation temperatures shall allow for appropriate safety margins,
+
+— the design shall take appropriate account of all possible combinations of temperature and pressure which might arise under reasonably foreseeable operating conditions for the equipment,
+
+— the maximum stresses and peak stress concentrations shall be kept within safe limits,
+
+— the calculation for pressure containment shall utilise the values appropriate to the properties of the material, based on documented data, having regard to the provisions set out in point 4 together with appropriate safety factors. Material characteristics to be considered, where applicable, include:
+
+— yield strength, 0,2 % or 1,0 % proof strength as appropriate at calculation temperature,
+
+— tensile strength,
+
+— time-dependent strength, i.e. creep strength,
+
+— fatigue data,
+
+— Young’s modulus (modulus of elasticity),
+
+— appropriate amount of plastic strain,
+
+— bending rupture energy,
+
+— fracture toughness.
+
+— appropriate joint factors shall be applied to the material properties depending, for example, on the type of non-destructive testing, the materials joined and the operating conditions envisaged,
+
+— the design shall take appropriate account of all reasonably foreseeable degradation mechanisms (e.g. corrosion, creep, fatigue) commensurate with the intended use of the equipment. Attention shall be drawn, in the instructions referred to in point 3.4, to particular features of the design which are relevant to the life of the equipment, for example:
+
+— for creep: design hours of operation at specified temperatures,
+
+— for fatigue: design number of cycles at specified stress levels,
+
+— for corrosion: design corrosion allowance.
+
+(c) Stability aspects
+
+Where the calculated thickness does not allow for adequate structural stability, the necessary measures shall be taken to remedy the situation taking into account the risks from transport and handling.
+
+2.2.4. Experimental design method
+
+The design of the equipment may be validated, in all or in part, by an appropriate test programme carried out on a sample representative of the equipment or the category of equipment.
+
+The test programme shall be clearly defined prior to testing and accepted by the notified body responsible for the design conformity assessment module, where it exists.
+
+This programme shall define test conditions and criteria for acceptance or refusal. The actual values of the essential dimensions and characteristics of the materials which constitute the equipment tested shall be measured before the test.
+
+Where appropriate, during tests, it shall be possible to observe the critical zones of the pressure equipment with adequate instrumentation capable of registering strains and stresses with sufficient precision.
+
+The test programme shall include:
+
+(a) A pressure strength test, the purpose of which is to check that, at a pressure with a defined safety margin in relation to the maximum allowable pressure, the equipment does not exhibit significant leaks or deformation exceeding a determined threshold.
+
+The test pressure shall be determined on the basis of the differences between the values of the geometrical and material characteristics measures under test conditions and the values used for design purposes; it shall take into account the differences between the test and design temperatures;
+
+(b) where the risk of creep or fatigue exists, appropriate tests determined on the basis of the service conditions laid down for the equipment, for instance hold time at specified temperatures, number of cycles at specified stress-levels;
+
+(c) where necessary, additional tests concerning other factors referred to in point 2.2.1 such as corrosion, external damage.
+
+2.3. Provisions to ensure safe handling and operation
+
+The method of operation specified for pressure equipment shall be such as to preclude any reasonably foreseeable risk in operation of the equipment. Particular attention shall be paid, where appropriate, to:
+
+— closures and openings,
+
+— dangerous discharge of pressure relief blow-off,
+
+— devices to prevent physical access whilst pressure or a vacuum exists,
+
+— surface temperature taking into consideration the intended use,
+
+— decomposition of unstable fluids.
+
+In particular, pressure equipment fitted with an access door shall be equipped with an automatic or manual device enabling the user easily to ascertain that the opening will not present any risk. Furthermore, where the opening can be operated quickly, the pressure equipment shall be fitted with a device to prevent it being opened whenever the pressure or temperature of the fluid presents a risk.
+
+2.4. Means of examination
+
+(a) Pressure equipment shall be designed and constructed so that all necessary examinations to ensure safety can be carried out;
+
+(b) Means of determining the internal condition of the equipment shall be available, where it is necessary to ensure the continued safety of the equipment, such as access openings allowing physical access to the inside of the pressure equipment so that appropriate examinations can be carried out safely and ergonomically;
+
+(c) Other means of ensuring the safe condition of the pressure equipment may be applied in any of the following situations:
+
+— where it is too small for physical internal access,
+
+— where opening the pressure equipment would adversely affect the inside,
+
+— where the substance contained has been shown not to be harmful to the material from which the pressure equipment is made and no other internal degradation mechanisms are reasonably foreseeable.
+
+2.5. Means of draining and venting
+
+Adequate means shall be provided for the draining and venting of pressure equipment where necessary:
+
+— to avoid harmful effects such as water hammer, vacuum collapse, corrosion and uncontrolled chemical reactions. All stages of operation and testing, particularly pressure testing, shall be considered,
+
+— to permit cleaning, inspection and maintenance in a safe manner.
+
+2.6. Corrosion or other chemical attack
+
+Where necessary, adequate allowance or protection against corrosion or other chemical attack shall be provided, taking due account of the intended and reasonably foreseeable use.
+
+2.7. Wear
+
+Where severe conditions of erosion or abrasion may arise, adequate measures shall be taken to:
+
+— minimise that effect by appropriate design, e.g. additional material thickness, or by the use of liners or cladding materials,
+
+— permit replacement of parts which are most affected,
+
+— draw attention, in the instructions referred to in point 3.4, to measures necessary for continued safe use.
+
+2.8. Assemblies
+
+Assemblies shall be so designed that:
+
+— the components to be assembled together are suitable and reliable for their duty,
+
+— all the components are properly integrated and assembled in an appropriate manner.
+
+2.9. Provisions for filling and discharge
+
+Where appropriate, the pressure equipment shall be so designed and provided with accessories, or provision made for their fitting, as to ensure safe filling and discharge in particular with respect to risks such as:
+
+(a) on filling:
+
+— overfilling or overpressurisation having regard in particular to the filling ratio and to vapour pressure at the reference temperature,
+
+— instability of the pressure equipment;
+
+(b) on discharge: the uncontrolled release of the pressurised fluid;
+
+(c) on filling or discharge: unsafe connection and disconnection.
+
+2.10. Protection against exceeding the allowable limits of pressure equipment
+
+Where, under reasonably foreseeable conditions, the allowable limits could be exceeded, the pressure equipment shall be fitted with, or provision made for the fitting of, suitable protective devices, unless the equipment is intended to be protected by other protective devices within an assembly.
+
+The suitable device or combination of such devices shall be determined on the basis of the particular characteristics of the equipment or assembly.
+
+Suitable protective devices and combinations thereof comprise:
+
+(a) safety accessories as defined in point 4 of Article 2,
+
+(b) where appropriate, adequate monitoring devices such as indicators and/or alarms which enable adequate action to be taken either automatically or manually to keep the pressure equipment within the allowable limits.
+
+2.11. Safety accessories
+
+2.11.1. Safety accessories shall:
+
+— be so designed and constructed as to be reliable and suitable for their intended duty and take into account the maintenance and testing requirements of the devices, where applicable,
+
+— be independent of other functions, unless their safety function cannot be affected by such other functions,
+
+— comply with appropriate design principles in order to obtain suitable and reliable protection. These principles include, in particular, fail-safe modes, redundancy, diversity and self-diagnosis.
+
+2.11.2. Pressure limiting devices
+
+These devices shall be so designed that the pressure will not permanently exceed the maximum allowable pressure PS; however a short duration pressure surge in keeping with the specifications laid down in point 7.3 is allowable, where appropriate.
+
+2.11.3. Temperature monitoring devices
+
+These devices shall have an adequate response time on safety grounds, consistent with the measurement function.
+
+2.12. External fire
+
+Where necessary, pressure equipment shall be so designed and, where appropriate, fitted with suitable accessories, or provision made for their fitting, to meet damage-limitation requirements in the event of external fire, having particular regard to its intended use.
+
+**3\. MANUFACTURING**
+
+3.1. Manufacturing procedures
+
+The manufacturer shall ensure the competent execution of the provisions set out at the design stage by applying the appropriate techniques and relevant procedures, especially with a view to the aspects set out below.
+
+3.1.1. Preparation of the component parts
+
+Preparation of the component parts (e.g. forming and chamfering) shall not give rise to defects or cracks or changes in the mechanical characteristics likely to be detrimental to the safety of the pressure equipment.
+
+3.1.2. Permanent joining
+
+Permanent joints and adjacent zones shall be free of any surface or internal defects detrimental to the safety of the equipment.
+
+The properties of permanent joints shall meet the minimum properties specified for the materials to be joined unless other relevant property values are specifically taken into account in the design calculations.
+
+For pressure equipment, permanent joining of components which contribute to the pressure resistance of equipment and components which are directly attached to them shall be carried out by suitably qualified personnel according to suitable operating procedures.
+
+For pressure equipment in categories II, III and IV, operating procedures and personnel shall be approved by a competent third party which, at the manufacturer’s discretion, may be:
+
+— a notified body,
+
+— a third-party organisation recognised by a Member State as provided for in Article 20.
+
+To carry out these approvals the third party must perform examinations and tests as set out in the appropriate harmonised standards or equivalent examinations and tests or shall have them performed.
+
+3.1.3. Non-destructive tests
+
+For pressure equipment, non-destructive tests of permanent joints shall be carried out by suitable qualified personnel. For pressure equipment in categories III and IV, the personnel shall be approved by a third-party organisation recognised by a Member State pursuant to Article 20.
+
+3.1.4. Heat treatment
+
+Where there is a risk that the manufacturing process will change the material properties to an extent which would impair the safety of the pressure equipment, suitable heat treatment shall be applied at the appropriate stage of manufacture.
+
+3.1.5. Traceability
+
+Suitable procedures shall be established and maintained for identifying the material making up the components of the equipment which contribute to pressure resistance by suitable means from receipt, through production, up to the final test of the manufactured pressure equipment.
+
+3.2. Final assessment
+
+Pressure equipment shall be subjected to final assessment as described below.
+
+3.2.1. Final inspection
+
+Pressure equipment shall undergo a final inspection to assess visually and by examination of the accompanying documents compliance with the requirements of this Directive. Test carried out during manufacture may be taken into account. As far as is necessary on safety grounds, the final inspection shall be carried out internally and externally on every part of the equipment, where appropriate in the course of manufacture (e.g. where examination during the final inspection is no longer possible).
+
+3.2.2. Proof test
+
+Final assessment of pressure equipment shall include a test for the pressure containment aspect, which will normally take the form of a hydrostatic pressure test at a pressure at least equal, where appropriate, to the value laid down in point 7.4.
+
+For category I series-produced pressure equipment, this test may be performed on a statistical basis.
+
+Where the hydrostatic pressure test is harmful or impractical, other tests of a recognised value may be carried out. For tests other than the hydrostatic pressure test, additional measures, such as non-destructive tests or other methods of equivalent validity, shall be applied before those tests are carried out.
+
+3.2.3. Inspection of safety devices
+
+For assemblies, the final assessment shall also include a check of the safety devices intended to check full compliance with the requirements referred to in point 2.10.
+
+3.3. Marking and labelling
+
+In addition to the CE marking referred to in Articles 18 and 19 and the information to be provided in accordance with Article 6(6) and Article 8(3), the following information shall be provided:
+
+(a) for all pressure equipment:
+
+— the year of manufacture,
+
+— identification of the pressure equipment according to its nature, such as type, series or batch identification and serial number,
+
+— essential maximum/minimum allowable limits.
+
+(b) depending on the type of pressure equipment, further information necessary for safe installation, operation or use and, where applicable, maintenance and periodic inspection such as:
+
+— the volume V of the pressure equipment in L,
+
+— the nominal size for piping DN,
+
+— the test pressure PT applied in bar and date,
+
+— safety device set pressure in bar,
+
+— output of the pressure equipment in kW,
+
+— supply voltage in V (volts),
+
+— intended use,
+
+— filling ratio kg/L,
+
+— maximum filling mass in kg,
+
+— tare mass in kg,
+
+— the fluid group.
+
+(c) where necessary, warnings fixed to the pressure equipment drawing attention to misuse which experience has shown might occur.
+
+The information referred to in points (a), (b) and (c) shall be given on the pressure equipment or on a dataplate firmly attached to it, with the following exceptions:
+
+— where applicable, appropriate documentation may be used to avoid repetitive marking of individual parts such as piping components, intended for the same assembly,
+
+— where the pressure equipment is too small, e.g. accessories, this information may be given on a label attached to that pressure equipment,
+
+— labelling or other adequate means may be used for the mass to be filled and the warnings referred to in point (c), provided it remains legible for the appropriate period of time.
+
+3.4. Operating instructions
+
+(a) When pressure equipment is made available on the market, it shall be accompanied, as far as relevant, with instructions for the user, containing all the necessary safety information relating to:
+
+— mounting including assembling of different pieces of pressure equipment,
+
+— putting into service,
+
+— use,
+
+— maintenance including checks by the user.
+
+(b) Instructions shall cover information affixed to the pressure equipment in accordance with point 3.3, with the exception of serial identification, and shall be accompanied, where appropriate, by the technical documents, drawings and diagrams necessary for a full understanding of these instructions.
+
+(c) If appropriate, these instructions shall also refer to risks arising from misuse in accordance with point 1.3 and particular features of the design in accordance with point 2.2.3.
+
+**4\. MATERIALS**
+
+Materials used for the manufacture of pressure equipment shall be suitable for such application during the scheduled lifetime unless replacement is foreseen.
+
+Welding consumables and other joining materials need to fulfil only the relevant requirements of points 4.1, 4.2(a) and the first paragraph of point 4.3, in an appropriate way, both individually and in a joined structure.
+
+4.1. Materials for pressurised parts shall:
+
+(a) have appropriate properties for all operating conditions which are reasonably foreseeable and for all test conditions, and in particular they should be sufficiently ductile and tough. Where appropriate, the characteristics of the materials shall comply with the requirements of point 7.5. Moreover, due care should be exercised in particular in selecting materials in order to prevent brittle-type fracture where necessary; where for specific reasons brittle material has to be used appropriate measures shall be taken;
+
+(b) be sufficiently chemically resistant to the fluid contained in the pressure equipment; the chemical and physical properties necessary for operational safety shall not be significantly affected within the scheduled lifetime of the equipment;
+
+(c) not be significantly affected by ageing;
+
+(d) be suitable for the intended processing procedures;
+
+(e) be selected in order to avoid significant undesirable effects when the various materials are put together.
+
+4.2. The pressure equipment manufacturer shall:
+
+(a) define in an appropriate manner the values necessary for the design calculations referred to in point 2.2.3 and the essential characteristics of the materials and their treatment referred to in point 4.1;
+
+(b) provide in his technical documentation elements relating to compliance with the materials specifications of this Directive in one of the following forms:
+
+— by using materials which comply with harmonised standards,
+
+— by using materials covered by a European approval of pressure equipment materials in accordance with Article 15,
+
+— by a particular material appraisal;
+
+(c) for pressure equipment in categories III and IV, a specific assessment of the particular material appraisal shall be performed by the notified body in charge of conformity assessment procedures for the pressure equipment.
+
+4.3. The equipment manufacturer shall take appropriate measures to ensure that the material used conforms with the required specification. In particular, documentation prepared by the material manufacturer affirming compliance with a specification shall be obtained for all materials.
+
+For the main pressure-bearing parts of equipment in categories II, III and IV, this shall take the form of a certificate of specific product control.
+
+Where a material manufacturer has an appropriate quality-assurance system, certified by a competent body established within the Union and having undergone a specific assessment for materials, certificates issued by the manufacturer are presumed to certify conformity with the relevant requirements of this point.
+
+**SPECIFIC PRESSURE EQUIPMENT REQUIREMENTS**
+
+In addition to the applicable requirements of points 1 to 4, the following requirements apply to the pressure equipment covered by points 5 and 6.
+
+**5\. FIRED OR OTHERWISE HEATED PRESSURE EQUIPMENT WITH A RISK OF OVERHEATING AS REFERRED TO IN ARTICLE 4(1)**
+
+This pressure equipment includes:
+
+— steam and hot-water generators as referred to in Article 4(1)(b), such as fired steam and hot-water boilers, superheaters and reheaters, waste-heat boilers, waste incineration boilers, electrode or immersion-type electrically heated boilers, pressure cookers, together with their accessories and where applicable their systems for treatment of feedwater and for fuel supply,
+
+— process-heating equipment for other than steam and hot water generation falling under Article 4(1)(a), such as heaters for chemical and other similar processes and pressurised food-processing equipment.
+
+This pressure equipment shall be calculated, designed and constructed so as to avoid or minimise risks of a significant loss of containment from overheating. In particular it shall be ensured, where applicable, that:
+
+(a) appropriate means of protection are provided to restrict operating parameters such as heat input, heat take-off and, where applicable, fluid level so as to avoid any risk of local and general overheating;
+
+(b) sampling points are provided where required to allow evaluation of the properties of the fluid so as to avoid risks related to deposits and/or corrosion;
+
+(c) adequate provisions are made to eliminate risks of damage from deposits;
+
+(d) means of safe removal of residual heat after shutdown are provided;
+
+(e) steps are taken to avoid a dangerous accumulation of ignitable mixtures of combustible substances and air, or flame blowback.
+
+**6\. PIPING AS REFERRED TO IN ARTICLE 4(1)(c)**
+
+Design and construction shall ensure:
+
+(a) that the risk of overstressing from inadmissible free movement or excessive forces being produced, e.g. on flanges, connections, bellows or hoses, is adequately controlled by means such as support, constraint, anchoring, alignment and pre-tension;
+
+(b) that where there is a possibility of condensation occurring inside pipes for gaseous fluids, means are provided for drainage and removal of deposits from low areas to avoid damage from water hammer or corrosion;
+
+(c) that due consideration is given to the potential damage from turbulence and formation of vortices; the relevant parts of point 2.7 are applicable;
+
+(d) that due consideration is given to the risk of fatigue due to vibrations in pipes;
+
+(e) that, where fluids of Group 1 are contained in the piping, appropriate means are provided to isolate ‘take-off’ pipes the size of which represents a significant risk;
+
+(f) that the risk of inadvertent discharge is minimised; the take-off points shall be clearly marked on the permanent side, indicating the fluid contained;
+
+(g) that the position and route of underground piping is at least recorded in the technical documentation to facilitate safe maintenance, inspection or repair.
+
+**7\. SPECIFIC QUANTITATIVE REQUIREMENTS FOR CERTAIN PRESSURE EQUIPMENT**
+
+The following provisions apply as a general rule. However, where they are not applied, including in cases where materials are not specifically referred to and no harmonised standards are applied, the manufacturer shall demonstrate that appropriate measures have been taken to achieve an equivalent overall level of safety.
+
+The provisions laid down in this section supplement the essential safety requirements of points 1 to 6 for the pressure equipment to which they apply.
+
+7.1. Allowable stresses
+
+7.1.1. Symbols
+
+Re/t, yield limit, indicates the value at the calculation temperature of:
+
+— the upper flow limit for a material presenting upper and lower flow limits,
+
+— the 1,0 % proof strength of austenitic steel and non-alloyed aluminium,
+
+— the 0,2 % proof strength in other cases.
+
+Rm/20 indicates the minimum value of the ultimate tensile strength at 20 °C.
+
+Rm/t designates the ultimate tensile strength at the calculation temperature.
+
+7.1.2. The permissible general membrane stress for predominantly static loads and for temperatures outside the range in which creep is significant shall not exceed the smaller of the following values, according to the material used:
+
+— in the case of ferritic steel including normalised (normalised rolled) steel and excluding fine-grained steel and specially heat-treated steel, 2/3 of Re/t and 5/12 of Rm/20,
+
+— in the case of austenitic steel:
+
+— if its elongation after rupture exceeds 30 %, 2/3 of Re/t
+
+— or, alternatively, and if its elongation after rupture exceeds 35 %, 5/6 of Re/t and 1/3 of Rm/t,
+
+— in the case of non-alloy or low-alloy cast steel, 10/19 of Re/t and 1/3 of Rm/20,
+
+— in the case of aluminium, 2/3 of Re/t,
+
+— in the case of aluminium alloys excluding precipitation hardening alloys 2/3 of Re/t and 5/12 of Rm/20.
+
+7.2. Joint coefficients
+
+For welded joints, the joint coefficient shall not exceed the following values:
+
+— for equipment subject to destructive and non-destructive tests which confirm that the whole series of joints show no significant defects: 1,
+
+— for equipment subject to random non-destructive testing: 0,85,
+
+— for equipment not subject to non-destructive testing other than visual inspection: 0,7.
+
+If necessary, the type of stress and the mechanical and technological properties of the joint shall also be taken into account.
+
+7.3. Pressure limiting devices, particularly for pressure vessels
+
+The momentary pressure surge referred to in point 2.11.2 shall be kept to 10 % of the maximum allowable pressure.
+
+7.4. Hydrostatic test pressure
+
+For pressure vessels, the hydrostatic test pressure referred to in point 3.2.2 shall be no less than either of the following:
+
+— that corresponding to the maximum loading to which the pressure equipment may be subject in service taking into account its maximum allowable pressure and its maximum allowable temperature, multiplied by the coefficient 1,25,
+
+— the maximum allowable pressure multiplied by the coefficient 1,43, whichever is the greater.
+
+7.5. Material characteristics
+
+Unless other values are required in accordance with other criteria that shall be taken into account, a steel is considered as sufficiently ductile to satisfy point 4.1(a) if, in a tensile test carried out by a standard procedure, its elongation after rupture is no less than 14 % and its bending rupture energy measured on an ISO V test-piece is no less than 27 J, at a temperature not greater than 20 °C but not higher than the lowest scheduled operating temperature.
+
+## ANNEX II
+
+**CONFORMITY ASSESSMENT TABLES**
+
+1\. The references in the tables to categories of modules are the following:
+
+| I | = | Module A |
+| --- | --- | --- |
+| II | = | Modules A2, D1, E1 |
+| III | = | Modules B (design type) + D, B (design type) + F, B (production type) + E, B (production type) + C2, H |
+| IV | = | Modules B (production type) + D, B (production type) + F, G, H1 |
+
+2\. The safety accessories defined in point 4 of Article 2, and referred to in Article 4(1)(d), are classified in category IV. However, by way of exception, safety accessories manufactured for specific equipment may be classified in the same category as the equipment they protect.
+
+3\. The pressure accessories defined in point 5 of Article 2, and referred to in Article 4(1)(d), are classified on the basis of:
+
+— their maximum allowable pressure PS,
+
+— their volume V or their nominal size DN, as appropriate,
+
+— the group of fluids for which they are intended.
+
+The appropriate table for vessels or piping is to be used to determine the conformity assessment category.
+
+Where both the volume and the nominal size are considered appropriate in the second indent of the first subparagraph, the pressure accessory shall be classified in the highest category.
+
+4\. The demarcation lines in the following conformity assessment tables indicate the upper limit for each category.
+
+Text of image
+
+Article 4, paragraph 3
+
+**Table 1**
+
+**Vessels referred to in Article 4(1)(a)(i), first indent**
+
+Exceptionally, vessels intended to contain an unstable gas and falling within categories I or II on the basis of table 1 shall be classified in category III.
+
+Text of image
+
+Article 4, paragraph 3
+
+**Table 2**
+
+**Vessels referred to in Article 4(1)(a)(i), second indent**
+
+Exceptionally, portable extinguishers and bottles for breathing equipment shall be classified at least in category III.
+
+Text of image
+
+Article 4, paragraph 3
+
+**Table 3**
+
+**Vessels referred to in Article 4(1)(a)(ii), first indent**
+
+Text of image
+
+Article 4, paragraph 3
+
+**Table 4**
+
+**Vessels referred to in Article 4(1)(a)(ii), second indent**
+
+Exceptionally, assemblies intended for generating warm water as referred to in the second subparagraph of Article 4(2), shall be subject either to an EU-type examination (Module B — design type) with respect to their conformity with the essential requirements referred to in points 2.10, 2.11, 3.4, 5(a) and 5(d) of Annex I, or to full quality assurance (Module H).
+
+Text of image
+
+Article 4, paragraph 3
+
+**Table 5**
+
+**Pressure equipment referred to in Article 4(1)(b)**
+
+Exceptionally, the design of pressure-cookers shall be subject to a conformity assessment procedure equivalent to at least one of the category III modules.
+
+Text of image
+
+Article 4, paragraph 3
+
+**Table 6**
+
+**Piping referred to in Article 4(1)(c)(i), first indent**
+
+Exceptionally, piping intended for unstable gases and falling within categories I or II on the basis of Table 6 shall be classified in category III.
+
+Text of image
+
+Article 4, paragraph 3
+
+**Table 7**
+
+**Piping referred to in Article 4(1)(c)(i), second indent**
+
+Exceptionally, all piping containing fluids at a temperature greater than 350 °C and falling within category II on the basis of Table 7 shall be classified in category III.
+
+Text of image
+
+Article 4, paragraph 3
+
+**Table 8**
+
+**Piping referred to in Article 4(1)(c)(ii), first indent**
+
+Text of image
+
+Article 4, paragraph 3
+
+**Table 9**
+
+**Piping referred to in Article 4(1)(c)(ii), second indent**
+
+## ANNEX III
+
+**CONFORMITY ASSESSMENT PROCEDURES**
+
+The obligations arising from the provisions on pressure equipment in this Annex also apply to assemblies.
+
+**1\. MODULE A: (INTERNAL PRODUCTION CONTROL)**
+
+1\. Internal production control is the conformity assessment procedure whereby the manufacturer fulfils the obligations laid down in points 2, 3 and 4, and ensures and declares on his sole responsibility that the pressure equipment concerned satisfy the requirements of this Directive.
+
+2\. Technical documentation
+
+The manufacturer shall establish the technical documentation.
+
+The technical documentation shall make it possible to assess the conformity of the pressure equipment to the relevant requirements, and shall include an adequate analysis and assessment of the risk(s). The technical documentation shall specify the applicable requirements and cover, as far as relevant for the assessment, the design, manufacture and operation of the pressure equipment. The technical documentation shall, wherever applicable, contain at least the following elements:
+
+— a general description of the pressure equipment,
+
+— conceptual design and manufacturing drawings and diagrams of components, sub-assemblies, circuits, etc.,
+
+— descriptions and explanations necessary for an understanding of those drawings and diagrams and the operation of the pressure equipment,
+
+— a list of the harmonised standards the references of which have been published in the Official Journal of the European Union, applied in full or in part, and a description of the solutions adopted to meet the essential safety requirements of this Directive where those harmonised standards have not been applied. In the event of partly applied harmonised standards, the technical documentation shall specify the parts which have been applied,
+
+— results of design calculations made, examinations carried out, etc.,
+
+— test reports.
+
+3\. Manufacturing
+
+The manufacturer shall take all measures necessary so that the manufacturing process and its monitoring ensure compliance of the manufactured pressure equipment with the technical documentation referred to in point 2 and with the requirements of this Directive.
+
+4\. CE marking and EU declaration of conformity
+
+4.1. The manufacturer shall affix the CE marking to each individual pressure equipment that satisfies the applicable requirements of this Directive.
+
+4.2. The manufacturer shall draw up a written EU declaration of conformity for the pressure equipment model and keep it together with the technical documentation at the disposal of the national authorities for 10 years after the pressure equipment has been placed on the market. The EU declaration of conformity shall identify the pressure equipment for which it has been drawn up.
+
+A copy of the EU declaration of conformity shall be made available to the relevant authorities upon request.
+
+5\. Authorised representative
+
+The manufacturer’s obligations set out in point 4 may be fulfilled by his authorised representative, on his behalf and under his responsibility, provided that they are specified in the mandate.
+
+**2\. MODULE A2: INTERNAL PRODUCTION CONTROL PLUS SUPERVISED PRESSURE EQUIPMENT CHECKS AT RANDOM INTERVALS**
+
+1\. Internal production control plus supervised pressure equipment checks at random intervals is the conformity assessment procedure whereby the manufacturer fulfils the obligations laid down in points 2, 3, 4 and 5, and ensures and declares on his sole responsibility that the pressure equipment concerned satisfy the requirements of this Directive.
+
+2\. Technical documentation
+
+The manufacturer shall establish the technical documentation. The documentation shall make it possible to assess the conformity of the pressure equipment with the relevant requirements, and shall include an adequate analysis and assessment of the risk(s). The technical documentation shall specify the applicable requirements and cover, as far as relevant for the assessment, the design, manufacture and operation of the pressure equipment. The technical documentation shall contain, wherever applicable, at least the following elements:
+
+— a general description of the pressure equipment,
+
+— conceptual design and manufacturing drawings and diagrams of components, sub-assemblies, circuits, etc.,
+
+— descriptions and explanations necessary for the understanding of those drawings and diagrams and the operation of the pressure equipment,
+
+— a list of the harmonised standards the references of which have been published in the Official Journal of the European Union, applied in full or in part, and descriptions of the solutions adopted to meet the essential safety requirements of this Directive where those harmonised standards have not been applied. In the event of partly applied harmonised standards, the technical documentation shall specify the parts which have been applied,
+
+— results of design calculations made, examinations carried out, etc., and
+
+— test reports.
+
+3\. Manufacturing
+
+The manufacturer shall take all measures necessary so that the manufacturing process and its monitoring ensure compliance of the manufactured pressure equipment with the technical documentation referred to in point 2 and with the requirements of this Directive that apply to it.
+
+4\. Final assessment and pressure equipment checks
+
+The manufacturer shall perform a final assessment of the pressure equipment, monitored by means of unexpected visits by a notified body chosen by the manufacturer.
+
+The notified body shall carry out product checks or have them carried out at random intervals determined by the body, in order to verify the quality of the internal checks of the pressure equipment, taking into account, inter alia, the technological complexity of the pressure equipment and the quantity of production.
+
+During its unexpected visits, the notified body shall:
+
+— establish that the manufacturer actually performs final assessment in accordance with point 3.2 of Annex I.
+
+— take samples of pressure equipment at the manufacturing or storage premises in order to conduct checks. The notified body assesses the number of items of equipment to sample and whether it is necessary to perform, or have performed, all or part of the final assessment of the pressure equipment samples.
+
+The acceptance sampling procedure to be applied is intended to determine whether the manufacturing process of the pressure equipment performs within acceptable limits, with a view to ensuring conformity of the pressure equipment.
+
+Should one or more of the items of pressure equipment or assembly not conform, the notified body shall take appropriate measures.
+
+The manufacturer shall, under the responsibility of the notified body, affix the notified body’s identification number during the manufacturing process.
+
+5\. CE marking and EU declaration of conformity
+
+5.1. The manufacturer shall affix the CE marking to each individual pressure equipment that satisfies the applicable requirements of this Directive.
+
+5.2. The manufacturer shall draw up a written EU declaration of conformity for the pressure equipment model and keep it together with the technical documentation at the disposal of the national authorities for 10 years after the pressure equipment has been placed on the market. The EU declaration of conformity shall identify the pressure equipment for which it has been drawn up.
+
+A copy of the EU declaration of conformity shall be made available to the relevant authorities upon request.
+
+6\. Authorised representative
+
+The manufacturer’s obligations set out in point 5 may be fulfilled by his authorised representative, on his behalf and under his responsibility, provided that they are specified in the mandate.
+
+**3\. MODULE B: EU-TYPE EXAMINATION**
+
+**3.1. EU-Type examination – production type**
+
+1\. EU-type examination — production type is the part of a conformity assessment procedure in which a notified body examines the technical design of the pressure equipment and verifies and attests that the technical design of the pressure equipment meets the requirements of this Directive.
+
+2\. EU-type examination — production type shall consist of an assessment of the adequacy of the technical design of the pressure equipment through examination of the technical documentation and supporting evidence referred to in point 3, plus examination of a specimen, representative of the production envisaged, of the complete pressure equipment.
+
+3\. The manufacturer shall lodge an application for EU-type examination with a single notified body of his choice.
+
+The application shall include:
+
+— the name and address of the manufacturer and, if the application is lodged by the authorised representative, his name and address as well,
+
+— a written declaration that the same application has not been lodged with any other notified body,
+
+— the technical documentation. The technical documentation shall make it possible to assess the conformity of the pressure equipment with the applicable requirements of this Directive and shall include an adequate analysis and assessment of the risk(s). The technical documentation shall specify the applicable requirements and cover, as far as relevant for the assessment, the design, manufacture and operation of the pressure equipment. The technical documentation shall contain, wherever applicable, at least the following elements:
+
+— a general description of the pressure equipment,
+
+— conceptual design and manufacturing drawings and diagrams of components, sub-assemblies, circuits, etc.,
+
+— descriptions and explanations necessary for the understanding of those drawings and diagrams and the operation of the pressure equipment,
+
+— a list of the harmonised standards the references of which have been published in the Official Journal of the European Union, applied in full or in part, and descriptions of the solutions adopted to meet the essential safety requirements of this Directive where those harmonised standards have not been applied. In the event of partly applied harmonised standards, the technical documentation shall specify the parts which have been applied,
+
+— results of design calculations made, examinations carried out, etc.,
+
+— test reports,
+
+— information concerning the tests provided for in manufacture,
+
+— information concerning the qualifications or approvals required under points 3.1.2 and 3.1.3 of Annex I,
+
+— the specimens representative of the production envisaged.
+
+The specimen may cover several versions of the pressure equipment provided that the differences between the versions do not affect the level of safety.
+
+The notified body may request further specimens if needed for carrying out the test programme;
+
+— the supporting evidence for the adequacy of the technical design solution. This supporting evidence shall mention any documents that have been used, in particular where the relevant harmonised standards have not been applied in full. The supporting evidence shall include, where necessary, the results of tests carried out by the appropriate laboratory of the manufacturer applying other relevant technical specifications, or by another testing laboratory on his behalf and under his responsibility.
+
+4\. The notified body shall:
+
+4.1. examine the technical documentation and supporting evidence to assess the adequacy of the technical design of the pressure equipment and the manufacturing procedures.
+
+In particular, the notified body shall:
+
+— assess the materials where these are not in conformity with the relevant harmonised standards or with a European approval for pressure equipment materials, and check the certificate issued by the material manufacturer in accordance with point 4.3 of Annex I,
+
+— approve the procedures for the permanent joining of pressure equipment parts, or check that they have been previously approved in accordance with point 3.1.2 of Annex I,
+
+— verify that the personnel undertaking the permanent joining of pressure equipment parts and the non-destructive tests are qualified or approved in accordance with points 3.1.2 or 3.1.3 of Annex I.
+
+4.2. verify that the specimen(s) have been manufactured in conformity with the technical documentation and identify the elements which have been designed in accordance with the applicable provisions of the relevant harmonised standards as well as the elements which have been designed using other relevant technical specifications without applying the relevant provisions of those standards.
+
+4.3. carry out appropriate examinations and necessary tests to check whether when the manufacturer has chosen to apply the solutions in the relevant harmonised standards, these have been applied correctly.
+
+4.4. carry out appropriate examinations and necessary tests to check whether, where the solutions in the relevant harmonised standards have not been applied, the solutions adopted by the manufacturer applying other relevant technical specifications meet the corresponding essential safety requirements of this Directive.
+
+4.5. agree with the manufacturer on a location where the examinations and tests will be carried out.
+
+5\. The notified body shall draw up an evaluation report that records the activities undertaken in accordance with point 4 and their outcomes. Without prejudice to its obligations vis-à-vis the notifying authority, the notified body shall release the content of that report, in full or in part, only with the agreement of the manufacturer.
+
+6\. Where the type meets the requirements of this Directive, the notified body shall issue an EU-type examination certificate – production type to the manufacturer. Without prejudice to point 7, the certificate shall be valid for 10 years and be renewable and shall contain the name and address of the manufacturer, the conclusions of the examination, the conditions (if any) for its validity and the necessary data for identification of the approved type.
+
+A list of the relevant parts of the technical documentation shall be annexed to the certificate and a copy kept by the notified body.
+
+The certificate and its annexes shall contain all relevant information to allow the conformity of manufactured pressure equipment with the examined type to be evaluated and to allow for in-service control.
+
+Where the type does not satisfy the applicable requirements of this Directive, the notified body shall refuse to issue an EU-type examination certificate – production type and shall inform the applicant accordingly, giving detailed reasons for its refusal. Provision shall be made for an appeals procedure.
+
+7\. The notified body shall keep itself apprised of any changes in the generally acknowledged state of the art which indicate that the approved type may no longer comply with the applicable requirements of this Directive, and shall determine whether such changes require further investigation. If so, the notified body shall inform the manufacturer accordingly.
+
+The manufacturer shall inform the notified body that holds the technical documentation relating to the EU-type examination certificate – production type of all modifications to the approved type that may affect the conformity of the pressure equipment with the essential safety requirements of this Directive or the conditions for validity of the certificate. Such modifications shall require additional approval in the form of an addition to the original EU- type examination certificate – production type.
+
+8\. Each notified body shall inform its notifying authority concerning the EU-type examination certificates – production type and/or any additions thereto which it has issued or withdrawn, and shall, periodically or upon request, make available to its notifying authorities the list of certificates and/or any additions thereto refused, suspended or otherwise restricted.
+
+Each notified body shall inform the other notified bodies concerning the EU-type examination certificates – production type and/or any additions thereto which it has refused, withdrawn, suspended or otherwise restricted, and, upon request, concerning the certificates and/or additions thereto which it has issued.
+
+The Commission, the Member States and the other notified bodies may, on request, obtain a copy of the EU-type examination certificates – production type and/or additions thereto. On request, the Commission and the Member States may obtain a copy of the technical documentation and the results of the examinations carried out by the notified body. The notified body shall keep a copy of the EU-type examination certificate – production type, its annexes and additions, as well as the technical file including the documentation submitted by the manufacturer, until the expiry of the validity of the certificate.
+
+9\. The manufacturer shall keep a copy of the EU-type examination certificate – production type, its annexes and additions together with the technical documentation at the disposal of the national authorities for 10 years after the pressure equipment has been placed on the market.
+
+10\. The manufacturer’s authorised representative may lodge the application referred to in point 3 and fulfil the obligations set out in points 7 and 9, provided that they are specified in the mandate.
+
+**3.2. EU-Type examination – design type**
+
+1\. EU-type examination – design type is the part of a conformity assessment procedure in which a notified body examines the technical design of the pressure equipment and verifies and attests that the technical design of the pressure equipment meets the requirements of this Directive.
+
+2\. The EU-type examination – design type shall consist of an assessment of the adequacy of the technical design of the pressure equipment through examination of the technical documentation and supporting evidence referred to in point 3, without examination of a specimen.
+
+The experimental design method provided for in point 2.2.4 of Annex I shall not be used in the context of this module.
+
+3\. The manufacturer shall lodge an application for EU-type examination — design type with a single notified body of his choice.
+
+The application shall include:
+
+— the name and address of the manufacturer and, if the application is lodged by the authorised representative, his name and address as well,
+
+— a written declaration that the same application has not been lodged with any other notified body,
+
+— the technical documentation. The technical documentation shall make it possible to assess the conformity of the pressure equipment with the applicable requirements of the Directive and shall include an adequate analysis and assessment of the risk(s). The technical documentation shall specify the applicable requirements and cover, as far as relevant for the assessment, the design, manufacture and operation of the pressure equipment. The technical documentation shall contain, wherever applicable, at least the following elements:
+
+— a general description of the pressure equipment,
+
+— conceptual design and manufacturing drawings and diagrams of components, sub-assemblies, circuits, etc.,
+
+— descriptions and explanations necessary for the understanding of those drawings and diagrams and the operation of the pressure equipment,
+
+— a list of the harmonised standards the references of which have been published in the Official Journal of the European Union, applied in full or in part, and descriptions of the solutions adopted to meet the essential safety requirements of this Directive where those harmonised standards have not been applied. In the event of partly applied harmonised standards, the technical documentation shall specify the parts which have been applied,
+
+— results of design calculations made, examinations carried out, etc.,
+
+— information regarding the qualifications or approvals required under points 3.1.2 and 3.1.3 of Annex I,
+
+— the supporting evidence for the adequacy of the technical design solution. This supporting evidence shall mention any documents that have been used, in particular where the relevant harmonised standards have not been applied in full. This supporting evidence shall include, where necessary, the results of tests carried out by the appropriate laboratory of the manufacturer or by another testing laboratory on his behalf and under his responsibility.
+
+The application may cover several versions of the pressure equipment provided that the differences between the versions do not affect the level of safety.
+
+4\. The notified body shall:
+
+4.1. examine the technical documentation and supporting evidence to assess the adequacy of the technical design of the product.
+
+In particular, the notified body shall:
+
+— assess the materials where these are not in conformity with the relevant harmonised standards or with a European approval for pressure equipment materials,
+
+— approve the procedures for the permanent joining of pressure equipment parts, or check that they have been previously approved in accordance with point 3.1.2 of Annex I.
+
+4.2. carry out appropriate examinations to check whether where the manufacturer has chosen to apply the solutions in the relevant harmonised standards these have been applied correctly.
+
+4.3. carry out appropriate examinations to check whether, where the solutions in the relevant harmonised standards have not been applied, the solutions adopted by the manufacturer meet the corresponding essential safety requirements of this Directive.
+
+5\. The notified body shall draw up an evaluation report that records the activities undertaken in accordance with point 4 and their outcomes. Without prejudice to its obligations vis-à-vis the notifying authorities, the notified body shall release the content of that report, in full or in part, only with the agreement of the manufacturer.
+
+6\. Where the design meets the requirements of this Directive, the notified body shall issue an EU-type examination certificate — design type to the manufacturer. Without prejudice to point 7, the certificate shall be valid for 10 years and be renewable and shall contain the name and address of the manufacturer, the conclusions of the examination, the conditions (if any) for its validity and the necessary data for identification of the approved design.
+
+A list of the relevant parts of the technical documentation shall be annexed to the certificate and a copy kept by the notified body.
+
+The certificate and its annexes shall contain all relevant information to allow the conformity of manufactured pressure equipment with the examined design to be evaluated and to allow for in-service control.
+
+Where the design does not satisfy the applicable requirements of this Directive, the notified body shall refuse to issue an EU-type examination certificate — design type and shall inform the applicant accordingly, giving detailed reasons for its refusal.
+
+7\. The notified body shall keep itself apprised of any changes in the generally acknowledged state of the art which indicate that the approved design may no longer comply with the applicable requirements of this Directive, and shall determine whether such changes require further investigation. If so, the notified body shall inform the manufacturer accordingly.
+
+The manufacturer shall inform the notified body that holds the technical documentation relating to the EU-type examination certificate — design type of all modifications to the approved design that may affect the conformity of the pressure equipment with the essential safety requirements of this Directive or the conditions for validity of the certificate. Such modifications shall require additional approval in the form of an addition to the original EU-type examination certificate — design type.
+
+8\. Each notified body shall inform its notifying authorities concerning the EU-type examination certificates — design type and/or any additions thereto which it has issued or withdrawn, and shall, periodically or upon request, make available to its notifying authorities the list of certificates and/or any additions thereto refused, suspended or otherwise restricted.
+
+Each notified body shall inform the other notified bodies concerning the EU-type examination certificates — design type and/or any additions thereto which it has refused, withdrawn, suspended or otherwise restricted, and, upon request, concerning the certificates and/or additions thereto which it has issued.
+
+The Commission, the Member States and the other notified bodies may, on request, obtain a copy of the EU-type examination certificates — design type and/or additions thereto. On request, the Commission and the Member States may obtain a copy of the technical documentation and the results of the examinations carried out by the notified body. The notified body shall keep a copy of the EU-type examination certificate — design type, its annexes and additions, as well as the technical file including the documentation submitted by the manufacturer, until the expiry of the validity of the certificate.
+
+9\. The manufacturer shall keep a copy of the EU-type examination certificate — design type, its annexes and additions together with the technical documentation at the disposal of the national authorities for 10 years after the pressure equipment has been placed on the market.
+
+10\. The manufacturer’s authorised representative may lodge the application referred to in point 3 and fulfil the obligations set out in points 7 and 9, provided that they are specified in the mandate.
+
+**4\. MODULE C2: CONFORMITY TO TYPE BASED ON INTERNAL PRODUCTION CONTROL PLUS SUPERVISED PRESSURE EQUIPMENT CHECKS AT RANDOM INTERVALS**
+
+1\. Conformity to type based on internal production control plus supervised pressure equipment checks at random intervals is the part of a conformity assessment procedure whereby the manufacturer fulfils the obligations laid down in points 2, 3 and 4, and ensures and declares on his sole responsibility that the pressure equipment concerned is in conformity with the type described in the EU-type examination certificate and satisfy the requirements of this Directive that apply to it.
+
+2\. Manufacturing
+
+The manufacturer shall take all measures necessary so that the manufacturing process and its monitoring ensure conformity of the manufactured pressure equipment with the type described in the EU-type examination certificate and with the requirements of this Directive that apply to them.
+
+3\. Final assessment and pressure equipment checks
+
+A notified body, chosen by the manufacturer, shall carry out checks or have them carried out at random intervals determined by the body, in order to verify the quality of the final assessment and of the internal checks on the pressure equipment, taking into account, inter alia, the technological complexity of the pressure equipment and the quantity of production.
+
+The notified body shall establish that the manufacturer actually performs final assessment in accordance with point 3.2 of Annex I.
+
+An adequate sample of the final pressure equipment, taken on site by the notified body before the placing on the market, shall be examined and appropriate tests as identified by the relevant parts of the harmonised standards, and/or equivalent tests applying other technical specifications, shall be carried out to check the conformity of the pressure equipment with the relevant requirements of this Directive.
+
+The notified body shall assess the number of items of equipment to sample and whether it is necessary to perform, or have performed, all or part of final assessment on the pressure equipment samples.
+
+Where a sample does not conform to the acceptable quality level, the body shall take appropriate measures.
+
+The acceptance sampling procedure to be applied is intended to determine whether the manufacturing process of the pressure equipment performs within acceptable limits, with a view to ensuring conformity of the pressure equipment.
+
+Where the tests are carried out by a notified body, the manufacturer shall, under the responsibility of the notified body, affix the notified body’s identification number during the manufacturing process.
+
+4\. CE marking and EU declaration of conformity
+
+4.1. The manufacturer shall affix the CE marking to each individual pressure equipment or assembly that is in conformity with the type described in the EU-type examination certificate and satisfies the applicable requirements of this Directive.
+
+4.2. The manufacturer shall draw up a written EU declaration of conformity for a pressure equipment model and keep it at the disposal of the national authorities for 10 years after the pressure equipment has been placed on the market. The EU declaration of conformity shall identify the pressure equipment model for which it has been drawn up.
+
+A copy of the EU declaration of conformity shall be made available to the relevant authorities upon request.
+
+5\. Authorised representative
+
+The manufacturer’s obligations set out in point 4 may be fulfilled by his authorised representative, on his behalf and under his responsibility, provided that they are specified in the mandate.
+
+**5\. MODULE D: CONFORMITY TO TYPE BASED ON QUALITY ASSURANCE OF THE PRODUCTION PROCESS**
+
+1\. Conformity to type based on quality assurance of the production process is that part of a conformity assessment procedure whereby the manufacturer fulfils the obligations laid down in points 2 and 5, and ensures and declares on his sole responsibility that the pressure equipment or assembly concerned is in conformity with the type described in the EU-type examination certificate and satisfies the requirements of this Directive that apply to it.
+
+2\. Manufacturing
+
+The manufacturer shall operate an approved quality system for production, final product inspection and testing of the pressure equipment concerned as specified in point 3 and shall be subject to surveillance as specified in point 4.
+
+3\. Quality system
+
+3.1. The manufacturer shall lodge an application for assessment of his quality system with the notified body of his choice for the pressure equipment concerned.
+
+The application shall include:
+
+— the name and address of the manufacturer and, if the application is lodged by the authorised representative, his name and address as well,
+
+— a written declaration that the same application has not been lodged with any other notified body,
+
+— all relevant information on the pressure equipment type envisaged,
+
+— the documentation concerning the quality system,
+
+— the technical documentation of the approved type and a copy of the EU-type examination certificate.
+
+3.2. The quality system shall ensure that the pressure equipment is in conformity with the type described in the EU-type examination certificate and comply with the requirements of this Directive that apply to it.
+
+All the elements, requirements and provisions adopted by the manufacturer shall be documented in a systematic and orderly manner in the form of written policies, procedures and instructions. This quality system documentation shall permit a consistent interpretation of the quality programmes, plans, manuals and records.
+
+It shall, in particular, contain an adequate description of:
+
+— the quality objectives and the organisational structure, responsibilities and powers of the management with regard to the quality of the pressure equipment,
+
+— the corresponding manufacturing, quality control and quality assurance techniques, processes and systematic actions that will be used, particularly the procedures used for the permanent joining of parts as approved in accordance with point 3.1.2 of Annex I,
+
+— the examinations and tests that will be carried out before, during and after manufacture, and the frequency with which they will be carried out,
+
+— the quality records, such as inspection reports and test data, calibration data, reports concerning the qualifications or approvals of the personnel concerned, particularly those of the personnel undertaking the permanent joining of parts and the non-destructive tests in accordance with points 3.1.2 and 3.1.3 of Annex I, etc., and
+
+— the means of monitoring the achievement of the required quality and the effective operation of the quality system.
+
+3.3. The notified body shall assess the quality system to determine whether it satisfies the requirements referred to in point 3.2.
+
+It shall presume conformity with those requirements in respect of the elements of the quality system that comply with the corresponding specifications of the relevant harmonised standard.
+
+In addition to experience in quality management systems, the auditing team shall have at least one member with experience of evaluation in the relevant pressure equipment field and pressure equipment technology concerned, and knowledge of the applicable requirements of this Directive. The audit shall include an inspection visit to the manufacturer’s premises.
+
+The auditing team shall review the technical documentation referred to in point 3.1, fifth indent, to verify the manufacturer’s ability to identify the relevant requirements of this Directive and to carry out the necessary examinations with a view to ensuring compliance of the product with those requirements.
+
+The decision shall be notified to the manufacturer. The notification shall contain the conclusions of the audit and the reasoned assessment decision.
+
+3.4. The manufacturer shall undertake to fulfil the obligations arising out of the quality system as approved and to maintain it so that it remains adequate and efficient.
+
+3.5. The manufacturer shall keep the notified body that has approved the quality system informed of any intended change to the quality system.
+
+The notified body shall evaluate the proposed changes and decide whether the modified quality system will continue to satisfy the requirements referred to in point 3.2 or whether a reassessment is necessary.
+
+It shall notify the manufacturer of its decision. The notification shall contain the conclusions of the examination and the reasoned assessment decision.
+
+4\. Surveillance under the responsibility of the notified body
+
+4.1. The purpose of surveillance is to make sure that the manufacturer duly fulfils the obligations arising out of the approved quality system.
+
+4.2. The manufacturer shall, for assessment purposes, allow the notified body access to the manufacture, inspection, testing and storage sites and shall provide it with all necessary information, in particular:
+
+— the quality system documentation,
+
+— the quality records, such as inspection reports and test data, calibration data, qualification reports of the personnel concerned, etc.
+
+4.3. The notified body shall carry out periodic audits to make sure that the manufacturer maintains and applies the quality system and provide the manufacturer with an audit report. The frequency of periodic audits shall be such that a full reassessment is carried out every three years.
+
+4.4. In addition the notified body may pay unexpected visits to the manufacturer. The need for such additional visits, and the frequency thereof, will be determined on the basis of a visit control system operated by the notified body. In particular, the following factors shall be considered in the visit control system:
+
+— the category of the pressure equipment,
+
+— the results of previous surveillance visits,
+
+— the need to follow up corrective actions,
+
+— special conditions linked to the approval of the system, where applicable,
+
+— significant changes in manufacturing organisation, policy or techniques.
+
+During such visits the notified body may, if necessary, carry out product tests or have them carried out in order to verify that the quality system is functioning correctly. The notified body shall provide the manufacturer with a visit report and, if tests have been carried out, with a test report.
+
+5\. CE marking and EU declaration of conformity
+
+5.1. The manufacturer shall affix the CE marking and, under the responsibility of the notified body referred to in point 3.1, the latter’s identification number to each individual pressure equipment that is in conformity with the type described in the EU-type examination certificate and satisfies the applicable requirements of this Directive.
+
+5.2. The manufacturer shall draw up a written EU declaration of conformity for each pressure equipment model and keep it at the disposal of the national authorities for 10 years after the pressure equipment has been placed on the market. The EU declaration of conformity shall identify the pressure equipment model for which it has been drawn up.
+
+A copy of the EU declaration of conformity shall be made available to the relevant authorities upon request.
+
+6\. The manufacturer shall, for a period ending 10 years after the pressure equipment has been placed on the market, keep at the disposal of the national authorities:
+
+— the documentation referred to point 3.1,
+
+— the change referred to in point 3.5, as approved,
+
+— the decisions and reports of the notified body referred to in points 3.3, 3.5, 4.3 and 4.4.
+
+7\. Each notified body shall inform its notifying authorities of the quality system approvals issued or withdrawn, and shall, periodically or upon request, make available to its notifying authorities the list of quality system approvals refused, suspended or otherwise restricted.
+
+Each notified body shall inform the other notified bodies of the quality system approvals which it has refused, suspended, withdrawn or otherwise restricted, and, upon request, of quality system approvals which it has issued.
+
+8\. Authorised representative
+
+The manufacturer’s obligations set out in points 3.1, 3.5, 5 and 6 may be fulfilled by his authorised representative, on his behalf and under his responsibility, provided that they are specified in the mandate.
+
+**6\. MODULE D1: QUALITY ASSURANCE OF THE PRODUCTION PROCESS**
+
+1\. Quality assurance of the production process is the conformity assessment procedure whereby the manufacturer fulfils the obligations laid down in points 2, 4 and 7, and ensures and declares on his sole responsibility that the pressure equipment concerned satisfy the requirements of this Directive that apply to it.
+
+2\. Technical documentation
+
+The manufacturer shall establish the technical documentation. The documentation shall make it possible to assess the conformity of the pressure equipment with the relevant requirements and shall include an adequate analysis and assessment of the risk(s). The technical documentation shall specify the applicable requirements and cover, as far as relevant for the assessment, the design, manufacture and operation of the product. The technical documentation shall, wherever applicable, contain at least the following elements:
+
+— a general description of the pressure equipment,
+
+— conceptual design and manufacturing drawings and diagrams of components, sub-assemblies, circuits, etc.,
+
+— descriptions and explanations necessary for an understanding of those drawings and diagrams and the operation of the pressure equipment,
+
+— a list of the harmonised standards the references of which have been published in the Official Journal of the European Union, applied in full or in part, and descriptions of the solutions adopted to meet the essential safety requirements of this Directive where those harmonised standards have not been applied. In the event of partly applied harmonised standards, the technical documentation shall specify the parts which have been applied,
+
+— results of design calculations made, examinations carried out, etc., and
+
+— test reports.
+
+3\. The manufacturer shall keep the technical documentation at the disposal of the relevant national authorities for 10 years after the pressure equipment has been placed on the market.
+
+4\. Manufacturing
+
+The manufacturer shall operate an approved quality system for production, final product inspection and testing of the pressure equipment concerned as specified in point 5, and shall be subject to surveillance as specified in point 6.
+
+5\. Quality system
+
+5.1. The manufacturer shall lodge an application for assessment of his quality system with the notified body of his choice for the pressure equipment concerned.
+
+The application shall include:
+
+— the name and address of the manufacturer and, if the application is lodged by the authorised representative, his name and address as well,
+
+— a written declaration that the same application has not been lodged with any other notified body,
+
+— all relevant information on the pressure equipment type envisaged,
+
+— the documentation concerning the quality system,
+
+— the technical documentation referred to in point 2.
+
+5.2. The quality system shall ensure compliance of the pressure equipment with the requirements of this Directive that apply to it.
+
+All the elements, requirements and provisions adopted by the manufacturer shall be documented in a systematic and orderly manner in the form of written policies, procedures and instructions. This quality system documentation shall permit a consistent interpretation of the quality programmes, plans, manuals and records.
+
+It shall, in particular, contain an adequate description of:
+
+— the quality objectives and the organisational structure, responsibilities and powers of the management with regard to the quality of the pressure equipment,
+
+— the corresponding manufacturing, quality control and quality assurance techniques, processes and systematic measures that will be used, particularly the procedures used for the permanent joining of parts as approved in accordance with point 3.1.2 of Annex I,
+
+— the examinations and tests that will be carried out before, during and after manufacture, and the frequency with which they will be carried out,
+
+— the quality records, such as inspection reports and test data, calibration data, reports concerning the qualifications or approvals of the personnel concerned, particularly those of the personnel undertaking the permanent joining of parts in accordance with point 3.1.2 of Annex I, etc.,
+
+— the means of monitoring the achievement of the required product quality and the effective operation of the quality system.
+
+5.3. The notified body shall assess the quality system to determine whether it satisfies the requirements referred to in point 5.2. The elements of the quality system which conform to the relevant harmonised standard are presumed to comply with the corresponding requirements referred to in point 5.2.
+
+In addition to experience in quality management systems, the auditing team shall have at least one member with experience of evaluation in the pressure equipment technology concerned, and the knowledge of the applicable requirements of this Directive. The audit shall include an assessment visit to the manufacturer’s premises.
+
+The auditing team shall review the technical documentation referred to in point 2 in order to verify the manufacturer’s ability to identify the relevant requirements of this Directive and to carry out the necessary examinations with a view to ensuring compliance of the pressure equipment with those requirements.
+
+The decision shall be notified to the manufacturer. The notification shall contain the conclusions of the audit and the reasoned assessment decision.
+
+5.4. The manufacturer shall undertake to fulfil the obligations arising out of the quality system as approved and to maintain it so that it remains adequate and efficient.
+
+5.5. The manufacturer shall keep the notified body that has approved the quality system informed of any intended change to the quality system.
+
+The notified body shall evaluate any proposed changes and decide whether the modified quality system will continue to satisfy the requirements referred to in point 5.2 or whether a reassessment is necessary.
+
+It shall notify the manufacturer of its decision. The notification shall contain the conclusions of the examination and the reasoned assessment decision.
+
+6\. Surveillance under the responsibility of the notified body
+
+6.1. The purpose of surveillance is to make sure that the manufacturer duly fulfils the obligations arising out of the approved quality system.
+
+6.2. The manufacturer shall, for assessment purposes, allow the notified body access to the manufacture, inspection, testing and storage sites and shall provide it with all necessary information, in particular:
+
+— the quality system documentation,
+
+— the technical documentation referred to in point 2,
+
+— the quality records, such as inspection reports and test data, calibration data, qualification reports of the personnel concerned, etc.
+
+6.3. The notified body shall carry out periodic audits to make sure that the manufacturer maintains and applies the quality system and provide the manufacturer with an audit report. The frequency of periodic audits shall be such that a full reassessment is carried out every three years.
+
+6.4. In addition the notified body may pay unexpected visits to the manufacturer. The need for such additional visits, and the frequency thereof, will be determined on the basis of a visit control system operated by the notified body. In particular, the following factors shall be considered in the visit control system:
+
+— the category of the pressure equipment,
+
+— the results of previous surveillance visits,
+
+— the need to follow up corrective action(s),
+
+— special conditions linked to the approval of the system, where applicable,
+
+— significant changes in manufacturing organisation, policy or techniques.
+
+During such visits the notified body may, if necessary, carry out product tests, or have them carried out, in order to verify that the quality system is functioning correctly. The notified body shall provide the manufacturer with a visit report and, if tests have been carried out, with a test report.
+
+7\. CE marking and EU declaration of conformity
+
+7.1. The manufacturer shall affix the CE marking and, under the responsibility of the notified body referred to in point 5.1, the latter’s identification number to each individual pressure equipment that satisfies the applicable requirements of this Directive.
+
+7.2. The manufacturer shall draw up a written EU declaration of conformity for each pressure equipment model and keep it at the disposal of the national authorities for 10 years after the pressure equipment has been placed on the market. The EU declaration of conformity shall identify the product model for which it has been drawn up.
+
+A copy of the EU declaration of conformity shall be made available to the relevant authorities upon request.
+
+8\. The manufacturer shall, for a period ending 10 years after the pressure equipment has been placed on the market, keep at the disposal of the national authorities:
+
+— the documentation referred to in point 5.1,
+
+— the change referred to in point 5.5,
+
+— the decisions and reports of the notified body referred to in points 5.5, 6.3 and 6.4.
+
+9\. Each notified body shall inform its notifying authorities of the quality system approvals issued or withdrawn, and shall periodically, or upon request, make available to its notifying authorities the list of quality system approvals refused, suspended or otherwise restricted.
+
+Each notified body shall inform the other notified bodies of quality system approvals which it has refused, suspended, or withdrawn, and upon request, of quality system approvals which it has issued.
+
+10\. Authorised representative
+
+The manufacturer’s obligations set out in points 3, 5.1, 5.5, 7 and 8 may be fulfilled by his authorised representative, on his behalf and under his responsibility, provided that they are specified in the mandate.
+
+**7\. MODULE E: CONFORMITY TO TYPE BASED ON PRESSURE EQUIPMENT QUALITY ASSURANCE**
+
+1\. Conformity to type based on pressure equipment quality assurance is that part of a conformity assessment procedure whereby the manufacturer fulfils the obligations laid down in points 2 and 5, and ensures and declares on his sole responsibility that the pressure equipment concerned is in conformity with the type described in the EU-type examination certificate and satisfies the requirements of this Directive that apply to it.
+
+2\. Manufacturing
+
+The manufacturer shall operate an approved quality system for the final product inspection and testing of the pressure equipment concerned as specified in point 3 and shall be subject to surveillance as specified in point 4.
+
+3\. Quality system
+
+3.1. The manufacturer shall lodge an application for assessment of his quality system with the notified body of his choice, for the pressure equipment concerned.
+
+The application shall include:
+
+— the name and address of the manufacturer and, if the application is lodged by the authorised representative, his name and address as well,
+
+— a written declaration that the same application has not been lodged with any other notified body,
+
+— all relevant information on the pressure equipment type envisaged,
+
+— the documentation concerning the quality system,
+
+— the technical documentation of the approved type and a copy of the EU-type examination certificate.
+
+3.2. The quality system shall ensure compliance of the products with the type described in the EU-type examination certificate and with the applicable requirements of this Directive.
+
+All the elements, requirements and provisions adopted by the manufacturer shall be documented in a systematic and orderly manner in the form of written policies, procedures and instructions. This quality system documentation shall permit a consistent interpretation of the quality programmes, plans, manuals and records.
+
+It shall, in particular, contain an adequate description of:
+
+— the quality objectives and the organisational structure, responsibilities and powers of the management with regard to product quality,
+
+— the examinations and tests that will be carried out after manufacture,
+
+— the quality records, such as inspection reports and test data, calibration data, reports concerning the qualifications or approvals of the personnel concerned, particularly those of the personnel undertaking the permanent joining of parts and the non-destructive tests in accordance with points 3.1.2 and 3.1.3 of Annex I,
+
+— the means of monitoring the effective operation of the quality system.
+
+3.3. The notified body shall assess the quality system to determine whether it satisfies the requirements referred to in point 3.2. It shall presume conformity with those requirements in respect of the elements of the quality system that comply with the corresponding specifications of the relevant harmonised standard.
+
+In addition to experience in quality management systems, the auditing team shall have at least one member with experience of evaluation in the relevant pressure equipment field and pressure equipment technology concerned and knowledge of the applicable requirements of this Directive. The audit shall include an assessment visit to the manufacturer’s premises.
+
+The auditing team shall review the technical documentation referred to in point 3.1, fifth indent, in order to verify the manufacturer’s ability to identify the relevant requirements of this Directive and to carry out the necessary examinations with a view to ensuring compliance of the pressure equipment with those requirements.
+
+The decision shall be notified to the manufacturer. The notification shall contain the conclusions of the audit and the reasoned assessment decision.
+
+3.4. The manufacturer shall undertake to fulfil the obligations arising out of the quality system as approved and to maintain it so that it remains adequate and efficient.
+
+3.5. The manufacturer shall keep the notified body that has approved the quality system informed of any intended change to the quality system.
+
+The notified body shall evaluate any proposed changes and decide whether the modified quality system will continue to satisfy the requirements referred to in point 3.2 or whether a reassessment is necessary.
+
+It shall notify the manufacturer of its decision. The notification shall contain the conclusions of the examination and the reasoned assessment decision.
+
+4\. Surveillance under the responsibility of the notified body
+
+4.1. The purpose of surveillance is to make sure that the manufacturer duly fulfils the obligations arising out of the approved quality system.
+
+4.2. The manufacturer shall, for assessment purposes, allow the notified body access to the manufacture, inspection, testing and storage sites and shall provide it with all necessary information, in particular:
+
+— the quality system documentation,
+
+— the technical documentation,
+
+— the quality records, such as inspection reports and test data, calibration data, reports concerning the qualifications of the personnel concerned, etc.
+
+4.3. The notified body shall carry out periodic audits to make sure that the manufacturer maintains and applies the quality system and provide the manufacturer with an audit report. The frequency of periodic audits must be such that a full reassessment is carried out every three years.
+
+4.4. In addition the notified body may pay unexpected visits to the manufacturer.
+
+The need for such additional visits, and the frequency thereof, will be determined on the basis of a visit control system operated by the notified body. In particular, the following factors shall be considered in the visit control system:
+
+— the category of the pressure equipment,
+
+— the results of previous surveillance visits,
+
+— the need to follow up corrective actions,
+
+— special conditions linked to the approval of the system, where applicable,
+
+— significant changes in manufacturing organisation, policy or techniques.
+
+During such visits, the notified body may, if necessary, carry out product tests, or have them carried out, in order to verify that the quality system is functioning correctly. The notified body shall provide the manufacturer with a visit report and, if tests have been carried out, with a test report.
+
+5\. CE marking and EU declaration of conformity
+
+5.1. The manufacturer shall affix the CE marking and, under the responsibility of the notified body referred to in point 3.1, the latter’s identification number to each individual pressure equipment that is in conformity with the type described in the EU-type examination certificate and satisfies the applicable requirements of this Directive.
+
+5.2. The manufacturer shall draw up a written EU declaration of conformity for each pressure equipment model and keep it at the disposal of the national authorities for 10 years after the pressure equipment has been placed on the market. The EU declaration of conformity shall identify the product model for which it has been drawn up.
+
+A copy of the EU declaration of conformity shall be made available to the relevant authorities upon request.
+
+6\. The manufacturer shall, for a period ending 10 years after the pressure equipment has been placed on the market, keep at the disposal of the national authorities:
+
+— the documentation referred to in point 3.1,
+
+— the change referred to in point 3.5, as approved,
+
+— the decisions and reports from the notified body which are referred to in points 3.3, 3.5, 4.3 and 4.4.
+
+7\. Each notified body shall inform its notifying authorities of quality system approvals issued or withdrawn and shall, periodically or upon request, make available to its notifying authorities the list of quality system approvals refused, suspended or otherwise restricted.
+
+Each notified body shall inform the other notified bodies of quality system approvals which it has refused, suspended or withdrawn, and, upon request, of quality system approvals which it has issued.
+
+8\. Authorised representative
+
+The manufacturer’s obligations set out in points 3.1, 3.5, 5 and 6 may be fulfilled by his authorised representative, on his behalf and under his responsibility, provided that they are specified in the mandate.
+
+**8\. MODULE E1: QUALITY ASSURANCE OF FINAL PRESSURE EQUIPMENT INSPECTION AND TESTING**
+
+1\. Quality assurance of final pressure equipment inspection and testing is the conformity assessment procedure whereby the manufacturer fulfils the obligations laid down in points 2, 4 and 7, and ensures and declares on his sole responsibility that the pressure equipment concerned satisfy the requirements of this Directive that apply to it.
+
+2\. Technical documentation
+
+The manufacturer shall establish the technical documentation. The technical documentation shall make it possible to assess the conformity of the pressure equipment with the relevant requirements, and shall include an adequate analysis and assessment of the risk(s) The technical documentation shall specify the applicable requirements and cover, as far as relevant for the assessment, the design, manufacture and operation of the pressure equipment. The technical documentation shall, wherever applicable, contain at least the following elements:
+
+— a general description of the pressure equipment,
+
+— conceptual design and manufacturing drawings and diagrams of components, sub-assemblies, circuits, etc.,
+
+— descriptions and explanations necessary for the understanding of those drawings and diagrams and the operation of the pressure equipment,
+
+— a list of the harmonised standards, the references of which have been published in the Official Journal of the European Union, applied in full or in part, and descriptions of the solutions adopted to meet the essential safety requirements of this Directive where those harmonised standards have not been applied. In the event of partly applied harmonised standards, the technical documentation shall specify the parts which have been applied,
+
+— results of design calculations made, examinations carried out, etc., and
+
+— test reports.
+
+3\. The manufacturer shall keep the technical documentation at the disposal of the relevant national authorities for 10 years after the pressure equipment has been placed on the market.
+
+4\. Manufacturing
+
+The manufacturer shall operate an approved quality system for the final product inspection and testing of the pressure equipment as specified in point 5 and shall be subject to surveillance as specified in point 6.
+
+5\. Quality system
+
+5.1. The manufacturer shall lodge an application for assessment of his quality system with the notified body of his choice, for the pressure equipment concerned.
+
+The application shall include:
+
+— the name and address of the manufacturer and, if the application is lodged by the authorised representative, his name and address as well,
+
+— a written declaration that the same application has not been lodged with any other notified body,
+
+— all relevant information on the pressure equipment type envisaged,
+
+— the documentation concerning the quality system, and
+
+— the technical documentation referred to in point 2.
+
+5.2. The quality system shall ensure compliance of the pressure equipment with the requirements of this Directive that apply to it.
+
+Under the quality system, each item of pressure equipment shall be examined and appropriate tests as set out in the relevant standard(s) referred to in Article 12, or equivalent tests, and particularly final assessment as referred to in point 3.2 of Annex I, shall be carried out in order to ensure its conformity with the requirements of this Directive which apply to it.
+
+All the elements, requirements and provisions adopted by the manufacturer shall be documented in a systematic and orderly manner in the form of written policies, procedures and instructions. This quality system documentation shall permit a consistent interpretation of the quality programmes, plans, manuals and records.
+
+It shall, in particular, contain an adequate description of:
+
+— the quality objectives and the organisational structure, responsibilities and powers of the management with regard to the quality of the pressure equipment,
+
+— the procedures used for the permanent joining of parts as approved in accordance with point 3.1.2 of Annex I,
+
+— the examinations and tests that will be carried out after manufacture,
+
+— the quality records, such as inspection reports and test data, calibration data, reports concerning the qualifications or approvals of the personnel concerned, particularly those of the personnel undertaking the permanent joining of parts in accordance with point 3.1.2 of Annex I,
+
+— the means of monitoring the effective operation of the quality system.
+
+5.3. The notified body shall assess the quality system to determine whether it satisfies the requirements referred to in point 5.2.
+
+It shall presume conformity with those requirements in respect of the elements of the quality system that comply with the corresponding specifications of the relevant harmonised standard.
+
+In addition to experience in quality management systems, the auditing team shall have at least one member with experience of evaluation in the relevant pressure equipment field and pressure equipment technology concerned, and knowledge of the applicable requirements of this Directive. The audit shall include an assessment visit to the manufacturer’s premises.
+
+The auditing team shall review the technical documentation referred to in point 2 in order to verify the manufacturer’s ability to identify the relevant requirements of this Directive and to carry out the necessary examinations with a view to ensuring compliance of the pressure equipment with those requirements.
+
+The decision shall be notified to the manufacturer. The notification shall contain the conclusions of the audit and the reasoned assessment decision.
+
+5.4. The manufacturer shall undertake to fulfil the obligations arising out of the quality system as approved and to maintain it so that it remains adequate and efficient.
+
+5.5. The manufacturer shall keep the notified body that has approved the quality system informed of any intended change to the quality system.
+
+The notified body shall evaluate any proposed changes and decide whether the modified quality system will continue to satisfy the requirements referred to in point 5.2 or whether a reassessment is required.
+
+It shall notify the manufacturer of its decision. The notification shall contain the conclusions of the examination and the reasoned assessment decision.
+
+6\. Surveillance under the responsibility of the notified body
+
+6.1. The purpose of surveillance is to make sure that the manufacturer duly fulfils the obligations arising out of the approved quality system.
+
+6.2. The manufacturer shall, for assessment purposes, allow the notified body access to the manufacture, inspection, testing and storage sites and shall provide it with all necessary information, in particular:
+
+— the quality system documentation,
+
+— the technical documentation referred to in point 2,
+
+— the quality records, such as inspection reports and test data, calibration data, qualification reports on the personnel concerned, etc.
+
+6.3. The notified body shall carry out periodic audits to make sure that the manufacturer maintains and applies the quality system and provide the manufacturer with an audit report. The frequency of periodic audits shall be such that a full reassessment is carried out every three years.
+
+6.4. In addition the notified body may pay unexpected visits to the manufacturer. The need for such additional visits, and the frequency thereof, will be determined on the basis of a visit control system operated by the notified body. In particular, the following factors shall be considered in the visit control system:
+
+— the category of the equipment,
+
+— the results of previous surveillance visits,
+
+— the need to follow up corrective action(s),
+
+— special conditions linked to the approval of the system, where applicable,
+
+— significant changes in manufacturing organisation, policy or techniques.
+
+During such visits the notified body may, if necessary, carry out product tests, or have them carried out, in order to verify that the quality system is functioning correctly. The notified body shall provide the manufacturer with a visit report and, if tests have been carried out, with a test report.
+
+7\. CE marking and EU declaration of conformity
+
+7.1. The manufacturer shall affix the CE marking and, under the responsibility of the notified body referred to in point 5.1, the latter’s identification number to each individual item of pressure equipment that satisfies the applicable requirements of this Directive.
+
+7.2. The manufacturer shall draw up a written EU declaration of conformity for each pressure equipment model and keep it at the disposal of the national authorities for 10 years after the pressure equipment has been placed on the market. The EU declaration of conformity shall identify the pressure equipment model for which it has been drawn up.
+
+A copy of the EU declaration of conformity shall be made available to the relevant authorities upon request.
+
+8\. The manufacturer shall, for a period ending 10 years after the pressure equipment has been placed on the market, keep at the disposal of the national authorities:
+
+— the documentation referred to in point 5.1,
+
+— the change referred to in point 5.5, as approved,
+
+— the decisions and reports of the notified body referred to in points 5.3, 5.5, 6.3 and 6.4.
+
+9\. Each notified body shall inform its notifying authorities of quality system approvals issued or withdrawn and shall periodically or upon request, make available to its notifying authorities the list of quality system approvals refused, suspended or otherwise restricted.
+
+Each notified body shall inform the other notified bodies of quality system approvals which it has refused, suspended or withdrawn, and, upon request, of quality system approvals which it has issued.
+
+10\. Authorised representative
+
+The manufacturer’s obligations set out in points 3, 5.1, 5.5, 7 and 8 may be fulfilled by his authorised representative, on his behalf and under his responsibility, provided that they are specified in the mandate.
+
+**9\. MODULE F: CONFORMITY TO TYPE BASED ON PRESSURE EQUIPMENT VERIFICATION**
+
+1\. Conformity to type based on pressure equipment verification is the part of a conformity assessment procedure whereby the manufacturer fulfils the obligations laid down in points 2 and 5, and ensures and declares on his sole responsibility that the pressure equipment concerned, which has been subject to the provisions of point 3, is in conformity with the type described in the EU-type examination certificate and satisfies the requirements of this Directive which apply to it.
+
+2\. Manufacturing
+
+The manufacturer shall take all measures necessary so that the manufacturing process and its monitoring ensure conformity of the manufactured products with the approved type described in the EU-type examination certificate and with the requirements of this Directive which apply to them.
+
+3\. Verification
+
+A notified body chosen by the manufacturer shall carry out the appropriate examinations and tests in order to check the conformity of the pressure equipment with the approved type described in the EU-type examination certificate and with the appropriate requirements of this Directive.
+
+The examinations and tests to check the conformity of the pressure equipment with the appropriate requirements shall be carried out by examination and testing of every product as specified in point 4.
+
+4\. Verification of conformity by examination and testing of every item of pressure equipment
+
+4.1. All pressure equipment shall be individually examined and appropriate tests set out in the relevant harmonised standard(s) or equivalent tests shall be carried out in order to verify conformity with the approved type and described in the EU-type examination certificate and with the appropriate requirements of this Directive. In the absence of such a harmonised standard, the notified body concerned shall decide on the appropriate tests to be carried out.
+
+In particular, the notified body shall:
+
+— verify that the personnel undertaking the permanent joining of parts and the non-destructive tests are qualified or approved in accordance with points 3.1.2 and 3.1.3 of Annex I,
+
+— verify the certificate issued by the materials manufacturer in accordance with point 4.3 of Annex I,
+
+— carry out or have carried out the final inspection and proof test referred to in point 3.2 of Annex I and examine the safety devices, if applicable.
+
+4.2. The notified body shall issue a certificate of conformity in respect of the examinations and tests carried out, and shall affix its identification number or have it affixed under its responsibility to each approved item of pressure equipment.
+
+The manufacturer shall keep the certificates of conformity available for inspection by the national authorities for 10 years after the pressure equipment has been placed on the market.
+
+5\. CE marking and EU declaration of conformity
+
+5.1. The manufacturer shall affix the CE marking and, under the responsibility of the notified body referred to in point 3, the latter’s identification number to each individual item of pressure equipment that is in conformity with the approved type described in the EU-type examination certificate and satisfies the applicable requirements of this Directive.
+
+5.2. The manufacturer shall draw up a written EU declaration of conformity for each pressure equipment model and keep it at the disposal of the national authorities, for 10 years after the pressure equipment has been placed on the market. The EU declaration of conformity shall identify the pressure equipment model for which it has been drawn up.
+
+A copy of the EU declaration of conformity shall be made available to the relevant authorities upon request.
+
+If the notified body referred to in point 3 agrees and under its responsibility, the manufacturer may also affix the notified body’s identification number to the pressure equipment.
+
+6\. If the notified body agrees and under its responsibility, the manufacturer may affix the notified body’s identification number to the pressure equipment during the manufacturing process.
+
+7\. Authorised representative
+
+The manufacturer’s obligations may be fulfilled by his authorised representative, on his behalf and under his responsibility, provided that they are specified in the mandate. An authorised representative may not fulfil the manufacturer’s obligations set out in point 2.
+
+**10\. MODULE G: CONFORMITY BASED ON UNIT VERIFICATION**
+
+1\. Conformity based on unit verification is the conformity assessment procedure whereby the manufacturer fulfils the obligations laid down in points 2, 3 and 5, and ensures and declares on his sole responsibility that the pressure equipment concerned, which has been subject to the provisions of point 4, is in conformity with the requirements of this Directive that apply to it.
+
+2\. Technical documentation
+
+The manufacturer shall establish the technical documentation and make it available to the notified body referred to in point 4.
+
+The documentation shall make it possible to assess the conformity of the pressure equipment with the relevant requirements and shall include an adequate analysis and assessment of the risk(s). The technical documentation shall specify the applicable requirements and cover, as far as relevant for the assessment, the design, manufacture and operation of the pressure equipment.
+
+The technical documentation shall, wherever applicable, contain at least the following elements:
+
+— a general description of the pressure equipment,
+
+— conceptual design and manufacturing drawings and diagrams of components, sub-assemblies, circuits, etc.,
+
+— descriptions and explanations necessary for an understanding of those drawings and diagrams and the operation of the pressure equipment,
+
+— a list of the harmonised standards the references of which have been published in the Official Journal of the European Union, applied in full or in part, and descriptions of the solutions adopted to meet the essential safety requirements of this Directive where those harmonised standards, have not been applied. In the event of partly applied harmonised standards, the technical documentation shall specify the parts which have been applied,
+
+— results of design calculations made, examinations carried out, etc.,
+
+— test reports,
+
+— appropriate details relating to the approval of the manufacturing and test procedures and of the qualifications or approvals of the personnel concerned in accordance with points 3.1.2 and 3.1.3 of Annex I.
+
+The manufacturer shall keep the technical documentation at the disposal of the relevant national authorities for 10 years after the pressure equipment has been placed on the market.
+
+3\. Manufacturing
+
+The manufacturer shall take all measures necessary so that the manufacturing process and its monitoring ensure conformity of the manufactured pressure equipment with the applicable requirements of this Directive.
+
+4\. Verification
+
+A notified body chosen by the manufacturer shall carry out appropriate examinations and tests, set out in the relevant harmonised standard(s) and/or equivalent tests, to check the conformity of the pressure equipment with the applicable requirements of this Directive, or have them carried out. In the absence of such a harmonised standard the notified body concerned shall decide on the appropriate tests to be carried out applying other technical specifications.
+
+In particular the notified body shall:
+
+— examine the technical documentation with respect to the design and the manufacturing procedures,
+
+— assess the materials used where these are not in conformity with the relevant harmonised standards or with a European approval for pressure equipment materials, and check the certificate issued by the material manufacturer in accordance with point 4.3 of Annex I,
+
+— approve the procedures for the permanent joining of parts or check that they have been previously approved in accordance with point 3.1.2 of Annex I,
+
+— verify the qualifications or approvals required under points 3.1.2 and 3.1.3 of Annex I,
+
+— carry out the final inspection referred to in point 3.2.1 of Annex I, perform or have performed the proof test referred to in point 3.2.2 of Annex I, and examine the safety devices, if applicable.
+
+The notified body shall issue a certificate of conformity in respect of the examinations and tests carried out and shall affix its identification number to the approved pressure equipment, or have it affixed under its responsibility. The manufacturer shall keep the certificates of conformity at the disposal of the national authorities for 10 years after the pressure equipment has been placed on the market.
+
+5\. CE marking and EU declaration of conformity
+
+5.1. The manufacturer shall affix the CE marking and, under the responsibility of the notified body referred to in point 4, the latter’s identification number to each item of pressure equipment that satisfies the applicable requirements of this Directive.
+
+5.2. The manufacturer shall draw up a written EU declaration of conformity and keep it at the disposal of the national authorities for 10 years after the pressure equipment has been placed on the market. The EU declaration of conformity shall identify the pressure equipment for which it has been drawn up.
+
+A copy of the EU declaration of conformity shall be made available to the relevant authorities upon request.
+
+6\. Authorised representative
+
+The manufacturer’s obligations set out in points 2 and 5 may be fulfilled by his authorised representative, on his behalf and under his responsibility, provided that they are specified in the mandate.
+
+**11\. MODULE H: CONFORMITY BASED ON FULL QUALITY ASSURANCE**
+
+1\. Conformity based on full quality assurance is the conformity assessment procedure whereby the manufacturer fulfils the obligations laid down in points 2 and 5, and ensures and declares on his sole responsibility that the pressure equipment concerned satisfies the requirements of this Directive that apply to it.
+
+2\. Manufacturing
+
+The manufacturer shall operate an approved quality system for design, manufacture, final product inspection and testing of the pressure equipment as specified in point 3 and shall be subject to surveillance as specified in point 4.
+
+3\. Quality system
+
+3.1. The manufacturer shall lodge an application for assessment of his quality system with the notified body of his choice, for the pressure equipment concerned.
+
+The application shall include:
+
+— the name and address of the manufacturer and, if the application is lodged by the authorised representative, his name and address as well,
+
+— the technical documentation for one model of each type of pressure equipment intended to be manufactured. The technical documentation shall, wherever applicable, contain at least the following elements:
+
+— a general description of the pressure equipment,
+
+— conceptual design and manufacturing drawings and diagrams of components, sub-assemblies, circuits, etc.,
+
+— descriptions and explanations necessary for the understanding of those drawings and diagrams and the operation of the pressure equipment,
+
+— a list of the harmonised standards the references of which have been published in the Official Journal of the European Union, applied in full or in part, and descriptions of the solutions adopted to meet the essential safety requirements of this Directive where those harmonised standards have not been applied. In the event of partly applied harmonised standards, the technical documentation shall specify the parts which have been applied,
+
+— results of design calculations made, examinations carried out, etc.,
+
+— test reports,
+
+— the documentation concerning the quality system, and
+
+— a written declaration that the same application has not been lodged with any other notified body.
+
+3.2. The quality system shall ensure compliance of the pressure equipment with the requirements of this Directive that apply to it.
+
+All the elements, requirements and provisions adopted by the manufacturer shall be documented in a systematic and orderly manner in the form of written policies, procedures and instructions. That quality system documentation shall permit a consistent interpretation of the quality programmes, plans, manuals and records.
+
+It shall, in particular, contain an adequate description of:
+
+— the quality objectives and the organisational structure, responsibilities and powers of the management with regard to design and product quality,
+
+— the technical design specifications, including standards, that will be applied and, where the relevant harmonised standards will not be applied in full, the means that will be used to ensure that the essential requirements of this Directive that apply to the pressure equipment will be met,
+
+— the design control and design verification techniques, processes and systematic actions that will be used when designing the pressure equipment, pertaining to the product type covered, particularly with regard to materials in accordance with point 4 of Annex I,
+
+— the corresponding manufacturing, quality control and quality assurance techniques, processes and systematic actions that will be used, particularly the procedures for the permanent joining of parts as approved in accordance with point 3.1.2 of Annex I,
+
+— the examinations and tests to be carried out before, during, and after manufacture, and the frequency with which they will be carried out,
+
+— the quality records, such as inspection reports and test data, calibration data, reports concerning the qualifications or approvals of the personnel concerned, particularly those of the personnel undertaking the permanent joining of parts and the non-destructive tests in accordance with points 3.1.2 and 3.1.3 of Annex I, etc.,
+
+— the means of monitoring the achievement of the required design and pressure equipment quality and the effective operation of the quality system.
+
+3.3. The notified body shall assess the quality system to determine whether it satisfies the requirements referred to in point 3.2. It shall presume conformity with those requirements in respect of the elements of the quality system that comply with the corresponding specifications of the relevant harmonised standard.
+
+In addition to experience in quality management systems, the auditing team shall have at least one member experienced as assessor in the pressure equipment technology concerned, and knowledge of the applicable requirements of this Directive. The audit shall include an assessment visit to the manufacturer’s premises.
+
+The auditing team shall review the technical documentation referred to in point 3.1, second indent, to verify the manufacturer’s ability to identify the applicable requirements of this Directive and to carry out the necessary examinations with a view to ensuring compliance of the pressure equipment with those requirements.
+
+The manufacturer or his authorised representative shall be notified of the decision. The notification shall contain the conclusions of the audit and the reasoned assessment decision.
+
+3.4. The manufacturer shall undertake to fulfil the obligations arising out of the quality system as approved and to maintain it so that it remains adequate and efficient.
+
+3.5. The manufacturer shall keep the notified body that has approved the quality system informed of any intended change to the quality system.
+
+The notified body shall evaluate any proposed changes and decide whether the modified quality system will continue to satisfy the requirements referred to in point 3.2 or whether a reassessment is necessary.
+
+It shall notify the manufacturer of its decision. The notification shall contain the conclusions of the examination and the reasoned assessment decision.
+
+4\. Surveillance under the responsibility of the notified body
+
+4.1. The purpose of surveillance is to make sure that the manufacturer duly fulfils the obligations arising out of the approved quality system.
+
+4.2. The manufacturer shall, for assessment purposes, allow the notified body access to the design, manufacture, inspection, testing and storage sites and shall provide it with all necessary information, in particular:
+
+— the quality system documentation,
+
+— the quality records provided for by the design part of the quality system, such as results of analyses, calculations, tests, etc.,
+
+— the quality records provided for by the manufacturing part of the quality system, such as inspection reports and test data, calibration data, qualification reports on the personnel concerned, etc.
+
+4.3. The notified body shall carry out periodic audits to make sure that the manufacturer maintains and applies the quality system and shall provide the manufacturer with an audit report. The frequency of periodic audits shall be such that a full reassessment is carried out every three years.
+
+4.4. In addition, the notified body may pay unexpected visits to the manufacturer.
+
+The need for such additional visits, and the frequency thereof, will be determined on the basis of a visit control system operated by the notified body. In particular, the following factors shall be considered in the visit control system:
+
+— the category of the equipment,
+
+— the results of previous surveillance visits,
+
+— the need to follow up corrective action(s),
+
+— special conditions linked to the approval of the system, where applicable,
+
+— significant changes in manufacturing organisation, policy or techniques.
+
+During such visits, the notified body may, if necessary, carry out product tests, or have them carried out, in order to check the proper functioning of the quality system. It shall provide the manufacturer with a visit report and, if tests have been carried out, with a test report.
+
+5\. CE marking and EU declaration of conformity
+
+5.1. The manufacturer shall affix the CE marking and, under the responsibility of the notified body referred to in point 3.1, the latter’s identification number to each individual item of pressure equipment that satisfies the applicable requirements of this Directive.
+
+5.2. The manufacturer shall draw up a written EU declaration of conformity for each pressure equipment model and keep it at the disposal of the national authorities for 10 years after the pressure equipment has been placed on the market. The EU declaration of conformity shall identify the pressure equipment model for which it has been drawn up.
+
+A copy of the EU declaration of conformity shall be made available to the relevant authorities upon request.
+
+6\. The manufacturer shall, for a period ending 10 years after the pressure equipment has been placed on the market, keep at the disposal of the national authorities:
+
+— the technical documentation referred to in point 3.1,
+
+— the documentation concerning the quality system referred to in point 3.1,
+
+— the change referred to point 3.4, as approved,
+
+— the decisions and reports of the notified body referred to in points 3.3, 3.4, 4.3 and 4.4.
+
+7\. Each notified body shall inform its notifying authorities of quality system approvals issued or withdrawn, and shall, periodically or upon request, make available to its notifying authorities the list of quality system approvals refused, suspended or otherwise restricted.
+
+Each notified body shall inform the other notified bodies of quality system approvals which it has refused, suspended or withdrawn, and, upon request, of quality system approvals which it has issued.
+
+8\. Authorised representative
+
+The manufacturer’s obligations set out in points 3.1, 3.5, 5 and 6 may be fulfilled by his authorised representative, on his behalf and under his responsibility, provided that they are specified in the mandate.
+
+**12\. MODULE H1: CONFORMITY BASED ON FULL QUALITY ASSURANCE PLUS DESIGN EXAMINATION**
+
+1\. Conformity based on full quality assurance plus design examination and special surveillance of the final assessment is the conformity assessment procedure whereby the manufacturer fulfils the obligations laid down in points 2 and 6, and ensures and declares on his sole responsibility that the pressure equipment concerned satisfy the requirements of the Directive that apply to it.
+
+2\. Manufacturing
+
+The manufacturer shall operate an approved quality system for design, manufacture and final product inspection and testing of the products concerned as specified in point 3 and shall be subject to surveillance as specified in point 5. The adequacy of the technical design of the pressure equipment shall have been examined in accordance with point 4.
+
+3\. Quality system
+
+3.1. The manufacturer shall lodge an application for assessment of his quality system with the notified body of his choice, for the pressure equipment concerned.
+
+The application shall include:
+
+— the name and address of the manufacturer and, if the application is lodged by the authorised representative, his name and address as well,
+
+— the technical documentation for one model of each type of pressure equipment intended to be manufactured. The technical documentation shall, wherever applicable, contain at least the following elements:
+
+— a general description of the pressure equipment,
+
+— conceptual design and manufacturing drawings and diagrams of components, sub-assemblies, circuits, etc.,
+
+— descriptions and explanations necessary for the understanding of those drawings and diagrams and the operation of the pressure equipment,
+
+— a list of the harmonised standards the references of which have been published in the Official Journal of the European Union, applied in full or in part, and descriptions of the solutions adopted to meet the essential safety requirements of this Directive where those harmonised standards have not been applied. In the event of partly applied harmonised standards, the technical documentation shall specify the parts which have been applied,
+
+— results of design calculations made, examinations carried out, etc.,
+
+— test reports,
+
+— the documentation concerning the quality system,
+
+— a written declaration that the same application has not been lodged with any other notified body.
+
+3.2. The quality system shall ensure compliance of the pressure equipment with the requirements of this Directive that apply to it.
+
+All the elements, requirements and provisions adopted by the manufacturer shall be documented in a systematic and orderly manner in the form of written policies, procedures and instructions. This quality system documentation shall permit a consistent interpretation of the quality programmes, plans, manuals and records.
+
+It shall, in particular, contain an adequate description of:
+
+— the quality objectives and the organisational structure, responsibilities and powers of the management with regard to design and product quality,
+
+— the technical design specifications, including standards, that will be applied and, where relevant harmonised standards will not be applied in full, the means that will be used to ensure that the essential safety requirements of the Directive that apply to the pressure equipment will be met,
+
+— the design control and design verification techniques, processes and systematic actions that will be used when designing the pressure equipment pertaining to the pressure equipment type covered, particularly with regard to materials in accordance with point 4 of Annex I,
+
+— the corresponding manufacturing, quality control and quality assurance techniques, processes and systematic actions that will be used, particularly the procedures for the permanent joining of parts as approved in accordance with point 3.1.2 of Annex I,
+
+— the examinations and tests that will be carried out before, during and after manufacture, and the frequency with which they will be carried out,
+
+— the quality records, such as inspection reports and test data, calibration data, reports concerning the qualifications or approvals of the personnel concerned, particularly those of the personnel undertaking the permanent joining of parts and the non-destructive tests in accordance with points 3.1.2 and 3.1.3 of Annex I, etc.,
+
+— the means of monitoring the achievement of the required design and pressure equipment quality and the effective operation of the quality system.
+
+3.3. The notified body shall assess the quality system to determine whether it satisfies the requirements referred to in point 3.2.
+
+It shall presume conformity with those requirements in respect of the elements of the quality system that comply with the corresponding specifications of the relevant harmonised standard. In addition to experience in quality management systems, the auditing team shall have at least one member experienced as an assessor in the relevant pressure equipment field and pressure equipment technology concerned, and knowledge of the applicable requirements of this Directive. The audit shall include an assessment visit to the manufacturer’s premises.
+
+The auditing team shall review the technical documentation referred to in point 3.1, second indent, to verify the manufacturer’s ability to identify the applicable requirements of this Directive and to carry out the necessary examinations with a view to ensuring compliance of the pressure equipment with those requirements.
+
+The manufacturer or his authorised representative shall be notified of the decision.
+
+The notification shall contain the conclusions of the audit and the reasoned assessment decision.
+
+3.4. The manufacturer shall undertake to fulfil the obligations arising out of the quality system as approved and to maintain it so that it remains adequate and efficient.
+
+3.5. The manufacturer shall keep the notified body that has approved the quality system informed of any intended change to the quality system.
+
+The notified body shall evaluate any proposed changes and decide whether the modified quality system will continue to satisfy the requirements referred to in point 3.2 or whether a re-assessment is necessary.
+
+It shall notify the manufacturer of its decision. The notification shall contain the conclusions of the examination and the reasoned assessment decision.
+
+3.6. Each notified body shall inform its notifying authorities of quality system approvals issued or withdrawn, and shall, periodically or upon request, make available to its notifying authorities the list of quality system approvals refused, suspended or otherwise restricted.
+
+Each notified body shall inform the other notified bodies of quality system approvals which it has refused, suspended or withdrawn, and, upon request, of quality system approvals which it has issued.
+
+4\. Design examination
+
+4.1. The manufacturer shall lodge an application for examination of the design of each item of pressure equipment not covered by a previous design examination with the notified body referred to in point 3.1.
+
+4.2. The application shall make it possible to understand the design, manufacture and operation of the pressure equipment, and to assess the conformity with the requirements of this Directive that apply to it. It shall include:
+
+— the name and address of the manufacturer,
+
+— a written declaration that the same application has not been lodged with any other notified body,
+
+— the technical documentation. The documentation shall make it possible to assess the conformity of the pressure equipment with the relevant requirements, and shall include an adequate analysis and assessment of the risk(s). The technical documentation shall specify the applicable requirements and cover, as far as relevant for the assessment, the design and operation of the pressure equipment. The technical documentation shall, wherever applicable, contain at least the following elements:
+
+— a general description of the pressure equipment,
+
+— conceptual design and manufacturing drawings and diagrams of components, sub-assemblies, circuits, etc.,
+
+— descriptions and explanations necessary for the understanding of those drawings and diagrams and the operation of the pressure equipment,
+
+— a list of the harmonised standards the references of which have been published in the Official Journal of the European Union, applied in full or in part, and descriptions of the solutions adopted to meet the essential safety requirements of this Directive, where those harmonised standards have not been applied. In the event of partly applied harmonised standards, the technical documentation shall specify the parts which have been applied,
+
+— results of design calculations made, examinations carried out, etc., and
+
+— test reports,
+
+— the supporting evidence for the adequacy of the technical design. This supporting evidence shall mention any documents that have been used, in particular where the relevant harmonised standards have not been applied in full, and shall include, where necessary, the results of tests carried out by the appropriate laboratory of the manufacturer or by another testing laboratory on his behalf and under his responsibility.
+
+4.3. The notified body shall examine the application, and where the design meets the requirements of this Directive that apply to the pressure equipment it shall issue an EU design examination certificate to the manufacturer. The certificate shall give the name and address of the manufacturer, the conclusions of the examination, the conditions (if any) for its validity and the data necessary for identification of the approved design. The certificate may have one or more annexes attached.
+
+The certificate and its annexes shall contain all relevant information to allow the conformity of manufactured products with the examined design to be evaluated, and to allow for in-service control, where applicable.
+
+Where the design does not satisfy the applicable requirements of this Directive, the notified body shall refuse to issue a design examination certificate and shall inform the applicant accordingly, giving detailed reasons for its refusal.
+
+4.4. The notified body shall keep itself apprised of any changes in the generally acknowledged state of the art which indicate that the approved design may no longer comply with the applicable requirements of this Directive, and shall determine whether such changes require further investigation. If so, the notified body shall inform the manufacturer accordingly.
+
+The manufacturer shall keep the notified body that has issued the EU design examination certificate informed of any modification to the approved design that may affect the conformity with the essential safety requirements of this Directive or the conditions for validity of the certificate. Such modifications shall require additional approval — from the notified body that issued the EU design examination certificate — in the form of an addition to the original EU design examination certificate.
+
+4.5. Each notified body shall inform its notifying authorities of the EU design examination certificates and/or any additions thereto which it has issued or withdrawn, and shall, periodically or upon request, make available to its notifying authorities the list of certificates and/or any additions thereto refused, suspended or otherwise restricted.
+
+Each notified body shall inform the other notified bodies of the EU design examination certificates and/or any additions thereto which it has refused, withdrawn, suspended or otherwise restricted, and, upon request, of the certificates and/or additions thereto which it has issued.
+
+The Commission, the Member States and the other notified bodies may, on request, obtain a copy of the EU design examination certificates and/or additions thereto. On request, the Commission and the Member States may obtain a copy of the technical documentation and of the results of the examinations carried out by the notified body.
+
+The notified body shall keep a copy of the EU design examination certificate, its annexes and additions, as well as the technical file including the documentation submitted by the manufacturer until the expiry of the validity of the certificate.
+
+4.6. The manufacturer shall keep a copy of the EU design examination certificate, its annexes and additions together with the technical documentation at the disposal of the national authorities for 10 years after the pressure equipment has been placed on the market.
+
+5\. Surveillance under the responsibility of the notified body
+
+5.1. The purpose of surveillance is to make sure that the manufacturer duly fulfils the obligations arising out of the approved quality system.
+
+5.2. The manufacturer shall, for assessment purposes, allow the notified body access to the design, manufacture, inspection, testing and storage sites, and shall provide it with all necessary information, in particular:
+
+— the quality system documentation,
+
+— the quality records as provided for by the design part of the quality system, such as results of analyses, calculations, tests, etc.,
+
+— the quality records as provided for by the manufacturing part of the quality system, such as inspection reports and test data, calibration data, qualification reports on the personnel concerned, etc.
+
+5.3. The notified body shall carry out periodic audits to make sure that the manufacturer maintains and applies the quality system and shall provide the manufacturer with an audit report. The frequency of periodic audits shall be such that a full reassessment is carried out every three years.
+
+5.4. In addition, the notified body may pay unexpected visits to the manufacturer.
+
+The need for such additional visits, and the frequency thereof, will be determined on the basis of a visit control system operated by the notified body. In particular, the following factors must be considered in the visit control system:
+
+— the category of the equipment,
+
+— the results of previous surveillance visits,
+
+— the need to follow up corrective action(s),
+
+— special conditions linked to the approval of the system, where applicable,
+
+— significant changes in manufacturing organisation, policy or techniques.
+
+During such visits, the notified body may, if necessary, carry out product tests, or have them carried out, in order to check the proper functioning of the quality system. It shall provide the manufacturer with a visit report and, if tests have been carried out, with a test report.
+
+5.5. Special surveillance of the final assessment
+
+Final assessment as referred to in section 3.2 of Annex I is subject to increased surveillance in the form of unexpected visits by the notified body. In the course of such visits, the notified body shall conduct examinations on the pressure equipment.
+
+It shall provide the manufacturer with a visit report and, if tests have been carried out, with a test report.
+
+6\. CE marking and EU declaration of conformity
+
+6.1. The manufacturer shall affix the CE marking and, under the responsibility of the notified body referred to in point 3.1, the latter’s identification number to each individual item of pressure equipment that satisfies the applicable requirements of this Directive.
+
+6.2. The manufacturer shall draw up a written EU declaration of conformity for each pressure equipment model and keep it at the disposal of the national authorities for 10 years after the pressure equipment has been placed on the market. The EU declaration of conformity shall identify the pressure equipment model for which it has been drawn up and shall mention the number of the design examination certificate.
+
+A copy of the EU declaration of conformity shall be made available to the relevant authorities upon request.
+
+7\. The manufacturer shall, for a period ending 10 years after the pressure equipment has been placed on the market, keep at the disposal of the national authorities:
+
+— the documentation concerning the quality system referred to in point 3.1,
+
+— the change referred to in point 3.5, as approved,
+
+— the decisions and reports of the notified body referred to in points 3.5, 5.3 and 5.4.
+
+8\. Authorised representative
+
+The manufacturer’s authorised representative may lodge the application referred to in points 4.1 and 4.2 and fulfil the obligations set out in points 3.1, 3.5, 4.4, 4.6, 6 and 7, on his behalf and under his responsibility, provided that they are specified in the mandate.
+
+## ANNEX IV
+
+**EU DECLARATION OF CONFORMITY (No XXXX) ( 14 )**
+
+1\. Pressure equipment or assembly (product, type, batch or serial number):
+
+2\. Name and address of the manufacturer and, where applicable, his authorised representative:
+
+3\. This declaration of conformity is issued under the sole responsibility of the manufacturer.
+
+4\. Object of the declaration (identification of pressure equipment or assembly allowing traceability; it may, where necessary for the identification of the pressure equipment or assembly, include an image):
+
+— description of the pressure equipment or assembly,
+
+— conformity assessment procedure followed,
+
+— in the case of assemblies, description of the pressure equipment constituting the assembly, and the conformity assessment procedures followed,
+
+5\. The object of the declaration described above is in conformity with the relevant Union harmonisation legislation:
+
+6\. References to the relevant harmonised standards used or references to the other technical specifications in relation to which conformity is declared:
+
+7\. Where appropriate, the name, address and number of the notified body which carried out the conformity assessment and the number of the certificate issued, and a reference to the EU-type examination certificate – production type, EU-type examination certificate – design type, EU design examination certificate or certificate of conformity.
+
+8\. Additional information:
+
+Signed for and on behalf of:
+
+(place and date of issue):
+
+(name, function) (signature):
+
+(where appropriate, particulars of the signatory authorised to sign the legally binding declaration for the manufacturer or his authorised representative)
+
+## ANNEX V
+
+**PART A**
+
+**Repealed Directive with list of the successive amendments thereto**
+
+**(referred to in Article 50)**
+
+| Directive 97/23/EC of the European Parliament and of the Council (OJ L 181, 9.7.1997, p. 1). |  |
+| --- | --- |
+| Regulation (EC) No 1882/2003 of the European Parliament and of the Council (OJ L 284, 31.10.2003, p. 1). | Only point 13 of Annex I |
+| Regulation (EU) No 1025/2012 of the European Parliament and of the Council (OJ L 316, 14.11.2012, p. 12). | Only point (f) of Article 26(1) |
+
+**PART B**
+
+**Time-limit for transposition into national law and date of application**
+
+**(referred to in Article 49)**
+
+<tbody><tr><td>Directive</td><td>Time-limit for transposition</td><td>Date of application</td></tr>
+<tr><td>97/23/EC</td><td>29 May 1999</td><td>29 November 1999 (1)</td></tr>
+<tr><td colspan="3">(1)  In accordance with Article 20(3) of Directive 97/23/EC, Member States shall permit the putting into service of pressure equipment and assemblies which comply with the regulations in force in their territory at the date of application of the Directive beyond that date. </td></tr>
+</tbody>
+
+## ANNEX VI
+
+**CORRELATION TABLE**
+
+| Directive 97/23/EC | This Directive |
+| --- | --- |
+| Article 1(1) | Article 1(1) |
+| Article 1(2) | Article 2(1) to (14) |
+| Article 1(3) | Article 1(2) |
+| — | Article 2(15) to (32) |
+| Article 2 | Article 3 |
+| Article 3 | Article 4 |
+| Article 4(1) | Article 5(1) |
+| Article 4(2) | Article 5(3) |
+| — | Article 6 |
+| — | Article 7 |
+| — | Article 8 |
+| — | Article 9 |
+| — | Article 10 |
+| — | Article 11 |
+| Article 5 | — |
+| Article 6 | — |
+| — | Article 12(1) |
+| Article 7(1) | Article 45 |
+| Article 7(2) | Article 44(1) |
+| Article 7(3) | — |
+| Article 7(4) | Article 44(5), second subparagraph |
+| Article 8 | — |
+| Article 9(1) | Article 13(1), introductory sentence |
+| Article 9(2) point 1 | — |
+| — | Article 13(1)(a) |
+| Article 9(2) point 2 | Article 13(1)(b) |
+| Article 9(3) | Article 13(2) |
+| Article 10 | Article 14 |
+| Article 11(1) | Article 15(1) |
+| Article 11(2) | Article 15(2) |
+| Article 11(3) | Article 15(3) |
+| Article 11(4) | Article 12(2) |
+| — | Article 15(4) |
+| Article 11(5) | Article 15(5) |
+| — | Article 15(6) |
+| Article 12 | — |
+| Article 13 | — |
+| Article 14(1) | Article 16(1) |
+| Article 14(2) | Article 5(2) |
+| Article 14(3) to (8) | Article 16(2) to (7) |
+| Article 14(9) and (10) | — |
+| — | Article 17 |
+| — | Article 18 |
+| Article 15(1) | — |
+| Article 15(2) | Article 19(1) |
+| Article 15(3) | Article 19(2) |
+| Article 15(4) and (5) | — |
+| — | Article 19(3) to (6) |
+| — | Article 20 |
+| — | Article 21 |
+| — | Article 22 |
+| — | Article 23 |
+| — | Article 24 |
+| — | Article 25 |
+| — | Article 26 |
+| — | Article 27 |
+| — | Article 28 |
+| — | Article 29 |
+| — | Article 30 |
+| — | Article 31 |
+| — | Article 32 |
+| — | Article 33 |
+| — | Article 34 |
+| — | Article 35 |
+| — | Article 36 |
+| — | Article 37 |
+| — | Article 38 |
+| Article 16 | — |
+| Article 17 | — |
+| Article 18 | — |
+| — | Article 39 |
+| — | Article 40 |
+| — | Article 41 |
+| — | Article 42 |
+| — | Article 43 |
+| — | Article 44(2) to (4) |
+| — | Article 44(5), first subparagraph |
+| — | Article 46 |
+| — | Article 47 |
+| Article 19 | — |
+| Article 20(1) to (2) | — |
+| Article 20(3) | Article 48(1) |
+| — | Article 48(2) and (3) |
+| — | Article 49 |
+| — | Article 50 |
+| — | Article 51 |
+| Article 21 | Article 52 |
+| Annex I | Annex I |
+| Annex II | Annex II |
+| Annex III, introductory wording | Annex III, introductory wording |
+| Annex III, Module A | Annex III, point 1, Module A |
+| Annex III, Module A1 | Annex III, point 2, Module A2 |
+| Annex III, Module B | Annex III, point 3.1, Module B, EU-type examination – production type |
+| Annex III, Module B1 | Annex III, point 3.2, Module B, EU-type examination – design type |
+| Annex III, Module C1 | Annex III, point 4, Module C2 |
+| Annex III, Module D | Annex III, point 5, Module D |
+| Annex III, Module D1 | Annex III, point 6, Module D1 |
+| Annex III, Module E | Annex III, point 7, Module E |
+| Annex III, Module E1 | Annex III, point 8, Module E1 |
+| Annex III, Module F | Annex III, point 9, Module F |
+| Annex III, Module G | Annex III, point 10, Module G |
+| Annex III, Module H | Annex III, point 11, Module H |
+| Annex III, Module H1 | Annex III, point 12, Module H1 |
+| Annex IV | — |
+| Annex V | — |
+| Annex VI | — |
+| Annex VII | Annex IV |
+| — | Annex V |
+| — | Annex VI |
+
+( 1 ) Directive 2014/29/EU of the European Parliament and of the Council of 26 February 2014 on the harmonisation of the laws of the Member States relating to the making available on the market of simple pressure vessels (OJ L 96, 29.3.2014, p. 45).
+
+( 2 ) Council Directive 75/324/EEC of 20 May 1975 on the approximation of the laws of the Member States relating to aerosol dispensers (OJ L 147, 9.6.1975, p. 40).
+
+( 3 ) Directive 2007/46/EC of the European Parliament and of the Council of 5 September 2007 establishing a framework for the approval of motor vehicles and their trailers, and of systems, components and separate technical units intended for such vehicles (Framework Directive) (OJ L 263, 9.10.2007, p. 1).
+
+( 4 ) Regulation (EU) No 167/2013 of the European Parliament and of the Council of 5 February 2013 on the approval and market surveillance of agricultural and forestry vehicles (OJ L 60, 2.3.2013, p. 1).
+
+( 5 ) Regulation (EU) No 168/2013 of the European Parliament and of the Council of 15 January 2013 on the approval and market surveillance of two- or three-wheel vehicles and quadricycles (OJ L 60, 2.3.2013, p. 52).
+
+( 6 ) Directive 2006/42/EC of the European Parliament and of the Council of 17 May 2006 on machinery, and amending Directive 95/16/EC (OJ L 157, 9.6.2006, p. 24).
+
+( 7 ) Directive 2014/33/EU of the European Parliament and of the Council of 26 February 2014 on the harmonisation of the laws of the Member States relating to lifts and safety components for lifts (OJ L 96, 29.3.2014, p. 251).
+
+( 8 ) Directive 2014/35/EU of the European Parliament and of the Council of 26 February 2014 on the harmonisation of the laws of the Member States relating to the making available on the market of electrical equipment designed for use within certain voltage limits (OJ L 96, 29.3.2014, p. 357).
+
+( 9 ) Council Directive 93/42/EEC of 14 June 1993 concerning medical devices (OJ L 169, 12.7.1993, p. 1).
+
+( 10 ) Directive 2009/142/EC of the European Parliament and of the Council of 30 November 2009 relating to appliances burning gaseous fuels (OJ L 330, 16.12.2009, p. 10).
+
+( 11 ) Directive 2014/34/EU of the European Parliament and the Council of 26 February 2014 on the harmonisation of the laws of the Member States relating to equipment and protective systems intended for use in potentially explosive atmospheres (OJ L 96, 29.3.2014, p. 309).
+
+( 12 ) Regulation (EU) 2024/2747 of the European Parliament and of the Council of 9 October 2024 establishing a framework of measures, related to an internal market emergency and to the resilience of the internal market and amending Council Regulation (EC) No 2679/98 (Internal Market Emergency and Resilience Act) (OJ L, 2024/2747, 8.11.2024, ELI: http://data.europa.eu/eli/reg/2024/2747/oj).
+
+( 13 ) Regulation (EU) 2019/1020 of the European Parliament and of the Council of 20 June 2019 on market surveillance and compliance of products and amending Directive 2004/42/EC and Regulations (EC) No 765/2008 and (EU) No 305/2011 (OJ L 169, 25.6.2019, p. 1).
+
+( 14 ) It is optional for the manufacturer to assign a number to the declaration of conformity.

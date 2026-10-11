@@ -1,0 +1,421 @@
+---
+title: "Directive 2001/20/EC of the European Parliament and of the Council of 4 April 2001 on the approximation of the laws, regulations and administrative provisions of the Member States relating to the implementation of good clinical practice in the conduct of clinical trials on medicinal products for human use"
+identifier: "32001L0020"
+eli: "http://data.europa.eu/eli/dir/2001/20/oj"
+type: directive
+jurisdiction: eu
+language: en
+date: 2001-04-04
+entry_into_force: 2001-01-17
+last_amended: 2022-01-01
+consolidated_version: "02001L0020-20220101"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02001L0020-20220101"
+retrieved: 2026-10-11
+---
+
+# Directive 2001/20/EC of the European Parliament and of the Council of 4 April 2001 on the approximation of the laws, regulations and administrative provisions of the Member States relating to the implementation of good clinical practice in the conduct of clinical trials on medicinal products for human use
+
+**DIRECTIVE 2001/20/EC OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 4 April 2001**
+
+**on the approximation of the laws, regulations and administrative provisions of the Member States relating to the implementation of good clinical practice in the conduct of clinical trials on medicinal products for human use**
+
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> REGULATION (EC) No 1901/2006 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 12 December 2006 </td><td> L 378</td><td>1</td><td>27.12.2006</td></tr>
+<tr><td></td><td> REGULATION (EC) No 596/2009 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 18 June 2009 </td><td> L 188</td><td>14</td><td>18.7.2009</td></tr>
+<tr><td></td><td> DIRECTIVE (EU) 2022/642 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 12 April 2022 </td><td> L 118</td><td>4</td><td>20.4.2022</td></tr>
+
+**DIRECTIVE 2001/20/EC OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 4 April 2001**
+
+**on the approximation of the laws, regulations and administrative provisions of the Member States relating to the implementation of good clinical practice in the conduct of clinical trials on medicinal products for human use**
+
+## Article 1 — Scope
+
+1\. This Directive establishes specific provisions regarding the conduct of clinical trials, including multi-centre trials, on human subjects involving medicinal products as defined in Article 1 of Directive 65/65/EEC, in particular relating to the implementation of good clinical practice. This Directive does not apply to non-interventional trials.
+
+2\. Good clinical practice is a set of internationally recognised ethical and scientific quality requirements which must be observed for designing, conducting, recording and reporting clinical trials that involve the participation of human subjects. Compliance with this good practice provides assurance that the rights, safety and well-being of trial subjects are protected, and that the results of the clinical trials are credible.
+
+3\. The Commission shall adopt the principles relating to good clinical practice and detailed rules in line with those principles and shall, if necessary, revise those principles and detailed rules to take account of technical and scientific progress. Those measures, designed to amend non-essential elements of this Directive, shall be adopted in accordance with the regulatory procedure with scrutiny referred to in Article 21(3).
+
+The principles and detailed rules shall be published by the Commission.
+
+4\. All clinical trials, including bioavailability and bioequivalence studies, shall be designed, conducted and reported in accordance with the principles of good clinical practice.
+
+## Article 2 — Definitions
+
+For the purposes of this Directive the following definitions shall apply:
+
+(a) ‘clinical trial’: any investigation in human subjects intended to discover or verify the clinical, pharmacological and/or other pharmacodynamic effects of one or more investigational medicinal product(s), and/or to identify any adverse reactions to one or more investigational medicinal product(s) and/or to study absorption, distribution, metabolism and excretion of one or more investigational medicinal product(s) with the object of ascertaining its (their) safety and/or efficacy;
+
+This includes clinical trials carried out in either one site or multiple sites, whether in one or more than one Member State;
+
+(b) ‘multi-centre clinical trial’: a clinical trial conducted according to a single protocol but at more than one site, and therefore by more than one investigator, in which the trial sites may be located in a single Member State, in a number of Member States and/or in Member States and third countries;
+
+(c) ‘non-interventional trial’: a study where the medicinal product(s) is (are) prescribed in the usual manner in accordance with the terms of the marketing authorisation. The assignment of the patient to a particular therapeutic strategy is not decided in advance by a trial protocol but falls within current practice and the prescription of the medicine is clearly separated from the decision to include the patient in the study. No additional diagnostic or monitoring procedures shall be applied to the patients and epidemiological methods shall be used for the analysis of collected data;
+
+(d) ‘investigational medicinal product’: a pharmaceutical form of an active substance or placebo being tested or used as a reference in a clinical trial, including products already with a marketing authorisation but used or assembled (formulated or packaged) in a way different from the authorised form, or when used for an unauthorised indication, or when used to gain further information about the authorised form;
+
+(e) ‘sponsor’: an individual, company, institution or organisation which takes responsibility for the initiation, management and/or financing of a clinical trial;
+
+(f) ‘investigator’: a doctor or a person following a profession agreed in the Member State for investigations because of the scientific background and the experience in patient care it requires. The investigator is responsible for the conduct of a clinical trial at a trial site. If a trial is conducted by a team of individuals at a trial site, the investigator is the leader responsible for the team and may be called the principal investigator;
+
+(g) ‘investigator's brochure’: a compilation of the clinical and non-clinical data on the investigational medicinal product or products which are relevant to the study of the product or products in human subjects;
+
+(h) ‘protocol’: a document that describes the objective(s), design, methodology, statistical considerations and organisation of a trial. The term protocol refers to the protocol, successive versions of the protocol and protocol amendments;
+
+(i) ‘subject’: an individual who participates in a clinical trial as either a recipient of the investigational medicinal product or a control;
+
+(j) ‘informed consent’: decision, which must be written, dated and signed, to take part in a clinical trial, taken freely after being duly informed of its nature, significance, implications and risks and appropriately documented, by any person capable of giving consent or, where the person is not capable of giving consent, by his or her legal representative; if the person concerned is unable to write, oral consent in the presence of at least one witness may be given in exceptional cases, as provided for in national legislation.
+
+(k) ‘ethics committee’: an independent body in a Member State, consisting of healthcare professionals and non-medical members, whose responsibility it is to protect the rights, safety and wellbeing of human subjects involved in a trial and to provide public assurance of that protection, by, among other things, expressing an opinion on the trial protocol, the suitability of the investigators and the adequacy of facilities, and on the methods and documents to be used to inform trial subjects and obtain their informed consent;
+
+(l) ‘inspection’: the act by a competent authority of conducting an official review of documents, facilities, records, quality assurance arrangements, and any other resources that are deemed by the competent authority to be related to the clinical trial and that may be located at the site of the trial, at the sponsor's and/or contract research organisation's facilities, or at other establishments which the competent authority sees fit to inspect;
+
+(m) ‘adverse event’: any untoward medical occurrence in a patient or clinical trial subject administered a medicinal product and which does not necessarily have a causal relationship with this treatment;
+
+(n) ‘adverse reaction’: all untoward and unintended responses to an investigational medicinal product related to any dose administered;
+
+(o) ‘serious adverse event or serious adverse reaction’: any untoward medical occurrence or effect that at any dose results in death, is life-threatening, requires hospitalisation or prolongation of existing hospitalisation, results in persistent or significant disability or incapacity, or is a congenital anomaly or birth defect;
+
+(p) ‘unexpected adverse reaction’: an adverse reaction, the nature or severity of which is not consistent with the applicable product information (e.g. investigator's brochure for an unauthorised investigational product or summary of product characteristics for an authorised product).
+
+## Article 3 — Protection of clinical trial subjects
+
+1\. This Directive shall apply without prejudice to the national provisions on the protection of clinical trial subjects if they are more comprehensive than the provisions of this Directive and consistent with the procedures and time-scales specified therein. Member States shall, insofar as they have not already done so, adopt detailed rules to protect from abuse individuals who are incapable of giving their informed consent.
+
+2\. A clinical trial may be undertaken only if, in particular:
+
+(a) the foreseeable risks and inconveniences have been weighed against the anticipated benefit for the individual trial subject and other present and future patients. A clinical trial may be initiated only if the Ethics Committee and/or the competent authority comes to the conclusion that the anticipated therapeutic and public health benefits justify the risks and may be continued only if compliance with this requirement is permanently monitored;
+
+(b) the trial subject or, when the person is not able to give informed consent, his legal representative has had the opportunity, in a prior interview with the investigator or a member of the investigating team, to understand the objectives, risks and inconveniences of the trial, and the conditions under which it is to be conducted and has also been informed of his right to withdraw from the trial at any time;
+
+(c) the rights of the subject to physical and mental integrity, to privacy and to the protection of the data concerning him in accordance with Directive 95/46/EC are safeguarded;
+
+(d) the trial subject or, when the person is not able to give informed consent, his legal representative has given his written consent after being informed of the nature, significance, implications and risks of the clinical trial; if the individual is unable to write, oral consent in the presence of at least one witness may be given in exceptional cases, as provided for in national legislation;
+
+(e) the subject may without any resulting detriment withdraw from the clinical trial at any time by revoking his informed consent;
+
+(f) provision has been made for insurance or indemnity to cover the liability of the investigator and sponsor.
+
+3\. The medical care given to, and medical decisions made on behalf of, subjects shall be the responsibility of an appropriately qualified doctor or, where appropriate, of a qualified dentist.
+
+4\. The subject shall be provided with a contact point where he may obtain further information.
+
+## Article 4 — Clinical trials on minors
+
+In addition to any other relevant restriction, a clinical trial on minors may be undertaken only if:
+
+(a) the informed consent of the parents or legal representative has been obtained; consent must represent the minor's presumed will and may be revoked at any time, without detriment to the minor;
+
+(b) the minor has received information according to its capacity of understanding, from staff with experience with minors, regarding the trial, the risks and the benefits;
+
+(c) the explicit wish of a minor who is capable of forming an opinion and assessing this information to refuse participation or to be withdrawn from the clinical trial at any time is considered by the investigator or where appropriate the principal investigator;
+
+(d) no incentives or financial inducements are given except compensation;
+
+(e) some direct benefit for the group of patients is obtained from the clinical trial and only where such research is essential to validate data obtained in clinical trials on persons able to give informed consent or by other research methods; additionally, such research should either relate directly to a clinical condition from which the minor concerned suffers or be of such a nature that it can only be carried out on minors;
+
+(f) the corresponding scientific guidelines of the Agency have been followed;
+
+(g) clinical trials have been designed to minimise pain, discomfort, fear and any other foreseeable risk in relation to the disease and developmental stage; both the risk threshold and the degree of distress have to be specially defined and constantly monitored;
+
+(h) the Ethics Committee, with paediatric expertise or after taking advice in clinical, ethical and psychosocial problems in the field of paediatrics, has endorsed the protocol; and
+
+(i) the interests of the patient always prevail over those of science and society.
+
+## Article 5 — Clinical trials on incapacitated adults not able to give informed legal consent
+
+In the case of other persons incapable of giving informed legal consent, all relevant requirements listed for persons capable of giving such consent shall apply. In addition to these requirements, inclusion in clinical trials of incapacitated adults who have not given or not refused informed consent before the onset of their incapacity shall be allowed only if:
+
+(a) the informed consent of the legal representative has been obtained; consent must represent the subject's presumed will and may be revoked at any time, without detriment to the subject;
+
+(b) the person not able to give informed legal consent has received information according to his/her capacity of understanding regarding the trial, the risks and the benefits;
+
+(c) the explicit wish of a subject who is capable of forming an opinion and assessing this information to refuse participation in, or to be withdrawn from, the clinical trial at any time is considered by the investigator or where appropriate the principal investigator;
+
+(d) no incentives or financial inducements are given except compensation;
+
+(e) such research is essential to validate data obtained in clinical trials on persons able to give informed consent or by other research methods and relates directly to a life-threatening or debilitating clinical condition from which the incapacitated adult concerned suffers;
+
+(f) clinical trials have been designed to minimise pain, discomfort, fear and any other foreseeable risk in relation to the disease and developmental stage; both the risk threshold and the degree of distress shall be specially defined and constantly monitored;
+
+(g) the Ethics Committee, with expertise in the relevant disease and the patient population concerned or after taking advice in clinical, ethical and psychosocial questions in the field of the relevant disease and patient population concerned, has endorsed the protocol;
+
+(h) the interests of the patient always prevail over those of science and society; and
+
+(i) there are grounds for expecting that administering the medicinal product to be tested will produce a benefit to the patient outweighing the risks or produce no risk at all.
+
+## Article 6 — Ethics Committee
+
+1\. For the purposes of implementation of the clinical trials, Member States shall take the measures necessary for establishment and operation of Ethics Committees.
+
+2\. The Ethics Committee shall give its opinion, before a clinical trial commences, on any issue requested.
+
+3\. In preparing its opinion, the Ethics Committee shall consider, in particular:
+
+(a) the relevance of the clinical trial and the trial design;
+
+(b) whether the evaluation of the anticipated benefits and risks as required under Article 3(2)(a) is satisfactory and whether the conclusions are justified;
+
+(c) the protocol;
+
+(d) the suitability of the investigator and supporting staff;
+
+(e) the investigator's brochure;
+
+(f) the quality of the facilities;
+
+(g) the adequacy and completeness of the written information to be given and the procedure to be followed for the purpose of obtaining informed consent and the justification for the research on persons incapable of giving informed consent as regards the specific restrictions laid down in Article 3;
+
+(h) provision for indemnity or compensation in the event of injury or death attributable to a clinical trial;
+
+(i) any insurance or indemnity to cover the liability of the investigator and sponsor;
+
+(j) the amounts and, where appropriate, the arrangements for rewarding or compensating investigators and trial subjects and the relevant aspects of any agreement between the sponsor and the site;
+
+(k) the arrangements for the recruitment of subjects.
+
+4\. Notwithstanding the provisions of this Article, a Member State may decide that the competent authority it has designated for the purpose of Article 9 shall be responsible for the consideration of, and the giving of an opinion on, the matters referred to in paragraph 3(h), (i) and (j) of this Article.
+
+When a Member State avails itself of this provision, it shall notify the Commission, the other Member States and the Agency.
+
+5\. The Ethics Committee shall have a maximum of 60 days from the date of receipt of a valid application to give its reasoned opinion to the applicant and the competent authority in the Member State concerned.
+
+6\. Within the period of examination of the application for an opinion, the Ethics Committee may send a single request for information supplementary to that already supplied by the applicant. The period laid down in paragraph 5 shall be suspended until receipt of the supplementary information.
+
+7\. No extension to the 60-day period referred to in paragraph 5 shall be permissible except in the case of trials involving medicinal products for gene therapy or somatic cell therapy or medicinal products containing genetically modified organisms. In this case, an extension of a maximum of 30 days shall be permitted. For these products, this 90-day period may be extended by a further 90 days in the event of consultation of a group or a committee in accordance with the regulations and procedures of the Member States concerned. In the case of xenogenic cell therapy, there shall be no time limit to the authorisation period.
+
+## Article 7 — Single opinion
+
+For multi-centre clinical trials limited to the territory of a single Member State, Member States shall establish a procedure providing, notwithstanding the number of Ethics Committees, for the adoption of a single opinion for that Member State.
+
+In the case of multi-centre clinical trials carried out in more than one Member State simultaneously, a single opinion shall be given for each Member State concerned by the clinical trial.
+
+## Article 8 — Detailed guidance
+
+The Commission, in consultation with Member States and interested parties, shall draw up and publish detailed guidance on the application format and documentation to be submitted in an application for an ethics committee opinion, in particular regarding the information that is given to subjects, and on the appropriate safeguards for the protection of personal data.
+
+## Article 9 — Commencement of a clinical trial
+
+1\. Member States shall take the measures necessary to ensure that the procedure described in this Article is followed for commencement of a clinical trial.
+
+The sponsor may not start a clinical trial until the Ethics Committee has issued a favourable opinion and inasmuch as the competent authority of the Member State concerned has not informed the sponsor of any grounds for non-acceptance. The procedures to reach these decisions can be run in parallel or not, depending on the sponsor.
+
+2\. Before commencing any clinical trial, the sponsor shall be required to submit a valid request for authorisation to the competent authority of the Member State in which the sponsor plans to conduct the clinical trial.
+
+3\. If the competent authority of the Member State notifies the sponsor of grounds for non-acceptance, the sponsor may, on one occasion only, amend the content of the request referred to in paragraph 2 in order to take due account of the grounds given. If the sponsor fails to amend the request accordingly, the request shall be considered rejected and the clinical trial may not commence.
+
+4\. Consideration of a valid request for authorisation by the competent authority as stated in paragraph 2 shall be carried out as rapidly as possible and may not exceed 60 days. The Member States may lay down a shorter period than 60 days within their area of responsibility if that is in compliance with current practice. The competent authority can nevertheless notify the sponsor before the end of this period that it has no grounds for non-acceptance.
+
+No further extensions to the period referred to in the first subparagraph shall be permissible except in the case of trials involving the medicinal products listed in paragraph 6, for which an extension of a maximum of 30 days shall be permitted. For these products, this 90-day period may be extended by a further 90 days in the event of consultation of a group or a committee in accordance with the regulations and procedures of the Member States concerned. In the case of xenogenic cell therapy there shall be no time limit to the authorisation period.
+
+5\. Without prejudice to paragraph 6, written authorisation may be required before the commencement of clinical trials for such trials on medicinal products which do not have a marketing authorisation within the meaning of Directive 65/65/EEC and are referred to in Part A of the Annex to Regulation (EEC) No 2309/93, and other medicinal products with special characteristics, such as medicinal products the active ingredient or active ingredients of which is or are a biological product or biological products of human or animal origin, or contains biological components of human or animal origin, or the manufacturing of which requires such components.
+
+6\. Written authorisation shall be required before commencing clinical trials involving medicinal products for gene therapy, somatic cell therapy including xenogenic cell therapy and all medicinal products containing genetically modified organisms. No gene therapy trials may be carried out which result in modifications to the subject's germ line genetic identity.
+
+7\. This authorisation shall be issued without prejudice to the application of Council Directives 90/219/EEC of 23 April 1990 on the contained use of genetically modified micro-organisms ( 1 ) and 90/220/EEC of 23 April 1990 on the deliberate release into the environment of genetically modified organisms ( 2 ).
+
+8\. In consultation with Member States, the Commission shall draw up and publish detailed guidance on:
+
+(a) the format and contents of the request referred to in paragraph 2 as well as the documentation to be submitted to support that request, on the quality and manufacture of the investigational medicinal product, any toxicological and pharmacological tests, the protocol and clinical information on the investigational medicinal product including the investigator's brochure;
+
+(b) the presentation and content of the proposed amendment referred to in point (a) of Article 10 on substantial amendments made to the protocol;
+
+(c) the declaration of the end of the clinical trial.
+
+## Article 10 — Conduct of a clinical trial
+
+Amendments may be made to the conduct of a clinical trial following the procedure described hereinafter:
+
+(a) after the commencement of the clinical trial, the sponsor may make amendments to the protocol. If those amendments are substantial and are likely to have an impact on the safety of the trial subjects or to change the interpretation of the scientific documents in support of the conduct of the trial, or if they are otherwise significant, the sponsor shall notify the competent authorities of the Member State or Member States concerned of the reasons for, and content of, these amendments and shall inform the ethics committee or committees concerned in accordance with Articles 6 and 9.
+
+On the basis of the details referred to in Article 6(3) and in accordance with Article 7, the Ethics Committee shall give an opinion within a maximum of 35 days of the date of receipt of the proposed amendment in good and due form. If this opinion is unfavourable, the sponsor may not implement the amendment to the protocol.
+
+If the opinion of the Ethics Committee is favourable and the competent authorities of the Member States have raised no grounds for non-acceptance of the abovementioned substantial amendments, the sponsor shall proceed to conduct the clinical trial following the amended protocol. Should this not be the case, the sponsor shall either take account of the grounds for non-acceptance and adapt the proposed amendment to the protocol accordingly or withdraw the proposed amendment;
+
+(b) without prejudice to point (a), in the light of the circumstances, notably the occurrence of any new event relating to the conduct of the trial or the development of the investigational medicinal product where that new event is likely to affect the safety of the subjects, the sponsor and the investigator shall take appropriate urgent safety measures to protect the subjects against any immediate hazard. The sponsor shall forthwith inform the competent authorities of those new events and the measures taken and shall ensure that the Ethics Committee is notified at the same time;
+
+(c) within 90 days of the end of a clinical trial the sponsor shall notify the competent authorities of the Member State or Member States concerned and the Ethics Committee that the clinical trial has ended. If the trial has to be terminated early, this period shall be reduced to 15 days and the reasons clearly explained.
+
+## Article 11 — Exchange of information
+
+1\. Member States in whose territory the clinical trial takes place shall enter in a European database, accessible only to the competent authorities of the Member States, the Agency and the Commission:
+
+(a) extracts from the request for authorisation referred to in Article 9(2);
+
+(b) any amendments made to the request, as provided for in Article 9(3);
+
+(c) any amendments made to the protocol, as provided for in point a of Article 10;
+
+(d) the favourable opinion of the Ethics Committee;
+
+(e) the declaration of the end of the clinical trial; and
+
+(f) a reference to the inspections carried out on conformity with good clinical practice.
+
+2\. At the substantiated request of any Member State, the Agency or the Commission, the competent authority to which the request for authorisation was submitted shall supply all further information concerning the clinical trial in question other than the data already in the European database.
+
+3\. In consultation with the Member States, the Commission shall draw up and publish detailed guidance on the relevant data to be included in this European database, which it operates with the assistance of the Agency, as well as the methods for electronic communication of the data. The detailed guidance thus drawn up shall ensure that the confidentiality of the data is strictly observed.
+
+4\. By way of derogation from paragraph 1, the Agency shall make public part of the information on paediatric clinical trials entered in the European database in accordance with the provisions of Regulation (EC) No 1901/2006 of the European Parliament and of the Council of 12 December 2006 on medicinal products for paediatric use ( 3 ).
+
+## Article 12 — Suspension of the trial or infringements
+
+1\. Where a Member State has objective grounds for considering that the conditions in the request for authorisation referred to in Article 9(2) are no longer met or has information raising doubts about the safety or scientific validity of the clinical trial, it may suspend or prohibit the clinical trial and shall notify the sponsor thereof.
+
+Before the Member State reaches its decision it shall, except where there is imminent risk, ask the sponsor and/or the investigator for their opinion, to be delivered within one week.
+
+In this case, the competent authority concerned shall forthwith inform the other competent authorities, the Ethics Committee concerned, the Agency and the Commission of its decision to suspend or prohibit the trial and of the reasons for the decision.
+
+2\. Where a competent authority has objective grounds for considering that the sponsor or the investigator or any other person involved in the conduct of the trial no longer meets the obligations laid down, it shall forthwith inform him thereof, indicating the course of action which he must take to remedy this state of affairs. The competent authority concerned shall forthwith inform the Ethics Committee, the other competent authorities and the Commission of this course of action.
+
+## Article 13 — Manufacture and import of investigational medicinal products
+
+1\. Member States shall take all appropriate measures to ensure that the manufacture or importation of investigational medicinal products is subject to the holding of authorisation.
+
+The Commission shall lay down the minimum requirements which the applicant and, subsequently, the holder of the authorisation must meet in order to obtain the authorisation.
+
+Those measures, designed to amend non-essential elements of this Directive, by supplementing it, shall be adopted in accordance with the regulatory procedure with scrutiny referred to in Article 21(3).
+
+By way of derogation from the first subparagraph, the competent authorities of the United Kingdom in respect of Northern Ireland and, until 31 December 2024, the competent authorities of Cyprus, Ireland and Malta shall allow investigational medicinal products to be imported from parts of the United Kingdom other than Northern Ireland without such an authorisation provided that all of the following conditions are fulfilled:
+
+(a) the investigational medicinal products imported into Cyprus, Ireland, Malta or Northern Ireland have undergone certification of batch release either in the Union, as provided for in paragraph 3, point (a), or in parts of the United Kingdom other than Northern Ireland in compliance with the requirements set out in paragraph 3, point (b);
+
+(b) the investigational medicinal products are only made available to subjects in the Member State into which those investigational medicinal products are imported, or, if imported into Northern Ireland, are only made available to subjects in Northern Ireland.
+
+2\. Member States shall take all appropriate measures to ensure that the holder of the authorisation referred to in paragraph 1 has permanently and continuously at his disposal the services of at least one qualified person who, in accordance with the conditions laid down in Article 23 of the second Council Directive 75/319/EEC of 20 May 1975 on the approximation of provisions laid down by law, regulation or administrative action relating to proprietary medicinal products ( 4 ), is responsible in particular for carrying out the duties specified in paragraph 3 of this Article.
+
+3\. Member States shall take all appropriate measures to ensure that the qualified person referred to in Article 21 of Directive 75/319/EEC, without prejudice to his relationship with the manufacturer or importer, is responsible, in the context of the procedures referred to in Article 25 of the said Directive, for ensuring:
+
+(a) in the case of investigational medicinal products manufactured in the Member State concerned, that each batch of medicinal products has been manufactured and checked in compliance with the requirements of Commission Directive 91/356/EEC of 13 June 1991 laying down the principles and guidelines of good manufacturing practice for medicinal products for human use ( 5 ), the product specification file and the information notified pursuant to Article 9(2) of this Directive;
+
+(b) in the case of investigational medicinal products manufactured in a third country, that each production batch has been manufactured and checked in accordance with standards of good manufacturing practice at least equivalent to those laid down in Commission Directive 91/356/EEC, in accordance with the product specification file, and that each production batch has been checked in accordance with the information notified pursuant to Article 9(2) of this Directive;
+
+(c) in the case of an investigational medicinal product which is a comparator product from a third country, and which has a marketing authorisation, where the documentation certifying that each production batch has been manufactured in conditions at least equivalent to the standards of good manufacturing practice referred to above cannot be obtained, that each production batch has undergone all relevant analyses, tests or checks necessary to confirm its quality in accordance with the information notified pursuant to Article 9(2) of this Directive.
+
+Detailed guidance on the elements to be taken into account when evaluating products with the object of releasing batches within the Community shall be drawn up pursuant to the good manufacturing practice guidelines, and in particular Annex 13 to the said guidelines. Such guidelines will be adopted in accordance with the procedure referred to in Article 21(2) of this Directive and published in accordance with Article 19a of Directive 75/319/EEC.
+
+Insofar as the provisions laid down in (a), (b) or (c) are complied with, investigational medicinal products shall not have to undergo any further checks if they are imported into another Member State together with batch release certification signed by the qualified person.
+
+4\. In all cases, the qualified person must certify in a register or equivalent document that each production batch satisfies the provisions of this Article. The said register or equivalent document shall be kept up to date as operations are carried out and shall remain at the disposal of the agents of the competent authority for the period specified in the provisions of the Member States concerned. This period shall in any event be not less than five years.
+
+5\. Any person engaging in activities as the qualified person referred to in Article 21 of Directive 75/319/EEC as regards investigational medicinal products at the time when this Directive is applied in the Member State where that person is, but without complying with the conditions laid down in Articles 23 and 24 of that Directive, shall be authorised to continue those activities in the Member State concerned.
+
+## Article 14 — Labelling
+
+The particulars to appear in at least the official language(s) of the Member State on the outer packaging of investigational medicinal products or, where there is no outer packaging, on the immediate packaging, shall be published by the Commission in the good manufacturing practice guidelines on investigational medicinal products adopted in accordance with Article 19a of Directive 75/319/EEC.
+
+In addition, these guidelines shall lay down adapted provisions relating to labelling for investigational medicinal products intended for clinical trials with the following characteristics:
+
+— the planning of the trial does not require particular manufacturing or packaging processes;
+
+— the trial is conducted with medicinal products with, in the Member States concerned by the study, a marketing authorisation within the meaning of Directive 65/65/EEC, manufactured or imported in accordance with the provisions of Directive 75/319/EEC;
+
+— the patients participating in the trial have the same characteristics as those covered by the indication specified in the abovementioned authorisation.
+
+## Article 15 — Verification of compliance of investigational medicinal products with good clinical and manufacturing practice
+
+1\. To verify compliance with the provisions on good clinical and manufacturing practice, Member States shall appoint inspectors to inspect the sites concerned by any clinical trial conducted, particularly the trial site or sites, the manufacturing site of the investigational medicinal product, any laboratory used for analyses in the clinical trial and/or the sponsor's premises.
+
+The inspections shall be conducted by the competent authority of the Member State concerned, which shall inform the Agency; they shall be carried out on behalf of the Community and the results shall be recognised by all the other Member States. These inspections shall be coordinated by the Agency, within the framework of its powers as provided for in Regulation (EEC) No 2309/93. A Member State may request assistance from another Member State in this matter.
+
+2\. Following inspection, an inspection report shall be prepared. It must be made available to the sponsor while safeguarding confidential aspects. It may be made available to the other Member States, to the Ethics Committee and to the Agency, at their reasoned request.
+
+3\. At the request of the Agency, within the framework of its powers as provided for in Regulation (EEC) No 2309/93, or of one of the Member States concerned, and following consultation with the Member States concerned, the Commission may request a new inspection should verification of compliance with this Directive reveal differences between Member States.
+
+4\. Subject to any arrangements which may have been concluded between the Community and third countries, the Commission, upon receipt of a reasoned request from a Member State or on its own initiative, or a Member State may propose that the trial site and/or the sponsor's premises and/or the manufacturer established in a third country undergo an inspection. The inspection shall be carried out by duly qualified Community inspectors.
+
+5\. The detailed guidelines on the documentation relating to the clinical trial, which shall constitute the master file on the trial, archiving, qualifications of inspectors and inspection procedures to verify compliance of the clinical trial in question with this Directive shall be adopted and revised in accordance with the procedure referred to in Article 21(2).
+
+## Article 16 — Notification of adverse events
+
+1\. The investigator shall report all serious adverse events immediately to the sponsor except for those that the protocol or investigator's brochure identifies as not requiring immediate reporting. The immediate report shall be followed by detailed, written reports. The immediate and follow-up reports shall identify subjects by unique code numbers assigned to the latter.
+
+2\. Adverse events and/or laboratory abnormalities identified in the protocol as critical to safety evaluations shall be reported to the sponsor according to the reporting requirements and within the time periods specified in the protocol.
+
+3\. For reported deaths of a subject, the investigator shall supply the sponsor and the Ethics Committee with any additional information requested.
+
+4\. The sponsor shall keep detailed records of all adverse events which are reported to him by the investigator or investigators. These records shall be submitted to the Member States in whose territory the clinical trial is being conducted, if they so request.
+
+## Article 17 — Notification of serious adverse reactions
+
+1.
+
+(a) The sponsor shall ensure that all relevant information about suspected serious unexpected adverse reactions that are fatal or life-threatening is recorded and reported as soon as possible to the competent authorities in all the Member States concerned, and to the Ethics Committee, and in any case no later than seven days after knowledge by the sponsor of such a case, and that relevant follow-up information is subsequently communicated within an additional eight days.
+
+(b) All other suspected serious unexpected adverse reactions shall be reported to the competent authorities concerned and to the Ethics Committee concerned as soon as possible but within a maximum of fifteen days of first knowledge by the sponsor.
+
+(c) Each Member State shall ensure that all suspected unexpected serious adverse reactions to an investigational medicinal product which are brought to its attention are recorded.
+
+(d) The sponsor shall also inform all investigators.
+
+2\. Once a year throughout the clinical trial, the sponsor shall provide the Member States in whose territory the clinical trial is being conducted and the Ethics Committee with a listing of all suspected serious adverse reactions which have occurred over this period and a report of the subjects' safety.
+
+3.
+
+(a) Each Member State shall see to it that all suspected unexpected serious adverse reactions to an investigational medicinal product which are brought to its attention are immediately entered in a European database to which, in accordance with Article 11(1), only the competent authorities of the Member States, the Agency and the Commission shall have access.
+
+(b) The Agency shall make the information notified by the sponsor available to the competent authorities of the Member States.
+
+## Article 18 — Guidance concerning reports
+
+The Commission, in consultation with the Agency, Member States and interested parties, shall draw up and publish detailed guidance on the collection, verification and presentation of adverse event/reaction reports, together with decoding procedures for unexpected serious adverse reactions.
+
+## Article 19 — General provisions
+
+This Directive is without prejudice to the civil and criminal liability of the sponsor or the investigator. To this end, the sponsor or a legal representative of the sponsor must be established in the Community.
+
+Unless Member States have established precise conditions for exceptional circumstances, investigational medicinal products and, as the case may be, the devices used for their administration shall be made available free of charge by the sponsor.
+
+The Member States shall inform the Commission of such conditions.
+
+## Article 20
+
+The Commission shall adapt this Directive to take account of scientific and technical progress.
+
+Those measures, designed to amend non-essential elements of this Directive, shall be adopted in accordance with the regulatory procedure with scrutiny referred to in Article 21(3).
+
+## Article 21
+
+1\. The Commission shall be assisted by the Standing Committee on Medicinal Products for Human Use, referred to in Article 121(1) of Directive 2001/83/EC of the European Parliament and of the Council of 6 November 2001 on the Community Code relating to medicinal products for human use ( 6 ).
+
+2\. Where reference is made to this paragraph, Articles 5 and 7 of Decision 1999/468/EC shall apply, having regard to the provisions of Article 8 thereof.
+
+The period referred to in Article 5(6) of Decision 1999/468/EC shall be set at three months.
+
+3\. Where reference is made to this paragraph, Article 5a(1) to (4) and Article 7 of Decision 1999/468/EC shall apply, having regard to the provisions of Article 8 thereof.
+
+## Article 22 — Application
+
+1\. Member States shall adopt and publish before 1 May 2003 the laws, regulations and administrative provisions necessary to comply with this Directive. They shall forthwith inform the Commission thereof.
+
+They shall apply these provisions at the latest with effect from 1 May 2004.
+
+When Member States adopt these provisions, they shall contain a reference to this Directive or shall be accompanied by such reference on the occasion of their official publication. The methods of making such reference shall be laid down by Member States.
+
+2\. Member States shall communicate to the Commission the text of the provisions of national law which they adopt in the field governed by this Directive.
+
+## Article 23 — Entry into force
+
+This Directive shall enter into force on the day of its publication in the Official Journal of the European Communities.
+
+## Article 24 — Addressees
+
+This Directive is addressed to the Member States.
+
+( 1 ) OJ L 117, 8.5.1990, p. 1. Directive as last amended by Directive 98/81/EC (OJ L 330, 5.12.1998, p. 13).
+
+( 2 ) OJ L 117, 8.5.1990, p. 15. Directive as last amended by Commission Directive 97/35/EC (OJ L 169, 27.6.1997, p. 72).
+
+( 3 ) OJ L 378, 27.12.2006, p. 1.
+
+( 4 ) OJ L 147, 9.6.1975, p. 13. Directive as last amended by Council Directive 93/39/EC (OJ L 214, 24.8.1993, p. 22).
+
+( 5 ) OJ L 193, 17.7.1991, p. 30.
+
+( 6 ) OJ L 311, 28.11.2001, p. 67.

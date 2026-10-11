@@ -1,0 +1,931 @@
+---
+title: "Council Directive 2003/96/EC of 27 October 2003 restructuring the Community framework for the taxation of energy products and electricity (Text with EEA relevance)"
+identifier: "32003L0096"
+eli: "http://data.europa.eu/eli/dir/2003/96/oj"
+type: directive
+jurisdiction: eu
+language: en
+date: 2003-10-27
+entry_into_force: 2003-08-18
+last_amended: 2023-01-10
+consolidated_version: "02003L0096-20230110"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02003L0096-20230110"
+retrieved: 2026-10-11
+---
+
+# Council Directive 2003/96/EC of 27 October 2003 restructuring the Community framework for the taxation of energy products and electricity (Text with EEA relevance)
+
+**COUNCIL DIRECTIVE 2003/96/EC**
+
+**of 27 October 2003**
+
+**restructuring the Community framework for the taxation of energy products and electricity**
+
+**(Text with EEA relevance)**
+
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> COUNCIL DIRECTIVE 2004/74/EC of 29 April 2004 </td><td> L 157</td><td>87</td><td>30.4.2004</td></tr>
+<tr><td></td><td> COUNCIL DIRECTIVE 2004/75/EC of 29 April 2004 </td><td> L 157</td><td>100</td><td>30.4.2004</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING DECISION (EU) 2018/552 of 6 April 2018 </td><td> L 91</td><td>27</td><td>9.4.2018</td></tr>
+<tr><td> M4</td><td> COMMISSION IMPLEMENTING DECISION (EU) 2022/2521 of 20 December 2022 </td><td> L 326</td><td>57</td><td>21.12.2022</td></tr>
+
+**COUNCIL DIRECTIVE 2003/96/EC**
+
+**of 27 October 2003**
+
+**restructuring the Community framework for the taxation of energy products and electricity**
+
+**(Text with EEA relevance)**
+
+## Article 1
+
+Member States shall impose taxation on energy products and electricity in accordance with this Directive.
+
+## Article 2
+
+1\. For the purposes of this Directive, the term ‘energy products’ shall apply to products:
+
+(a) falling within CN codes 1507 to 1518 , if these are intended for use as heating fuel or motor fuel;
+
+(b) falling within CN codes 2701 , 2702 and 2704 to 2715 ;
+
+(c) falling within CN codes 2901 and 2902 ;
+
+(d) falling within CN code 2905 11 00 , which are not of synthetic origin, if these are intended for use as heating fuel or motor fuel;
+
+(e) falling within CN code 3403 ;
+
+(f) falling within CN code 3811 ;
+
+(g) falling within CN code 3817 ;
+
+(h) falling within CN codes 3824 99 86 , 3824 99 92 (excluding anti-rust preparations containing amines as active constituents and inorganic composite solvents and thinners for varnishes and similar products), 3824 99 93 , 3824 99 96 (excluding anti-rust preparations containing amines as active constituents and inorganic composite solvents and thinners for varnishes and similar products), 3826 00 10 and 3826 00 90  if these are intended for use as heating fuel or motor fuel.
+
+2\. This Directive shall also apply to:
+
+Electricity falling within CN code 2716 .
+
+3\. When intended for use, offered for sale or used as motor fuel or heating fuel, energy products other than those for which a level of taxation is specified in this Directive shall be taxed according to use, at the rate for the equivalent heating fuel or motor fuel.
+
+In addition to the taxable products listed in paragraph 1, any product intended for use, offered for sale or used as motor fuel, or as an additive or extender in motor fuels, shall be taxed at the rate for the equivalent motor fuel.
+
+In addition to the taxable products listed in paragraph 1, any other hydrocarbon, except for peat, intended for use, offered for sale or used for heating purposes shall be taxed at the rate for the equivalent energy product.
+
+4\. This Directive shall not apply to:
+
+(a) output taxation of heat and the taxation of products falling within CN-codes 4401 and 4402 ;
+
+(b) the following uses of energy products and electricity:
+
+— energy products used for purposes other than as motor fuels or as heating fuels,
+
+— dual use of energy products
+
+An energy product has a dual use when it is used both as heating fuel and for purposes other than as motor fuel and heating fuel. The use of energy products for chemical reduction and in electrolytic and metallurgical processes shall be regarded as dual use,
+
+— electricity used principally for the purposes of chemical reduction and in electrolytic and metallurgical processes,
+
+— electricity, when it accounts for more than 50 % of the cost of a product. ‘Cost of a product’ shall mean the addition of total purchases of goods and services plus personnel costs plus the consumption of fixed capital, at the level of the business, as defined in Article 11. This cost is calculated per unit on average. ‘Cost of electricity’ shall mean the actual purchase value of electricity or the cost of production of electricity if it is generated in the business,
+
+— mineralogical processes
+
+‘Mineralogical processes’ shall mean the processes classified in the NACE nomenclature under code DI 26 ‘manufacture of other non-metallic mineral products’ in Council Regulation (EEC) No 3037/90 of 9 October 1990 on the statistical classification of economic activities in the European Community ( 1 ).
+
+However, Article 20 shall apply to these energy products.
+
+5\. References in this Directive to codes of the combined nomenclature shall be to those of Commission Regulation (EC) No 2031/2001 of 6 August 2001, amending Annex I to Council Regulation (EEC) No 2658/87 on the tariff and statistical nomenclature and on the Common Customs Tariff ( 2 ).
+
+A Decision to update the codes of the combined nomenclature for the products referred to in this Directive shall be taken once every year in accordance with the procedure laid down in Article 27. The Decision must not result in any changes in the minimum tax rates applied in this Directive or to the addition or removal of any energy products and electricity.
+
+## Article 3
+
+References in Directive 92/12/EEC to ‘mineral oils’ and ‘excise duty’, insofar as it applies to mineral oils, shall be interpreted as covering all energy products, electricity and national indirect taxes referred to respectively in Articles 2 and 4(2) of this Directive.
+
+## Article 4
+
+1\. The levels of taxation which Member States shall apply to the energy products and electricity listed in Article 2 may not be less than the minimum levels of taxation prescribed by this Directive.
+
+2\. For the purpose of this Directive ‘level of taxation’ is the total charge levied in respect of all indirect taxes (except VAT) calculated directly or indirectly on the quantity of energy products and electricity at the time of release for consumption.
+
+## Article 5
+
+Provided that they respect the minimum levels of taxation prescribed by this Directive and that they are compatible with Community law, differentiated rates of taxation may be applied by Member States, under fiscal control, in the following cases:
+
+— when the differentiated rates are directly linked to product quality;
+
+— when the differentiated rates depend on quantitative consumption levels for electricity and energy products used for heating purposes;
+
+— for the following uses: local public passenger transport (including taxis), waste collection, armed forces and public administration, disabled people, ambulances;
+
+— between business and non-business use, for energy products and electricity referred to in Articles 9 and 10.
+
+## Article 6
+
+Member States shall be free to give effect to the exemptions or reductions in the level of taxation prescribed by this Directive either:
+
+(a) directly,
+
+(b) by means of a differentiated rate,
+
+or
+
+(c) by refunding all or part of the amount of taxation.
+
+## Article 7
+
+1\. As from 1 January 2004 and from 1 January 2010, the minimum levels of taxation applicable to motor fuels shall be fixed as set out in Annex I Table A.
+
+Not later than 1 January 2012, the Council, acting unanimously after consulting the European Parliament, shall, on the basis of a report and a proposal from the Commission, decide upon the minimum levels of taxation applicable to gas oil for a further period beginning on 1 January 2013.
+
+2\. Member States may differentiate between commercial and non-commercial use of gas oil used as propellant, provided that the Community minimum levels are observed and the rate for commercial gas oil used as propellant does not fall below the national level of taxation in force on 1 January 2003, notwithstanding any derogations for this use laid down in this Directive.
+
+3\. ‘Commercial gas oil used as propellant’ shall mean gas oil used as propellant for the following purposes:
+
+(a) the carriage of goods for hire or reward, or on own account, by motor vehicles or articulated vehicle combinations intended exclusively for the carriage of goods by road and with a maximum permissible gross laden weight of not less than 7,5 tonnes;
+
+(b) the carriage of passengers, whether by regular or occasional service, by a motor vehicle of category M2 or category M3, as defined in Council Directive 70/156/EEC of 6 February 1970 on the approximation of the laws of the Member States relating to the type-approval of motor vehicles and their trailers ( 3 ).
+
+4\. Notwithstanding paragraph 2, Member States which introduce a system of road user charges for motor vehicles or articulated vehicle combinations intended exclusively for the carriage of goods by road may apply a reduced rate on gas oil used by such vehicles, that goes below the national level of taxation in force on 1 January 2003, as long as the overall tax burden remains broadly equivalent, provided that the Community minimum levels are observed and that the national level of taxation in force on 1 January 2003 for gas oil used as propellant is at least twice as high as the minimum level of taxation applicable on 1 January 2004.
+
+## Article 8
+
+1\. As from 1 January 2004, notwithstanding Article 7, the minimum levels of taxation applicable to products used as motor fuel for the purposes set out in paragraph 2 shall be fixed as set out in Annex I Table B.
+
+2\. This Article shall apply to the following industrial and commercial purposes:
+
+(a) agricultural, horticultural or piscicultural works, and in forestry;
+
+(b) stationary motors;
+
+(c) plant and machinery used in construction, civil engineering and public works;
+
+(d) vehicles intended for use off the public roadway or which have not been granted authorisation for use mainly on the public roadway.
+
+## Article 9
+
+1\. As from 1 January 2004, the minimum levels of taxation applicable to heating fuels shall be fixed as set out in Annex I Table C.
+
+2\. Member States, which on 1 January 2003 are authorised to apply a monitoring charge for heating gas oil, may continue to apply a reduced rate of EUR 10 per 1 000 litres for that product. This authorisation shall be repealed on 1 January 2007 if the Council, acting unanimously on the basis of a report and a proposal from the Commission, so decides, having noted that the level of the reduced rate is too low to avoid problems of trade distortion between the Member States.
+
+## Article 10
+
+1\. As from 1 January 2004, the minimum levels of taxation applicable to electricity shall be fixed as set out in Annex I Table C.
+
+2\. Above the minimum levels of taxation referred to in paragraph 1, Member States will have the option of determining the applicable tax base provided that they respect Directive 92/12/EEC.
+
+## Article 11
+
+1\. In this Directive, ‘business use’ shall mean the use by a business entity, identified in accordance with paragraph 2, which independently carries out, in any place, the supply of goods and services, whatever the purpose or results of such economic activities.
+
+The economic activities comprise all activities of producers, traders and persons supplying services including mining and agricultural activities and activities of the professions.
+
+States, regional and local government authorities and other bodies governed by public law shall not be considered as business entities in respect of the activities or transactions in which they engage as public authorities. However, when they engage in such activities or transactions, they shall be considered as a business in respect of these activities or transactions where treatment as non-business would lead to significant distortions of competition.
+
+2\. With respect to this Directive, the business entity cannot be considered as smaller than a part of an enterprise or a legal body that from an organisational point of view constitutes an independent business, that is to say an entity capable of functioning by its own means.
+
+3\. Where mixed use takes place, taxation shall apply in proportion to each type of use, although where either the business or non-business use is insignificant, it may be treated as nil.
+
+4\. Member States may limit the scope of the reduced level of taxation for business use.
+
+## Article 12
+
+1\. Member States may express their national levels of taxation in units other than those specified in Articles 7 to 10 provided that the corresponding levels of taxation, following conversion into those units, are not below the minimum levels specified in this Directive.
+
+2\. For energy products specified in Articles 7, 8 and 9, with levels of taxation based on volumes, the volume shall be measured at a temperature of 15° C.
+
+## Article 13
+
+1\. For Member States that have not adopted the euro, the value of the euro in national currencies to be applied to the value of the levels of taxation shall be fixed once a year. The rates to be applied shall be those obtaining on the first working day of October and published in the Official Journal of the European Union and shall have effect from 1 January of the following calendar year.
+
+2\. Member States may maintain the amounts of taxation in force at the time of the annual adjustment provided for in paragraph 1 if the conversion of the amounts of the level of taxation expressed in euro would result in an increase of less than 5 % or EUR 5, whichever is the lower amount, in the level of taxation expressed in national currency.
+
+## Article 14
+
+1\. In addition to the general provisions set out in Directive 92/12/EEC on exempt uses of taxable products, and without prejudice to other Community provisions, Member States shall exempt the following from taxation under conditions which they shall lay down for the purpose of ensuring the correct and straightforward application of such exemptions and of preventing any evasion, avoidance or abuse:
+
+(a) energy products and electricity used to produce electricity and electricity used to maintain the ability to produce electricity. However, Member States may, for reasons of environmental policy, subject these products to taxation without having to respect the minimum levels of taxation laid down in this Directive. In such case, the taxation of these products shall not be taken into account for the purpose of satisfying the minimum level of taxation on electricity laid down in Article 10;
+
+(b) energy products supplied for use as fuel for the purpose of air navigation other than in private pleasure-flying.
+
+For the purposes of this Directive ‘private pleasure-flying’ shall mean the use of an aircraft by its owner or the natural or legal person who enjoys its use either through hire or through any other means, for other than commercial purposes and in particular other than for the carriage of passengers or goods or for the supply of services for consideration or for the purposes of public authorities.
+
+Member States may limit the scope of this exemption to supplies of jet fuel (CN code 2710 19 21 );
+
+(c) energy products supplied for use as fuel for the purposes of navigation within Community waters (including fishing), other than private pleasure craft, and electricity produced on board a craft.
+
+For the purposes of this Directive ‘private pleasure craft’ shall mean any craft used by its owner or the natural or legal person who enjoys its use either through hire or through any other means, for other than commercial purposes and in particular other than for the carriage of passengers or goods or for the supply of services for consideration or for the purposes of public authorities.
+
+2\. Member States may limit the scope of the exemptions provided for in paragraph 1(b) and (c) to international and intra-Community transport. In addition, where a Member State has entered into a bilateral agreement with another Member State, it may also waive the exemptions provided for in paragraph 1(b) and (c). In such cases, Member States may apply a level of taxation below the minimum level set out in this Directive.
+
+## Article 15
+
+1\. Without prejudice to other Community provisions, Member States may apply under fiscal control total or partial exemptions or reductions in the level of taxation to:
+
+(a) taxable products used under fiscal control in the field of pilot projects for the technological development of more environmentally-friendly products or in relation to fuels from renewable resources;
+
+(b) electricity:
+
+— of solar, wind, wave, tidal or geothermal origin;
+
+— of hydraulic origin produced in hydroelectric installations;
+
+— generated from biomass or from products produced from biomass;
+
+— generated from methane emitted by abandoned coalmines;
+
+— generated from fuel cells;
+
+(c) energy products and electricity used for combined heat and power generation;
+
+(d) electricity produced from combined heat and power generation, provided that the combined generators are environmentally friendly. Member States may apply national definitions of ‘environmentally-friendly’ (or high efficiency) cogeneration production until the Council, on the basis of a report and a proposal from the Commission, unanimously adopts a common definition;
+
+(e) energy products and electricity used for the carriage of goods and passengers by rail, metro, tram and trolley bus;
+
+(f) energy products supplied for use as fuel for navigation on inland waterways (including fishing) other than in private pleasure craft, and electricity produced on board a craft;
+
+(g) natural gas in Member States in which the share of natural gas in final energy consumption was less than 15 % in 2000;
+
+The total or partial exemptions or reductions may apply for a maximum period of ten years after the entry into force of this Directive or until the national share of natural gas in final energy consumption reaches 25 %, whichever is the sooner. However, as soon as the national share of natural gas in final energy consumption reaches 20 %, the Member States concerned shall apply a strictly positive level of taxation, which shall increase on a yearly basis in order to reach at least the minimum rate at the end of the period referred to above.
+
+The United Kingdom of Great Britain and Northern Ireland may apply the total or partial exemptions or reductions for natural gas separately for Northern Ireland;
+
+(h) electricity, natural gas, coal and solid fuels used by households and/or by organisations recognised as charitable by the Member State concerned. In the case of such charitable organisations, Member States may confine the exemption or reduction to use for the purpose of non-business activities. Where mixed use takes place, taxation shall apply in proportion to each type of use. If a use is insignificant, it may be treated as nil;
+
+(i) natural gas and LPG used as propellants;
+
+(j) motor fuels used in the field of the manufacture, development, testing and maintenance of aircraft and ships;
+
+(k) motor fuels used for dredging operations in navigable waterways and in ports;
+
+(l) products falling within CN code 2705 used for heating purposes.
+
+2\. Member States may also refund to the producer some or all of the amount of tax paid by the consumer on electricity produced from products specified in paragraph 1(b).
+
+3\. Member States may apply a level of taxation down to zero to energy products and electricity used for agricultural, horticultural or piscicultural works, and in forestry.
+
+On the basis of a proposal from the Commission, the Council shall before 1 January 2008 examine if the possibility of applying a level of taxation down to zero shall be repealed.
+
+## Article 16
+
+1\. Member States may, without prejudice to paragraph 5, apply an exemption or a reduced rate of taxation under fiscal control on the taxable products referred to in Article 2 where such products are made up of, or contain, one or more of the following products:
+
+— products falling within CN codes 1507 to 1518 ;
+
+— products falling within CN codes 3824 99 55  and 3824 99 80 , 3824 99 85 , 3824 99 86 , 3824 99 92 (excluding anti-rust preparations containing amines as active constituents and inorganic composite solvents and thinners for varnishes and similar products), 3824 99 93 , 3824 99 96 (excluding anti-rust preparations containing amines as active constituents and inorganic composite solvents and thinners for varnishes and similar products), 3826 00 10 and 3826 00 90  for their components produced from biomass;
+
+— products falling within CN codes 2207 20 00 and 2905 11 00 which are not of synthetic origin;
+
+— products produced from biomass, including products falling within CN codes 4401 and 4402 .
+
+Member States may also apply a reduced rate of taxation under fiscal control on the taxable products referred to in Article 2 where such products contain water (CN codes 2201 and 2853 90 10  ).
+
+‘Biomass’ shall mean the biodegradable fraction of products, waste and residues from agriculture (including vegetal and animal substances), forestry and related industries, as well as the biodegradable fraction of industrial and municipal waste.
+
+2\. The exemption or reduction in taxation resulting from the application of the reduced rate laid down in paragraph 1 may not be greater than the amount of taxation payable on the volume of the products referred to in paragraph 1 present in the products eligible for the reduction.
+
+The levels of taxation applied by Member States on the products made up of or containing the products referred to in paragraph 1 may be lower than the minimum levels specified in Article 4.
+
+3\. The exemption or reduction in taxation applied by Member States shall be adjusted to take account of changes in raw material prices to avoid over-compensating for the extra costs involved in the manufacture of the products referred to in paragraph 1.
+
+4\. Until 31 December 2003, Member States may exempt or continue to exempt products solely or almost solely made up of the products referred to in paragraph 1.
+
+5\. The exemption or reduction provided for the products referred to in paragraph 1 may be granted under a multiannual programme by means of an authorisation issued by an administrative authority to an economic operator for more than one calendar year. The exemption or reduction authorised may not be applied for a period of more than six consecutive years. This period may be renewed.
+
+As part of a multiannual programme authorised by an administrative authority prior to 31 December 2012, Member States may apply the exemption or reduction under paragraph 1 after 31 December 2012 and until the end of the multiannual programme. The period may not be renewed.
+
+6\. Should Member States be required by Community law to comply with legally binding obligations to place on their markets a minimum proportion of the products referred to in paragraph 1, paragraphs 1 to 5 shall cease to apply as from the date when such obligations become binding on the Member States.
+
+7\. Member States shall communicate to the Commission the schedule of tax reductions or exemptions applied in accordance with this Article by 31 December 2004 and every 12 months thereafter.
+
+8\. No later than 31 December 2009, the Commission shall report to the Council on the fiscal, economic, agricultural, energy, industrial and environmental aspects of the reductions granted in accordance with this Article.
+
+## Article 17
+
+1\. Provided the minimum levels of taxation prescribed in this Directive are respected on average for each business, Member States may apply tax reductions on the consumption of energy products used for heating purposes or for the purposes of Article 8(2)(b) and (c) and on electricity in the following cases:
+
+(a) in favour of energy-intensive business
+
+An ‘energy-intensive business’ shall mean a business entity, as referred to in Article 11, where either the purchases of energy products and electricity amount to at least 3,0 % of the production value or the national energy tax payable amounts to at least 0,5 % of the added value. Within this definition, Member States may apply more restrictive concepts, including sales value, process and sector definitions.
+
+‘Purchases of energy products and electricity’ shall mean the actual cost of energy purchased or generated within the business. Only electricity, heat and energy products that are used for heating purposes or for the purposes of Article 8(2)(b) and (c) are included. All taxes are included, except deductible VAT.
+
+‘Production value’ shall mean turnover, including subsidies directly linked to the price of the product, plus or minus the changes in stocks of finished products, work in progress and goods and services purchased for resale, minus the purchases of goods and services for resale.
+
+‘Value added’ shall mean the total turnover liable to VAT including export sales minus the total purchases liable to VAT including imports.
+
+Member States, which currently apply national energy tax systems in which energy-intensive businesses are defined according to criteria other than energy costs in comparison with production value and national energy tax payable in comparison with value added, shall be allowed a transitional period until no later than 1 January 2007 to adapt to the definition set out in point (a) first subparagraph;
+
+(b) where agreements are concluded with undertakings or associations of undertakings, or where tradable permit schemes or equivalent arrangements are implemented, as far as they lead to the achievement of environmental protection objectives or to improvements in energy efficiency.
+
+2\. Notwithstanding Article 4(1), Member States may apply a level of taxation down to zero to energy products and electricity as defined in Article 2, when used by energy-intensive businesses as defined in paragraph 1 of this Article.
+
+3\. Notwithstanding Article 4(1), Member States may apply a level of taxation down to 50 % of the minimum levels in this Directive to energy products and electricity as defined in Article 2, when used by business entities as defined in Article 11, which are not energy-intensive as defined in paragraph 1 of this Article.
+
+4\. Businesses that benefit from the possibilities referred to in paragraphs 2 and 3 shall enter into the agreements, tradable permit schemes or equivalent arrangements as referred to in paragraph 1(b). The agreements, tradable permit schemes or equivalent arrangements must lead to the achievement of environmental objectives or increased energy efficiency, broadly equivalent to what would have been achieved if the standard Community minimum rates had been observed.
+
+## Article 18
+
+1\. By way of derogation from the provisions of the present Directive, the Member States specified in Annex II are authorised to continue to apply the reductions in the levels of taxation or the exemptions set out in that Annex.
+
+Subject to a prior review by the Council, on the basis of a proposal from the Commission, this authorisation shall expire on 31 December 2006 or on the date specified in Annex II.
+
+2\. Notwithstanding the periods set out in paragraphs 3 to 13   and provided that this does not significantly distort competition, Member States with difficulties in implementing the new minimum levels of taxation will be allowed a transitional period of until 1 January 2007, particularly in order to avoid jeopardising price stability.
+
+3\. The Kingdom of Spain may apply a transitional period until 1 January 2007 to adjust its national level of taxation on gas oil used as propellant to the new minimum level of EUR 302 and until 1 January 2012 to reach EUR 330. Until 31 December 2009, it may furthermore apply a special reduced rate on commercial use of gas oil used as propellant, provided that this does not result in taxation at below EUR 287 per 1 000 l and that the national levels of taxation in force on 1 January 2003 are not reduced. From 1 January 2010 until 1 January 2012, it may apply a differentiated rate on commercial use of gas oil used as propellant, provided that it does not result in taxation at below EUR 302 per 1 000 l and that the national levels of taxation in force on 1 January 2010 are not reduced. The special reduced rate on commercial use of gas oil used as propellant may also be applied for taxis until 1 January 2012. With respect to Article 7(3)(a), it may apply, until 1 January 2008, a maximum permissible gross laden weight of not less than 3,5 tonnes in the definition of commercial purposes.
+
+4\. The Republic of Austria may apply a transitional period until 1 January 2007 to adjust its national level of taxation on gas oil used as propellant to the new minimum level of EUR 302 and until 1 January 2012 to reach EUR 330. Until 31 December 2009, it may furthermore apply a special reduced rate on commercial use of gas oil used as propellant, provided that this does not result in taxation at below EUR 287 per 1 000 l and that the national levels of taxation in force on 1 January 2003 are not reduced. From 1 January 2010 until 1 January 2012, it may apply a differentiated rate on commercial use of gas oil used as propellant, provided that it does not result in taxation at below EUR 302 per 1 000 l and that the national levels of taxation in force on 1 January 2010 are not reduced.
+
+5\. The Kingdom of Belgium may apply a transitional period until 1 January 2007 to adjust its national level of taxation on gas oil used as propellant to the new minimum level of EUR 302 and until 1 January 2012 to reach EUR 330. Until 31 December 2009, it may furthermore apply a special reduced rate on commercial use of gas oil used as propellant, provided that this does not result in taxation at below EUR 287 per 1 000 l and that the national levels of taxation in force on 1 January 2003 are not reduced. From 1 January 2010 until 1 January 2012, it may apply a differentiated rate on commercial use of gas oil used as propellant, provided that it does not result in taxation at below EUR 302 per 1 000 l and that the national levels of taxation in force on 1 January 2010 are not reduced.
+
+6\. The Grand Duchy of Luxembourg may apply a transitional period until 1 January 2009 to adjust its national level of taxation on gas oil used as propellant to the new minimum level of EUR 302 and until 1 January 2012 to reach EUR 330. Until 31 December 2009, it may furthermore apply a special reduced rate on commercial use of gas oil used as propellant, provided that this does not result in taxation at below EUR 272 per 1 000 l and that the national levels of taxation in force on 1 January 2003 are not reduced. From 1 January 2010 until 1 January 2012, it may apply a differentiated rate on commercial use of gas oil used as propellant, provided that this does not result in taxation at below EUR 302 per 1 000 l and that the national levels of taxation in force on 1 January 2010 are not reduced.
+
+7\. The Portuguese Republic may apply levels of taxation on energy products and electricity consumed in the Autonomous Regions of the Azores and Madeira lower than the minimum levels of taxation laid down in this Directive in order to compensate for the transport costs incurred as a result of the insular and dispersed nature of these regions.
+
+The Portuguese Republic may apply a transitional period until 1 January 2009 to adjust its national level of taxation on gas oil used as propellant to the new minimum level of EUR 302 and until 1 January 2012 to reach EUR 330. Until 31 December 2009, it may furthermore apply a differentiated rate on commercial use of gas oil used as propellant, provided that this does not result in taxation at below EUR 272 per 1 000 l and that the national levels of taxation in force on 1 January 2003 are not reduced. From 1 January 2010 until 1 January 2012, it may apply a differentiated rate on commercial use of gas oil used as propellant, provided that this does not result in taxation at below EUR 302 per 1000 l and that the national levels of taxation in force on 1 January 2010 are not reduced. The differentiated rate on commercial use of gas oil used as propellant may also be applied for taxis until 1 January 2012. With respect to Article 7(3)(a) it may apply, until 1 January 2008, a maximum permissible gross laden weight of not less than 3,5 tonnes in the definition of commercial purposes.
+
+The Portuguese Republic may apply total or partial exemptions in the level of taxation of electricity until 1 January 2010.
+
+8\. The Hellenic Republic may apply levels of taxation up to EUR 22 per 1 000 l lower than the minimum rates laid down in this Directive on gas oil used as propellant and on petrol consumed in the departments of Lesbos, Chios, Samos, the Dodecanese and the Cyclades and on the following islands in the Aegean: Thasos, North Sporades, Samothrace and Skiros.
+
+The Hellenic Republic may apply a transitional period until 1 January 2010 to convert its current input electricity taxation system into an output taxation system and to reach the new minimum level of taxation for petrol.
+
+The Hellenic Republic may apply a transitional period until 1 January 2010 to adjust its national level of taxation on gas oil used as propellant to the new minimum level of EUR 302 per 1 000 l and until 1 January 2012 to reach EUR 330. Until 31 December 2009 it may furthermore apply a differentiated rate on commercial use of gas oil used as propellant, provided that this does not result in taxation at below EUR 264 per 1 000 l and that the national levels of taxation in force on 1 January 2003 are not reduced. From 1 January 2010 until 1 January 2012, it may apply a differentiated rate on commercial use of gas oil used as propellant, provided that this does not result in taxation at below EUR 302 per 1 000 l and that the national levels of taxation in force on 1 January 2010 are not reduced. The differentiated rate on commercial use of gas oil used as propellant may also be applied for taxis until 1 January 2012. With respect to Article 7(3)(a) it may apply, until 1 January 2008, a maximum permissible gross laden weight of not less than 3,5 tonnes in the definition of commercial purposes.
+
+9\. Ireland may apply total or partial exemptions or reductions in the level of taxation of electricity until 1 January 2008.
+
+10\. The French Republic may apply total or partial exemptions or reductions for energy products and electricity used by the State, regional and local government authorities or other bodies governed by public law, in respect of the activities or transactions in which they engage as public authorities until 1 January 2009.
+
+The French Republic may apply a transitional period until 1 January 2009 to adapt its current electricity taxation system to the provisions set out in this Directive. During this period, the global average level of the current local electricity taxation is to be taken into account to assess whether the minimum rates set out in this Directive are respected.
+
+11\. The Italian Republic may apply, until 1 January 2008, a maximum permissible gross laden weight of not less than 3,5 tonnes in the definition of commercial purposes as given in Article 7(3)(a).
+
+12\. The Federal Republic of Germany may apply, until 1 January 2008, a maximum permissible gross laden weight of 12 tonnes in the definition of commercial purposes as given in Article 7(3)(a).
+
+13\. The Kingdom of the Netherlands may apply, until 1 January 2008, a maximum permissible gross laden weight of 12 tonnes in the definition of commercial purposes as given in Article 7(3)(a).
+
+14\. Within the transitional periods established, Member States shall progressively reduce their respective gaps with respect to the new minimum levels of taxation. However, when the difference between the national level and the minimum level does not exceed 3 % of that minimum level, the Member State concerned may wait until the end of the period to adjust its national level.
+
+## Article 18a
+
+1\. By way of derogation from the provisions of the present Directive, the Member States specified in Annex III are authorised to apply the reductions in the levels of taxation or the exemptions set out in that Annex.
+
+Subject to a prior review by the Council, on the basis of a proposal from the Commission, this authorisation shall expire on 31 December 2006 or on the date specified in Annex III.
+
+2\. Notwithstanding the periods set out in paragraphs 3 to 11 and provided that this does not significantly distort competition, Member States with difficulties in implementing the new minimum levels of taxation shall be allowed a transitional period until 1 January 2007, particularly in order to avoid jeopardising price stability.
+
+3\. The Czech Republic may apply total or partial exemptions or reductions in the level of taxation of electricity, solid fuels and natural gas until 1 January 2008.
+
+4\. The Republic of Estonia may apply a transitional period until 1 January 2010 to adjust its national level of taxation on gas oil used as propellant to the new minimum level of EUR 330 per 1 000 l. However, the level of taxation on gas oil used as propellant shall be no less than EUR 245 per 1 000 l as from 1 May 2004.
+
+The Republic of Estonia may apply a transitional period until 1 January 2010 to adjust its national level of taxation on unleaded petrol used as propellant to the new minimum level of EUR 359 per 1 000 l. However, the level of taxation on unleaded petrol shall be no less than EUR 287 per 1 000 l as from 1 May 2004.
+
+The Republic of Estonia may apply a total exemption from taxation of oil shale until 1 January 2009. Until 1 January 2013, it may furthermore apply a reduced rate in the level of taxation of oil shale, provided that it does not result in taxation at below 50 % of the relevant Community minimum rate as from 1 January 2011.
+
+The Republic of Estonia may apply a transitional period until 1 January 2010 to adjust its national level of taxation on shale oil used for district heating purposes to the minimum level of taxation.
+
+The Republic of Estonia may apply a transitional period until 1 January 2010 to convert its current input electricity taxation system into an output electricity taxation system.
+
+5\. The Republic of Latvia may apply a transitional period until 1 January 2011 to adjust its national level of taxation on gas oil and kerosene used as propellant to the new minimum level of EUR 302 per 1 000 l and until 1 January 2013 to reach EUR 330 . However, the level of taxation on gas oil and kerosene shall be no less than EUR 245 per 1 000 l as from 1 May 2004 and no less than EUR 274 per 1 000 l as from 1 January 2008.
+
+The Republic of Latvia may apply a transitional period until 1 January 2011 to adjust its national level of taxation on unleaded petrol used as propellant to the new minimum level of EUR 359 per 1 000 l. However, the level of taxation on unleaded petrol cannot be less than EUR 287 per 1 000 l as from 1 May 2004 and no less than EUR 323 per 1 000 l as from 1 January 2008.
+
+The Republic of Latvia may apply a transitional period until 1 January 2010 to adjust its national level of taxation on heavy fuel oil used for district heating purposes to the minimum level of taxation.
+
+The Republic of Latvia may apply a transitional period until 1 January 2010 to adjust its national level of taxation on electricity to the relevant minimum levels of taxation. However, the level of taxation on electricity shall be no less than 50 % of the relevant Community minimum rates as from 1 January 2007.
+
+The Republic of Latvia may apply a transitional period until 1 January 2009 to adjust its national level of taxation on coal and coke to the relevant minimum levels of taxation. However, the level of taxation on coal and coke shall be no less than 50 % of the relevant Community minimum rates as from 1 January 2007.
+
+6\. The Republic of Lithuania may apply a transitional period until 1 January 2011 to adjust its national level of taxation on gas oil and kerosene used as propellant to the new minimum level of EUR 302 per 1 000 l and until 1 January 2013 to reach EUR 330 . However, the level of taxation on gas oil and kerosene shall be no less than EUR 245 per 1 000 l as from 1 May 2004 and no less than EUR 274 per 1 000 l as from 1 January 2008.
+
+The Republic of Lithuania may apply a transitional period until 1 January 2011 to adjust its national level of taxation on unleaded petrol used as propellant to the new minimum level of EUR 359 per 1 000 l. However, the level of taxation on unleaded petrol shall be no less than EUR 287 per 1 000 l as from 1 May 2004 and no less than EUR 323 per 1 000 l as from 1 January 2008.
+
+7\. The Republic of Hungary may apply a transitional period until 1 January 2010 to adjust its national level of taxation on electricity, natural gas, coal and coke, used for district heating purposes, to the relevant minimum levels of taxation.
+
+8\. The Republic of Malta may apply a transitional period until 1 January 2010 to adjust its national level of taxation on electricity. However, the levels of taxation on electricity shall be no less than 50 % of the relevant Community minimum rates as from 1 January 2007.
+
+The Republic of Malta may apply a transitional period until 1 January 2010 to adjust its national level of taxation on gas oil and kerosene used as propellant to the minimum levels of EUR 330 per 1 000 l. However, the levels of taxation on gas oil and kerosene used as propellant shall be no less than EUR 245 per 1 000 l as from 1 May 2004.
+
+The Republic of Malta may apply a transitional period until 1 January 2010 to adjust its national level of taxation on unleaded petrol and leaded petrol used as propellant to the relevant minimum levels of taxation. However, the levels of taxation on unleaded petrol and leaded petrol shall be no less than EUR 287 per 1 000 l and EUR 337 per 1 000 l respectively as from 1 May 2004.
+
+The Republic of Malta may apply a transitional period until 1 January 2010 to adjust its national level of taxation on natural gas used as heating fuel to the relevant minimum levels of taxation. However, the effective tax rates applied to natural gas shall be no less than 50 % of the relevant Community minimum rates as from 1 January 2007.
+
+The Republic of Malta may apply a transitional period until 1 January 2009 to adjust its national level of taxation on solid fuel to the relevant minimum levels of taxation. However, the effective tax rates applied to the energy products concerned shall be no less than 50 % of the relevant Community minimum rates as from 1 January 2007.
+
+9\. The Republic of Poland may apply a transitional period until 1 January 2009 to adjust its national level of taxation on unleaded petrol used as propellant to the new minimum level of EUR 359 per 1 000 l. However, the level of taxation on unleaded petrol shall be no less than EUR 287 per 1 000 l as from 1 May 2004.
+
+The Republic of Poland may apply a transitional period until 1 January 2010 to adjust its national level of taxation on gas oil used as propellant to the new minimum level of EUR 302 per 1 000 l and until 1 January 2012 to reach EUR 330 . However, the level of taxation on gas oil shall be no less than EUR 245 per 1 000 l as from 1 May 2004 and no less than EUR 274 per 1 000 l as from 1 January 2008.
+
+The Republic of Poland may apply a transitional period until 1 January 2008 to adjust its national level of taxation on heavy fuel oil to the new minimum level of EUR 15 per 1 000 kg. However, the level of taxation on heavy fuel oil shall be no less than EUR 13 per 1 000 kg as from 1 May 2004.
+
+The Republic of Poland may apply a transitional period until 1 January 2012 to adjust its national level of taxation on coal and coke used for district heating to the relevant minimum level of taxation.
+
+The Republic of Poland may apply a transitional period until 1 January 2012 to adjust its national level of taxation on coal and coke used for heating purposes other than district heating to the relevant minimum levels of taxation.
+
+The Republic of Poland may, until 1 January 2008, apply total or partial exemptions or reductions for gas oil used as heating fuel by schools, nursery schools and other public utilities, in respect of the activities or transactions in which they engage as public authorities.
+
+The Republic of Poland may apply a transitional period until 1 January 2006 to align its electricity taxation system with the Community framework.
+
+10\. The Republic of Slovenia may apply, under fiscal control, total or partial exemption from or reduction in the level of taxation to natural gas. The total or partial exemption or reduction may apply until May 2014 or until the national share of natural gas in final energy consumption reaches 25 %, whichever is the sooner. However, as soon as the national share of natural gas in final energy consumption reaches 20 %, it shall apply a strictly positive level of taxation, which shall increase on a yearly basis in order to reach at least the minimum rate at the end of the period referred to above.
+
+11\. The Slovak Republic may apply a transitional period until 1 January 2010 to adjust its national level of taxation on electricity and natural gas used as heating fuel to the relevant minimum levels of taxation. However, the level of taxation on electricity and natural gas used as heating fuel shall be no less than 50 % of the relevant Community minimum rates as from 1 January 2007.
+
+The Slovak Republic may apply a transitional period until 1 January 2009 to adjust its national level of taxation on solid fuels to the relevant minimum levels of taxation. However, the level of taxation on solid fuels shall be no less than 50 % of the relevant Community minimum rates as from 1 January 2007.
+
+12\. Within the transitional periods established, Member States shall progressively reduce their respective gaps with regard to the new minimum levels of taxation. However, where the difference between the national level and the minimum level does not exceed 3 % of that minimum level, the Member State concerned may wait until the end of the period to adjust its national level.
+
+## Article 18b
+
+1\. Notwithstanding the periods set out in paragraph 2 and provided that this does not significantly distort competition, Member States with difficulties in implementing the new minimum levels of taxation shall be allowed a transitional period until 1 January 2007, particularly in order to avoid jeopardising price stability.
+
+2\. The Republic of Cyprus may apply a transitional period until 1 January 2008 to adjust its national level of taxation on gas oil and kerosene used as propellant to the new minimum level of EUR 302 per 1 000 l and until 1 January 2010 to reach EUR 330 . However, the level of taxation on gas oil and kerosene used as propellant shall be not less than EUR 245 per 1 000 l as from 1 May 2004.
+
+The Republic of Cyprus may apply a transitional period until 1 January 2010 to adjust its national level of taxation on unleaded petrol used as propellant to the new minimum level of EUR 359 per 1 000 l. However, the level of taxation on unleaded petrol shall be not less than EUR 287 per 1 000 l as from 1 May 2004.
+
+3\. Within the transitional periods established, Member States shall progressively reduce their respective gaps with respect to the new minimum levels of taxation. However, where the difference between the national level and the minimum level does not exceed 3 % of that minimum level, the Member State concerned may wait until the end of the period to adjust its national level.
+
+## Article 19
+
+1\. In addition to the provisions set out in the previous Articles, in particular in Articles 5, 15 and 17, the Council, acting unanimously on a proposal from the Commission, may authorise any Member State to introduce further exemptions or reductions for specific policy considerations.
+
+A Member State wishing to introduce such a measure shall inform the Commission accordingly and shall also provide the Commission with all relevant and necessary information.
+
+The Commission shall examine the request, taking into account, inter alia, the proper functioning of the internal market, the need to ensure fair competition and Community health, environment, energy and transport policies.
+
+Within three months of receiving all relevant and necessary information, the Commission shall either present a proposal for the authorisation of such a measure by the Council or, alternatively, shall inform the Council of the reasons why it has not proposed the authorisation of such a measure.
+
+2\. The authorisations referred to in paragraph 1 shall be granted for a maximum period of 6 years, with the possibility of renewal in accordance with the procedure set out in paragraph 1.
+
+3\. If the Commission considers that the exemptions or reductions provided for in paragraph 1 are no longer sustainable, particularly in terms of fair competition or distortion of the operation of the internal market, or in terms of Community policy in the areas of health, protection of the environment, energy and transport, it shall submit appropriate proposals to the Council. The Council shall take a unanimous decision on these proposals.
+
+## Article 20
+
+1\. Only the following energy products shall be subject to the control and movement provisions of Directive 92/12/EEC:
+
+(a) products falling within CN codes 1507 to 1518 , if these are intended for use as heating fuel or motor fuel;
+
+(b) products falling within CN codes 2707 10 , 2707 20 , 2707 30 and 2707 50 ;
+
+(c) products falling within CN codes 2710 12 to 2710 19 68 and 2710 20 to 2710 20 39 and 2710 20 90 (only for products of which less than 90 % by volume (including losses) distils at 210 °C and 65 % or more by volume (including losses) distils at 250 °C by the ISO 3405 method (equivalent to the ASTM D 86 method))  . However, for products falling within CN codes 2710 12 21  , 2710 12 25  and 2710 19 29 and 2710 20 90 (only for products of which less than 90 % by volume (including losses) distils at 210 °C and 65 % or more by volume (including losses) distils at 250 °C by the ISO 3405 method (equivalent to the ASTM D 86 method))  , the control and movement provisions shall only apply to bulk commercial movements;
+
+(d) products falling within CN codes 2711 (except 2711 11 , 2711 21 and 2711 29 );
+
+(e) products falling within CN code 2901 10 ;
+
+(f) products falling within CN codes 2902 20 , 2902 30 , 2902 41 , 2902 42 , 2902 43 and 2902 44 ;
+
+(g) products falling within CN code 2905 11 00 , which are not of synthetic origin, if these are intended for use as heating fuel or motor fuel;
+
+(h) products falling within CN codes 3824 99 86 , 3824 99 92 (excluding anti-rust preparations containing amines as active constituents and inorganic composite solvents and thinners for varnishes and similar products), 3824 99 93 , 3824 99 96 (excluding anti-rust preparations containing amines as active constituents and inorganic composite solvents and thinners for varnishes and similar products), 3826 00 10 and 3826 00 90  if these are intended for use as heating fuel or motor fuel.
+
+2\. If a Member State finds that energy products other than those referred to in paragraph 1 are intended for use, offered for sale or used as heating fuel, motor fuel or are otherwise giving rise to evasion, avoidance or abuse, it shall advise the Commission forthwith. This provision shall also apply for electricity. The Commission shall transmit the communication to the other Member States within one month of receipt. A Decision as to whether the products in question should be made subject to the control and movement provisions of Directive 92/12/EEC shall then be taken in accordance with the procedure laid down in Article 27(2).
+
+3\. Member States may, pursuant to bilateral arrangements, dispense with some or all of the control measures set out in Directive 92/12/EEC in respect of some or all of the products referred to in paragraph 1, insofar as they are not covered by Articles 7 to 9 of this Directive. Such arrangements shall not affect Member States which are not party to them. All such bilateral arrangements shall be notified to the Commission, which shall inform the other Member States.
+
+## Article 21
+
+1\. In addition to the general provisions defining the chargeable event and the provisions for payment set out in Directive 92/12/EEC, the amount of taxation on energy products shall also become due on the occurrence of one of the chargeable events mentioned in Article 2(3).
+
+2\. For the purpose of this Directive, the word ‘production’ in Article 4(c) and 5(1) of Directive 92/12/EEC shall be deemed to include ‘extraction’, when appropriate.
+
+3\. The consumption of energy products within the curtilage of an establishment producing energy products shall not be considered as a chargeable event giving rise to taxation, if the consumption consist of energy products produced within the curtilage of the establishment. Member States may also consider the consumption of electricity and other energy products not produced within the curtilage of such an establishment and the consumption of energy products and electricity within the curtilage of an establishment producing fuels to be used for generation of electricity as not giving rise to a chargeable event. Where the consumption is for purposes not related to the production of energy products and in particular for the propulsion of vehicles, this shall be considered a chargeable event, giving rise to taxation.
+
+4\. Member States may also provide that taxation on energy products and electricity shall become due when it is established that a final use condition laid down in national rules for the purpose of a reduced level of taxation or exemption is not, or is no longer, fulfilled.
+
+5\. For the purpose of applying Articles 5 and 6 of Directive 92/12/EEC, electricity and natural gas shall be subject to taxation and shall become chargeable at the time of supply by the distributor or redistributor. Where the delivery to consumption takes place in a Member State where the distributor or redistributor is not established, the tax of the Member States of delivery shall be chargeable to a company that has to be registered in the Member State of delivery. Tax shall in all cases be levied and collected according to procedures laid down by each Member State.
+
+Notwithstanding the first subparagraph, Member States have the right to determine the chargeable event, in the case where there are no connections between their gas pipe lines and those of other Member States.
+
+An entity producing electricity for its own use is regarded as a distributor. Notwithstanding Article 14(1)(a), Member States may exempt small producers of electricity provided that they tax the energy products used for the production of that electricity.
+
+For the purpose of applying Articles 5 and 6 of Directive 92/12/EEC, coal, coke and lignite shall be subject to taxation and shall become chargeable at the time of delivery by companies, which have to be registered for that purpose by the relevant authorities. Those authorities may allow the producer, trader, importer or fiscal representative to substitute the registered company for the fiscal obligations imposed upon it. Tax shall be levied and collected according to procedures laid down by each Member State.
+
+6\. Member States need not treat as ‘production of energy products’:
+
+(a) operations during which small quantities of energy products are obtained incidentally;
+
+(b) operations by which the user of an energy product makes its reuse possible in his own undertaking provided that the taxation already paid on such product is not less than the taxation which would be due if the reused energy product were again to be liable to taxation;
+
+(c) an operation consisting of mixing, outside a production establishment or a tax warehouse, energy products with other energy products or other materials, provided that:
+
+(i) taxation on the components has been paid previously; and
+
+(ii) the amount paid is not less than the amount of the tax which would be chargeable on the mixture.
+
+The condition under (i) shall not apply where the mixture is exempted for a specific use.
+
+## Article 22
+
+When taxation rates are changed, stocks of energy products already released for consumption may be subject to an increase in, or a reduction of, the tax.
+
+## Article 23
+
+Member States may refund the amounts of taxation already paid on contaminated or accidentally mixed energy products sent back to a tax warehouse for recycling.
+
+## Article 24
+
+1\. Energy products released for consumption in a Member State, contained in the standard tanks of commercial motor vehicles and intended to be used as fuel by those same vehicles, as well as in special containers, and intended to be used for the operation, during the course of transport, of the systems equipping those same containers shall not be subject to taxation in any other Member State.
+
+2\. For the purposes of this Article,
+
+‘standard tanks’ shall mean:
+
+— the tanks permanently fixed by the manufacturer to all motor vehicles of the same type as the vehicle in question and whose permanent fitting enables fuel to be used directly, both the purpose of propulsion and, where appropriate, for the operation, during transport, of refrigeration systems and other systems. Gas tanks fitted to motor vehicles designed for the direct use of gas as a fuel and tanks fitted to the other systems with which the vehicle may be equipped shall also be considered to be standard tanks;
+
+— the tanks permanently fixed by the manufacturer to all containers of the same type as the container in question and whose permanent fitting enables fuel to be used directly for the operation, during transport, of the refrigeration systems and other systems with which special containers are equipped.
+
+‘Special container’ shall mean any container fitted with specially designed apparatus for refrigeration systems, oxygenation systems, thermal insulation systems or other systems.
+
+## Article 25
+
+1\. Member States shall inform the Commission of the levels of taxation which they apply to the products listed in Article 2 on 1 January each year and following each change in national law.
+
+2\. Where the levels of taxation applied by the Member States are expressed in units of measurement other than those specified for each product in Articles 7 to 10, Member States shall also notify the corresponding levels of taxation following conversion into these units.
+
+## Article 26
+
+1\. Member States shall inform the Commission of measures taken pursuant to Articles 5, 14(2), 15 and 17.
+
+2\. Measures such as tax exemptions, tax reductions, tax differentiation and tax refunds within the meaning of this Directive might constitute State aid and in those cases have to be notified to the Commission pursuant to Article 88(3) of the Treaty.
+
+Information provided to the Commission on the basis of this Directive does not free Member States from the notification obligation pursuant to Article 88(3) of the Treaty.
+
+3\. The obligation to inform the Commission pursuant to paragraph 1 of measures taken pursuant to Article 5 does not free Member States from any notification obligations pursuant to Directive 83/189/EEC.
+
+## Article 27
+
+1\. The Commission shall be assisted by the Committee on Excise Duties set up by Article 24(1) of Directive 92/12/EEC.
+
+2\. Where reference is made to this paragraph, Article 5 and 7 of Decision 1999/468/EC shall apply.
+
+The period laid down in Article 5(6) of Decision 1999/468/EC shall be set at three months.
+
+3\. The Committee shall adopt its Rules of Procedure.
+
+## Article 28
+
+1\. Member States shall adopt and publish the laws, regulations and administrative provisions necessary to comply with this Directive not later than 31 December 2003. They shall forthwith inform the Commission thereof.
+
+2\. They shall apply these provisions from 1 January 2004, except the provisions laid down in Articles 16 and 18(1), which may be applied by the Member States from 1 January 2003.
+
+3\. When Member States adopt these measures, they shall contain a reference to this Directive or shall be accompanied by such reference on the occasion of their official publication. The methods of making such reference shall be laid down by the Member States.
+
+4\. Member States shall communicate to the Commission the texts of the main provisions of national law which they adopt in the field governed by this Directive.
+
+## Article 29
+
+The Council, acting on the basis of a report and, where appropriate, a proposal from the Commission, shall periodically examine the exemptions and reductions and the minimum levels of taxation laid down in this Directive and, acting unanimously after consulting the European Parliament, shall adopt the necessary measures. The report by the Commission and the consideration by the Council shall take into account the proper functioning of the internal market, the real value of the minimum levels of taxation and the wider objectives of the Treaty.
+
+## Article 30
+
+Notwithstanding Article 28(2), Directives 92/81/EEC and 92/82/EEC shall be repealed as from 31 December 2003.
+
+References to the repealed directives shall be construed as references to this Directive.
+
+## Article 31
+
+This Directive shall enter into force on the day of its publication in the Official Journal of the European Union.
+
+## Article 32
+
+This Directive is addressed to the Member States.
+
+## ANNEX I
+
+Table A. — Minimum levels of taxation applicable to motor fuels
+
+|  | 1 January 2004 | 1 January 2010 |
+| --- | --- | --- |
+| Leaded petrol (in euro per 1 000 l) CN codes 2710 12 31  , 2710 12 51  and 2710 12 59 | 421 | 421 |
+| Unleaded petrol (in euro per 1 000 l) CN codes 2710 12 31  , 2710 12 41  , 2710 12 45  and 2710 12 49 | 359 | 359 |
+| Gas oil (in euro per 1 000 l) CN codes 2710 19 43 to 2710 19 48 and 2710 20 11 to 2710 20 19 | 302 | 330 |
+| Kerosene (in euro per 1 000 l) CN codes 2710 19 21 and 2710 19 25 | 302 | 330 |
+| LPG (in euro per 1 000 kg) CN codes 2711 12 11 to 2711 19 00 | 125 | 125 |
+| Natural gas (in euro per gigajoule gross calorific value) CN codes 2711 11 00 and 2711 21 00 | 2,6 | 2,6 |
+
+Table B. — Minimum levels of taxation applicable to motor fuels used for the purpose set out in Article 8(2)
+
+| Gas oil (in euro per 1 000 l) CN codes 2710 19 43 to 2710 19 48 and 2710 20 11 to 2710 20 19 | 21 |
+| --- | --- |
+| Kerosene (in euro per 1 000 l) CN codes 2710 19 21 and 2710 19 25 | 21 |
+| LPG (in euro per 1 000 kg) CN codes 2711 12 11 to 2711 19 00 | 41 |
+| Natural gas (in euro per gigajoule gross calorific value) CN codes 2711 11 00 and 2711 21 00 | 0,3 |
+
+Table C. — Minimum levels of taxation applicable to heating fuels and electricity
+
+|  | Business use | Non-business use |
+| --- | --- | --- |
+| Gas oil (in euro per 1 000 l) CN codes 2710 19 43 to 2710 19 48 and 2710 20 11 to 2710 20 19 | 21 | 21 |
+| Heavy fuel oil (in euro per 1 000 kg) CN codes 2710 19 62 to 2710 19 68 and 2710 20 31 to 2710 20 39 | 15 | 15 |
+| Kerosene (in euro per 1 000 l) CN codes 2710 19 21 and 2710 19 25 | 0 | 0 |
+| LPG (in euro per 1 000 kg) CN codes 2711 12 11 to 2711 19 00 | 0 | 0 |
+| Natural gas (in euro per gigajoule gross calorific value) CN codes 2711 11 00 and 2711 21 00 | 0,15 | 0,3 |
+| Coal and coke (in euro per gigajoule gross calorific value) CN codes 2701 , 2702 and 2704 | 0,15 | 0,3 |
+| Electricity (in euro per MWh) CN code 2716 | 0,5 | 1,0 |
+
+## ANNEX II — Reduced rates of taxation and exemptions from such taxation referred to in Article 18(1)
+
+**1\. BELGIUM:**
+
+— for liquid petroleum gas (LPG), natural gas and methane;
+
+— for local public passenger transport vehicles;
+
+— for air navigation other than that covered by Article 14(1)(b) of this Directive;
+
+— for navigation in private pleasure craft;
+
+— for a reduction in the rate of excise duty on heavy fuel oil to encourage the use of more environmentally friendly fuels. Such reduction shall be specifically linked to sulphur content and in no case can the reduced rate fall below EUR 6,5 per tonne;
+
+— for waste oils which are reused as fuel, either directly after recovery or following a recycling process for waste oils, and where the reuse is subject to duty;
+
+— for a differentiated rate of excise duty on low-sulphur (50 ppm) and low-aromatic (35 %) unleaded petrol;
+
+— for a differentiated rate of excise duty on low-sulphur (50 ppm) diesel.
+
+**2\. DENMARK:**
+
+— for a differentiated rate of excise duty, from 1 February 2002 to 31 January 2008, to heavy fuel oil and heating oil used by energy-intensive firms to produce heating and hot water. The maximum amount of the authorised differentiation in the excise duty is EUR 0,0095 per kg on heavy fuel oil and EUR 0,008 per litre on heating oil. The reductions in excise duty must comply with the terms of this Directive, and in particular the minimum rates;
+
+— for a reduction in the rate of duty on diesel to encourage the use of more environmentally friendly fuels, provided that such incentives are linked to established technical characteristics including specific gravity, sulphur content, distillation point, cetane number and index and provided that such rates are in accordance with the obligations laid down in this Directive;
+
+— for the application of differentiated rates of excise duty between petrol distributed from petrol stations equipped with a return system for petrol fumes and petrol distributed from other petrol stations, provided that the differentiated rates are in accordance with the obligations laid down in this Directive, and in particular the minimum rates of excise duty;
+
+— for differentiated rates of excise duties on petrol, provided that the differentiated rates are in accordance with the obligations laid down in this Directive, and in particular the minimum levels of taxation provided for in Article 7 thereof;
+
+— for local public passenger transport vehicles;
+
+— for differentiated rates of excise duties on gas oil, provided that the differentiated rates are in accordance with the obligations laid down in this Directive, and in particular the minimum levels of taxation provided for in Article 7 thereof;
+
+— for partial reimbursement to the commercial sector, provided that the taxes concerned are in conformity with Community law and provided that the amount of the tax paid and not reimbursed at all times respects the minimum rates of duty or monitoring charge on mineral oils as provided for in Community law;
+
+— for air navigation other than that covered by Article 14(1)(b) of this Directive;
+
+— for the application of a reduced rate of excise duty of a maximum of DKK 0,03 per litre on petrol distributed from petrol stations meeting more stringent standards of equipment and operation designed to reduce leakage of methyl tertiary butyl ether into ground water, provided that the differentiated rates are in accordance with the obligations laid down in this Directive, and in particular the minimum rates of excise duty.
+
+**3\. GERMANY:**
+
+— for a differentiated rate on excise duty on fuels with a maximum sulphur content of 10 ppm from 1 January 2003 until 31 December 2005;
+
+— for the use of waste hydrocarbon gases as heating fuel;
+
+— for a differentiated rate of excise duty on mineral oils used as fuel in local public passenger transport vehicles, subject to compliance with the obligations laid down in Directive 92/82/EEC;
+
+— for samples of mineral oils intended for analysis, tests on production or for other scientific purposes;
+
+— for a differentiated rate of excise duty on heating oils used by manufacturing industries, provided that the differentiated rates are in accordance with the obligations laid down in this Directive;
+
+— for waste oils which are reused as fuel, either directly after recovery or following a recycling process for waste oils, and where the reuse is subject to duty.
+
+**4\. GREECE:**
+
+— for use by national armed forces;
+
+— to grant relief from the excise duties on mineral oils for fuels intended to be used to power the official vehicles of the Ministry of the Presidency and the national police force;
+
+— for local public passenger transport vehicles;
+
+— for differentiated rates of tax on unleaded petrol to reflect different environmental categories, provided that the differentiated rates are in accordance with the obligations laid down in this Directive, and in particular the minimum levels of taxation provided for in Article 7 thereof;
+
+— for LPG and methane used for industrial purposes.
+
+**5\. SPAIN:**
+
+— for LPG used as fuel in local public transport vehicles;
+
+— for LPG used as fuel in taxis;
+
+— for differentiated rates of tax on unleaded petrol to reflect different environmental categories, provided that the differentiated rates are in accordance with the obligations laid down in this Directive, and in particular the minimum levels of taxation provided for in Article 7 thereof;
+
+— for waste oils which are reused as fuel, either directly after recovery or following a recycling process for waste oils, and where the reuse is subject to duty.
+
+**6\. FRANCE:**
+
+— for differential rates of tax on diesel used in commercial vehicles, until 1 January 2005, which cannot be less than EUR 380 per 1 000 l as from 1 March 2003;
+
+— in the framework of certain policies aimed at assisting areas suffering from depopulation;
+
+— for consumption on the island of Corsica, provided that the reduced rates at all times respect the minimum rates of duty on mineral oils as provided for under Community law;
+
+— for a differentiated rate of excise duty on a new fuel composed of a water-and-antifreeze/diesel emulsion stabilised by surfactants, provided that the differentiated rates are in accordance with the obligations laid down in this Directive, and in particular the minimum rates of excise duty;
+
+— for a differentiated rate of excise duty for premium-grade unleaded petrol containing a potassium-based additive to improve resistance to valve burn-out (or any other additive of equivalent effect);
+
+— for fuel used in taxis, within the limits of an annual quota;
+
+— for exemption from excise duty on gases used as fuel for public transport subject to an annual quota;
+
+— for an exemption from excise duties for gases used as engine fuels in gas-powered refuse collection vehicles;
+
+— for a reduction in the rate of taxation on heavy fuel oil to encourage the use of more environmentally friendly fuels; this reduction shall be specifically linked to sulphur content and the rate of duty charged on heavy fuel oil must correspond to the minimum rate of taxation on heavy fuel oil as provided for in Community law;
+
+— for an exemption for heavy fuel oil used as fuel for the production of alumina in the region of Gardanne;
+
+— for air navigation other than that covered by Article 14(1)(b) of this Directive;
+
+— for gasoline delivered from the harbours of Corsica to private pleasure craft;
+
+— for waste oils which are reused as fuel, either directly after recovery or following a recycling process for waste oils, and where the reuse is subject to duty;
+
+— for local public passenger transport vehicles until 31 December 2005;
+
+— for the granting of permits for the application of a differentiated rate of excise duty to the fuel mixture ‘petrol/ethyl alcohol derivatives whose alcohol component is of agricultural origin’ and for the application of a differentiated rate of excise duty to the fuel mixture ‘diesel/vegetable oil esters’. To allow a reduction in excise duty on blends incorporating vegetable oil esters and ethyl alcohol derivatives which are used as fuel within the meaning of this Directive, the French authorities must issue the necessary permits to the biofuel production units concerned by 31 December 2003 at the latest. The authorisations will be valid for a maximum of six years from the date of issue. The reduction specified in the authorisation may be applied after 31 December 2003 until the expiry of the authorisation. The reductions in excise duties shall not exceed EUR 35,06/hl or EUR 396,64/t for vegetable oil esters and EUR 50,23/hl or EUR 297,35/t for ethyl alcohol derivatives used in the mixtures referred to. The reductions in excise duties shall be adjusted to take account of changes in the price of raw materials to avoid overcompensating for the extra costs involved in the manufacture of biofuels. This Decision shall apply with effect from 1 November 1997. It shall expire on 31 December 2003;
+
+— for the granting of permits for the application of a differentiated rate of excise duty to the mixture ‘domestic heating fuel/vegetable oil esters’. To allow a reduction in excise duty on mixtures incorporating vegetable oil esters and used as fuel within the meaning of this Directive, the French authorities must issue the necessary permits to the biofuel production units concerned by 31 December 2003 at the latest. The authorisations will be valid for a maximum of six years from the date of issue. The reduction specified in the authorisation may be applied after 31 December 2003 until the expiry of the authorisation, but may not be extended. The reductions in excise duties shall not exceed EUR 35,06/hl or EUR 396,64/t for the vegetable oil esters used in the mixtures referred to. The reductions in excise duty shall be adjusted to take account of changes in the price of raw materials to avoid overcompensating for the extra costs involved in the manufacture of biofuels. This Decision shall apply with effect from 1 November 1997. It shall expire on 31 December 2003.
+
+**7\. IRELAND:**
+
+— for LPG, natural gas and methane used as motor fuel;
+
+— in motor vehicles used by the disabled;
+
+— for local public passenger transport vehicles;
+
+— for differentiated rates of tax on unleaded petrol to reflect different environmental categories, provided that the differentiated rates are in accordance with the obligations laid down in this Directive, and in particular the minimum levels of taxation provided for in Article 7 thereof;
+
+— for a differentiated rate of excise on low-sulphur diesel;
+
+— for the production of alumina in the Shannon region;
+
+— for air navigation other than that covered by Article 14(1)(b) of this Directive;
+
+— for navigation in private pleasure craft;
+
+— for waste oils which are reused as fuel, either directly after recovery or following a recycling process for waste oils, and where the reuse is subject to duty.
+
+**8\. ITALY:**
+
+— for differentiated rates of excise duty on mixtures used as motor fuels containing 5 % or 25 % of biodiesel until 30 June 2004. The reduction in excise duty may not be greater than the amount of excise duty payable on the volume of biofuels present in the products eligible for the reduction. The reduction in excise duty shall be adjusted to take account of changes in the price of raw materials to avoid overcompensating for the extra costs involved in the manufacture of biofuels;
+
+— for a reduction in the rate of excise duty used as fuel by road transport operators, until 1 January 2005, which cannot be less than EUR 370 per 1 000 l as from 1 January 2004;
+
+— for waste hydrocarbon gases used as fuel;
+
+— for a reduced rate of excise duty to water/diesel emulsions and water/heavy fuel oil emulsions from 1 October 2000 until 31 December 2005 provided that the reduced rate is in accordance with the obligations laid down in this Directive, and in particular with the minimum rates of excise duty;
+
+— for methane used as fuel in motor vehicles;
+
+— for the national armed forces;
+
+— for ambulances;
+
+— for local public passenger transport vehicles;
+
+— for fuel used in taxis;
+
+— in certain particularly disadvantaged geographical areas, for reduced rates of excise duty on domestic fuel and LPG used for heating and distributed through the networks of such areas, provided that the rates are in accordance with the obligations laid down in this Directive, and in particular the minimum rates of excise duty;
+
+— for consumption in the regions of Val d'Aosta and Gorizia;
+
+— for a reduction in the rate of excise duty on petrol consumed on the territory of Friuli-Venezia Giulia, provided that the rates are in accordance with the obligations laid down in this Directive, and in particular the minimum rates of excise duty;
+
+— for a reduction in the rate of excise duty on mineral oils consumed in the regions of Udine and Trieste, provided that the rates are in accordance with the obligations laid down in this Directive;
+
+— for an exemption from excise duty on mineral oils used as fuel for alumina production in Sardinia;
+
+— for a reduction in the rate of excise duty on fuel oil, for the production of steam, and for gas oil, used in ovens for drying and ‘activating’ molecular sieves in Reggio Calabria, provided that the rates are in accordance with the obligations laid down in this Directive;
+
+— for air navigation other than that covered by Article 14(1)(b) of this Directive;
+
+— for waste oils which are reused as fuel, either directly after recovery or following a recycling process for waste oils, and where the reuse is subject to duty.
+
+**9\. LUXEMBOURG:**
+
+— for LPG, natural gas and methane;
+
+— for local public passenger transport vehicles;
+
+— for a reduction in the rate of excise duty on heavy fuel oil to encourage the use of more environmentally friendly fuels. Such reduction shall be specifically linked to sulphur content and in no case can the reduced rate fall below EUR 6,5 per tonne;
+
+— for waste oils which are reused as fuel, either directly after recovery or following a recycling process for waste oils, and where the reuse is subject to duty.
+
+**10\. NETHERLANDS:**
+
+— for LPG, natural gas and methane;
+
+— for samples of mineral oils intended for analysis, tests on production or for other scientific purposes;
+
+— for use by the national armed forces;
+
+— for the application of differentiated rates of excise duty on LPG used as fuel in public transport;
+
+— for a differentiated rate of excise duty on LPG used as fuel for waste-collection, drain suction and by street-cleaning vehicles;
+
+— for a differentiated rate of excise duty on low sulphur (50 ppm) diesel to 31 December 2004;
+
+— for a differentiated rate of excise duty on low sulphur (50 ppm) petrol to 31 December 2004.
+
+**11\. AUSTRIA:**
+
+— for natural gas and methane;
+
+— for LPG used as fuel by local public transport vehicles;
+
+— for waste oils which are reused as fuel, either directly after recovery or following a recycling process for waste oils, and where the reuse is subject to duty.
+
+**12\. PORTUGAL:**
+
+— for differentiated rates of tax on unleaded petrol to reflect different environmental categories, provided that the differentiated rates are in accordance with the obligations laid down in this Directive, and in particular the minimum levels of taxation provided for in Article 7 thereof;
+
+— for exemption from excise duty on LPG, natural gas and methane used as fuel in local public passenger transport;
+
+— for a reduction in the rate of excise duty on fuel oil consumed in the autonomous region of Madeira; this reduction may not be greater than the additional costs incurred in transporting the fuel oil to that region;
+
+— for a reduction in the rate of excise duty on heavy fuel oil to encourage the use of more environmentally friendly fuels; this reduction shall be specifically linked to sulphur content and the rate of duty charged on heavy fuel oil must correspond to the minimum rate of duty on heavy fuel oil as provided for in Community law;
+
+— for air navigation other than that covered by Article 14(1)(b) of this Directive;
+
+— for waste oils which are reused as fuel, either directly after recovery or following a recycling process for waste oils, and where the reuse is subject to duty.
+
+**13\. FINLAND:**
+
+— for natural gas used as fuel;
+
+— for an exemption from excise duty for methane and LPG for all purposes;
+
+— for reduced excise duty rates on diesel fuel and heating gas oil, provided that the rates are in accordance with the obligations laid down in this Directive, and in particular the minimum levels of taxation provided for in Articles 7 to 9;
+
+— for reduced excise duty rates on reformulated unleaded and leaded petrol, provided that the rates are in accordance with the obligations laid down in this Directive, and in particular the minimum levels of taxation provided for in Article 7 thereof;
+
+— for air navigation other than that covered by Article 14(1)(b) of this Directive;
+
+— for navigation in private pleasure craft;
+
+— for waste oils which are reused as fuel, either directly after recovery or following a recycling process for waste oils, and where the reuse is subject to duty.
+
+**14\. SWEDEN:**
+
+— for reduced tax rates for diesel in accordance with environmental classifications;
+
+— for differentiated rates of tax on unleaded petrol to reflect different environmental categories, provided that the differentiated rates are in accordance with the obligations laid down in this Directive, and in particular the minimum rates of excise duty;
+
+— for a differentiated rate of energy tax to alkylate-based petrol for two-stroke engines, until 30 June 2008, provided that the total excise duty applicable comply with the terms of this Directive;
+
+— for an exemption from excise duty for biologically produced methane and other waste gases;
+
+— for a reduced rate of excise duty on mineral oils used for industrial purposes, provided that the rates are in accordance with the obligations laid down in this Directive;
+
+— for a reduced rate of excise duty on mineral oils used for industrial purposes by introducing both a rate which is lower than the standard rate and a reduced rate for energy-intensive enterprises, provided that the rates are in accordance with the obligations laid down in this Directive, and do not give rise to distortions of competition;
+
+— for air navigation other than that covered by Article 14(1)(b) of the present Directive.
+
+**15\. UNITED KINGDOM:**
+
+— for differentiated rates of excise duty for road fuel containing biodiesel and biodiesel used as pure road fuel, until 31 March 2007. Community minimum rates have to be respected and no overcompensation for the extra costs involved in the manufacture of biofuels can take place;
+
+— for LPG, natural gas and methane used as motor fuel;
+
+— for a reduction in the rate of excise duty on diesel to encourage the use of more environmentally friendly fuels;
+
+— for differentiated rates of tax on unleaded petrol to reflect different environmental categories, provided that the differentiated rates are in accordance with the obligations laid down in this Directive, and in particular the minimum levels of taxation provided for in Article 7 thereof;
+
+— for local public passenger transport vehicles;
+
+— for a differentiated rate of excise duty on water/diesel emulsion provided that the differentiated rates are in accordance with the obligations laid down in this Directive, and in particular the minimum rates of excise duty;
+
+— for air navigation other than that covered by Article 14(1)(b) of this Directive;
+
+— for navigation in private pleasure craft;
+
+— for waste oils which are reused as fuel, either directly after recovery or following a recycling process for waste oils, and where the reuse is subject to duty.
+
+## ANNEX III
+
+Reduced rates of taxation and exemptions from such taxation referred to in Article 18a(1):
+
+1\. Latvia
+
+— for energy products and electricity used in local public passenger transport vehicles;
+
+2\. Lithuania
+
+— for coal, coke and lignite, until 1 January 2007,
+
+— for natural gas and electricity, until 1 January 2010,
+
+— for orimulsion used for purposes other than to produce electricity or heat until 1 January 2010;
+
+3\. Hungary
+
+— for coal and coke, until 1 January 2009;
+
+4\. Malta
+
+— for navigation in private pleasure craft,
+
+— for air navigation other than that covered by Article 14(1)(b) of Directive 2003/96/EC;
+
+5\. Poland
+
+— for aviation fuel and turbo-combustion engine fuels and engine oils for aviation engines, sold by the producer of such fuels on the order of the Minister of National Defence or the competent minister for internal affairs, for purposes of the aviation industry, or the Agency of Material Reserves to supplement State reserves, or organisational units of sanitary aviation for purposes of such units,
+
+— gas oil for ship engines and engines for sea technology and engine oils for ship engines and for sea technology, sold by the producer of such fuel on the order of the Agency of Stock Reserves to supplement State reserves, or on the order of the Minister of National Defence to be used for purposes of the navy, or on the order of the competent minister for internal affairs to be used for sea engineering,
+
+— aviation fuel, turbo-combustion engine fuel and gas oil for ship engines and engines for sea technology and oils for aviation engines, ship engines and engines for sea technology, sold by the Agency of Stock Reserves on the order of the Minister of National Defence or the competent minister for internal affairs.
+
+( 1 ) OJ L 293, 24.10.1990, p. 1. Regulation as last amended by Commission Regulation (EC) No 29/2002 (OJ L 6, 10.1.2002, p. 3).
+
+( 2 ) OJ L 279, 23.10.2001, p. 1.
+
+( 3 ) OJ L 42, 23.2.1970, p. 1.

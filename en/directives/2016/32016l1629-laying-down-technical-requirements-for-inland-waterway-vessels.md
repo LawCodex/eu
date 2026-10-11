@@ -1,0 +1,1408 @@
+---
+title: "Directive (EU) 2016/1629 of the European Parliament and of the Council of 14 September 2016 laying down technical requirements for inland waterway vessels, amending Directive 2009/100/EC and repealing Directive 2006/87/EC"
+identifier: "32016L1629"
+eli: "http://data.europa.eu/eli/dir/2016/1629/oj"
+type: directive
+jurisdiction: eu
+language: en
+date: 2016-09-14
+entry_into_force: 2019-01-01
+last_amended: 2026-01-01
+consolidated_version: "02016L1629-20260101"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02016L1629-20260101"
+retrieved: 2026-10-11
+---
+
+# Directive (EU) 2016/1629 of the European Parliament and of the Council of 14 September 2016 laying down technical requirements for inland waterway vessels, amending Directive 2009/100/EC and repealing Directive 2006/87/EC
+
+**DIRECTIVE (EU) 2016/1629 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 14 September 2016**
+
+**laying down technical requirements for inland waterway vessels, amending Directive 2009/100/EC and repealing Directive 2006/87/EC**
+
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> COMMISSION DELEGATED DIRECTIVE (EU) 2018/970 of 18 April 2018 </td><td> L 174</td><td>15</td><td>10.7.2018</td></tr>
+<tr><td> M2</td><td> COMMISSION DELEGATED REGULATION (EU) 2019/1668 of 26 June 2019 </td><td> L 256</td><td>1</td><td>7.10.2019</td></tr>
+<tr><td> M3</td><td> COMMISSION DELEGATED REGULATION (EU) 2021/1308 of 28 April 2021 </td><td> L 284</td><td>1</td><td>9.8.2021</td></tr>
+<tr><td></td><td> COMMISSION DELEGATED REGULATION (EU) 2023/2477 of 30 August 2023 </td><td> L 2477</td><td>1</td><td>7.11.2023</td></tr>
+<tr><td></td><td> COMMISSION DELEGATED REGULATION (EU) 2025/2177 of 9 September 2025 </td><td> L 2177</td><td>1</td><td>26.11.2025</td></tr>
+
+**DIRECTIVE (EU) 2016/1629 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 14 September 2016**
+
+**laying down technical requirements for inland waterway vessels, amending Directive 2009/100/EC and repealing Directive 2006/87/EC**
+
+## CHAPTER 1 — SCOPE, DEFINITIONS AND WATERWAY ZONES
+
+### Article 1 — Subject matter
+
+This Directive establishes:
+
+(a) the technical requirements necessary to ensure the safety of craft navigating on the inland waterways referred to in Article 4; and
+
+(b) the classification of those inland waterways.
+
+### Article 2 — Scope of application
+
+1\. This Directive applies to the following craft:
+
+(a) vessels having a length (L) of 20 metres or more;
+
+(b) vessels for which the product of length (L), breadth (B) and draught (T) is a volume of 100 cubic metres or more;
+
+(c) tugs and pushers intended for towing or pushing either craft referred to in points (a) and (b) or floating equipment, or intended for moving such craft or floating equipment alongside;
+
+(d) passenger vessels;
+
+(e) floating equipment.
+
+2\. This Directive does not apply to:
+
+(a) ferries;
+
+(b) naval vessels;
+
+(c) seagoing ships, including seagoing tugs and pushers, which:
+
+(i) operate or are based on tidal waters; or
+
+(ii) operate temporarily on inland waterways;
+
+provided that they carry at least:
+
+— a certificate proving conformity with the 1974 International Convention for the Safety of Life at Sea (SOLAS), or equivalent certificate; a certificate proving conformity with the 1966 International Convention on Load Lines, or equivalent, and an international oil pollution prevention (IOPP) certificate proving conformity with the 1973/78 International Convention for the Prevention of Pollution from Ships (Marpol),
+
+— in case of seagoing ships not covered by SOLAS the 1966 International Convention on Load Lines or Marpol, the relevant certificates and the freeboard marks required by the laws of their flag states,
+
+— in the case of passenger vessels not covered by any of the Conventions referred to in the first indent, a certificate on safety rules and standards for passenger ships issued in conformity with Directive 2009/45/EC of the European Parliament and of the Council ( 1 ), or
+
+— in the case of recreational craft not covered by any of the Conventions referred to in the first indent, a certificate of the country of which it carries the flag, demonstrating an adequate level of safety.
+
+### Article 3 — Definitions
+
+For the purposes of this Directive, the following definitions apply:
+
+(a) ‘craft’ means a vessel or item of floating equipment;
+
+(b) ‘vessel’ means an inland waterway vessel or seagoing ship;
+
+(c) ‘inland waterway vessel’ means a vessel intended solely or mainly for navigation on inland waterways;
+
+(d) ‘tug’ means a vessel specially built to perform towing operations;
+
+(e) ‘pusher’ means a vessel specially built to propel a pushed convoy;
+
+(f) ‘passenger vessel’ means a day trip or cabin vessel constructed and equipped to carry more than 12 passengers;
+
+(g) ‘floating equipment’ means a floating installation carrying working gear such as cranes, dredging equipment, pile drivers or elevators;
+
+(h) ‘floating establishment’ means any floating installation not normally intended to be moved, such as a swimming bath, dock, jetty or boathouse;
+
+(i) ‘floating object’ means a raft or other structure, object or assembly capable of navigation, not being a vessel or floating equipment or establishment;
+
+(j) ‘recreational craft’ means a vessel other than a passenger vessel, intended for sport or pleasure;
+
+(k) ‘high-speed vessel’ means a motorised craft capable of reaching speeds over 40 km/h in relation to water;
+
+(l) ‘water displacement’ means the immersed volume of the vessel, in cubic metres;
+
+(m) ‘length (L)’ means the maximum length of the hull in metres, excluding rudder and bowsprit;
+
+(n) ‘breadth (B)’ means the maximum breadth of the hull in metres, measured to the outer edge of the shell plating (excluding paddle wheels, rub rails, and similar);
+
+(o) ‘draught (T)’ means the vertical distance in metres between the lowest point of the hull without taking into account the keel or other fixed attachments and the maximum draught line;
+
+(p) ‘linked inland waterways’ means waterways of a Member State connected, by inland waterways which can be navigated under national or international law by craft falling within the scope of this Directive, to inland waterways of another Member State.
+
+### Article 4 — Classification of inland waterways
+
+1\. For the purposes of this Directive, the inland waterways of the Union shall be classified as follows:
+
+(a) Zones 1, 2, 3 and 4:
+
+(i) Zones 1 and 2: the waterways listed in Chapter 1 of Annex I;
+
+(ii) Zone 3: the waterways listed in Chapter 2 of Annex I;
+
+(iii) Zone 4: all other inland waterways which can be navigated under national law by craft falling within the scope of this Directive.
+
+(b) Zone R: those of the waterways referred to in point (a) for which certificates are to be issued in accordance with Article 22 of the Revised Convention for Rhine Navigation as that Article is worded on 6 October 2016.
+
+2\. The Commission is empowered to adopt delegated acts in accordance with Article 32 concerning amendments to Annex I so as to modify the classification of a waterway, including the addition and deletion of waterways. Such amendments to Annex I may be made only on request by the Member State concerned, for waterways on its territory.
+
+## CHAPTER 2 — NAVIGATION CERTIFICATES
+
+### Article 5 — Compliance with technical and safety requirements
+
+1\. Member States shall ensure that craft referred to in Article 2(1) operating on the Union inland waterways referred to in Article 4 are constructed and maintained in accordance with the requirements set out in this Directive.
+
+2\. Compliance of a craft with paragraph 1 shall be attested by a certificate issued in accordance with this Directive.
+
+### Article 6 — Union inland navigation certificates
+
+1\. Union inland navigation certificates shall be issued by the competent authorities of the Member States in accordance with this Directive. Member States shall, upon issuance of a Union inland navigation certificate, verify that the craft in question has not already been issued a valid certificate referred to in Article 7.
+
+2\. The Union inland navigation certificate shall be drawn up in accordance with the model provided for in Annex II.
+
+3\. Each Member State shall draw up a list indicating the competent authorities for issuing the Union inland navigation certificates and shall notify the Commission thereof, including any changes to the list. The Commission shall maintain an up-to-date list of competent authorities on an appropriate website.
+
+4\. The Union inland navigation certificate shall be issued to craft following a technical inspection, carried out before the craft is put into service and intended to check whether the craft complies with the technical requirements referred to in Annexes II and V.
+
+5\. Compliance of a craft with the additional requirements referred to in Article 23(1) and (2) shall, where appropriate, be checked during the technical inspections provided for in paragraph 4 of this Article and in Article 29, or during a technical inspection carried out at the request of the owner of the craft or its representative.
+
+6\. The procedures for making a request for an inspection and for establishing the place and time of that inspection shall fall within the powers of the competent authorities issuing the Union inland navigation certificate. The competent authority shall determine which documents are to be submitted. The procedure shall take place in such a way as to ensure that the inspection may be conducted within a reasonable period following the lodging of the request.
+
+7\. The competent authorities of Member States shall, at the request of the owner of the craft or its representative, issue a Union inland navigation certificate to a craft that is not subject to this Directive, if that craft fulfils the requirements set out in this Directive.
+
+### Article 7 — Obligation to carry a certificate
+
+Craft operating on the Union inland waterways referred to in Article 4 shall carry the following original documents:
+
+(a) when operating on a Zone R waterway either:
+
+— a certificate issued pursuant to Article 22 of the Revised Convention for Rhine Navigation, or
+
+— a Union inland navigation certificate attesting to the full compliance of the craft, where applicable pursuant to the transitional provisions under Annex II to this Directive for craft navigating on the Rhine (Zone R), with technical requirements referred to in Annexes II and V to this Directive, for which equivalency with the technical requirements laid down in application of the Revised Convention for Rhine Navigation has been established in accordance with the applicable rules and procedures;
+
+(b) when operating on other waterways, a Union inland navigation certificate or a certificate issued pursuant to Article 22 of the Revised Convention for Rhine Navigation, including, where applicable, any supplementary Union inland navigation certificates in accordance with Article 8 of this Directive.
+
+### Article 8 — Supplementary Union inland navigation certificates
+
+1\. Craft carrying a valid Union inland navigation certificate or a certificate issued pursuant to Article 22 of the Revised Convention for Rhine Navigation shall be provided with a supplementary Union inland navigation certificate in accordance with Article 23 of this Directive.
+
+2\. The supplementary Union inland navigation certificate shall be drawn up in accordance with the model provided for in Annex II and shall be issued by the competent authorities under the conditions laid down for the waterways concerned.
+
+### Article 9 — Provisional Union inland navigation certificates
+
+1\. The competent authorities of Member States may issue a provisional Union inland navigation certificate:
+
+(a) to craft that intend to travel to a certain place with the permission of the competent authority in order to obtain a Union inland navigation certificate;
+
+(b) to craft whose Union inland navigation certificate has been lost, damaged or temporarily withdrawn as referred to in Articles 13 and 15 or in Annexes II and V;
+
+(c) to craft whose Union inland navigation certificate is being prepared following a successful inspection;
+
+(d) to craft which have not met all of the conditions required for obtaining a Union inland navigation certificate in accordance with Annexes II and V;
+
+(e) to craft that are so damaged that they no longer comply with their Union inland navigation certificate;
+
+(f) to floating establishments or floating objects in cases where the authorities responsible for special transport operations have made the authorisation to carry out a special transport operation subject to obtaining such a provisional Union inland navigation certificate, as provided for by the applicable navigational authority regulations of the Member States;
+
+(g) to craft benefitting from a derogation from Annexes II and V, in accordance with Articles 25 and 26 of this Directive, pending the adoption of the relevant implementing acts.
+
+2\. The provisional Union inland navigation certificate shall be issued only where the navigability of the craft, floating establishment or floating object appears to have been adequately ensured. It shall be drawn up using the model provided for in Annex II.
+
+3\. The provisional Union inland navigation certificate shall include the conditions considered necessary by the competent authority and shall be valid:
+
+(a) in the cases referred to in points (a), (d), (e) and (f) of paragraph 1, for a single specific trip to be made within a suitable period, which shall not exceed one month;
+
+(b) in the cases referred to in points (b) and (c) of paragraph 1, for an appropriate duration;
+
+(c) in the cases referred to in point (g) of paragraph 1, for six months; the provisional Union inland navigation certificate may be extended for six months at a time until the respective implementing act has been adopted.
+
+### Article 10 — Validity of Union inland navigation certificates
+
+1\. The period of validity of Union inland navigation certificates issued to newly built craft shall be determined by the competent authority and shall not exceed:
+
+(a) five years in the case of passenger and high-speed vessels;
+
+(b) 10 years in the case of all other craft.
+
+The period of validity shall be stated on the Union inland navigation certificate.
+
+2\. In the case of craft already in operation before the technical inspection takes place, the competent authority shall set the period of validity of the Union inland navigation certificate on a case-by-case basis, in the light of the results of the inspection. However, the period of validity shall not exceed the periods set out in paragraph 1.
+
+### Article 11 — Exceptional extension of validity of Union inland navigation certificates
+
+The validity of a Union inland navigation certificate may be exceptionally extended without a technical inspection for not more than six months in accordance with Annexes II and V, by the competent authority which issued or renewed it. The extension shall be indicated on that certificate.
+
+### Article 12 — Renewal of Union inland navigation certificates
+
+1\. The Union inland navigation certificate shall be renewed on expiry of its period of validity in accordance with the conditions laid down in Article 6, following a technical inspection o check whether the craft complies with the technical requirements referred to in Annexes II and V. Union inland navigation certificates may be renewed by any competent authority that has been notified to the Commission pursuant to Article 6(3).
+
+2\. Where Union inland navigation certificates are renewed, the transitional provisions provided for in Annex II shall apply to the craft under the conditions specified in that Annex.
+
+### Article 13 — Replacement of Union inland navigation certificates
+
+Each Member State shall lay down the conditions under which a valid Union inland navigation certificate which has been lost or damaged may be replaced. Those conditions shall require craft applying for replacement, in the case of loss, to provide a declaration of the loss of the certificate, or in the case of damage, to return the damaged certificate. The replacement certificate shall state that it is a duplicate.
+
+### Article 14 — Major alterations or major repairs of craft
+
+In the event of major alterations or major repairs which affect the craft's compliance with the technical requirements referred to in Annexes II and V concerning its structural soundness, navigation, manoeuvrability or special features, that craft shall undergo, prior to any further voyage, the technical inspection provided for in Article 6.
+
+Following that inspection, the existing Union inland navigation certificate shall be amended to reflect the altered technical characteristics of the craft or that certificate shall be withdrawn and a new one issued. If the new certificate is issued in a Member State other than that which issued or renewed the initial certificate, the competent authority which issued or renewed the certificate shall be informed accordingly within 30 days from the date of issuance of the new certificate.
+
+### Article 15 — Refusal to issue or renew, and withdrawal of, Union inland navigation certificates
+
+1\. Any decision not to issue or renew a Union inland navigation certificate shall state the grounds on which it is based. The owner of the craft or its representative shall be notified thereof and shall be informed about the appeal procedure and the time limits applicable in the Member State concerned.
+
+2\. Any valid Union inland navigation certificate may be withdrawn by the competent authority which issued or renewed it if the craft ceases to comply with the technical requirements set out in its certificate.
+
+### Article 16 — Recognition of navigation certificates of craft from third countries
+
+Pending the entry into force of agreements on the mutual recognition of navigation certificates between the Union and third countries, the competent authorities of a Member State may recognise the navigation certificates of craft from third countries for navigation within the territory of that Member State.
+
+### Article 17 — Registers of certificates
+
+Member States shall ensure that their competent authorities keep a register of all certificates they have issued or renewed pursuant to Articles 6, 8, 9 and 12. That register shall include the information contained in the model certificate provided for in Annex II.
+
+## CHAPTER 3 — VESSEL IDENTIFICATION, INSPECTIONS AND ALTERED TECHNICAL REQUIREMENTS
+
+### Article 18 — Unique European vessel identification number
+
+1\. Member States shall ensure that each craft is assigned a unique European vessel identification number (ENI), in accordance with Annexes II and V.
+
+2\. Each craft shall have only one ENI, which shall remain unchanged during its entire lifetime.
+
+3\. When issuing a Union inland navigation certificate, the competent authority shall include the ENI therein.
+
+4\. Each Member State shall draw up a list indicating the competent authorities responsible for assigning ENIs and shall notify the Commission thereof, as well as any changes to the list. The Commission shall maintain an up-to-date list of competent authorities on an appropriate website.
+
+### Article 19 — European Hull Data Base
+
+1\. The Commission shall keep the EHDB in order to support administrative measures for maintaining safety and ease of navigation and to ensure application of this Directive.
+
+Any processing of personal data by the Member States shall be carried out in accordance with Union law on the protection of personal data, in particular Regulation (EU) 2016/679 of the European Parliament and of the Council ( 2 ).
+
+Any processing of personal data by the Commission shall be carried out in accordance with Regulation (EC) No 45/2001 of the European Parliament and of the Council ( 3 ).
+
+2\. Member States shall ensure that, for each craft, the competent authorities enter, without delay, in the EHDB:
+
+(a) the data identifying and describing the craft in accordance with this Directive;
+
+(b) the data relating to the certificates issued, renewed, replaced and withdrawn, as well as the competent authority which issued the certificate, in accordance with this Directive;
+
+(c) a digital copy of all certificates issued by competent authorities in accordance with this Directive;
+
+(d) the data on any rejected or pending applications for certificates in accordance with this Directive; and
+
+(e) any changes to the data referred to in points (a) to (d).
+
+3\. The data referred to in paragraph 2 may be processed by competent authorities of Member States, contracting parties to the Revised Convention for Rhine Navigation and third countries that are entrusted with tasks related to the application of this Directive and of Directive 2005/44/EC of the European Parliament and of the Council ( 4 ), for the following purposes:
+
+(a) applying this Directive and of Directive 2005/44/EC;
+
+(b) ensuring waterway traffic and infrastructure management;
+
+(c) maintaining or enforcing safety of navigation;
+
+(d) collecting statistical data.
+
+4\. The competent authority of a Member State may transfer personal data to a third country or international organisation provided that it does so only on a case-by-case basis and that the requirements of Regulation (EU) 2016/679, and in particular those set out in Chapter V thereof, are fulfilled. Member States shall ensure that the transfer is necessary for the purposes referred to in paragraph 3 of this Article. Member States shall ensure that the third country or international organisation does not transfer the data to another third country or international organisation unless it is given express written authorisation to do so and complies with the conditions specified by the competent authority of the Member State.
+
+5\. The Commission may, on a case-by-case basis, transfer personal data or grant access to the EHDB to an authority of a third country or international organisation provided that the transfer or access is necessary for the purposes referred to in paragraph 3 of this Article, and provided the requirements of Article 9 of Regulation (EC) No 45/2001 are fulfilled. The Commission shall ensure that the transfer or access is necessary for the purposes referred to in paragraph 3 of this Article. The Commission shall ensure that the third country or international organisation does not transfer the data to another third country or international organisation unless it is given express written authorisation and complies with the conditions specified by the Commission.
+
+6\. The competent authority shall ensure that the data related to a craft is deleted from the database referred to in paragraph 1 when this craft is scrapped.
+
+7\. The Commission is empowered to adopt delegated acts in accordance with Article 32 further specifying:
+
+(a) the data to be entered in the database by Member States;
+
+(b) the types of access permitted, taking into account the categories of the recipients of data and the purposes for which such data are processed referred to in paragraph 3 of this Article;
+
+(c) the instructions regarding the use and operation of the database, in particular with respect to data security measures, encoding and processing of data and interconnection of the database with the registers referred to in Article 17.
+
+### Article 20 — Carrying out of technical inspections
+
+1\. Member States shall ensure that the competent authorities referred to in paragraph 3 carry out the initial, periodical, special and voluntary inspections referred to in this Directive.
+
+2\. Those competent authorities may refrain from subjecting the craft in whole or in part to technical inspection where it is evident from a valid attestation, issued by a recognised classification society in accordance with Article 21, that the craft satisfies, in whole or in part, the technical requirements referred to in Annexes II and V.
+
+3\. Each Member State shall draw up a list indicating its competent authorities which are responsible for carrying out technical inspections and shall notify the Commission thereof, including any changes to the list. The Commission shall maintain an up-to-date list of competent authorities and inspection bodies on an appropriate website.
+
+4\. Each Member State shall comply with the specific requirements as regards inspection bodies and the request for an inspection, provided for in Annexes II and V.
+
+### Article 21 — Recognition of classification societies
+
+1\. The Commission shall adopt implementing acts in order to recognise a classification society which meets the criteria listed in Annex VI, or to withdraw recognition, in accordance with the procedure set out in paragraphs 2 and 3 of this Article. Those implementing acts shall be adopted in accordance with the advisory procedure referred to in Article 33(2).
+
+2\. An application for recognition shall be submitted to the Commission by the Member State in which the classification society has its headquarters or a subsidiary authorised to issue attestations that a craft satisfies the requirements referred to in Annexes II and V in accordance with this Directive. This application shall be accompanied by all information and documentation needed to check that the criteria for recognition are met.
+
+3\. Any Member State may submit to the Commission a request to withdraw the recognition if it considers that a classification society no longer meets the criteria set out in Annex VI. The request for withdrawal shall be accompanied by documentary evidence.
+
+4\. The classification societies which, by 6 October 2016, have been granted recognition in accordance with Directive 2006/87/EC shall retain their recognition.
+
+5\. The Commission shall publish for the first time by 7 October 2017, and shall keep updated on an appropriate website, a list of the classification societies recognised in accordance with this Article. Member States shall communicate to the Commission any changes relating to the names or addresses of the classification societies for which they have applied for recognition.
+
+### Article 22 — Control of compliance
+
+1\. Member States shall ensure that their competent authorities may at any time control whether a craft is carrying a valid certificate in accordance with Article 7 and whether it satisfies the requirements for the issuance of such a certificate.
+
+In the case of failure to comply with the requirements, the competent authorities shall take appropriate measures in accordance with paragraphs 2 to 5 of this Article. They shall also request that the owner of the craft or its representative takes all necessary measures to remedy the situation within a time limit set by the competent authorities.
+
+The competent authority which issued the certificate carried on the craft shall be informed of such failures within seven days of the control.
+
+2\. Where a valid certificate is not being carried, the craft may be prevented from proceeding with its voyage.
+
+3\. If, during the control, the competent authorities find that the craft constitutes a manifest danger for the persons on board, the environment or the safety of the navigation, they may prevent the craft from proceeding with its voyage until the necessary steps have been taken to remedy the situation.
+
+The competent authorities may also prescribe proportionate measures which will enable the craft to proceed safely, where appropriate on termination of its transport operations, to a place where it will either be inspected or repaired.
+
+4\. A Member State which has prevented a craft from proceeding with its voyage, or has notified the owner of the craft or its representative of its intention to so prevent it if the defects found are not corrected, shall inform the competent authority in the Member State which issued or last renewed the craft's certificate, within seven days of the decision which it has taken or intends to take.
+
+5\. Any decision to interrupt the passage of a craft taken in the implementation of this Directive shall state in detail the reasons on which it is based. Such decision shall be notified without delay to the party concerned, who shall at the same time be informed of the appeal procedures available under the laws in force in the Member State concerned and of their time limits.
+
+### Article 23 — Altered technical requirements for certain zones
+
+1\. Member States may, where applicable subject to the requirements of the Revised Convention for Rhine Navigation, adopt technical requirements additional to those referred to in Annexes II and V for craft operating on Zone 1 and 2 waterways within their territory. Such additional requirements shall cover only the elements listed in Annex III.
+
+2\. In respect of passenger vessels operating on Zone 3 non-linked inland waterways, each Member State may maintain technical requirements in addition to those referred to in Annexes II and V. Such additional requirements shall cover only the elements listed in Annex III.
+
+3\. Where application of the transitional provisions referred to in Annex II would result in a reduction in existing national safety standards, a Member State may disapply those transitional provisions in respect of passenger vessels operating on its non-linked inland waterways. In such circumstances, the Member State concerned may require that, from 30 December 2008, such passenger vessels operating on its non-linked inland waterways comply fully with the technical requirements referred to in Annexes II and V.
+
+4\. Members State may allow a partial application of the technical requirements or set technical requirements which are less stringent than those referred to in Annexes II and V in respect of craft operating exclusively on Zone 3 and 4 waterways within its territory. The less stringent technical requirements or the partial application of the technical requirements shall cover only the elements listed in Annex IV.
+
+5\. Where a Member State applies paragraph 1, 2, 3 or 4, it shall notify the Commission thereof at least six months before the envisaged date of application. The Commission shall inform the other Member States accordingly.
+
+In the cases referred to in paragraphs 1 and 2 of this Article, the Commission shall adopt implementing acts to approve the additional technical requirements. Those implementing acts shall be adopted in accordance with the advisory procedure referred to in Article 33(2).
+
+6\. Compliance with the altered technical requirements in accordance with paragraphs 1, 2, 3 and 4 shall be specified in the Union inland navigation certificate or in the supplementary Union inland navigation certificate.
+
+### Article 24 — Derogations for certain categories of craft
+
+1\. While maintaining an adequate level of safety, Member States may authorise derogations from all or part of this Directive for:
+
+(a) craft operating on non-linked inland waterways;
+
+(b) craft having a dead weight not exceeding 350 tonnes or craft not intended for the carriage of goods and having a water displacement of less than 100 cubic metres, which were laid down before 1 January 1950 and which operate exclusively within their territory.
+
+2\. Without prejudice to the Revised Convention for Rhine Navigation, Member States may authorise, in respect of navigation within their territory, derogations from this Directive for craft operating limited journeys of local interest or in harbour areas. The derogations and the journeys or areas for which they are valid shall be specified in the craft's certificate.
+
+3\. The Member States shall notify the Commission of the derogations authorised in accordance with paragraphs 1 and 2. The Commission shall inform the other Member States accordingly.
+
+### Article 25 — Use of new technologies and derogations for specific craft
+
+1\. In order to encourage innovation and the use of new technologies in inland navigation, the Commission shall be empowered to adopt implementing acts allowing derogations or recognising the equivalence of technical specifications for a specific craft regarding:
+
+(a) the issuance of a Union inland navigation certificate recognising the use, or presence, on board a craft of other materials, installations or items of equipment, or the adoption of arrangements or design aspects other than those included in Annexes II and V, provided that an equivalent level of safety is ensured;
+
+(b) the issuance of a Union inland navigation certificate for trial purposes for a limited period incorporating new technical specifications that derogate from the requirements of Annexes II and V, provided that an adequate level of safety is ensured.
+
+Those implementing acts shall be adopted in accordance with the advisory procedure referred to in Article 33(2).
+
+2\. The competent authorities of a Member State shall specify any applicable derogations and recognitions of equivalences referred to in paragraph 1 in the Union inland navigation certificate.
+
+### Article 26 — Hardship
+
+1\. Following the expiry of transitional provisions to technical requirements laid down in Annex II, the Commission may adopt implementing acts allowing derogations from the technical requirements laid down in that Annex which were subject to those transitional provisions, where those requirements are technically difficult to apply or where their application might entail disproportionate costs.
+
+Those implementing acts shall be adopted in accordance with the advisory procedure referred to in Article 33(2).
+
+2\. The competent authorities of a Member State shall specify any applicable derogations referred to in paragraph 1 in the Union inland navigation certificate.
+
+### Article 27 — Register of type-approved equipment
+
+The Commission shall publish on an appropriate website a register of equipment which has been type-approved in accordance with Annexes II and V.
+
+## CHAPTER 4 — FINAL PROVISIONS
+
+### Article 28 — Transitional provisions concerning the use of documents
+
+Documents falling within the scope of this Directive and issued by the competent authorities of the Member States under Directive 2006/87/EC before 6 October 2018 shall remain valid until they expire.
+
+### Article 29 — Craft excluded from the scope of Directive 82/714/EEC
+
+1\. The Union inland navigation certificate shall be issued to craft excluded from the scope of Council Directive 82/714/EEC ( 5 ), but covered by this Directive in accordance with Article 2(1) of this Directive, following a technical inspection to check whether the craft comply with the technical requirements referred to in Annexes II and V to this Directive. That technical inspection shall be carried out upon the expiry of the craft's current certificate, and in any event no later than 30 December 2018.
+
+2\. Any failure to meet the technical requirements referred to in Annexes II and V shall be specified in the Union inland navigation certificate. Provided that the competent authorities consider that these shortcomings do not constitute a manifest danger, the craft referred to in paragraph 1 of this Article may continue to operate until such time as those components or areas of the craft which have been certified as not meeting those requirements are replaced or altered, following which those components or areas shall meet the technical requirements referred to in Annexes II and V.
+
+3\. The replacement of existing parts with identical parts or parts of an equivalent technology and design during routine repairs and maintenance shall not be considered to be a replacement or an alteration within the meaning of paragraph 2.
+
+4\. Manifest danger within the meaning of paragraph 2 of this Article shall be presumed in particular when requirements concerning the structural soundness, navigation or manoeuvrability or special features of the craft in accordance with the technical requirements referred to in Annexes II and V are affected. Derogations that are provided for in the technical requirements referred to in Annexes II and V shall not be identified as shortcomings which constitute a manifest danger.
+
+### Article 30 — Transitional provisions concerning temporary requirements pursuant to Directive 2006/87/EC
+
+Temporary requirements adopted in accordance with Article 1.06 of Annex II to Directive 2006/87/EC shall remain valid until they expire.
+
+### Article 31 — Adaptation of the Annexes
+
+1\. The Commission shall adopt delegated acts in accordance with Article 32 to adapt Annex II to update, without undue delay, the reference to the most recent version of the ES-TRIN standard and to set the date of its application.
+
+2\. By way of derogation from paragraph 1, where duly justified by an appropriate analysis and in the absence of pertinent and up-to-date international standards to ensure safety of navigation or where changes in the decision-making process of CESNI would compromise Union interests, the Commission is empowered to adopt delegated acts in accordance with Article 32 to amend Annex II to provide appropriate technical requirements.
+
+3\. The Commission is empowered to adopt delegated acts in accordance with Article 32 concerning the adaptations of Annexes III and IV to scientific and technical progress.
+
+4\. The Commission is empowered to adopt delegated acts in accordance with Article 32 concerning the adaptations of Annex V to update and streamline administrative provisions.
+
+5\. The Commission is empowered to adopt delegated acts in accordance with Article 32 concerning the adaptations of Annex VI to amend the criteria for the recognition of classification societies to ensure safety of navigation.
+
+6\. The Commission is empowered to adopt delegated acts in accordance with Article 32 in order to update the references in this Directive to certain provisions of Annexes II and V in order to take into account the amendments brought to these Annexes.
+
+### Article 32 — Exercise of the delegation
+
+1\. The power to adopt delegated acts is conferred on the Commission subject to the conditions laid down in this Article.
+
+2\. The power to adopt delegated acts referred to in Articles 4, 19 and 31 shall be conferred on the Commission for a period of five years from 6 October 2016. The Commission shall draw up a report in respect of the delegation of power not later than nine months before the end of the five-year period. The delegation of power shall be tacitly extended for periods of an identical duration, unless the European Parliament or the Council opposes such extension not later than three months before the end of each period.
+
+3\. The delegation of power referred to in Articles 4, 19 and 31 may be revoked at any time by the European Parliament or by the Council. A decision to revoke shall put an end to the delegation of the power specified in that decision. It shall take effect the day following the publication of the decision in the Official Journal of the European Union or at a later date specified therein. It shall not affect the validity of any delegated acts already in force.
+
+4\. Before adopting a delegated act, the Commission shall consult experts designated by each Member State in accordance with principles laid down in the Interinstitutional Agreement of 13 April 2016 on Better Law-Making.
+
+5\. As soon as it adopts a delegated act, the Commission shall notify it simultaneously to the European Parliament and to the Council.
+
+6\. A delegated act adopted pursuant to Articles 4, 19 and 31 shall enter into force only if no objection has been expressed either by the European Parliament or by the Council within a period of two months of notification of that act to the European Parliament and the Council or if, before the expiry of that period, the European Parliament and the Council have both informed the Commission that they will not object. That period shall be extended by two months at the initiative of the European Parliament or of the Council.
+
+### Article 33 — Committee procedure
+
+1\. The Commission shall be assisted by the Committee established by Article 7 of Council Directive 91/672/EEC ( 6 ) (hereinafter ‘the Committee’). The Committee is a committee within the meaning of Regulation (EU) No 182/2011.
+
+2\. Where reference is made to this paragraph, Article 4 of Regulation (EU) No 182/2011 shall apply.
+
+Where the opinion of the committee is to be obtained by written procedure, that procedure shall be terminated without result when, within the time limit for delivery of the opinion, the chair of the committee so decides.
+
+### Article 34 — Review
+
+The Commission shall submit, before 7 October 2021, a report to the European Parliament and to the Council reviewing the effectiveness of the measures introduced by this Directive, particularly as regards the harmonisation of technical requirements and the development of technical standards for inland navigation. The report shall also review the mechanisms for cooperation with international organisations competent for inland navigation. The report shall, if appropriate, be accompanied by a legislative proposal to further streamline cooperation and coordination in establishing standards to which reference can be made in legal acts of the Union. The Commission shall submit a similar report following any major developments in inland waterway transport.
+
+### Article 35 — Penalties
+
+Member States shall lay down the rules on penalties applicable to infringements of the national provisions adopted pursuant to this Directive and shall take the measures necessary to ensure that they are implemented. The penalties provided for shall be effective, proportionate and dissuasive.
+
+### Article 36 — Amendment to Directive 2009/100/EC
+
+Directive 2009/100/EC is amended as follows:
+
+(1) Article 1 is replaced by the following:
+
+‘Article 1
+
+This Directive applies to vessels used for goods transport on inland waterways and having a total dead weight of 20 metric tonnes or more:
+
+(a) having a length of less than 20 metres; and
+
+(b) for which the product of length (L), breadth (B) and draught (T) is less than 100 cubic metres.
+
+This Directive is without prejudice to the Rhine Vessel Inspection Regulations and to the European Agreement concerning the International Carriage of Dangerous Goods by Inland Waterways (ADN).’.
+
+(2) Article 3 is amended as follows:
+
+(a) Paragraph 4 is replaced by the following:
+
+‘4. Member States may require vessels carrying dangerous goods as defined in the ADN to comply with the requirements laid down in that Agreement. As evidence of this, they may require that the authorisation provided for in that Agreement be produced.’;
+
+(b) the second subparagraph of paragraph 5 is replaced by the following:
+
+‘Special conditions for the transport of dangerous goods shall be considered fulfilled in all Community waterways if the vessels meet the requirements of the ADN. Evidence of compliance with those requirements may be provided by the authorisation referred to in paragraph 4.’.
+
+### Article 37 — Transposition
+
+1\. Without prejudice to Article 40, Member States shall bring into force the laws, regulations and administrative provisions necessary to comply with this Directive, at the latest by 7 October 2018 and which shall apply from this date. They shall immediately inform the Commission thereof.
+
+When Member States adopt such measures, they shall contain a reference to this Directive or be accompanied by such a reference on the occasion of their official publication. The methods of making such reference shall be laid down by Member States.
+
+2\. Member States shall communicate to the Commission the text of the measures of national law which they adopt in the field covered by this Directive.
+
+3\. Any Member State which, as a result of derogations authorised in accordance with Article 24(1) and (2), has no craft subject to this Directive operating on its waterways shall not be required to transpose Chapter 2, Article 18(3) and Articles 20 and 21.
+
+### Article 38 — Repeal
+
+Directive 2006/87/EC is repealed with effect from 7 October 2018.
+
+References to the repealed Directive shall be construed as references to this Directive and shall be read in accordance with the correlation table set out in Annex VII.
+
+### Article 39 — Entry into force
+
+This Directive shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+
+### Article 40 — Addressees
+
+This Directive is addressed to the Member States except Denmark, Estonia, Ireland, Greece, Spain, Cyprus, Latvia, Malta, Portugal, Slovenia and Finland.
+
+## LIST OF ANNEXES
+
+Annex I: List of Union inland waterways divided geographically into Zones 1, 2, and 3
+
+Annex II: Minimum technical requirements applicable to craft on inland waterways of Zones 1, 2, 3 and 4
+
+Annex III: Subjects for possible additional technical requirements applicable to craft on inland waterways of Zones 1, 2 and non-linked 3
+
+Annex IV: Subjects for possible reductions of the technical requirements applicable to craft on inland waterways of Zones 3 and 4
+
+Annex V: Detailed procedural provisions
+
+Annex VI: Classification societies
+
+Annex VII: Correlation table
+
+## ANNEX I
+
+**LIST OF UNION INLAND WATERWAYS DIVIDED GEOGRAPHICALLY INTO ZONES 1, 2 AND 3**
+
+**CHAPTER 1**
+
+**Zone 1**
+
+Germany
+
+<tbody><tr><td>Ems</td><td>From a line linking the former Greetsiel lighthouse and the western pier of the port entrance at Eemshaven seawards as far as latitude 53° 30′ N and longitude 6° 45′ E, i.e. slightly seawards of the lightering area for dry-cargo carriers in the Alte Ems (1)</td></tr>
+<tr><td colspan="2">(1)  For vessels domiciled in another State, the provisions of Article 32 of the Ems-Dollart Treaty of 8 April 1960 (BGBl. 1963 II, p. 602) shall apply. </td></tr>
+</tbody>
+
+France
+
+The Gironde from the transverse limit of the sea, defined by the line joining the Pointe de Grave to the Pointe de Suzac, to the line joining the Pointe de Grave to the eastern point of the Pontaillac conch
+
+The Loire from the transverse limit of the sea, defined by the line joining the point of Mindin to the point of Penoët, to the line joining the Pointe du Pointeau dike light to the Villès-Martin lighthouse at Saint-Nazaire
+
+The Seine from the transverse limit of the sea (characterised by the line starting from Cape Hode, on the right bank, and ending on the left bank, at the point where the projected dike joins the coast downstream of Berville-sur-Mer) to the limit formed by a line oriented at 245° starting from the Sainte Adresse lighthouse and going as far as the intersection of the Greenwich meridian. From this intersection, the limit is extended by a line running north-south to the intersection of a line running east-west from the Falaise des Fonds light located west of Honfleur
+
+Rhône Delta
+
+Gulf of Fos: from the limits of zone 3 to the north and east, to the broken line starting from the light of the dyke of the Canal St-Louis, passing through the northern cardinal buoy of the They de la Gracieuse and the western cardinal buoy of Lavéra and ending at Pointe de Bonnieu
+
+The southern part of the Etang de Berre between Martigues (tip of the Brise Lames) and the port of La Pointe (end of the northern dyke)
+
+Poland
+
+The part of Pomorska Bay southward from the line linking NordPerd on Rugen Island and the lighthouse Niechorze
+
+The part of Gdańska Bay southward from the line linking the lighthouse Hel and the entrance buoy to the port of Baltijsk
+
+Sweden
+
+Lake Vänern, bounded in the south by the parallel of latitude through the beacon of Bastugrund
+
+Lake Vättern
+
+Brofjorden – Donsö
+
+The area bounded by the mainland or the zone 2 or 3 boundary and by a line from the southernmost point of Grötö via the westernmost point of Gåsö; the northernmost point of Härmanö; Härmanö huvud (head of Härmanö); Vedholmen; Danholmen; the centre of Mollön; the light of Räbbehuvud; Sankt Olov’s lower light; the southeasternmost point of Flatholmen; Åstol light; Marstrand light; Sälö light; the lower light of Kågholmen; Tynneskär light; Buskärs Knöte light; and the upper light of Rivö to Rivö light
+
+Northern Öregrundsgrepen
+
+The area between the mainland and Gräsö, bounded in the north by the parallel of latitude through Engelska grundet light and in the south by the parallel of longitude through the upper leading light of Öregrund
+
+Söderarm – Sandhamn
+
+The area bounded by the zone 2 boundary and by a line from the leading light of Tyvö via Söderarm’s light; the upper leading light of Söderarm’s pilot harbour; and Prästkobben light to Korsö beacon
+
+Jungfrufjärden
+
+The area bounded by the mainland or the zone 2 boundary and by a line from the westernmost point of Nämdö via the westernmost point of Mörtö-Bunsö to the beacon of Ornöhuvud
+
+Mysingen – Landsort
+
+The area bounded by the zone 2 boundary and by a line from Utö light via the southermost point of Nåttarö; Måsknuv light; and Viksten’s light to Landsort’s light
+
+Landsort – Arkö
+
+The area bounded by the mainland or the zone 2 or 3 boundaries, and by a line from Landsort’s light via the southermost point of Enskär and Norra Kränkan’s light to Marö kupa
+
+Valdemarsviken bay and Gryt archipelago
+
+The area bounded by the mainland or the zone 2 boundaries and by a line from Gubbö kupa beacon via Häradsskär’s light and Hägerökarten’s light to the southermost point of Kvädö
+
+Northern Kalmar Sound – Västervik
+
+The area bounded by the mainland and by a line from Hallmare Skackel via Aleskär light; Idö light; Idö Stångskär light; Strupö Ljungskär light, the position N 57 20,0 E016 48,0; and Enerumsgrund’s west cardinal spar buoy to the northernmost point of Öland and further by the north western coast of Öland and in the south by the parallel of latitude N 56° 15.00′
+
+Southern Kalmar Sound
+
+The area between the mainland and Öland, bounded in the north by a line from the point of Dunö (in the mainland) to Bejershamn on Öland, and in the south by the parallel of latitude N 56° 15.00′
+
+**Zone 2**
+
+Czechia
+
+Dam Lake Lipno
+
+Germany
+
+<tbody><tr><td>Ems</td><td>From a line across the Ems near the entrance to the port of Papenburg between the former Diemen pumping station and the opening of the dyke at Halte as far as a line linking the former Greetsiel lighthouse and the western pier of the port entrance at Eemshaven (1)</td></tr>
+<tr><td>LEDA</td><td>From the entrance of the outer harbour of Leer sea lock to the mouth in the Ems</td></tr>
+<tr><td>Jade</td><td>Landwards of a line linking the former Schillig upper light and the church tower at Langwarden</td></tr>
+<tr><td>Weser</td><td>From the north-western edge of the railway bridge in Bremen as far as a line linking Langwarden and Cappel church towers, including the Weser side branches known as Rekumer Loch, Rechter Nebenarm and Schweiburg</td></tr>
+<tr><td>Hunte</td><td>From a line 140 m downstream of the Amalienbrücke bridge at Oldenburg to the mouth in the Weser</td></tr>
+<tr><td>Lesum</td><td>From the confluence of the Hamme and Wümme (km 0,00) to the mouth in the Weser</td></tr>
+<tr><td>Elbe</td><td>From the lower limit of the port of Hamburg as far as a line linking the ball beacon at Döse and the western edge of the Friedrichskoog dyke (Dieksand) including: — Mühlenberger Loch  — Ruthenstrom (from km 3,75 till the mouth in the Elbe)  — Nebenelben: —  — Hahnöfer Nebenelbe (between the prolongation of the Elbe signposting from km 635,00 to km 644,00)  — Lühesander Süderelbe (between the prolongation of the Elbe signposting from km 646,50 to km 650,50)  — Bütztflether Süderelbe (from km 0,69 till the mouth in the Elbe)  — Haseldorfer Binnenelbe (between the prolongation of the Elbe signposting from km 653,00 to km 658,00)  — Pagensander Nebenelbe (between the prolongation of the Elbe signposting from km 659,00 to km 664,00)  — Schwarztonnensander Nebenelbe (between the prolongation of the Elbe signposting from km 661,00 to km 664,00)  — Wischhafener Süderelbe (from km 8,03 till the mouth in the Elbe)  — Glückstädter Nebenelbe (between the prolongation of the Elbe signposting from km 672,00 to km 676,00) </td></tr>
+<tr><td>Este</td><td>From the tail water of Buxtehude lock (km 0,25) to the mouth in the Elbe</td></tr>
+<tr><td>Lühe</td><td>From the tail water of the Au-Mühle in Horneburg (km 0,00) to the mouth in the Elbe</td></tr>
+<tr><td>Schwinge</td><td>From the north edge of the Salztor lock in Stade to the mouth in the Elbe</td></tr>
+<tr><td>Pinnau</td><td>From the south-western edge of the railway bridge in Pinneberg to the mouth in the Elbe</td></tr>
+<tr><td>Krückau</td><td>From the south-western edge of the Wedenkamp road bridge in Elmshorn to the mouth in the Elbe</td></tr>
+<tr><td>Stör</td><td>From Rensing tide gauge to the mouth in the Elbe</td></tr>
+<tr><td>Freiburger Hafenpriel</td><td>From the eastern edge of the sluice in Freiburg an der Elbe to the mouth in the Elbe</td></tr>
+<tr><td>Oste</td><td>From 210 m upstream of the axis of the road bridge over the Oste barrage (km 69,36) to the mouth in the Elbe</td></tr>
+<tr><td>Meldorfer Bucht</td><td>Landwards of a line linking the western edge of the Friedrichskoog dyke (Dieksand) and the western pier head at Büsum</td></tr>
+<tr><td>Eider</td><td>From upstream of the mouth of the Gieselau Canal (km 22,64) to the line between the middle of the fortress (Tränke) and the church tower of Vollerwiek</td></tr>
+<tr><td>Gieselaukanal</td><td>From the mouth in the Eider to the mouth in the Nord-Ostsee Canal</td></tr>
+<tr><td>Flensburger Förde</td><td>Landwards of a line linking Kegnäs lighthouse and Birknack and northwards up to the German-Danish border in the Flensburger Förde</td></tr>
+<tr><td>Schlei</td><td>Landwards of a line between the Schleimünde pier heads</td></tr>
+<tr><td>Eckernförder Bucht</td><td>Landwards of a line linking Boknis-Eck and the north-eastern point of the mainland near Dänisch Nienhof</td></tr>
+<tr><td>Kieler Förde</td><td>Landwards of a line linking the Bülk lighthouse and the Laboe naval memorial</td></tr>
+<tr><td>Nord-Ostsee-Kanal, including Audorfer See and Schirnauer See</td><td>From a line linking the pier heads at Brunsbüttel as far as a line linking the entry lights at Kiel-Holtenau, including Borgstedter See and Enge, Flemhuder See and the Achterwehrer Canal</td></tr>
+<tr><td>Trave</td><td>From the north-western edge of the railway lift bridge in Lübeck with the Pötenitzer Wiek, and the Dassower See as far as a line linking the southern inner and northern outer pier heads at Travemünde</td></tr>
+<tr><td>Wismarbucht, including Kirchsee, Breitling, Salzhaff and Wismar port area</td><td>Limited seawards by a line linking Hohen Wieschendorf Huk and Timmendorf light and a line linking Gollwitz light on the Poel island and the southern tip of the Wustrow peninsula</td></tr>
+<tr><td>Warnow and Unterwarnow including the Breitling and side branches (without side branch west of the Badewieseninsel) </td><td>From the southern edge of the railway bridge Rostock-Stralsund to a line linking the northern head of the western pier and the northern head of the eastern pier in Rostock-Warnemünde</td></tr>
+<tr><td>Waters, enclosed by the mainland and the Darß and Zingst pensinsulas and the islands of Bock, Hiddensee and Rügen (including Stralsund port area)</td><td>Seawards limited between — Zingst peninsula and Bock island: by the parallel of latitude 54° 26′ 42′′ N  — Bock island and Hiddensee island: by the line linking the northern tip of the Bock island and the southern tip of the Hiddensee island  — Hiddensee island and Rügen island (Bug): by the line linking the south-eastern tip of Neubessin and Buger Haken </td></tr>
+<tr><td>Greifswalder Bodden and the Greifswald port area including Ryck</td><td>From the eastern edge of the Steinbecker Brücke in Greifswald to a line linking the eastern tip of the Thiessower Haken (Südperd) to the eastern tip of the Ruden island, and to the northern tip of the Usedom island (54° 10′ 37′′ N, 13° 47′ 51′′ E)</td></tr>
+<tr><td>Waters enclosed by the mainland and the island of Usedom (the Peenestrom, including Wolgast port area, Achterwasser, Stettiner Haff)</td><td>Eastwards as far as by the German-Polish border in the Stettiner Haff</td></tr>
+<tr><td>Uecker</td><td>From the south-west edge of the road bridge in the Uekermünde to the linking line over the seaward edges of the pier heads</td></tr>
+<tr><td colspan="2">(1)  For vessels domiciled in another State, the provisions of Article 32 of the Ems-Dollart Treaty of 8 April 1960 (BGBl. 1963 II, p. 602) shall apply. </td></tr>
+</tbody>
+
+France
+
+The Gironde from kilometre point (KP 48,50) to the downstream part of the point of the Ile de Patiras, to the transversal limit of the sea defined by the line joining the Pointe de Grave to the Pointe de Suzac
+
+The Loire from Cordemais (KP 25) to the transversal limit of the sea defined by the line joining the Pointe de Mindin to the Pointe de Penhoët
+
+The Seine from the start of the Tancarville Canal to the transversal limit of the sea defined by the line from Cape Hode, on the right bank, to the point, on the left bank, where the planned dyke meets the coast below Berville-sur-Mer
+
+The Vilaine from the Arzal Dam to the transversal limit of the sea defined by the line joining the Pointe du Scal to the Pointe du Moustoir
+
+Lake Geneva
+
+Hungary
+
+Lake Balaton
+
+Netherlands
+
+Dollard
+
+Eems
+
+Waddenzee: including the links with the North Sea
+
+IJsselmeer: including the Markermeer and IJmeer but excluding the Gouwzee
+
+Nieuwe Waterweg and the Scheur
+
+Calandkanaal west from the Benelux harbour
+
+Hollands Diep
+
+Breeddiep, Beerkanaal and its connected harbours
+
+Haringvliet and Vuile Gat: including the waterways between Goeree-Overflakkee on the one hand and Voorne-Putten and Hoeksche Waard on the other
+
+Hellegat
+
+Volkerak
+
+Krammer
+
+Grevelingenmeer and Brouwershavensche Gat: including all the waterways between Schouwen-Duiveland and Goeree-Overflakkee
+
+Keten, Mastgat, Zijpe, Krabbenkreek, Eastern Scheldt and Roompot: including the waterways between Walcheren, Noord-Beveland and Zuid-Beveland on the one hand and Schouwen-Duiveland and Tholen on the other hand, excluding the Scheldt-Rhine Canal
+
+Scheldt and Western Scheldt and its mouth on the sea: including the waterways between Zeeland Flanders, on the one hand, and Walcheren and Zuid-Beveland, on the other, excluding the Scheldt-Rhine Canal
+
+Poland
+
+Lagoon of Szczecin
+
+Lagoon of Kamień
+
+Lagoon of Wisła
+
+Bay of Puck
+
+Włocławski Reservoir
+
+Lake Śniardwy
+
+Lake Niegocin
+
+Lake Mamry
+
+Sweden
+
+Lysekil – Orust – Tjörn
+
+The area bounded by the mainland, and by a line from Släggö in Lysekil to Skaftölandet in bearing 170 degrees; a line from Islandsberg’s light to Lavösund; a line from the light of Lyr in bearing 300 degrees to the mainland east of Mollösund; a line from the southernmost point of Lyr to Björholmen; and in the northern part of Hakefjorden by the line constituted by the parallel of latitude N 58 01,00
+
+Gothenburg southern archipelago
+
+The area bounded by the mainland or the zone 3 boundary and by a line from the western part of the port of Arendal via Knippelholmen; Rivö light, Rivö upper light; Känsö torn beacon; Kårholmen’s light; and Rättarens leading light to Askims nabbe
+
+Öregrund – Norrtälje
+
+The area between the mainland and Gräsö, bounded in the north by the parallel of longitude through Öregrund’s upper leading light, and bounded towards the sea by a line between Äspskäret and Råstensudde light; a line across Singsundet; by the bridges across Fygdströmmen; a line from Dejeudden via Arholma light to Tyvö light
+
+Norrtälje – Nämdö
+
+The area bounded by the mainland or by the zone 2 or 3 boundaries and by a line from Tyvö light via Idskärskobben’s light; the westernmost point of Svartlöga; Stenkobbsgrund’s light, Korså beacon; and the westernmost point of Nämdö to the southermost point of Björnö
+
+Dalarö – Torö
+
+The area bounded by the mainland and by a line from the beacon of Ornöhuvud via Klacknäset; Näset at Ornö; the northernmost point of Utö; Utö light; Älvsnabben’s light; Norra Stegholmen; Yttre Gården; Valsudden on Järflotta; and Långsudden on Järflotta to the easternmost point of Torö
+
+Torö – Oxelösund
+
+The area bounded by the mainland or by the zone 3 boundary and by a line from Torö church via Fifång light; Kockehällan’s light; Lacka torn; the easternmost point of Kittelö; Trutbådan’s light, Beten’s light; and the beacon of Femörehuvud to Svartudden north of the upper light of Kungshamn
+
+Bråviken, Slätbaken and Östergötland archipelago
+
+The area bounded by the mainland (in western Bråviken from the bridge Hamnbron in Norrköping; in western Slätbaken from Mem’s lock), and by a line from Gullängsberget’s light via Arkö beacon; Marö kupa; the beacon of Kupa klint; the westernmost point of Birkskär; and the beacon of Gubbö kupa to Dalaudde south of Orren
+
+Central Kalmar Sound
+
+The area bounded in the west by the mainland, in the east by Öland, in the north by the parallel of latitude N 56° 51.00′ and in the south by a line from the point of Dunö (in the mainland) to Bejershamn on Öland
+
+**CHAPTER 2**
+
+**Zone 3**
+
+Belgium
+
+Maritime Scheldt (downstream of Antwerp open anchorage)
+
+Bulgaria
+
+Danube: from rkm 845,650 to rkm 374,100
+
+Czechia
+
+Dam lakes: Brněnská (Kníničky), Jesenice, Nechranice, Orlík, Rozkoš, Slapy, Těrlicko, Žermanice and Nové Mlýny III
+
+Sandy gravel mining lakes: Ostrožná Nová Ves and Tovačov
+
+Germany
+
+| Danube | From Kelheim (km 2 414,72 ) to the German-Austrian border at Jochenstein |
+| --- | --- |
+| Rhine including Lampertheimer Altrhein (from km 4,75 to the Rhine), Altrhein Stockstadt-Erfelden (from km 9,80 to the Rhine) | From the German-Swiss border at Basel to the German-Dutch border at Millingen |
+| Elbe (Norderelbe) including Süderelbe and Köhlbrand | From the mouth of the Elbe-Seiten canal to the lower limit of the port of Hamburg |
+| Müritz |  |
+
+France
+
+The Adour from the Bec du Gave to the sea
+
+The Aulne from the lock at Châteaulin to the transversal limit of the sea defined by the Passage de Rosnoën
+
+The Blavet from Pontivy to the Pont du Bonhomme
+
+The Calais Canal
+
+The Charente from the bridge at Tonnay-Charente to the transverse limit of the sea defined by the line passing through the centre of the downstream light on the left bank and through the centre of the Fort de la Pointe
+
+The Dordogne from the confluence with the Lidoire to the Bec d’Ambès
+
+The Garonne from the bridge at Castet en Dorthe to the Bec d’Ambès
+
+The Gironde from the Bec d’Ambès to the transversal line at KP 48,50 and passing through the downstream point of the Ile de Patiras
+
+The Hérault from the port of Bessan to the sea, as far as the upper limit of the tidal foreshore
+
+The Isle from the confluence with the Dronne to the confluence with the Dordogne
+
+The Loire from the confluence with the Maine to Cordemais (KP 25)
+
+The Marne from the bridge at Bonneuil (KP 169 bis 900) and the lock at St Maur to the confluence with the Seine
+
+The Rhine
+
+The Nive from the Haïtze dam at Ustaritz to the confluence with the Adour
+
+The Oise from Janville lock to the confluence with the Seine
+
+The Orb from Sérignan to the sea, as far as the upper limit of the tidal foreshore
+
+The Rhône from the frontier with Switzerland to the sea, with the exception of the Petit Rhône
+
+The Saône from the Pont de Bourgogne bridge at Chalon-sur-Saône to the confluence with the Rhône
+
+The Seine from the lock at Nogent-sur-Seine to the start of the Tancarville Canal
+
+The Sèvre Niortaise from the lock at Marans at the transverse limit of the sea opposite the guardhouse to the mouth
+
+The Somme from the downstream side of the Pont de la Portelette bridge at Abbeville to the viaduct of the Noyelles to Saint-Valéry-sur-Somme railway
+
+The Vilaine from Redon (KP 89,345) to the Arzal Dam
+
+Lake Amance
+
+Lake Annecy
+
+Lake Biscarosse
+
+Lake Bourget
+
+Lake Carcans
+
+Lake Cazaux
+
+Lake Der-Chantecoq
+
+Lake Guerlédan
+
+Lake Hourtin
+
+Lake Lacanau
+
+Lake Orient
+
+Lake Pareloup
+
+Lake Parentis
+
+Lake Sanguinet
+
+Lake Serre-Ponçon
+
+Lake Temple
+
+Croatia
+
+Danube: from rkm 1 295 + 500 to rkm 1 433 + 100
+
+River Drava: from rkm 0 to rkm 198 + 600
+
+River Sava: from rkm 210 + 800 to rkm 594 + 000
+
+River Kupa: from rkm 0 to rkm 5 + 900
+
+River Una: from rkm 0 to rkm 15
+
+Hungary
+
+Danube: from rkm 1 812 to rkm 1 433
+
+Danube Moson: from rkm 14 to rkm 0
+
+Danube Szentendre: from rkm 32 to rkm 0
+
+Danube Ráckeve: from rkm 58 to rkm 0
+
+River Tisza: from rkm 685 to rkm 160
+
+River Dráva: from rkm 198 to rkm 70
+
+River Bodrog: from rkm 51 to rkm 0
+
+River Kettős-Körös: from rkm 23 to rkm 0
+
+River Hármas-Körös: from rkm 91 to rkm 0
+
+Channel Sió: from rkm 23 to rkm 0
+
+Lake Velence
+
+Lake Fertő
+
+Netherlands
+
+Rhine
+
+Sneekermeer, Koevordermeer, Heegermeer, Fluessen, Slotermeer, Tjeukemeer, Beulakkerwijde, Belterwijde, Ramsdiep, Ketelmeer, Zwartemeer, Veluwemeer, Eemmeer, Alkmaardermeer, Gouwzee, Buiten IJ, Afgesloten IJ, Noordzeekanaal, port of IJmuiden, Rotterdam port area, Nieuwe Maas, Noord, Oude Maas, Beneden Merwede, Nieuwe Merwede, Dordsche Kil, Boven Merwede, Waal, Bijlandsch Canal, Boven Rijn, Pannersdensch Canal, Geldersche IJssel, Neder Rijn, Lek, Amsterdam-Rhine-Canal, Veerse Meer, Schelde-Rhine-Canal as far as the mouth in the Volkerak, Amer, Bergsche Maas, the Meuse below Venlo, Gooimeer, Europort, Calandkanaal (east from the Benelux harbour), Hartelkanaal
+
+Austria
+
+Danube: from the border with Germany to the border with Slovakia
+
+Inn: from the mouth to the Passau-Ingling Power Station
+
+Traun: from the mouth to km 1,80
+
+Enns: from the mouth to km 2,70
+
+March: to km 6,00
+
+Poland
+
+River Biebrza from the estuary of the Augustowski Channel to the estuary of the river Narwia
+
+River Brda from the link with the Bydgoski Channel in Bydgoszcz to the estuary of the river Wisła
+
+River Bug from the estuary of the river Muchawiec to the estuary of the river Narwia
+
+Lake Dąbie to the frontier with internal maritime waters
+
+The Augustowski Channel from the link with the river Biebrza to the State border, together with the lakes located along the route of this Channel
+
+The Bartnicki Channel from Lake Ruda Woda to Lake Bartężek, together with Lake Bartężek
+
+The Bydgoski Channel
+
+The Elbląski Channel from Lake Druzno to Lake Jeziorak and Lake Szeląg Wielki, together with these lakes and the lakes on the route of the Channel, and a byway in the direction of Zalewo from Lake Jeziorak to Lake Ewingi, inclusive
+
+The Gliwicki Channel together with the Kędzierzyński Channel
+
+The Jagielloński Channel from the link with the river Elbląg to the river Nogat
+
+The Łączański Channel
+
+The Ślesiński Channel with the lakes located along the route of this Channel and Lake Gopło
+
+The Żerański Channel
+
+River Martwa Wisła from the river Wisła in Przegalina to the frontier with internal maritime waters
+
+River Narew from the estuary of the river Biebrza to the estuary of the river Wisła, together with Lake Zegrzyński
+
+River Nogat from the river Wisła to the estuary of the Lagoon of Wisła
+
+River Noteć (upper) from Lake Gopło to the link with the Górnonotecki Channel and the Górnonotecki Channel and River Noteć (lower) from the link of the Bydgoski Channel to the estuary to River Warta
+
+River Nysa Łużycka from Gubin to the estuary to River Odra
+
+River Odra from the town of Racibórz to the link with River Eastern Odra which turns into River Regalica from the Klucz-Ustowo Piercing, together with that river and its side-branches to Lake Dąbie as well as a byway of River Odra from the Opatowice lock to the lock in Wrocław city
+
+River Western Odra from a weir in Widuchowa (704,1 km of River Odra) to a border with internal maritme waters, together with side-branches as well as the Klucz-Ustowo Piercing linking River Eastern Odra with River Western Odra
+
+River Parnica and the Parnicki Piercing from River Western Odra to a border with internal maritime waters
+
+River Pisa from Lake Roś to the estuary of River Narew
+
+River Szkarpawa from River Wisła to the estuary of the Lagoon of Wisła
+
+River Warta from the Ślesińskie Lake to the estuary of River Odra
+
+Wielkie Jeziora Mazurskie encompassing the lakes linked by the rivers and channels constituting a main route from Lake Roś (inclusive) in Pisz to the Węgorzewski Channel (inclusive) in Węgorzewo, together with Lakes Seksty, Mikołajskie, Tałty, Tałtowisko, Kotek, Szymon, Szymoneckie, Jagodne, Boczne, Tajty, Kisajno, Dargin, Łabap, Kirsajty and Święcajty, together with the Giżycki Channel and the Niegociński Channel and the Piękna Góra Channel, and a byway of Lake Ryńskie (inclusive) in Ryn to Lake Nidzkie (up to 3 km, constituting a border with the ‘Lake Nidzkie’ nature reserve), together with lakes Bełdany, Guzianka Mała and Guzianka Wielka
+
+River Wisła from the estuary of River Przemsza to the link with the Łączański Channel as well as from the estuary of that Channel in Skawina to the estuary of River Wisła to the Bay of Gdańsk, excluding the Włocławski Reservoir
+
+Romania
+
+Danube: from the Serbian-Romanian border (km 1 075 ) to the Black Sea on the Sulina Channel-branch
+
+Danube-Black Sea Canal (64,410 km length): from the junction with the Danube river, at km 299,300 of the Danube at Cernavodă (respectively km 64,410 of the Canal), to the Port of Constanta South-Agigea (km ‘0’ of the Canal)
+
+Poarta Albă-Midia Năvodari Canal (34,600 km length): from the junction with the Danube-Black Sea Canal at km 29,410 at Poarta Albă (respectively km 27,500 of the Canal) to the Port of Midia (km ‘0’ of the Canal)
+
+Slovakia
+
+Danube: from rkm 1 880,26 to rkm 1 708,20
+
+Danube Canal: from rkm 1 851,75 to rkm 1 811,00
+
+River Váh: from rkm 0,00 to rkm 70,00
+
+River Morava: from rkm 0,00 to rkm 6,00
+
+River Bodrog: from rkm 49,68 to rkm 64,85
+
+Dam lakes: Oravská Priehrada, Liptovská Mara, Zemplínska Šírava
+
+Sweden
+
+Lake Mälaren
+
+Saltsjön, the ports of Stockholm and Värmdölandet
+
+The area from Lake Mälaren’s outlets in Stockholm, at Norrström, Slussen and Hammarbyslussen respectively, which is bounded by the mainland and the bridge Lidingöbron, and by a line through the light Elfviksgrund in bearing 135-315 degrees; a line between Mellangårdsholmen and Högklevsudde in Baggensfjärden; Örsundet between Ingarö and Fågelbrolandet; a line from Rönnäsudd via Tegelhällan’s light and Runö light to Talatta on Djurö; a line across Vindöström between Vindö and Värmdölandet; and, apart from that, by the islands in the area
+
+Södertälje Canal and the ports of Södertälje
+
+Södertälje Canal and the ports of Södertälje, bounded in the north by Södertälje lock and in the south by the parallel of latitude N 59° 09′ 00″
+
+Trollhätte Canal, Göta älv and Nordre älv
+
+The area from the parallel of latitude through the beacon of Bastugrund in the southern part of Lake Vänern to the Älvsborg bridge and Nordre älv river to the parallel of longitude E 11° 45′ 00″
+
+Göta Canal
+
+In the east from Mem’s lock to the Motala bridge, including Lake Asplången, Lake Roxen and Lake Boren; in the west from the parallel of longitude through the light Rödesund Norra Yttre at Karlsborg to Sjötorp’s lock, including the lake system through which the canal passes
+
+## ANNEX II — MINIMUM TECHNICAL REQUIREMENTS APPLICABLE TO CRAFT ON INLAND WATERWAYS OF ZONES 1, 2, 3 AND 4
+
+The technical requirements applicable to craft are those set out in ES-TRIN standard 2025/1.
+
+## ANNEX III
+
+**SUBJECTS FOR POSSIBLE ADDITIONAL TECHNICAL REQUIREMENTS APPLICABLE TO CRAFT ON INLAND WATERWAYS OF ZONES 1, 2 AND NON-LINKED 3**
+
+Any additional technical requirements adopted by a Member State under Article 23(1) and (2) of this Directive for craft operating on that Member State's territory are limited to the following subjects:
+
+1\. Definitions
+
+— Necessary for understanding the additional requirements
+
+2\. Strength and stability
+
+— Structure reinforcement and stability
+
+— Certificate/attestation by a recognised classification society
+
+3\. Safety clearance and freeboard
+
+— Freeboard
+
+— Safety clearance
+
+4\. Watertightness of hull openings and superstructures
+
+— Superstructures
+
+— Doors
+
+— Windows and skylights
+
+— Hold hatches
+
+— Other openings (ventilation pipes, exhaust pipes, etc.)
+
+5\. Equipment
+
+— Anchors and anchor chains
+
+— Navigation lights
+
+— Sound signals
+
+— Compass
+
+— Radar
+
+— Transmitting and receiving installations
+
+— Life-saving equipment
+
+— Availability of nautical charts
+
+6\. Additional provisions for passenger vessels
+
+— Stability (wind strength, criteria)
+
+— Life-saving equipment
+
+— Freeboard
+
+— Safety clearance
+
+— Wheelhouse visibility
+
+7\. Convoys and container transport
+
+— Pusher connection craft-lighter
+
+— Stability of craft or lighters carrying containers
+
+8\. Machinery
+
+— Steering systems
+
+— Propeller shafts and accessories
+
+— Propulsion engines, coupling and accessories
+
+— Presence of a bow-thruster
+
+— Bilge systems and firefighting installations
+
+— Emergency power sources and electrical installations
+
+— Certificate/attestation by a recognised classification society
+
+## ANNEX IV
+
+**SUBJECTS FOR POSSIBLE REDUCTIONS OF THE TECHNICAL REQUIREMENTS APPLICABLE TO CRAFT ON INLAND WATERWAYS OF ZONES 3 AND 4**
+
+Any reduced technical requirements allowed by a Member State under Article 23 (4) of this Directive for vessels operating exclusively on Zone 3 or Zone 4 waterways on the territory of that Member State are restricted to the following subjects:
+
+Zone 3
+
+— Anchor equipment, including length of anchor chains
+
+— (Forward) speed
+
+— Collective life-saving appliances
+
+— Two-compartment status
+
+— Wheelhouse visibility
+
+Zone 4
+
+— Anchor equipment, including length of anchor chains
+
+— (Forward) speed
+
+— Life-saving appliances
+
+— Two-compartment status
+
+— Wheelhouse visibility
+
+— Second independent propulsion system
+
+## ANNEX V
+
+**DETAILED PROCEDURAL PROVISIONS**
+
+**Article 2.01**
+
+**Inspection bodies**
+
+1\. Inspection bodies shall be set up by the Member States.
+
+2\. Inspection bodies shall consist of a chairman and experts.
+
+At least the following shall form part of each body as experts:
+
+(a) an official from the administration that is responsible for inland navigation;
+
+(b) an expert on the design of inland waterway vessels and their engines;
+
+(c) a nautical expert in possession of an inland waterways boatmaster's licence which authorises the holder to sail the vessel to be inspected;
+
+(d) a traditional craft expert for the inspection of traditional craft.
+
+3\. The Chairman and the experts within each body shall be designated by the authorities in the Member State in which the body is set up. On taking up their duties, the Chairman and the experts shall submit a written declaration that they will perform them completely independently. No declaration shall be required from officials.
+
+4\. Inspection bodies may be assisted by specialist experts in accordance with the national provisions applying.
+
+**Article 2.02**
+
+(Left empty)
+
+**Article 2.03**
+
+**Presentation of the craft for inspection**
+
+1\. The owner, or his representative, shall present the craft in an unladen, cleaned and equipped state. He shall provide any assistance needed for the inspection, such as providing an appropriate dinghy and staff, and uncovering any parts of the hull or fittings that are not directly accessible or visible.
+
+2\. The inspection body shall demand a dry inspection on the first occasion. That dry inspection may be dispensed with if a classification certificate or a certificate from a recognised classification society to the effect that the construction meets its requirements can be produced or if a certificate is produced which shows that a competent authority has already carried out a dry inspection for other purposes. Where there is a periodical inspection or an inspection, as provided for in Article 14 of this Directive, the inspection body may require an inspection out of the water.
+
+The inspection body shall conduct trial runs during an initial inspection of motor vessels or convoys or where major changes are made to the propulsion or steering equipment.
+
+3\. The inspection body may require further operational tests and other supporting documents. That provision shall also apply during the building of the craft.
+
+**Article 2.04**
+
+(Left empty)
+
+**Article 2.05**
+
+(Left empty)
+
+**Article 2.06**
+
+(Left empty)
+
+**Article 2.07**
+
+**Particulars in and amendments to the Union inland navigation certificate**
+
+1\. The owner of a craft, or his representative, shall bring to the notice of the competent authority any change in the name or ownership of a craft, any re-measurement, and any change in the registration or home port, and shall send the Union inland navigation certificate to that authority for amendment.
+
+2\. Any competent authority may add any information or change to the Union inland navigation certificate.
+
+3\. Where a competent authority adds any alteration or information to a Union inland navigation certificate, it shall inform the competent authority which issued the Union inland navigation certificate thereof.
+
+**Article 2.08**
+
+(Left empty)
+
+**Article 2.09**
+
+**Periodical inspection**
+
+1\. Craft shall be subjected to a periodical inspection before expiry of their Union inland navigation certificate.
+
+2\. The competent authority shall again lay down the period of validity of the Union inland navigation certificate in accordance with the results of that inspection.
+
+3\. The period of validity shall be entered on the Union inland navigation certificate and be brought to the attention of the authority having issued that Union inland navigation certificate.
+
+4\. If, rather than have its period of validity extended, a Union inland navigation certificate is replaced by a new version, the earlier Union inland navigation certificate shall be returned to the competent authority which issued it.
+
+**Article 2.10**
+
+**Voluntary inspection**
+
+The owner of a craft, or his representative, may voluntarily request an inspection at any time.
+
+That request for an inspection shall be acted upon.
+
+**Article 2.11**
+
+(Left empty)
+
+**Article 2.12**
+
+(Left empty)
+
+**Article 2.13**
+
+(Left empty)
+
+**Article 2.14**
+
+(Left empty)
+
+**Article 2.15**
+
+**Expenses**
+
+The owner of a craft, or his representative, shall bear all of the costs arising from the inspection of the craft and the issuance of the Union inland navigation certificate in accordance with a special set of charges drawn up by each of the Member States.
+
+**Article 2.16**
+
+**Information**
+
+The competent authority may allow persons demonstrating a well-founded interest to be informed of the contents of a Union inland navigation certificate and may issue those persons with extracts or copies of the Union inland navigation certificates certified as true and designated as such.
+
+**Article 2.17**
+
+**Register of Union inland navigation certificates**
+
+1\. Competent authorities shall keep the original, or a copy of all the Union inland navigation certificates they have issued, and shall enter on these any information and alterations, together with any Union inland navigation certificate cancellations and replacements. They shall update the register mentioned in Article 17 of this Directive accordingly.
+
+2\. In order to perform administrative measures for maintaining safety and ease of navigation and for implementation of Articles 2.02 to 2.15 of this Annex as well as Articles 6, 9, 10, 13, 14, 15, 20, 21 and 22 of this Directive read-only access to the register in accordance with the model set out in Annex II will be granted to competent authorities of other Member States, Contracting States of the Mannheim Convention and, as far as an equivalent level of privacy is guaranteed, to third countries on the basis of administrative agreements.
+
+**Article 2.18**
+
+**Unique European vessel identification number**
+
+1\. The unique European vessel identification number (ENI) consists of eight Arabic numerals according to Annex II to this Directive.
+
+2\. Unless the craft possesses an ENI at the time of issue of the Union inland navigation certificate, it shall be assigned to that craft by the competent authority of the Member State in which the craft has been registered or has its home port.
+
+As far as craft from countries where an assignation of an ENI is not possible are concerned, the ENI to be entered on the Union inland navigation certificate shall be assigned by the competent authority issuing that Union inland navigation certificate.
+
+3\. The owner of a craft, or his representative, shall apply to the competent authority for assignment of the ENI. The owner, or his representative, shall also be responsible for affixing to the craft the ENI which is entered in the Union inland navigation certificate.
+
+**Article 2.19**
+
+(Left empty)
+
+**Article 2.20**
+
+**Notifications**
+
+Each Member State, or its competent authorities, shall notify the Commission and the other Member States or the other competent authorities:
+
+(a) of the names and addresses of the technical services which, together with their national competent authority are responsible for the application of Annex II;
+
+(b) of the data sheet as shown in Annex II on the on-board sewage treatment plant types for which an approval has been issued since the last notification;
+
+(c) of the recognised type-approvals for on-board sewage treatment systems based on different standards than those laid down in Annex II, for the use on Member States' national waterways;
+
+(d) within one month of any withdrawal of a type-approval and of the reasons for such withdrawal for on-board sewage treatment systems;
+
+(e) of any authorised special anchor following an application to reduce anchor mass, giving its type designation and authorised reduction of anchor mass. The competent authority grants authorisation to the applicant at the earliest three months after notifying the Commission provided that the latter does not raise objections;
+
+(f) of the radar navigation equipment and of the rate-of-turn indicators for which they have issued type-approval. The relevant notice shall include the type-approval number assigned, as well as the type designation, the name of the manufacturer, the name of the holder of the type-approval and the date of the type-approval;
+
+(g) of the competent authorities responsible for approval of specialised firms that can do the installation, replacement, repair or maintenance of radar navigation equipment and rate-of-turn indicators.
+
+## ANNEX VI
+
+**CLASSIFICATION SOCIETIES**
+
+**Criteria for the recognition of classification societies**
+
+Classification societies seeking recognition pursuant to Article 21 of this Directive shall meet all the following criteria:
+
+(1) the classification society shall be able to document extensive experience in assessing the design and construction of inland waterway vessels. The classification society shall have comprehensive rules and regulations for the design, construction and periodic inspection of inland waterway vessels, in particular for calculating stability in accordance with Part 9 of the Regulations annexed to the ADN as referred to in Annex II. Those rules and regulations are to be published in, at least, Dutch, English, French or German, and shall be continuously updated and improved through research and development programmes. The rules and regulations must not conflict with the provisions of Union law or with international agreements in force;
+
+(2) the classification society shall publish its register of vessels annually;
+
+(3) the classification society shall not be controlled by shipowners or shipbuilders or by others engaged commercially in the design, manufacture, fitting-out, repair, operation or insurance of ships. The classification society shall not be dependent on a single commercial enterprise for its revenue;
+
+(4) the headquarters of the classification society or a subsidiary authorised to give a ruling and to act in all areas incumbent on it under the regulations governing inland waterway transport, shall be located in one of the Member States;
+
+(5) the classification society and its experts shall have a good reputation in inland waterway transport; the experts shall be able to provide proof of their professional abilities. They shall act on the responsibility of the classification society;
+
+(6) the classification society shall have a significant technical, managerial, support, inspection and research staff, in proportion to the tasks and the vessels classified and catering also for developing capability and updating the regulations. It shall have inspectors in at least one Member State;
+
+(7) the classification society shall be governed by a code of ethics;
+
+(8) the classification society shall be managed and administered in such a way as to ensure the confidentiality of information required by a Member State;
+
+(9) the classification society shall be prepared to provide relevant information to a Member State;
+
+(10) the classification society's management shall define and document its policy and objectives for, and commitment to, quality and ensured that this policy is understood, implemented and maintained at all levels in the classification society;
+
+(11) the classification society shall prepare and implement and shall maintain an effective internal quality system based on the relevant parts of internationally recognised quality standards and complying with the EN ISO/IEC 17020:2004, as interpreted by the IACS quality system certification scheme requirements. The quality system must be certified by an independent body of auditors recognised by the administration of the State in which the classification society has its headquarters or branch, as provided for in point (4), and which, inter alia, ensures that:
+
+(a) the classification society's rules and regulations are established and maintained in a systematic manner;
+
+(b) the classification society's rules and regulations are complied with;
+
+(c) the requirements of the statutory work for which the classification society is authorised are satisfied;
+
+(d) the responsibilities, powers and interrelation of personnel whose work affects the quality of the classification society's services are defined and documented;
+
+(e) all work is carried out under controlled conditions;
+
+(f) a supervisory system is in place which monitors the actions and work carried out by surveyors and technical and administrative staff employed directly by the classification society;
+
+(g) the requirements of major statutory work for which the classification society is authorised are only carried out or directly supervised by its exclusive surveyors or by exclusive surveyors of other recognised classification societies;
+
+(h) a system for qualification of surveyors and continuous updating of their knowledge is implemented;
+
+(i) records are maintained, demonstrating achievement of the required standards in the items covered by the services performed, as well as the effective operation of the quality system; and
+
+(j) a comprehensive system of planned and documented internal audits of quality-related activities exists in all locations;
+
+(12) the quality system must be certified by an independent body of auditors recognised by the administration of the Member State in which the classification society has its headquarters or branch, as provided for in point 4;
+
+(13) the classification society shall undertake to bring its requirements into line with the appropriate Union directives and to provide the Commission with all relevant information in good time;
+
+(14) the classification society shall undertake periodically to consult with the classification societies already recognised in order to guarantee the equivalence of their technical standards and of implementation thereof, and to allow participation in the development of its rules and regulations by representatives of a Member State and other parties concerned.
+
+## ANNEX VII
+
+**CORRELATION TABLE**
+
+<tbody><tr><td>Directive 2006/87/EC</td><td>This Directive</td></tr>
+<tr><td>—</td><td>Article 1</td></tr>
+<tr><td>Article 2</td><td>Article 2</td></tr>
+<tr><td>—</td><td>Article 3</td></tr>
+<tr><td>Article 1</td><td>Article 4</td></tr>
+<tr><td>—</td><td>Article 5</td></tr>
+<tr><td>Article 9</td><td>Article 6(1) and (3)</td></tr>
+<tr><td>Article 8(1)</td><td>Article 6(2) and (4)</td></tr>
+<tr><td>Article 8(4)</td><td>Article 6(5)</td></tr>
+<tr><td>Article 3</td><td>Article 7</td></tr>
+<tr><td>Article 4</td><td>Article 8</td></tr>
+<tr><td>Article 11(2)</td><td>Article 9</td></tr>
+<tr><td>Article 11(1)</td><td>Article 10</td></tr>
+<tr><td>Article 14</td><td>Article 11</td></tr>
+<tr><td>Article 13</td><td>Article 12</td></tr>
+<tr><td>Article 12</td><td>Article 13</td></tr>
+<tr><td>Article 15</td><td>Article 14</td></tr>
+<tr><td>Article 16</td><td>Article 15</td></tr>
+<tr><td>Article 18</td><td>Article 16</td></tr>
+<tr><td>—</td><td>Article 17</td></tr>
+<tr><td>—</td><td>Article 18</td></tr>
+<tr><td>—</td><td>Article 19</td></tr>
+<tr><td>Article 10</td><td>Article 20</td></tr>
+<tr><td>—</td><td>Article 21</td></tr>
+<tr><td>Article 17</td><td>Article 22</td></tr>
+<tr><td>Article 5</td><td>Article 23</td></tr>
+<tr><td>Article 6 has been deleted by Directive 2008/68/EC of the European Parliament and of the Council (1)</td><td>—</td></tr>
+<tr><td>Article 7(1) to (3)</td><td>Article 24</td></tr>
+<tr><td>—</td><td>Article 25</td></tr>
+<tr><td>—</td><td>Article 26</td></tr>
+<tr><td>—</td><td>Article 27</td></tr>
+<tr><td>—</td><td>Article 28</td></tr>
+<tr><td>Article 8(2) and (3)</td><td>Article 29</td></tr>
+<tr><td>—</td><td>Article 30</td></tr>
+<tr><td>Article 20(1)</td><td>Article 31</td></tr>
+<tr><td>Article 20(2)</td><td>—</td></tr>
+<tr><td>Article 22</td><td>—</td></tr>
+<tr><td>—</td><td>Article 32</td></tr>
+<tr><td>Article 19</td><td>Article 33</td></tr>
+<tr><td>—</td><td>Article 34</td></tr>
+<tr><td>Article 24</td><td>Article 35</td></tr>
+<tr><td>Article 21</td><td>Article 36</td></tr>
+<tr><td>Article 23</td><td>Article 37(1) and (2)</td></tr>
+<tr><td>Article 7(4)</td><td>Article 37(3)</td></tr>
+<tr><td>—</td><td>Article 38</td></tr>
+<tr><td>—</td><td>Article 39</td></tr>
+<tr><td>Article 25</td><td>—</td></tr>
+<tr><td>Article 26</td><td>—</td></tr>
+<tr><td>Article 27</td><td>Article 40</td></tr>
+<tr><td colspan="2">(1)  Directive 2008/68/EC of the European Parliament and of the Council of 24 September 2008 on the inland transport of dangerous goods (OJ L 260, 30.9.2008, p. 13). </td></tr>
+</tbody>
+
+( 1 ) Directive 2009/45/EC of the European Parliament and of the Council of 6 May 2009 on safety rules and standards for passenger ships (OJ L 163, 25.6.2009, p. 1).
+
+( 2 ) Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation) (OJ L 119, 4.5.2016, p. 1).
+
+( 3 ) Regulation (EC) No 45/2001 of the European Parliament and of the Council of 18 December 2000 on the protection of individuals with regard to the processing of personal data by the Community institutions and bodies and on the free movement of such data (OJ L 8, 12.1.2001, p. 1).
+
+( 4 ) Directive 2005/44/EC of the European Parliament and of the Council of 7 September 2005 on harmonised river information services (RIS) on inland waterways in the Community (OJ L 255, 30.9.2005, p. 152).
+
+( 5 ) Council Directive 82/714/EEC of 4 October 1982 laying down technical requirements for inland waterway vessels (OJ L 301, 28.10.1982, p. 1).
+
+( 6 ) Council Directive 91/672/EEC of 16 December 1991 on the reciprocal recognition of national boatmasters' certificates for the carriage of goods and passengers by inland waterway (OJ L 373, 31.12.1991, p. 29).

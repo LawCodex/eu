@@ -1,0 +1,227 @@
+---
+title: "Council Directive 2011/85/EU of 8 November 2011 on requirements for budgetary frameworks of the Member States"
+identifier: "32011L0085"
+eli: "http://data.europa.eu/eli/dir/2011/85/oj"
+type: directive
+jurisdiction: eu
+language: en
+date: 2011-11-08
+entry_into_force: 2011-06-01
+last_amended: 2024-04-30
+consolidated_version: "02011L0085-20240430"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02011L0085-20240430"
+retrieved: 2026-10-11
+---
+
+# Council Directive 2011/85/EU of 8 November 2011 on requirements for budgetary frameworks of the Member States
+
+**COUNCIL DIRECTIVE 2011/85/EU**
+
+**of 8 November 2011**
+
+**on requirements for budgetary frameworks of the Member States**
+
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> COUNCIL DIRECTIVE (EU) 2024/1265 of 29 April 2024 </td><td> L 1265</td><td>1</td><td>30.4.2024</td></tr>
+
+**COUNCIL DIRECTIVE 2011/85/EU**
+
+**of 8 November 2011**
+
+**on requirements for budgetary frameworks of the Member States**
+
+## CHAPTER I — SUBJECT MATTER AND DEFINITIONS
+
+### Article 1
+
+This Directive lays down detailed rules concerning the characteristics of the budgetary frameworks of the Member States. Those rules are necessary to ensure Member States’ compliance with obligations under the TFEU with regard to avoiding excessive government deficits.
+
+### Article 2
+
+For the purposes of this Directive, the definitions of ‘government’, ‘deficit’ and ‘investment’ set out in Article 2 of the Protocol (No 12) on the excessive deficit procedure annexed to the TEU and to the TFEU shall apply. The definition of sub-sectors of general government set out in Annex A to Regulation (EU) No 549/2013 of the European Parliament and of the Council ( 1 ) shall apply.
+
+In addition, the following definition shall apply:
+
+‘budgetary framework’ means the set of arrangements, procedures, rules and institutions that underlie the conduct of budgetary policies of general government, in particular:
+
+(a) systems of public accounting and statistical reporting by the general government;
+
+(b) rules and procedures governing the preparation of forecasts for budgetary planning;
+
+(c) country-specific numerical fiscal rules that contribute to the consistency of Member States’ conduct of fiscal policy with their respective obligations under the TFEU, and that are expressed in terms of an indicator of budgetary performance, such as the government budget deficit, borrowing, debt, or a major component thereof;
+
+(d) budgetary procedures comprising procedural rules to underpin the budget process at all stages;
+
+(e) medium-term budgetary frameworks as a specific set of national budgetary procedures that extend the horizon for fiscal policy-making beyond the annual budgetary calendar, including the setting of policy priorities and of national budgetary objectives over the medium term;
+
+(f) arrangements for independent monitoring and analysis, to enhance the transparency of elements of the budget process;
+
+(g) mechanisms and rules that regulate fiscal relationships between public authorities across sub-sectors of general government;
+
+(h) independent fiscal institutions as bodies structurally independent or bodies endowed with functional autonomy as regards the budgetary authorities of the Member States established by national legal provisions in accordance with Article 8a.
+
+## CHAPTER II — ACCOUNTING AND STATISTICS
+
+### Article 3
+
+1\. As concerns national systems of public accounting, Member States shall have in place public accounting systems that comprehensively and consistently cover all sub-sectors of general government and that contain the information needed to generate accrual data with a view to preparing data based on the European System of National and Regional Accounts. Those public accounting systems by the general government shall be subject to internal control and independent audits.
+
+2\. Member States shall ensure timely and regular public availability of fiscal data for all sub-sectors of general government as set out by Regulation (EU) No 549/2013. In particular, Member States shall publish for central government, state government, local government and social security funds, quarterly debt and, unless they have in place integrated, comprehensive and nationally harmonised accrual financial accounting systems, deficit data separately, before the end of the following quarter or after publication of the relevant data by the Commission (Eurostat).
+
+3\. The Commission (Eurostat) shall publish the quarterly government finance statistics data in accordance with tables 25, 27 and 28 of Annex B to Regulation (EU) No 549/2013, every three months.
+
+## CHAPTER III — FORECASTS
+
+### Article 4
+
+1\. Member States shall ensure that annual and multiannual fiscal planning is based on realistic macroeconomic and budgetary forecasts using the most up-to-date information. Budgetary planning shall be based on the most likely macrofiscal scenario or on a more prudent scenario. The macroeconomic and budgetary forecasts shall be compared with the most updated forecasts of the Commission and, if appropriate, those of other independent bodies. Significant differences between the macroeconomic and budgetary forecasts of the Member State and the Commission’s forecasts shall be explained, including where the level or growth of variables in external assumptions departs significantly from the values contained in the Commission’s forecasts.
+
+2\. The Commission shall make public the methodologies, assumptions and relevant parameters that underpin its macroeconomic and budgetary forecasts.
+
+3\. In order to support Member States in preparing their budgetary forecasts, the Commission shall provide forecasts for the expenditure of the Union based on the level of expenditure programmed within the multiannual financial framework.
+
+5\. Member States shall specify which institution is responsible for producing macroeconomic and budgetary forecasts and shall make public the official macroeconomic and budgetary forecasts prepared for fiscal planning. At least annually, the Member States and the Commission shall engage in a technical dialogue concerning the assumptions underpinning the preparation of macroeconomic and budgetary forecasts.
+
+6\. The macroeconomic and budgetary forecasts for annual and multiannual fiscal planning shall be subject to regular, objective and comprehensive ex post evaluation by an independent body or other bodies with functional autonomy vis-à-vis the fiscal authorities of the Member States different from the one producing the forecast. The result of that evaluation shall be made public and taken into account appropriately in future macroeconomic and budgetary forecasts. If the evaluation detects a significant bias affecting macroeconomic forecasts over a period of at least four consecutive years, the Member State concerned shall take the necessary action and make it public.
+
+## CHAPTER IV — NUMERICAL FISCAL RULES
+
+### Article 5
+
+Each Member State shall establish its specific numerical fiscal rules to effectively promote compliance with its obligations deriving from the TFEU in the area of budgetary policy over a multiannual period for the general government as a whole. Such rules shall promote in particular:
+
+(a) compliance with the reference values and provisions on deficit and debt set out in Article 1 of Protocol (No 12) on the excessive deficit procedure annexed to the TEU and to the TFEU;
+
+(b) the adoption of a medium-term fiscal planning horizon, consistent with Regulation (EU) 2024/1263 of the European Parliament and of the Council ( 2 ).
+
+### Article 6
+
+1\. Without prejudice to the provisions of the TFEU concerning the budgetary surveillance framework of the Union, country-specific numerical fiscal rules shall contain specifications as to the following elements:
+
+(a) the target definition and scope of the rules;
+
+(b) The effective and timely monitoring of compliance with the rules, based on reliable and independent analysis carried out by independent fiscal institutions established in accordance with Article 8a or other bodies with functional autonomy vis-à-vis the fiscal authorities of the Member States;
+
+(c) the consequences in the event of non-compliance.
+
+2\. If numerical fiscal rules contain escape clauses, such clauses shall set out a limited number of specific circumstances, consistent with Member States’ obligations under the TFEU and Regulation (EU) 2024/1263.
+
+### Article 7
+
+The annual budget legislation of the Member States shall be consistent with the country-specific numerical fiscal rules in force.
+
+## CHAPTER V — INDEPENDENT FISCAL INSTITUTIONS
+
+### Article 8a
+
+1\. Member States shall ensure that independent fiscal institutions are established by national laws, regulations or binding administrative provisions.
+
+2\. Member States may establish more than one independent fiscal institution.
+
+3\. Independent fiscal institutions shall be composed of members nominated and appointed on the basis of their experience and competence in public finances, macroeconomics or budgetary management, and by means of transparent procedures.
+
+4\. Independent fiscal institutions shall:
+
+(a) not take instructions from the budgetary authorities of the Member State concerned or from any other public or private body;
+
+(b) have the capacity to communicate publicly about their assessments and opinions in a timely manner;
+
+(c) have adequate and stable resources to carry out their tasks in an effective manner, including any type of analysis within their tasks;
+
+(d) have adequate and timely access to the information needed to fulfil their tasks;
+
+(e) be subject to regular external evaluations by independent evaluators.
+
+5\. Without prejudice to the tasks and functions attributed in accordance with Regulation (EU) No 473/2013 for Member States whose currency is the euro, all Member States shall ensure that the following tasks are undertaken by one of the independent fiscal institutions:
+
+(a) producing, assessing or endorsing annual and multiannual macroeconomic forecasts;
+
+(b) monitoring compliance with country-specific numerical fiscal rules unless performed by other bodies in accordance with Article 6;
+
+(c) undertaking tasks in accordance with Articles 11, 15(3) and 23 of Regulation (EU) 2024/1263 and Article 3(5) of Council Regulation (EC) No 1467/97 ( 3 );
+
+(d) assessing the consistency, coherence and effectiveness of the national budgetary framework;
+
+(e) upon invitation, participate in regular hearings and discussions at the national Parliament.
+
+6\. Independent fiscal institutions shall issue assessments in the context of the tasks referred to in point (a), (b), (c) or (d) of paragraph 5 of this Article without prejudice to the tasks and functions attributed in accordance with Regulation (EU) No 473/2013. Member States shall comply with those assessments or shall explain why they are not following them. That explanation shall be public and be presented within two months from the date of issuance of such assessments.
+
+### Article 9
+
+1\. Member States shall establish a credible, effective national medium-term budgetary framework providing for the adoption of a fiscal planning horizon of at least three years to ensure that national fiscal planning follows a multiannual fiscal planning perspective.
+
+2\. National medium-term budgetary frameworks shall include procedures for establishing the following items:
+
+(a) comprehensive and transparent national budgetary objectives over the medium term as referred to in point (e) of the second paragraph of Article 2 of this Directive in terms of the general government deficit, debt and any other fiscal indicator such as expenditure, ensuring that they are consistent with any country-specific numerical fiscal rules as provided for in Chapter IV of this Directive and the relevant provisions of Regulation (EU) 2024/1263;
+
+(b) projections of each major expenditure and revenue item of the general government with more specifications on the central government and social security level, for the budget year and beyond, based on unchanged policies;
+
+(c) a description of medium-term policies, including reforms and investment, envisaged with an impact on general government finances and sustainable and inclusive growth, broken down by major revenue and expenditure item, showing how the adjustment towards the national budgetary objectives over the medium term as referred to in point (e) of the second paragraph of Article 2 is achieved compared to projections under unchanged policies;
+
+(d) an assessment as to how, in the light of their direct medium-term and long-term impact on general government finances, the policies envisaged are likely to affect the medium-term and long-term sustainability of the public finances and sustainable and inclusive growth. To the extent possible, the assessment shall take into account the macrofiscal risks from climate change and its environmental and distributional impacts.
+
+### Article 10
+
+Annual budget legislation shall be consistent with the national budgetary objectives over the medium term as referred to in point (e) of the second paragraph of Article 2. Any departure shall be duly explained.
+
+### Article 11
+
+This Directive shall not prevent a Member State, in the case of a newly appointed government, from updating its medium-term budgetary plan to reflect its new policy priorities. In such case, the Member State shall indicate the differences between the previous and the new medium-term budgetary plan.
+
+## CHAPTER VI — TRANSPARENCY OF GENERAL GOVERNMENT FINANCES
+
+### Article 12
+
+Member States shall ensure that any measures taken in compliance with Chapters II, III and IV are consistent across all sub-sectors of general government and comprehensively cover those sub-sectors. To that effect, Member States shall, in particular, have consistent accounting rules and procedures in place for the general government, and shall ensure the integrity of their underlying data collection and processing systems.
+
+### Article 13
+
+1\. Member States shall establish appropriate mechanisms of coordination across sub-sectors of general government to provide for comprehensive and consistent coverage of all sub-sectors of general government in fiscal planning, country-specific numerical fiscal rules, and in the preparation of budgetary forecasts and setting-up of multiannual planning as laid down, in particular, in the multiannual budgetary framework.
+
+2\. In order to promote fiscal accountability, the budgetary responsibilities of public authorities in the various sub-sectors of general government shall be clearly laid down.
+
+### Article 14
+
+1\. Within the framework of the annual and multiannual budgetary processes, Member States shall publish information on bodies and funds that do not form part of the regular budgets but are part of the general government, including sub-sectors of general government. Member States shall also publish amounts corresponding to the combined impact on general government balances and debts of those bodies and funds.
+
+2\. Member States shall publish detailed information on the impact of tax expenditure on revenues.
+
+3\. For all sub-sectors of general government, Member States shall publish relevant information on contingent liabilities with potentially large impact on public budgets, including government guarantees, non-performing loans, and liabilities stemming from the operation of public corporations, including the extent thereof. Member States shall also publish information on disaster and climate-related contingent liabilities to the extent possible. Published information shall, to the extent possible, take into account information on fiscal costs incurred due to disasters and climate-related shocks. Member States shall publish information on the participation of general government in the capital of private and public corporations in respect of economically significant amounts.
+
+## CHAPTER VII — FINAL PROVISIONS
+
+### Article 15
+
+1\. Member States shall bring into force the provisions necessary to comply with this Directive by 31 December 2013. They shall forthwith communicate to the Commission the text of those provisions. The Council encourages the Member States to draw up, for themselves and in the interests of the Union, their own correlation tables which will, as far as possible, illustrate the correlation between this Directive and the transposition measures, and to make them public.
+
+2\. When Member States adopt those provisions, they shall contain a reference to this Directive or be accompanied by such a reference on the occasion of their official publication. Member States shall determine how such reference is to be made.
+
+3\. The Commission shall prepare an interim progress report on the implementation of the main provisions of this Directive on the basis of relevant information from Member States, which shall be submitted to the European Parliament and to the Council by 14 December 2012.
+
+4\. Member States shall communicate to the Commission the text of the main provisions which they adopt in the field covered by this Directive.
+
+### Article 16
+
+1\. By 31 December 2025 and every five years thereafter, the Commission shall report on the state of play of:
+
+(a) public accounting by the general government in the Union, taking into account the progress made since its 2013 assessment of the suitability of the International Public Sector Accounting Standards for the Member States;
+
+(b) the capacity and tasks of independent fiscal institutions in the Union, taking into account the progress made since the entry into force of this Directive, building on the findings of the Commission’s Fiscal Governance Database and consultations with relevant stakeholders, with a view to explore minimum standards.
+
+2\. By 31 December 2030, and every five years thereafter, the Commission shall publish a review of the effectiveness of this Directive.
+
+### Article 17
+
+This Directive shall enter into force on the 20th day following its publication in the Official Journal of the European Union.
+
+### Article 18
+
+This Directive is addressed to the Member States.
+
+( 1 ) Regulation (EU) No 549/2013 of the European Parliament and of the Council of 21 May 2013 on the European system of national and regional accounts in the European Union (OJ L 174, 26.6.2013, p. 1).
+
+( 2 ) Regulation (EU) 2024/1263 of the European Parliament and of the Council of 29 April 2024 on the effective coordination of economic policies and on multilateral budgetary surveillance and repealing Council Regulation (EC) No 1466/97 (OJ L, 2024/1263, 30.4.2024, ELI: http://data.europa.eu/eli/reg/2024/1263/oj).;
+
+( 3 ) Council Regulation (EC) No 1467/97 of 7 July 1997 on speeding up and clarifying the implementation of the excessive deficit procedure (OJ L 209, 2.8.1997, p. 6).

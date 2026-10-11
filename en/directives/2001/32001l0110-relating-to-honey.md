@@ -1,0 +1,311 @@
+---
+title: "Council Directive 2001/110/EC of 20 December 2001 relating to honey"
+identifier: "32001L0110"
+eli: "http://data.europa.eu/eli/dir/2001/110/oj"
+type: directive
+jurisdiction: eu
+language: en
+date: 2001-12-20
+entry_into_force: 2002-02-01
+last_amended: 2026-06-14
+consolidated_version: "02001L0110-20260614"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02001L0110-20260614"
+retrieved: 2026-10-11
+---
+
+# Council Directive 2001/110/EC of 20 December 2001 relating to honey
+
+**COUNCIL DIRECTIVE 2001/110/EC**
+
+**of 20 December 2001**
+
+**relating to honey**
+
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> DIRECTIVE 2014/63/EU OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 15 May 2014 </td><td> L 164</td><td>1</td><td>3.6.2014</td></tr>
+<tr><td></td><td> DIRECTIVE (EU) 2024/1438 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 14 May 2024 </td><td> L 1438</td><td>1</td><td>24.5.2024</td></tr>
+
+**COUNCIL DIRECTIVE 2001/110/EC**
+
+**of 20 December 2001**
+
+**relating to honey**
+
+## Article 1
+
+This Directive shall apply to the products defined in Annex I. These products shall meet the requirements set out in Annex II.
+
+## Article 2
+
+Regulation (EU) No 1169/2011 of the European Parliament and of the Council ( 1 ) applies to the products defined in Annex I to this Directive, subject to the following conditions:
+
+1\. the term ‘honey’ shall be applied only to the product defined in Annex I, point 1, and shall be used in trade to designate that product;
+
+2\. the product names referred to in Annex I, points 2 and 3, shall apply only to the products defined therein and shall be used in trade to designate them. Those names may be replaced by the simple product name ‘honey’, except in the case of comb honey, chunk honey or cut comb in honey and baker’s honey.
+
+However,
+
+(a) in the case of baker’s honey, the words ‘intended for cooking only’ shall appear on the label in close proximity to the product name;
+
+(b) except in the case of baker’s honey, those names may be supplemented by information concerning the honey’s:
+
+— floral or vegetable origin, if the product comes wholly or mainly from the indicated source and presents the organoleptic, physico-chemical and microscopic characteristics of the indicated origin,
+
+— regional, territorial or topographical origin, if the product comes entirely from the indicated source,
+
+— specific quality criteria;
+
+3\. where baker's honey has been used as an ingredient in a compound foodstuff, the term ‘honey’ may be used in the product name of the compound food instead of the term ‘baker's honey’. However, in the list of ingredients, the term as referred to in Annex I, point 3, shall be used;
+
+4.
+
+(a) the country of origin where the honey has been harvested shall be indicated on the label. If the honey originates in more than one country, the countries of origin where the honey has been harvested shall be indicated on the label in the principal field of vision, in descending order of their share in weight, together with the percentage that each of those countries of origin represents. A tolerance of 5 % shall be allowed for each individual share within the blend, calculated on the basis of the operator’s traceability documentation.
+
+However, Member States may provide that, with regard to honey placed on the market in their territory, where the number of countries of origin of honey in a blend is greater than four and the four largest shares represent more than 50 % of the blend, it is allowed to indicate with the percentage only those four largest shares, and that the remaining countries of origin are to be indicated in descending order without a percentage.
+
+In the case of packages containing net quantities of honey of less than 30 grammes, the names of the countries of origin may be replaced by a two-letter code, in accordance with the latest version of the international standard ISO 3166-1 two-letter code (alfa-2) in force;
+
+(b) the particulars to be indicated pursuant to subpoint (a) of this point shall be considered to be mandatory particulars in accordance with Article 9 of Regulation (EU) No 1169/2011;
+
+5\. pollen, being a natural constituent particular to honey, shall not be considered to be an ingredient, within the meaning of point (f) of Article 2(2) of Regulation (EU) No 1169/2011 of the European Parliament and of the Council ( 2 ), of the products defined in Annex I to this Directive.
+
+## Article 3
+
+In the case of baker’s honey, bulk containers, packaging and sales documentation shall clearly indicate the full product name as set out in point 3 of Annex I.
+
+## Article 4
+
+The Commission may, taking into account international standards and technical progress, adopt implementing acts laying down the methods of analysis to verify whether honey is compliant with this Directive.
+
+The Commission shall, by 14 June 2028, taking into account international standards and technical progress, adopt implementing acts laying down the methods of analysis to detect adulterated honey.
+
+The implementing acts referred to in this Article shall be adopted in accordance with the examination procedure referred to in Article 7(2).
+
+Until the adoption of the relevant implementing acts, Member States shall, whenever possible, use internationally recognised validated methods of analysis, such as those approved by the Codex Alimentarius, to verify compliance with this Directive.
+
+## Article 4a
+
+1\. For the purpose of ensuring fair commercial practices and protecting consumer interests, the Commission is empowered to adopt delegated acts in accordance with Article 6 to supplement this Directive by laying down the following:
+
+(a) the criterion of ‘mainly’ as regards the floral or vegetable origin of honey as referred to in Article 2, point 2, second subparagraph, point (b), first indent;
+
+(b) composition criteria to ensure that honey, with the exception of baker’s honey as defined in point 3 of Annex I, which is placed on the market as honey or used in a product intended for human consumption has not been heated or treated in such a way that the natural enzymes have been either destroyed or significantly deactivated, taking into account the invertase index;
+
+(c) the criteria to ensure and verify that pollen is not removed from honey and that the absolute pollen content and pollen spectrum are not modified in honey, with the exception of baker’s honey as defined in point 3 of Annex I, when placed on the market as honey or used in a product intended for human consumption, taking into account the pollen content, minimal size of pollen and mesh size of filters;
+
+(d) the minimal pollen content in baker’s honey following the removal of foreign inorganic or organic matter;
+
+(e) the methods and criteria to determine the place where honey has been harvested and Union-wide traceability requirements for honey from the harvesting producer or importer to the consumer.
+
+The Commission shall adopt the delegated acts referred to in points (b) to (e) of the first subparagraph by 14 June 2029.
+
+Before adopting those delegated acts, the Commission shall carry out feasibility studies. In the feasibility study it carries out concerning point (e) of the first subparagraph, the Commission shall include an analysis of available digital solutions or methods, including, where appropriate, a unique identifier code or similar techniques.
+
+The Commission shall provide, in the delegated acts referred to in the first subparagraph, for appropriate transitional arrangements for products placed on the market before the date of application of those delegated acts.
+
+2\. The Commission is empowered to adopt delegated acts in accordance with Article 6 to amend Annex II by adapting the composition criteria listed in that Annex to the criteria laid down in the delegated acts referred to in paragraph 1, first subparagraph, point (b), of this Article.
+
+## Article 4b
+
+1\. A platform is established composed of the following:
+
+(a) representatives of the Member States, competent authorities and designated laboratories;
+
+(b) experts representing relevant stakeholders in the honey supply chain;
+
+(c) experts representing civil society;
+
+(d) experts appointed in a personal capacity who have proven knowledge and experience in the areas covered by this Directive;
+
+(e) experts representing academia, including universities, research institutes and other scientific organisations.
+
+2\. The platform shall:
+
+(a) gather data for methods to improve authenticity controls of honey, in particular methods for the detection of adulteration in honey, with a view to possibly harmonising them;
+
+(b) provide recommendations for a Union traceability system, with a view to tracing the honey back to the harvesting producer or importer;
+
+(c) provide recommendations on the possible need to update the composition criteria and other quality parameters laid down in this Directive;
+
+(d) provide recommendations with a view to establishing a Union reference laboratory.
+
+3\. The platform shall be chaired by the Commission. The Commission shall adopt rules on the composition and working methods of the platform. The Commission may invite experts with specific expertise on an ad hoc basis.
+
+## Article 5
+
+For the products defined in Annex I, Member States shall not adopt national provisions not provided for by this Directive.
+
+## Article 6
+
+1\. The power to adopt the delegated acts is conferred on the Commission subject to the conditions laid down in this Article.
+
+2\. The power to adopt delegated acts referred to in Article 4(2) shall be conferred on the Commission for a period of five years from 23 June 2014. The Commission shall draw up a report in respect of the delegation of power not later than nine months before the end of the five-year period. The delegation of power shall be tacitly extended for periods of an identical duration unless the European Parliament or the Council opposes such extension not later than three months before the end of each period.
+
+3\. The delegation of power referred to in Article 4(2) may be revoked at any time by the European Parliament or by the Council. A decision to revoke shall put an end to the delegation of the power specified in that decision. It shall take effect the day following the publication of the decision in the Official Journal of the European Union or at a later date specified therein. It shall not affect the validity of the delegated acts already in force.
+
+4\. As soon as it adopts a delegated act, the Commission shall notify it simultaneously to the European Parliament and to the Council.
+
+5\. A delegated act adopted pursuant to Article 4(2) shall enter into force only if no objection has been expressed either by the European Parliament or the Council within a period of two months from the date of notification of that act to the European Parliament and the Council or if, before the expiry of that period, the European Parliament and the Council have both informed the Commission that they will not object. That period shall be extended by two months at the initiative of the European Parliament or of the Council.
+
+## Article 7
+
+1\. The Commission shall be assisted by the Standing Committee on the Food Chain and Animal Health (the ‘Committee’) established by Article 58(1) of Regulation (EC) No 178/2002 of the European Parliament and of the Council ( 3 ). The Committee is a committee within the meaning of Regulation (EU) No 182/2011 of the European Parliament and of the Council ( 4 ).
+
+2\. Where reference is made to this paragraph, Article 5 of Regulation (EU) No 182/2011 shall apply.
+
+Where the Committee delivers no opinion, the Commission shall not adopt the draft implementing act and the third subparagraph of Article 5(4) of Regulation (EU) No 182/2011 shall apply.
+
+## Article 8
+
+Directive 74/409/EEC is hereby repealed with effect from 1 August 2003.
+
+References to the repealed Directive shall be construed as references to this Directive.
+
+## Article 9
+
+Member States shall bring into force the laws, regulations and administrative provisions necessary to comply with this Directive before 1 August 2003. They shall forthwith inform the Commission thereof.
+
+The measures shall be applied so as to:
+
+— authorise the marketing of the products defined in Annex I if they conform to the definitions and rules laid down in this Directive, with effect from 1 August 2003;
+
+— prohibit the marketing of products which fail to conform to this Directive, with effect from 1 August 2004.
+
+However, the marketing of products which fail to conform to this Directive and labelled before 1 August 2004 in accordance with Directive 74/409/EEC shall be permitted until stocks run out.
+
+When Member States adopt these measures, these shall contain a reference to this Directive or shall be accompanied by such reference on the occasion of their official publication. The methods of making such reference shall be laid down by Member States.
+
+## Article 10
+
+This Directive shall enter into force on the 20th day following that of its publication in the Official Journal of the European Communities.
+
+## Article 11
+
+This Directive is addressed to the Member States.
+
+## ANNEX I — NAMES, PRODUCT DESCRIPTIONS AND DEFINITIONS
+
+1\. Honey is the natural sweet substance produced by Apis mellifera bees from the nectar of plants or from secretions of living parts of plants or excretions of plant-sucking insects on the living parts of plants, which the bees collect, transform by combining with specific substances of their own, deposit, dehydrate, store and leave in honeycombs to ripen and mature.
+
+2\. The main types of honey are as follows:
+
+(a) according to origin:
+
+(i) blossom honey or nectar honey
+
+Honey obtained from the nectar of plants;
+
+(ii) honeydew honey
+
+Honey obtained mainly from excretions of plant sucking insects (Hemiptera) on the living part of plants or secretions of living parts of plants;
+
+(b) according to mode of production and/or presentation:
+
+(iii) comb honey
+
+Honey stored by bees in the cells of freshly built broodless combs or thin comb foundation sheets made solely of beeswax and sold in sealed whole combs or sections of such combs;
+
+(iv) chunk honey or cut comb in honey
+
+Honey which contains one or more pieces of comb honey;
+
+(v) drained honey
+
+Honey obtained by draining decapped broodless combs;
+
+(vi) extracted honey
+
+Honey obtained by centrifuging decapped broodless combs;
+
+(vii) pressed honey
+
+Honey obtained by pressing broodless combs with or without the application of moderate heat not exceeding 45 °C.
+
+3\. Baker's honey
+
+Honey which is (a) suitable for industrial uses or as an ingredient in other foodstuffs which are then processed and (b) may:
+
+— have a foreign taste or odour, or
+
+— have begun to ferment or have fermented, or
+
+— have been overheated, or
+
+— have been obtained by removing foreign inorganic or organic matter in such a way as to result in the significant removal of pollen.
+
+## ANNEX II — COMPOSITION CRITERIA FOR HONEY
+
+Honey consists essentially of different sugars, predominantly fructose and glucose as well as other substances such as organic acids, enzymes and solid particles derived from honey collection. The colour of honey varies from nearly colourless to dark brown. The consistency can be fluid, viscous or partly to entirely crystallised. The flavour and aroma vary, but are derived from the plant origin.
+
+When placed on the market as honey or used in any product intended for human consumption, honey shall not have added to it any food ingredient, including food additives, nor shall any other additions be made other than honey. Honey must, as far as possible, be free from organic or inorganic matters foreign to its composition. With the exception of point 3 of Annex I, it must not have any foreign tastes or odours, have begun to ferment, have an artificially changed acidity or have been heated in such a way that the natural enzymes have been either destroyed or significantly inactivated.
+
+Without prejudice to Annex I, point 3, fourth indent   , neither pollen nor any other constituent particular to honey, may be removed except where this is unavoidable in the removal of foreign inorganic or organic matter.
+
+When placed on the market as honey or used in any product intended for human consumption, honey must meet the following composition criteria:
+
+1\. Sugar content
+
+1.1. Fructose and glucose content (sum of both)
+
+| —blossom honey | not less than 60 g/100 g |
+| --- | --- |
+| —honeydew honey, blends of honeydew honey with blossom honey | not less than 45 g/100 g |
+
+1.2. Sucrose content
+
+| —in general | not more than 5 g/100 g |
+| --- | --- |
+| —false acacia (Robinia pseudoacacia), alfalfa (Medicago sativa), Menzies Banksia (Banksia menziesii), French honeysuckle (Hedysarum), red gum (Eucalyptus camadulensis), leatherwood (Eucryphia lucida, Eucryphia milliganii), Citrus spp. | not more than 10 g/100 g |
+| —lavender (Lavandula spp.), borage (Borago officinalis) | not more than 15 g/100 g |
+
+2\. Moisture content
+
+| —in general | not more than 20 % |
+| --- | --- |
+| —heather (Calluna) an baker's honey in general | not more than 23 % |
+| —baker's honey from heather (Calluna) | not more than 25 % |
+
+3\. Water-insoluble content
+
+—in general not more than 0,1 g/100 g
+
+—pressed honey not more than 0,5 g/100 g
+
+4\. Electrical conductivity
+
+<tbody><tr><td>—honey not listed below, and blends of these honeys</td><td>not more than 0,8 mS/cm</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>—honeydew and chestnut honey and blends of these except with those listed below</td><td>not less than 0,8 mS/cm</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>—exceptions: strawberry tree (Arbutus unedo), bell heather (Erica), eucalyptus, lime (Tilia spp.), ling heather (Calluna vulgaris), manuka or jelly bush (leptospermum), tea tree (Melaleuca spp.)</td><td>  </td></tr>
+</tbody>
+
+5\. Free acid
+
+—in general not more than 50 milli-equivalents acid per 1 000 grammes
+
+—baker's honey not more than 80 milli-equivalents acid per 1 000 grammes
+
+6\. Diastase activity and hydroxymethylfurfural content (HMF) determined after processing and blending
+
+(a) Diastase activity (Schade scale)
+
+| —in general, except baker's honey | not less than 8 |
+| --- | --- |
+| —honeys with low natural enzyme content (e.g. citrus honeys) and an HMF content of not more than 15 mg/kg | not less than 3 |
+
+(b) HMF
+
+| —in general, except baker's honey | not more than 40 mg/kg (subject to the provisions of (a), second indent) |
+| --- | --- |
+| —honeys of declared origin from regions with tropical climate and blends of these honeys | not more than 80 mg/kg |
+
+( 1 ) Regulation (EU) No 1169/2011 of the European Parliament and of the Council of 25 October 2011 on the provision of food information to consumers, amending Regulations (EC) No 1924/2006 and (EC) No 1925/2006 of the European Parliament and of the Council, and repealing Commission Directive 87/250/EEC, Council Directive 90/496/EEC, Commission Directive 1999/10/EC, Directive 2000/13/EC of the European Parliament and of the Council, Commission Directives 2002/67/EC and 2008/5/EC and Commission Regulation (EC) No 608/2004 (OJ L 304, 22.11.2011, p. 18).
+
+( 2 ) Regulation (EU) No 1169/2011 of the European Parliament and of the Council of 25 October 2011 on the provision of food information to consumers, amending Regulations (EC) No 1924/2006 and (EC) No 1925/2006 of the European Parliament and of the Council, and repealing Commission Directive 87/250/EEC, Council Directive 90/496/EEC, Commission Directive 1999/10/EC, Directive 2000/13/EC of the European Parliament and of the Council, Commission Directives 2002/67/EC and 2008/5/EC and Commission Regulation (EC) No 608/2004 (OJ L 304, 22.11.2011, p. 18).
+
+( 3 ) Regulation (EC) No 178/2002 of the European Parliament and of the Council of 28 January 2002 laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety (OJ L 31, 1.2.2002, p. 1).
+
+( 4 ) Regulation (EU) No 182/2011 of the European Parliament and of the Council of 16 February 2011 laying down the rules and general principles concerning mechanisms for control by Member States of the Commission's exercise of implementing powers (OJ L 55, 28.2.2011, p. 13).

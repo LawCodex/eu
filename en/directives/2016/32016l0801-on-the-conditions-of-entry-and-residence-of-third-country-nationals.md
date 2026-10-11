@@ -1,0 +1,1032 @@
+---
+title: "Directive (EU) 2016/801 of the European Parliament and of the Council of 11 May 2016 on the conditions of entry and residence of third-country nationals for the purposes of research, studies, training, voluntary service, pupil exchange schemes or educational projects and au pairing (recast)"
+identifier: "32016L0801"
+eli: "http://data.europa.eu/eli/dir/2016/801/oj"
+type: directive
+jurisdiction: eu
+language: en
+date: 2016-05-11
+entry_into_force: 2016-08-15
+last_amended: 2021-11-17
+consolidated_version: "02016L0801-20211117"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02016L0801-20211117"
+retrieved: 2026-10-11
+---
+
+# Directive (EU) 2016/801 of the European Parliament and of the Council of 11 May 2016 on the conditions of entry and residence of third-country nationals for the purposes of research, studies, training, voluntary service, pupil exchange schemes or educational projects and au pairing (recast)
+
+**DIRECTIVE (EU) 2016/801 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 11 May 2016**
+
+**on the conditions of entry and residence of third-country nationals for the purposes of research, studies, training, voluntary service, pupil exchange schemes or educational projects and au pairing**
+
+**(recast)**
+
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> DIRECTIVE (EU) 2021/1883 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 20 October 2021 </td><td> L 382</td><td>1</td><td>28.10.2021</td></tr>
+
+**DIRECTIVE (EU) 2016/801 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 11 May 2016**
+
+**on the conditions of entry and residence of third-country nationals for the purposes of research, studies, training, voluntary service, pupil exchange schemes or educational projects and au pairing**
+
+**(recast)**
+
+## CHAPTER I — GENERAL PROVISIONS
+
+### Article 1 — Subject matter
+
+This Directive lays down:
+
+(a) the conditions of entry to, and residence for a period exceeding 90 days in, the territory of the Member States, and the rights, of third-country nationals, and where applicable their family members, for the purpose of research, studies, training or voluntary service in the European Voluntary Service, and where Member States so decide, pupil exchange schemes or educational projects, voluntary service other than the European Voluntary Service or au pairing;
+
+(b) the conditions of entry and residence, and the rights, of researchers, and where applicable their family members, and students, referred to in point (a), in Member States other than the Member State which first grants the third-country national an authorisation on the basis of this Directive.
+
+### Article 2 — Scope
+
+1\. This Directive shall apply to third-country nationals who apply to be admitted or who have been admitted to the territory of a Member State for the purpose of research, studies, training or voluntary service in the European Voluntary Service. Member States may also decide to apply the provisions of this Directive to third-country nationals who apply to be admitted for the purpose of a pupil exchange scheme or educational project, voluntary service other than the European Voluntary Service or au pairing.
+
+2\. This Directive shall not apply to third-country nationals:
+
+(a) who seek international protection or who are beneficiaries of international protection in accordance with the Directive 2011/95/EU of the European Parliament and of the Council ( 1 ) or who are beneficiaries of temporary protection in accordance with the Council Directive 2001/55/EC ( 2 ) in a Member State;
+
+(b) whose expulsion has been suspended for reasons of fact or of law;
+
+(c) who are family members of Union citizens who have exercised their right to free movement within the Union;
+
+(d) who enjoy long-term resident status in a Member State in accordance with Council Directive 2003/109/EC ( 3 );
+
+(e) who enjoy, together with their family members, and irrespective of their nationality, rights of free movement equivalent to those of citizens of the Union under agreements either between the Union and its Member States and third countries or between the Union and third countries;
+
+(f) who come to the Union as trainee employees in the context of an intra-corporate transfer under Directive 2014/66/EU;
+
+(g) who apply to reside in a Member State for the purpose of highly qualified employment within the meaning of Directive (EU) 2021/1883 of the European Parliament and of the Council ( 4 ).
+
+### Article 3 — Definitions
+
+For the purposes of this Directive, the following definitions apply:
+
+(1) ‘third-country national’ means a person who is not a citizen of the Union within the meaning of Article 20(1) TFEU;
+
+(2) ‘researcher’ means a third-country national who holds a doctoral degree or an appropriate higher education qualification which gives that third-country national access to doctoral programmes, who is selected by a research organisation and admitted to the territory of a Member State for carrying out a research activity for which such qualification is normally required;
+
+(3) ‘student’ means a third-country national who has been accepted by a higher education institution and is admitted to the territory of a Member State to pursue as a main activity a full-time course of study leading to a higher education qualification recognised by that Member State, including diplomas, certificates or doctoral degrees in a higher education institution, which may cover a preparatory course prior to such education, in accordance with national law, or compulsory training;
+
+(4) ‘school pupil’ means a third-country national who is admitted to the territory of a Member State to follow a recognised, state or regional programme of secondary education equivalent to level 2 or 3 of the International Standard Classification of Education, in the context of a pupil exchange scheme or educational project operated by an education establishment in accordance with national law or administrative practice;
+
+(5) ‘trainee’ means a third-country national who holds a degree of higher education or is pursuing a course of study in a third country that leads to a higher education degree and who is admitted to the territory of a Member State for a training programme for the purpose of gaining knowledge, practice and experience in a professional environment;
+
+(6) ‘volunteer’ means a third-country national who is admitted to the territory of a Member State to participate in a voluntary service scheme;
+
+(7) ‘voluntary service scheme’ means a programme of practical solidarity activities, based on a scheme recognised as such by the Member State concerned or the Union, pursuing objectives of general interest for a non-profit cause, in which the activities are not remunerated, except for reimbursement of expenses and/or pocket money;
+
+(8) ‘au pair’ means a third-country national who is admitted to the territory of a Member State to be temporarily received by a family in order to improve his or her linguistic skills and knowledge of the Member State concerned in exchange for light housework and taking care of children;
+
+(9) ‘research’ means creative work undertaken on a systematic basis in order to increase the stock of knowledge, including knowledge of man, culture and society, and the use of this stock of knowledge to devise new applications;
+
+(10) ‘research organisation’ means any public or private organisation which conducts research;
+
+(11) ‘education establishment’ means a public or private secondary education establishment recognised by the Member State concerned or whose courses of study are recognised in accordance with national law or administrative practice on the basis of transparent criteria and which participates in a pupil exchange scheme or educational project for the purposes set out in this Directive;
+
+(12) ‘educational project’ means a set of educational actions developed by a Member State's education establishment in cooperation with similar establishments in a third country, with the purpose of sharing cultures and knowledge;
+
+(13) ‘higher education institution’ means any type of higher education institution recognised or considered as such in accordance with national law which, in accordance with national law or practice, offers recognised higher education degrees or other recognised tertiary level qualifications, whatever such establishments may be called, or any institution which, in accordance with national law or practice, offers vocational education or training at tertiary level;
+
+(14) ‘host entity’ means a research organisation, a higher education institution, an education establishment, an organisation responsible for a voluntary service scheme or an entity hosting trainees to which the third-country national is assigned for the purposes of this Directive and which is located in the territory of the Member State concerned, irrespective of its legal form, in accordance with national law;
+
+(15) ‘host family’ means a family temporarily receiving an au pair and sharing its daily family life in the territory of a Member State on the basis of an agreement concluded between that family and the au pair;
+
+(16) ‘employment’ means the exercise of activities covering any form of labour or work regulated under national law or applicable collective agreements or in accordance with established practice for or under the direction or supervision of an employer;
+
+(17) ‘employer’ means any natural person or any legal entity, for or under the direction or supervision of whom or which the employment is undertaken;
+
+(18) ‘first Member State’ means the Member State which first issues a third-country national an authorisation on the basis of this Directive;
+
+(19) ‘second Member State’ means any Member State other than the first Member State;
+
+(20) ‘Union or multilateral programmes that comprise mobility measures’ means programmes funded by the Union or by Member States promoting mobility of third-country nationals in the Union or in the Member States participating in the respective programmes;
+
+(21) ‘authorisation’ means a residence permit or, if provided for in national law, a long-stay visa issued for the purposes of this Directive;
+
+(22) ‘residence permit’ means an authorisation issued using the format laid down in Regulation (EC) No 1030/2002 entitling its holder to stay legally on the territory of a Member State;
+
+(23) ‘long-stay visa’ means an authorisation issued by a Member State as provided for in Article 18 of the Schengen Convention ( 5 ) or issued in accordance with the national law of Member States not applying the Schengen acquis in full;
+
+(24) ‘family members’ means third-country nationals as defined in Article 4(1) of Directive 2003/86/EC.
+
+### Article 4 — More favourable provisions
+
+1\. This Directive shall be without prejudice to more favourable provisions of:
+
+(a) bilateral or multilateral agreements concluded between the Union or the Union and its Member States and one or more third countries; or
+
+(b) bilateral or multilateral agreements concluded between one or more Member States and one or more third countries.
+
+2\. This Directive shall be without prejudice to the right of Member States to adopt or maintain provisions that are more favourable to the third-country nationals to whom this Directive applies with respect to point (a) of Article 10(2) and Articles 18, 22, 23, 24, 25, 26, 34 and 35.
+
+## CHAPTER II — ADMISSION
+
+### Article 5 — Principles
+
+1\. The admission of a third-country national under this Directive shall be subject to the verification of documentary evidence attesting that the third-country national meets:
+
+(a) the general conditions laid down in Article 7; and
+
+(b) the relevant specific conditions in Article 8, 11, 12, 13, 14 or 16.
+
+2\. Member States may require the applicant to provide the documentary evidence referred to in paragraph 1 in an official language of the Member State concerned or in any official language of the Union determined by that Member State.
+
+3\. Where all the general conditions and relevant specific conditions are fulfilled, the third-country national shall be entitled to an authorisation.
+
+Where a Member State issues residence permits only on its territory and all the admission conditions laid down in this Directive are fulfilled, the Member State concerned shall issue the third-country national with the requisite visa.
+
+### Article 6 — Volumes of admission
+
+This Directive shall not affect the right of a Member State to determine, in accordance with Article 79(5) TFEU, the volumes of admission of third-country nationals referred to in Article 2(1) of this Directive, with the exception of students, if the Member State concerned considers that they are or will be in an employment relationship. On that basis, an application for authorisation may either be considered inadmissible or be rejected.
+
+### Article 7 — General conditions
+
+1\. As regards the admission of a third-country national under this Directive, the applicant shall:
+
+(a) present a valid travel document, as determined by national law, and, if required, an application for a visa or a valid visa or, where applicable, a valid residence permit or a valid long-stay visa; Member States may require the period of validity of the travel document to cover at least the duration of the planned stay;
+
+(b) if the third-country national is a minor under the national law of the Member State concerned, present a parental authorisation or an equivalent document for the planned stay;
+
+(c) present evidence that the third-country national has or, if provided for in national law, has applied for sickness insurance for all risks normally covered for nationals of the Member State concerned; the insurance shall be valid for the duration of the planned stay;
+
+(d) provide evidence, if the Member State so requires, that the fee for handling the application provided for in Article 36 has been paid;
+
+(e) provide the evidence requested by the Member State concerned that during the planned stay the third-country national will have sufficient resources to cover subsistence costs without having recourse to the Member State's social assistance system, and return travel costs. The assessment of the sufficient resources shall be based on an individual examination of the case and shall take into account resources that derive, inter alia, from a grant, a scholarship or a fellowship, a valid work contract or a binding job offer or a financial undertaking by a pupil exchange scheme organisation, an entity hosting trainees, a voluntary service scheme organisation, a host family or an organisation mediating au pairs.
+
+2\. Member States may require the applicant to provide the address of the third-country national concerned in their territory.
+
+Where the national law of a Member State requires an address to be provided at the time of application and the third-country national concerned does not yet know the future address, Member States shall accept a temporary address. In such a case, the third-country national shall provide his or her permanent address at the latest at the time of the issuance of an authorisation pursuant to Article 17.
+
+3\. Member States may indicate a reference amount which they regard as constituting ‘sufficient resources’ as referred to under point (e) of paragraph (1). The assessment of the sufficient resources shall be based on an individual examination of the case.
+
+4\. The application shall be submitted and examined either when the third-country national concerned is residing outside the territory of the Member State to which the third-country national wishes to be admitted or when the third-country national is already residing in that Member State as holder of a valid residence permit or long-stay visa.
+
+By way of derogation, a Member State may accept, in accordance with its national law, an application submitted when the third-country national concerned is not in possession of a valid residence permit or long-stay visa but is legally present in its territory.
+
+5\. Member States shall determine whether applications are to be submitted by the third-country national, by the host entity, or by either of the two.
+
+6\. Third-country nationals who are considered to pose a threat to public policy, public security or public health shall not be admitted.
+
+### Article 8 — Specific conditions for researchers
+
+1\. In addition to the general conditions laid down in Article 7, as regards the admission of a third-country national for the purpose of research, the applicant shall present a hosting agreement or, if provided for in national law, a contract, in accordance with Article 10.
+
+2\. Member States may require, in accordance with national law, a written undertaking from the research organisation that, in the event that a researcher remains illegally in the territory of the Member State concerned, that research organisation is responsible for reimbursing the costs related to the stay and return incurred by public funds. The financial responsibility of the research organisation shall end at the latest six months after the termination of the hosting agreement.
+
+Where the right of residence of the researcher is extended in accordance with Article 25, the responsibility of the research organisation referred to in the first subparagraph of this paragraph shall be limited until the starting date of the residence permit for the purpose of job-searching or entrepreneurship.
+
+3\. A Member State which has established an approval procedure for research organisations in accordance with Article 9 shall exempt applicants from presenting one or more of the documents or evidence referred to in paragraph 2 of this Article or in points (c), (d) or (e) of Article 7(1) or in Article 7(2), where the third-country nationals are to be hosted by approved research organisations.
+
+### Article 9 — Approval of research organisations
+
+1\. Member States may decide to provide for an approval procedure for public and/or private research organisations wishing to host a researcher under the admission procedure laid down in this Directive.
+
+2\. The approval of the research organisations shall be in accordance with procedures set out in the national law or administrative practice of the Member State concerned. Applications for approval by research organisations shall be made in accordance with those procedures and be based on their statutory tasks or corporate purposes as appropriate and on evidence that they conduct research.
+
+The approval granted to a research organisation shall be for a minimum period of five years. In exceptional cases, Member States may grant approval for a shorter period.
+
+3\. A Member State may, among other measures, refuse to renew or decide to withdraw the approval where:
+
+(a) a research organisation no longer complies with paragraph 2 of this Article, Article 8(2) or Article 10(7);
+
+(b) the approval has been fraudulently acquired; or
+
+(c) a research organisation has signed a hosting agreement with a third-country national fraudulently or negligently.
+
+Where an application for renewal has been refused or where the approval has been withdrawn, the organisation concerned may be banned from reapplying for approval for a period of up to five years from the date of publication of the decision on non-renewal or withdrawal.
+
+### Article 10 — Hosting agreement
+
+1\. A research organisation wishing to host a third-country national for the purpose of research shall sign a hosting agreement with the latter. Member States may provide that contracts containing the elements referred to in paragraph 2 and, where applicable, paragraph 3 shall be considered equivalent to hosting agreements for the purposes of this Directive.
+
+2\. The hosting agreement shall contain:
+
+(a) the title or purpose of the research activity or the research area;
+
+(b) an undertaking by the third-country national to endeavour to complete the research activity;
+
+(c) an undertaking by the research organisation to host the third-country national for the purpose of completing the research activity;
+
+(d) the start and end date or the estimated duration of the research activity;
+
+(e) information on the intended mobility in one or several second Member States if the mobility is known at the time of application in the first Member State.
+
+3\. Member States may also require the hosting agreement to contain:
+
+(a) information on the legal relationship between the research organisation and the researcher;
+
+(b) information on the working conditions of the researcher.
+
+4\. Research organisations may sign hosting agreements only if the research activity has been accepted by the relevant instances in the organisation, after examination of:
+
+(a) the purpose and estimated duration of the research activity, and the availability of the necessary financial resources for it to be carried out;
+
+(b) the third-country national's qualifications in the light of the research objectives, as evidenced by a certified copy of the qualifications.
+
+5\. The hosting agreement shall automatically lapse if the third-country national is not admitted or when the legal relationship between the researcher and the research organisation is terminated.
+
+6\. Research organisations shall promptly inform the competent authority of the Member State concerned of any occurrence likely to prevent implementation of the hosting agreement.
+
+7\. Member States may provide that, within two months of the date of expiry of the hosting agreement concerned, the research organisation shall provide the competent authorities designated for that purpose with confirmation that the research activity has been carried out.
+
+8\. Member States may determine in their national law the consequences of the withdrawal of the approval or the refusal to renew the approval for the existing hosting agreements, concluded in accordance with this Article, as well as the consequences for the authorisations of the researchers concerned.
+
+### Article 11 — Specific conditions for students
+
+1\. In addition to the general conditions laid down in Article 7, as regards the admission of a third-country national for the purpose of studies, the applicant shall provide evidence:
+
+(a) that the third-country national has been accepted by a higher education institution to follow a course of study;
+
+(b) if the Member State so requires, that the fees charged by the higher education institution have been paid;
+
+(c) if the Member State so requires, of sufficient knowledge of the language of the course to be followed;
+
+(d) if the Member State so requires, that the third-country national will have sufficient resources to cover the study costs.
+
+2\. Third-country nationals who automatically qualify for sickness insurance for all risks normally covered for the nationals of the Member State concerned as a result of enrolment at a higher education institution shall be presumed to meet the condition laid down in point (c) of Article 7(1).
+
+3\. A Member State which has established an approval procedure for higher education institutions in accordance with Article 15 shall exempt applicants from presenting one or more of the documents or evidence referred to in points (b), (c) or (d) of paragraph 1 of this Article or in point (d) of Article 7(1) or in Article 7(2), where the third-country nationals are to be hosted by approved higher education institutions.
+
+### Article 12 — Specific conditions for school pupils
+
+1\. In addition to the general conditions laid down in Article 7, as regards the admission of a third-country national for the purpose of a pupil exchange scheme or an educational project, the applicant shall provide evidence:
+
+(a) that the third-country national is neither below the minimum nor above the maximum age or grade set by the Member State concerned;
+
+(b) of acceptance by an education establishment;
+
+(c) of participation in a recognised, state or regional programme of education in the context of a pupil exchange scheme or educational project operated by an education establishment in accordance with national law or administrative practice;
+
+(d) that the education establishment, or, insofar as provided for by national law, a third party accepts responsibility for the third-country national throughout the stay in the territory of the Member State concerned, in particular as regards study costs;
+
+(e) that the third-country national will be accommodated throughout the stay by a family, in a special accommodation facility within the education establishment or, insofar as provided for by national law, in any other facility meeting the conditions set by the Member State concerned and selected in accordance with the rules of the pupil exchange scheme or educational project in which the third-country national is participating.
+
+2\. Member States may limit the admission of school pupils participating in a pupil exchange scheme or educational project to nationals of third countries which offer the same possibility for their own nationals.
+
+### Article 13 — Specific conditions for trainees
+
+1\. In addition to the general conditions laid down in Article 7, as regards the admission of a third-country national for the purpose of training, the applicant shall:
+
+(a) present a training agreement, which provides for a theoretical and practical training, with a host entity. Member States may require that such training agreement is approved by the competent authority and that the terms upon which the agreement has been based meet the requirements established in national law, collective agreements or practices of the Member State concerned. The training agreement shall contain:
+
+(i) a description of the training programme, including the educational objective or learning components;
+
+(ii) the duration of the traineeship;
+
+(iii) the placement and supervision conditions of the traineeship;
+
+(iv) the traineeship hours; and
+
+(v) the legal relationship between the trainee and the host entity;
+
+(b) provide evidence of having obtained a higher education degree within the two years preceding the date of application or of pursuing a course of study that leads to a higher education degree;
+
+(c) provide evidence, if the Member State so requires, that during the stay the third-country national will have sufficient resources to cover the training costs;
+
+(d) provide evidence, if the Member State so requires, that the third-country national has received or will receive language training so as to acquire the knowledge needed for the purpose of the traineeship;
+
+(e) provide evidence, if the Member State so requires, that the host entity accepts responsibility for the third-country national throughout the stay in the territory of the Member State concerned, in particular as regards subsistence and accommodation costs;
+
+(f) provide evidence, if the Member State so requires, that, if the third-country national is accommodated throughout the stay by the host entity, the accommodation meets the conditions set by the Member State concerned.
+
+2\. Member States may require the traineeship to be in the same field and at the same qualification level as the higher education degree or the course of study referred to in point (b) of paragraph 1.
+
+3\. Member States may require the host entity to substantiate that the traineeship does not replace a job.
+
+4\. Member States may require, in accordance with national law, a written undertaking from the host entity that, in the event that a trainee remains illegally in the territory of the Member State concerned, that host entity is responsible for reimbursing the costs related to the stay and return incurred by public funds. The financial responsibility of the host entity shall end at the latest six months after the termination of the training agreement.
+
+### Article 14 — Specific conditions for volunteers
+
+1\. In addition to the general conditions laid down in Article 7, as regards the admission of a third-country national for the purpose of voluntary service, the applicant shall:
+
+(a) provide an agreement with the host entity or, insofar as provided for by national law, another body responsible in the Member State concerned for the voluntary service scheme in which the third-country national is participating. The agreement shall contain:
+
+(i) a description of the voluntary service scheme;
+
+(ii) the duration of the voluntary service;
+
+(iii) the placement and supervision conditions of the voluntary service;
+
+(iv) the volunteering hours;
+
+(v) the resources available to cover the third-country national's subsistence and accommodation costs and a minimum sum of money as pocket money throughout the stay; and
+
+(vi) where applicable, the training the third-country national will receive to help perform the voluntary service;
+
+(b) provide evidence, if the Member State so requires, that, if the third-country national is accommodated throughout the stay by the host entity, the accommodation meets the conditions set by the Member State concerned;
+
+(c) provide evidence that the host entity or, insofar as provided for by national law, another body responsible for the voluntary service scheme has subscribed to a third-party insurance policy;
+
+(d) provide evidence, if the Member State so requires, that the third-country national has received or will receive a basic introduction to the language, history, political and social structures of that Member State.
+
+2\. Member States may determine a minimum and maximum age limit for third-country nationals who apply to be admitted to a voluntary service scheme without prejudice to the rules under the European Voluntary Service.
+
+3\. Volunteers participating in the European Voluntary Service shall not be required to present evidence under point (c) and, where applicable, point (d) of paragraph 1.
+
+### Article 15 — Approval of higher education institutions, education establishments, organisations responsible for a voluntary service scheme or entities hosting trainees
+
+1\. For the purposes of this Directive, Member States may decide to provide for an approval procedure for higher education institutions, education establishments, organisations responsible for a voluntary service scheme or entities hosting trainees.
+
+2\. The approval shall be in accordance with procedures set out in the national law or administrative practice of the Member State concerned.
+
+3\. Where a Member State decides to establish an approval procedure in accordance with paragraphs 1 and 2, it shall provide clear and transparent information to the host entities concerned about, inter alia, the conditions and criteria for approval, its period of validity, the consequences of non-compliance, including possible withdrawal and non-renewal, as well as any sanction applicable.
+
+### Article 16 — Specific conditions for au pairs
+
+1\. In addition to the general conditions laid down in Article 7, as regards the admission of a third-country national for the purpose of au pairing, the third-country national shall:
+
+(a) provide an agreement between the third-country national and the host family defining the third-country national's rights and obligations as an au pair, including specifications about the pocket money to be received, adequate arrangements allowing the au pair to attend courses and the maximum hours of family duties;
+
+(b) be between the age of 18 and 30. In exceptional cases, Member States may allow the admission of a third-country national, as an au pair, who is above the maximum age limit;
+
+(c) provide evidence that the host family or an organisation mediating au pairs, insofar as provided for by national law, accepts responsibility for the third-country national throughout the stay in the territory of the Member State concerned, in particular with regard to living expenses, accommodation and accident risks.
+
+2\. Member States may require the third-country national who applies to be admitted as an au pair to provide evidence:
+
+(a) of basic knowledge of the language of the Member State concerned; or
+
+(b) of having secondary education, professional qualifications or, where applicable, of fulfilling the conditions to exercise a regulated profession, as required by national law.
+
+3\. Member States may determine that the placement of au pairs shall only be carried out by an organisation mediating au pairs under the conditions defined in national law.
+
+4\. Member States may require the members of the host family to be of different nationality than the third-country national who applies to be admitted for the purpose of au pairing and not to have any family links with the third-country national concerned.
+
+5\. The maximum number of hours of au pair duties per week shall not exceed 25 hours. The au pair shall have at least one day per week free from au pair duties.
+
+6\. Member States may set a minimum sum of money as pocket money to be paid to the au pair.
+
+## CHAPTER III — AUTHORISATIONS AND DURATION OF RESIDENCE
+
+### Article 17 — Authorisations
+
+1\. When the authorisation is in the form of a residence permit, Member States shall use the format laid down in Regulation (EC) No 1030/2002 and shall enter the term ‘researcher’, ‘student’, ‘school pupil’, ‘trainee’, ‘volunteer’ or ‘au pair’ on the residence permit.
+
+2\. When the authorisation is in the form of a long-stay visa, Member States shall enter a reference stating that it is issued to the ‘researcher’, ‘student’, ‘school pupil’, ‘trainee’, ‘volunteer’ or ‘au pair’ under the heading ‘remarks’ on the visa sticker.
+
+3\. For researchers and students coming to the Union in the framework of a specific Union or multilateral programme that comprises mobility measures, or an agreement between two or more recognised higher education institutions, the authorisation shall make a reference to that specific programme or agreement.
+
+4\. When the authorisation for long-term mobility is issued to a researcher in the form of a residence permit, Member States shall use the format laid down in Regulation (EC) No 1030/2002 and enter ‘researcher-mobility’ on the residence permit. When the authorisation for long-term mobility is issued to a researcher in the form of a long-stay visa, Member States shall enter ‘researcher-mobility’ under the heading ‘remarks’ on the visa sticker.
+
+### Article 18 — Duration of authorisation
+
+1\. The period of validity of an authorisation for researchers shall be at least one year, or for the duration of the hosting agreement where this is shorter. The authorisation shall be renewed if Article 21 does not apply.
+
+The duration of the authorisation for researchers who are covered by Union or multilateral programmes that comprise mobility measures shall be at least two years, or for the duration of the hosting agreement where this is shorter. If the general conditions laid down in Article 7 are not met for the two years or for the whole duration of the hosting agreement, the first subparagraph of this paragraph shall apply. Member States shall retain the right to verify that the grounds for withdrawal set out in Article 21 do not apply.
+
+2\. The period of validity of an authorisation for students shall be at least one year, or for the duration of studies where this is shorter. The authorisation shall be renewed if Article 21 does not apply.
+
+The duration of the authorisation for students who are covered by Union or multilateral programmes that comprise mobility measures or by an agreement between two or more higher education institutions shall be at least two years, or for the duration of their studies where this is shorter. If the general conditions laid down in Article 7 are not met for the two years or for the whole duration of the studies, the first subparagraph of this paragraph shall apply. Member States shall retain the right to verify that the grounds for withdrawal set out in Article 21 do not apply.
+
+3\. Member States may determine that the total time of residence for studies shall not exceed the maximum duration of studies as defined in national law.
+
+4\. The period of validity of an authorisation for school pupils shall be for the duration of the pupil exchange scheme or the educational project where this is shorter than one year, or for a maximum of one year. Member States may decide to allow the renewal of the authorisation once for the period necessary to complete the pupil exchange scheme or the educational project if Article 21 does not apply.
+
+5\. The period of validity of an authorisation for au pairs shall be for the duration of the agreement between the au pair and the host family where this is shorter than one year, or for a maximum period of one year. Member States may decide to allow the renewal of the authorisation once for a maximum period of six months, after a justified request by the host family, if Article 21 does not apply.
+
+6\. The period of validity of an authorisation for trainees shall be for the duration of the training agreement where this is shorter than six months, or for a maximum of six months. If the duration of the agreement is longer than six months, the duration of the validity of the authorisation may correspond to the period concerned in accordance with national law.
+
+Member States may decide to allow the renewal of the authorisation once for the period necessary to complete the traineeship if Article 21 does not apply.
+
+7\. The period of validity of an authorisation for volunteers shall be for the duration of the agreement referred to in point (a) of Article 14(1) where this is shorter than one year, or for a maximum period of one year. If the duration of the agreement is longer than one year, the duration of the validity of the authorisation may correspond to the period concerned in accordance with national law.
+
+8\. Member States may determine that, in case the validity of the travel document of the third-country national concerned is shorter than one year or shorter than two years in the cases referred to in paragraphs 1 and 2, the period of validity of the authorisation shall not exceed the period of validity of the travel document.
+
+9\. Where Member States allow entry and residence during the first year on the basis of a long-stay visa, an application for a residence permit shall be submitted before the expiry of the long-stay visa. The residence permit shall be issued if Article 21 does not apply.
+
+### Article 19 — Additional information
+
+1\. Member States may indicate additional information in paper format or store such information in electronic format, as referred to in Article 4 of Regulation (EC) No 1030/2002 and point (a) 16 of the Annex thereto. This information may relate to the residence and, in cases covered by Article 24 of this Directive, the economic activities of the student and include in particular the full list of Member States that the researcher or student intends to go to in the framework of mobility or relevant information on a specific Union or multilateral programme that comprises mobility measures or an agreement between two or more higher education institutions.
+
+2\. Member States may also provide that the information referred to in paragraph 1 of this Article shall be indicated on the long-stay visa, as referred to in point 12 of the Annex to Council Regulation (EC) No 1683/95 ( 6 ).
+
+## CHAPTER IV — GROUNDS FOR REJECTION, WITHDRAWAL OR NON-RENEWAL OF AUTHORISATIONS
+
+### Article 20 — Grounds for rejection
+
+1\. Member States shall reject an application where:
+
+(a) the general conditions laid down in Article 7 or the relevant specific conditions laid down in Articles 8, 11, 12, 13, 14 or 16 are not met;
+
+(b) the documents presented have been fraudulently acquired, or falsified, or tampered with;
+
+(c) the Member State concerned only allows admission through an approved host entity and the host entity is not approved.
+
+2\. Member States may reject an application where:
+
+(a) the host entity, another body as referred to in point (a) of Article 14(1), a third party as referred to in point (d) of Article 12(1), the host family or the organisation mediating au pairs has failed to meet its legal obligations regarding social security, taxation, labour rights or working conditions;
+
+(b) where applicable, the terms of employment as provided for in national law or collective agreements or practices in the Member State concerned are not met by the host entity or host family that will employ the third-country national;
+
+(c) the host entity, another body as referred to in point (a) of Article 14(1), a third party as referred to in point (d) of Article 12(1), the host family or the organisation mediating au pairs has been sanctioned in accordance with national law for undeclared work or illegal employment;
+
+(d) the host entity was established or operates for the main purpose of facilitating the entry of third-country nationals falling under the scope of this Directive;
+
+(e) where applicable, the host entity's business is being or has been wound up under national insolvency laws or no economic activity is taking place;
+
+(f) the Member State has evidence or serious and objective grounds to establish that the third-country national would reside for purposes other than those for which he or she applies to be admitted.
+
+3\. Where a third-country national applies to be admitted to enter into an employment relationship in a Member State, that Member State may verify whether the post in question could be filled by nationals of that Member State or by other Union citizens, or by third-country nationals lawfully residing in that Member State, in which case it may reject the application. This paragraph shall apply without prejudice to the principle of preference for Union citizens as expressed in the relevant provisions of the relevant Acts of Accession.
+
+4\. Without prejudice to paragraph 1, any decision to reject an application shall take account of the specific circumstances of the case and respect the principle of proportionality.
+
+### Article 21 — Grounds for withdrawal or non-renewal of an authorisation
+
+1\. Member States shall withdraw or, where applicable, refuse to renew an authorisation where:
+
+(a) the third-country national no longer meets the general conditions laid down in Article 7, except for Article 7(6), or the relevant specific conditions laid down in Articles 8, 11, 12, 13, 14, 16 or the conditions laid down in Article 18;
+
+(b) the authorisation or the documents presented have been fraudulently acquired, or falsified, or tampered with;
+
+(c) the Member State concerned only allows admission through an approved host entity and the host entity is not approved;
+
+(d) the third-country national is residing for purposes other than those for which the third-country national was authorised to reside.
+
+2\. Member States may withdraw or refuse to renew an authorisation where:
+
+(a) the host entity, another body as referred to in point (a) of Article 14(1), a third party as referred to in point (d) of Article 12(1), the host family or the organisation mediating au pairs has failed to meet its legal obligations regarding social security, taxation, labour rights or working conditions;
+
+(b) where applicable, the terms of employment as provided for in national law or collective agreements or practices in the Member State concerned are not met by the host entity or host family employing the third-country national;
+
+(c) the host entity, another body as referred to in point (a) of Article 14(1), a third party as referred to in point (d) of Article 12(1), the host family or the organisation mediating au pairs has been sanctioned in accordance with national law for undeclared work or illegal employment;
+
+(d) the host entity was established or operates for the main purpose of facilitating the entry of third-country nationals falling under the scope of this Directive;
+
+(e) where applicable, the host entity's business is being or has been wound up under national insolvency laws or no economic activity is taking place;
+
+(f) with regard to students, the time limits imposed on access to economic activities under Article 24 are not respected or a student does not make sufficient progress in the relevant studies in accordance with national law or administrative practice.
+
+3\. In the event of withdrawal, when assessing the lack of progress in the relevant studies, as referred to in point (f) of paragraph 2, a Member State may consult with the host entity.
+
+4\. Member States may withdraw or refuse to renew an authorisation for reasons of public policy, public security or public health.
+
+5\. Where a third-country national applies for renewal of the authorisation to enter into or continue to be in an employment relationship in a Member State, with the exception of a researcher who continues the employment relationship with the same host entity, that Member State may verify whether the post in question could be filled by nationals of that Member State or by other Union citizens, or by third-country nationals who are long-term residents in that Member State, in which case they may refuse to renew the authorisation. This paragraph shall apply without prejudice to the principle of preference for Union citizens as expressed in the relevant provisions of the relevant Acts of Accession.
+
+6\. Where a Member State intends to withdraw or not renew the authorisation of a student in accordance with points (a), (c), (d) or (e) of paragraph 2, the student shall be allowed to submit an application to be hosted by a different higher education institution for an equivalent course of study in order to enable the completion of the studies. The student shall be allowed to stay on the territory of the Member State concerned until the competent authorities have taken a decision on the application.
+
+7\. Without prejudice to paragraph 1, any decision to withdraw or refuse to renew an authorisation shall take account of the specific circumstances of the case and respect the principle of proportionality.
+
+## CHAPTER V — RIGHTS
+
+### Article 22 — Equal treatment
+
+1\. Researchers shall be entitled to equal treatment with nationals of the Member State concerned as provided for in Article 12(1) and (4) of Directive 2011/98/EU.
+
+2\. Member States may restrict equal treatment as regards researchers:
+
+(a) under point (c) of Article 12(1) of Directive 2011/98/EU, by excluding study and maintenance grants and loans or other grants and loans;
+
+(b) under point (e) of Article 12(1) of Directive 2011/98/EU, by not granting family benefits to researchers who have been authorised to reside in the territory of the Member State concerned for a period not exceeding six months;
+
+(c) under point (f) of Article 12(1) of Directive 2011/98/EU, by limiting its application to cases where the registered or usual place of residence of the family members of the researcher for whom he or she claims benefits lies in the territory of the Member State concerned;
+
+(d) under point (g) of Article 12(1) of Directive 2011/98/EU by restricting access to housing.
+
+3\. Trainees, volunteers and au pairs, when they are considered to be in an employment relationship in the Member State concerned, and students shall be entitled to equal treatment with nationals of the Member State concerned as provided for in Article 12(1) and (4) of Directive 2011/98/EU subject to the restrictions provided for in paragraph 2 of that Article.
+
+4\. Trainees, volunteers, and au pairs, when they are not considered to be in an employment relationship in the Member State concerned, and school pupils shall be entitled to equal treatment in relation to access to goods and services and the supply of goods and services made available to the public, as provided for by national law, as well as, where applicable, in relation to recognition of diplomas, certificates and other professional qualifications in accordance with the relevant national procedures.
+
+Member States may decide not to grant them equal treatment in relation to procedures for obtaining housing and/or services provided by public employment offices in accordance with national law.
+
+### Article 23 — Teaching by researchers
+
+Researchers may, in addition to research activities, teach in accordance with national law. Member States may set a maximum number of hours or of days for the activity of teaching.
+
+### Article 24 — Economic activities by students
+
+1\. Outside their study time and subject to the rules and conditions applicable to the relevant activity in the Member State concerned, students shall be entitled to be employed and may be entitled to exercise self-employed economic activity, subject to the limitations provided for in paragraph 3.
+
+2\. Where necessary, Member States shall grant students and/or employers prior authorisation in accordance with national law.
+
+3\. Each Member State shall determine the maximum number of hours per week or days or months per year allowed for such an activity, which shall not be less than 15 hours per week, or the equivalent in days or months per year. The situation of the labour market in the Member State concerned may be taken into account.
+
+### Article 25 — Stay for the purpose of job-searching or entrepreneurship for researchers and students
+
+1\. After the completion of research or studies, researchers and students shall have the possibility to stay on the territory of the Member State that issued an authorisation under Article 17, on the basis of the residence permit referred to in paragraph 3 of this Article, for a period of at least nine months in order to seek employment or set up a business.
+
+2\. Member States may decide to set a minimum level of degree that students shall have obtained in order to benefit from the application of this Article. That level shall not be higher than level 7 of the European Qualifications Framework ( 7 ).
+
+3\. For the purpose of stay referred to in paragraph 1, Member States shall, upon an application by the researcher or the student, issue a residence permit to that third-country national in accordance with Regulation (EC) No 1030/2002 where the conditions laid down in points (a), (c), (d) and (e) of Article 7(1), Article 7(6) and, where applicable, in Article 7(2) of this Directive are still fulfilled. Member States shall require, for researchers, a confirmation by the research organisation of the completion of the research activity or, for students, evidence of having obtained a higher education diploma, certificate or other evidence of formal qualifications. Where applicable, and if the provisions of Article 26 are still met, the residence permit provided for in that Article shall be renewed accordingly.
+
+4\. Member States may reject an application under this Article where:
+
+(a) the conditions laid down in paragraph 3 and, where applicable, paragraphs 2 and 5 are not met,
+
+(b) the documents presented have been fraudulently acquired, or falsified, or tampered with.
+
+5\. Member States may require that the application under this Article of the researcher or the student and, where applicable, the members of the researcher's family shall be submitted at least 30 days before the expiry of the authorisation issued under Article 17 or 26.
+
+6\. If the evidence of having obtained a higher education diploma, certificate or other evidence of formal qualifications or the confirmation by the research organisation of the completion of the research activity are not available before the expiry of the authorisation issued under Article 17, and all other conditions are fulfilled, Member States shall allow the third-country national to stay on their territory in order to submit such evidence within a reasonable time in accordance with national law.
+
+7\. After a minimum of three months from the issuance of the residence permit under this Article by the Member State concerned, the latter may require third-country nationals to prove that they have a genuine chance of being engaged or of launching a business.
+
+Member States may require that the employment the third-country national is seeking or the business he or she is in the process of setting up corresponds to the level of research or of studies completed.
+
+8\. If the conditions provided for in paragraph 3 or 7 are no longer fulfilled, Member States may withdraw the residence permit of the third-country national and, where applicable, his or her family members in accordance with national law.
+
+9\. Second Member States may apply this Article to researchers and, where applicable, the members of the researcher's family or students who reside or have resided in the second Member State concerned in accordance with Article 28, 29, 30 or 31.
+
+### Article 26 — Researchers' family members
+
+1\. For the purpose of allowing researchers' family members to join the researcher in the first Member State or, in the case of long-term mobility, in the second Member States, Member States shall apply the provisions of Directive 2003/86/EC with the derogations laid down in this Article.
+
+2\. By way of derogation from Article 3(1) and Article 8 of Directive 2003/86/EC, the granting of a residence permit to family members shall not be made dependent on the requirement of the researcher having reasonable prospects of obtaining the right of permanent residence and having a minimum period of residence.
+
+3\. By way of derogation from the last subparagraph of Article 4(1) and Article 7(2) of Directive 2003/86/EC, the integration conditions and measures referred to therein may only be applied after the persons concerned have been granted a residence permit.
+
+4\. By way of derogation from the first subparagraph of Article 5(4) of Directive 2003/86/EC, residence permits for family members shall be granted by a Member State, if the conditions for family reunification are fulfilled, within 90 days from the date on which the complete application was submitted. The competent authority of the Member State concerned shall process the application for the family members at the same time as the application for admission or for long-term mobility of the researcher, in case where the application for the family members is submitted at the same time. The residence permit for family members shall be granted only if the researcher is issued an authorisation under Article 17.
+
+5\. By way of derogation from Article 13(2) and (3) of Directive 2003/86/EC, the duration of validity of the residence permit of family members shall end, as a general rule, on the date of expiry of the authorisation of the researcher. This shall include, where applicable, authorisations issued to the researcher for the purpose of job-searching or entrepreneurship in accordance with Article 25. Member States may require the period of validity of the travel documents of family members to cover at least the duration of the planned stay.
+
+6\. By way of derogation from the second sentence of Article 14(2) of Directive 2003/86/EC, the first Member State or, in the case of long-term mobility, the second Member States shall not apply any time limit in respect of access for family members to the labour market, except in exceptional circumstances such as particularly high levels of unemployment.
+
+## CHAPTER VI — MOBILITY BETWEEN MEMBER STATES
+
+### Article 27 — Intra-EU mobility
+
+1\. A third-country national who holds a valid authorisation issued by the first Member State for the purpose of studies in the framework of a Union or multilateral programme that comprises mobility measures or of an agreement between two or more higher education institutions, or for the purpose of research may enter and stay in order to carry out part of the studies or research in one or several second Member States on the basis of that authorisation and a valid travel document under the conditions laid down in Articles 28, 29 and 31 and subject to Article 32.
+
+2\. During the mobility referred to in paragraph 1, researchers may, in addition to research activities, teach and students may, in addition to their studies, work, in one or several second Member States in accordance with the conditions laid down in Articles 23 and 24 respectively.
+
+3\. When a researcher moves to a second Member State in accordance with Article 28 or 29, family members holding a residence permit issued in accordance with Article 26 shall be authorised to accompany the researcher in the framework of the researcher's mobility under the conditions laid down in Article 30.
+
+### Article 28 — Short-term mobility of researchers
+
+1\. Researchers who hold a valid authorisation issued by the first Member State shall be entitled to stay in order to carry out part of their research in any research organisation in one or several second Member States for a period of up to 180 days in any 360-day period per Member State, subject to the conditions laid down in this Article.
+
+2\. The second Member State may require the researcher, the research organisation in the first Member State or the research organisation in the second Member State to notify the competent authorities of the first Member State and of the second Member State of the intention of the researcher to carry out part of the research in the research organisation in the second Member State.
+
+In such cases, the second Member State shall allow the notification to take place either:
+
+(a) at the time of the application in the first Member State, where the mobility to the second Member State is already envisaged at that stage; or
+
+(b) after the researcher was admitted to the first Member State, as soon as the intended mobility to the second Member State is known.
+
+3\. Where the notification has taken place in accordance with point (a) of paragraph 2, and where the second Member State has not raised any objection with the first Member State in accordance with paragraph 7, the mobility of the researcher to the second Member State may take place at any moment within the period of validity of the authorisation.
+
+4\. Where the notification has taken place in accordance with point (b) of paragraph 2, the mobility may be initiated after the notification to the second Member State immediately or at any moment thereafter within the period of validity of the authorisation.
+
+5\. The notification shall include the valid travel document, as provided for in point (a) of Article 7(1), and the valid authorisation issued by the first Member State covering the period of the mobility.
+
+6\. The second Member State may require the notification to include the transmission of the following documents and information:
+
+(a) the hosting agreement in the first Member State as referred to in Article 10 or, if the second Member State so requires, a hosting agreement concluded with the research organisation in the second Member State;
+
+(b) where not specified in the hosting agreement, the planned duration and dates of the mobility;
+
+(c) evidence that the researcher has sickness insurance for all the risks normally covered for nationals of the Member State concerned as provided for in point (c) of Article 7(1);
+
+(d) evidence that during the stay the researcher will have sufficient resources to cover subsistence costs without having recourse to the Member State's social assistance system, as provided for in point (e) of Article 7(1), as well as the travel costs to the first Member State in the cases referred to in point (b) of Article 32(4);
+
+The second Member State may require the notifier to provide, before the start of mobility, the address of the researcher concerned in the territory of the second Member State.
+
+The second Member State may require the notifier to present the documents in an official language of that Member State or in any official language of the Union determined by that Member State.
+
+7\. Based on the notification referred to in paragraph 2 the second Member State may object to the mobility of the researcher to its territory within 30 days from having received the complete notification, where:
+
+(a) the conditions set out in paragraph 5 or, where applicable, paragraph 6 are not complied with;
+
+(b) one of the grounds for rejection set out in points (b) or (c) of Article 20(1) or in paragraph 2 of that Article applies;
+
+(c) the maximum duration of stay as referred to in paragraph 1 has been reached.
+
+8\. Researchers who are considered to pose a threat to public policy, public security or public health shall not be allowed to enter or to stay on the territory of the second Member State.
+
+9\. The competent authorities of the second Member State shall, without delay, inform the competent authorities of the first Member State and the notifier in writing about their objection to the mobility. Where the second Member State objects to the mobility in accordance with paragraph 7 and the mobility has not yet taken place, the researcher shall not be allowed to carry out part of the research in the research organisation in the second Member State. Where the mobility has already taken place, Article 32(4) shall apply.
+
+10\. After the period of objection has expired, the second Member State may issue a document to the researcher attesting that he or she is entitled to stay on its territory and enjoy the rights provided for in this Directive.
+
+### Article 29 — Long-term mobility of researchers
+
+1\. In relation to researchers who hold a valid authorisation issued by the first Member State and who intend to stay in order to carry out part of their research in any research organisation in one or several second Member States for more than 180 days per Member State, the second Member State shall either:
+
+(a) apply Article 28 and allow the researcher to stay on the territory on the basis of and during the period of validity of the authorisation issued by the first Member State; or
+
+(b) apply the procedure provided for in paragraphs 2 to 7.
+
+The second Member State may define a maximum period of the long-term mobility of a researcher which shall not be less than 360 days.
+
+2\. When an application for long-term mobility is submitted:
+
+(a) the second Member State may require the researcher, the research organisation in the first Member State or the research organisation in the second Member State to transmit the following documents:
+
+(i) a valid travel document, as provided for in point (a) of Article 7(1), and a valid authorisation issued by the first Member State;
+
+(ii) evidence that the researcher has sickness insurance for all the risks normally covered for nationals of the Member State concerned as provided for in point (c) of Article 7(1);
+
+(iii) evidence that during the stay the researcher will have sufficient resources to cover subsistence costs without having recourse to the Member State's social assistance system, as provided for in point (e) of Article 7(1), as well as the travel costs to the first Member State in the cases referred to in point (b) of Article 32(4);
+
+(iv) the hosting agreement in the first Member State as referred to in Article 10 or, if the second Member State so requires, a hosting agreement concluded with the research organisation in the second Member State;
+
+(v) where not specified in any of the documents presented by the applicant, the planned duration and dates of the mobility.
+
+The second Member State may require the applicant to provide the address of the researcher concerned in its territory. Where the national law of the second Member State requires an address to be provided at the time of application and the researcher concerned does not yet know his or her future address, that Member State shall accept a temporary address. In such a case, the researcher shall provide his or her permanent address at the latest at the time of the issuance of the authorisation for long-term mobility.
+
+The second Member State may require the applicant to present the documents in an official language of that Member State or in any official language of the Union determined by that Member State;
+
+(b) the second Member State shall take a decision on the application for long-term mobility and notify the decision to the applicant in writing as soon as possible, but not later than 90 days from the date on which the complete application was submitted to the competent authorities of the second Member State;
+
+(c) the researcher shall not be required to leave the territories of the Member States in order to submit an application and shall not be subject to a visa requirement;
+
+(d) the researcher shall be allowed to carry out part of the research in the research organisation in the second Member State until a decision on the application for long-term mobility has been taken by the competent authorities, provided that:
+
+(i) neither the period referred to in Article 28(1) nor the period of validity of the authorisation issued by the first Member State have expired; and
+
+(ii) if the second Member State so requires, the complete application has been submitted to the second Member State at least 30 days before the long-term mobility of the researcher starts;
+
+(e) an application for long-term mobility may not be submitted at the same time as a notification for short-term mobility. Where the need for long-term mobility arises after the short-term mobility of the researcher has started, the second Member State may request that the application for long-term mobility be submitted at least 30 days before the short-term mobility ends.
+
+3\. The second Member State may reject an application for long-term mobility where:
+
+(a) the conditions set out in point (a) of paragraph 2 are not complied with;
+
+(b) one of the grounds for rejection set out in Article 20, with the exception of point (a) of paragraph 1 of that Article, applies;
+
+(c) the researcher's authorisation in the first Member State expires during the procedure; or
+
+(d) where applicable, the maximum duration of stay referred to in the second subparagraph of paragraph 1 has been reached.
+
+4\. Researchers who are considered to pose a threat to public policy, public security or public health shall not be allowed to enter or to stay on the territory of the second Member State.
+
+5\. Where the second Member State takes a positive decision on the application for long-term mobility as referred to in paragraph 2 of this Article, the researcher shall be issued an authorisation in accordance with Article 17(4). The second Member State shall inform the competent authorities of the first Member State when an authorisation for long-term mobility is issued.
+
+6\. The second Member State may withdraw the authorisation for long-term mobility where:
+
+(a) the conditions set out in point (a) of paragraph 2 or in paragraph 4 of this Article are not or are no longer complied with; or
+
+(b) one of the grounds of withdrawal of an authorisation, as set out in Article 21, with the exception of point (a) of paragraph (1), point (f) of paragraph (2) and paragraphs (3), (5) and (6) of that Article, applies.
+
+7\. When a Member State takes a decision on long-term mobility, paragraphs 2 to 5 of Article 34 apply accordingly.
+
+### Article 30 — Mobility of researchers' family members
+
+1\. Family members of a researcher who hold a valid residence permit issued by the first Member State shall be entitled to enter, and stay in, one or several second Member States in order to accompany the researcher.
+
+2\. When the second Member State applies the notification procedure referred to in Article 28(2), it shall require the transmission of the following documents and information:
+
+(a) the documents and information required under paragraph 5 and points (b), (c) and (d) of paragraph 6 of Article 28 related to the family members accompanying the researcher;
+
+(b) evidence that the family member has resided as a member of the family of the researcher in the first Member State in accordance with Article 26.
+
+The second Member State may require the notifier to present the documents in an official language of that Member State or in any official language of the Union determined by that Member State.
+
+The second Member State may object to the mobility of the family member to its territory where the conditions set out in the first subparagraph are not complied with. Points (b) and (c) of paragraph 7 and paragraph 9 of Article 28 shall apply to those family members accordingly.
+
+3\. When the second Member State applies the procedure referred to in point (b) of Article 29(1), an application shall be submitted by the researcher or by the family members of the researcher to the competent authorities of the second Member State. The second Member State shall require the applicant to transmit the following documents and information in relation to the family members:
+
+(a) the documents and information required under points (i), (ii), (iii) and (v) of point (a) of Article 29(2) related to the family members accompanying the researcher;
+
+(b) evidence that the family member has resided as a member of the family of the researcher in the first Member State in accordance with Article 26.
+
+The second Member State may require the applicant to present the documents in an official language of that Member State or in any official language of the Union determined by that Member State.
+
+The second Member State may reject the application for long-term mobility of the family member to its territory where the conditions set out in the first subparagraph are not complied with. Points (b) and (c) of paragraph 2, points (b), (c) and (d) of paragraph 3, paragraph 5, point (b) of paragraph 6 and paragraph 7 of Article 29 shall apply to those family members accordingly.
+
+The validity of the authorisation for long-term mobility of the family members shall, as a general rule, end on the date of expiry of the researcher's authorisation issued by the second Member State.
+
+The authorisation for long-term mobility of family members may be withdrawn or its renewal refused if the authorisation for long-term mobility of the researcher they are accompanying is withdrawn or its renewal refused and they do not enjoy any autonomous right of residence.
+
+4\. Family members who are considered to pose a threat to public policy, public security or public health shall not be allowed to enter or to stay on the territory of the second Member State.
+
+### Article 31 — Mobility of students
+
+1\. Students who hold a valid authorisation issued by the first Member State and who are covered by a Union or multilateral programme that comprises mobility measures or by an agreement between two or more higher education institutions shall be entitled to enter and stay in order to carry out part of their studies in a higher education institution in one or several second Member States for a period up to 360 days per Member State subject to the conditions laid down in paragraphs 2 to 10.
+
+A student who is not covered by a Union or multilateral programme that comprises mobility measures or by an agreement between two or more higher education institutions shall submit an application for an authorisation to enter and stay in a second Member State in order to carry out part of the studies in a higher education institution in accordance with Articles 7 and 11.
+
+2\. The second Member State may require the higher education institution in the first Member State, the higher education institution in the second Member State or the student to notify the competent authorities of the first Member State and of the second Member State of the intention of the student to carry out part of the studies in the higher education institution in the second Member State.
+
+In such cases, the second Member State shall allow the notification to take place either:
+
+(a) at the time of the application in the first Member State, where the mobility to the second Member State is already envisaged at that stage; or
+
+(b) after the student was admitted to the first Member State, as soon as the intended mobility to the second Member State is known.
+
+3\. Where the notification has taken place in accordance with point (a) of paragraph 2, and where the second Member State has not raised any objection with the first Member State in accordance with paragraph 7, the mobility of the student to the second Member State may take place at any moment within the period of validity of the authorisation.
+
+4\. Where the notification has taken place in accordance with point (b) of paragraph 2 and where the second Member State has not raised any objection in writing to the mobility of the student, in accordance with paragraphs 7 and 9, the mobility is considered to be approved and may take place in the second Member State.
+
+5\. The notification shall include the valid travel document, as provided for in point (a) of Article 7(1), and the valid authorisation issued by the first Member State covering the total period of the mobility.
+
+6\. The second Member State may require the notification to include the transmission of the following documents and information:
+
+(a) evidence that the student carries out part of the studies in the second Member State in the framework of a Union or multilateral programme that comprises mobility measures or of an agreement between two or more higher education institutions and evidence that the student has been accepted by a higher education institution in the second Member State;
+
+(b) where not specified under point (a), the planned duration and dates of the mobility;
+
+(c) evidence that the student has sickness insurance for all the risks normally covered for nationals of the Member State concerned as provided for in point (c) of Article 7(1);
+
+(d) evidence that during the stay the student will have sufficient resources to cover subsistence costs without having recourse to the Member State's social assistance system as provided for in point (e) of Article 7(1), study costs, as well as the travel costs to the first Member State in the cases referred to in point (b) of Article 32(4);
+
+(e) evidence that the fees charged by the higher education institution have been paid, where applicable.
+
+The second Member State may require the notifier to provide, before the start of mobility, the address of the student concerned in the territory of the second Member State.
+
+The second Member State may require the notifier to present the documents in an official language of that Member State or in any official language of the Union determined by that Member State.
+
+7\. Based on the notification referred to in paragraph 2, the second Member State may object to the mobility of the student to its territory within 30 days from having received the complete notification where:
+
+(a) the conditions set out in paragraphs 5 or 6 are not complied with;
+
+(b) one of the grounds for rejection set out in point (b) or (c) of Article 20(1) or in paragraph 2 of that Article applies;
+
+(c) the maximum duration of stay referred to in paragraph 1 has been reached.
+
+8\. Students who are considered to pose a threat to public policy, public security or public health shall not be allowed to enter or to stay on the territory of the second Member State.
+
+9\. The competent authorities of the second Member State shall, without delay, inform the competent authorities of the first Member State and the notifier in writing about their objection to the mobility. Where the second Member State objects to the mobility in accordance with paragraph 7 the student shall not be allowed to carry out part of the studies in the higher education institution in the second Member State.
+
+10\. After the period of objection has expired, the second Member State may issue a document to the student attesting that he or she is entitled to stay on its territory and enjoy the rights provided for in this Directive.
+
+### Article 32 — Safeguards and sanctions in cases of mobility
+
+1\. Where the authorisation for the purpose of research or studies is issued by the competent authorities of a Member State not applying the Schengen acquis in full and the researcher or student crosses an external border to enter a second Member State in the framework of mobility, the competent authorities of the second Member State shall be entitled to require as evidence of the mobility the valid authorisation issued by the first Member State and:
+
+(a) a copy of the notification in accordance with Article 28(2) or Article 31(2), or
+
+(b) where the second Member State allows mobility without notification, evidence that the student carries out part of the studies in the second Member State in the framework of a Union or multilateral programme that comprises mobility measures or an agreement between two or more higher education institutions, or for researchers, either a copy of the hosting agreement specifying the details of the mobility of the researcher or, where the details of the mobility are not specified in the hosting agreement, a letter from the research organisation in the second Member State that specifies at least the duration of the intra-EU mobility and the location of the research organisation in the second Member State.
+
+In the case of the family members of the researcher, the competent authorities of the second Member State shall be entitled to require as evidence of the mobility the valid authorisation issued by the first Member State and a copy of the notification in accordance with Article 30(2) or evidence that they are accompanying the researcher.
+
+2\. Where the competent authorities of the first Member State withdraw the authorisation, they shall inform the authorities of the second Member State immediately, where applicable.
+
+3\. The second Member State may require to be informed by the host entity of the second Member State or the researcher or the student of any modification which affects the conditions on which basis the mobility was allowed to take place.
+
+4\. Where the researcher or, where applicable, his or her family members, or the student do not or no longer fulfil the conditions for mobility:
+
+(a) the second Member State may request that the researcher and, where applicable, his or her family members, or the student immediately ceases all activities and leaves its territory;
+
+(b) the first Member State shall, upon request of the second Member State, allow re-entry of the researcher and, where applicable, of his or her family members or of the student without formalities and without delay. This shall also apply if the authorisation issued by the first Member State has expired or has been withdrawn during the period of mobility within the second Member State.
+
+5\. Where the researcher or his or her family members or the student crosses the external border of a Member State applying the Schengen acquis in full, that Member State shall consult the Schengen information system. That Member State shall refuse entry or object to the mobility of persons for whom an alert for the purposes of refusing entry and stay has been issued in the Schengen information system.
+
+## CHAPTER VII — PROCEDURE AND TRANSPARENCY
+
+### Article 33 — Sanctions against host entities
+
+Member States may provide for sanctions against host entities or, in cases covered by Article 24, employers who have not fulfilled their obligations under this Directive. Those sanctions shall be effective, proportionate and dissuasive.
+
+### Article 34 — Procedural guarantees and transparency
+
+1\. The competent authorities of the Member State concerned shall adopt a decision on the application for an authorisation or a renewal of it and notify the decision to the applicant in writing, in accordance with the notification procedures under national law, as soon as possible but not later than 90 days from the date on which the complete application was submitted.
+
+2\. By way of derogation from paragraph 1 of this Article, in the event that the admission procedure is related to an approved host entity as referred to in Articles 9 and 15, the decision on the complete application shall be taken as soon as possible but at the latest within 60 days.
+
+3\. Where the information or documentation supplied in support of the application is incomplete, the competent authorities shall notify the applicant within a reasonable period of the additional information that is required and set a reasonable deadline for providing it. The period referred to in paragraphs 1 or 2 shall be suspended until the competent authorities have received the additional information required. If additional information or documents have not been provided within the deadline, the application may be rejected.
+
+4\. Reasons for a decision declaring inadmissible or rejecting an application or refusing renewal shall be given in writing to the applicant. Reasons for a decision withdrawing an authorisation shall be given in writing to the third-country national. Reasons for a decision withdrawing an authorisation may be given in writing also to the host entity.
+
+5\. Any decision declaring inadmissible or rejecting an application, refusing renewal, or withdrawing an authorisation shall be open to legal challenge in the Member State concerned, in accordance with national law. The written notification shall specify the court or administrative authority with which an appeal may be lodged and the time limit for lodging the appeal.
+
+### Article 35 — Transparency and access to information
+
+Member States shall make easily accessible to applicants the information on all the documentary evidence needed for an application and information on entry and residence conditions, including the rights, obligations and procedural safeguards, of the third-country nationals falling under the scope of this Directive and, where applicable, of their family members. This shall include, where applicable, the level of the monthly sufficient resources, including the sufficient resources needed to cover the study costs or the training costs, without prejudice to an individual examination of each case, and the applicable fees.
+
+The competent authorities in each Member State shall publish lists of the host entities approved for the purposes of this Directive. Updated versions of such lists shall be published as soon as possible following any changes to them.
+
+### Article 36 — Fees
+
+Member States may require third-country nationals including, where applicable, family members, or host entities to pay fees for the handling of notifications and applications in accordance with this Directive. The level of such fees shall not be disproportionate or excessive.
+
+## CHAPTER VIII — FINAL PROVISIONS
+
+### Article 37 — Cooperation between contact points
+
+1\. Member States shall appoint contact points which shall cooperate effectively and be responsible for receiving and transmitting the information needed to implement Articles 28 to 32. Member States shall give preference to exchange of information via electronic means.
+
+2\. Each Member State shall inform the other Member States, via the national contact points referred to in paragraph 1:
+
+(a) about the procedures applied to mobility referred to in Articles 28 to 31;
+
+(b) whether that Member State only allows admission of students and researchers through approved research organisations or higher education institutions;
+
+(c) about multilateral programmes for students and researchers that comprise mobility measures and agreements between two or more higher education institutions.
+
+### Article 38 — Statistics
+
+1\. Member States shall communicate to the Commission statistics on the number of authorisations issued for the purposes of this Directive and notifications received pursuant to Article 28(2) or Article 31(2) and, insofar as possible, the number of third-country nationals whose authorisations have been renewed or withdrawn. Statistics on admitted family members of researchers shall be communicated in the same manner. Those statistics shall be disaggregated by citizenship and, insofar as possible, by the period of validity of the authorisations.
+
+2\. The statistics referred to in paragraph 1 shall relate to reference periods of one calendar year and shall be communicated to the Commission within six months of the end of the reference year. The first reference year shall be 2019.
+
+3\. The statistics referred to in paragraph 1 shall be communicated in accordance with Regulation (EC) No 862/2007 of the European Parliament and of the Council ( 8 ).
+
+### Article 39 — Reporting
+
+Periodically, and for the first time by 23 May 2023, the Commission shall submit a report to the European Parliament and the Council on the application of this Directive in the Member States and propose amendments if appropriate.
+
+### Article 40 — Transposition
+
+1\. Member States shall bring into force the laws, regulations and administrative provisions necessary to comply with this Directive by 23 May 2018 at the latest. They shall immediately communicate the text of those measures to the Commission.
+
+When Member States adopt those measures, they shall contain a reference to this Directive or be accompanied by such a reference on the occasion of their official publication. They shall also include a statement that references in existing laws, regulations and administrative provisions to the Directives repealed by this Directive shall be construed as references to this Directive. Member States shall determine how such reference is to be made and how that statement is to be formulated.
+
+2\. Member States shall communicate to the Commission the text of the main provisions of national law which they adopt in the field covered by this Directive.
+
+### Article 41 — Repeal
+
+Directives 2004/114/EC and 2005/71/EC are repealed for the Member States bound by this Directive with effect from 24 May 2018, without prejudice to the obligations of the Member States relating to the time limits for transposition into national law of those Directives set out in Part B of Annex I to this Directive.
+
+For the Member States bound by this Directive, references to the repealed Directives shall be construed as references to this Directive and shall be read in accordance with the correlation tables in Annex II.
+
+### Article 42 — Entry into force
+
+This Directive shall enter into force on the day following that of its publication in the Official Journal of the European Union.
+
+### Article 43 — Addressees
+
+This Directive is addressed to the Member States in accordance with the Treaties.
+
+## ANNEX I
+
+**Part A**
+
+**Repealed Directives**
+
+**(referred to in Article 41)**
+
+| Council Directive 2004/114/EC | (OJ L 375, 23.12.2004, p. 12) |
+| --- | --- |
+| Council Directive 2005/71/EC | (OJ L 289, 3.11.2005, p. 15) |
+
+**Part B**
+
+**Time limits for transposition into national law and dates of application**
+
+**(referred to in Article 41)**
+
+| Directive | Time limit for transposition | Date of application |
+| --- | --- | --- |
+| 2004/114/EC | 12.1.2007 |  |
+| 2005/71/EC | 12.10.2007 |  |
+
+## ANNEX II
+
+**Correlation Tables**
+
+| Directive 2004/114/EC | This Directive |
+| --- | --- |
+| Article 1(a) | Article 1(a) |
+| Article 1(b) | — |
+| — | Article 1(b) |
+| Article 2, introductory wording | Article 3, introductory wording |
+| Article 2(a) | Article 3(1) |
+| Article 2(b) | Article 3(3) |
+| Article 2(c) | Article 3(4) |
+| Article 2(d) | Article 3(5) |
+| — | Article 3(6) |
+| Article 2(e) | Article 3(11) and (13) |
+| Article 2(f) | Article 3(7) |
+| Article 2(g) | Article 3(22) |
+| — | Article 3(8) |
+| — | Article 3(12) |
+| — | Article 3(14) to (21) |
+| — | Article 3(23) and (24) |
+| Article 3(1) | Article 2(1) |
+| Article 3(2)(a) to (d) | Article 2(2)(a) to (d) |
+| Article 3(2)(e) | — |
+| — | Article 2(2)(e) to (g) |
+| Article 4 | Article 4 |
+| Article 5 | Article 5(1) |
+| — | Article 5(2) and (3) |
+| — | Article 6 |
+| Article 6(1)(a) to (c) and (e) | Article 7(1)(a) to (d) |
+| Article 6(1)(d) | Article 7(6) |
+| Article 6(2) | — |
+| — | Article 7(2) and (3) |
+| Article 7(1), introductory wording | Article 11(1), introductory wording |
+| Article 7(1)(a) | Article 11(1)(a) |
+| Article 7(1)(b) | Articles 7(1)(e) and 11(1)(d) |
+| Article 7(1)(c) | Article 11(1)(c) |
+| Article 7(1)(d) | Article 11(1)(b) |
+| Article 7(2) | Article 11(2) |
+| — | Article 11(3) |
+| Article 8 | Article 31 |
+| Article 9(1) and (2) | Article 12(1) and (2) |
+| Article 10, introductory wording | Article 13(1), introductory wording |
+| Article 10(a) | Article 13(1)(a) |
+| — | Article 13(1)(b) |
+| Article 10(b) | Articles 7(1)(e) and 13(1)(c) |
+| Article 10(c) | Article 13(1)(d) |
+| — | Article 13(1)(e) and (f) |
+| — | Article 13(2) to (4) |
+| Article 11, introductory wording | Article 14(1), introductory wording |
+| Article 11(a) | Article 14(2) |
+| Article 11(b) | Article 14(1)(a) |
+| — | Article 14(1)(b) |
+| Article 11(c) | Article 14(1)(c) |
+| Article 11(d) | Article 14(1)(d) |
+| Article 12(1) | Article 18(2) |
+| Article 12(2) | Article 21(2)(f) |
+| Article 13 | Article 18(4) |
+| Article 14 | Article 18(6) |
+| Article 15 | Article 18(7) |
+| — | Article 18(3), (5), (8) and (9) |
+| — | Articles 16, 17 and 19 |
+| Article 16(1) | Article 21(1)(a) and (b) |
+| — | Article 21(1)(c) and (d) |
+| Article 16(2) | Article 21(4) |
+| — | Article 21(2)(a) to (e) |
+| — | Article 21(3) |
+| — | Article 21(5) to (7) |
+| — | Article 22(3) and (4) |
+| Article 17(1), first subparagraph, first sentence | Article 24(1) |
+| Article 17(1), first subparagraph, second sentence | Article 24(3) |
+| Article 17(1), second subparagraph | Article 24(2) |
+| Article 17(2) | Article 24(3) |
+| Article 17(3) and (4) | — |
+| — | Article 24 |
+| — | Article 27 |
+| — | Article 30 |
+| — | Articles 32 and 33 |
+| Article 18(1) | Article 34(1) |
+| — | Article 34(2) |
+| Article 18(2), (3) and (4) | Article 34(3), (4) and (5) |
+| Article 19 | — |
+| — | Article 35, first paragraph |
+| Article 20 | Article 36 |
+| — | Articles 37 and 38 |
+| Article 21 | Article 39 |
+| Articles 22 to 25 | — |
+| — | Articles 40 to 42 |
+| Article 26 | Article 43 |
+| — | Annexes I and II |
+
+| Directive 2005/71/EC | This Directive |
+| --- | --- |
+| Article 1 | Article 1(a) |
+| Article 2, introductory wording | Article 3, introductory wording |
+| Article 2(a) | Article 3(1) |
+| Article 2(b) | Article 3(9) |
+| Article 2(c) | Article 3(10) |
+| Article 2(d) | Article 3(2) |
+| Article 2(e) | Article 3(22) |
+| Article 3(1) | Article 2(1) |
+| Article 3(2)(a) | Article 2(2)(a) |
+| Article 3(2)(b) | — |
+| Article 3(2)(c) | Article 2(2)(b) |
+| Article 3(2)(d) | — |
+| Article 4 | Article 4 |
+| Article 5(1) | Article 9(1) |
+| Article 5(2) | Article 9(2) |
+| Article 5(3) | Article 8(2) |
+| Article 5(4) | Article 10(7) |
+| Article 5(5) | Article 35, second paragraph |
+| Article 5(6) | Article 9(3) |
+| Article 5(7) | Article 10(8) |
+| Article 6(1) | Article 10(1) |
+| — | Article 10(2) |
+| Article 6(2)(a) | Article 10(4) |
+| Article 6(2)(b) | Article 7(1)(e) |
+| Article 6(2)(c) | Article 7(1)(c) |
+| Article 6(2)(d) | Article 10(3) |
+| Article 6(3) | — |
+| Article 6(4) and (5) | Article 10(5) and (6) |
+| Article 7(1)(a) | Article 7(1)(a) |
+| Article 7(1)(b) | Article 8(1) |
+| Article 7(1)(c) | Article 8(2) |
+| Article 7(1)(d) | Article 7(6) |
+| Article 7(1), last subparagraph | — |
+| Article 7(2) | — |
+| Article 7(3) | Article 5(3) |
+| Article 8 | Article 18(1) |
+| Article 9 | Article 26 |
+| Article 10(1) | Article 21(1)(a), (b) and (d) |
+| Article 10(2) | Article 21(4) |
+| Article 11(1) and (2) | Article 23 |
+| Article 12 | Article 22(1) and (2) |
+| Article 13 | Articles 28 and 29 |
+| Article 14(1) | Article 7(5) |
+| Article 14(2) and (3) | Article 7(4) |
+| Article 14(4) | Article 5(3) |
+| Article 15(1) | Article 34(1) |
+| — | Article 34(2) |
+| Article 15(2) | Article 34(3) |
+| Article 15(3) | Article 34(4) |
+| Article 15(4) | Article 34(5) |
+| Article 16 | Article 39 |
+| Article 17 to 20 | — |
+| Article 21 | Article 43 |
+
+( 1 ) Directive 2011/95/EU of the European Parliament and of the Council of 13 December 2011 on standards for the qualification of third-country nationals or stateless persons as beneficiaries of international protection, for a uniform status for refugees or for persons eligible for subsidiary protection, and for the content of the protection granted (OJ L 337, 20.12.2011, p. 9).
+
+( 2 ) Council Directive 2001/55/EC of 20 July 2001 on minimum standards for giving temporary protection in the event of a mass influx of displaced persons and on measures promoting a balance of efforts between Member States in receiving such persons and bearing the consequences thereof (OJ L 212, 7.8.2001, p. 12).
+
+( 3 ) Council Directive 2003/109/EC of 25 November 2003 concerning the status of third-country nationals who are long-term residents (OJ L 16, 23.1.2004, p. 44).
+
+( 4 ) Directive (EU) 2021/1883 of the European Parliament and of the Council of 20 October 2021 on the conditions of entry and residence of third-country nationals for the purpose of highly qualified employment, and repealing Council Directive 2009/50/EC (OJ L 382, 28.10.2021, p. 1).
+
+( 5 ) Convention implementing the Schengen Agreement of 14 June 1985 between the Governments of the States of the Benelux Economic Union, the Federal Republic of Germany and the French Republic on the gradual abolition of checks at their common borders (OJ L 239, 22.9.2000, p. 19).
+
+( 6 ) Council Regulation (EC) No 1683/95 of 29 May 1995 laying down a uniform format for visas (OJ L 164, 14.7.1995, p. 1).
+
+( 7 ) Recommendation of the European Parliament and of the Council of 23 April 2008 on the establishment of the European Qualifications Framework for lifelong learning (OJ C 111, 6.5.2008, p. 1).
+
+( 8 ) Regulation (EC) No 862/2007 of the European Parliament and of the Council of 11 July 2007 on Community statistics on migration and international protection and repealing Council Regulation (EEC) No 311/76 on the compilation of statistics on foreign workers (OJ L 199, 31.7.2007, p. 23).

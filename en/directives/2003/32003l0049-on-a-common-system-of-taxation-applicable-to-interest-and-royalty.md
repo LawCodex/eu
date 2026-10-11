@@ -1,0 +1,312 @@
+---
+title: "Council Directive 2003/49/EC of 3 June 2003 on a common system of taxation applicable to interest and royalty payments made between associated companies of different Member States"
+identifier: "32003L0049"
+eli: "http://data.europa.eu/eli/dir/2003/49/oj"
+type: directive
+jurisdiction: eu
+language: en
+date: 2003-06-03
+entry_into_force: 2003-06-26
+last_amended: 2013-07-01
+consolidated_version: "02003L0049-20130701"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02003L0049-20130701"
+retrieved: 2026-10-11
+---
+
+# Council Directive 2003/49/EC of 3 June 2003 on a common system of taxation applicable to interest and royalty payments made between associated companies of different Member States
+
+**COUNCIL DIRECTIVE 2003/49/EC**
+
+**of 3 June 2003**
+
+**on a common system of taxation applicable to interest and royalty payments made between associated companies of different Member States**
+
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> COUNCIL DIRECTIVE 2004/76/EC of 29 April 2004 </td><td> L 157</td><td>106</td><td>30.4.2004</td></tr>
+<tr><td></td><td> COUNCIL DIRECTIVE 2004/66/EC of 26 April 2004 </td><td> L 168</td><td>35</td><td>1.5.2004</td></tr>
+<tr><td></td><td> COUNCIL DIRECTIVE 2006/98/EC of 20 November 2006 </td><td> L 363</td><td>129</td><td>20.12.2006</td></tr>
+<tr><td></td><td> COUNCIL DIRECTIVE 2013/13/EU of 13 May 2013 </td><td> L 141</td><td>30</td><td>28.5.2013</td></tr>
+
+**COUNCIL DIRECTIVE 2003/49/EC**
+
+**of 3 June 2003**
+
+**on a common system of taxation applicable to interest and royalty payments made between associated companies of different Member States**
+
+## Article 1 — Scope and procedure
+
+1\. Interest or royalty payments arising in a Member State shall be exempt from any taxes imposed on those payments in that State, whether by deduction at source or by assessment, provided that the beneficial owner of the interest or royalties is a company of another Member State or a permanent establishment situated in another Member State of a company of a Member State.
+
+2\. A payment made by a company of a Member State or by a permanent establishment situated in another Member State shall be deemed to arise in that Member State, hereafter referred to as the ‘source State’.
+
+3\. A permanent establishment shall be treated as the payer of interest or royalties only insofar as those payments represent a tax-deductible expense for the permanent establishment in the Member State in which it is situated.
+
+4\. A company of a Member State shall be treated as the beneficial owner of interest or royalties only if it receives those payments for its own benefit and not as an intermediary, such as an agent, trustee or authorised signatory, for some other person.
+
+5\. A permanent establishment shall be treated as the beneficial owner of interest or royalties:
+
+(a) if the debt-claim, right or use of information in respect of which interest or royalty payments arise is effectively connected with that permanent establishment; and
+
+(b) if the interest or royalty payments represent income in respect of which that permanent establishment is subject in the Member State in which it is situated to one of the taxes mentioned in Article 3(a)(iii) or in the case of Belgium to the ‘impôt des non-résidents/belasting der niet-verblijfhouders’ or in the case of Spain to the ‘Impuesto sobre la Renta de no Residentes’ or to a tax which is identical or substantially similar and which is imposed after the date of entry into force of this Directive in addition to, or in place of, those existing taxes.
+
+6\. Where a permanent establishment of a company of a Member State is treated as the payer, or as the beneficial owner, of interest or royalties, no other part of the company shall be treated as the payer, or as the beneficial owner, of that interest or those royalties for the purposes of this Article.
+
+7\. This Article shall apply only if the company which is the payer, or the company whose permanent establishment is treated as the payer, of interest or royalties is an associated company of the company which is the beneficial owner, or whose permanent establishment is treated as the beneficial owner, of that interest or those royalties.
+
+8\. This Article shall not apply where interest or royalties are paid by or to a permanent establishment situated in a third State of a company of a Member State and the business of the company is wholly or partly carried on through that permanent establishment.
+
+9\. Nothing in this Article shall prevent a Member State from taking interest or royalties received by its companies, by permanent establishments of its companies or by permanent establishments situated in that State into account when applying its tax law.
+
+10\. A Member State shall have the option of not applying this Directive to a company of another Member State or to a permanent establishment of a company of another Member State in circumstances where the conditions set out in Article 3(b) have not been maintained for an uninterrupted period of at least two years.
+
+11\. The source State may require that fulfilment of the requirements laid down in this Article and in Article 3 be substantiated at the time of payment of the interest or royalties by an attestation. If fulfilment of the requirements laid down in this Article has not been attested at the time of payment, the Member State shall be free to require deduction of tax at source.
+
+12\. The source State may make it a condition for exemption under this Directive that it has issued a decision currently granting the exemption following an attestation certifying the fulfilment of the requirements laid down in this Article and in Article 3. A decision on exemption shall be given within three months at most after the attestation and such supporting information as the source State may reasonably ask for have been provided, and shall be valid for a period of at least one year after it has been issued.
+
+13\. For the purposes of paragraphs 11 and 12, the attestation to be given shall, in respect of each contract for the payment, be valid for at least one year but for not more than three years from the date of issue and shall contain the following information:
+
+(a) proof of the receiving company's residence for tax purposes and, where necessary, the existence of a permanent establishment certified by the tax authority of the Member State in which the receiving company is resident for tax purposes or in which the permanent establishment is situated;
+
+(b) beneficial ownership by the receiving company in accordance with paragraph 4 or the existence of conditions in accordance with paragraph 5 where a permanent establishment is the recipient of the payment;
+
+(c) fulfilment of the requirements in accordance with Article 3(a)(iii) in the case of the receiving company;
+
+(d) a minimum holding or the criterion of a minimum holding of voting rights in accordance with Article 3(b);
+
+(e) the period for which the holding referred to in (d) has existed.
+
+Member States may request in addition the legal justification for the payments under the contract (e.g. loan agreement or licensing contract).
+
+14\. If the requirements for exemption cease to be fulfilled, the receiving company or permanent establishment shall immediately inform the paying company or permanent establishment and, if the source State so requires, the competent authority of that State.
+
+15\. If the paying company or permanent establishment has withheld tax at source to be exempted under this Article, a claim may be made for repayment of that tax at source. The Member State may require the information specified in paragraph 13. The application for repayment must be submitted within the period laid down. That period shall last for at least two years from the date when the interest or royalties are paid.
+
+16\. The source State shall repay the excess tax withheld at source within one year following due receipt of the application and such supporting information as it may reasonably ask for. If the tax withheld at source has not been refunded within that period, the receiving company or permanent establishment shall be entitled on expiry of the year in question to interest on the tax which is refunded at a rate corresponding to the national interest rate to be applied in comparable cases under the domestic law of the source State.
+
+## Article 2 — Definition of interest and royalties
+
+For the purposes of this Directive:
+
+(a) the term ‘interest’ means income from debt-claims of every kind, whether or not secured by mortgage and whether or not carrying a right to participate in the debtor's profits, and in particular, income from securities and income from bonds or debentures, including premiums and prizes attaching to such securities, bonds or debentures; penalty charges for late payment shall not be regarded as interest;
+
+(b) the term ‘royalties’ means payments of any kind received as a consideration for the use of, or the right to use, any copyright of literary, artistic or scientific work, including cinematograph films and software, any patent, trade mark, design or model, plan, secret formula or process, or for information concerning industrial, commercial or scientific experience; payments for the use of, or the right to use, industrial, commercial or scientific equipment shall be regarded as royalties.
+
+## Article 3 — Definition of company, associated company and permanent establishment
+
+For the purposes of this Directive:
+
+(a) the term ‘company of a Member State’ means any company:
+
+(i) taking one of the forms listed in the Annex hereto; and
+
+(ii) which in accordance with the tax laws of a Member State is considered to be resident in that Member State and is not, within the meaning of a Double Taxation Convention on Income concluded with a third state, considered to be resident for tax purposes outside the Community; and
+
+(iii) which is subject to one of the following taxes without being exempt, or to a tax which is identical or substantially similar and which is imposed after the date of entry into force of this Directive in addition to, or in place of, those existing taxes:
+
+— impôt des sociétés/vennootschapsbelasting in Belgium,
+
+— selskabsskat in Denmark,
+
+— Körperschaftsteuer in Germany,
+
+— Φόρος εισοδήματος νομικών προσώπων in Greece,
+
+— impuesto sobre sociedades in Spain,
+
+— impôt sur les sociétés in France,
+
+— porez na dobit in Croatia,
+
+— corporation tax in Ireland,
+
+— imposta sul reddito delle persone giuridiche in Italy,
+
+— impôt sur le revenu des collectivités in Luxembourg,
+
+— vennootschapsbelasting in the Netherlands,
+
+— Körperschaftsteuer in Austria,
+
+— imposto sobre o rendimento da pessoas colectivas in Portugal,
+
+— yhteisöjen tulovero/inkomstskatten för samfund in Finland,
+
+— statlig inkomstskatt in Sweden,
+
+— corporation tax in the United Kingdom,
+
+— Daň z příjmů právnických osob in the Czech Republic,
+
+— Tulumaks in Estonia,
+
+— φόρος εισοδήματος in Cyprus,
+
+— Uzņēmumu ienākuma nodoklis in Latvia,
+
+— Pelno mokestis in Lithuania,
+
+— Társasági adó in Hungary,
+
+— Taxxa fuq l-income in Malta,
+
+— Podatek dochodowy od osób prawnych in Poland,
+
+— Davek od dobička pravnih oseb in Slovenia,
+
+— Daň z príjmov právnických osôb in Slovakia,
+
+— корпоративен данък in Bulgaria,
+
+— impozit pe profit, impozitul pe veniturile obținute din România de nerezidenți in Romania;
+
+(b) a company is an ‘associated company’ of a second company if, at least:
+
+(i) the first company has a direct minimum holding of 25 % in the capital of the second company, or
+
+(ii) the second company has a direct minimum holding of 25 % in the capital of the first company, or
+
+(iii) a third company has a direct minimum holding of 25 % both in the capital of the first company and in the capital of the second company.
+
+Holdings must involve only companies resident in Community territory.
+
+However, Member States shall have the option of replacing the criterion of a minimum holding in the capital with that of a minimum holding of voting rights;
+
+(c) the term ‘permanent establishment’ means a fixed place of business situated in a Member State through which the business of a company of another Member State is wholly or partly carried on.
+
+## Article 4 — Exclusion of payments as interest or royalties
+
+1\. The source State shall not be obliged to ensure the benefits of this Directive in the following cases:
+
+(a) payments which are treated as a distribution of profits or as a repayment of capital under the law of the source State;
+
+(b) payments from debt-claims which carry a right to participate in the debtor's profits;
+
+(c) payments from debt-claims which entitle the creditor to exchange his right to interest for a right to participate in the debtor's profits;
+
+(d) payments from debt-claims which contain no provision for repayment of the principal amount or where the repayment is due more than 50 years after the date of issue.
+
+2\. Where, by reason of a special relationship between the payer and the beneficial owner of interest or royalties, or between one of them and some other person, the amount of the interest or royalties exceeds the amount which would have been agreed by the payer and the beneficial owner in the absence of such a relationship, the provisions of this Directive shall apply only to the latter amount, if any.
+
+## Article 5 — Fraud and abuse
+
+1\. This Directive shall not preclude the application of domestic or agreement-based provisions required for the prevention of fraud or abuse.
+
+2\. Member States may, in the case of transactions for which the principal motive or one of the principal motives is tax evasion, tax avoidance or abuse, withdraw the benefits of this Directive or refuse to apply this Directive.
+
+## Article 6 — Transitional rules for the Czech Republic, Greece, Spain, Latvia, Lithuania, Poland, Portugal and Slovakia
+
+1\. Greece, Latvia, Poland and Portugal shall be authorised not to apply the provisions of Article 1 until the date of application referred to in Article 17(2) and (3) of Council Directive 2003/48/EC of 3 June 2003 on taxation of savings income in the form of interest payments ( 1 ). During a transitional period of eight years starting on the aforementioned date, the rate of tax on payments of interest or royalties made to an associated company of another Member State or to a permanent establishment situated in another Member State of an associated company of a Member State must not exceed 10 % during the first four years and 5 % during the final four years.
+
+Lithuania shall be authorised not to apply the provisions of Article 1 until the date of application referred to in Article 17(2) and (3) of Directive 2003/48/EC. During a transitional period of six years starting on the aforementioned date, the rate of tax on payments of royalties made to an associated company of another Member State or to a permanent establishment situated in another Member State of an associated company of a Member State must not exceed 10 %. During the first four years of the six-year transitional period, the rate of tax on payments of interest made to an associated company of another Member State or to a permanent establishment situated in another Member State must not exceed 10 %; and for the following two years, the rate of tax on such payments of interest must not exceed 5 %.
+
+Spain and the Czech Republic shall be authorised, for royalty payments only, not to apply the provisions of Article 1 until the date of application referred to in Article 17(2) and (3) of Directive 2003/48/EC. During a transitional period of six years starting on the aforementioned date, the rate of tax on payments of royalties made to an associated company of another Member State or to a permanent establishment situated in another Member State of an associated company of a Member State must not exceed 10 %. Slovakia shall be authorised, for royalty payments only, not to apply the provisions of Article 1 during a transitional period of two years starting on 1 May 2004.
+
+These transitional rules shall, however, remain subject to the continued application of any rate of tax lower than those referred to in the first, second and third subparagraphs provided by bilateral agreements concluded between the Czech Republic, Greece, Spain, Latvia, Lithuania, Poland, Portugal or Slovakia and other Member States. Before the end of any of the transitional periods mentioned in this paragraph the Council may decide unanimously, on a proposal from the Commission, on a possible extension of the said transitional periods.
+
+2\. Where a company of a Member State, or a permanent establishment situated in that Member State of a company of a Member State:
+
+— receives interest or royalties from an associated company of Greece, Latvia, Lithuania, Poland or Portugal,
+
+— receives royalties from an associated company of the Czech Republic, Spain or Slovakia,
+
+— receives interest or royalties from a permanent establishment situated in Greece, Latvia, Lithuania, Poland or Portugal, of an associated company of a Member State,
+
+or
+
+— receives royalties from a permanent establishment situated in the Czech Republic, Spain or Slovakia, of an associated company of a Member State,
+
+the first Member State shall allow an amount equal to the tax paid in the Czech Republic, Greece, Spain, Latvia, Lithuania, Poland, Portugal, or Slovakia in accordance with paragraph 1 on that income as a deduction from the tax on the income of the company or permanent establishment which received that income.
+
+3\. The deduction provided for in paragraph 2 need not exceed the lower of:
+
+(a) the tax payable in the Czech Republic, Greece, Spain, Latvia, Lithuania, Poland, Portugal or Slovakia, on such income on the basis of paragraph 1,
+
+or
+
+(b) that part of the tax on the income of the company or permanent establishment which received the interest or royalties, as computed before the deduction is given, which is attributable to those payments under the domestic law of the Member State of which it is a company or in which the permanent establishment is situated.
+
+## Article 7 — Implementation
+
+1\. Member States shall bring into force the laws, regulations and administrative provisions necessary to comply with this Directive not later than 1 January 2004. They shall forthwith inform the Commission thereof.
+
+When Member States adopt these measures, they shall contain a reference to this Directive or shall be accompanied by such reference on the occasion of their official publication. The methods of making such a reference shall be laid down by the Member States.
+
+2\. Member States shall communicate to the Commission the text of the main provisions of national law which they adopt in the field covered by this Directive, together with a table showing how the provisions of this Directive correspond to the national provisions adopted.
+
+## Article 8 — Review
+
+By 31 December 2006, the Commission shall report to the Council on the operation of this Directive, in particular with a view to extending its coverage to companies or undertakings other than those referred to in Article 3 and the Annex.
+
+## Article 9 — Delimitation clause
+
+This Directive shall not affect the application of domestic or agreement-based provisions which go beyond the provisions of this Directive and are designed to eliminate or mitigate the double taxation of interest and royalties.
+
+## Article 10 — Entry into force
+
+This Directive shall enter into force on the day of its publication in the Official Journal of the European Union.
+
+## Article 11 — Addressees
+
+This Directive is addressed to the Member States.
+
+## ANNEX — List of companies covered by Article 3(a) of the Directive
+
+(a) Companies under Belgian law known as: ‘naamloze vennootschap/société anonyme, commanditaire vennootschap op aandelen/société en commandite par actions, besloten vennootschap met beperkte aansprakelijkheid/société privée à responsabilité limitée’ and those public law bodies that operate under private law;
+
+(aa) companies under Bulgarian law known as: ‘събирателното дружество’, ‘командитното дружество’, ‘дружеството с ограничена отговорност’, ‘акционерното дружество’, ‘командитното дружество с акции’, ‘кооперации’, ‘кооперативни съюзи’, ‘държавни предприятия’ constituted under Bulgarian law and carrying on commercial activities;
+
+(ab) companies under Romanian law known as: ‘societăți pe acțiuni’, ‘societăți în comandită pe acțiuni’, ‘societăți cu răspundere limitată’;
+
+(b) companies under Danish law known as: ‘aktieselskab’ and ‘anpartsselskab’;
+
+(c) companies under German law known as: ‘Aktiengesellschaft, Kommanditgesellschaft auf Aktien, Gesellschaft mit beschränkter Haftung’ and ‘bergrechtliche Gewerkschaft’;
+
+(d) companies under Greek law known as: ‘ανώνυμη εταιρíα’;
+
+(e) companies under Spanish law known as: ‘sociedad anónima, sociedad comanditaria por acciones, sociedad de responsabilidad limitada’ and those public law bodies which operate under private law;
+
+(f) companies under French law known as: ‘société anonyme, société en commandite par actions, société à responsabilité limitée’ and industrial and commercial public establishments and undertakings;
+
+(g) companies in Irish law known as public companies limited by shares or by guarantee, private companies limited by shares or by guarantee, bodies registered under the Industrial and Provident Societies Acts or building societies registered under the Building Societies Acts;
+
+(h) companies under Italian law known as: ‘società per azioni, società in accomandita per azioni, società a responsabilità limitata’ and public and private entities carrying on industrial and commercial activities;
+
+(i) companies under Luxembourg law known as: ‘société anonyme, société en commandite par actions and société à responsabilité limitée’;
+
+(j) companies under Dutch law known as: ‘naamloze vennootschap’ and ‘besloten vennootschap met beperkte aansprakelijkheid’;
+
+(k) companies under Austrian law known as: ‘Aktiengesellschaft’ and ‘Gesellschaft mit beschränkter Haftung’;
+
+(l) commercial companies or civil law companies having a commercial form, cooperatives and public undertakings incorporated in accordance with Portuguese law;
+
+(m) companies under Finnish law known as: ‘osakeyhtiö/aktiebolag,osuuskunta/andelslag, säästöpankki/sparbank’ and ‘vakuutusyhtiö/försäkringsbolag’;
+
+(n) companies under Swedish law known as: ‘aktiebolag’ and ‘försäkringsaktiebolag’;
+
+(o) companies incorporated under the law of the United Kingdom;
+
+(p) companies under Czech law known as: ‘akciová společnost’, ‘společnost s ručením omezeným’, ‘veřejná obchodní společnost’, ‘komanditní společnost’, ‘družstvo’;
+
+(q) companies under Estonian law known as: ‘täisühing’, ‘usaldusühing’, ‘osaühing’, ‘aktsiaselts’, ‘tulundusühistu’;
+
+(r) companies under Cypriot law known as: companies in accordance with the Company’s Law, Public Corporate Bodies as well as any other Body which is considered as a company in accordance with the Income tax Laws;
+
+(s) companies under Latvian law known as: ‘akciju sabiedrība’, ‘sabiedrība ar ierobežotu atbildību’;
+
+(t) companies incorporated under the law of Lithuania;
+
+(u) companies under Hungarian law known as: ‘közkereseti társaság’, ‘betéti társaság’, ‘közös vállalat’, ‘korlátolt felelősségű társaság’, ‘részvénytársaság’, ‘egyesülés’, ‘közhasznú társaság’, ‘szövetkezet’;
+
+(v) companies under Maltese law known as: ‘Kumpaniji ta’ Responsabilita’ Limitata’, ‘Soċjetajiet in akkomandita li l-kapital tagħhom maqsum f’azzjonijiet’;
+
+(w) companies under Polish law known as: ‘spółka akcyjna’, ‘spółka z ograniczoną odpowiedzialnością’;
+
+(x) companies under Slovenian law known as: ‘delniška družba’, ‘komanditna delniška družba’, ‘komanditna družba’, ‘družba z omejeno odgovornostjo’, ‘družba z neomejeno odgovornostjo’;
+
+(y) companies under Slovak law known as: ‘akciová spoločnos’, ‘spoločnosť s ručením obmedzeným’, ‘komanditná spoločnos’, ‘verejná obchodná spoločnos’, ‘družstvo’;
+
+(z) companies under Croatian law known as: ‘dioničko društvo’, ‘društvo s ograničenom odgovornošću’, and other companies constituted under Croatian law subject to Croatian profit tax.
+
+( 1 ) OJ L 157, 26.6.2003, p. 38.

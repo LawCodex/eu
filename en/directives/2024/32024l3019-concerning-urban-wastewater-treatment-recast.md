@@ -1,0 +1,1540 @@
+---
+title: "Directive (EU) 2024/3019 of the European Parliament and of the Council of 27 November 2024 concerning urban wastewater treatment (recast) (Text with EEA relevance)"
+identifier: "32024L3019"
+eli: "http://data.europa.eu/eli/dir/2024/3019/oj"
+type: directive
+jurisdiction: eu
+language: en
+date: 2024-11-27
+entry_into_force: 2025-01-01
+last_amended: 2024-12-12
+consolidated_version: "02024L3019-20241212"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02024L3019-20241212"
+retrieved: 2026-10-11
+---
+
+# Directive (EU) 2024/3019 of the European Parliament and of the Council of 27 November 2024 concerning urban wastewater treatment (recast) (Text with EEA relevance)
+
+**DIRECTIVE (EU) 2024/3019 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 27 November 2024**
+
+**concerning urban wastewater treatment**
+
+**(recast)**
+
+**(Text with EEA relevance)**
+
+**DIRECTIVE (EU) 2024/3019 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 27 November 2024**
+
+**concerning urban wastewater treatment**
+
+**(recast)**
+
+**(Text with EEA relevance)**
+
+## Article 1 — Subject matter
+
+This Directive lays down rules on the collection, treatment and discharge of urban wastewater, to protect the environment and human health, in line with the One Health approach, while progressively reducing greenhouse gas (GHG) emissions to sustainable levels, improving the energy balance of urban wastewater collection and treatment activities and contributing to the transition towards a circular economy. It also lays down rules on access to sanitation for all, on transparency of the urban wastewater sector, on the regular surveillance of relevant public health parameters in urban wastewater and on the implementation of the polluter-pays principle.
+
+## Article 2 — Definitions
+
+For the purposes of this Directive, the following definitions apply:
+
+(1) ‘urban wastewater’ means any of the following:
+
+(a) domestic wastewater;
+
+(b) the mixture of domestic wastewater and non-domestic wastewater;
+
+(c) the mixture of domestic wastewater and urban runoff;
+
+(d) the mixture of domestic wastewater, non-domestic wastewater and urban runoff;
+
+(2) ‘domestic wastewater’ means wastewater from residential settlements, services and institutions which originates predominantly from the human metabolism or from household activities, or from both;
+
+(3) ‘non-domestic wastewater’ means wastewater, other than domestic wastewater and urban runoff, which is discharged from premises used for the exercise of a trade or industrial or economic activities;
+
+(4) ‘agglomeration’ means an area where the population expressed in population equivalent, combined or not with economic activities, is sufficiently concentrated for urban wastewater to be collected and conducted to one or more urban wastewater treatment plants or to one or more final discharge points;
+
+(5) ‘urban runoff’ means precipitation in agglomerations collected by combined or separate sewers;
+
+(6) ‘storm water overflow’ means discharge of untreated urban wastewater into receiving waters from combined sewers caused by precipitation or system failures;
+
+(7) ‘collecting system’ means a system of conduits which collects and conducts urban wastewater;
+
+(8) ‘combined sewer’ means a single conduit that collects and conducts urban wastewater, including urban runoff;
+
+(9) ‘separate sewer’ means a conduit that separately collects and conducts one of the following:
+
+(a) domestic wastewater;
+
+(b) non-domestic wastewater;
+
+(c) a mixture of domestic and non-domestic wastewater;
+
+(d) urban runoff;
+
+(10) ‘1 population equivalent’ or ‘(1 p.e.)’ means the organic biodegradable load per day, having a five-day biochemical oxygen demand (BOD5) of 60 g of oxygen per day;
+
+(11) ‘primary treatment’ means treatment of urban wastewater by a physical or chemical process, or both, involving settlement of suspended solids, or other processes in which the BOD5 of the incoming wastewater is reduced by at least 20 % before discharge and the total suspended solids of the incoming wastewater are reduced by at least 50 %;
+
+(12) ‘secondary treatment’ means treatment of urban wastewater by a process generally involving biological treatment with a secondary settlement or another process which reduces biodegradable organic matter from urban wastewater;
+
+(13) ‘tertiary treatment’ means treatment of urban wastewater by a process which reduces nitrogen or phosphorus, or both, in urban wastewater;
+
+(14) ‘quaternary treatment’ means treatment of urban wastewater by a process which reduces a broad spectrum of micropollutants in urban wastewater;
+
+(15) ‘sludge’ means organic and inorganic residue resulting from the treatment of urban wastewater from an urban wastewater treatment plant, excluding grit, grease, other debris and any other screenings and residues from the pre-treatment step;
+
+(16) ‘eutrophication’ means the enrichment of water by nutrients, especially compounds of nitrogen or phosphorus, or both, causing an accelerated growth of algae and higher forms of plant life to produce an undesirable disturbance to the balance of organisms present in the water and to the quality of the water concerned;
+
+(17) ‘micropollutant’ means a substance as defined in Article 3(1) of Regulation (EC) No 1907/2006 of the European Parliament and of the Council ( 1 ), including its breakdown products, that is usually present in the aquatic environment, urban wastewater or sludge and that can be considered hazardous to the environment or human health on the basis of the relevant criteria set out in Parts 3 and 4 of Annex I to Regulation (EC) No 1272/2008, even in low concentrations;
+
+(18) ‘dilution ratio’ means the ratio of the average over the last five years of annual flow of the receiving waters at the point of discharge to the average over the last five years of the annual discharge volume of urban wastewater into surface waters;
+
+(19) ‘producer’ means any manufacturer, importer or distributor that on a professional basis places products on the market of a Member State, including by means of distance contracts as defined in Article 2(7) of Directive 2011/83/EU of the European Parliament and of the Council ( 2 );
+
+(20) ‘producer responsibility organisation’ means a nationally recognised organisation established to enable producers to fulfil their obligations under Articles 9 and 10;
+
+(21) ‘sanitation’ means facilities and services for the safe, hygienic, secure, and socially and culturally acceptable management and disposal of human urine and faeces, and for the changing and disposal of menstrual products, that provide privacy and ensure dignity;
+
+(22) ‘antimicrobial resistance’ means the ability of micro-organisms to survive or to grow in the presence of a concentration of an antimicrobial agent which is usually sufficient to inhibit or kill micro-organisms of the same species;
+
+(23) ‘One Health’ means One Health as defined in Article 3, point (7), of Regulation (EU) 2022/2371 of the European Parliament and of the Council ( 3 );
+
+(24) ‘public concerned’ means the public affected or likely to be affected by, or having an interest in, the taking of a decision for the implementation of the obligations laid down in Article 6, 7 or 8 of this Directive; for the purposes of this definition, non-governmental organisations promoting the protection of the environment or human health and meeting any requirements under national law are deemed to have an interest;
+
+(25) ‘biomedia’ means any support, usually made of plastic, used for the development of the bacteria needed for the treatment of urban wastewater;
+
+(26) ‘placing on the market’ means the first making available of a product on the market of a Member State;
+
+(27) ‘load’ means the amount of organic biodegradable matter measured as BOD5 in urban wastewater, expressed in p.e., or of any pollutant or nutrient, expressed in mass units per time;
+
+(28) ‘individual system’ means a sanitation facility that collects, stores, treats or disposes of domestic wastewater from buildings or parts of buildings not connected to a collecting system.
+
+## Article 3 — Collecting systems and calculation of the load of an agglomeration
+
+1\. Member States shall ensure that all agglomerations of 2 000 p.e. and above comply with the following requirements:
+
+(a) they are provided with collecting systems;
+
+(b) all their sources of domestic wastewater are connected to the collecting system.
+
+2\. Member States shall ensure that agglomerations of 1 000 p.e. and above but below 2 000 p.e. comply with the requirements of paragraph 1 by 31 December 2035.
+
+Member States may derogate from the deadline referred to in the first subparagraph for a maximum period of:
+
+(a) 8 years where on 1 January 2025:
+
+(i) less than 50 % of the agglomerations referred to in the first subparagraph are provided with collecting systems; or
+
+(ii) less than 50 % of the urban wastewater load of the agglomerations referred to in the first subparagraph is collected in collecting systems;
+
+(b) 10 years where on 1 January 2025:
+
+(i) less than 25 % of the agglomerations referred to in the first subparagraph are provided with collecting systems; or
+
+(ii) less than 25 % of the urban wastewater load of the agglomerations referred to in the first subparagraph is collected in collecting systems.
+
+Bulgaria, Croatia and Romania may derogate from the deadline referred to in the first subparagraph for a maximum period of:
+
+(a) 12 years where on 1 January 2025:
+
+(i) less than 50 % of the agglomerations referred to in the first subparagraph are provided with collecting systems; or
+
+(ii) less than 50 % of the urban wastewater load of the agglomerations referred to in the first subparagraph is collected in collecting systems;
+
+(b) 14 years where on 1 January 2025:
+
+(i) less than 25 % of the agglomerations referred to in the first subparagraph are provided with collecting systems; or
+
+(ii) less than 25 % of the urban wastewater load of the agglomerations referred to in the first subparagraph is collected in collecting systems.
+
+Where Member States derogate from the deadline referred to in the first subparagraph, they shall ensure that their first national implementation programme referred to in Article 23 includes:
+
+(a) the number of agglomerations of 1 000 p.e. and above but below 2 000 p.e. that lack complete collecting systems on 1 January 2025; and
+
+(b) a plan detailing the investments necessary to reach full compliance for those agglomerations within the extended deadlines; and
+
+(c) the technical or economic reasons justifying the extension of the deadline referred to in the first subparagraph.
+
+The extensions of the deadline referred to in the first subparagraph shall apply only if the conditions of the second or third subparagraph and of the fourth subparagraph are fulfilled. The Commission shall notify the Member States if those conditions are not fulfilled by 31 July 2028.
+
+3\. The load of an agglomeration expressed in p.e. shall be calculated on the basis of the maximum average weekly load generated in that agglomeration during the year, excluding unusual weather situations such as those due to heavy rain.
+
+4\. Collecting systems shall fulfil the requirements of Part A of Annex I.
+
+## Article 4 — Individual systems
+
+1\. Member States may derogate from Article 3 only if the establishment of a collecting system or the connection to a collecting system is not justified because it would produce no environmental or human health benefit, is not technically feasible or would involve excessive cost. If derogating from Article 3, Member States shall ensure that individual systems for the collection, storage and when applicable, treatment of urban wastewater are used in agglomerations of 1 000 p.e. and above, or part of those agglomerations.
+
+2\. Member States shall ensure that the individual systems referred to in paragraph 1 are designed, operated and maintained in a manner that achieves the same level of environmental and human health protection as the secondary and tertiary treatments referred to in Articles 6 and 7.
+
+3\. Member States shall ensure that individual systems that are used in agglomerations of 1 000 p.e. and above are registered in a registry. Member States shall ensure that regular inspections of those systems, or regular checks or controls of those systems by other means, are carried out by the competent authority or any other body authorised at national, regional or local level, on the basis of a risk-based approach.
+
+4\. The Commission is empowered to adopt implementing acts to specify minimum requirements for:
+
+(a) the design, operation and maintenance of individual systems referred to in paragraphs 1 and 2; and
+
+(b) the regular inspections referred to in paragraph 3, including the establishment of a minimum frequency for such inspections depending on the type of individual system, and based on a risk-based approach.
+
+Those implementing acts shall be adopted by 2 January 2028 in accordance with the examination procedure referred to in Article 28(2).
+
+The requirements related to design referred to in paragraph 2 and this paragraph shall not apply to individual systems referred to in paragraph 1 which were established before 1 January 2025.
+
+5\. Member States that use individual systems to collect and/or treat more than 2 % of the urban wastewater load at national level from agglomerations of 2 000 p.e. and above shall provide the Commission with a justification for the use of individual systems. That justification shall:
+
+(a) demonstrate that the conditions for using individual systems set out in paragraph 1 are fulfilled;
+
+(b) describe the measures taken in accordance with paragraphs 2 and 3;
+
+(c) demonstrate compliance with the minimum requirements referred to in paragraph 4 where the Commission has exercised its implementing powers under that paragraph;
+
+(d) demonstrate that the use of the individual systems does not prevent Member States from complying with the environmental objectives established in Article 4 of Directive 2000/60/EC.
+
+6\. The Commission is empowered to adopt implementing acts establishing the format for submitting the information referred to in paragraph 5. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 28(2).
+
+## Article 5 — Integrated urban wastewater management plans
+
+1\. By 31 December 2033, Member States shall ensure that an integrated urban wastewater management plan is established for drainage areas of agglomerations of 100 000 p.e. and above.
+
+2\. At the latest six months after the first update of the river basin management plan produced pursuant to Article 13(7) of Directive 2000/60/EC following 1 January 2025 but no later than 22 June 2028, Member States shall establish a list of agglomerations of between 10 000 p.e. and 100 000 p.e. where, considering historic data, modelling and state-of-the-art climate projections, including seasonal variations, as well as the anthropogenic pressures and the assessment of impacts undertaken under the river basin management plan, one or more of the following conditions apply:
+
+(a) storm water overflow poses a risk to the environment or human health;
+
+(b) storm water overflow represents more than 2 % of the annual collected urban wastewater load of the parameters referred to in Table 1 and, where relevant, Table 2 of Annex I, calculated in dry weather flow;
+
+(c) storm water overflow prevents the fulfilment of any of the following:
+
+(i) the requirements established under Article 5 of Directive (EU) 2020/2184;
+
+(ii) the requirements set out in Article 5(3) of Directive 2006/7/EC;
+
+(iii) the requirements set out in Article 3 of Directive 2008/105/EC of the European Parliament and of the Council ( 4 );
+
+(iv) the environmental objectives set out in Article 4 of Directive 2000/60/EC;
+
+(v) the requirements set out in Article 1 of Directive 2008/56/EC;
+
+(vi) the requirements established under Article 3 of Directive 2006/118/EC of the European Parliament and of the Council ( 5 );
+
+(d) relevant points in separate sewers have been identified where urban runoff is expected to be polluted in such a way that its discharge into receiving waters can be considered to be a risk to the environment or human health or prevents the fulfilment of any of the requirements or environmental objectives referred to in point (c).
+
+Member States shall review the list referred to in the first subparagraph every six years after its establishment and update it where necessary.
+
+3\. By 31 December 2039, Member States shall ensure that an integrated urban wastewater management plan is established for drainage areas of agglomerations referred to in paragraph 2.
+
+4\. Integrated urban wastewater management plans shall be made available to the Commission on request.
+
+5\. Integrated urban wastewater management plans shall include at least the elements set out in Annex V, and prioritise green and blue infrastructure solutions wherever possible.
+
+6\. The Commission is empowered to adopt implementing acts to specify:
+
+(a) methodologies for the identification of the measures referred to in point 3 of Annex V;
+
+(b) methodologies for the determination of alternative indicators to verify whether the indicative objective of pollution reduction referred to in point 2 (a) of Annex V is achieved;
+
+(c) the format in which integrated urban wastewater management plans are to be made available to the Commission where requested in accordance with paragraph 4.
+
+Those implementing acts shall be adopted by 2 January 2028 in accordance with the examination procedure referred to in Article 28(2).
+
+7\. Member States shall ensure that integrated urban wastewater management plans are reviewed at least every six years after their establishment and updated where necessary. Following an update of the list referred to in paragraph 2, Member States shall ensure that integrated management plans are established for agglomerations within six years of their inclusion in that list.
+
+## Article 6 — Secondary treatment
+
+1\. Member States shall ensure that discharges from urban wastewater treatment plants treating urban wastewater from agglomerations of 2 000 p.e. and above satisfy, before being discharged into receiving waters, the relevant requirements of secondary treatment set out in Part B and Table 1 of Annex I in accordance with the methods for monitoring and evaluation of results laid down in Part C of Annex I. Without prejudice to the possibility of using alternative methods as referred to in Part C, point 1, of Annex I, the maximum permitted number of samples which fail to conform to the parametric values of Part B and Table 1 of Annex I is set out in Part C and Table 4 of Annex I.
+
+For agglomerations of 2 000 p.e. and above but below 10 000 p.e. which are discharging into coastal waters as defined under Directive 2000/60/EC and which apply appropriate treatment in accordance with Article 7 of Directive 91/271/EEC on 1 January 2025, the obligation set out in the first subparagraph shall not apply until 31 December 2037.
+
+2\. For agglomerations discharging urban wastewater into less sensitive areas as referred to in Article 6(1) of Directive 91/271/EEC on 1 January 2025, the obligations set out in paragraph 1, first subparagraph, shall apply on 31 December 2037.
+
+3\. By 31 December 2035, Member States shall ensure that discharges from urban wastewater treatment plants treating urban wastewater from agglomerations of 1 000 p.e. and above but below 2 000 p.e. satisfy, before being discharged into receiving waters, the relevant requirements of secondary treatment set out in Part B and Table 1 of Annex I in accordance with the methods for monitoring and evaluation of results laid down in Part C of Annex I. Without prejudice to the possibility of using alternative methods as referred to in Part C, point 1, of Annex I, the maximum permitted number of samples which fail to conform to the parametric values of Part B and Table 1 of Annex I is set out in Part C and Table 4 of Annex I.
+
+Member States may derogate from the deadline referred to in the first subparagraph for a maximum period of:
+
+(a) 8 years where on 1 January 2025:
+
+(i) in less than 50 % of the agglomerations referred to in the first subparagraph the urban wastewater discharges are subject to secondary treatment on their territory, in accordance with Part B and Table 1 of Annex I; or
+
+(ii) less than 50 % of the urban wastewater load of the agglomerations referred to in the first subparagraph is subject to secondary treatment on their territory, in accordance with Part B and Table 1 of Annex I;
+
+(b) 10 years where on 1 January 2025:
+
+(i) in less than 25 % of the agglomerations referred to in the first subparagraph the urban wastewater discharges are subject to secondary treatment on their territory, in accordance with Part B and Table 1 of Annex I; or
+
+(ii) less than 25 % of the urban wastewater load of the agglomerations referred to in the first subparagraph is subject to secondary treatment on their territory, in accordance with Part B and Table 1 of Annex I.
+
+Bulgaria, Croatia and Romania may derogate from the deadline referred to in the first subparagraph for a maximum period of:
+
+(a) 12 years where on 1 January 2025,
+
+(i) in less than 50 % of the agglomerations referred to in the first subparagraph the urban wastewater discharges are subject to secondary treatment on their territory, in accordance with Part B and Table 1 of Annex I; or
+
+(ii) less than 50 % of the urban wastewater load of the agglomerations referred to in the first subparagraph is subject to secondary treatment on their territory, in accordance with Part B and Table 1 of Annex I;
+
+(b) 14 years where on 1 January 2025
+
+(i) in less than 25 % of the agglomerations referred to in the first subparagraph the urban wastewater discharges are subject to secondary treatment on their territory, in accordance with Part B and Table 1 of Annex I; or
+
+(ii) less than 25 % of the urban wastewater load of the agglomerations referred to in the first subparagraph is subject to secondary treatment on their territory, in accordance with Part B and Table 1 of Annex I.
+
+Where Member States derogate from the deadline referred to in the first subparagraph, they shall ensure that their first national implementation programme referred to in Article 23 includes:
+
+(a) the number of agglomerations of 1 000 p.e. and above but below 2 000 p.e. that lack secondary treatment on 1 January 2025;
+
+(b) a plan detailing the investments necessary to reach full compliance for those agglomerations within the extended deadlines; and
+
+(c) the technical or economic reasons justifying the extensions of the deadline referred to in the first subparagraph.
+
+The extensions of the deadline referred to in the first subparagraph shall apply only if the conditions of the second or third subparagraph and the fourth subparagraph are fulfilled. The Commission shall notify the Member States if those conditions are not fulfilled by 31 July 2028.
+
+4\. Urban wastewater discharges may be subject to treatment less stringent than that prescribed in paragraphs 1 and 3 until 31 December 2045 where they are discharged into:
+
+(a) waters situated in high mountain regions, namely above an altitude of 1 500 m, where it is difficult to apply an effective biological treatment due to low temperatures;
+
+(b) deep marine waters where such discharges of urban wastewater are from agglomerations of below 150 000 p.e. in less-populated outermost regions within the meaning of Article 349 TFEU in which the topography and geography of the territory makes it difficult to apply an effective biological treatment; or
+
+(c) urban wastewater from small agglomerations of 1 000 p.e. and above but below 2 000 p.e. situated in regions with a cold climate where it is difficult to apply an effective biological treatment due to low temperatures if the average quarterly water temperature of the inlet is below 6 oC.
+
+The conditions to apply the first subparagraph are that Member States concerned provide the Commission with detailed studies demonstrating that such discharges do not adversely affect the environment and human health and they do not prevent the receiving waters from meeting the relevant quality objectives and the relevant provisions of other relevant Union law.
+
+5\. The load expressed in p.e. shall be calculated on the basis of the maximum average weekly load entering the urban wastewater treatment plant during the year, excluding unusual weather situations such as those due to heavy rain.
+
+## Article 7 — Tertiary treatment
+
+1\. Member States shall ensure that discharges from urban wastewater treatment plants treating urban wastewater with a load of 150 000 p.e. and above and not applying tertiary treatment on 1 January 2025 satisfy, before being discharged into receiving waters, the relevant requirements of tertiary treatment in accordance with Part B and Table 2 of Annex I by:
+
+(a) 31 December 2033 for discharges from 30 % of those urban wastewater treatment plants;
+
+(b) 31 December 2036 for discharges from 70 % of those urban wastewater treatment plants.
+
+By 31 December 2039, Member States shall ensure that all discharges from urban wastewater treatment plants treating urban wastewater with a load of 150 000 p.e. and above satisfy, before being discharged into receiving waters, the relevant requirements of tertiary treatment referred to in Part B and Table 2 of Annex I.
+
+2\. By 31 December 2027, Member States shall establish and publish a list of areas on their territory that are sensitive to eutrophication. They shall include with that list information on whether the areas are phosphorus- or nitrogen-sensitive or both. They shall update that list every six years starting on 31 December 2033.
+
+The list referred to in the first subparagraph shall include the areas identified in Annex II.
+
+The requirement set out in the first subparagraph shall not apply where a Member State implements tertiary treatment in accordance with paragraph 5 in its entire territory.
+
+3\. Without prejudice to paragraph 1, Member States shall ensure that discharges from urban wastewater treatment plants treating urban wastewater from agglomerations of 10 000 p.e. and above satisfy, before being discharged into areas included in the list referred to in paragraph 2, the relevant requirements of tertiary treatment set out in Part B and Table 2 of Annex I by:
+
+(a) 31 December 2033 for 20 % of those agglomerations;
+
+(b) 31 December 2036 for 40 % of those agglomerations;
+
+(c) 31 December 2039 for 60 % of those agglomerations;
+
+(d) 31 December 2045 for all of those agglomerations.
+
+4\. Member States may derogate from the deadline referred to in paragraph 3, point (d), for a maximum of eight years on condition that:
+
+(a) at least 50 % of the agglomerations concerned are not applying tertiary treatment in accordance with the requirements set out in Directive 91/271/EEC or do not meet the requirements of Part B and Table 2 of Annex I to that Directive on 1 January 2025; and
+
+(b) the first national implementation programme submitted under Article 23(2) includes:
+
+(i) the number of agglomerations referred to in paragraph 3 lacking tertiary treatment in accordance with the requirements set out in Directive 91/271/EEC or not meeting the requirements of Part B and Table 2 of Annex I to that Directive on 1 January 2025;
+
+(ii) a plan detailing the investments necessary to reach full compliance for those agglomerations within the extended deadline; and
+
+(iii) the technical or economic reasons justifying the extension of the deadline referred to in paragraph 3, point (d).
+
+The extension of the deadline referred to in this paragraph shall be effective only if the conditions of the first subparagraph are fulfilled. The Commission shall notify the Member States if those conditions are not fulfilled by 31 July 2028. However, urban wastewater treatment plants treating a load of 150 000 p.e. and above shall meet the deadlines set in paragraph 1.
+
+5\. Discharges of urban wastewater referred to in paragraphs 1 and 3 shall meet the relevant requirements in Part B and Table 2 of Annex I in accordance with the methods for monitoring and evaluation of results laid down in Part C of Annex I. The annual mean of the samples for each parameter referred to in Table 2 of Annex I shall conform to the relevant parametric values set out in that table.
+
+6\. For urban wastewater treatment plants that are under construction, under major refurbishment as regards their tertiary treatment or were commissioned after 31 December 2020 and before 1 January 2025, the requirements relating to the nitrogen parameter as referred to in this Article shall apply at the latest five years from the deadlines established in paragraphs 1 and 3.
+
+7\. The Commission is empowered to adopt delegated acts in accordance with the procedure referred to in Article 27 to amend Part C of Annex I in order to adapt the methods for monitoring and evaluation of results in relation to tertiary treatment to scientific and technical progress.
+
+8\. By way of derogation from paragraphs 3 and 5, Member States may decide that an individual urban wastewater treatment plant situated in an area included in the list referred to in paragraph 2 is not to be subject to the requirements set out in paragraphs 3 and 5 where it can be shown that the minimum percentage of reduction of the overall load entering all urban wastewater treatment plants in that area is:
+
+(a) at least 75 % for total phosphorus and at least 75 % for total nitrogen from 1 January 2025;
+
+(b) 82,5 % for total phosphorus and 80 % for total nitrogen by 31 December 2039;
+
+(c) 87,5 % for total phosphorus and 82,5 % for total nitrogen by 31 December 2045.
+
+9\. Discharges from urban wastewater treatment plants of 10 000 p.e. and above into a catchment area of an area sensitive to eutrophication included in the list referred to in paragraph 2 shall also be subject to paragraphs 3, 5 and 8.
+
+10\. Member States shall ensure that discharges from urban wastewater treatment plants which are situated in an area included in the list referred to in paragraph 2 following one of the regular updates of the list required by that paragraph fulfil the requirements laid down in paragraphs 3 and 5 within seven years of the inclusion in that list.
+
+11\. Where the number of urban wastewater treatment plants that need to be upgraded to meet the objectives referred to in paragraphs 1 and 3 at national level is not an integer, the number of urban wastewater treatment plants shall be rounded to the nearest integer. In the case of equidistance between two integers, the number shall be rounded down.
+
+## Article 8 — Quaternary treatment
+
+1\. Member States shall ensure that discharges from urban wastewater treatment plants treating urban wastewater with a load of 150 000 p.e. and above satisfy, before being discharged into receiving waters, the relevant requirements of quaternary treatment set out in Part B and Table 3 of Annex I in accordance with the methods of monitoring and evaluation of results laid down in Part C of Annex I by:
+
+(a) 31 December 2033 for discharges from 20 % of those urban wastewater treatment plants;
+
+(b) 31 December 2039 for discharges from 60 % of those urban wastewater treatment plants;
+
+(c) 31 December 2045 for all discharges from those urban wastewater treatment plants.
+
+The maximum permitted number of samples which fail to conform to the parametric values of Table 3 of Annex I is set out in Part C and Table 4 of Annex I.
+
+2\. By 31 December 2030, Member States shall have established a list of areas on their national territory where the concentration or the accumulation of micropollutants from urban wastewater treatment plants represents a risk for the environment or human health. Member States shall review that list in 2033, and thereafter every six years and update it if necessary.
+
+The list referred to in the first subparagraph shall include the following areas:
+
+(a) catchment areas for abstraction points of water intended for human consumption as characterised in accordance with Article 8(2), point (a), of Directive (EU) 2020/2184 unless the risk assessment in accordance with Article 8(2), point (b), of that Directive indicates that the discharge of micropollutants from urban wastewater treatment plants does not constitute a potential risk that might cause a deterioration of the water quality to the extent that it could constitute a risk to human health;
+
+(b) bathing water falling within the scope of Directive 2006/7/EC unless the bathing water profile referred to in Article 6 of and Annex III to that Directive indicates that the discharge of micropollutants from urban wastewater neither affects bathing waters nor impairs bathers’ health;
+
+(c) areas where aquaculture activities, as defined in Article 4, point (25), of Regulation (EU) No 1380/2013 of the European Parliament and of the Council ( 6 ), take place unless the competent national authorities are satisfied that the discharge of micropollutants from urban wastewater cannot affect the safety of the foodstuff in its finished form.
+
+The list referred to in the first subparagraph shall also include the following areas on the basis of an assessment of the risks for the environment or human health posed by the discharge of micropollutants in urban wastewater:
+
+(a) lakes as defined in Article 2, point (5), of Directive 2000/60/EC;
+
+(b) rivers as defined in Article 2, point (4), of Directive 2000/60/EC or other water streams where the dilution ratio is below 10;
+
+(c) areas where additional treatment is necessary to meet the requirements set out in Directives 2000/60/EC, 2006/118/EC and 2008/105/EC;
+
+(d) special areas of conservation as defined in Article 1, point (l), of Council Directive 92/43/EEC ( 7 ) and special protection areas classified under Article 4(1), fourth subparagraph, of Directive 2009/147/EC of the European Parliament and of the Council ( 8 ) which form part of the Natura 2000 ecological network;
+
+(e) coastal waters as defined in Article 2, point (7), of Directive 2000/60/EC;
+
+(f) transitional waters as defined in Article 2, point (6), of Directive 2000/60/EC;
+
+(g) marine waters as defined in Article 3, point (1), of Directive 2008/56/EC.
+
+The risk assessment referred to in the third subparagraph shall be communicated to the Commission on request.
+
+3\. The Commission is empowered to adopt implementing acts establishing the format of the risk assessment referred to in paragraph 2, third subparagraph, and the method to be used for that risk assessment. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 28(2).
+
+4\. Without prejudice to paragraph 1, Member States shall ensure that discharges of urban wastewater from agglomerations of 10 000 p.e. and above satisfy, before being discharged into areas included in the list referred to in paragraph 2, the relevant requirements of quaternary treatment set out in Part B and Table 3 of Annex I in accordance with the methods of monitoring and evaluation of results laid down in Part C of Annex I by:
+
+(a) 31 December 2033 for 10 % of those agglomerations;
+
+(b) 31 December 2036 for 30 % of those agglomerations;
+
+(c) 31 December 2039 for 60 % of those agglomerations;
+
+(d) 31 December 2045 for 100 % of those agglomerations.
+
+The maximum permitted number of samples which fail to conform to the parametric values of Table 3 of Annex I is set out in Part C and Table 4 of Annex I.
+
+The Commission is empowered to adopt delegated acts in accordance with the procedure referred to in Article 27 to amend Part C of Annex I in order to adapt the methods for monitoring and evaluation of results in relation to quaternary treatment to scientific and technical progress.
+
+5\. Member States shall ensure that discharges of urban wastewater from urban wastewater treatment plants which are situated in an area included in the list referred to in paragraph 2, following one of the regular updates of that list required by that paragraph, fulfil the requirements laid down in paragraph 4 and in Part B and Table 3 of Annex I within seven years of the inclusion in that list, but not later than the deadlines set out in paragraph 4.
+
+6\. The Commission may adopt implementing acts to establish the monitoring and sampling methods to be used by the Member States to determine the presence and quantities in urban wastewater of the indicators set out in Table 3 of Annex I. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 28(2).
+
+7\. Where the number of urban wastewater treatment plants that need to be upgraded to meet the objectives referred to in paragraph 1, first subparagraph, points (a) and (b), at national level is not an integer, the number of urban wastewater treatment plants shall be rounded to the nearest integer. In the case of equidistance between two integers, the number shall be rounded down.
+
+8\. Without prejudice to the other provisions of this Article, to ensure that the reuse of treated urban wastewater is safe for the environment and human health, Member States shall ensure that, where appropriate, urban wastewater that is reused or planned to be reused is treated in accordance with the requirements for quaternary treatment set out in Part B and Table 3 of Annex I. Member States shall ensure that the outcome of the risk assessments carried out under Regulation (EU) 2020/741 is taken into account where treated urban wastewater is reused for agricultural purposes.
+
+## Article 9 — Extended producer responsibility
+
+1\. Member States shall take measures to ensure that by 31 December 2028, producers who place any of the products listed in Annex III on the market have extended producer responsibility.
+
+Such measures shall ensure that those producers cover:
+
+(a) at least 80 % of the full costs for complying with the requirements set out in Article 8, including the investment and operational costs for the quaternary treatment of urban wastewater to remove micropollutants resulting from the products they place on the market and from the residues of those products, and for the monitoring of micropollutants referred to in Article 21(1), point (a);
+
+(b) the costs for gathering and verifying data on products placed on the market; and
+
+(c) other costs required to exercise their extended producer responsibility.
+
+2\. Member States shall exempt producers from their extended producer responsibility under paragraph 1 where the producers can demonstrate any of the following:
+
+(a) the quantity of the substances contained in the products they place on the Union market is below 1 tonne per year;
+
+(b) the substances contained in the products they place on the market are rapidly biodegradable in wastewater or do not generate micropollutants in wastewater at the end of their life.
+
+3\. Member States shall ensure that the producers referred to in paragraph 1 exercise their extended producer responsibility collectively through an organisation that fulfils the minimum requirements set out in Article 10.
+
+Member States shall ensure that:
+
+(a) those producers are required to provide the producer responsibility organisations once a year with the following:
+
+(i) the annual quantities of the substances contained in products listed in Annex III that they place on the market in the context of their professional activity;
+
+(ii) information on the hazardousness of the substances contained in products referred to in point (i) in the urban wastewater and on their biodegradability at the end of their life;
+
+(iii) when relevant, a list of products exempted in accordance with paragraph 2;
+
+(b) those producers are required to contribute financially to the producer responsibility organisations in order to cover the costs arising from their extended producer responsibility;
+
+(c) each producer’s contribution, as referred to in point (b), is determined on the basis of the quantities and hazardousness in the urban wastewater of the substances contained in the products that are placed on the market;
+
+(d) producer responsibility organisations are subject to annual independent audits of their financial management, including their capacity to cover the costs referred to in paragraph 1, the quality and adequacy of the information collected under point (a) and the adequacy of the contributions collected under point (b);
+
+(e) the measures necessary to inform consumers about waste prevention measures, take-back and collection systems, and the impact of inappropriate means of waste disposal of the products listed in Annex III, as well as their mis- and over-use, on the collection, treatment and discharge of urban wastewater are taken.
+
+4\. Member States shall ensure that:
+
+(a) the roles and responsibilities of all relevant actors involved, including the producers referred to in paragraph 1, producer responsibility organisations, private or public operators of urban wastewater treatment plants and local competent authorities, are clearly defined;
+
+(b) urban wastewater management objectives are established in order to comply with the requirements and deadlines set under Article 8(1), (4) and (5) and any other quantitative or qualitative objectives that are considered relevant for the implementation of the extended producer responsibility;
+
+(c) a reporting system is in place to gather data on the products referred to in paragraph 1 placed on the market by the producers and data on the quaternary treatment of urban wastewater, as well as other data relevant for the purposes of point (b) of this paragraph;
+
+(d) competent authorities communicate and exchange the necessary data with other relevant competent authorities on a regular basis in order to fulfil the requirements of this Article and of Article 10.
+
+5\. The Commission is empowered to adopt implementing acts to establish detailed criteria on the uniform application of the condition laid down in paragraph 2, point (b), to specific categories of product and their biodegradability or hazardousness. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 28(2) no later than 31 December 2027.
+
+## Article 10 — Minimum requirements for producer responsibility organisations
+
+1\. Member States shall take the measures necessary to ensure that any producer responsibility organisation established under Article 9(3):
+
+(a) has a clearly defined geographical coverage that is consistent with the requirements set out in Article 8;
+
+(b) has the financial and organisational means necessary to meet the extended producer responsibility obligations of the producers, including financial guarantees to ensure the continuity of the quaternary treatment of urban wastewater in accordance with Article 8 in all circumstances;
+
+(c) makes publicly available information about:
+
+(i) its ownership and membership;
+
+(ii) the financial contributions paid by producers in line with the requirements referred to in Article 9(3), second subparagraph, point (c);
+
+(iii) the activities that it undertakes every year, including clear information on how its financial means are used.
+
+Member States shall ensure that such measures include a national recognition procedure certifying the compliance of the producer responsibility organisations with the requirements set out in this paragraph prior to their effective establishment and operation.
+
+The provision of information to the public under this Article shall be without prejudice to preserving the confidentiality of business information in accordance with relevant Union and national law.
+
+2\. Member States shall establish an adequate monitoring and enforcement framework to ensure that producer responsibility organisations fulfil their obligations in a transparent manner, that the financial means of producer responsibility organisations are properly used and that all actors having extended producer responsibility report reliable data to the competent authorities and, when requested, to the producer responsibility organisations.
+
+3\. Where, in the territory of a Member State, there are multiple producer responsibility organisations, the Member State concerned shall appoint at least one body independent of private interests or entrust a public authority to oversee the implementation of Article 9.
+
+4\. A Member State shall ensure that the producers established on the territory of another Member State or in a third country, and placing products on that Member State’s market:
+
+(a) appoint a legal or natural person established on its territory as an authorised representative for the purpose of fulfilling the extended producer responsibility obligations on its territory; or
+
+(b) take measures equivalent to point (a).
+
+5\. To ensure that the extended producer responsibility system is implemented as optimally as possible, in particular from a cost-benefit perspective, Member States shall organise regular dialogues on its implementation. This may include support for identifying measures to be taken by the competent authorities to inter alia:
+
+(a) reduce micropollutant pressure at source, and
+
+(b) determine the most appropriate technologies for quaternary treatment.
+
+Member States shall ensure that those dialogues involve relevant stakeholders and, where relevant, associations of stakeholders involved in the implementation of extended producer responsibility, including producers and distributors, producer responsibility organisations, private or public operators of urban wastewater treatment plants, local authorities and civil society organisations.
+
+6\. By 1 January 2025, the Commission shall provide for the organisation of exchange of information, experience and best practices between Member States on the implementation of Article 9 and this Article and in particular on:
+
+(a) the measures to control the establishment, the recognition and functioning of producer responsibility organisations;
+
+(b) the measures to control the compliance of producers with their obligations defined in this Directive;
+
+(c) the effective implementation of:
+
+(i) the coverage of the costs as referred to in Article 9(1), and
+
+(ii) the controls on the methods of calculation of producers’ contributions by the producer responsibility organisation as referred to in Article 9(3), point (c);
+
+(d) the exemptions provided for in Article 9(2);
+
+(e) any other issue in relation to the effective implementation of Article 9 and this Article;
+
+(f) the possible impacts of the application of the requirements referred to in Article 9 on the accessibility, availability and affordability of medicines placed on the Union market.
+
+The Commission shall publish the results of the exchange of information, experience and best practices on those and other relevant aspects and, where relevant, provide recommendations or guidelines, or both, to Member States.
+
+7\. On the basis of the information provided by Member States, the Commission shall establish and regularly update a list of the requests for exemption received by Member States from producers under Article 9(2). That list shall be made available on request to the competent authorities of the Member States.
+
+## Article 11 — Energy neutrality
+
+1\. Member States shall ensure that energy audits, as defined in Article 2, point (32), of Directive (EU) 2023/1791, of urban wastewater treatment plants and collecting systems in operation are carried out every four years. Those audits shall include an identification of the potential for cost-effective measures to reduce the use of energy and enhance the use and production of renewable energy, with a particular focus on identifying and utilising the potential for biogas production or the recovery and use of waste heat either on-site or via a district energy system, while reducing GHG emissions. The first energy audits shall be carried out:
+
+(a) by 31 December 2028 for urban wastewater treatment plants treating a load of 100 000 p.e. and above and the collecting systems connected to them;
+
+(b) by 31 December 2032 for urban wastewater treatment plants treating a load of 10 000 p.e. and above but below 100 000 p.e. and the collecting systems connected to them.
+
+2\. Member States shall ensure that, at national level, the total annual energy from renewable sources, as defined in Article 2(1) of Directive (EU) 2018/2001, generated on-site or off-site by or on behalf of the owners or the operators of urban wastewater treatment plants treating a load of 10 000 p.e. and above, and irrespective of whether that energy is used on-site or off-site by the owners or operators of those plants, is equivalent to at least:
+
+(a) 20 % of the total annual energy used by such plants by 31 December 2030;
+
+(b) 40 % of the total annual energy used by such plants by 31 December 2035;
+
+(c) 70 % of the total annual energy used by such plants by 31 December 2040;
+
+(d) 100 % of the total annual energy used by such plants by 31 December 2045.
+
+Renewable energy generated by or on behalf of the owners or operators of the urban wastewater treatment plant shall not comprise purchased renewable energy.
+
+3\. By way of derogation from paragraph 2, if a Member State does not reach the objective referred to in paragraph 2, point (d), despite having implemented all energy efficiency measures and all measures necessary to enhance the production of renewable energy, in particular those identified in the energy audits referred to in paragraph 1, Member States may exceptionally allow the purchase of energy from non-fossil fuel sources. Those purchases shall be limited to a maximum of 35 % of non-fossil fuel energy in relation to the objective referred to in paragraph 2, point (d).
+
+4\. By way of derogation from paragraph 2, if a Member State does not reach the objective referred to in paragraph 2, point (c), despite having implemented all energy efficiency measures and all measures to enhance the production of renewable energy, in particular those identified in the energy audits referred to in paragraph 1, Member States may exceptionally allow the purchase of energy from non-fossil fuel sources. Those purchases shall be limited to a maximum of 5 percentage points of the objective referred to in paragraph 2, point (c). That derogation shall be granted only to Member States that can demonstrate by 31 December 2040 that 35 % of external non-fossil fuel energy as referred to in paragraph 3 will need to be purchased to reach the objective referred to in paragraph 2, point (d), taking into account all energy efficiency measures and all measures necessary to enhance the production of renewable energy, in particular those identified in the energy audits referred to in paragraph 1.
+
+5\. The Commission may adopt an implementing act for establishing the methods to assess whether the objectives in paragraph 2 have been met. That implementing act shall be adopted in accordance with the examination procedure referred to in Article 28(2).
+
+## Article 12 — Transboundary cooperation
+
+1\. Without prejudice to relevant existing international agreements or arrangements on environmental water issues, where waters within the area of jurisdiction of a Member State are adversely affected by discharges of urban wastewater from another Member State or third-country, the Member State whose waters are affected shall notify the other Member State or the third country and the Commission of the relevant facts.
+
+That notification shall be immediate in the case of pollution that could significantly affect downstream water bodies. In the event of any discharge affecting health or the environment in another Member State, the Member State in whose territory the discharge has occurred shall ensure that the competent authority of the other Member State and the Commission are immediately informed.
+
+2\. Member States shall respond to each other in a timely manner, according to the type, importance and possible consequences of the incident, after the notification by another Member State in accordance with paragraph 1.
+
+The Member States concerned shall cooperate in order to identify the discharges in question and the measures to be taken at source to protect the waters that are affected in order to ensure conformity with this Directive.
+
+3\. The Member States concerned shall inform the Commission of any cooperation referred to in paragraph 1. The Commission shall participate in such cooperation at the request of the Member States concerned.
+
+## Article 13 — Local climatic conditions
+
+Member States shall ensure that the urban wastewater treatment plants built to comply with the requirements set out in Articles 6, 7 and 8 are designed, constructed, operated and maintained to ensure sufficient performance under all normal local climatic conditions. Without prejudice to measures taken under Article 13(1) of Directive (EU) 2022/2557, seasonal variations of the load and the vulnerability to climate change shall be assessed and taken into account when designing, constructing and operating the urban wastewater treatment plants and collecting systems.
+
+## Article 14 — Discharges of non-domestic wastewater
+
+1\. Member States shall ensure that the discharges of non-domestic wastewater into collecting systems and urban wastewater treatment plants are subject to prior regulations or specific authorisations, or both, by the competent authority or appropriate body.
+
+In the case of specific authorisations for discharges into collecting systems and urban wastewater treatment plants, Member States shall ensure that the competent authority:
+
+(a) consults and informs the operators of collecting systems and urban wastewater treatment plants into which the non-domestic wastewater is discharged before granting those specific authorisations;
+
+(b) on request, allows the operators of collecting systems and urban wastewater treatment plants receiving non-domestic wastewater discharges to consult those specific authorisations in their catchment areas, preferably prior to their being granted.
+
+In the case of prior regulations for discharges into collecting systems and urban wastewater treatment plants, Member States shall ensure that the operators of collecting systems and urban wastewater treatment plants into which the non-domestic wastewater is discharged are consulted before those prior regulations are adopted.
+
+2\. Prior regulations and specific authorisations as referred to in paragraph 1 shall ensure that:
+
+(a) the water quality requirements set out in other Union law, including Directives 2000/60/EC and 2008/105/EC, are fulfilled, and that, where applicable, the quality and quantity of relevant discharges of non-domestic wastewater are monitored; in particular, that the pollutant load in the discharges from the urban wastewater treatment plant does not lead to a deterioration in the status of the receiving water body and does not prevent that water body from achieving such status, in accordance with the objectives set out in Article 4 of Directive 2000/60/EC;
+
+(b) the released polluting substances do not impede the operation of the urban wastewater treatment plant, do not damage collecting systems, urban wastewater treatment plants or associated equipment, and do not limit any capacity to recover resources, including the reuse of treated water and the recovery of nutrients or other material from urban wastewater or sludge;
+
+(c) the released polluting substances do not harm the health of the staff working in collecting systems and urban wastewater treatment plants;
+
+(d) the urban wastewater treatment plant is designed and equipped to abate the released polluting substances;
+
+(e) where an urban wastewater treatment plant treats discharges from an installation holding a permit referred to in Article 4 of Directive 2010/75/EU of the European Parliament and of the Council ( 9 ), the pollutant load from the discharges of that plant does not exceed the pollutant load that would be discharged if the discharges were released directly from the installation and were compliant with the emission limit values applicable in accordance with this Directive.
+
+Member States shall ensure that, for the discharge of non-domestic wastewater into collecting systems and urban wastewater treatment plants that discharge into catchment areas for abstraction points of water intended for human consumption, no specific authorisation is granted or no prior regulation allows such a discharge of non-domestic wastewater without taking into account the risk assessment and risk management of the catchment areas for abstraction points of water intended for human consumption as referred to in Article 8 of Directive (EU) 2020/2184 and the risk management measures taken pursuant to that Article.
+
+3\. Member States shall ensure that competent authorities or appropriate bodies take the appropriate measures, including a review of and, where necessary, the revocation of prior regulations and specific authorisations as referred to in paragraph 1, to identify, prevent and reduce as far as possible the sources of pollution in non-domestic wastewater referred to in paragraph 1 of this Article where any of the following situations arise:
+
+(a) pollutants have been identified at the inlets and outlets of the urban wastewater treatment plant under the monitoring of Article 21(3);
+
+(b) sludge arising from urban wastewater treatment is to be used in accordance with Council Directive 86/278/EEC ( 10 );
+
+(c) treated urban wastewater is to be reused in accordance with Regulation (EU) 2020/741 or to be reused for purposes other than agricultural purposes;
+
+(d) the receiving waters are used for abstraction of water intended for human consumption as defined in Article 2, point (1), of Directive (EU) 2020/2184;
+
+(e) the pollution of the non-domestic wastewater discharged into the collecting system, or the urban wastewater treatment plant poses a risk to the operation of that system or plant.
+
+4\. Prior regulations and specific authorisations as referred to in paragraph 1 shall fulfil the requirements set out in paragraph 2. The Commission is empowered to adopt delegated acts in accordance with the procedure referred to in Article 27 to amend requirements referred to in paragraph 2 in order to adapt it to technical and scientific progress in the field of environmental protection.
+
+5\. The specific authorisations referred to in paragraph 1 shall be reviewed and, where necessary, adapted at least every ten years.
+
+Prior regulations as referred to in paragraph 1 shall be reviewed at regular intervals and, where necessary, adapted.
+
+If the characteristics of the non-domestic wastewater, the urban wastewater treatment plant or the receiving water body change significantly, the specific authorisations shall be reviewed and adapted to those changes.
+
+## Article 15 — Water reuse and discharges of urban wastewater
+
+1\. Member States shall systematically promote the reuse of treated wastewater from all urban wastewater treatment plants where appropriate, especially in water-stressed areas, and for all appropriate purposes. The potential for the reuse of treated wastewater shall be assessed in a manner that takes into account the river basin management plans established under Directive 2000/60/EC (‘river basin management plans’) and Member States’ decisions under Article 2(2) of Regulation (EU) 2020/741. Member States shall ensure that, when treated urban wastewater is reused or if the reuse is planned, it does not endanger the ecological flow of the receiving waters and there is no adverse effect for the environment or human health. Where treated wastewater is reused for agricultural irrigation, it shall comply with the requirements of Regulation (EU) 2020/741. Where strategies on water resilience at Member State level are available, measures on promoting the reuse of treated wastewater and on the reuse itself shall be considered in those strategies.
+
+Where treated urban wastewater is reused for agricultural irrigation, Member States may derogate from the requirements for tertiary treatment in Part B and Table 2 of Annex I, for the fraction of treated urban wastewater that is exclusively destined for reuse in agricultural irrigation, where all of the following can be demonstrated:
+
+(a) the nutrient content in the fraction reused does not exceed the nutrient demand of the targeted crops;
+
+(b) there are no risks for the environment, particularly in relation to eutrophication of the waters in the same catchment area;
+
+(c) there are no risks to human health particularly in relation to pathogenic organisms;
+
+(d) the urban wastewater treatment plant has enough capacity to treat or store urban wastewater, in order to avoid discharges into receiving waters of urban wastewater which do not meet the requirements set out in Part B and Table 2 of Annex I in accordance with the methods for monitoring and evaluation of results laid down in Part C of Annex I.
+
+2\. Member States shall ensure that at least all discharges from urban wastewater treatment plants of 1 000 p.e. and above are subject to prior regulations or specific authorisations, or both. Such regulations and specific authorisations shall ensure that the requirements set out in Part B of Annex I are fulfilled.
+
+3\. Prior regulations and specific authorisations as referred to in paragraph 2 shall be reviewed at least every ten years and, if necessary, adapted. The provisions of the specific authorisations shall be updated in the cases where the characteristics of incoming urban wastewater or the discharges from the urban wastewater treatment plant or of the receiving water body change significantly, to ensure that the requirements set out in Part B of Annex I remain fulfilled.
+
+4\. Member States shall take all measures necessary to adapt their urban wastewater collection and treatment infrastructure to address increased loads of domestic wastewater, including the construction of new infrastructure where necessary.
+
+When taking measures as referred to in the first subparagraph, Member States shall be considered to comply with the environmental objectives set out in Article 4 of Directive 2000/60/EC if all the following conditions are met:
+
+(a) the construction or expansion of an urban wastewater treatment plant to treat increased loads or otherwise untreated loads of domestic wastewater is subject to prior authorisation in accordance with this Directive;
+
+(b) the benefits of the urban wastewater treatment plant in point (a) cannot for reasons of technical feasibility or disproportionate cost be achieved by other means, including the consideration of alternative points of discharge of urban wastewater plants, that would contribute to achieving the environmental objectives set out in Article 4 of Directive 2000/60/EC;
+
+(c) all technically feasible mitigating measures are taken to minimise the negative impacts of the urban wastewater treatment plant on the water bodies affected and are set out in the specific authorisations referred to in Article 14 of this Directive and this Article; those measures shall include, where required, treatment requirements more stringent than those applied prior to the increase in the domestic wastewater load, in order to meet the requirements of the Directives referred to in Part B, point 6, of Annex I to this Directive;
+
+(d) all technically feasible mitigating measures are implemented to minimise the negative impact of other activities causing similar pressures in the same water bodies.
+
+If failure to prevent deterioration or failure to achieve the environmental objectives set out in Article 4 of Directive 2000/60/EC in a body of surface water is the result of a prior authorisation in point (a), that authorisation shall be specifically set out and the conditions referred to in the second subparagraph explained in the river basin management plans.
+
+## Article 16 — Biodegradable non-domestic wastewater
+
+1\. Member States shall establish requirements for the discharge of biodegradable non-domestic wastewater that are appropriate to the nature of the industry concerned and that ensure at least the same level of environmental protection as the requirements set out in part B of Annex I.
+
+2\. The requirements referred to in paragraph 1 shall apply when the following conditions are fulfilled:
+
+(a) the wastewater originates from plants treating a load of 4 000 p.e. and above that belong to the industrial sectors listed in Annex IV and that do not carry out any of the activities listed in Annex I to Directive 2010/75/EU; and
+
+(b) the wastewater does not enter an urban wastewater treatment plant before it is discharged into receiving waters (‘direct discharge’).
+
+## Article 17 — Urban wastewater surveillance
+
+1\. Member States shall set up a national system for cooperation and coordination between competent authorities responsible for public health and competent authorities responsible for urban wastewater treatment with regard to:
+
+(a) the identification of relevant public health parameters that are to be monitored at least in the inlet of urban wastewater treatment plants, taking into account available recommendations by, inter alia, the European Centre for Disease Prevention and Control (ECDC), the Health Emergency Preparedness and Response Authority (HERA) and the World Health Organization (WHO), such as:
+
+(i) SARS-CoV-2 virus and its variants;
+
+(ii) poliovirus;
+
+(iii) influenza virus;
+
+(iv) emerging pathogens;
+
+(v) any other public health parameters that are considered relevant by the competent authorities for monitoring;
+
+(b) the clear allocation of roles, responsibilities and costs among operators and relevant competent authorities, including where related to sampling and analysis;
+
+(c) the determination of the location and the frequency of urban wastewater sampling and analysis for each public health parameter identified in accordance with point (a), having regard to the available health data and the needs in terms of public health data and, where relevant, the local epidemiological situations;
+
+(d) the organisation of appropriate and timely communication of the monitoring results to the competent authorities responsible for public health and, where relevant, competent authorities for drinking water in order to facilitate the implementation of Article 8 of Directive (EU) 2020/2184 and to Union platforms, where such platforms are available, and in accordance with applicable law on protection of personal data.
+
+2\. Where a public health emergency is declared by the competent authority responsible for public health in a Member State, relevant public health parameters shall be monitored in urban wastewater from a representative distribution of the national population, to the extent that the relevant health parameters are found in urban wastewater. That monitoring shall continue until the competent authority declares that the public health emergency has ended, or for a longer period if deemed useful for other purposes by that competent authority.
+
+To determine whether there is a public health emergency, the competent authority shall consider Commission decisions adopted pursuant to Article 23(1) of Regulation (EU) 2022/2371, assessments of the ECDC, and decisions of the WHO taken in accordance with the International Health Regulations.
+
+3\. For agglomerations of 100 000 p.e. and above, Member States shall, by the last day of the second year from the date of adoption of the implementing act in the second subparagraph, ensure that antimicrobial resistance is monitored in urban wastewater.
+
+By 2 July 2026, the Commission shall adopt implementing acts in order to establish a minimum frequency of sampling and a harmonised methodology for measuring antimicrobial resistance in urban wastewater, taking into account at least all available data from national public health authorities and national authorities responsible for monitoring antimicrobial resistance. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 28(2).
+
+4\. Results from the monitoring referred to in this Article shall be reported in accordance with Article 22(1), point (h).
+
+## Article 18 — Risk assessment and management
+
+1\. By 31 December 2027, Member States shall identify and assess the risks caused by urban wastewater discharges to the environment and human health, taking into account seasonal fluctuations and extreme events, and at least the risks related to the following:
+
+(a) the quality of a water body used for the abstraction of water intended for human consumption as defined in Article 2, point (1), of Directive (EU) 2020/2184;
+
+(b) the quality of bathing water falling within the scope of Directive 2006/7/EC;
+
+(c) the quality of a water body where aquaculture activities as defined in Article 4, point (25), of Regulation (EU) No 1380/2013 take place;
+
+(d) the status of the receiving groundwater body as defined in Article 2, point 19, of Directive 2000/60/EC as well as all other environmental objectives as stated in Article 4 of that Directive for the receiving groundwater body;
+
+(e) the status of the marine environment as defined in Article 3, point 5, of Directive 2008/56/EC;
+
+(f) the status of the receiving surface water body as defined in Article 2, point 17, of Directive 2000/60/EC as well as all other environmental objectives as stated in Article 4 of that Directive for the receiving surface water body.
+
+2\. Where risks have been identified in accordance with paragraph 1, Member States shall adopt appropriate measures to address them, including, where appropriate, the following measures:
+
+(a) taking additional measures to prevent and reduce pollution from urban wastewater at source, where required to safeguard the quality of the receiving water body, to complement the measures referred to in Article 14(3);
+
+(b) establishing collecting systems in accordance with Article 3 for agglomerations of below 1 000 p.e.;
+
+(c) applying secondary treatment in accordance with Article 6 to discharges of urban wastewater from agglomerations of below 1 000 p.e.;
+
+(d) applying tertiary treatment in accordance with Article 7 to discharges of urban wastewater from agglomerations of below 10 000 p.e.;
+
+(e) applying quaternary treatment in accordance with Article 8 to discharges of urban wastewater from agglomerations of below 10 000 p.e., in particular where urban wastewater is discharged into water bodies used for abstraction of water intended for human consumption, bathing water, water bodies where aquaculture activities take place, and where treated urban wastewater is reused for agricultural purposes;
+
+(f) establishing integrated urban wastewater management plans in accordance with Article 5 for agglomerations of below 10 000 p.e. and adoption of measures referred to in Annex V;
+
+(g) applying requirements for the treatment of collected urban wastewater that are more stringent than the requirements set out in Part B of Annex I.
+
+3\. The identification of the risks carried out in accordance with paragraph 1 of this Article shall be reviewed every six years in line with the timing of the review of the river basin management plans and starting on 31 December 2033. A summary of the identified risks accompanied with a description of the measures adopted in accordance with paragraph 2 of this Article shall be included in the appropriate river basin management plans and in the national implementation programmes referred to in Article 23 and communicated to the Commission on request. That summary shall be made available to the public.
+
+## Article 19 — Access to sanitation
+
+Without prejudice to the principles of subsidiarity and proportionality, and taking into account local and regional perspectives and circumstances for sanitation, Member States shall take all measures necessary to ensure access to sanitation for all, in particular for vulnerable and marginalised groups.
+
+For that purpose, Member States shall by 12 January 2029:
+
+(a) identify people without access, or with limited access, to sanitation facilities, paying special attention to vulnerable and marginalised groups, and provide reasons for such lack of access;
+
+(b) assess the options for improving access to sanitation facilities for such people;
+
+(c) for all agglomerations of 10 000 p.e. and above, encourage the establishment of a sufficient number of sanitation facilities in public spaces which are freely and, in particular for women, safely accessible and ensure the provision of appropriate information about those facilities to the public;
+
+(d) for all agglomerations of 5 000 p.e. and above, encourage competent authorities to make available a sufficient number of free sanitation facilities in public buildings, in particular in administrative buildings;
+
+(e) encourage the making available of sanitation facilities for all, for free or for a low service fee, in restaurants, shops and similar private spaces accessible to the public.
+
+## Article 20 — Sludge and resource recovery
+
+1\. Member States shall encourage the recovery of valuable resources and take the measures necessary to ensure that sludge management conforms to the waste hierarchy provided for in Article 4 of Directive 2008/98/EC. Such sludge management shall:
+
+(a) maximise prevention;
+
+(b) prepare for reuse, recycling and other recovery of resources, in particular phosphorus and nitrogen, taking into account national or local valorisation options; and
+
+(c) minimise the adverse effects on the environment and human health.
+
+2\. The Commission is empowered to adopt delegated acts in accordance with the procedure referred to in Article 27 to supplement this Directive by specifying a combined minimum reuse and recycling rate for phosphorus from sludge and from urban wastewater not reused under the derogation of Article 15(1), taking into account available technologies, resources and the economic viability of phosphorus recovery as well as the phosphorus content of the sludge and the level of saturation of the national market with organic phosphorus from other sources while ensuring that there is safe sludge management and no adverse impact on the environment or human health. The Commission shall adopt those delegated acts by 2 January 2028.
+
+## Article 21 — Monitoring
+
+1\. Member States shall ensure that competent authorities or appropriate bodies monitor:
+
+(a) discharges from urban wastewater treatment plants in order to verify compliance with the requirements of Part B of Annex I in accordance with the methods for monitoring and evaluation of results laid down in Part C of Annex I; that monitoring shall include loads and concentrations of the parameters listed in Part B of Annex I;
+
+(b) the amounts, composition and destination of sludge, taking into account the requirements of Directive 86/278/EEC for sludge intended to be used in agriculture;
+
+(c) the quantities per year and per month of urban wastewater reused for agricultural irrigation that is subject to a derogation referred to in Article 15(1); the nutrient content of the fraction of reused urban wastewater for agricultural irrigation and the period during which that fraction is reused compared to the monthly water and nutrient demand of the crops targeted by that reused urban wastewater;
+
+(d) the GHGs, including at least CO2, N2O, CH4, emitted from urban wastewater treatment plants of 10 000 p.e. and above by means of analysis, calculations or modelling where appropriate;
+
+(e) the energy used and produced by the owners of urban wastewater treatment plants treating a load of 10 000 p.e. and above, or by the operators of such plants, regardless of whether it is used or generated on-site or off-site, in line with the requirements referred to in Article 11(2), as well as the energy purchased under the derogations referred to in Article 11(3) and (4).
+
+2\. For all agglomerations referred to in Article 5(1) and (3), Member States shall ensure that competent authorities, appropriate bodies or operators of the collecting system carry out representative monitoring, at relevant points, of storm water overflows into water bodies and of discharges of urban runoff from separate systems, in order to estimate the concentration and loads of the parameters listed in Table 1 of Annex I, and, where relevant, in Table 2, as well as the content of microplastics and relevant pollutants. Member States may use the results of that monitoring for the purposes of modelling where appropriate.
+
+3\. For all agglomerations of 10 000 p.e. and above, Member States shall ensure that competent authorities or appropriate bodies monitor, at the inlets and outlets of urban wastewater treatment plants, the concentration and loads in the urban wastewater of the following elements:
+
+(a) pollutants that are likely to be found in urban wastewater listed in:
+
+(i) Annexes VIII and X to Directive 2000/60/EC, Annex I to Directive 2008/105/EC, Annex I to Directive 2006/118/EC and Part B of Annex II to Directive 2006/118/EC;
+
+(ii) the Annex to Decision 2455/2001/EC of the European Parliament and of the Council ( 11 );
+
+(iii) Annex II to Regulation (EC) No 166/2006;
+
+(iv) Annexes I and II to Directive 86/278/EEC;
+
+(b) parameters listed in Part B of Annex III to Directive (EU) 2020/2184, where urban wastewater is discharged into a catchment area referred to in Article 8 of that Directive, under which, for per- and polyfluoroalkyl substances (PFAS), Member States can choose to use one or both of the parameters ‘PFAS Total’ and ‘Sum of PFAS’ when a methodology is available in accordance with the implementing act referred to in paragraph 5;
+
+(c) parameters listed in Annex I to Directive 2006/7/EC where there are direct discharges from urban wastewater treatment plants into bathing water during the bathing season which might prevent compliance with Directive 2006/7/EC;
+
+(d) the presence of microplastics.
+
+The pollutants and parameters referred to in points (a) and (b) may be excluded from the monitoring referred to in this paragraph as long as it can be demonstrated, inter alia on the basis of monitoring results, that they are absent in urban wastewater.
+
+For all agglomerations of above 10 000 p.e., Member States shall ensure that competent authorities or appropriate bodies monitor the presence of microplastics in the sludge when relevant and, in particular, when it is reused in agriculture.
+
+The monitoring referred to in this paragraph shall be carried out at the following frequencies:
+
+(a) at least two samples per year, with a maximum of 6 months between the samples, for agglomerations of 150 000 p.e. and above;
+
+(b) at least one sample every two years for agglomerations of between 10 000 p.e. and 150 000 p.e.
+
+Those monitoring frequencies may be halved in subsequent years if the monitoring results for the pollutants referred to in this paragraph are below applicable environmental quality standards under Directive 2008/105/EC in three successive samples. The monitoring frequencies should be reviewed at least every year.
+
+4\. The Commission is empowered to adopt implementing acts in order to establish methodologies for measuring, estimating and modelling direct and indirect GHG emissions from urban wastewater treatment plants, and microplastics in urban wastewater and sludge. Those implementing acts shall be adopted by 2 July 2027 in accordance with the examination procedure referred to in Article 28(2).
+
+5\. The Commission shall adopt implementing acts in order to establish a methodology for measuring ‘PFAS Total’ and ‘Sum of PFAS’ in urban wastewater. Those implementing acts shall be adopted by 2 January 2027 in accordance with the examination procedure referred to in Article 28(2).
+
+6\. On the basis of the report of the Member States, the Commission may adopt implementing acts in order to specify a minimum list of relevant pollutants likely to be found in urban wastewater and to develop a methodology for identifying relevant pollutants likely to be found in urban wastewater, taking into account the local conditions and the risk assessment carried out under relevant Union law as well as criteria and frequency for revising the exclusion of some pollutants as set out in paragraph 3, second subparagraph, of this Article. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 28(2).
+
+## Article 22 — Information on monitoring of implementation
+
+1\. Member States, assisted by the European Environment Agency (EEA), shall:
+
+(a) by 31 December 2028, set up a data set containing information collected in accordance with Article 21, including information concerning the parameters referred to in Article 21(1), point (a), and the results of the tests with regard to the pass/fail criteria established in Part C of Annex I and update that data set annually thereafter;
+
+(b) by 31 December 2028, set up a data set indicating the percentage of urban wastewater which is collected and treated in accordance with Article 3 and update that data set annually thereafter;
+
+(c) by 31 December 2028, set up a data set containing information on the implementation of Article 4(5) and on the percentage of the urban wastewater load from agglomerations above 2 000 p.e. which is treated in individual systems and update that data set annually thereafter;
+
+(d) by 31 December 2028, set up a data set containing information on the number of samples collected and the number of samples taken in accordance with Part C of Annex I that have failed and update that data set annually thereafter;
+
+(e) by 12 January 2029, set up a data set containing information on measures taken to improve access to sanitation in accordance with Article 19, points (a), (b) and (c), including information on the share of their population that has access to sanitation in agglomerations of 10 000 p.e. and above and update that data set every 6 years thereafter;
+
+(f) by 31 December 2030, set up a data set containing information on GHG emissions with a breakdown between different gases and on the total energy used and renewable energy produced by each urban wastewater treatment plant of 10 000 p.e. and above as well as a calculation of the percentage of achievement of the targets set out in Article 11(2), the percentage of energy purchased from non-fossil fuel sources and, when available accompanied by a breakdown of the different types of non-fossil fuel energy source used, where the derogation referred to in Article 11(3) is used, and update that data set annually thereafter;
+
+(g) by 31 December 2030, set up a data set containing information on measures taken in accordance with point 3 of Annex V and update that data set annually thereafter;
+
+(h) by 31 December 2030, set up a data set containing the monitoring results referred to in Article 17(1) and (3) and update that data set annually thereafter;
+
+(i) by 31 December 2030, set up a data set containing the list of areas identified as sensitive to eutrophication and update that data set in accordance with Article 7(2);
+
+(j) by 31 December 2030, set up a data set containing the list of areas identified as areas where the concentration or the accumulation of micropollutants represents a risk for the environment or human health and update that data set in accordance with Article 8(2);
+
+(k) where they use biomedia, set up, by 31 December 2030, a data set containing the type of biomedia used and a short description of the measures taken by urban wastewater treatment plants using biomedia to avoid spills into the environment, and update that data set every five years thereafter;
+
+(l) by 31 December 2030, set up a data set containing the monitoring results referred to in Article 21(1), point (c), with a comparison of the monthly water and nutrient demand of the crops targeted by the reused fraction of treated urban wastewater referred to in Article 15(1), and update that data set annually thereafter.
+
+2\. Member States shall ensure that the Commission and the EEA have access to the data sets referred to in paragraph 1.
+
+3\. The information reported by Member States in accordance with Article 5 of Regulation (EC) No 166/2006 shall be taken into account for the reporting required under this Article for those pollutants related to urban wastewater.
+
+With regard to the information referred to in paragraph 1 of this Article, the EEA shall provide the public with access to relevant data through the European Pollutant Release and Transfer Register established under Regulation (EC) No 166/2006.
+
+4\. The Commission is empowered to adopt implementing acts specifying the format of the information to be provided in accordance with paragraph 1. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 28(2) by 31 December 2028 for information referred to in paragraph 1, points (e), (f), (g), (h), (j), (k) and (l).
+
+The Commission may adopt implementing acts in order to specify the format of the information to be provided in accordance with paragraph 1, points (a), (b), (c), (d) and (i). Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 28(2).
+
+## Article 23 — National implementation programme
+
+1\. By 1 January 2028, Member States shall establish a national implementation programme for this Directive.
+
+Those programmes shall include:
+
+(a) an assessment of the level of implementation of Articles 3 to 8;
+
+(b) the identification and planning of investments required to implement this Directive for each agglomeration, including an indicative financial estimation and when available an estimation of the financial contribution from the producer responsibility organisations established in accordance with Article 10, and a prioritisation of those investments related to the size of the agglomeration and the level of environmental impact of discharges of untreated urban wastewater and related risks for the environment or human health;
+
+(c) an estimate of investments needed to renew, upgrade or replace existing urban wastewater infrastructure, including collecting systems, based on depreciation rates, and technical and operational conditions, with the aim of preventing possible leakage, infiltration and misconnected inflow into the collecting systems, and using, where appropriate, digital instruments;
+
+(d) the identification, or at least an indication, of potential sources of public financing, when needed to complement user charges;
+
+(e) any information required under Articles 6(3) and 7(4) where applicable.
+
+Member States may continue using the available Union funding for the implementation of this Directive, in order to ensure that all citizens benefit equally from efficient collection and treatment of urban wastewater. Member States may equally exchange best practices on how to improve absorption of Union funds.
+
+Where a Member State establishes, during the implementation of its national implementation programme, that due to the necessity to preserve cultural heritage it is not possible to respect the deadline referred to in Article 3(2) or the deadline referred to in Article 6(3)or both in specific areas, that Member State shall update its national implementation programme. That update shall contain a list of the agglomerations with the areas concerned, a detailed justification demonstrating that the construction of the required infrastructure is particularly difficult due to the necessity to preserve cultural heritage, and an adjusted timeline to finalise the required infrastructure in those areas. Extensions of the deadlines referred to in Article 3(2) and Article 6(3) shall be area-specific and kept as short as possible, and shall not exceed 8 years. The updated national implementation programme shall be submitted to the Commission by 31 December of the year of that update.
+
+2\. By 1 January 2028, Member States shall submit to the Commission their national implementation programmes, except where they demonstrate, on the basis of the monitoring results referred to in Article 21, that they are in compliance with Articles 3 to 8.
+
+3\. Member States shall update their national implementation programmes at least every 6 years. They shall submit them to the Commission by 31 December of the year of the update, except where they can demonstrate that they are in compliance with Articles 3 to 8.
+
+4\. The Commission is empowered to adopt implementing acts in order to establish the methods and formats for submission of the national implementation programmes. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 28(2).
+
+## Article 24 — Information for the public
+
+1\. Member States shall ensure that adequate, easily accessible and up-to-date information on urban wastewater collection and treatment is available to the public online, in a user-friendly and customised way, for each agglomeration of above 1 000 p.e. or each relevant administrative area. The information shall include at least the data listed in Annex VI.
+
+The information referred to in paragraph 1 shall also be provided by other means upon justified request.
+
+2\. In addition, where costs are recovered totally or partly through a water tariff system, Member States shall ensure that all households in agglomerations of above 10 000 p.e., and preferably above 1 000 p.e., connected to collecting systems receive regularly and at least once a year, in the most appropriate and easily accessible form, for example on their invoice, where available, or by digital means such as smart applications or websites, without having to request it, the following information:
+
+(a) information on the compliance of the collection and treatment of urban wastewater with Articles 3, 4, 6, 7 and 8, including a comparison between the actual releases of pollutants into receiving waters with the limit values set out in Part B and Tables 1, 2 and 3 of Annex I; that information shall be presented in a manner that allows for easy comparison, for example in the form of a percentage of compliance;
+
+(b) the volume or estimated volume of urban wastewater collected and treated per year or per billing period for the household or the connected entity in cubic meter, together with trends and the price of urban wastewater collection and treatment for that household (cost per litre and cubic meter);
+
+(c) a comparison of the yearly volume of urban wastewater collected and treated for the household per year and an indication of the average volume of a household in the agglomeration concerned;
+
+(d) a link to the online content referred to in paragraph 1.
+
+Where information regarding individual usage is not available, the information referred to in points (a) to (d) shall be provided at agglomeration level in a user-friendly manner via a website or smart application.
+
+3\. The Commission may adopt delegated acts in accordance with Article 27 to amend paragraph 2 of this Article and Annex VI by updating the information to be provided to the public online and to the households connected to collecting systems in order to adapt those requirements to technical progress and the availability of data in the field.
+
+4\. The Commission may adopt implementing acts specifying the format and the methods of presenting the information to be provided in accordance with paragraphs 1 and 2. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 28(2).
+
+## Article 25 — Access to justice
+
+1\. Member States shall ensure that, in accordance with the relevant national legal system, members of the public concerned have access to a review procedure before a court of law, or another independent and impartial body established by law, to challenge the substantive or procedural legality of decisions, acts or omissions subject to Article 6, 7 or 8 where at least one of the following conditions is met:
+
+(a) they have a sufficient interest;
+
+(b) they maintain the impairment of a right, where administrative procedural law of a Member State requires this as a precondition.
+
+The review procedure shall be fair, equitable, timely and not prohibitively expensive, and shall provide for adequate and effective redress mechanisms, including injunctive relief where appropriate.
+
+2\. Standing in the review procedure shall not be conditional on the role that the member of the public concerned played during a participatory phase of the decision-making procedures under this Directive.
+
+3\. Member States shall determine at what stage the decisions, acts or omissions referred to in paragraph 1 may be challenged.
+
+4\. Member States shall ensure that practical information is made available to the public on access to administrative and judicial review procedures referred to in this Article.
+
+## Article 26 — Compensation
+
+1\. Member States shall ensure that, where damage to human health has occurred as a result of a violation of national measures that were adopted pursuant to this Directive, the individuals affected have the right to claim and obtain compensation for that damage from the relevant natural or legal persons, in accordance with national rules.
+
+2\. Member States shall ensure that, as part of the public concerned, non-governmental organisations promoting the protection of the environment or human health and meeting any requirements under national law are allowed to represent the individuals affected. Member States shall ensure that a claim for a violation leading to damage cannot be pursued twice by the individuals affected and by the non-governmental organisations referred to in this paragraph.
+
+3\. Member States shall ensure that national rules and procedures relating to claims for compensation are designed and applied in such a way that they do not render impossible or excessively difficult the exercise of the right to compensation for damage caused by a violation pursuant to paragraph 1.
+
+4\. Member States may establish the limitation periods for bringing actions for compensation referred to in paragraph 1. Such periods shall not begin to run before the violation has ceased and the person claiming the compensation knows or can reasonably be expected to know that he or she suffered damage from a violation pursuant to paragraph 1.
+
+5\. Member States shall ensure that information is made available to the public on their right to claim compensation for damage.
+
+## Article 27 — Exercise of the delegation
+
+1\. The power to adopt delegated acts is conferred on the Commission subject to the conditions laid down in this Article.
+
+2\. The power to adopt delegated acts referred to in Article 7(7), Article 8(4), Article 14(4), Article 20(2), and Article 24(3) shall be conferred on the Commission for a period of five years from 1 January 2025. The Commission shall draw up a report in respect of the delegation of power not later than nine months before the end of the five-year period. The delegation of power shall be tacitly extended for periods of an identical duration unless the European Parliament or the Council opposes such extension not later than three months before the end of each period.
+
+3\. The delegation of power referred to in Article 7(7), Article 8(4), Article 14(4), Article 20(2), and Article 24(3) may be revoked at any time by the European Parliament or by the Council. A decision to revoke shall put an end to the delegation of the power specified in that decision. It shall take effect the day following the publication of the decision in the Official Journal of the European Union or at a later date specified therein. It shall not affect the validity of any delegated acts already in force.
+
+4\. Before adopting a delegated act, the Commission shall consult experts designated by each Member State in accordance with the principles laid down in the Interinstitutional Agreement of 13 April 2016 on Better Law-Making.
+
+5\. As soon as it adopts a delegated act, the Commission shall notify it simultaneously to the European Parliament and to the Council.
+
+6\. A delegated act adopted pursuant to Article 7(7), Article 8(4), Article 14(4), Article 20(2) or Article 24(3) shall enter into force only if no objection has been expressed either by the European Parliament or by the Council within a period of two months of notification of that act to the European Parliament and the Council or if, before the expiry of that period, the European Parliament and the Council have both informed the Commission that they will not object. That period shall be extended by two months at the initiative of the European Parliament or of the Council.
+
+## Article 28 — Committee procedure
+
+1\. The Commission shall be assisted by the committee for the adaptation to scientific and technical progress and implementation of the directive on urban wastewater treatment established by Directive 91/271/EEC. That committee shall be a committee within the meaning of Regulation (EU) No 182/2011.
+
+2\. Where reference is made to this paragraph, Article 5 of Regulation (EU) No 182/2011 shall apply.
+
+## Article 29 — Penalties
+
+1\. Without prejudice to the obligations of Member States under Directive (EU) 2024/1203 of the European Parliament and of the Council ( 12 ), Member States shall lay down the rules on penalties applicable to infringements of national provisions adopted pursuant to this Directive and shall take all measures necessary to ensure that they are implemented. The penalties provided for shall be effective, proportionate and dissuasive.
+
+2\. Member States shall ensure that the penalties established pursuant to this Article give due regard to the following, as applicable:
+
+(a) the nature, gravity, and extent of the infringement;
+
+(b) where appropriate, the intentional or negligent character of the infringement;
+
+(c) the population or the environment affected by the infringement, bearing in mind the impact of the infringement on the objective of achieving a high level of protection of the environment and human health;
+
+(d) the repetitive or singular character of the infringement;
+
+(e) the financial situation of the natural or legal person held responsible.
+
+3\. Member States shall without undue delay notify the Commission of the rules and measures referred to in paragraph 1 and shall notify it of any subsequent amendments affecting them.
+
+## Article 30 — Evaluation
+
+1\. By 31 December 2033 and by 31 December 2040, the Commission shall carry out an evaluation of this Directive based in particular on the following elements:
+
+(a) the experience gained through the implementation of this Directive;
+
+(b) the data sets referred to in Article 22(1);
+
+(c) relevant scientific, analytical and epidemiological data, including results from research projects funded by the Union;
+
+(d) WHO recommendations, where available.
+
+That evaluation shall, as a minimum, contain an analysis of:
+
+(a) the appropriateness of the public health parameters referred to Article 17(1) to be monitored by Member States;
+
+(b) the added value of mandatory monitoring of specific public health parameters;
+
+(c) the possible need to adapt the list of products to be covered by extended producer responsibility to the evolution of the range of products placed on the market, improved knowledge on the presence of micropollutants in urban wastewater, their impacts on the environment and public health, data resulting from the new monitoring obligations on micropollutants in the inlets and outlets of the urban wastewater treatment plants and an analysis of the need to revise the condition for exemption from extended producer responsibility referred to in Article 9(2), point (a);
+
+(d) the added value and the appropriateness of requiring mandatory national water reuse plans, including national targets and measures, taking into account the evolution of Union policies and law related to water management;
+
+(e) the objective of energy neutrality in order to analyse the technical and economic feasibility and environmental and climate benefits of achieving a higher level of energy autonomy for the sector;
+
+(f) the possibilities for measuring direct and indirect GHG emissions emitted by the urban wastewater sector, including emissions of GHGs other than those referred to in Article 21(1), point (d), and for setting requirements for actual measurements in connection with the monitoring, taking into account the most recent methodologies for the measurement of GHG emissions of the urban wastewater sector set out by the Intergovernmental Panel on Climate Change;
+
+(g) the possible impacts on the functioning of the internal market of the potentially different contribution rates for producers set by Member States and that are referred to in Article 9(1);
+
+(h) the feasibility and appropriateness of the development of an extended producer responsibility system for products generating PFAS and microplastics in urban wastewater based in particular on the monitoring data provided for in Article 21 on PFAS and microplastics in the inlets and outlets of the urban wastewater treatment plants;
+
+(i) the possibility of the urban wastewater treatment sector reaching climate neutrality, and the time required to do so;
+
+(j) the feasibility and appropriateness of setting Union minimum reuse and recycling rates for nitrogen from sludge or from urban wastewater, or both.
+
+The Commission shall present a report on the main findings of the evaluation referred to in the first subparagraph to the European Parliament, the Council, the European Economic and Social Committee, and the Committee of the Regions accompanied, where the Commission finds it appropriate, by relevant legislative proposals.
+
+2\. Member States shall provide the Commission with the information necessary for the preparation of the report referred to in paragraph 1, second subparagraph.
+
+## Article 31 — Review
+
+Every five years, the Commission shall present a report to the European Parliament and the Council on the implementation of this Directive. On the basis of that report, the Commission may send early warnings to Member States that are failing or at risk of failing to meet the objectives and deadlines laid down in Articles 3, 5, 6, 7, 8 and 11.
+
+## Article 32 — Repeal and transitional provisions
+
+1\. Directive 91/271/EEC, as amended by the acts listed in Part A of Annex VII to this Directive, is repealed with effect from 1 August 2027 without prejudice to the obligations of the Member States relating to the time limits for the transposition into national law of the Directives set out in Part B of Annex VII to this Directive.
+
+2\. In respect of Mayotte, Article 3(1) and Article 6(1) of this Directive shall apply from 31 December 2030 and Article 3(2) and Article 6(3) of this Directive shall apply from 31 December 2040.
+
+Article 3(1a), first indent, and Article 4(1a), first indent, of Directive 91/271/EEC shall continue to apply until 30 December 2030.
+
+3\. For urban wastewater discharges that are treated by urban wastewater treatment plants treating a load of 150 000 p.e. and above, Article 5 of Directive 91/271/EEC shall continue to apply:
+
+(a) until 31 December 2033 for urban wastewater treatment plants that are not required to comply with the requirements set out in Article 7(1) of this Directive by 1 January 2025;
+
+(b) until 31 December 2036 for urban wastewater treatment plants that are not required to comply with the requirements set out in Article 7(1) of this Directive by 31 December 2033;
+
+(c) until 31 December 2039 for urban wastewater treatment plants that are not required to comply with the requirements set out in Article 7(1) of this Directive by 31 December 2036.
+
+Without prejudice to the first subparagraph, for urban wastewater discharges from agglomerations of 10 000 p.e. and above, Article 5 of Directive 91/271/EEC shall continue to apply:
+
+(a) until 31 December 2033 for agglomerations that are not required to comply with the requirements set out in Article 7(3) of this Directive by 1 January 2025;
+
+(b) until 31 December 2036 for agglomerations that are not required to comply with the requirements set out in Article 7(3) of this Directive by 31 December 2033;
+
+(c) until 31 December 2039 for agglomerations that are not required to comply with the requirements set out in Article 7(3) of this Directive by 31 December 2036;
+
+(d) until 31 December 2045 for agglomerations that are not required to comply with the requirements set out in Article 7(3) of this Directive by 31 December 2039;
+
+(e) until 31 December 2053 for agglomerations to which the derogation referred to in Article 7(4) of this Directive applies.
+
+4\. Article 7 of Directive 91/271/EEC shall continue to apply until 30 December 2037 to agglomerations of between 2 000 p.e. and 10 000 p.e. which discharge into coastal waters and apply appropriate treatment in accordance with Article 7 of that Directive on 1 January 2025.
+
+5\. Article 6 of Directive 91/271/EEC shall continue to apply until 30 December 2037 to agglomerations discharging into less sensitive areas and applying less stringent treatment in accordance with Article 6 of that Directive on 1 January 2025.
+
+6\. Article 15(4) of Directive 91/271/EEC shall apply to Member States until 31 December 2028.
+
+7\. Article 17 of Directive 91/271/EEC and Commission Implementing Decision 2014/431/EU ( 13 ) shall apply to Member States until 1 January 2028.
+
+8\. References to the repealed Directive shall be construed as references to this Directive and shall be read in accordance with the correlation table in Annex VIII.
+
+## Article 33 — Transposition
+
+1\. Member States shall bring into force the laws, regulations and administrative provisions necessary to comply with Articles 2 to 11 and 14 to 26 and Annexes I, III, V and VI by 31 July 2027. They shall immediately communicate the text of those measures to the Commission.
+
+When Member States adopt those measures, they shall contain a reference to this Directive or be accompanied by such a reference on the occasion of their official publication. They shall also include a statement that references in existing laws, regulations and administrative provisions to the Directive repealed by this Directive shall be construed as references to this Directive. Member States shall determine how such reference is to be made and how that statement is to be formulated.
+
+2\. Member States shall communicate to the Commission the text of the main measures of national law which they adopt in the field covered by this Directive.
+
+## Article 34 — Entry into force and application
+
+This Directive shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+
+Articles 12 and 13 and Annexes II and IV shall apply from 1 August 2027.
+
+## Article 35 — Addressees
+
+This Directive is addressed to the Member States.
+
+## ANNEX I — REQUIREMENTS FOR URBAN WASTEWATER
+
+**Part A**
+
+**Collecting systems**
+
+Collecting systems shall take into account urban wastewater treatment requirements.
+
+The design, construction and maintenance of collecting systems shall be undertaken in accordance with the best technical knowledge not entailing excessive costs, in particular regarding:
+
+— volume and characteristics of urban wastewater,
+
+— prevention of leaks of urban wastewater, infiltration and misconnected inflow into the collecting systems,
+
+— limitation of pollution of receiving waters due to storm water overflows, considering the relevant requirements in Article 5 and Annex V.
+
+**Part B**
+
+**Discharge from urban wastewater treatment plants to receiving waters**
+
+1\. Urban wastewater treatment plants shall be designed or modified so that representative samples of the incoming wastewater and of treated effluent can be obtained before discharge to receiving waters.
+
+2\. Discharges from urban wastewater treatment plants and urban wastewater treatment plants serving agglomerations referred to in Articles 6, 7 and 8 shall meet the requirements in Table 1 of this Annex.
+
+3\. Discharges from urban wastewater treatment plants referred to in Article 7(1) or from urban wastewater treatment plants serving agglomerations referred to in Article 7(3) shall, in addition to the requirements referred to in point 2, meet the requirements in Table 2 of this Annex, except in cases where Article 7(8) is applied.
+
+4\. Discharges from urban wastewater treatment plants referred to in Article 8(1) or from urban wastewater treatment plants serving agglomerations referred to in Article 8(4) shall meet the requirements set out in Table 3 of this Annex.
+
+5\. Prior regulations and specific authorisations for discharges from urban wastewater treatment plants using biomedia shall include:
+
+— a description of the technologies incorporating biomedia used in the treatment carried out by the urban wastewater treatment plant, including the type and volume of biomedia used in the plant and a description of the measures taken to avoid releases of biomedia into the environment;
+
+— an obligation to permanently monitor and prevent all biomedia releases into the environment;
+
+— an obligation to report without delay any significant releases of biomedia into receiving waters to competent authorities.
+
+6\. Requirements that are more stringent than those set out in Tables 1, 2 and 3 shall be applied where necessary to ensure that the receiving waters fulfil the requirements laid down in Directives 2000/60/EC, 2008/56/EC, 2008/105/EC and 2006/7/EC.
+
+7\. The points of discharge of urban wastewater shall be chosen, as far as possible, so as to minimise harmful effects on receiving waters.
+
+**Part C**
+
+**Methods for monitoring and evaluation of results**
+
+1\. Member States shall ensure that a monitoring method is applied which fulfils the requirements set out in points 2 to 5. Where relevant, all methods of analysis shall comply with the same minimum performance criteria as those defined in Directive 2009/90/EC and other relevant rules.
+
+Alternative methods to those referred to in points 2, 3 and 4 may be used provided that it can be demonstrated that equivalent results are obtained.
+
+Member States shall provide the Commission with all relevant information concerning the applied monitoring method.
+
+2\. Flow-proportional or time-based 24-hour samples shall be collected at the same well-defined point in the outlet and, if necessary, in the inlet of the urban wastewater treatment plant. However, any time-based samples used to monitor micropollutants shall be 48-hour samples.
+
+Good international laboratory practices aiming at minimising the degradation of samples between collection and analysis shall be applied.
+
+3\. The minimum annual number of samples shall be determined according to the size of the treatment plant and be collected at regular intervals during the year:
+
+| 1 000 to 9 999 p.e.: | One sample per month (see Note 1) |
+| --- | --- |
+| 10 000 to 49 999 p.e.: | Two samples per month For micropollutants, one sample per month |
+| 50 000 to 149 999 p.e.: | One sample per week. For micropollutants, two samples per month |
+| 150 000 p.e. or above: | Two samples per week For micropollutants, two samples per month |
+
+Note 1: For agglomerations concerned by seasonal activity, intervals of a maximum of two months without sampling are accepted provided that additional samples are taken during the months of seasonal activity. A total of 12 samples shall be taken throughout the year.
+
+4\. The treated urban wastewater shall be assumed to conform to the relevant parameters if, for each relevant parameter considered individually, samples of the water show that it complies with the relevant parametric value in the following way:
+
+(a) for the parameters specified in Tables 1 and 3, a maximum number of samples which are allowed to fail the requirements, expressed in concentrations or percentage reductions, or both, is specified in Table 4;
+
+(b) for the parameters specified in Table 1 expressed in concentrations, the failing samples taken under normal operating conditions must not deviate from the parametric values by more than 100 %, except for the parameter total suspended solids, for which deviations from the parametric values of up to 150 % may be accepted;
+
+(c) for the parameters specified in Table 2, the annual mean of the samples for each parameter conforms to the relevant parametric values set out in that table; the values for concentration or for the minimum percentage of reduction apply;
+
+(d) for the parameters specified in Table 3, the frequency of sampling referred to in Part C, point 3, means that one sample is taken in the inlet and one sample is taken in the outlet of the urban wastewater treatment plant in order to verify compliance with the minimum percentage of removal of Table 3; the average percentage of removal of all substances used in the calculation is used in order to assess whether the required 80 % minimum percentage of removal has been reached.
+
+5\. The samples shall be taken so that they reflect the pollution during dry weather flow. Extreme values for the water quality in question shall not be taken into consideration when they are the result of unusual situations due to heavy rain.
+
+6\. Analyses concerning discharges from lagooning shall be carried out on filtered samples; however, the concentration of total suspended solids in unfiltered water samples of such discharges shall not exceed 150 mg/l.
+
+**Table 1: Requirements for discharges from urban waste water treatment plants subject to Article 6 of this Directive. The values for concentration or for the percentage of reduction shall apply.**
+
+| Parameters | Concentration | Minimum percentage of reduction (see Note 4) | Reference method of measurement |
+| --- | --- | --- | --- |
+| Biochemical oxygen demand (BOD5 at 20 oC) without nitrification (see Note 1) | 25 mg/l O2 | 70-90 40 under Article 6(4) | Homogenised, unfiltered, undecanted sample. Determination of dissolved oxygen before and after five-day incubation at 20 oC ± 1 oC, in complete darkness. Addition of a nitrification inhibitor |
+| Chemical oxygen demand (COD) (see Note 2) | 125 mg/l O2 | 75 | Homogenised, unfiltered, undecanted sample Potassium dichromate |
+| Total Organic Carbon (see Note 2) | 37 mg/l | 75 | EN 1484 |
+| Total suspended solids | 35 mg/l (see Note 3) | 90 (see Note 3) | — Filtering of a representative sample through a 0,45 μm filter membrane. Drying at 105 oC and weighing — Centrifuging of a representative sample (for at least five mins with mean acceleration of 2 800 to 3 200 g), drying at 105 oC and weighing |
+
+Note 1: The parameter can be replaced by another parameter: total organic carbon (TOC) or total oxygen demand (TOD) if a relationship can be established between BOD5 and the substitute parameter.
+
+Note 2: Member States shall measure either the Chemical oxygen demand (COD) or the Total Organic Carbon.
+
+Note 3: This requirement is optional.
+
+Note 4: Reduction in relation to the load of the influent.
+
+**Table 2: Requirements for tertiary treatment of discharges from urban wastewater treatment plants referred to in Article 7(1) or from urban waste water treatment plants serving agglomerations referred to in Article 7(3). For discharges from urban wastewater treatment plants referred to in Article 7(1), both parameters shall apply. For agglomerations referred to in Article 7(3), one or both parameters may be applied depending on the local situation. The values for concentration or for the percentage of reduction shall apply.**
+
+| Parameters | Concentration | Minimum percentage of reduction (see Notes 1 and 2) | Reference method of measurement |
+| --- | --- | --- | --- |
+| Total phosphorus (see Note 4) | 0,7 mg/l (10 000 p.e. and above but below 150 000 p.e.) 0,5 mg/l (150 000 p.e. and above) | 87,5 (10 000 p.e. and above but below 150 000 p.e.) 90 (150 000 p.e. and above) | Molecular absorption spectrophotometry |
+| Total nitrogen (see Note 4) | 10 mg/l (10 000 p.e. and above but below 150 000 p.e.) 8 mg/l (150 000 p.e. and above) (see Note 5) | 80 (see Note 3) | Molecular absorption spectrophotometry |
+
+Note 1: Reduction in relation to the load of the influent or to the load generated in an agglomeration if the same level of environmental protection can be ensured.
+
+Note 2: If a fraction of treated urban wastewater is used for agricultural irrigation, nutrients in that fraction may be included in the calculation of the influent load and be excluded from the discharged load.
+
+Note 3: In exceptional situations due to specific local circumstances, natural nitrogen retention may be taken into account in the calculation of the minimum percentage reduction in Member States where natural nitrogen retention was taken into account in the calculation of the minimum percentage reduction of nitrogen referred to under Table 2 of Annex I to Directive 91/271/EEC and where it is demonstrated that part of the nitrogen originated from urban wastewater can be eliminated in the receiving waters until 31 December 2045 for the calculation of the minimum percentage reduction of nitrogen referred to in Table 2 of this Annex if all the following conditions are fulfilled:
+
+(1) the average hydraulic retention time of the discharged effluent is at least 1,5 years before it reaches the area sensitive to nitrogen designated under Article 7(2);
+
+(2) a continuous monitoring and assessment programme of the total nitrogen parameter is ensured:
+
+(a) in the outlets of all urban wastewater treatment plants and where relevant in the urban runoff from agglomerations of 10 000 p.e. and above located in the catchment area of the area sensitive to nitrogen designated under Article 7(2);
+
+(b) in the relevant inlets of the area designated under Article 7(2);
+
+(c) at the representative sampling locations in the receiving waters and relevant water bodies in the catchment area of the area designated under Article 7(2);
+
+(3) the minimum percentage reduction for nitrogen of Table 2 is met; that percentage shall be calculated on the basis of the data collected from continuous monitoring and assessment programme referred to in point (2);
+
+(4) it can be demonstrated that nitrogen releases from urban wastewater treatment plants in the catchment area are not harmful for the environment, including for biodiversity, and human health and do not modify the ecosystem;
+
+(5) the concentration of nutrients in the areas referred to in point (c) of condition (2) are compliant with the condition set under Annex V.1.2.1 to Directive 2000/60/EC to define good ecological status of those areas;
+
+(6) the use of natural nitrogen retention is reported to the Commission in accordance with Article 22(1)(a), as well as to potentially affected neighbouring Member States, together with all the elements necessary to verify that conditions (1), (2), (3), (4) and (5) are fulfilled.
+
+Note 4: This requirement shall apply on 1 January 2025 to existing urban wastewater treatment plants obliged to meet the deadlines established under Article 7(1) and to agglomerations under Article 7(3). Until those deadlines are met, the obligations of Article 32(3) shall apply to those urban wastewater treatment plants.
+
+Note 5: Where the temperature in the effluent of the biological reactor is below 12 oC, the results of the samples taken may be excluded from the calculation of the annual mean for nitrogen as referred to in point (4)(c) of Part C of this Annex where all the following can be demonstrated:
+
+(1) no adverse effect on the environment is ensured;
+
+(2) excessive costs or excessive energy consumption would be required to reach the values for nitrogen in Table 2.
+
+Where the temperature in the effluent of the biological reactor is below 5 oC the results of the samples taken may be excluded from the calculation of the annual mean for nitrogen as referred to in point (4)(c) of Part C of this Annex.
+
+**Table 3: Requirements for quaternary treatment of discharges from urban wastewater treatment plants referred to in Article 8(1) and or from urban wastewater treatment plants serving agglomerations referred to in Article 8(4).**
+
+| Indicators | Minimum percentage of removal in relation to the load of the influent |
+| --- | --- |
+| Substances that can pollute water even at low concentrations (see Note 1) | 80 % (see Note 2) |
+
+Note 1: The concentration of the organic substances referred to in points (a) and (b) shall be measured.
+
+(a) Category 1 (substances that can be very easily treated):
+
+(i) Amisulprid (CAS No 71675-85-9),
+
+(ii) Carbamazepine (CAS No 298-46-4),
+
+(iii) Citalopram (CAS No 59729-33-8),
+
+(iv) Clarithromycin (CAS No 81103-11-9),
+
+(v) Diclofenac (CAS No 15307-86-5),
+
+(vi) Hydrochlorothiazide (CAS No 58-93-5),
+
+(vii) Metoprolol (CAS No 37350-58-6),
+
+(viii) Venlafaxine (CAS No 93413-69-5);
+
+(b) Category 2 (substances that can be easily disposed of):
+
+(i) Benzotriazole (CAS No 95-14-7),
+
+(ii) Candesartan (CAS No 139481-59-7),
+
+(iii) Irbesartan (CAS No 138402-11-6),
+
+(iv) mixture of 4-Methylbenzotriazole (CAS No 29878-31-7) and 5-methyl-benzotriazole (CAS No 136-85-6).
+
+Note 2: The percentage of removal shall be calculated on dry weather flow for at least six substances. The number of substances in category 1 shall be twice the number of substances in category 2. If fewer than six substances can be measured in sufficient concentration, the competent authority shall designate other substances to calculate the minimum percentage of removal when it is necessary. The average of the specific percentages of removal of all single substances used in the calculation shall be used in order to assess whether the required 80 % minimum percentage of removal has been reached.
+
+**Table 4: Requirement for samples**
+
+| Series of samples taken in any year | Maximum permitted number of samples which fail to conform |
+| --- | --- |
+| 4-7 | 1 |
+| 8-16 | 2 |
+| 17-28 | 3 |
+| 29-40 | 4 |
+| 41-53 | 5 |
+| 54-67 | 6 |
+| 68-81 | 7 |
+| 82-95 | 8 |
+| 96-110 | 9 |
+| 111-125 | 10 |
+| 126-140 | 11 |
+| 141-155 | 12 |
+| 156-171 | 13 |
+| 172-187 | 14 |
+| 188-203 | 15 |
+| 204-219 | 16 |
+| 220-235 | 17 |
+| 236-251 | 18 |
+| 252-268 | 19 |
+| 269-284 | 20 |
+| 285-300 | 21 |
+| 301-317 | 22 |
+| 318-334 | 23 |
+| 335-350 | 24 |
+| 351-365 | 25 |
+
+## ANNEX II — AREAS SENSITIVE TO EUTROPHICATION
+
+1\. Areas located in the catchments of the Baltic Sea, the Black Sea, the North Sea and the Adriatic Sea identified as sensitive to eutrophication under Directive 2008/56/EC or 2000/60/EC.
+
+2\. Natural freshwater lakes, other freshwater bodies, estuaries and coastal waters which are found to be eutrophic or which in the near future may become eutrophic if protective action is not taken.
+
+The following elements shall be taken into account when considering which nutrient should be reduced by further treatment:
+
+(a) lakes and streams reaching lakes/reservoirs/closed bays which are found to have a poor water exchange, whereby accumulation may take place. In those areas, the removal of phosphorus should be included unless it can be demonstrated that the removal will have no effect on the level of eutrophication. Where discharges from large agglomerations are made, the removal of nitrogen may also be considered;
+
+(b) estuaries, bays and other coastal waters which are found to have a poor water exchange, or which receive large quantities of nutrients. Discharges from small agglomerations are usually of minor importance in those areas, but for large agglomerations, the removal of phosphorus or nitrogen, or both, should be included unless it can be demonstrated that the removal will have no effect on the level of eutrophication.
+
+3\. Surface freshwaters intended for the abstraction of drinking water which could contain more than the concentration of nitrate laid down under the relevant provisions of Directive (EU) 2020/2184 if protective action is not taken.
+
+4\. Areas where further treatment than that prescribed in Article 7 of this Directive is necessary to comply with other Union acts in the environmental field, including in particular water bodies covered by Directive 2000/60/EC which are at risk of not maintaining or achieving good ecological status or potential.
+
+5\. Any other areas found by the Member States to be sensitive to eutrophication.
+
+## ANNEX III — LIST OF PRODUCTS COVERED BY EXTENDED PRODUCER RESPONSIBILITY
+
+1\. Medicinal products for human use falling within the scope of Directive 2001/83/EC of the European Parliament and of the Council ( 14 ).
+
+2\. Cosmetic products falling within the scope of Regulation (EC) No 1223/2009 of the European Parliament and of the Council ( 15 ).
+
+## ANNEX IV — INDUSTRIAL SECTORS
+
+1\. Milk-processing
+
+2\. Manufacture of fruit and vegetable products
+
+3\. Manufacture and bottling of soft drinks
+
+4\. Potato-processing
+
+5\. Meat industry
+
+6\. Breweries
+
+7\. Production of alcohol and alcoholic beverages
+
+8\. Manufacture of animal feed from plant products
+
+9\. Manufacture of gelatine and of glue from hides, skin and bones
+
+10\. Malt-houses
+
+11\. Fish-processing industry
+
+## ANNEX V — CONTENT OF THE INTEGRATED URBAN WASTEWATER MANAGEMENT PLANS
+
+1\. An analysis of the initial situation of the drainage area of the agglomeration concerned, including at least the following:
+
+(a) a detailed description of the network of collecting systems, the urban wastewater and urban runoff storage and conducting capacities of that network and the existing urban wastewater treatment capacities in case of rainfall;
+
+(b) for combined sewers, a dynamic analysis of the flows of urban wastewater in case of rainfall, based on monitoring data or the use of hydrological, hydraulic and water quality models that take into account state-of-the-art climate projections and including an estimate of the pollution loads of the parameters referred to in Table 1 and, where relevant, Table 2 of Annex I as well as microplastics and relevant pollutants released into receiving waters in case of rainfall;
+
+(c) for separate sewers, a detailed description of the monitoring requirements at relevant points of separate systems where discharges of urban runoff are expected to be polluted as identified under Article 5(2), point (d), to identify relevant and feasible measures as required in point 3 of this Annex.
+
+2\. Objectives for the reduction of pollution from storm water overflows, including the following:
+
+(a) an indicative non-binding objective that storm water overflow represents a small percentage that cannot be more than 2 % of the annual collected urban wastewater load calculated in dry weather conditions; this indicative non-binding objective shall be met by:
+
+(i) 31 December 2039 for all agglomerations of 100 000 p.e. and above;
+
+(ii) 31 December 2045 for agglomerations of 10 000 p.e. and above referred to in Article 5;
+
+(b) the progressive reduction of macroplastics.
+
+3\. The measures to be taken to achieve the objectives referred to in point 2 in accordance with the deadlines set in that point accompanied with a timeline for the implementation of the measures and a distinction between measures already in place and to be taken. It shall also contain a clear identification of the actors involved and their responsibilities in the implementation of the integrated urban wastewater management plan.
+
+4\. When assessing which measures to be taken under point 3, Member States shall ensure that their competent authorities consider at least the following:
+
+(a) preventive measures aimed at avoiding the entry of unpolluted rain waters into collecting systems, including measures promoting natural water retention or rainwater harvesting, and measures aimed at increasing green and blue spaces in urban areas in order to reduce storm water overflows or limiting impermeable surfaces in the agglomerations;
+
+(b) measures to better manage and optimise the use of existing infrastructure, including collecting systems, storage volumes and urban wastewater treatment plants, with the aim of ensuring that releases of untreated urban wastewater or polluted urban runoff into receiving waters are minimised;
+
+(c) where necessary to achieve the objectives referred to in point 2, additional mitigation measures including the adaptation of the infrastructure for the collection, storage and treatment of urban wastewater, such as connecting newly built urban areas to separate sewers, where relevant, or the creation of new infrastructure with priority given to green and blue infrastructure such as vegetated ditches, treatment wetlands and storage ponds designed in order to support biodiversity. Where relevant, water reuse shall be considered in the context of the development of the integrated urban wastewater management plans referred to in Article 5.
+
+## ANNEX VI — INFORMATION FOR THE PUBLIC
+
+(1) the competent authority and the operator(s) responsible for urban wastewater collection and treatment services, including information on the ownership structure of the operators and their contact information;
+
+(2) the total urban wastewater load expressed in population equivalents (p.e.) generated in the agglomeration, with details on the share of that load (in %) that is:
+
+(a) collected and treated in urban wastewater treatment plants;
+
+(b) treated by registered individual systems;
+
+(c) not collected or treated;
+
+(3) where relevant, a justification for why a certain load of urban wastewater is not collected or treated;
+
+(4) information on the quality of the urban wastewater discharged from the agglomeration to each receiving water body, including the following elements:
+
+(a) annual average concentrations and the load of pollutants covered by Article 21 released by each urban wastewater treatment plant;
+
+(b) an estimate of the load of the discharges from individual systems for the parameters referred to in Tables 1 and 2 of Annex I;
+
+(c) for agglomerations above 10 000 p.e., an estimate of the load of the discharges from combined sewer and storm water overflows for the parameters referred to in Tables 1 and 2 of Annex I;
+
+(5) total annual investment costs and total annual operational costs, with a distinction between collection and treatment costs, total annual costs related to staff, energy, consumables, administration and other costs as well as average annual investment and operational costs per cubic meter of urban wastewater collected and treated, and per average household where costs are recovered totally or partly through a water tariff system or per agglomeration level in other cases;
+
+(6) information on how the costs referred to in point (5) are covered and, where costs are recovered through a tariff system, information on the structure of the tariff per cubic meter of urban wastewater collected and treated information on the structure of the tariff either per cubic meter of urban wastewater collected and treated or per cubic meter of water supplied, including fixed and variable costs and a breakdown between costs for collection, treatment, administration and other costs;
+
+(7) investment plans for urban wastewater collection and treatment infrastructure at agglomeration level, with expected impacts on urban wastewater service tariffs, and intended financial and societal benefits;
+
+(8) for each urban wastewater treatment plant of 10 000 p.e. and above:
+
+(a) the total load (in p.e.) treated and the energy required to treat the urban wastewater (in kWh total and per cubic meter);
+
+(b) the total renewable energy produced (GWh/year) each year, including a breakdown per source of energy;
+
+(9) the total direct GHG emissions (in tonnes of CO2 equivalent) produced or avoided per year by the operation of urban wastewater collection and treatment infrastructure of 10 000 p.e. and above in each agglomeration and, when available, the total indirect GHG emissions (in tonnes of CO2 equivalent) produced in particular during the construction of that infrastructure;
+
+(10) a summary of the nature and statistics regarding complaints and of the answers provided by the urban wastewater treatment plant operators on matters falling within the scope of this Directive;
+
+(11) upon justified request, consumers shall be given access to historical data for information under points (2), (4), (8) and (9), dating back to 10 years, and not earlier than 1 January 2025.
+
+## ANNEX VII
+
+**Part A**
+
+**Repealed Directive with list of the successive amendments thereto (referred to in Article 32)**
+
+| Council Directive 91/271/EEC (OJ L 135, 30.5.1991, p. 40) |  |
+| --- | --- |
+| Commission Directive 98/15/EC (OJ L 67, 7.3.1998, p. 29) |  |
+| Regulation (EC) No 1882/2003 of the European Parliament and of the Council (OJ L 284, 31.10.2003, p. 1) | only Annex III, point 21 |
+| Regulation (EC) No 1137/2008 of the European Parliament and of the Council (OJ L 311, 21.11.2008, p. 1) | only Annex, point 4.2 |
+| Council Directive 2013/64/EU (OJ L 353, 28.12.2013, p. 8) | only Article 1 |
+
+**Part B**
+
+**Time limits for transposition into national law (referred to in Article 32)**
+
+Directive Time limit for transposition
+
+91/271/EEC 30 June 1993
+
+98/15/EC 30 September 1998
+
+2013/64/EU 31 December 2018 as regards Article 1(1), (2) and (3) 30 June 2014 as regards Article 1(5), point (a) 31. December 2014 as regards Article 1(5), point (b)
+
+## ANNEX VIII
+
+**Correlation table**
+
+| Directive 91/271/EEC | This Directive |
+| --- | --- |
+| Article 1 | Article 1 |
+| Article 2, introductory wording | Article 2, introductory wording |
+| Article 2, points 1 to 4 | Article 2, points 1 to 4 |
+| — | Article 2, points 5 and 6 |
+| Article 2, point 5 | Article 2, point 7 |
+| — | Article 2, points 8 and 9 |
+| Article 2, point 6 | Article 2, point 10 |
+| Article 2, point 7 | Article 2, point 11 |
+| Article 2, point 8 | Article 2, point 12 |
+| — | Article 2, points 13 and 14 |
+| Article 2, point 10 | Article 2, point 15 |
+| Article 2, point 11 | Article 2, point 16 |
+| — | Article 2, point 17 to 28 |
+| Article 3(1) | Article 3(1) |
+| — | Article 3(2) and (3) |
+| Article 3(2) | Article 3 (4) |
+| Article 3(1), third subparagraph | Article 4(1) |
+| — | Article 4(2) |
+| — | Article 4(3) |
+| — | Article 4(4) |
+| — | Article 4(5) |
+| — | Article 4(6) |
+| — | Article 5 |
+| Article 4(1) | Article 6(1) |
+| — | Article 6(2) |
+| — | Article 6(3) |
+| Article 4(2) | Article 6(4) |
+| Article 4(4) | Article 6(5) |
+| — | Article 7(1) |
+| — | Article 7(2) |
+| Article 5(2) | Article 7(3) |
+| — | Article 7(4) |
+| Article 5(3) | Article 7(5) |
+| — | Article 7(6) and (7) |
+| Article 5(4) | Article 7(8) |
+| Article 5(5) | Article 7(9) |
+| Article 5(7) | Article 7(10) |
+| — | Article 7(11) |
+| — | Article 8 |
+| — | Article 9 |
+| — | Article 10 |
+| — | Article 11 |
+| Article 9 | Article 12(1) and (2) |
+| — | Article 12(3) |
+| Article 10 | Article 13 |
+| Article 11(1) | Article 14(1) |
+| — | Article 14(2) |
+| — | Article 14(3) |
+| — | Article 14(4) |
+| Article 11(3) | Article 14(5) |
+| Article 12(1) | Article 15(1) |
+| Article 12(2) | Article 15(2) |
+| Article 12(3) | Article 15(3) |
+| — | Article 15(4) |
+| Article 13(1) | Article 16(1) and (2) |
+| — | Article 17 |
+| — | Article 18 |
+| — | Article 19 |
+| Article 14(1) | Article 20(1) |
+| — | Article 20(2) |
+| Article 15(1) | Article 21(1) |
+| — | Article 21(2) |
+| — | Article 21(3) to (6) |
+| — | Article 22 |
+| Article 17(1) | Article 23(1) |
+| — | Article 23(2) |
+| Article 17(3) | Article 23(3) |
+| — | Article 23(4) |
+| — | Article 24 |
+| — | Article 25 |
+| — | Article 26 |
+| — | Article 27 |
+| Article 18 | Article 28 |
+| — | Article 29 |
+| — | Article 30 |
+| — | Article 31 |
+| — | Article 32 |
+| Article 19 | Article 33 |
+| — | Article 34 |
+| Article 20 | Article 35 |
+| Annex I(A) | Annex I(A) |
+| Annex I(B) | Annex I(B) |
+| Annex I(C) | — |
+| Annex I(D) | Annex I(C) |
+| Annex II | Annex II |
+| — | Annex III |
+| Annex III | Annex IV |
+| — | Annex V |
+| — | Annex VI |
+| — | Annex VII |
+| — | Annex VIII |
+
+( ) Regulation (EC) No 1907/2006 of the European Parliament and of the Council of 18 December 2006 concerning the Registration, Evaluation, Authorisation and Restriction of Chemicals (REACH), establishing a European Chemicals Agency, amending Directive 1999/45/EC and repealing Council Regulation (EEC) No 793/93 and Commission Regulation (EC) No 1488/94 as well as Council Directive 76/769/EEC and Commission Directives 91/155/EEC, 93/67/EEC, 93/105/EC and 2000/21/EC (OJ L 396, 30.12.2006, p. 1).
+
+( ) Directive 2011/83/EU of the European Parliament and of the Council of 25 October 2011 on consumer rights, amending Council Directive 93/13/EEC and Directive 1999/44/EC of the European Parliament and of the Council and repealing Council Directive 85/577/EEC and Directive 97/7/EC of the European Parliament and of the Council (OJ L 304, 22.11.2011, p. 64).
+
+( ) Regulation (EU) 2022/2371 of the European Parliament and of the Council of 23 November 2022 on serious cross-border threats to health and repealing Decision No 1082/2013/EU (OJ L 314, 6.12.2022, p. 26).
+
+( ) Directive 2008/105/EC of the European Parliament and of the Council of 16 December 2008 on environmental quality standards in the field of water policy, amending and subsequently repealing Council Directives 82/176/EEC, 83/513/EEC, 84/156/EEC, 84/491/EEC, 86/280/EEC and amending Directive 2000/60/EC of the European Parliament and of the Council (OJ L 348, 24.12.2008, p. 84).
+
+( ) Directive 2006/118/EC of the European Parliament and of the Council of 12 December 2006 on the protection of groundwater against pollution and deterioration (OJ L 372, 27.12.2006, p. 19).
+
+( ) Regulation (EU) No 1380/2013 of the European Parliament and of the Council of 11 December 2013 on the Common Fisheries Policy, amending Council Regulations (EC) No 1954/2003 and (EC) No 1224/2009 and repealing Council Regulations (EC) No 2371/2002 and (EC) No 639/2004 and Council Decision 2004/585/EC (OJ L 354, 28.12.2013, p. 22).
+
+( ) Council Directive 92/43/EEC of 21 May 1992 on the conservation of natural habitats and of wild fauna and flora (OJ L 206, 22.7.1992, p. 7).
+
+( ) Directive 2009/147/EC of the European Parliament and of the Council of 30 November 2009 on the conservation of wild birds (OJ L 20, 26.1.2010, p. 7).
+
+( ) Directive 2010/75/EU of the European Parliament and of the Council of 24 November 2010 on industrial and livestock rearing emissions (integrated pollution prevention and control) (OJ L 334, 17.12.2010, p. 17).
+
+( ) Council Directive 86/278/EEC of 12 June 1986 on the protection of the environment, and in particular of the soil, when sewage sludge is used in agriculture (OJ L 181, 4.7.1986, p. 6).
+
+( ) Decision No 2455/2001/EC of the European Parliament and of the Council of 20 November 2001 establishing the list of priority substances in the field of water policy and amending Directive 2000/60/EC (OJ L 331, 15.12.2001, p. 1).
+
+( ) Directive (EU) 2024/1203 of the European Parliament and of the Council of 11 April 2024 on the protection of the environment through criminal law and replacing Directives 2008/99/EC and 2009/123/EC (OJ L, 2024/1203, 30.4.2024, ELI: http://data.europa.eu/eli/dir/2024/1203/oj).
+
+( ) Commission Implementing Decision 2014/431/EU of 26 June 2014 concerning formats for reporting on the national programmes for the implementation of Council Directive 91/271/EEC (OJ L 197, 4.7.2014, p. 77).
+
+( ) Directive 2001/83/EC of the European Parliament and of the Council of 6 November 2001 on the Community code relating to medicinal products for human use (OJ L 311, 28.11.2001, p. 67).
+
+( ) Regulation (EC) No 1223/2009 of the European Parliament and of the Council of 30 November 2009 on cosmetic products (OJ L 342, 22.12.2009, p. 59).

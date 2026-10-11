@@ -1,0 +1,267 @@
+---
+title: "Directive 2009/21/EC of the European Parliament and of the Council of 23 April 2009 on compliance with flag State requirements (Text with EEA relevance)"
+identifier: "32009L0021"
+eli: "http://data.europa.eu/eli/dir/2009/21/oj"
+type: directive
+jurisdiction: eu
+language: en
+date: 2009-04-23
+entry_into_force: 2009-07-16
+last_amended: 2025-01-05
+consolidated_version: "02009L0021-20250105"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02009L0021-20250105"
+retrieved: 2026-10-11
+---
+
+# Directive 2009/21/EC of the European Parliament and of the Council of 23 April 2009 on compliance with flag State requirements (Text with EEA relevance)
+
+**DIRECTIVE 2009/21/EC OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 23 April 2009**
+
+**on compliance with flag State requirements**
+
+**(Text with EEA relevance)**
+
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> DIRECTIVE (EU) 2024/3100 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 27 November 2024 </td><td> L 3100</td><td>1</td><td>16.12.2024</td></tr>
+
+**DIRECTIVE 2009/21/EC OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 23 April 2009**
+
+**on compliance with flag State requirements**
+
+**(Text with EEA relevance)**
+
+## Article 1 — Subject matter
+
+1\. The purpose of this Directive is:
+
+(a) to ensure that Member States effectively and consistently discharge their responsibilities and obligations as flag States; and
+
+(b) to enhance safety and living and working conditions, and to prevent pollution from ships flying the flag of a Member State.
+
+2\. This Directive is without prejudice to Community maritime legislation, as listed in Article 2(2) of Regulation (EC) No 2099/2002 of the European Parliament and of the Council of 5 November 2002 establishing a Committee on Safe Seas and the Prevention of Pollution from Ships (COSS) ( 1 ), and to Council Directive 1999/63/EC of 21 June 1999 concerning the Agreement on the organisation of working time of seafarers concluded by the European Community Shipowners’ Association (ECSA) and the Federation of Transport Workers’ Unions in the European Union (FST) ( 2 ).
+
+## Article 2 — Scope
+
+This Directive shall apply to the administration of the Member State whose flag the ship is flying in respect of ships subject to certification and engaged in any type of international voyages.
+
+## Article 3 — Definitions
+
+For the purposes of this Directive, the following definitions shall apply:
+
+(a) ‘ship’ means a ship or craft to which one or more Conventions apply, flying the flag of a Member State and in respect of which a certificate is required;
+
+(b) ‘administration’ means the competent authorities of the Member State whose flag the ship is flying;
+
+(c) ‘recognised organisation’ means an organisation recognised in accordance with Regulation (EC) No 391/2009 of the European Parliament and of the Council of 23 April 2009 on common rules and standards for ship inspection and survey organisations (recast) ( 3 );
+
+(d) ‘certificates’ means statutory certificates issued in respect of the relevant IMO Conventions;
+
+(e) ‘IMO audit’ means an audit conducted in accordance with the provisions of Resolution A.1067(28) on the Framework and Procedures for the IMO Member State Audit Scheme, in its up-to-date version, adopted by the International Maritime Organisation (IMO);
+
+(f) ‘Conventions’ means the conventions, with the Protocols and amendments thereto, making the use of the III Code mandatory, and the related codes of mandatory status, in their up-to-date versions;
+
+(g) ‘III Code’ means Resolution A.1070(28) (the IMO Instruments Implementation Code), adopted by the IMO, Part 2, with the exception of paragraphs 16, 18, 19, 20.3, 21, 29, 30, 31, 32, 34, 38, 39, 40 and 41 of that Part, in its up-to-date version;
+
+(h) ‘flag State surveyor’ means a public sector employee, working exclusively for and duly authorised by the competent authority of a Member State, responsible for or performing surveys, verifications and audits of ships and companies covered by the relevant international mandatory instruments and fulfilling the independence requirement laid down in Article 8(1);
+
+(i) ‘flag State inspector’ means:
+
+(i) a public sector employee, working exclusively for and duly authorised by the competent authority of a Member State; or
+
+(ii) a person who is non-exclusively employed and who is duly authorised by the competent authority of a Member State, on an ad hoc basis or in a contractual situation with the competent authority of the Member State,
+
+who may carry out flag State inspections, and who fulfils the qualification and independence requirements laid down in Article 8(1);
+
+(j) ‘other personnel who assist in the performance of surveys’ means persons duly authorised by the administration of the Member State or by a recognised organisation acting on its behalf, who may assist flag State surveyors when carrying out surveys, as specified by the administration, and who fulfil the communication, qualification and independence requirements laid down in Article 8(1);
+
+(k) ‘flag State inspection’ means an inspection not leading to certification, conducted to verify that the actual condition of the ship and its crew is in conformity with the certificates that it carries.
+
+## Article 4 — Conditions for allowing a ship to operate upon granting the right to fly the flag of a Member State
+
+1\. Prior to allowing a ship which has been granted the right to fly its flag to operate, the Member State concerned shall ensure that the ship in question complies with the applicable international rules and regulations, including safety, social and environmental standards. Measures may be taken by a recognised organisation, acting on behalf of the Member State, when it has been duly authorised by the competent authority to do so. In particular, the Member State concerned or the recognised organisation acting on its behalf, as applicable, shall verify the safety records of the ship using, where available, the flag State inspection reports and certificates contained in its own database or, for Member States that have opted to use the ship information database referred to in Article 6a, in that database. The Member State concerned shall, if necessary, consult with the losing flag State in order to establish whether any outstanding deficiencies or safety issues identified by the latter remain unresolved.
+
+2\. Whenever another flag State requests information concerning a ship which was previously flying the flag of a Member State, that Member State shall promptly provide details of outstanding deficiencies and any other relevant safety-related information to the requesting flag State.
+
+## Article 4a — Safety of ships flying the flag of a Member State
+
+1\. In respect of international shipping, Member States shall apply in full the mandatory flag State-related provisions laid down in the Conventions in accordance with the conditions laid down, and in respect of the ships referred to, therein.
+
+2\. Member States shall take all necessary measures to ensure compliance with international rules, regulations and standards under the Conventions by ships entitled to fly their flag, including the following:
+
+(a) ensuring that a surveyor employed by a recognised organisation may perform the same tasks as flag State surveyors when authorised to do so by the competent authority of the Member State; and
+
+(b) carrying out flag State inspections to verify that the actual condition of the ship is in conformity with the certificates that it carries.
+
+The flag State inspections referred to in point (b) of the first subparagraph may be carried out using a risk-based approach, which shall include the following criteria:
+
+(i) records of deficiencies and non-conformities from statutory surveys, audits and verifications performed by the flag State;
+
+(ii) relevant accident investigation reports;
+
+(iii) detentions or prohibition of operation notices issued by a port State control authority;
+
+(iv) exceeding a port State control deficiency ratio established by each Member State;
+
+(v) records of deficiencies from flag State inspections carried out in accordance with national legislation as deemed appropriate by each Member State;
+
+(vi) other relevant information considered to be necessary by the Member State.
+
+Member States using a risk-based approach shall ensure that ships in respect of which no sufficient data is available for the calculation of the risk rating are inspected at least once every 5 years.
+
+Member States not using a risk-based approach shall carry out flag State inspections using their own procedures, instructions and relevant information in compliance with the III Code. They shall ensure that every ship is inspected at least once every 5 years.
+
+3\. Member States shall ensure that any deficiencies requiring corrective measures, including safety, social and environmental concerns, confirmed or revealed by a flag State inspection carried out in accordance with paragraph 2, point (b) are rectified within an appropriate timeframe, to be determined by the flag State.
+
+4\. On completion of a flag State inspection, the flag State inspector shall draw up a report setting out its outcomes.
+
+## Article 4b — Safety and pollution prevention requirements
+
+1\. Each Member State shall ensure that resources, appropriate for the size and type of its fleet and for the implementation of the administrative processes, procedures and resources necessary, in particular, for meeting the obligations provided for in Article 4a and paragraphs 2 and 3 of this Article are available to its administration.
+
+2\. Each Member State shall ensure the oversight of the activities of flag State surveyors, flag State inspectors and other personnel who assist in the performance of surveys, and recognised organisations.
+
+3\. Each Member State shall ensure that a design review and technical decision-making capability according to the size and type of its fleet, are developed or maintained.
+
+## Article 4c — Training and capacity building
+
+1\. The personnel responsible for or performing surveys, flag State inspections, audits and verifications of ships and companies shall undergo training relevant to the specific activities carried out.
+
+2\. Member States may develop a capacity-building scheme for their flag State inspectors and flag State surveyors and keep it up to date, taking into account new or additional obligations arising from the Conventions.
+
+3\. The Commission, with the assistance of the European Maritime Safety Agency (EMSA), established by Regulation (EC) No 1406/2002 of the European Parliament and of the Council ( 4 ), and in cooperation with Member States, shall organise, where appropriate and based on Member States’ requests for support, relevant training activities for flag State inspectors and flag State surveyors.
+
+## Article 5 — Detention of a ship flying the flag of a Member State
+
+1\. When the administration is informed that a ship flying the flag of the Member State concerned has been detained by a port State, it shall, according to the procedures it has established to this effect, oversee the ship being brought into compliance with the relevant IMO Conventions.
+
+2\. Member States shall develop and implement an appropriate control and monitoring programme in order to provide a timely response to the situations referred to in paragraph 1.
+
+## Article 6 — Electronic information and exchange
+
+1\. Member States shall ensure that the following information concerning ships flying their flag is made available in electronic format in its up-to-date version at the latest by 6 January 2031:
+
+(a) statutory certificates (full or interim) including dates of surveys, additional and supplementary surveys, if any, and audits;
+
+(b) identification of ships which ceased to fly the flag of the Member State concerned during the previous 12 months.
+
+2\. The Commission shall develop, maintain and update a digital interoperable portal providing a single point of access for the information referred to in paragraph 1 and allowing Member States’ flag State inspectors and port State inspectors to access that information in the performance of their duties.
+
+The Commission shall make that portal electronically accessible and free of charge for Member States.
+
+That portal shall not contain personal data or confidential information.
+
+The Commission shall ensure the interoperability of that portal with the ship information database referred to in Article 6a.
+
+That portal shall be established by 6 January 2028 at the latest.
+
+3\. The Commission shall adopt implementing acts laying down the technical functioning of the portal referred to in paragraph 2 of this Article. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 10(2).
+
+## Article 6a — Ship information database
+
+1\. The Commission shall develop, maintain and update a ship information database containing the information referred to in Article 6 and providing services for Member States on issuing and controlling of electronic certificates. That ship information database shall be established by 6 January 2030. Member States may connect to that database. That database may be based on the database referred to in Article 24 of Directive 2009/16/EC of the European Parliament and of the Council ( 5 ) and may have similar functionalities to that database.
+
+2\. Without prejudice to national data protection requirements, Member States opting to use the ship information database:
+
+(a) may transfer to the ship information database information related to flag State inspections carried out in accordance with this Directive, including information concerning deficiencies and certificates; and
+
+(b) may use that database to issue, sign, endorse, extend and withdraw electronic certificates for their ships.
+
+Such Member States shall ensure that the information referred to in the first subparagraph is compatible with the requirements of that database and interoperable.
+
+3\. The Commission shall ensure that the ship information database makes it possible to retrieve relevant data concerning the implementation of this Directive based on inspection data provided by Member States.
+
+4\. Member States that have opted to use the database shall have access to all the information recorded in the ship information database referred to in paragraph 2, point (a) of this Article and in the inspection system provided for in Directive 2009/16/EC. Nothing in this Directive shall prevent the sharing of such information between relevant competent authorities, within and between Member States, with the Commission, or with EMSA.
+
+5\. The Commission shall adopt implementing acts laying down the technical functioning of the database referred to in this Article, including conditions for access to the information submitted by Member States in accordance with paragraph 2 of this Article. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 10(2).
+
+## Article 7 — Monitoring of compliance and performance of Member States
+
+1\. Member States shall take the necessary measures for an IMO audit of their administration in accordance with the cycle adopted by the IMO. Member States shall publish the outcome of the audit, in accordance with relevant national legislation on confidentiality.
+
+2\. In order to ensure the effective implementation of this Directive and to monitor the overall functioning of flag State compliance with the legal duties of the administrations pursuant to this Directive, the Commission shall collect the necessary information when carrying out visits to Member States.
+
+## Article 8 — Quality management system and internal evaluation
+
+1\. Each Member State shall implement and maintain a quality management system covering the operational parts of the flag State-related activities of its administration. Such quality management system shall be certified in accordance with applicable international quality standards, such as ISO 9001.
+
+The quality management system shall include the details of the responsibilities, of the authority and of the interrelation of personnel who perform surveys, inspections, audits and verifications and the flag State personnel who manage, perform and verify work relating to and affecting the flag State obligations. Such responsibilities shall be documented, specifying the type and scope of inspection work that may also be performed by non-exclusively employed flag State inspectors, and how such personnel shall communicate and report. The quality management system shall indicate the tasks that can be carried out by other personnel who assist in the performance of surveys.
+
+Each Member State shall ensure that non-exclusively employed flag State inspectors, and other personnel who assist in the performance of surveys, have education, training and supervision commensurate with the tasks they are authorised to perform, and that they are able to apply flag State instructions, procedures and criteria.
+
+Member States shall take appropriate measures to prevent conflicts of interests of all personnel who perform surveys, inspections, audits and verifications and regarding independence in relation to the work to be performed.
+
+By 6 January 2028, the quality management system shall cover the aspects referred to in this paragraph.
+
+2\. Member States which appear on the low performance list or which appear, for two consecutive years, on the medium performance list as published in the most recent annual report of the Paris Memorandum of Understanding on Port State Control (the ‘Paris MOU’) shall provide the Commission with a report on their flag State performance no later than four months after the publication of the Paris MOU report.
+
+The report shall identify and analyse the main reasons that led to the detentions and the deficiencies resulting in a low or medium performance status.
+
+## Article 9 — Reports and Review
+
+Every five years, and for the first time by 6 January 2028, the Commission shall present a report to the European Parliament and to the Council on the application of this Directive.
+
+## Article 9a — Exchange of best practices and experience
+
+The Commission shall organise the exchange of best practices and experiences between Member States’ administrations and flag State experts and flag State inspectors, including, as appropriate, other relevant stakeholders, for the implementation of this Directive.
+
+Member States’ administrations, flag State experts and flag State inspectors shall explore, together with the Commission, the possibility to develop guidance on elements such as the methodology for performing flag State inspections, the content and format of reporting or capacity building.
+
+## Article 9b — Information and data
+
+The Commission shall establish an electronic reporting tool for the purposes of gathering information and data from the Member States under this Directive.
+
+Member States shall inform the Commission once a year of the number of flag State inspections performed in accordance with Article 4a, indicating, for each flag State inspection, the IMO number of the ship, the date and the place.
+
+## Article 10 — Committee procedure
+
+1\. The Commission shall be assisted by the Committee on Safe Seas and the Prevention of Pollution from Ships (COSS) established by Regulation (EC) No 2099/2002. That committee shall be a committee within the meaning of Regulation (EU) No 182/2011 of the European Parliament and of the Council ( 6 ).
+
+2\. Where reference is made to this paragraph, Article 5 of Regulation (EU) No 182/2011 shall apply.
+
+## Article 10a — Amendments to the Conventions and the III Code
+
+The Commission may exclude amendments to the Conventions and the III Code from the scope of this Directive in accordance with the Conformity checking procedure set out in Article 5 of Regulation (EC) No 2099/2002.
+
+## Article 11 — Transposition
+
+1\. Member States shall bring into force the laws, regulations and administrative provisions necessary to comply with this Directive by 17 June 2011 at the latest. They shall forthwith inform the Commission thereof.
+
+When Member States adopt these measures, they shall contain a reference to this Directive or shall be accompanied by such a reference on the occasion of their official publication. The methods of making such reference shall be laid down by Member States.
+
+2\. Member States shall communicate to the Commission the text of the main provisions of national law which they adopt in the field covered by this Directive.
+
+3\. By way of derogation from the first subparagraph of paragraph 1,
+
+(a) the Member States which do not have ships flying their flag and that fall within the scope of this Directive may derogate from the obligation to transpose and implement Article 6 of this Directive as long as that condition is fulfilled;
+
+(b) the Member States which do not have ships that fall within the scope of this Directive and have closed their register for such ships may derogate from the obligation to transpose and implement this Directive for as long as that condition is fulfilled.
+
+Any Member State that intends to avail itself of one of the derogations referred to in the first subparagraph shall notify the Commission by 6 July 2027. Any subsequent change shall also be communicated to the Commission.
+
+Those Member States may not allow ships falling within the scope of this Directive to fly their flag or register such ships in their national registry until they have completely transposed and implemented this Directive.
+
+## Article 12 — Entry into force
+
+This Directive shall enter into force on the 20th day following its publication in the Official Journal of the European Union.
+
+## Article 13 — Addressees
+
+This Directive is addressed to the Member States.
+
+( 1 ) OJ L 324, 29.11.2002, p. 1.
+
+( 2 ) OJ L 167, 2.7.1999, p. 33.
+
+( 3 ) See page 11 of this Official Journal.
+
+( 4 ) Regulation (EC) 1406/2002 of the European Parliament and of the Council of 27 June 2002 establishing a European Maritime Safety Agency (OJ L 208 5.8.2002, p. 1).
+
+( 5 ) Directive 2009/16/EC of the European Parliament and of the Council of 23 April 2009 on port State control (OJ L 131, 28.5.2009, p. 57).
+
+( 6 ) Regulation (EU) No 182/2011 of the European Parliament and of the Council of 16 February 2011 laying down the rules and general principles concerning mechanisms for control by Member States of the Commission’s exercise of implementing powers (OJ L 55, 28.2.2011, p. 13).

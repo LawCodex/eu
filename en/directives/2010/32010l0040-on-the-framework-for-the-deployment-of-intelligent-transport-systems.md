@@ -1,0 +1,599 @@
+---
+title: "Directive 2010/40/EU of the European Parliament and of the Council of 7 July 2010 on the framework for the deployment of Intelligent Transport Systems in the field of road transport and for interfaces with other modes of transport Text with EEA relevance"
+identifier: "32010L0040"
+eli: "http://data.europa.eu/eli/dir/2010/40/oj"
+type: directive
+jurisdiction: eu
+language: en
+date: 2010-07-07
+entry_into_force: 2010-10-01
+last_amended: 2023-12-20
+consolidated_version: "02010L0040-20231220"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02010L0040-20231220"
+retrieved: 2026-10-11
+---
+
+# Directive 2010/40/EU of the European Parliament and of the Council of 7 July 2010 on the framework for the deployment of Intelligent Transport Systems in the field of road transport and for interfaces with other modes of transport Text with EEA relevance
+
+**DIRECTIVE 2010/40/EU OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 7 July 2010**
+
+**on the framework for the deployment of Intelligent Transport Systems in the field of road transport and for interfaces with other modes of transport**
+
+**(Text with EEA relevance)**
+
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> DECISION (EU) 2017/2380 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 12 December 2017 </td><td> L 340</td><td>1</td><td>20.12.2017</td></tr>
+<tr><td></td><td> DIRECTIVE (EU) 2023/2661 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 22 November 2023 </td><td> L </td><td>1</td><td>30.11.2023</td></tr>
+
+**DIRECTIVE 2010/40/EU OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 7 July 2010**
+
+**on the framework for the deployment of Intelligent Transport Systems in the field of road transport and for interfaces with other modes of transport**
+
+**(Text with EEA relevance)**
+
+## Article 1 — Subject matter and scope
+
+1\. This Directive establishes a framework in support of the coordinated and coherent deployment and use of Intelligent Transport Systems (ITS) within the Union, in particular across the borders between the Member States, and sets out the general conditions necessary for that purpose.
+
+2\. This Directive provides for the development of specifications for actions within the priority areas referred to in Article 2, as well as for the development, where appropriate, of necessary standards.
+
+2a. This Directive provides for the availability of data and the deployment of ITS services within the priority areas referred to in Article 2, with, for data, the specific geographical coverage set out in Annex III and, for ITS services, the specific geographical coverage set out in Annex IV.
+
+3\. This Directive shall apply to ITS applications and services in the field of road transport and to their interfaces with other modes of transport without prejudice to matters concerning national security or necessary in the interest of defence.
+
+## Article 2 — Priority areas
+
+1\. For the purposes of this Directive, the following shall constitute priority areas for the development and use of specifications and standards:
+
+(a) Priority area I: Information and mobility ITS services;
+
+(b) Priority area II: Travel, transport and traffic management ITS services;
+
+(c) Priority area III: Road safety and security ITS services;
+
+(d) Priority area IV: ITS services for cooperative, connected and automated mobility.
+
+2\. The scope of the priority areas is specified in Annex I.
+
+## Article 3 — Priority actions
+
+Within the priority areas the following shall constitute priority actions for the development and use of specifications and standards, as set out in Annex I:
+
+(a) the provision of EU-wide multimodal travel information services;
+
+(b) the provision of EU-wide real-time traffic information services;
+
+(c) data and procedures for the provision, where possible, of road safety related minimum universal traffic information free of charge to users;
+
+(d) the harmonised provision for an interoperable EU-wide eCall;
+
+(e) the provision of information services for safe and secure parking places for trucks and commercial vehicles;
+
+(f) the provision of reservation services for safe and secure parking places for trucks and commercial vehicles.
+
+## Article 4 — Definitions
+
+For the purposes of this Directive, the following definitions shall apply:
+
+(1) ‘Intelligent Transport Systems’ or ‘ITS’ means systems in which information and communication technologies are applied in the field of road transport, including infrastructure, vehicles and users, and in traffic management and mobility management, as well as for interfaces with other modes of transport;
+
+(2) ‘interoperability’ means the capacity of systems and the underlying business processes to exchange data and share information and knowledge, making the continuity of ITS services possible;
+
+(3) ‘ITS application’ means an operational instrument for the application of ITS;
+
+(4) ‘ITS service’ means the provision of an ITS application through a well-defined organisational and operational framework with the aim of contributing to user safety, efficiency, sustainable mobility or comfort, or of facilitating or supporting transport and travel operations;
+
+(5) ‘ITS service provider’ means any provider of an ITS service, whether public or private;
+
+(6) ‘ITS user’ means any user of ITS applications or services including travellers, vulnerable road users, road transport infrastructure users and operators, fleet managers and operators of emergency services;
+
+(7) ‘vulnerable road users’ means non-motorised road users, such as pedestrians and cyclists as well as motor-cyclists and persons with disabilities or reduced mobility and orientation;
+
+(8) ‘nomadic device’ means a portable communication or information device that can be brought inside the vehicle to support the driving task and/or the transport operations;
+
+(9) ‘platform’ means an on-board or off-board unit enabling the deployment, provision, exploitation and integration of ITS applications and services;
+
+(10) ‘architecture’ means the conceptual design that defines the structure, behaviour and integration of a given system in its surrounding context;
+
+(11) ‘interface’ means a facility between systems which provides the media through which they can connect and interact;
+
+(12) ‘compatibility’ means the general ability of a device or system to work with another device or system without modification;
+
+(13) ‘continuity of services’ means the ability to ensure seamless services on transport networks across the Union;
+
+(14) ‘road data’ means data on road infrastructure characteristics, including fixed traffic signs and their regulatory safety attributes as well as infrastructure for recharging and for refuelling with alternative fuels;
+
+(15) ‘traffic data’ means historic and real-time data on road traffic characteristics;
+
+(16) ‘travel data’ means basic data such as public transport timetables and tariffs, necessary to provide multi-modal travel information before and during the trip to facilitate travel planning, booking and adaptation;
+
+(17) ‘specification’ means a binding measure laying down provisions containing requirements, procedures or any other relevant rules;
+
+(18) ‘standard’ means standard as defined in Article 2(1) of Regulation (EU) No 1025/2012 of the European Parliament and of the Council ( 1 );
+
+(19) ‘cooperative intelligent transport systems’ or ‘C-ITS’ means intelligent transport systems that enable ITS users to interact and cooperate by exchanging secured and trusted messages, without any prior knowledge of each other and in a non-discriminatory manner;
+
+(20) ‘C-ITS service’ means an ITS service provided through C-ITS;
+
+(21) ‘availability of data’ means that data exists in a digital machine-readable format;
+
+(22) ‘national access point’ or ‘NAP’ means a digital interface set up by a Member State that constitutes a single point of access to data, as defined in specifications referred to in Article 6;
+
+(23) ‘accessibility of data’ means that it is possible to request and to obtain data in a digital machine-readable format;
+
+(24) ‘multimodal digital mobility service’ means a service providing information on traffic and travel data, such as the location of transport facilities, schedules, availability or fares for more than one transport mode, which may include features enabling the making of reservations, bookings or payments, or the issuing of tickets;
+
+(25) ‘underlying information’ means information within the scope of this Directive that has been determined to be relevant for informing road and ITS users, in particular by road authorities where they are responsible for such information;
+
+(26) ‘primary road’ means a road outside urban areas, designated by a Member State, that connects major cities or regions, or both, and that is not classified as part of the comprehensive trans-European road network or as a motorway.
+
+## Article 4a — Working programme
+
+1\. By 21 December 2024, the Commission shall, after consulting the European ITS Advisory Group set up by Commission Decision of 4 May 2011 ( 2 ) and relevant stakeholders, adopt an implementing act, establishing a working programme. That implementing act shall be adopted in accordance with the examination procedure referred to in Article 15(4). The working programme shall include at least the following elements:
+
+(a) objectives and dates for its implementation every year, indicating for which work items specifications are to be developed in accordance with Article 6;
+
+(b) the data types which the Commission is considering adding to, or removing from, Annex III by the delegated acts referred to in Article 7(1a);
+
+(c) preparatory work to be carried out by the Commission in cooperation with stakeholders and Member States pursuant to Article 7(1).
+
+2\. Before each subsequent five-year extension of the power to adopt delegated acts in accordance with Article 12(2), the Commission shall adopt implementing acts establishing a new working programme, which shall include at least the elements referred to in paragraph 1, points (a) to (c). Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 15(4).
+
+## Article 5 — Application of specifications to the deployment of ITS
+
+1\. Member States shall take the necessary measures to ensure that the specifications adopted by the Commission in accordance with Article 6 are applied to ITS applications and services when those ITS applications and services are deployed, in accordance with the principles in Annex II. This is without prejudice to the right of each Member State to decide on its deployment of such applications and services on its territory. This right is without prejudice to Article 6a.
+
+2\. Where relevant, Member States shall cooperate, including with relevant stakeholders, in respect of the priority areas, insofar as no specifications have been adopted with regard to those priority areas.
+
+3\. Member States shall also cooperate, for instance through Union supported coordination projects, and, where necessary, with relevant stakeholders, on operational aspects of the implementation of the specifications adopted by the Commission, such as standards and Union harmonised profiles, common definitions, common metadata, common quality requirements and aspects related to the interoperability of NAPs’ architectures, common data exchange conditions, secure access and common training and outreach activities. In respect of requirements for data providers, data users and ITS service providers set out in the specifications, Member States shall also cooperate on practices for assessing compliance with those requirements, on developing mechanisms for compliance enforcement and on issues concerning cross-border cooperation.
+
+## Article 6 — Specifications
+
+1\. The Commission shall first adopt the specifications necessary to ensure the compatibility, interoperability and continuity for the deployment and operational use of ITS for the priority actions.
+
+2\. The Commission shall aim at adopting specifications for one or more of the priority actions by 27 February 2013.
+
+At the latest 12 months after the adoption of the necessary specifications for a priority action, the Commission shall, where appropriate, after conducting an impact assessment including a cost-benefit analysis, present a proposal to the European Parliament and the Council in accordance with Article 294 of the TFEU on the deployment of that priority action.
+
+3\. Once the necessary specifications for the priority actions have been adopted, the Commission shall adopt specifications ensuring compatibility, interoperability and continuity for the deployment and operational use of ITS for other actions in the priority areas.
+
+4\. Where relevant, and depending on the area covered by the specification, the specification shall include one or more of the following types of provisions:
+
+(a) functional provisions that describe the roles of the various stakeholders and the information flow between them;
+
+(b) technical provisions that provide for the technical means to fulfil the functional provisions;
+
+(c) organisational provisions that describe the procedural obligations of the various stakeholders;
+
+(d) service provisions that describe the various levels of services and their content for ITS applications and services.
+
+5\. Without prejudice to the procedures set out by Directive (EU) 2015/1535 of the European Parliament and of the Council ( 3 ), the specifications shall, where appropriate, state the situations in which Member States may, after notification to the Commission, establish additional rules for the provision of ITS services on all or part of their territory. Those rules shall not hinder interoperability.’
+
+6\. The specifications shall, where appropriate, be based on any of the standards referred to in Article 8.
+
+The specifications shall include rules for setting parameters related to quality and suitability for use. As appropriate, and in particular where justified in the interest of safety and interoperability, the specifications shall include rules on conformity assessment and market surveillance, including a safeguard clause, in accordance with Decision No 768/2008/EC.
+
+The Member States may designate one or more bodies competent to carry out the assessment of compliance with the requirements set out in the specifications, subject to any specific rules on assessment laid down therein.
+
+The specifications shall comply with the principles set out in Annex II.
+
+7\. The Commission shall conduct an impact assessment including a cost-benefit analysis prior to the adoption of the specifications.
+
+8\. The Commission shall adopt delegated acts in accordance with Article 12, laying down the specifications referred to in this Article. Those delegated acts shall not cover more than one priority area and shall be adopted for each of the priority actions.
+
+## Article 6a — Availability of data and deployment of ITS services
+
+1\. Member States shall ensure that, where the underlying information already exists, data are available for the geographical coverage for each data type set out in Annex III.
+
+Member States shall ensure that data corresponding to underlying information created or updated on or after the date set out in the third column of Annex III are made available without delay.
+
+Member States shall also ensure that, unless otherwise provided for in Annex III, other data corresponding to all existing underlying information, created or updated before the date set out in the fourth column of that Annex, are made available without delay after that date.
+
+Where no date is set out in the fourth column of Annex III, the applicable dates shall be defined by means of a delegated act adopted under Article 7.
+
+The deadlines pursuant to this paragraph shall apply only to existing infrastructure. For infrastructure completed at a later date, those deadlines shall be understood to be the dates of completion.
+
+Member States shall ensure the accessibility of those data via the NAPs by the same date.
+
+2\. Member States shall ensure that the ITS services specified in Annex IV are deployed for the geographical coverage as early as possible and, in any event, no later than the respective dates set out in that Annex.
+
+## Article 7 — Amendments to Annex III
+
+1\. Before adopting delegated acts under this Article, the Commission shall, as part of the recurrent consultation process and together with experts designated by Member States and with stakeholders, ascertain the maturity of descriptions for the digital content of data types which are to be made available in accordance with Article 6a and ensure the finalisation of appropriate preparatory work.
+
+1a. Following a cost-benefit analysis and appropriate consultations and taking into account market and technological development throughout the Union, the Commission shall be empowered to adopt delegated acts in accordance with Article 12 in order to amend Annex III by:
+
+(a) adding data types which fall within the scope of one of the data categories or subcategories referred to in Annex III and which are listed in the specifications established pursuant to Article 6(8), where the availability of such data types brings, according to a cost-benefit analysis, substantial and clearly justified benefits and improvements in terms of transport sustainability, transport safety and security, or transport efficiency and management, and defining the applicable dates;
+
+(b) where clearly justified, removing data types from Annex III;
+
+(c) defining the applicable dates for data types listed in Annex III for cases in which as of 20 December 2023 no dates have been defined.
+
+2\. The delegated acts adopted under paragraph 1a of this Article shall be consistent with the data types set out in the latest working programme adopted in accordance with Article 4a. Those delegated acts shall relate, where relevant, to the digital content defined in the framework of the preparatory work referred to in paragraph 1 of this Article. Those delegated acts shall not cover more than one priority area.
+
+3\. The geographical coverage for a data type as referred to in paragraph 1a, points (a) and (c), shall be either the same as or more limited than that defined in Annex III for the categories or subcategories to which the data type belongs, following, where relevant, a stepwise approach.
+
+4\. The dates set out in the delegated acts referred to in paragraph 1a, points (a) and (c), shall:
+
+(a) as regards the third column of Annex III, not be earlier than the date two years after the entry into force of the delegated act concerned and shall, where relevant, follow a stepwise approach;
+
+(b) as regards the fourth column of Annex III, not be earlier than the date four years after the entry into force of the delegated act concerned.
+
+In the event that Annex III already specifies a date in the third column, the date for the fourth column shall:
+
+(a) not be earlier than the date two years after the date specified in the third column and not earlier than the date two years after the entry into force of the delegated act concerned;
+
+(b) with respect to static multimodal traffic data for EU-wide multimodal travel information services (location of identified access nodes) on the entire transport network of the EU, not be earlier than 31 December 2032.
+
+However, where the availability of existing data corresponding to information created or updated before the date set out in the third column of Annex III is not considered to be necessary on the ground that the corresponding information is getting outdated quickly, the delegated acts adopted pursuant to paragraph 1a, points (a) and (c) of this Article, may indicate in the fourth column of Annex III that the obligation laid down in Article 6a(1), fourth subparagraph, is not to apply to such data.
+
+5\. When adopting delegated acts pursuant to this Article, the Commission shall take into account the requirements of Regulation (EU) 2016/679 and Directive 2002/58/EC, in particular relating to the risk of interference with personal data, and the costs and human resources needed to make the relevant data available with a sufficient level of quality in order to ensure that those interferences, costs and resources, in particular those incurred by public authorities, are kept to a minimum. The Commission shall also consider the costs and administrative burden on private operators which may be required to provide the data.
+
+## Article 7a — Interim measures
+
+1\. Without prejudice to incident preparedness and response mechanisms, such as those established under Directive (EU) 2016/1148 of the European Parliament and of the Council ( 4 ), the Commission may, at the request of a Member State or on its own initiative, in an emergency situation, adopt immediately applicable implementing acts laying down countermeasures to address the causes and consequences of that situation, such as the suspension of obligations within the scope of the priority areas set under Article 2. The Commission shall inform Member States as soon as possible when it considers that an emergency situation has occurred.
+
+2\. The Commission may adopt implementing acts in accordance with paragraph 1 only in the event of an unforeseen emergency situation arising from the availability or integrity of ITS services, which are the subject of specifications adopted in accordance with Article 6, being compromised, where such a situation is likely to compromise the safe and proper functioning of the Union transport system or has an adverse effect on road safety, and only where it cannot be expected that applying an incident response mechanism or modifying specifications in accordance with Article 6 will ensure a timely and effective response. The measures adopted by the Commission shall be strictly limited to addressing the causes and consequences of such emergency situations.
+
+3\. The adoption of interim measures in accordance with this Article is without prejudice to the competence of Member States to take action in an emergency situation relating to matters of national security or defence which affect ITS applications and services deployed on their territory.
+
+4\. The implementing acts referred to in paragraph 1 shall be adopted in accordance with the procedure referred to in Article 15(3). Those implementing acts shall have a period of validity of no more than 8 months. The Commission shall inform Member States when it considers that the emergency situation has ended. The Commission shall repeal those implementing acts once that situation has ended or when the Commission has amended the relevant specifications in order to remedy the situation, whichever comes first.
+
+## Article 8 — Standards
+
+1\. The necessary standards to provide for interoperability, compatibility and continuity for the deployment and operational use of ITS shall be developed in the priority areas and for the priority actions. To that effect, the Commission, after consulting the Committee referred to in Article 15, shall request the relevant standardisation bodies in accordance with the procedure laid down in Directive (EU) 2015/1535 of the European Parliament and of the Council ( 5 ) to make every necessary effort to adopt these standards rapidly.
+
+2\. When issuing a mandate to the standardisation bodies, the principles set out in Annex II shall be observed as well as any functional provisions included in a specification adopted in accordance with Article 6.
+
+## Article 9 — Non-binding measures
+
+The Commission may adopt guidelines and other non-binding measures to facilitate Member States' cooperation relating to the priority areas in accordance with the advisory procedure referred to in Article 15(2).
+
+## Article 10 — Rules on data protection and privacy
+
+1\. Data that constitute personal data as defined in Article 4, point (1), of Regulation (EU) 2016/679 of the European Parliament and of the Council ( 6 ) shall be processed pursuant to this Directive only insofar as such processing is necessary for the performance of ITS applications, services and actions identified in Annex I of this Directive with a view to ensuring road safety or security, and enhanced traffic, mobility or incident management.
+
+2\. Where specifications adopted pursuant to Article 6 concern the processing of data that are personal data as defined in Article 4, point (1), of Regulation (EU) 2016/679, they shall lay down the categories of those data and provide for appropriate personal data protection safeguards pursuant to Regulation (EU) 2016/679 and Directive 2002/58/EC. In such cases, the impact assessment referred to in Article 6(7) of this Directive shall include an analysis of the impact of such processing on the protection of natural persons with regard to the processing of personal data.
+
+3\. Where anonymisation is technically feasible, and the purposes of data processing can be achieved with anonymised data, anonymised data shall be used.
+
+4\. Where anonymisation is not technically feasible, or the purposes of data processing cannot be achieved with anonymised data, data shall be pseudonymised, provided that pseudonymisation is technically feasible and the purposes of data processing can be achieved with the use of pseudonymised data.
+
+## Article 10a — EU C-ITS security credential management system
+
+The specifications for the priority area referred to in Article 2(1), point (d), to be adopted by the Commission in the exercise of its powers pursuant to Article 6(8), shall cover the EU C-ITS security credential management system referred to in point 4.3 of Annex I. The specifications for that system shall lay down the duties of the following roles:
+
+(a) C-ITS certificate policy authority;
+
+(b) C-ITS trust list manager;
+
+(c) C-ITS point of contact.
+
+The Commission shall be responsible for ensuring that the duties of those roles are executed.
+
+## Article 11 — Rules on liability
+
+Member States shall ensure that issues related to liability, concerning the deployment and use of ITS applications and services set out in specifications adopted in accordance with Article 6, are addressed in accordance with Union law, including in particular Council Directive 85/374/EEC of 25 July 1985 on the approximation of the laws, regulations and administrative provisions of the Member States concerning liability for defective products ( 7 ) as well as relevant national legislation.
+
+## Article 12 — Exercise of the delegation
+
+1\. The power to adopt delegated acts is conferred on the Commission subject to the conditions laid down in this Article.
+
+2\. The power to adopt delegated acts referred to in Articles 6 and 7 shall be conferred on the Commission for a period of five years from 20 December 2023. The Commission shall draw up a report in respect of the delegation of power not later than nine months before the end of the five-year period. The delegation of power shall be tacitly extended for periods of an identical duration, unless the European Parliament or the Council opposes such extension not later than three months before the end of each period.
+
+3\. The delegation of power referred to in Articles 6 and 7 may be revoked at any time by the European Parliament or by the Council. A decision to revoke shall put an end to the delegation of the power specified in that decision. It shall take effect the day following the publication of the decision in the Official Journal of the European Union or at a later date specified therein. It shall not affect the validity of any delegated acts already in force.
+
+4\. Before adopting a delegated act, the Commission shall consult experts designated by each Member State in accordance with the principles laid down in the Interinstitutional Agreement of 13 April 2016 on Better Law-Making.
+
+5\. As soon as it adopts a delegated act, the Commission shall notify it simultaneously to the European Parliament and to the Council.
+
+6\. A delegated act adopted pursuant to Article 6 or 7 shall enter into force only if no objection has been expressed either by the European Parliament or by the Council within a period of two months of notification of that act to the European Parliament and the Council or if, before the expiry of that period, the European Parliament and the Council have both informed the Commission that they will not object. That period shall be extended by two months at the initiative of the European Parliament or of the Council.
+
+## Article 15 — Committee procedure
+
+1\. The Commission shall be assisted by the European ITS Committee (EIC). That committee shall be a committee within the meaning of Regulation (EU) No 182/2011 of the European Parliament and of the Council ( 8 ).
+
+2\. Where reference is made to this paragraph, Article 4 of Regulation (EU) No 182/2011 shall apply.
+
+3\. Where reference is made to this paragraph, Article 8 of Regulation (EU) No 182/2011, in conjunction with Article 5 thereof, shall apply.
+
+4\. Where reference is made to this paragraph, Article 5 of Regulation (EU) No 182/2011 shall apply.
+
+Where the committee delivers no opinion, the Commission shall not adopt the draft implementing act and the third subparagraph of Article 5(4) of Regulation (EU) No 182/2011 shall apply.
+
+## Article 16 — European ITS Advisory Group
+
+The Commission shall establish a European ITS Advisory Group to advise it on business and technical aspects of the deployment and use of ITS in the Union. The group shall be composed of high level representatives from relevant ITS service providers, associations of users, transport and facilities operators, manufacturing industry, social partners, professional associations, local authorities and other relevant fora.
+
+## Article 17 — Reporting
+
+1\. Member States shall submit to the Commission by 21 March 2025 a report on the implementation of this Directive and of the delegated acts adopted on the basis thereof, as well as on their main national activities and projects regarding the priority areas and regarding the availability of data and services listed in Annexes III and IV.
+
+2\. The Commission shall adopt implementing acts laying down the template for the initial and progress reports, including a list of key performance indicators for assessing the implementation of this Directive and of the delegated and implementing acts adopted on the basis thereof. Those implementing acts shall, in the light of the principle of proportionality and on the basis of best practices, distinguish between mandatory key performance indicators to be included in the reports and additional indicators that may be included in such reports where appropriate. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 15(4).
+
+3\. Following the initial report, Member States shall report every three years on the progress made in the implementation of this Directive and of the delegated and implementing acts adopted on the basis thereof. The Commission shall ensure that the deadlines for reporting laid down in the delegated acts adopted on the basis of Article 6 are aligned with that frequency.
+
+4\. No later than 12 months after each of the deadlines for Member State reports falls due, the Commission shall submit a report to the European Parliament and to the Council on the progress made in the implementation of this Directive and of the delegated acts adopted on the basis thereof. The report shall be accompanied by an analysis of the functioning and implementation, of Articles 5 to 11 and Article 16, including of the financial resources used and required. The report shall also assess the need to amend this Directive, where appropriate.
+
+## Article 18 — Transposition
+
+1\. Member States shall bring into force the laws, regulations and administrative provisions necessary to comply with this Directive by 27 February 2012.
+
+When Member States adopt those provisions, they shall contain a reference to this Directive or shall be accompanied by such reference on the occasion of their official publication. The methods of making such reference, and its wording, shall be laid down by Member States.
+
+2\. Member States shall communicate to the Commission the text of the main provisions of national law which they adopt in the field covered by this Directive.
+
+## Article 18a — Review
+
+By 31 December 2028, on the basis of the latest Commission report prepared in accordance with Article 17(4), the Commission shall review Article 6a, Article 7 and Annexes III and IV, and may, where appropriate, submit a proposal for amendment. In particular, the Commission may, on the basis of the progress made with regard to the availability and the accessibility of data and in the deployment of services, and taking into account their increased use through ITS applications, propose to adapt the geographical coverage of certain data types and services and add data types and services considered crucial for the further deployment of ITS.
+
+## Article 19 — Entry into force
+
+This Directive shall enter into force on the 20th day following its publication in the Official Journal of the European Union.
+
+## Article 20 — Addressees
+
+This Directive is addressed to the Member States.
+
+## ANNEX I — PRIORITY AREAS — (as referred to in Article 2)
+
+**1\. Priority area I: Information and mobility ITS services**
+
+The specifications and standards for information and mobility ITS services for passengers shall include the following:
+
+1.1. Specifications for EU-wide multimodal digital mobility services (including EU-wide multimodal travel information services)
+
+The definition of the necessary requirements to make EU-wide multimodal digital mobility services and similar services providing information, booking or purchasing features for more than one transport operator within the same mode of transport accurate and available across borders to ITS users, based on:
+
+1.1.1. the availability and accessibility of existing and accurate multimodal traffic and travel data, used for multimodal digital mobility services to ITS service providers without prejudice to safety and transport management constraints;
+
+1.1.2. the facilitation of the electronic data exchange between the relevant public authorities and stakeholders and the relevant ITS service providers, across borders, in particular through standardised interfaces;
+
+1.1.3. the timely updating by the relevant public authorities and stakeholders of available multimodal traffic and travel data, used for multimodal digital mobility services;
+
+1.1.4. the timely updating of multimodal travel information, including information related to booking and purchasing where relevant of transport services, by the ITS service providers.
+
+1.2. Specifications for EU-wide road traffic information and navigation services (including EU-wide real-time traffic information services)
+
+The definition of the necessary requirements to make EU-wide road traffic information and navigation services accurate and available across borders to ITS users, based on:
+
+1.2.1. the availability and accessibility of existing and accurate road and traffic data, including real-time data, used for real-time traffic information to ITS service providers and other relevant stakeholders, and for use in digital maps, without prejudice to safety and transport management constraints;
+
+1.2.2. the facilitation of the electronic data exchange between the relevant public authorities, stakeholders and the relevant ITS service providers, across borders, including feedback on quality of data;
+
+1.2.3. the timely updating of available road and traffic data used for real-time traffic information by the relevant public authorities and stakeholders;
+
+1.2.4. the timely updating of real-time traffic information to road users and other relevant stakeholders by the ITS service providers.
+
+1.3. Specifications for EU-wide multimodal digital mobility services and road traffic information and navigation services
+
+1.3.1. The definition of the necessary requirements for the collection by relevant public authorities and/or, where relevant, by the private sector of road and traffic data (i.e. traffic circulation plans, traffic regulations and recommended routes, notably for heavy goods vehicles) and for their provisioning to ITS service providers, based on:
+
+1.3.1.1. the availability and accessibility, to ITS service providers, of existing road and traffic data (i.e. traffic circulation plans, traffic regulations and recommended routes) collected by the relevant public authorities and/or the private sector;
+
+1.3.1.2. the facilitation of the electronic data exchange between the relevant public authorities and the ITS service providers and other relevant stakeholders;
+
+1.3.1.3. the timely updating, by the relevant public authorities and/or, where relevant, the private sector, of road and traffic data (i.e. traffic circulation plans, traffic regulations and recommended routes);
+
+1.3.1.4. the timely updating, by the ITS service providers, of the ITS services and applications using these road and traffic data.
+
+1.3.2. The definition of the necessary requirements to make road, traffic and relevant travel and multimodal infrastructure data used for digital maps accurate and available, where possible, to digital map producers and service providers, based on:
+
+1.3.2.1. the availability and accessibility of existing road, traffic and relevant travel and multimodal infrastructure data, including identified access nodes, used for digital maps to digital map producers and service providers;
+
+1.3.2.2. the facilitation of the electronic data exchange between the relevant public authorities and stakeholders and the private digital map producers and service providers;
+
+1.3.2.3. the timely updating of road and traffic data for digital maps by the relevant public authorities and stakeholders;
+
+1.3.2.4. the timely updating of the digital maps by the digital map producers and service providers.
+
+**2\. Priority area II: Travel, transport and traffic management ITS services**
+
+The specifications and standards for travel, transport and traffic management ITS services shall include the following:
+
+2.1. Specifications for enhanced traffic and incident management services
+
+The definition of the necessary requirements to support and harmonise enhanced traffic and incident management services, based on:
+
+2.1.1. the availability and accessibility of existing and accurate road and traffic data and data on accidents and incidents needed for traffic and incident management services;
+
+2.1.2. the facilitation of electronic data exchange, including freight data relevant for the traffic and incident management (e.g. carriage of dangerous goods, goods-related access restrictions, oversized carriages), between traffic management centres, traffic information centres, stakeholders and the relevant ITS service providers, across borders, in particular through standardised interfaces;
+
+2.1.3. the timely updating of available road and traffic data and data on accidents and incidents needed for enhanced traffic and incident management services by the relevant stakeholders;
+
+2.1.4. the availability and accessibility of data and synergies with other initiatives aimed at supporting multimodality, integration of modes and the facilitation of modal shift on the European transport network towards the most sustainable modes of transport, through the harmonisation and facilitation of data sharing ( 9 ).
+
+2.2. Specifications for mobility management services
+
+The definition of the necessary requirements to support the development of accurate mobility management services by public transport authorities, based on:
+
+2.2.1. the availability and accessibility, in a standardised format, of existing, accurate road and multimodal travel and traffic data needed for mobility management, to the relevant public authorities without prejudice to data protection requirements;
+
+2.2.2. the facilitation of electronic data exchange between the relevant public authorities and stakeholders and the relevant ITS service providers, across borders;
+
+2.2.3. the timely updating of available road and multimodal travel and traffic data needed for mobility management by the relevant public authorities and stakeholders.
+
+2.3. EU framework for ITS architecture
+
+The definition of the necessary measures to develop an EU ITS framework architecture, addressing specifically ITS-related interoperability, continuity of services and multimodality aspects, within which Member States and their competent authorities in cooperation with the private sector can develop their own ITS architecture for mobility at national, regional or local level.
+
+2.4. ITS applications and freight transport logistics
+
+The definition of the necessary requirements to support the realisation of ITS applications for freight transport logistics, in particular the tracking and tracing of freight and other visibility services along its journey and across modes of transport, based on:
+
+2.4.1. the availability of relevant ITS technologies to and their use by ITS application developers;
+
+2.4.2. the availability of cargo related data, accessible through other specific data sharing frameworks ( 10 )
+
+2.4.3. the integration of positioning results in the traffic management tools and centres.
+
+**3\. Priority area III: Road safety and security ITS services**
+
+The specifications and standards for road safety and security ITS services shall include the following:
+
+3.1. Specifications for the interoperable EU-wide eCall
+
+The definition of the necessary measures for the harmonised provision of an interoperable EU-wide eCall, including:
+
+3.1.1. the availability of the required in-vehicle ITS data to be exchanged;
+
+3.1.2. the availability of the necessary equipment in the emergency call response centres receiving the data emitted from the vehicles;
+
+3.1.3. the facilitation of the electronic data exchange between the vehicles and the emergency call response centres, including possible interaction with data in the scope of Regulation (EU) 2020/1056 and with e-CMR ( 11 ), for instance in the case of dangerous goods.
+
+3.2. Specifications for information and reservation services for safe and secure parking places for trucks and commercial vehicles
+
+The definition of the necessary measures to provide ITS based information and, where available, reservation services for safe and secure parking places for trucks and commercial vehicles, in particular in service and rest areas on roads, based on:
+
+3.2.1. the availability of the road parking information to users;
+
+3.2.2. the facilitation of the electronic data exchange between road parking sites and spaces, centres and vehicles;
+
+3.2.3. the integration of relevant ITS technologies in both vehicles and road parking facilities to update the information on available parking space for reservation purposes.
+
+3.3. Specifications for road safety-related minimum universal traffic information
+
+The definition of minimum requirements, for road safety-related ‘universal traffic information’ provided, where possible, free of charge to all users, as well as their minimum content, based on:
+
+3.3.1. the availability and accessibility of accurate data on safety-related events and conditions needed for safety-related traffic information and incident management services;
+
+3.3.2. the deployment or use of the means to detect or identify safety-related events and conditions;
+
+3.3.3. the identification and use of a standardised list of safety-related traffic events (‘universal traffic messages’) which should be communicated to ITS users free of charge;
+
+3.3.4. the compatibility and the integration of ‘universal traffic messages’ into ITS services for real-time traffic and multimodal travel information.
+
+3.4. Specifications for other actions
+
+3.4.1. The definition of the necessary measures to support the safety of road users with respect to their on-board Human-Machine Interface and the use of nomadic devices including cell phones, to support the driving task and/or the transport operation, as well as the security of the in-vehicle communications which fall outside the scope of Regulations (EU) No 167/2013 ( 12 ), (EU) No 168/2013 ( 13 ) and (EU) 2018/858 ( 14 ) of the European Parliament and of the Council.
+
+3.4.2. The definition of the necessary measures to improve the safety and comfort of vulnerable road users for all relevant ITS applications which fall outside the scope of Regulations (EU) No 167/2013, (EU) No 168/2013 and (EU) 2018/858.
+
+3.4.3. The definition of the necessary measures to integrate advanced driver support information systems into vehicles and road infrastructure which fall outside the scope of Regulations (EU) No 167/2013, (EU) No 168/2013 and (EU) 2018/858.
+
+3.4.4. The definition of the necessary measures to facilitate the exchange of information between services providers of security ITS applications, such as support to recover stolen vehicles or goods, and relevant public authorities, taking due account of other existing and emerging frameworks aimed at facilitating data sharing in mobility and transport which fall outside the scope of Regulations (EU) No 167/2013, (EU) No 168/2013 and (EU) 2018/858.
+
+**4\. Priority area IV: ITS services for cooperative, connected and automated mobility**
+
+The specifications and standards for linking vehicles with the transport infrastructure, raising awareness and enabling highly automated mobility services, shall include the following, without prejudice to specifications and standards in Regulations (EU) No 167/2013, (EU) No 168/2013 and (EU) 2018/858:
+
+4.1. The definition of necessary measures to further progress the development and implementation of cooperative (vehicle-vehicle, vehicle-infrastructure, infrastructure-infrastructure) intelligent transport systems, in particular to support CCAM, based on:
+
+4.1.1. the facilitation of the exchange of data or information between vehicles, between infrastructures and between vehicles and infrastructures and between other road users and vehicles and infrastructures;
+
+4.1.2. the availability of the relevant data or information to be exchanged to the respective vehicle or road infrastructure parties;
+
+4.1.3. the use of a standardised message format for the exchange of data or information between the vehicle and the infrastructure;
+
+4.1.4. the definition of an accurate and reliable communication infrastructure for data or information exchange between vehicles, between infrastructures and between vehicles and infrastructures;
+
+4.1.5. the use of standardisation processes to adopt the respective architectures.
+
+4.2. Specifications for services
+
+4.2.1. C-ITS information and warning services based on status data that increase the awareness of transport users of upcoming traffic situations;
+
+4.2.2. C-ITS information and warning services based on observations that further increase the awareness of transport users on upcoming traffic situations, including non-connected transport users;
+
+4.2.3. C-ITS services based on intentions that allow vehicles to deal with complex traffic scenarios and enable highly automated driving;
+
+4.2.4. C-ITS infrastructure services to support automated driving.
+
+4.3. Specifications for the EU C-ITS security credential management system
+
+4.3.1. certificate policy for the management of public key certificates for C-ITS services;
+
+4.3.2. laying down the role of the C-ITS certificate policy authority, the C-ITS trust list manager and the C-ITS point of contact;
+
+4.3.3. security policy for the management of information security in C-ITS.
+
+## ANNEX II — PRINCIPLES FOR SPECIFICATIONS AND DEPLOYMENT OF ITS — (as referred to in Articles 5, 6, 7 and 8)
+
+The adoption of specifications, the issuing of mandates for standards and the selection and deployment of ITS applications and services shall be based upon an evaluation of needs involving all relevant stakeholders, and shall comply with the following principles. These measures shall:
+
+| (a) | be effective | – | make a tangible contribution towards solving the key challenges affecting road transportation in Europe (e.g. reducing congestion, addressing emergency situations and weather phenomena, lowering of emissions, improving energy efficiency, attaining higher levels of safety and security including vulnerable road users); |
+| --- | --- | --- | --- |
+| (b) | be cost-efficient | – | optimise the ratio of costs in relation to output with regard to meeting objectives; |
+| (c) | be proportionate | – | provide, where appropriate, for different levels of achievable service quality and deployment, taking into account the local, regional, national and European specificities; |
+| (d) | support continuity of services | – | ensure seamless services across the Union, in particular on the trans-European network, and where possible at its external borders, when ITS services are deployed. Continuity of services should be ensured at a level adapted to the characteristics of the transport networks linking countries with countries, and where appropriate, regions with regions and cities with rural areas; |
+| (e) | deliver interoperability | – | ensure that systems applications, services, and the underlying business processes have the capacity to exchange data and to share information and knowledge in a standardised format to enable effective ITS service delivery; |
+| (f) | support backward compatibility | – | ensure, where justified, the capability for ITS systems to work with existing systems that share a common purpose, without hindering the development of new technologies and while supporting, where relevant, the complementarity with or transition to new technologies; |
+| (g) | respect existing national infrastructure and network characteristics | – | take into account the inherent differences in the transport network characteristics, in particular in the sizes of the traffic volumes and in road weather conditions and the specificities of infrastructures; |
+| (h) | promote equality of access | – | do not impede or discriminate against access to ITS applications and services by vulnerable road users. Where relevant, be accessible for persons with disabilities in line with the accessibility requirements of Annex I of Directive (EU) 2019/882 when the ITS applications and services are meant to interface or provide information to ITS users with disabilities; be user-friendly towards persons with limited digital knowledge; |
+| (i) | support maturity | – | demonstrate, after appropriate risk assessment, including where appropriate tests under real life conditions, across vehicle and device manufacturers and infrastructure providers, the robustness of innovative ITS systems, through a sufficient level of technical development and operational exploitation; |
+| (j) | deliver quality of timing and positioning | – | ensure the compatibility of ITS applications and services, which rely on timing or positioning, with at least the navigation services provided by the Galileo, including Open Service Navigation Message Authentication and other Galileo services such as the High Accuracy Service, when such service becomes available, and the European Geostationary Navigation Overlay Service (EGNOS) systems. Where appropriate, ensure that ITS applications and services relying on Earth observation data use Copernicus data, information or services. Other data and services may additionally be used in addition to Copernicus data; |
+| (k) | facilitate intermodality | – | take into account the coordination of various modes of transport, where appropriate, when deploying ITS; |
+| (l) | respect coherence | – | take into account existing Union rules, policies and activities which are relevant in the field of ITS, in particular in the field of standardisation and, for specifications, the principle of technological neutrality as laid down in Directive (EU) 2018/1972; |
+| (m) | deliver transparency and trust | – | deliver transparency, for instance by ensuring transparency of ranking, including on environmental effects, when proposing mobility options to the customers. |
+
+## ANNEX III — List of data types
+
+<tbody><tr><td>Data type</td><td>Geographical coverage</td><td>Date referred in Article 6a(1), second subparagraph</td><td>Date referred in Article 6a(1), third subparagraph</td></tr>
+<tr><td colspan="4">1. Data relating to the provision of EU-wide road traffic information and navigation services (as referred to in Annex I, Priority area I, paragraphs 1.2, 1.3):</td></tr>
+<tr><td colspan="4">1.1. Category: Static and dynamic traffic regulations, where applicable, concerning:</td></tr>
+<tr><td rowspan="2">Subcategory: — access conditions for tunnels  — access conditions for bridges  — speed limits  — overtaking bans on heavy goods vehicles  — weight/length/width/height restrictions </td><td>The trans-European core network for roads</td><td>31 December 2025</td><td>31 December 2027</td></tr>
+<tr><td>The comprehensive trans-European network for roads, other motorways and sections of primary roads, where the total annual average daily traffic is more than 8 500 vehicles, and all roads in the cities at the centre of each Urban Node as defined in Article 3, point (p), of Regulation (EU) No 1315/2013 of the European Parliament and of the Council (1) and listed in that Regulation, including those administered by the cities. The Member State may choose to limit the coverage in cities at the centre of Urban Nodes to streets where the annual average daily traffic is more than 7 000 vehicles. The Member State taking that decision shall notify the Commission thereof by 31 December 2026</td><td>31 December 2026</td><td>31 December 2028</td></tr>
+<tr><td>Subcategory: — one-way streets </td><td>Road infrastructure in the cities at the centre of each Urban Node as defined in Article 3, point (p), of Regulation (EU) No 1315/2013</td><td>31 December 2025</td><td>31 December 2027</td></tr>
+<tr><td>Subcategory: — freight delivery regulations </td><td>Road infrastructure in the cities at the centre of each Urban Node as defined in Article 3, point (p), of Regulation (EU) No 1315/2013</td><td>31 December 2026</td><td>Delegated acts to be adopted pursuant to Article 7(1a), points (a), (b) and(c)</td></tr>
+<tr><td>Subcategory: — direction of travel on reversable lanes </td><td>The core and comprehensive trans-European network for roads, other motorways and sections of primary roads, where the total annual average daily traffic is more than 8 500 vehicles, and all roads in the cities at the centre of each Urban Node as defined in Article 3, point (p), of Regulation (EU) No 1315/2013 and listed in that Regulation, including those administered by the cities. The Member State may choose to limit the coverage in cities at the centre of Urban Nodes to streets where the annual average daily traffic is more than 7 000 vehicles. The Member State taking that decision shall notify the Commission thereof by 31 December 2026</td><td>31 December 2026</td><td>Delegated acts to be adopted pursuant to Article 7(1a), points (a), (b) and(c)</td></tr>
+<tr><td>Subcategory: — traffic circulations plans </td><td>The core and comprehensive trans-European network for roads, other motorways and sections of primary roads, where the total annual average daily traffic is more than 8 500 vehicles, and all roads in the cities at the centre of each Urban Node as defined in Article 3, point (p), of Regulation (EU) No 1315/2013 and listed in that Regulation, including those administered by the cities. The Member State may choose to limit the coverage in cities at the centre of Urban Nodes to streets where the annual average daily traffic is more than 7 000 vehicles. The Member State taking that decision shall notify the Commission thereof by 31 December 2028</td><td>31 December 2028</td><td>Delegated acts to be adopted pursuant to Article 7(1a), points (a), (b) and (c)</td></tr>
+<tr><td>Subcategory: — permanent access restrictions </td><td>The core and comprehensive trans-European network for roads, other motorways and sections of primary roads, where the total annual average daily traffic is more than 8 500 vehicles, and all roads in the cities at the centre of each Urban Node as defined in Article 3, point (p), of Regulation (EU) No 1315/2013 and listed in that Regulation, including those administered by the cities. The Member State may choose to limit the coverage in cities at the centre of Urban Nodes to streets where the annual average daily traffic is more than 7 000 vehicles. The Member State taking that decision shall notify the Commission thereof by 31 December 2026</td><td>31 December 2026</td><td>Delegated acts to be adopted pursuant to Article 7(1a), points (a), (b) and (c)</td></tr>
+<tr><td>Subcategory: — boundaries of restrictions, prohibitions or obligations with zonal validity, current access status and conditions for circulation in regulated traffic zones </td><td>The core and comprehensive trans-European network for roads, other motorways and sections of primary roads, where the total annual average daily traffic is more than 8 500 vehicles, and all roads in the cities at the centre of each Urban Node as defined in Article 3, point (p), of Regulation (EU) No 1315/2013 and listed in that Regulation, including those administered by the cities. The Member State may choose to limit the coverage in cities at the centre of Urban Nodes to streets where the annual average daily traffic is more than 7 000 vehicles. The Member State taking that decision shall notify the Commission thereof by 31 December 2026</td><td>31 December 2026</td><td>Delegated acts to be adopted pursuant to Article 7(1a), points (a), (b) and (c)</td></tr>
+<tr><td colspan="4">1.2. Types of data on the state of the network:</td></tr>
+<tr><td rowspan="2">Subcategory: — road closures  — lane closures  — roadworks </td><td>The trans-European core network for roads</td><td>31 December 2025</td><td>Not applicable (note 1)</td></tr>
+<tr><td>The comprehensive trans-European network for roads</td><td>31 December 2026</td><td>Not applicable (note 1)</td></tr>
+<tr><td>Subcategory: — temporary traffic management measures </td><td>The trans-European core and comprehensive network for roads</td><td>31 December 2028</td><td>Not applicable (note 1)</td></tr>
+<tr><td colspan="4">2. Data relating to information and reservation services for safe and secure parking places for trucks and commercial vehicles (as referred to in Annex I, Priority area III, paragraph 3.2):</td></tr>
+<tr><td rowspan="2">Category: static data Subcategory:  — static data related to the parking areas  — information on safety and equipment of the parking area </td><td>The trans-European core network for roads</td><td>31 December 2025</td><td>31 December 2026</td></tr>
+<tr><td>The comprehensive trans-European network for roads</td><td>31 December 2026</td><td>31 December 2027</td></tr>
+<tr><td>Category: dynamic data Subcategory:  — dynamic data on availability of parking places including whether a parking is: full, closed or number of free places available. </td><td>The trans-European core and comprehensive network for roads</td><td>31 December 2027</td><td>Not applicable (note 1)</td></tr>
+<tr><td colspan="4">3. Data on detected road safety-related events or conditions relating to road-safety-related minimum universal traffic information (as referred to in Annex I, Priority area III, paragraph 3.3):</td></tr>
+<tr><td>Category: dynamic data Subcategory:  — temporary slippery road  — animal, people, obstacles, debris on the road  — unprotected accident area  — short-term road works  — wrong-way driver  — unmanaged blockage of a road </td><td>The core and comprehensive trans-European network for roads and other motorways not included in that network</td><td>31 December 2025</td><td>Not applicable (note 1)</td></tr>
+<tr><td>Subcategory: — reduced visibility  — exceptional weather conditions </td><td>The core and comprehensive trans-European network for roads and other motorways not included in that network</td><td>31 December 2026</td><td>Not applicable (note 1)</td></tr>
+<tr><td colspan="4">4. Static multimodal traffic data for EU-wide multimodal travel information services (as referred to in Annex I, Priority area I, paragraphs 1.1 and 1.3):</td></tr>
+<tr><td rowspan="2">Category Location of identified access nodes for all scheduled modes, including information on accessibility of access nodes and paths within an interchange (such as existence of lifts, escalators) </td><td>Urban nodes as defined in Article 3, point (p), of Regulation (EU) No 1315/2013 and listed in that Regulation, including those administered by the cities</td><td>31 December 2026</td><td>Delegated acts to be adopted pursuant to Article 7(1a), points (a), (b) and(c)</td></tr>
+<tr><td>The entire transport network of the Union</td><td>31 December 2028</td><td>Delegated acts to be adopted pursuant to Article 7(1a), points (a), (b) and (c)</td></tr>
+<tr><td colspan="4">(1)  Regulation (EU) No 1315/2013 of the European Parliament and of the Council of 11 December 2013 on Union guidelines for the development of the trans-European transport network and repealing Decision No 661/2010/EU (OJ L 348, 20.12.2013, p. 1). </td></tr>
+</tbody>
+
+NOTE 1: ‘Not applicable: no obligation to make the data created or updated before the date set out in the third column of this Annex available pursuant to Article 6a(1)’.
+
+## ANNEX IV — List of ITS services
+
+| Service | Geographical coverage | Date |
+| --- | --- | --- |
+| Road safety-related minimum universal traffic information (SRTI) service as referred to in Annex I, priority area III, paragraph 3.3 | The core and comprehensive trans-European network for roads | 31 December 2026 |
+
+( 1 ) Regulation (EU) No 1025/2012 of the European Parliament and of the Council of 25 October 2012 on European standardisation, amending Council Directives 89/686/EEC and 93/15/EEC and Directives 94/9/EC, 94/25/EC, 95/16/EC, 97/23/EC, 98/34/EC, 2004/22/EC, 2007/23/EC, 2009/23/EC and 2009/105/EC of the European Parliament and of the Council and repealing Council Decision 87/95/EEC and Decision No 1673/2006/EC of the European Parliament and of the Council (OJ L 316, 14.11.2012, p. 12).
+
+( 2 ) Commission Decision of 4 May 2011 on setting up the European ITS Advisory Group (2011/C 135/03), (OJ C 135, 5.5.2011, p. 3).
+
+( 3 ) Directive (EU) 2015/1535 of the European Parliament and of the Council of 9 September 2015 laying down a procedure for the provision of information in the field of technical regulations and of rules on Information Society services (OJ L 241, 17.9.2015, p. 1).
+
+( 4 ) Directive (EU) 2016/1148 of the European Parliament and of the Council of 6 July 2016 concerning measures for a high common level of security of network and information systems across the Union (OJ L 194, 19.7.2016, p. 1).
+
+( 5 ) Directive (EU) 2015/1535 of the European Parliament and of the Council of 9 September 2015 laying down a procedure for the provision of information in the field of technical regulations and of rules on Information Society services (OJ L 241, 17.9.2015, p. 1).
+
+( 6 ) Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation) (OJ L 119, 4.5.2016, p. 1).;
+
+( 7 ) OJ L 210, 7.8.1985, p. 29.
+
+( 8 ) Regulation (EU) No 182/2011 of the European Parliament and of the Council of 16 February 2011 laying down the rules and general principles concerning mechanisms for control by Member States of the Commission’s exercise of implementing powers (OJ L 55, 28.2.2011, p. 13).
+
+( 9 ) Such as Regulation (EU) 2020/1056 of the European Parliament and of the Council of 15 July 2020 on electronic freight transport information (OJ L 249, 31.7.2020, p. 33), and the work pursued by the Digital Transport and Logistics Forum (DTLF).
+
+( 10 ) Such as Regulation (EU) 2020/1056.
+
+( 11 ) Additional Protocol to the Convention on the Contract for the International Carriage of Goods by Road (CMR) concerning the electronic consignment note.
+
+( 12 ) Regulation (EU) No 167/2013 of the European Parliament and of the Council of 5 February 2013 on the approval and market surveillance of agricultural and forestry vehicles (OJ L 60, 2.3.2013, p. 1).
+
+( 13 ) Regulation (EU) No 168/2013 of the European Parliament and of the Council of 15 January 2013 on the approval and market surveillance of two- or three-wheel vehicles and quadricycles (OJ L 60, 2.3.2013, p. 52).
+
+( 14 ) Regulation (EU) 2018/858 of the European Parliament and of the Council of 30 May 2018 on the approval and market surveillance of motor vehicles and their trailers, and of systems, components and separate technical units intended for such vehicles, amending Regulations (EC) No 715/2007 and (EC) No 595/2009 and repealing Directive 2007/46/EC (OJ L 151, 14.6.2018, p. 1).

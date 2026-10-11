@@ -1,0 +1,555 @@
+---
+title: "Council Directive 2008/7/EC of 12 February 2008 concerning indirect taxes on the raising of capital"
+identifier: "32008L0007"
+eli: "http://data.europa.eu/eli/dir/2008/7/oj"
+type: directive
+jurisdiction: eu
+language: en
+date: 2008-02-12
+entry_into_force: 2008-04-08
+last_amended: 2013-07-01
+consolidated_version: "02008L0007-20130701"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02008L0007-20130701"
+retrieved: 2026-10-11
+---
+
+# Council Directive 2008/7/EC of 12 February 2008 concerning indirect taxes on the raising of capital
+
+**COUNCIL DIRECTIVE 2008/7/EC**
+
+**of 12 February 2008**
+
+**concerning indirect taxes on the raising of capital**
+
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> COUNCIL DIRECTIVE 2013/13/EU of 13 May 2013 </td><td> L 141</td><td>30</td><td>28.5.2013</td></tr>
+
+**COUNCIL DIRECTIVE 2008/7/EC**
+
+**of 12 February 2008**
+
+**concerning indirect taxes on the raising of capital**
+
+## CHAPTER I — SUBJECT MATTER AND SCOPE
+
+### Article 1 — Subject matter
+
+This Directive regulates the levying of indirect taxes in respect of the following:
+
+(a) contributions of capital to capital companies;
+
+(b) restructuring operations involving capital companies;
+
+(c) the issue of certain securities and debentures.
+
+### Article 2 — Capital company
+
+1\. For the purposes of this Directive ‘capital company’ means:
+
+(a) any company which takes one of the forms listed in Annex I;
+
+(b) any company, firm, association or legal person the shares in whose capital or assets can be dealt in on a stock exchange;
+
+(c) any company, firm, association or legal person operating for profit, whose members have the right to dispose of their shares to third parties without prior authorisation and are only responsible for the debts of the company, firm, association or legal person to the extent of their shares.
+
+2\. For the purposes of this Directive, any other company, firm, association or legal person operating for profit shall be deemed to be a capital company.
+
+### Article 3 — Contributions of capital
+
+For the purposes of this Directive and subject to Article 4, the following transactions shall be considered to be ‘contributions of capital’:
+
+(a) the formation of a capital company;
+
+(b) the conversion into a capital company of a company, firm, association or legal person which is not a capital company;
+
+(c) an increase in the capital of a capital company by contribution of assets of any kind;
+
+(d) an increase in the assets of a capital company by contribution of assets of any kind, in consideration not of shares in the capital or assets of the company, but of rights of the same kind as those of members, such as voting rights, a share in the profits or a share in the surplus upon liquidation;
+
+(e) the transfer from a third country to a Member State of the centre of effective management of a capital company whose registered office is in a third country;
+
+(f) the transfer from a third country to a Member State of the registered office of a capital company whose centre of effective management is in a third country;
+
+(g) an increase in the capital of a capital company by capitalisation of profits or of permanent or temporary reserves;
+
+(h) an increase in the assets of a capital company through the provision of services by a member which does not entail an increase in the company’s capital, but which does result in a variation in the rights in the company or which may increase the value of the company’s shares;
+
+(i) a loan taken up by a capital company, if the creditor is entitled to a share in the profits of the company;
+
+(j) a loan taken up by a capital company with a member or a member’s spouse or child, or a loan taken up with a third party, if it is guaranteed by a member, on condition that such loans have the same function as an increase in the company’s capital.
+
+### Article 4 — Restructuring operations
+
+1\. For the purposes of this Directive, the following restructuring operations shall not be considered to be contributions of capital:
+
+(a) the transfer by one or more capital companies of all their assets and liabilities, or one or more branches of activity to one or more capital companies which are in the process of being formed or which are already in existence, provided that the consideration for the transfer consists at least in part of securities representing the capital of the acquiring company;
+
+(b) the acquisition, by a capital company which is in the process of being formed or which is already in existence, of shares representing a majority of the voting rights of another capital company, provided that the consideration for the shares acquired consists at least in part of securities representing the capital of the former company. Where the majority of the voting rights is reached by means of two or more transactions, only the transaction whereby the majority of voting rights is reached and any subsequent transactions shall be regarded as restructuring operations.
+
+2\. Restructuring operations shall also include the transfer to a capital company of all assets and liabilities of another capital company which is wholly owned by the former company.
+
+## CHAPTER II — GENERAL PROVISIONS
+
+### Article 5 — Transactions not subject to indirect tax
+
+1\. Member States shall not subject capital companies to any form of indirect tax whatsoever in respect of the following:
+
+(a) contributions of capital;
+
+(b) loans, or the provision of services, occurring as part of contributions of capital;
+
+(c) registration or any other formality required before the commencement of business to which a capital company may be subject by reason of its legal form;
+
+(d) alteration of the constituent instrument or regulations of a capital company, and in particular the following:
+
+(i) the conversion of a capital company into a different type of capital company;
+
+(ii) the transfer from a Member State to another Member State of the centre of effective management or of the registered office of a capital company;
+
+(iii) a change in the objects of a capital company;
+
+(iv) the extension of the period of existence of a capital company;
+
+(e) the restructuring operations referred to in Article 4.
+
+2\. Member States shall not subject the following to any form of indirect tax whatsoever:
+
+(a) the creation, issue, admission to quotation on a stock exchange, making available on the market or dealing in stocks, shares or other securities of the same type, or of the certificates representing such securities, by whomsoever issued;
+
+(b) loans, including government bonds, raised by the issue of debentures or other negotiable securities, by whomsoever issued, or any formalities relating thereto, or the creation, issue, admission to quotation on a stock exchange, making available on the market or dealing in such debentures or other negotiable securities.
+
+### Article 6 — Duties and value added tax
+
+1\. Notwithstanding Article 5, Member States may charge the following duties and taxes:
+
+(a) duties on the transfer of securities, whether charged at a flat rate or not;
+
+(b) transfer duties, including land registration taxes, on the transfer, to a capital company, of businesses or immovable property situated within their territory;
+
+(c) transfer duties on assets of any kind transferred to a capital company, insofar as such property is transferred for a consideration other than shares in the company;
+
+(d) duties on the creation, registration or discharge of mortgages or other charges on land or other property;
+
+(e) duties in the form of fees or dues;
+
+(f) value added tax.
+
+2\. The amount charged by way of the duties and taxes listed in points (b) to (e) of paragraph 1 shall not vary according to whether or not the centre of effective management or the registered office of the capital company is situated within the territory of the Member State charging the duties or taxes. Those amounts may not exceed those of duties or taxes applicable to like transactions which take place within the Member State charging them.
+
+## CHAPTER III — SPECIAL PROVISIONS
+
+### Article 7 — Levying of capital duty in certain Member States
+
+1\. Notwithstanding Article 5(1)(a), a Member State which as at 1 January 2006 charged a duty on contributions of capital to capital companies, hereinafter ‘capital duty’, may continue to do so provided that it complies with Articles 8 to 14.
+
+2\. If, at any time after 1 January 2006, a Member State discontinues the charging of capital duty, it may not reintroduce it.
+
+3\. If, at any time after 1 January 2006, a Member State discontinues the charging of capital duty on the contributions of capital referred to in Article 3(g) to (j), it may not reintroduce capital duty on such contributions of capital, notwithstanding Article 10(2).
+
+4\. If, at any time after 1 January 2006, a Member State discontinues the charging of capital duty on the supplying of fixed or working capital to a branch, it may not reintroduce duty on the contributions of capital concerned, notwithstanding Article 10(4).
+
+5\. If, at any time after 1 January 2006, a Member State allows exemptions under Article 13, it may not subsequently charge capital duty on the contributions of capital concerned.
+
+### Article 8 — Rate of capital duty
+
+1\. Capital duty shall be charged at a single rate.
+
+2\. The rate of capital duty applied by a Member State may not exceed the rate applied by that Member State on 1 January 2006.
+
+Where, after that date, the Member State reduces the rate applied, it may not reintroduce a higher rate.
+
+3\. The rate of capital duty may not in any event exceed 1 %.
+
+### Article 9 — Exclusion of certain entities from the scope of application
+
+Member States may for the purposes of levying capital duty choose not to regard as capital companies the entities referred to in Article 2(2).
+
+### Article 10 — Transactions subject to capital duty and distribution of taxing rights
+
+1\. Where, pursuant to Article 7(1), a Member State continues to charge capital duty, it shall subject to capital duty the contributions of capital referred to in Article 3(a) to (d), if the centre of effective management of the capital company is situated in that Member State at the time when the contribution of capital is made.
+
+It shall also subject to capital duty the contributions of capital referred to in Article 3(e) and (f).
+
+2\. Where a Member State continues to charge capital duty, it may do so on the contributions of capital referred to in Article 3(g) to (j), if the centre of effective management of the capital company is situated in that Member State at the time when the contribution of capital is made.
+
+3\. Where the centre of effective management of a capital company is situated in a third country and its registered office is situated in a Member State which continues to charge capital duty, contributions of capital shall be subject to capital duty in that Member State.
+
+4\. Where the registered office and the centre of effective management of a capital company are situated in a third country, the supply of fixed or working capital to a branch situated in a Member State which continues to charge capital duty may be subject to capital duty in that Member State.
+
+### Article 11 — Basis of assessment for capital duty
+
+1\. In the case of contributions of capital as referred to in Article 3(a), (c) and (d), the basis of assessment for capital duty shall be the actual value of assets of any kind contributed or to be contributed by the members, after the deduction of liabilities assumed and of expenses borne by the company as a result of each contribution.
+
+The charging of capital duty may be postponed until the contributions have been effected.
+
+2\. In the case of contributions of capital as referred to in Article 3(b), (e) and (f), the basis of assessment for capital duty shall be the actual value of the assets of any kind belonging to the company at the time of the conversion or transfer, after the deduction of liabilities and expenses for which the company is responsible at that time.
+
+3\. In the case of contributions of capital as referred to in Article 3(g), the basis of assessment for capital duty shall be the nominal amount of the increase.
+
+4\. In the case of contributions of capital as referred to in Article 3(h), the basis of assessment for capital duty shall be the actual value of the services provided, after deduction of the liabilities assumed and the expenses borne by the company as a result of the provision of such services.
+
+5\. In the case of contributions of capital as referred to in Article 3(i) and (j), the basis of assessment for capital duty shall be the nominal amount of the loan taken up.
+
+6\. In the cases referred to in paragraphs 1 and 2, the actual value of the shares in the company allotted or belonging to each member may be used as the basis of assessment for capital duty, except where contributions are made only in cash.
+
+The amount on which duty is charged shall in no circumstances be less than the nominal amount of the shares in the company allotted or belonging to each member.
+
+### Article 12 — Exclusion from the basis of assessment for capital duty
+
+1\. In the case of an increase in capital, the basis of assessment for capital duty shall not include the following:
+
+(a) the amount of the assets belonging to the capital company which are allocated to the increase in capital and which have already been subjected to capital duty;
+
+(b) the amount of the loans taken up by the capital company which are converted into shares in the company and which have already been subjected to capital duty.
+
+2\. A Member State may exclude from the basis of assessment for capital duty the amount of the capital contributed by a member with unlimited liability for the obligations of a capital company as well as the share of such a member in the company’s assets.
+
+Where a Member State exercises that power, any transaction as a result of which the liability of a member is limited to his share in the company’s capital, in particular when the limitation of liability results from the conversion of a capital company into a different type of capital company, shall be subject to capital duty.
+
+Capital duty shall be charged in all such cases on the value of the share in the company’s assets belonging to members with unlimited liability for the company’s obligations.
+
+3\. In the case of a contribution of capital as referred to in Article 3(c), following a reduction in the company’s capital as a result of losses sustained, that part of the contribution of capital which corresponds to the reduction in capital may be excluded from the basis of assessment, provided that the contribution of capital occurs within four years of the reduction in capital.
+
+### Article 13 — Exemption of contributions of capital to certain capital companies
+
+Member States may exempt from capital duty contributions of capital made to the following:
+
+(a) capital companies which supply public services, such as public transport undertakings, port authorities or undertakings supplying water, gas or electricity, in cases where the State or regional or local authorities own at least half of the company’s capital;
+
+(b) capital companies which, in accordance with their regulations and in fact, pursue exclusively and directly cultural, social, relief or educational objectives.
+
+Member States which exempt such contributions of capital from capital duty shall also apply the exemption to the supply of fixed or working capital to a branch within its territory as referred to in Article 10(4).
+
+### Article 14 — Derogation procedure
+
+Certain types of contributions of capital or of capital companies may be the subject of exemptions or reductions in rates in order to achieve fairness in taxation, or for social considerations, or to enable a Member State to deal with special situations.
+
+The Member State which proposes to take such a measure shall refer the matter to the Commission in good time, having regard to the application of Article 97 of the Treaty.
+
+## CHAPTER IV — FINAL PROVISIONS
+
+### Article 15 — Transposition
+
+1\. Member States shall bring into force the laws, regulations and administrative provisions necessary to comply with Articles 3, 4, 5, 7, 8, 12, 13 and 14 by 31 December 2008 at the latest. They shall forthwith communicate to the Commission the texts of those provisions and a correlation table between those provisions and this Directive.
+
+When they are adopted by Member States, these measures shall contain a reference to this Directive or shall be accompanied by such reference on the occasion of their official publication. They shall also include a statement that references in existing laws, regulations and administrative provisions to the directives repealed by this Directive shall be construed as references to this Directive. The methods of making such reference and how that statement is to be formulated shall be laid down by Member States.
+
+2\. Member States shall communicate to the Commission the text of the main provisions of national law which they adopt in the field covered by this Directive.
+
+### Article 16 — Repeal
+
+Directive 69/355/EEC, as amended by the Directives listed in Part A of Annex II, is repealed with effect from 1 January 2009, without prejudice to the obligations of the Member States relating to the time limits for transposition into national law of the Directives set out in Part B of Annex II.
+
+References to the repealed Directive shall be construed as references to this Directive and shall be read in accordance with the correlation table in Annex III.
+
+### Article 17 — Review
+
+The Commission shall report to the Council every three years on the operation of this Directive notably with the view to abolish capital duty. In order to assist the Commission with the review, Member States shall provide the Commission with information in respect of the revenue from capital duty.
+
+### Article 18 — Entry into force
+
+This Directive shall enter into force on the 20th day following its publication in the Official Journal of the European Union.
+
+Articles 1, 2, 6, 9, 10 and 11 shall apply from 1 January 2009.
+
+### Article 19 — Addressees
+
+This Directive is addressed to the Member States.
+
+## ANNEX I
+
+**LIST OF COMPANIES REFERRED TO IN ARTICLE 2(1)(A)**
+
+(1) Companies incorporated under Council Regulation (EC) No 2157/2001 of 8 October 2001 on the Statute for a European company (SE) ( 5 )
+
+(2) companies under Belgian law known as:
+
+(i) société anonyme/naamloze vennootschap
+
+(ii) société en commandite par actions/commanditaire vennootschap op aandelen
+
+(iii) société privée à responsabilité limitée/besloten vennootschap met beperkte aansprakelijkheid
+
+(3) companies under Bulgarian law known as:
+
+(i) ‘Акционерно дружество’
+
+(ii) ‘Командитно дружество с акции’
+
+(iii) ‘Дружество с ограничена отговорност’
+
+(4) companies under Czech law known as:
+
+(i) akciová společnost
+
+(ii) komanditní společnost
+
+(iii) společnost s ručením omezeným
+
+(5) companies under Danish law known as:
+
+(i) aktieselskab
+
+(ii) kommandit-aktieselskab
+
+(6) companies under German law known as:
+
+(i) Aktiengesellschaft
+
+(ii) Kommanditgesellschaft auf Aktien
+
+(iii) Gesellschaft mit beschränkter Haftung
+
+(7) companies under Estonian law known as:
+
+(i) täisühing
+
+(ii) usaldusühing
+
+(iii) osaühing
+
+(iv) aktsiaselts
+
+(v) tulundusühistu
+
+(8) companies under Irish law known as: companies incorporated with limited liability
+
+(9) companies under Greek law known as:
+
+(i) Ανώνυμος Εταιρία
+
+(ii) Ετερόρρυθμος κατά μετοχάς Εταιρία
+
+(iii) Εταιρία Περιωρισμένης Ευθύνης
+
+(10) companies under Spanish law known as:
+
+(i) sociedad anónima
+
+(ii) sociedad comanditaria por acciones
+
+(iii) sociedad de responsabilidad limitada
+
+(11) companies under French law known as:
+
+(i) société anonyme
+
+(ii) société en commandite par actions
+
+(iii) société à responsabilité limitée
+
+(11a) companies under Croatian law known as:
+
+(i) dioničko društvo
+
+(ii) društvo s ograničenom odgovornošću
+
+(12) companies under Italian law known as:
+
+(i) società per azioni
+
+(ii) società in accomandita per azioni
+
+(iii) società a responsabilità limitata
+
+(13) companies under Cypriot law known as: εταιρείες περιορισμένης ευθύνης
+
+(14) companies under Latvian law known as: kapitālsabiedrība
+
+(15) companies under Lithuanian law known as:
+
+(i) akcinė bendrovė
+
+(ii) uždaroji akcinė bendrovė
+
+(16) companies under Luxembourg law known as:
+
+(i) société anonyme
+
+(ii) société en commandite par actions
+
+(iii) société à responsabilité limitée
+
+(17) companies under Hungarian law known as:
+
+(i) részvénytársaság
+
+(ii) korlátolt felelősségű társaság
+
+(18) companies under Maltese law known as:
+
+(i) Kumpaniji ta’ Responsabilità Limitata
+
+(ii) Soċjetajiet in akkomandita li l-kapital tagħhom jkun maqsum f’azzjonijiet
+
+(19) companies under Dutch law known as:
+
+(i) naamloze vennootschap
+
+(ii) besloten vennootschap met beperkte aansprakelijkheid
+
+(iii) open commanditaire vennootschap
+
+(20) companies under Austrian law known as:
+
+(i) Aktiengesellschaft
+
+(ii) Gesellschaft mit beschränkter Haftung
+
+(21) companies under Polish law known as:
+
+(i) spółka akcyjna
+
+(ii) spółka z ograniczoną odpowiedzialnością
+
+(22) companies under Portuguese law known as:
+
+(i) sociedade anónima
+
+(ii) sociedade em comandita por acções
+
+(iii) sociedade por quotas
+
+(23) companies under Romanian law known as:
+
+(i) ‘societăți în nume colectiv’
+
+(ii) ‘societăți în comandită simplă’
+
+(iii) ‘societăți pe acțiuni’
+
+(iv) ‘societăți în comandită pe acțiuni’
+
+(v) ‘societăți cu răspundere limitată’
+
+(24) companies under Slovenian law known as:
+
+(i) delniška družba
+
+(ii) komanditna delniška družba
+
+(iii) družba z omejeno odgovornostjo
+
+(25) companies under Slovak law known as:
+
+(i) akciová spoločnosť
+
+(ii) poločnosť s ručením obmedzeným
+
+(iii) komanditná spoločnosť
+
+(26) companies under Finnish law known as:
+
+(i) osakeyhtiö – aktiebolag
+
+(ii) osuuskunta – andelslag
+
+(iii) säästöpankki – sparbank
+
+(iv) vakuutusyhtiö – försäkringsbolag
+
+(27) companies under Swedish law known as:
+
+(i) aktiebolag
+
+(ii) försäkringsaktiebolag
+
+(28) companies under the law of the United Kingdom known as: companies incorporated with limited liability.
+
+## ANNEX II
+
+**PART A**
+
+**Repealed Directive with list of its successive amendments**
+
+**(referred to in Article 16(1))**
+
+| Council Directive 69/335/EEC | (OJ L 249, 3.10.1969, p. 25). |
+| --- | --- |
+| Point VI.1 of Annex I to 1972 Act of Accession | (OJ L 73, 27.3.1972, p. 93). |
+| Council Directive 73/79/EEC | (OJ L 103, 18.4.1973, p. 13). |
+| Council Directive 73/80/EEC | (OJ L 103, 18.4.1973, p. 15). |
+| Council Directive 74/553/EEC | (OJ L 303, 13.11.1974, p. 9). |
+| Point VI.1 of Annex I to 1979 Act of Accession | (OJ L 291, 19.11.1979, p. 95). |
+| Council Directive 85/303/EEC | (OJ L 156, 15.6.1985, p. 23). |
+| Point V.1 of Annex I to 1985 Act of Accession | (OJ L 302, 15.11.1985, p. 167). |
+| Point XI.B.I.1 of Annex I to 1994 Act of Accession | (OJ C 241, 29.8.1994, p. 196). |
+| Point 9.1 of Annex II to 2003 Act of Accession | (OJ L 236, 23.9.2003, p. 555). |
+
+**PART B**
+
+**List of time limits for transposition into national law**
+
+**(referred to in Article 16(1))**
+
+| Directive | Time-limits for transposition |
+| --- | --- |
+| Council Directive 69/335/EEC | 1 January 1972 |
+| Council Directive 73/79/EEC | — |
+| Council Directive 73/80/EEC | — |
+| Council Directive 74/553/EEC | — |
+| Council Directive 85/303/EEC | 1 January 1986 |
+
+## ANNEX III
+
+**Correlation Table**
+
+| Directive 69/335/EEC | This Directive |
+| --- | --- |
+| Article 1 | Article 7 |
+| — | Article 1 |
+| Article 2(1) | Article 10(1), first subparagraph, and Article 10(2) |
+| Article 2(2) | Article 10(3) |
+| Article 2(3) | Article 10(4) |
+| Article 3(1), introductory words | Article 2(1), introductory words |
+| Article 3(1)(a) | Article 2(1)(a) and Annex I |
+| Article 3(1)(b) | Article 2(1)(b) |
+| Article 3(1)(c) | Article 2(1)(c) |
+| Article 3(2), first sentence | Article 2(2) |
+| Article 3(2), second sentence | Article 9 |
+| Article 4(1)(a)-(f) | Article 3(a)-(f) and Article 10(1) |
+| Article 4(1)(g) and (h) | Article 5(1)(d)(ii) |
+| Article 4(2), first subparagraph | Article 3(g)-(j), Article 7(3) and Article 10(2) |
+| Article 4(2), second subparagraph | — |
+| Article 4(3) | Article 5(1)(d) |
+| Article 5(1)(a) | Article 11(1) |
+| Article 5(1)(b) | Article 11(2) |
+| Article 5(1)(c) | Article 11(3) |
+| Article 5(1)(d) | Article 11(4) |
+| Article 5(1)(e) | Article 11(5) |
+| Article 5(2) | Article 11(6) |
+| Article 5(3) | Article 12(1) |
+| Article 6(1) | Article 12(2), first subparagraph |
+| Article 6(2) | Article 12(2), second and third subparagraphs |
+| Article 7(1), first and second subparagraphs | Article 4, Article 5(1)(e) |
+| Repealed Article 7(1)(b) | Article 4(a) |
+| Repealed Article 7(1)(bb) | Article 4(b) |
+| Article 7(1), third subparagraph | — |
+| Article 7(2) | Articles 7 and 8 |
+| Article 7(3) | Article 12(3) |
+| Article 8 | Article 7(5) and Article 13, first subparagraph |
+| — | Article 13, second subparagraph |
+| Article 9 | Article 14 |
+| Article 10 | Article 5(1)(a)-(c) |
+| Article 11 | Article 5(2) |
+| Article 12 | Article 6 |
+| Article 13 | Article 15(1) |
+| Article 14 | Article 15(2) |
+| — | Article 16 |
+| — | Article 17 |
+| Article 15 | Article 18 |
+| Article 3(1)(a) | Annex I |
+| — | Annex II |
+| — | Annex III |
+
+( 1 ) Opinion of the European Parliament of 12 December 2007 (not yet published in the Official Journal).
+
+( 2 ) OJ C 126, 7.6.2007, p. 6.
+
+( 3 ) OJ L 249, 3.10.1969, p. 25. Directive as last amended by Directive 2006/98/EC (OJ L 363, 20.12.2006, p. 129).
+
+( 4 ) See Annex II, Part A.
+
+( 5 ) OJ L 294, 10.11.2001, p. 1. Regulation as last amended by Regulation (EC) No 1791/2006 (OJ L 363, 20.12.2006, p. 1).

@@ -1,0 +1,579 @@
+---
+title: "Directive 2009/148/EC of the European Parliament and of the Council of 30 November 2009 on the protection of workers from the risks related to exposure to asbestos at work (Codified version) (Text with EEA relevance)"
+identifier: "32009L0148"
+eli: "http://data.europa.eu/eli/dir/2009/148/oj"
+type: directive
+jurisdiction: eu
+language: en
+date: 2009-11-30
+entry_into_force: 2010-01-05
+last_amended: 2023-12-20
+consolidated_version: "02009L0148-20231220"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02009L0148-20231220"
+retrieved: 2026-10-11
+---
+
+# Directive 2009/148/EC of the European Parliament and of the Council of 30 November 2009 on the protection of workers from the risks related to exposure to asbestos at work (Codified version) (Text with EEA relevance)
+
+**DIRECTIVE 2009/148/EC OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 30 November 2009**
+
+**on the protection of workers from the risks related to exposure to asbestos at work**
+
+**(codified version)**
+
+**(Text with EEA relevance)**
+
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> REGULATION (EU) 2019/1243 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 20 June 2019 </td><td> L 198</td><td>241</td><td>25.7.2019</td></tr>
+<tr><td></td><td> DIRECTIVE (EU) 2023/2668 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 22 November 2023 </td><td> L </td><td>1</td><td>30.11.2023</td></tr>
+
+**DIRECTIVE 2009/148/EC OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 30 November 2009**
+
+**on the protection of workers from the risks related to exposure to asbestos at work**
+
+**(codified version)**
+
+**(Text with EEA relevance)**
+
+## Article 1
+
+1\. This Directive has as its aim the protection of workers against risks to their health, including the prevention of such risks, arising or likely to arise from exposure to asbestos at work.
+
+It lays down the limit values for this exposure, as well as other specific requirements.
+
+The provisions of Directive 2004/37/EC of the European Parliament and of the Council ( 1 ) shall apply wherever they are more favourable to health and safety of workers at work.
+
+2\. This Directive shall not prejudice the right of Member States to apply or introduce laws, regulations or administrative provisions ensuring greater protection for workers, in particular as regards the replacement of asbestos by less dangerous substitutes.
+
+## Article 2
+
+For the purposes of this Directive, ‘asbestos’ means the following fibrous silicates, which are classified as carcinogens 1A pursuant to Annex VI, Part 3, to Regulation (EC) No 1272/2008 of the European Parliament and of the Council ( 2 ):
+
+(a) asbestos, actinolite, CAS No ( 3 ) 77536-66-4;
+
+(b) asbestos, amosite (grunerite), CAS No 12172-73-5;
+
+(c) asbestos, anthophyllite, CAS No 77536-67-5;
+
+(d) asbestos, chrysotile, CAS No 12001-29-5;
+
+(e) asbestos, crocidolite, CAS No 12001-28-4;
+
+(f) asbestos, tremolite, CAS No 77536-68-6.
+
+## Article 3
+
+1\. This Directive shall apply to activities in which workers are or may be exposed in the course of their work to dust arising from asbestos or materials containing asbestos.
+
+2\. In the case of any activity likely to involve a risk of exposure to dust arising from asbestos or materials containing asbestos, that risk shall be assessed in such a way as to determine the nature and degree of the workers’ exposure to dust arising from asbestos or materials containing asbestos and to prioritise removal of asbestos or materials containing asbestos over other forms of asbestos handling.
+
+3\. Provided that worker exposure is sporadic and of low intensity, and if it is clear from the results of the risk assessment referred to in paragraph 2 of this Article that the relevant limit value as laid down in Article 8 will not be exceeded in the air of the working area, Member States may derogate from Article 4 where the work involves:
+
+(a) short, non-continuous maintenance activities in which only non-friable materials are handled;
+
+(b) removal without deterioration of non-degraded materials in which the asbestos fibres are firmly linked in a matrix;
+
+(c) encapsulation or sealing of asbestos-containing materials which are in good condition;
+
+(d) air monitoring and control, and the collection of samples to ascertain whether a specific material contains asbestos.
+
+4\. Member States shall, following consultation with representatives from both sides of industry, in accordance with national law and practice, lay down practical guidelines for the determination of sporadic and low-intensity exposure, as provided for in paragraph 3.
+
+5\. The assessment referred to in paragraph 2 shall be the subject of consultation with the workers and/or their representatives within the undertaking or establishment and shall be revised where there is reason to believe that it is incorrect or there is a material change in the work.
+
+## Article 4
+
+1\. Subject to Article 3(3), the measures referred to in paragraphs 2 to 5 shall be taken.
+
+2\. The activities referred to in Article 3(1) must be covered by a notification system administered by the responsible authority of the Member State.
+
+3\. The notification referred to in paragraph 2 shall be submitted by the employer to the responsible authority of the Member State, before the work commences, in accordance with national laws, regulations and administrative provisions.
+
+The notification shall include at least a brief description of:
+
+(a) the location of the worksite and, where relevant, the specific areas where the work is to be carried out;
+
+(b) the type and quantity of asbestos used or handled;
+
+(c) the activities and processes involved, including with regard to the protection and decontamination of workers, waste disposal and, where relevant, air exchange when working under confinement;
+
+(d) the number of workers involved, a list of the workers likely to be assigned to the site concerned, the workers’ individual training certificates and the date of the latest assessment of the workers’ health pursuant to Article 18;
+
+(e) the starting date and duration of the work;
+
+(f) measures taken, including an overview of the equipment used, to limit the exposure of workers to asbestos.
+
+Member States shall ensure that the competent authorities keep the information referred to in point (d) of the second subparagraph, in accordance with national law, for no longer than necessary for the purpose of ensuring that workers who perform asbestos-related work are properly trained, having due regard to the long-term effects of asbestos on workers’ health.
+
+4\. Workers and/or their representatives in undertakings or establishments shall have access to the documents which are the subject of the notification referred to in paragraph 2 concerning their own undertaking or establishment in accordance with national laws.
+
+5\. Each time a change in working conditions is likely to result in a significant increase in exposure to dust from asbestos or materials containing asbestos, a new notification must be submitted.
+
+## Article 5
+
+The application of asbestos by means of the spraying process and working procedures that involve using low-density (less than 1 g/cm3) insulating or soundproofing materials which contain asbestos shall be prohibited.
+
+Without prejudice to the application of other Community provisions on the marketing and use of asbestos, activities which expose workers to asbestos fibres during the extraction of asbestos or the manufacture and processing of asbestos products or the manufacture and processing of products containing intentionally added asbestos shall be prohibited, with the exception of the treatment and disposal of products resulting from demolition and asbestos removal.
+
+## Article 6
+
+For all activities referred to in Article 3(1), the exposure of workers to dust arising from asbestos or materials containing asbestos at the place of work shall be reduced to a minimum and in any case to as low a level as is technically possible below the relevant limit value as laid down in Article 8, in particular through the following measures:
+
+(a) the number of workers exposed or likely to be exposed to dust arising from asbestos or materials containing asbestos shall be limited to the lowest possible figure;
+
+(b) work processes shall be designed so as not to produce asbestos dust or, if that proves to be impossible, to avoid the release of asbestos dust into the air by taking measures such as:
+
+(i) asbestos dust suppression;
+
+(ii) the suction of asbestos dust at source;
+
+(iii) the continuous sedimentation of asbestos fibres suspended in the air;
+
+(ba) workers shall be subject to an appropriate decontamination procedure;
+
+(bb) for work carried out under confinement, adequate protection shall be ensured;
+
+(c) all premises and equipment involved in the treatment of asbestos shall be capable of being regularly and effectively cleaned and maintained and subject to regular cleaning and maintenance;
+
+(d) asbestos or dust-generating materials containing asbestos shall be stored and transported in suitable sealed packing;
+
+(e) waste, other than waste arising from mining activities, shall be collected and removed from the place of work as soon as possible in suitable sealed packing with labels indicating that it contains asbestos and shall then be dealt with in accordance with Directive 2008/98/EC of the European Parliament and of the Council ( 4 ).
+
+## Article 7
+
+1\. Depending on the results of the initial risk assessment, and in order to ensure compliance with the relevant limit value as laid down in Article 8, the measurement of asbestos fibres in the air at the place of work shall be carried out at regular intervals during specific operational phases.
+
+2\. Sampling shall reflect the personal exposure of the worker to dust arising from asbestos or materials containing asbestos.
+
+3\. Sampling shall be carried out after consultation of the workers and/or their representatives within the undertaking or establishment.
+
+4\. Sampling shall be carried out by suitably qualified personnel. The samples taken shall be subsequently analysed, in accordance with paragraph 6, in laboratories equipped for fibre counting.
+
+5\. The duration of sampling shall be such that representative exposure can be established for an 8-hour reference period (one shift) by means of measurements or time-weighted calculations.
+
+6\. Fibre counting shall be carried out by electron microscopy or by any alternative method that provides equivalent or more accurate results.
+
+7\. For the purpose of measuring asbestos fibres in the air, as referred to in paragraph 1, only fibres with a length of more than 5 micrometres, a breadth of less than 3 micrometres and a length/breadth ratio greater than 3:1 shall be taken into consideration.
+
+Notwithstanding the first subparagraph of this paragraph, fibres with a breadth of less than 0,2 micrometres shall also be taken into consideration for the purposes of Article 8(2), point (a), from 21 December 2029.
+
+## Article 8
+
+1\. Until 20 December 2029, employers shall ensure that no worker is exposed to an airborne concentration of asbestos in excess of 0,01 fibres per cm3 as an 8-hour time-weighted average (TWA).
+
+2\. From 21 December 2029, employers shall ensure that no worker is exposed to an airborne concentration of asbestos in excess of:
+
+(a) 0,01 fibres per cm3 as an 8-hour TWA in accordance with Article 7(7), second subparagraph; or
+
+(b) 0,002 fibres per cm3 as an 8-hour TWA.
+
+3\. Member States shall ensure that employers are subject to at least one of the limit values set out in paragraph 2.
+
+## Article 10
+
+1\. Where the relevant limit value as laid down in Article 8 is exceeded, or if there is reason to believe that materials containing asbestos which are not identified prior to the work have been disturbed so as to generate dust, work shall stop immediately.
+
+Work shall not be continued in the affected area until adequate measures have been taken for the protection of the workers concerned.
+
+Where the relevant limit value as laid down in Article 8 is exceeded, the reasons for the limit value being exceeded shall be identified and appropriate measures to remedy the situation shall be taken as soon as possible.
+
+2\. In order to check the effectiveness of the measures mentioned in the first subparagraph of paragraph 1, a further determination of the asbestos-in-air concentrations shall be carried out immediately.
+
+3\. Where exposure cannot be reduced by other means and where compliance with the limit value makes necessary the wearing of individual respiratory protective equipment, this shall not be permanent and shall be kept to the strict minimum necessary for each worker. During periods of work which require the use of such equipment, provision shall be made for regular breaks appropriate to the physical and climatological conditions and, where relevant, in consultation with the workers and/or their representatives within the undertaking or establishment, in accordance with national law and practice.
+
+## Article 11
+
+Before beginning demolition, maintenance or renovation work on premises built before the entry into force of the Member State’s asbestos ban, employers shall take all necessary steps to identify presumed materials containing asbestos, in particular by obtaining information from the owners of premises, from other employers and from other sources, including relevant registers. If such information is not available, the employer shall ensure an examination, by a qualified operator in accordance with national law and practice, of the occurrence of materials containing asbestos and shall obtain the result of such examination before the start of the work. The employer shall make available to another employer, upon request and solely for the purpose of complying with the obligation laid down in this paragraph, any information obtained within the framework of such an examination.
+
+If there is any doubt about the presence of asbestos in a material or construction, the applicable provisions of this Directive shall be observed.
+
+## Article 12
+
+In the case of certain activities such as demolition, asbestos removal work, repairing and maintenance, in respect of which it is foreseeable that the relevant limit value as laid down in Article 8 will be exceeded despite the use of all possible technical preventive measures for limiting asbestos in air concentrations, the employer shall determine the measures intended to ensure protection of the workers while they are engaged in such activities, in particular the following:
+
+(a) workers shall be issued with suitable personal protective equipment to be worn, which shall be appropriately handled and, in particular with regard to respiratory equipment, which shall be individually adjusted, including through fitting checks, in accordance with Council Directive 89/656/EEC ( 5 );
+
+(b) warning signs shall be put up indicating that it is foreseeable that the limit value laid down in Article 8 will be exceeded; and
+
+(c) the spread of dust arising from asbestos or materials containing asbestos outside the premises or site of action shall be prevented, and for work performed under confinement, the enclosure shall be airtight and under mechanical extraction ventilation.
+
+The workers and/or their representatives in the undertaking or establishment shall be consulted on these measures before the activities concerned are carried out.
+
+## Article 13
+
+1\. A plan of work shall be drawn up before demolition work or work on removing asbestos and/or asbestos-containing products from buildings, structures, plant or installations or from ships is started.
+
+2\. The plan referred to in paragraph 1 must prescribe the measures necessary to ensure the safety and health of workers at the place of work.
+
+The plan must in particular specify that:
+
+(a) asbestos and/or asbestos-containing products are to be removed before demolition techniques are applied, except where this would cause a greater risk to workers than if the asbestos and/or asbestos-containing products had been left in place;
+
+(b) the personal protective equipment referred to in point (a) of the first paragraph of Article 12 shall be provided, where necessary;
+
+(c) when the demolition or asbestos removal work has been completed, the absence of risks of exposure to asbestos at the place of work shall be verified in accordance with national law and practice before other activities resume.
+
+At the request of the competent authorities, the plan shall include information on the following:
+
+(a) the nature and probable duration of the work;
+
+(b) the place where the work is carried out;
+
+(c) the methods applied where the work involves the handling of asbestos or of materials containing asbestos;
+
+(d) the characteristics of the equipment used for:
+
+(i) protection and decontamination of those carrying out the work;
+
+(ii) protection of other persons present on or near the worksite.
+
+3\. At the request of the competent authorities, the plan referred to in paragraph 1 must be notified to them before the start of the projected work.
+
+## Article 14
+
+1\. Employers shall provide appropriate training for all workers who are, or are likely to be, exposed to dust from asbestos or materials containing asbestos. Such training must be provided at regular intervals and at no cost to the workers.
+
+2\. The content of the training shall be easily understandable for workers. It shall enable them to acquire the necessary knowledge and skills in terms of prevention and safety in accordance with the national law and practice applicable where the work takes place.
+
+3\. The minimum requirements with regard to the content, duration and frequency of the training provided pursuant to this Article and the documentation relating thereto are set out in Annex Ia.
+
+## Article 15
+
+1\. Undertakings that intend to carry out demolition or asbestos removal work shall obtain a permit from the competent authority before the start of the work. For that purpose, they shall provide that competent authority with at least proof of compliance with Article 6 and certificates indicating the completion of training in accordance with Article 14 and Annex Ia.
+
+2\. Member States shall make the list of undertakings that have obtained a permit pursuant to paragraph 1 publicly available, in accordance with national law and practice.
+
+## Article 16
+
+1\. In the case of all activities referred to in Article 3(1), and subject to Article 3(3), appropriate measures shall be taken to ensure that:
+
+(a) the places in which the above activities take place:
+
+(i) are clearly demarcated and indicated by warning signs;
+
+(ii) are not accessible to workers other than those who by reason of their work or duties are required to enter them;
+
+(iii) constitute areas where there should be no smoking;
+
+(b) areas are set aside where workers can eat and drink without risking contamination by asbestos dust;
+
+(c) workers are provided with appropriate working or protective clothing; this working or protective clothing remains within the undertaking; it may, however, be laundered in establishments outside the undertaking which are equipped for this sort of work if the undertaking does not carry out the cleaning itself; in that event the clothing shall be transported in closed containers;
+
+(d) separate storage places are provided for working or protective clothing and for street clothes;
+
+(e) workers are provided with appropriate and adequate washing and toilet facilities, including showers in the case of dusty operations;
+
+(f) protective equipment is placed in a well-defined place and checked and cleaned after each use, and appropriate measures are taken to repair or replace defective equipment before further use.
+
+2\. Workers may not be charged with the cost of measures taken pursuant to paragraph 1.
+
+## Article 17
+
+1\. In the case of all activities referred to in Article 3(1), appropriate measures shall be taken to ensure that workers and their representatives in the undertaking or establishment receive adequate information concerning:
+
+(a) the potential risks to health from exposure to dust arising from asbestos or materials containing asbestos;
+
+(b) the existence of statutory limit values and the need for the atmosphere to be monitored;
+
+(c) hygiene requirements, including the need to refrain from smoking;
+
+(d) the precautions to be taken as regards the wearing and use of protective equipment and clothing;
+
+(e) special precautions designed to minimise exposure to asbestos.
+
+2\. In addition to the measures referred to in paragraph 1, and subject to Article 3(3), appropriate measures shall be taken to ensure that:
+
+(a) workers and/or their representatives in the undertaking or establishment have access to the results of asbestos-in-air concentration measurements and can be given explanations of the significance of those results;
+
+(b) if the results exceed the limit value laid down in Article 8, the workers concerned and their representatives in the undertaking or establishment are informed as quickly as possible of the fact and the reasons for it and the workers and/or their representatives in the undertaking or establishment are consulted on the measures to be taken or, in an emergency, are informed of the measures which have been taken.
+
+## Article 18
+
+2\. An assessment of each worker’s state of health must be available prior to the beginning of exposure to dust arising from asbestos or materials containing asbestos at the place of work.
+
+That assessment shall include a specific examination of the chest. Annex I gives practical recommendations to which the Member States may refer for the clinical surveillance of workers. The Commission is empowered to adopt delegated acts in accordance with Article 18a amending Annex I, to adapt it to technical progress.
+
+Where, in duly justified and exceptional cases involving imminent, direct and serious risks to workers’ and other persons’ physical health and safety, imperative grounds of urgency require action in a very short timeframe, the procedure provided for in Article 18b shall apply to delegated acts adopted pursuant to this Article.
+
+A new assessment must be available at least once every three years for as long as exposure continues.
+
+An individual health record shall be established in accordance with national laws and/or practices for each worker referred to in the first subparagraph.
+
+3\. Following the clinical surveillance referred to in the second subparagraph of paragraph 2, the doctor or authority responsible for the medical surveillance of the workers shall, in accordance with national laws, advise on any individual protective or preventive measures to be taken or determine such measures.
+
+Those measures may include, where appropriate, the withdrawal of the worker concerned from all exposure to asbestos.
+
+4\. Information and advice must be given to workers regarding any assessment of their health which they may undergo following the end of exposure.
+
+The doctor or authority responsible for the medical surveillance of workers may indicate that medical surveillance must continue after the end of exposure for as long as they consider it necessary to safeguard the health of the person concerned.
+
+Such continuing surveillance shall be carried out in accordance with national laws and/or practice.
+
+5\. The worker concerned or the employer may request a review of the assessments referred to in paragraph 3, in accordance with national laws.
+
+## Article 18a
+
+1\. The power to adopt delegated acts is conferred on the Commission subject to the conditions laid down in this Article.
+
+2\. The power to adopt delegated acts referred to in Article 18(2) shall be conferred on the Commission for a period of five years from 26 July 2019. The Commission shall draw up a report in respect of the delegation of power not later than nine months before the end of the five-year period. The delegation of power shall be tacitly extended for periods of an identical duration, unless the European Parliament or the Council opposes such extension not later than three months before the end of each period.
+
+3\. The delegation of power referred to in Article 18(2) may be revoked at any time by the European Parliament or by the Council. A decision to revoke shall put an end to the delegation of the power specified in that decision. It shall take effect the day following the publication of the decision in the Official Journal of the European Union or at a later date specified therein. It shall not affect the validity of any delegated acts already in force.
+
+4\. Before adopting a delegated act, the Commission shall consult experts designated by each Member State in accordance with the principles laid down in the Interinstitutional Agreement of 13 April 2016 on Better Law-Making ( 6 ).
+
+5\. As soon as it adopts a delegated act, the Commission shall notify it simultaneously to the European Parliament and to the Council.
+
+6\. A delegated act adopted pursuant to Article 18(2) shall enter into force only if no objection has been expressed either by the European Parliament or the Council within a period of two months of notification of that act to the European Parliament and the Council or if, before the expiry of that period, the European Parliament and the Council have both informed the Commission that they will not object. That period shall be extended by two months at the initiative of the European Parliament or of the Council.
+
+## Article 18b
+
+1\. Delegated acts adopted under this Article shall enter into force without delay and shall apply as long as no objection is expressed in accordance with paragraph 2. The notification of a delegated act to the European Parliament and the Council shall state the reasons for the use of the urgency procedure.
+
+2\. Either the European Parliament or the Council may object to a delegated act in accordance with the procedure referred to in Article 18a(6). In such a case, the Commission shall repeal the act immediately following the notification of the decision to object by the European Parliament or by the Council.
+
+## Article 18c
+
+1\. The Commission shall assess, in the context of the next evaluation in accordance with Article 22, whether there is a need to update the list of fibrous silicates set out in Article 2 in light of scientific knowledge as well as for additional measures to ensure protection against secondary exposure to asbestos at work.
+
+2\. Following the evaluation referred to in paragraph 1 of this Article and after consulting the ACSH, the Commission shall evaluate whether it is appropriate or necessary to update the list of fibrous silicates set out in Article 2. The Commission shall evaluate in particular whether it is appropriate to include additional fibrous silicates, such as erionite, riebeckite, winchite, richterite and fluoro-edenite, within the scope of this Directive, as well as whether it is appropriate to adopt additional measures to ensure protection against secondary exposure to asbestos at work. The Commission shall, where appropriate, submit to the European Parliament and to the Council legislative proposals in that regard.
+
+## Article 19
+
+2\. The employer shall enter the information on the workers engaged in the activities referred to in Article 3(1) in a register. That information shall indicate the nature and duration of the activity and the exposure to which they have been subjected. The doctor and/or the authority responsible for medical surveillance shall have access to this register. Workers shall have access to the results in the register which relate to them personally. The workers and/or their representatives shall have access to anonymous, collective information in the register.
+
+3\. The register referred to in paragraph 2 and the medical records referred to in the fourth subparagraph of Article 18(2) shall be kept for at least 40 years following the end of exposure, in accordance with national laws and/or practice.
+
+4\. The documents referred to in paragraph 3 shall be made available to the responsible authority in cases where the undertaking ceases trading, in accordance with national laws and/or practice.
+
+## Article 20
+
+Member States shall provide for adequate penalties to be applicable in the event of infringement of national legislation adopted pursuant to this Directive. These penalties must be effective, proportionate and dissuasive.
+
+## Article 21
+
+Member States shall keep a register of all cases of medically diagnosed asbestos-related occupational diseases. An indicative list of diseases that can be caused by exposure to asbestos is set out in Annex I.
+
+## Article 22
+
+Every 5 years, Member States shall submit to the Commission a report on the practical implementation of this Directive in the form of a specific chapter in the single report provided for in Article 17a(1), (2) and (3) of Directive 89/391/EEC, which serves as a basis for the evaluation carried out by the Commission under Article 17a(4) of that Directive.
+
+## Article 22a
+
+1\. By 31 December 2028, the Commission shall assess the feasibility of a further lowering of the limit values on the basis of the Member States’ reports submitted pursuant to Article 22, the availability of scientific evidence, technical developments and the relationship between new analytical methods and the numerical limit value.
+
+2\. The Commission shall provide appropriate technical support to employers fulfilling the requirements of this Directive, and information about relevant Union funds, with a view to assisting Member States in making the best use of, and facilitating access to, those funds, in particular for small and medium-sized enterprises, including microenterprises.
+
+## Article 23
+
+Member States shall communicate to the Commission the provisions of national law which they adopt in the field covered by this Directive.
+
+## Article 24
+
+Directive 83/477/EEC, as amended by the Directives listed in Annex II, is repealed, without prejudice to the obligations of the Member States relating to the time limits for transposition into national law of the Directives set out in Annex II, Part B.
+
+References to the repealed Directive shall be construed as references to this Directive and shall be read in accordance with the correlation table in Annex III.
+
+## Article 25
+
+This Directive shall enter into force on the 20th day following its publication in the Official Journal of the European Union.
+
+## Article 26
+
+This Directive is addressed to the Member States.
+
+## ANNEX I
+
+**Practical recommendations for the clinical assessment of workers, as referred to in Article 18(2), second subparagraph**
+
+1\. Current knowledge indicates that exposure to free asbestos fibres can give rise to at least the following diseases:
+
+— asbestosis,
+
+— mesothelioma,
+
+— lung carcinoma,
+
+— gastro-intestinal carcinoma,
+
+— carcinoma of the larynx,
+
+— carcinoma of the ovary,
+
+— non-malignant pleural diseases.
+
+2\. The doctor and/or authority responsible for the medical surveillance of workers exposed to asbestos must be familiar with the exposure conditions or circumstances of each worker.
+
+3\. Health examination of workers should be carried out in accordance with the principles and practices of occupational medicine. It should include at least the following measures:
+
+— keeping records of a worker’s medical and occupational history,
+
+— a personal interview,
+
+— a general clinical examination, with particular reference to the chest,
+
+— lung function tests (respiratory flow volumes and rates).
+
+The doctor and/or authority responsible for health surveillance should decide on further examinations, such as sputum cytology tests or a chest X-ray or a tomodensitometry, in the light of the latest occupational health knowledge available.
+
+## ANNEX Ia
+
+**Minimum requirements for training**
+
+Workers who are, or who are likely to be, exposed to dust from asbestos or materials containing asbestos shall receive mandatory training, encompassing at least the following minimum requirements:
+
+(1) The training shall be provided at the start of an employment relationship and whenever additional training needs are identified.
+
+(2) The length of the training shall be adequate in relation to the tasks of the workers concerned.
+
+(3) The training shall be provided by an instructor whose qualification is recognised in accordance with national law and practice.
+
+(4) Every worker who has attended training in a satisfactory manner shall receive a training certificate indicating all of the following:
+
+(a) the date of the training;
+
+(b) the duration of the training;
+
+(c) the content of the training;
+
+(d) the language of the training;
+
+(e) the name, qualification, and contact details of the instructor, or the institution providing the training, or both.
+
+(5) Workers who are, or are likely to be, exposed to dust from asbestos or materials containing asbestos shall receive theoretical and practical training concerning at least the following:
+
+(a) the applicable law of the Member State in which the work is carried out;
+
+(b) the properties of asbestos and its effects on health, including the synergistic effect of smoking;
+
+(c) the types of product or material likely to contain asbestos;
+
+(d) the operations that could result in exposure to asbestos and the importance of preventive controls to minimise such exposure;
+
+(e) safe working practices, controls and protective equipment;
+
+(f) the appropriate role, choice, selection, limitations and proper use of protective equipment, with particular regard to respiratory equipment;
+
+(g) emergency procedures;
+
+(h) decontamination procedures;
+
+(i) waste disposal;
+
+(j) medical surveillance requirements.
+
+The training shall be adapted as closely as possible to the characteristics of the profession of the workers and the specific tasks and working methods of that profession.
+
+(6) Workers who engage in demolition or asbestos removal work shall be required to receive training in addition to the training provided for pursuant to point (5) regarding the use of technological equipment and machines to contain the release and spread of asbestos fibres during work processes, in accordance with this Directive.
+
+## ANNEX II
+
+**PART A**
+
+**Repealed Directive with list of its successive amendments**
+
+**(referred to in Article 24)**
+
+| Council Directive 83/477/EEC (OJ L 263, 24.9.1983, p. 25) |  |
+| --- | --- |
+| Council Directive 91/382/EEC (OJ L 206, 29.7.1991, p. 16) |  |
+| Council Directive 98/24/EC (OJ L 131, 5.5.1998, p. 11) | only Article 13(2) |
+| Directive 2003/18/EC of the European Parliament and of the Council (OJ L 97, 15.4.2003, p. 48) |  |
+| Directive 2007/30/EC of the European Parliament and of the Council (OJ L 165, 27.6.2007, p. 21) | only Article 2(1) |
+
+**PART B**
+
+**List of time limits for transposition into national law**
+
+**(referred to in Article 24)**
+
+<tbody><tr><td>Directive</td><td>Time limit for transposition</td></tr>
+<tr><td>83/477/EEC</td><td>31 December 1986 (1)</td></tr>
+<tr><td>91/382/EEC</td><td>1 January 1993 (2)</td></tr>
+<tr><td>98/24/EC</td><td>5 May 2001</td></tr>
+<tr><td>2003/18/EC</td><td>14 April 2006</td></tr>
+<tr><td>2007/30/EC</td><td>31 December 2012</td></tr>
+<tr><td colspan="2">(1)  This date is replaced by 31 December 1989 in the case of asbestos-mining activities.  (2)  As regards the Hellenic Republic, the time limit for transposition of the Directive shall be 1 January 1996. However, the date of transposition of the provisions concerning asbestos-mining activities shall be 1 January 1996 for all the Member States and 1 January 1999 for the Hellenic Republic. </td></tr>
+</tbody>
+
+## ANNEX III
+
+**Correlation Table**
+
+| Directive 83/477/EEC | This Directive |
+| --- | --- |
+| Article 1(1) | Article 1(1) |
+| Article 1(2) | — |
+| Article 1(3) | Article 1(2) |
+| Article 2, first to sixth indents | Article 2, points (a) to (f) |
+| Article 3(1) to (3) | Article 3(1) to (3) |
+| Article 3(3a) | Article 3(4) |
+| Article 3(4) | Article 3(5) |
+| Article 4, introductory wording | Article 4(1) |
+| Article 4, point (1) | Article 4(2) |
+| Article 4, point (2) | Article 4(3) |
+| Article 4, point (3) | Article 4(4) |
+| Article 4, point (4) | Article 4(5) |
+| Article 5 | Article 5 |
+| Article 6, points (1) to (5) | Article 6, points (a) to (e) |
+| Articles 7 and 8 | Articles 7 and 8 |
+| Article 9(2) | Article 9 |
+| Article 10 | Article 10 |
+| Article 10a | Article 11 |
+| Article 11(1) and (2) | Article 12, first and second subparagraphs |
+| Article 12(1) | Article 13(1) |
+| Article 12(2), first subparagraph | Article 13(2), first subparagraph |
+| Article 12(2), second subparagraph, first indent | Article 13(2), second subparagraph, point (a) |
+| Article 12(2), second subparagraph, second indent | Article 13(2), second subparagraph, point (b) |
+| Article 12(2), second subparagraph, third indent | Article 13(2), second subparagraph, point (c) |
+| Article 12(2), third subparagraph, first indent | Article 13(2), third subparagraph, point (a) |
+| Article 12(2), third subparagraph, second indent | Article 13(2), third subparagraph, point (b) |
+| Article 12(2), third subparagraph, third indent | Article 13(2), third subparagraph, point (c) |
+| Article 12(2), third subparagraph, fourth indent | Article 13(2), third subparagraph, point (d) |
+| Article 12(2), third subparagraph, fourth indent, first sub-indent | Article 13(2), third subparagraph, point (d)(i) |
+| Article 12(2), third subparagraph, fourth indent, second sub-indent | Article 13(2), third subparagraph, point (d)(ii) |
+| Article 12(3) | Article 13(3) |
+| Article 12a | Article 14 |
+| Article 12b | Article 15 |
+| Article 13(1)(a) | Article 16(1)(a) |
+| Article 13(1)(b) | Article 16(1)(b) |
+| Article 13(1)(c)(i) and (ii) | Article 16(1)(c) |
+| Article 13(1)(c)(iii) | Article 16(1)(d) |
+| Article 13(1)(c)(iv) | Article 16(1)(e) |
+| Article 13(1)(c)(v) | Article 16(1)(f) |
+| Article 13(2) | Article 16(2) |
+| Article 14(1), introductory wording | Article 17(1), introductory wording |
+| Article 14(1), first to fifth indents | Article 17(1)(a) to (e) |
+| Article 14(2) | Article 17(2) |
+| Article 15, introductory wording | Article 18(1) |
+| Article 15, points (1) to (4) | Article 18(2) to (5) |
+| Article 16, introductory wording | Article 19(1) |
+| Article 16, points (1) to (3) | Article 19(2) to (4) |
+| Article 16a | Article 20 |
+| Article 17 | Article 21 |
+| Article 17a | Article 22 |
+| Article 18(1) | — |
+| Article 18(2) | Article 23 |
+| — | Article 24 |
+| — | Article 25 |
+| Article 19 | Article 26 |
+| Annex II | Annex I |
+| — | Annex II |
+| — | Annex III |
+
+( 1 ) Directive 2004/37/EC of the European Parliament and of the Council of 29 April 2004 on the protection of workers from the risks related to exposure to carcinogens, mutagens or reprotoxic substances at work (Sixth individual directive within the meaning of Article 16(1) of Council Directive 89/391/EEC) (OJ L 158, 30.4.2004, p. 50).
+
+( 2 ) Regulation (EC) No 1272/2008 of the European Parliament and of the Council of 16 December 2008 on classification, labelling and packaging of substances and mixtures, amending and repealing Directives 67/548/EEC and 1999/45/EC, and amending Regulation (EC) No 1907/2006 (OJ L 353, 31.12.2008, p. 1).
+
+( 3 ) Number in the Chemical Abstract Service (CAS).
+
+( 4 ) Directive 2008/98/EC of the European Parliament and of the Council of 19 November 2008 on waste and repealing certain Directives (OJ L 312, 22.11.2008, p. 3).
+
+( 5 ) Council Directive 89/656/EEC of 30 November 1989 on the minimum health and safety requirements for the use by workers of personal protective equipment at the workplace (third individual directive within the meaning of Article 16(1) of Directive 89/391/EEC) (OJ L 393, 30.12.1989, p. 18).
+
+( 6 ) OJ L 123, 12.5.2016, p. 1.

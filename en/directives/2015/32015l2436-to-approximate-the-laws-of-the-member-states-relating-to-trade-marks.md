@@ -1,0 +1,722 @@
+---
+title: "Directive (EU) 2015/2436 of the European Parliament and of the Council of 16 December 2015 to approximate the laws of the Member States relating to trade marks (recast) (Text with EEA relevance)"
+identifier: "32015L2436"
+eli: "http://data.europa.eu/eli/dir/2015/2436/oj"
+type: directive
+jurisdiction: eu
+language: en
+date: 2015-12-16
+entry_into_force: 2017-11-24
+last_amended: 2015-12-23
+consolidated_version: "02015L2436-20151223"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02015L2436-20151223"
+retrieved: 2026-10-11
+---
+
+# Directive (EU) 2015/2436 of the European Parliament and of the Council of 16 December 2015 to approximate the laws of the Member States relating to trade marks (recast) (Text with EEA relevance)
+
+**DIRECTIVE (EU) 2015/2436 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 16 December 2015**
+
+**to approximate the laws of the Member States relating to trade marks**
+
+**(Recast)**
+
+**(Text with EEA relevance)**
+
+**DIRECTIVE (EU) 2015/2436 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 16 December 2015**
+
+**to approximate the laws of the Member States relating to trade marks**
+
+**(Recast)**
+
+**(Text with EEA relevance)**
+
+## CHAPTER 1 — GENERAL PROVISIONS
+
+#### Article 1 — Scope
+
+This Directive applies to every trade mark in respect of goods or services which is the subject of registration or of an application for registration in a Member State as an individual trade mark, a guarantee or certification mark or a collective mark, or which is the subject of a registration or an application for registration in the Benelux Office for Intellectual Property or of an international registration having effect in a Member State.
+
+#### Article 2 — Definitions
+
+For the purpose of this Directive, the following definitions apply:
+
+(a) ‘office’ means the central industrial property office of the Member State or the Benelux Office for Intellectual Property, entrusted with the registration of trade marks;
+
+(b) ‘register’ means the register of trade marks kept by an office.
+
+## CHAPTER 2 — SUBSTANTIVE LAW ON TRADE MARKS
+
+### SECTION 1 — Signs of which a trade mark may consist
+
+#### Article 3 — Signs of which a trade mark may consist
+
+A trade mark may consist of any signs, in particular words, including personal names, or designs, letters, numerals, colours, the shape of goods or of the packaging of goods, or sounds, provided that such signs are capable of:
+
+(a) distinguishing the goods or services of one undertaking from those of other undertakings; and
+
+(b) being represented on the register in a manner which enables the competent authorities and the public to determine the clear and precise subject matter of the protection afforded to its proprietor.
+
+### SECTION 2 — Grounds for refusal or invalidity
+
+#### Article 4 — Absolute grounds for refusal or invalidity
+
+1\. The following shall not be registered or, if registered, shall be liable to be declared invalid:
+
+(a) signs which cannot constitute a trade mark;
+
+(b) trade marks which are devoid of any distinctive character;
+
+(c) trade marks which consist exclusively of signs or indications which may serve, in trade, to designate the kind, quality, quantity, intended purpose, value, geographical origin, or the time of production of the goods or of rendering of the service, or other characteristics of the goods or services;
+
+(d) trade marks which consist exclusively of signs or indications which have become customary in the current language or in the bona fide and established practices of the trade;
+
+(e) signs which consist exclusively of:
+
+(i) the shape, or another characteristic, which results from the nature of the goods themselves;
+
+(ii) the shape, or another characteristic, of goods which is necessary to obtain a technical result;
+
+(iii) the shape, or another characteristic, which gives substantial value to the goods;
+
+(f) trade marks which are contrary to public policy or to accepted principles of morality;
+
+(g) trade marks which are of such a nature as to deceive the public, for instance, as to the nature, quality or geographical origin of the goods or service;
+
+(h) trade marks which have not been authorised by the competent authorities and are to be refused or invalidated pursuant to Article 6ter of the Paris Convention;
+
+(i) trade marks which are excluded from registration pursuant to Union legislation or the national law of the Member State concerned, or to international agreements to which the Union or the Member State concerned is party, providing for protection of designations of origin and geographical indications;
+
+(j) trade marks which are excluded from registration pursuant to Union legislation or international agreements to which the Union is party, providing for protection of traditional terms for wine;
+
+(k) trade marks which are excluded from registration pursuant to Union legislation or international agreements to which the Union is party, providing for protection of traditional specialities guaranteed;
+
+(l) trade marks which consist of, or reproduce in their essential elements, an earlier plant variety denomination registered in accordance with Union legislation or the national law of the Member State concerned, or international agreements to which the Union or the Member State concerned is party, providing protection for plant variety rights, and which are in respect of plant varieties of the same or closely related species.
+
+2\. A trade mark shall be liable to be declared invalid where the application for registration of the trade mark was made in bad faith by the applicant. Any Member State may also provide that such a trade mark is not to be registered.
+
+3\. Any Member State may provide that a trade mark is not to be registered or, if registered, is liable to be declared invalid where and to the extent that:
+
+(a) the use of that trade mark may be prohibited pursuant to provisions of law other than trade mark law of the Member State concerned or of the Union;
+
+(b) the trade mark includes a sign of high symbolic value, in particular a religious symbol;
+
+(c) the trade mark includes badges, emblems and escutcheons other than those covered by Article 6ter of the Paris Convention and which are of public interest, unless the consent of the competent authority to their registration has been given in conformity with the law of the Member State.
+
+4\. A trade mark shall not be refused registration in accordance with paragraph 1(b), (c) or (d) if, before the date of application for registration, following the use which has been made of it, it has acquired a distinctive character. A trade mark shall not be declared invalid for the same reasons if, before the date of application for a declaration of invalidity, following the use which has been made of it, it has acquired a distinctive character.
+
+5\. Any Member State may provide that paragraph 4 is also to apply where the distinctive character was acquired after the date of application for registration but before the date of registration.
+
+#### Article 5 — Relative grounds for refusal or invalidity
+
+1\. A trade mark shall not be registered or, if registered, shall be liable to be declared invalid where:
+
+(a) it is identical with an earlier trade mark, and the goods or services for which the trade mark is applied for or is registered are identical with the goods or services for which the earlier trade mark is protected;
+
+(b) because of its identity with, or similarity to, the earlier trade mark and the identity or similarity of the goods or services covered by the trade marks, there exists a likelihood of confusion on the part of the public; the likelihood of confusion includes the likelihood of association with the earlier trade mark.
+
+2\. ‘Earlier trade marks’ within the meaning of paragraph 1 means:
+
+(a) trade marks of the following kinds with a date of application for registration which is earlier than the date of application for registration of the trade mark, taking account, where appropriate, of the priorities claimed in respect of those trade marks:
+
+(i) EU trade marks;
+
+(ii) trade marks registered in the Member State concerned or, in the case of Belgium, Luxembourg or the Netherlands, at the Benelux Office for Intellectual Property;
+
+(iii) trade marks registered under international arrangements which have effect in the Member State concerned;
+
+(b) EU trade marks which validly claim seniority, in accordance with Regulation (EC) No 207/2009, of a trade mark referred to in points (a)(ii) and (iii), even when the latter trade mark has been surrendered or allowed to lapse;
+
+(c) applications for the trade marks referred to in points (a) and (b), subject to their registration;
+
+(d) trade marks which, on the date of application for registration of the trade mark, or, where appropriate, of the priority claimed in respect of the application for registration of the trade mark, are well known in the Member State concerned, in the sense in which the words ‘well-known’ are used in Article 6bis of the Paris Convention.
+
+3\. Furthermore, a trade mark shall not be registered or, if registered, shall be liable to be declared invalid where:
+
+(a) it is identical with, or similar to, an earlier trade mark irrespective of whether the goods or services for which it is applied or registered are identical with, similar to or not similar to those for which the earlier trade mark is registered, where the earlier trade mark has a reputation in the Member State in respect of which registration is applied for or in which the trade mark is registered or, in the case of an EU trade mark, has a reputation in the Union and the use of the later trade mark without due cause would take unfair advantage of, or be detrimental to, the distinctive character or the repute of the earlier trade mark;
+
+(b) an agent or representative of the proprietor of the trade mark applies for registration thereof in his own name without the proprietor's authorisation, unless the agent or representative justifies his action;
+
+(c) and to the extent that, pursuant to Union legislation or the law of the Member State concerned providing for protection of designations of origin and geographical indications:
+
+(i) an application for a designation of origin or a geographical indication had already been submitted in accordance with Union legislation or the law of the Member State concerned prior to the date of application for registration of the trade mark or the date of the priority claimed for the application, subject to its subsequent registration;
+
+(ii) that designation of origin or geographical indication confers on the person authorised under the relevant law to exercise the rights arising therefrom the right to prohibit the use of a subsequent trade mark.
+
+4\. Any Member State may provide that a trade mark is not to be registered or, if registered, is liable to be declared invalid where, and to the extent that:
+
+(a) rights to a non-registered trade mark or to another sign used in the course of trade were acquired prior to the date of application for registration of the subsequent trade mark, or the date of the priority claimed for the application for registration of the subsequent trade mark, and that non-registered trade mark or other sign confers on its proprietor the right to prohibit the use of a subsequent trade mark;
+
+(b) the use of the trade mark may be prohibited by virtue of an earlier right, other than the rights referred to in paragraph 2 and point (a) of this paragraph, and in particular:
+
+(i) a right to a name;
+
+(ii) a right of personal portrayal;
+
+(iii) a copyright;
+
+(iv) an industrial property right;
+
+(c) the trade mark is liable to be confused with an earlier trade mark protected abroad, provided that, at the date of the application, the applicant was acting in bad faith.
+
+5\. The Member States shall ensure that in appropriate circumstances there is no obligation to refuse registration or to declare a trade mark invalid where the proprietor of the earlier trade mark or other earlier right consents to the registration of the later trade mark.
+
+6\. Any Member State may provide that, by way of derogation from paragraphs 1 to 5, the grounds for refusal of registration or invalidity in force in that Member State prior to the date of the entry into force of the provisions necessary to comply with Directive 89/104/EEC are to apply to trade marks for which an application has been made prior to that date.
+
+#### Article 6 — Establishment a posteriori of invalidity or revocation of a trade mark
+
+Where the seniority of a national trade mark or of a trade mark registered under international arrangements having effect in the Member State, which has been surrendered or allowed to lapse, is claimed for an EU trade mark, the invalidity or revocation of the trade mark providing the basis for the seniority claim may be established a posteriori, provided that the invalidity or revocation could have been declared at the time the mark was surrendered or allowed to lapse. In such a case, the seniority shall cease to produce its effects.
+
+#### Article 7 — Grounds for refusal or invalidity relating to only some of the goods or services
+
+Where grounds for refusal of registration or for invalidity of a trade mark exist in respect of only some of the goods or services for which that trade mark has been applied or registered, refusal of registration or invalidity shall cover those goods or services only.
+
+#### Article 8 — Lack of distinctive character or of reputation of an earlier trade mark precluding a declaration of invalidity of a registered trade mark
+
+An application for a declaration of invalidity on the basis of an earlier trade mark shall not succeed at the date of application for invalidation if it would not have been successful at the filing date or the priority date of the later trade mark for any of the following reasons:
+
+(a) the earlier trade mark, liable to be declared invalid pursuant to Article 4(1)(b), (c) or (d), had not yet acquired a distinctive character as referred to in Article 4(4);
+
+(b) the application for a declaration of invalidity is based on Article 5(1)(b) and the earlier trade mark had not yet become sufficiently distinctive to support a finding of likelihood of confusion within the meaning of Article 5(1)(b);
+
+(c) the application for a declaration of invalidity is based on Article 5(3)(a) and the earlier trade mark had not yet acquired a reputation within the meaning of Article 5(3)(a).
+
+#### Article 9 — Preclusion of a declaration of invalidity due to acquiescence
+
+1\. Where, in a Member State, the proprietor of an earlier trade mark as referred to in Article 5(2) or Article 5(3)(a) has acquiesced, for a period of five successive years, in the use of a later trade mark registered in that Member State while being aware of such use, that proprietor shall no longer be entitled on the basis of the earlier trade mark to apply for a declaration that the later trade mark is invalid in respect of the goods or services for which the later trade mark has been used, unless registration of the later trade mark was applied for in bad faith.
+
+2\. Member States may provide that paragraph 1 of this Article is to apply to the proprietor of any other earlier right referred to in Article 5(4)(a) or (b).
+
+3\. In the cases referred to in paragraphs 1 and 2, the proprietor of a later registered trade mark shall not be entitled to oppose the use of the earlier right, even though that right may no longer be invoked against the later trade mark.
+
+### SECTION 3 — Rights conferred and limitations
+
+#### Article 10 — Rights conferred by a trade mark
+
+1\. The registration of a trade mark shall confer on the proprietor exclusive rights therein.
+
+2\. Without prejudice to the rights of proprietors acquired before the filing date or the priority date of the registered trade mark, the proprietor of that registered trade mark shall be entitled to prevent all third parties not having his consent from using in the course of trade, in relation to goods or services, any sign where:
+
+(a) the sign is identical with the trade mark and is used in relation to goods or services which are identical with those for which the trade mark is registered;
+
+(b) the sign is identical with, or similar to, the trade mark and is used in relation to goods or services which are identical with, or similar to, the goods or services for which the trade mark is registered, if there exists a likelihood of confusion on the part of the public; the likelihood of confusion includes the likelihood of association between the sign and the trade mark;
+
+(c) the sign is identical with, or similar to, the trade mark irrespective of whether it is used in relation to goods or services which are identical with, similar to, or not similar to, those for which the trade mark is registered, where the latter has a reputation in the Member State and where use of that sign without due cause takes unfair advantage of, or is detrimental to, the distinctive character or the repute of the trade mark.
+
+3\. The following, in particular, may be prohibited under paragraph 2:
+
+(a) affixing the sign to the goods or to the packaging thereof;
+
+(b) offering the goods or putting them on the market, or stocking them for those purposes, under the sign, or offering or supplying services thereunder;
+
+(c) importing or exporting the goods under the sign;
+
+(d) using the sign as a trade or company name or part of a trade or company name;
+
+(e) using the sign on business papers and in advertising;
+
+(f) using the sign in comparative advertising in a manner that is contrary to Directive 2006/114/EC.
+
+4\. Without prejudice to the rights of proprietors acquired before the filing date or the priority date of the registered trade mark, the proprietor of that registered trade mark shall also be entitled to prevent all third parties from bringing goods, in the course of trade, into the Member State where the trade mark is registered, without being released for free circulation there, where such goods, including the packaging thereof, come from third countries and bear without authorisation a trade mark which is identical with the trade mark registered in respect of such goods, or which cannot be distinguished in its essential aspects from that trade mark.
+
+The entitlement of the trade mark proprietor pursuant to the first subparagraph shall lapse if, during the proceedings to determine whether the registered trade mark has been infringed, initiated in accordance with Regulation (EU) No 608/2013, evidence is provided by the declarant or the holder of the goods that the proprietor of the registered trade mark is not entitled to prohibit the placing of the goods on the market in the country of final destination.
+
+5\. Where, under the law of a Member State, the use of a sign under the conditions referred to in paragraph 2 (b) or (c) could not be prohibited before the date of entry into force of the provisions necessary to comply with Directive 89/104/EEC in the Member State concerned, the rights conferred by the trade mark may not be relied on to prevent the continued use of the sign.
+
+6\. Paragraphs 1, 2, 3 and 5 shall not affect provisions in any Member State relating to the protection against the use of a sign other than use for the purposes of distinguishing goods or services, where use of that sign without due cause takes unfair advantage of, or is detrimental to, the distinctive character or the repute of the trade mark.
+
+#### Article 11 — The right to prohibit preparatory acts in relation to the use of packaging or other means
+
+Where the risk exists that the packaging, labels, tags, security or authenticity features or devices, or any other means to which the trade mark is affixed, could be used in relation to goods or services and that use would constitute an infringement of the rights of the proprietor of a trade mark under Article 10(2) and (3), the proprietor of that trade mark shall have the right to prohibit the following acts if carried out in the course of trade:
+
+(a) affixing a sign identical with, or similar to, the trade mark on packaging, labels, tags, security or authenticity features or devices, or any other means to which the mark may be affixed;
+
+(b) offering or placing on the market, or stocking for those purposes, or importing or exporting, packaging, labels, tags, security or authenticity features or devices, or any other means to which the mark is affixed.
+
+#### Article 12 — Reproduction of trade marks in dictionaries
+
+If the reproduction of a trade mark in a dictionary, encyclopaedia or similar reference work, in print or electronic form, gives the impression that it constitutes the generic name of the goods or services for which the trade mark is registered, the publisher of the work shall, at the request of the proprietor of the trade mark, ensure that the reproduction of the trade mark is, without delay, and in the case of works in printed form at the latest in the next edition of the publication, accompanied by an indication that it is a registered trade mark.
+
+#### Article 13 — Prohibition of the use of a trade mark registered in the name of an agent or representative
+
+1\. Where a trade mark is registered in the name of the agent or representative of a person who is the proprietor of that trade mark, without the proprietor's consent, the latter shall be entitled to do either or both of the following:
+
+(a) oppose the use of the trade mark by his agent or representative;
+
+(b) demand the assignment of the trade mark in his favour.
+
+2\. Paragraph 1 shall not apply where the agent or representative justifies his action.
+
+#### Article 14 — Limitation of the effects of a trade mark
+
+1\. A trade mark shall not entitle the proprietor to prohibit a third party from using, in the course of trade:
+
+(a) the name or address of the third party, where that third party is a natural person;
+
+(b) signs or indications which are not distinctive or which concern the kind, quality, quantity, intended purpose, value, geographical origin, the time of production of goods or of rendering of the service, or other characteristics of goods or services;
+
+(c) the trade mark for the purpose of identifying or referring to goods or services as those of the proprietor of that trade mark, in particular, where the use of the trade mark is necessary to indicate the intended purpose of a product or service, in particular as accessories or spare parts.
+
+2\. Paragraph 1 shall only apply where the use made by the third party is in accordance with honest practices in industrial or commercial matters.
+
+3\. A trade mark shall not entitle the proprietor to prohibit a third party from using, in the course of trade, an earlier right which only applies in a particular locality, if that right is recognised by the law of the Member State in question and the use of that right is within the limits of the territory in which it is recognised.
+
+#### Article 15 — Exhaustion of the rights conferred by a trade mark
+
+1\. A trade mark shall not entitle the proprietor to prohibit its use in relation to goods which have been put on the market in the Union under that trade mark by the proprietor or with the proprietor's consent.
+
+2\. Paragraph 1 shall not apply where there exist legitimate reasons for the proprietor to oppose further commercialisation of the goods, especially where the condition of the goods is changed or impaired after they have been put on the market.
+
+#### Article 16 — Use of trade marks
+
+1\. If, within a period of five years following the date of the completion of the registration procedure, the proprietor has not put the trade mark to genuine use in the Member State in connection with the goods or services in respect of which it is registered, or if such use has been suspended during a continuous five-year period, the trade mark shall be subject to the limits and sanctions provided for in Article 17, Article 19(1), Article 44(1) and (2), and Article 46(3) and (4), unless there are proper reasons for non-use.
+
+2\. Where a Member State provides for opposition proceedings following registration, the five-year period referred to in paragraph 1 shall be calculated from the date when the mark can no longer be opposed or, in the event that an opposition has been lodged, from the date when a decision terminating the opposition proceedings became final or the opposition was withdrawn.
+
+3\. With regard to trade marks registered under international arrangements and having effect in the Member State, the five-year period referred to in paragraph 1 shall be calculated from the date when the mark can no longer be rejected or opposed. Where an opposition has been lodged or when an objection on absolute or relative grounds has been notified, the period shall be calculated from the date when a decision terminating the opposition proceedings or a ruling on absolute or relative grounds for refusal became final or the opposition was withdrawn.
+
+4\. The date of commencement of the five-year period, as referred to in paragraphs 1 and 2, shall be entered in the register.
+
+5\. The following shall also constitute use within the meaning of paragraph 1:
+
+(a) use of the trade mark in a form differing in elements which do not alter the distinctive character of the mark in the form in which it was registered, regardless of whether or not the trade mark in the form as used is also registered in the name of the proprietor;
+
+(b) affixing of the trade mark to goods or to the packaging thereof in the Member State concerned solely for export purposes.
+
+6\. Use of the trade mark with the consent of the proprietor shall be deemed to constitute use by the proprietor.
+
+#### Article 17 — Non-use as defence in infringement proceedings
+
+The proprietor of a trade mark shall be entitled to prohibit the use of a sign only to the extent that the proprietor's rights are not liable to be revoked pursuant to Article 19 at the time the infringement action is brought. If the defendant so requests, the proprietor of the trade mark shall furnish proof that, during the five-year period preceding the date of bringing the action, the trade mark has been put to genuine use as provided in Article 16 in connection with the goods or services in respect of which it is registered and which are cited as justification for the action, or that there are proper reasons for non-use, provided that the registration procedure of the trade mark has at the date of bringing the action been completed for not less than five years.
+
+#### Article 18 — Intervening right of the proprietor of a later registered trade mark as defence in infringement proceedings
+
+1\. In infringement proceedings, the proprietor of a trade mark shall not be entitled to prohibit the use of a later registered mark where that later trade mark would not be declared invalid pursuant to Article 8, Article 9(1) or (2) or Article 46(3).
+
+2\. In infringement proceedings, the proprietor of a trade mark shall not be entitled to prohibit the use of a later registered EU trade mark where that later trade mark would not be declared invalid pursuant to Article 53(1), (3) or (4), 54(1) or (2) or 57(2) of Regulation (EC) No 207/2009.
+
+3\. Where the proprietor of a trade mark is not entitled to prohibit the use of a later registered trade mark pursuant to paragraph 1 or 2, the proprietor of that later registered trade mark shall not be entitled to prohibit the use of the earlier trade mark in infringement proceedings, even though that earlier right may no longer be invoked against the later trade mark.
+
+### SECTION 4 — Revocation of trade mark rights
+
+#### Article 19 — Absence of genuine use as ground for revocation
+
+1\. A trade mark shall be liable to revocation if, within a continuous five-year period, it has not been put to genuine use in the Member State in connection with the goods or services in respect of which it is registered, and there are no proper reasons for non-use.
+
+2\. No person may claim that the proprietor's rights in a trade mark should be revoked where, during the interval between expiry of the five-year period and filing of the application for revocation, genuine use of the trade mark has been started or resumed.
+
+3\. The commencement or resumption of use within the three-month period preceding the filing of the application for revocation which began at the earliest on expiry of the continuous five-year period of non-use shall be disregarded where preparations for the commencement or resumption occur only after the proprietor becomes aware that the application for revocation may be filed.
+
+#### Article 20 — Trade mark having become generic or misleading indication as grounds for revocation
+
+A trade mark shall be liable to revocation if, after the date on which it was registered:
+
+(a) as a result of acts or inactivity of the proprietor, it has become the common name in the trade for a product or service in respect of which it is registered;
+
+(b) as a result of the use made of it by the proprietor of the trade mark or with the proprietor's consent in respect of the goods or services for which it is registered, it is liable to mislead the public, particularly as to the nature, quality or geographical origin of those goods or services.
+
+#### Article 21 — Revocation relating to only some of the goods or services
+
+Where grounds for revocation of a trade mark exist in respect of only some of the goods or services for which that trade mark has been registered, revocation shall cover those goods or services only.
+
+### SECTION 5 — Trade marks as objects of property
+
+#### Article 22 — Transfer of registered trade marks
+
+1\. A trade mark may be transferred, separately from any transfer of the undertaking, in respect of some or all of the goods or services for which it is registered.
+
+2\. A transfer of the whole of the undertaking shall include the transfer of the trade mark except where there is agreement to the contrary or circumstances clearly dictate otherwise. This provision shall apply to the contractual obligation to transfer the undertaking.
+
+3\. Member States shall have procedures in place to allow for the recordal of transfers in their registers.
+
+#### Article 23 — Rights in rem
+
+1\. A trade mark may, independently of the undertaking, be given as security or be the subject of rights in rem.
+
+2\. Member States shall have procedures in place to allow for the recordal of rights in rem in their registers.
+
+#### Article 24 — Levy of execution
+
+1\. A trade mark may be levied in execution.
+
+2\. Member States shall have procedures in place to allow for the recordal of levy of execution in their registers.
+
+#### Article 25 — Licensing
+
+1\. A trade mark may be licensed for some or all of the goods or services for which it is registered and for the whole or part of the Member State concerned. A licence may be exclusive or non-exclusive.
+
+2\. The proprietor of a trade mark may invoke the rights conferred by that trade mark against a licensee who contravenes any provision in his licensing contract with regard to:
+
+(a) its duration;
+
+(b) the form covered by the registration in which the trade mark may be used;
+
+(c) the scope of the goods or services for which the licence is granted;
+
+(d) the territory in which the trade mark may be affixed; or
+
+(e) the quality of the goods manufactured or of the services provided by the licensee.
+
+3\. Without prejudice to the provisions of the licensing contract, the licensee may bring proceedings for infringement of a trade mark only if its proprietor consents thereto. However, the holder of an exclusive licence may bring such proceedings if the proprietor of the trade mark, after formal notice, does not himself bring infringement proceedings within an appropriate period.
+
+4\. A licensee shall, for the purpose of obtaining compensation for damage suffered by him, be entitled to intervene in infringement proceedings brought by the proprietor of the trade mark.
+
+5\. Member States shall have procedures in place to allow for the recordal of licences in their registers.
+
+#### Article 26 — Applications for a trade mark as an object of property
+
+Articles 22 to 25 shall apply to applications for trade marks.
+
+### SECTION 6 — Guarantee or certification marks and collective marks
+
+#### Article 27 — Definitions
+
+For the purposes of this Directive, the following definitions apply:
+
+(a) ‘guarantee or certification mark’ means a trade mark which is described as such when the mark is applied for and is capable of distinguishing goods or services which are certified by the proprietor of the mark in respect of material, mode of manufacture of goods or performance of services, quality, accuracy or other characteristics, from goods and services which are not so certified;
+
+(b) ‘collective mark’ means a trade mark which is described as such when the mark is applied for and is capable of distinguishing the goods or services of the members of an association which is the proprietor of the mark from the goods or services of other undertakings.
+
+#### Article 28 — Guarantee or certification marks
+
+1\. Member States may provide for the registration of guarantee or certification marks.
+
+2\. Any natural or legal person, including institutions, authorities and bodies governed by public law, may apply for guarantee or certification marks provided that such person does not carry on a business involving the supply of goods or services of the kind certified.
+
+Member States may provide that a guarantee or certification mark is not to be registered unless the applicant is competent to certify the goods or services for which the mark is to be registered.
+
+3\. Member States may provide that guarantee or certification marks are not to be registered, or are to be revoked or declared invalid, on grounds other than those specified in Articles 4, 19 and 20, where the function of those marks so requires.
+
+4\. By way of derogation from Article 4(1)(c), Member States may provide that signs or indications which may serve, in trade, to designate the geographical origin of the goods or services may constitute guarantee or certification marks. Such a guarantee or certification mark shall not entitle the proprietor to prohibit a third party from using in the course of trade such signs or indications, provided that third party uses them in accordance with honest practices in industrial or commercial matters. In particular, such a mark may not be invoked against a third party who is entitled to use a geographical name.
+
+5\. The requirements laid down in Article 16 shall be satisfied where genuine use of a guarantee or certification mark in accordance with Article 16 is made by any person who has the authority to use it.
+
+#### Article 29 — Collective marks
+
+1\. Member States shall provide for the registration of collective marks.
+
+2\. Associations of manufacturers, producers, suppliers of services or traders, which, under the terms of the law governing them, have the capacity in their own name to have rights and obligations, to make contracts or accomplish other legal acts, and to sue and be sued, as well as legal persons governed by public law, may apply for collective marks.
+
+3\. By way of derogation from Article 4(1)(c), Member States may provide that signs or indications which may serve, in trade, to designate the geographical origin of the goods or services may constitute collective marks. Such a collective mark shall not entitle the proprietor to prohibit a third party from using, in the course of trade, such signs or indications, provided that third party uses them in accordance with honest practices in industrial or commercial matters. In particular, such a mark may not be invoked against a third party who is entitled to use a geographical name.
+
+#### Article 30 — Regulations governing use of a collective mark
+
+1\. An applicant for a collective mark shall submit the regulations governing its use to the office.
+
+2\. The regulations governing use shall specify at least the persons authorised to use the mark, the conditions of membership of the association and the conditions of use of the mark, including sanctions. The regulations governing use of a mark referred to in Article 29(3) shall authorise any person whose goods or services originate in the geographical area concerned to become a member of the association which is the proprietor of the mark, provided that the person fulfils all the other conditions of the regulations.
+
+#### Article 31 — Refusal of an application
+
+1\. In addition to the grounds for refusal of a trade mark application provided for in Article 4, where appropriate with the exception of Article 4(1)(c) concerning signs or indications which may serve, in trade, to designate the geographical origin of the goods or services, and Article 5,and without prejudice to the right of an office not to undertake examination ex officio of relative grounds, an application for a collective mark shall be refused where the provisions of point (b) of Article 27, Article 29 or Article 30 are not satisfied, or where the regulations governing use of that collective mark are contrary to public policy or to accepted principles of morality.
+
+2\. An application for a collective mark shall also be refused if the public is liable to be misled as regards the character or the significance of the mark, in particular if it is likely to be taken to be something other than a collective mark.
+
+3\. An application shall not be refused if the applicant, as a result of amendment of the regulations governing use of the collective mark, meets the requirements referred to in paragraphs 1 and 2.
+
+#### Article 32 — Use of collective marks
+
+The requirements of Article 16 shall be satisfied where genuine use of a collective mark in accordance with that Article is made by any person who has authority to use it.
+
+#### Article 33 — Amendments to the regulations governing use of a collective mark
+
+1\. The proprietor of a collective mark shall submit to the office any amended regulations governing use.
+
+2\. Amendments to the regulations governing use shall be mentioned in the register unless the amended regulations do not satisfy the requirements of Article 30 or involve one of the grounds for refusal referred to in Article 31.
+
+3\. For the purposes of this Directive, amendments to the regulations governing use shall take effect only from the date of entry of the mention of those amendments in the register.
+
+#### Article 34 — Persons entitled to bring an action for infringement
+
+1\. Article 25(3) and (4) shall apply to every person who has the authority to use a collective mark.
+
+2\. The proprietor of a collective mark shall be entitled to claim compensation on behalf of persons who have authority to use the mark where those persons have sustained damage as a result of unauthorised use of the mark.
+
+#### Article 35 — Additional grounds for revocation
+
+In addition to the grounds for revocation provided for in Articles 19 and 20, the rights of the proprietor of a collective mark shall be revoked on the following grounds:
+
+(a) the proprietor does not take reasonable steps to prevent the mark being used in a manner that is incompatible with the conditions of use laid down in the regulations governing use, including any amendments thereto mentioned in the register;
+
+(b) the manner in which the mark has been used by authorised persons has caused it to become liable to mislead the public in the manner referred to in Article 31(2);
+
+(c) an amendment to the regulations governing use of the mark has been mentioned in the register in breach of Article 33(2), unless the proprietor of the mark, by further amending the regulations governing use, complies with the requirements of that Article.
+
+#### Article 36 — Additional grounds for invalidity
+
+In addition to the grounds for invalidity provided for in Article 4, where appropriate with the exception of Article 4(1)(c) concerning signs or indications which may serve, in trade, to designate the geographical origin of the goods or services, and Article 5, a collective mark which is registered in breach of Article 31 shall be declared invalid unless the proprietor of the mark, by amending the regulations governing use, complies with the requirements of Article 31.
+
+## CHAPTER 3 — PROCEDURES
+
+### SECTION 1 — Application and registration
+
+#### Article 37 — Application requirements
+
+1\. An application for registration of a trade mark shall contain at least all of the following:
+
+(a) a request for registration;
+
+(b) information identifying the applicant;
+
+(c) a list of the goods or services in respect of which the registration is requested;
+
+(d) a representation of the trade mark, which satisfies the requirements set out in point (b) of Article 3.
+
+2\. The application for a trade mark shall be subject to the payment of a fee determined by the Member State concerned.
+
+#### Article 38 — Date of filing
+
+1\. The date of filing of a trade mark application shall be the date on which the documents containing the information specified in Article 37(1) are filed with the office by the applicant.
+
+2\. Member States may, in addition, provide that the accordance of the date of filing is to be subject to the payment of a fee as referred to in Article 37(2).
+
+#### Article 39 — Designation and classification of goods and services
+
+1\. The goods and services in respect of which trade mark registration is applied for shall be classified in conformity with the system of classification established by the Nice Agreement Concerning the International Classification of Goods and Services for the Purposes of the Registration of Marks of 15 June 1957 (‘the Nice Classification’).
+
+2\. The goods and services for which protection is sought shall be identified by the applicant with sufficient clarity and precision to enable the competent authorities and economic operators, on that sole basis, to determine the extent of the protection sought.
+
+3\. For the purposes of paragraph 2, the general indications included in the class headings of the Nice Classification or other general terms may be used, provided that they comply with the requisite standards of clarity and precision set out in this Article.
+
+4\. The office shall reject an application in respect of indications or terms which are unclear or imprecise, where the applicant does not suggest an acceptable wording within a period set by the office to that effect.
+
+5\. The use of general terms, including the general indications of the class headings of the Nice Classification, shall be interpreted as including all the goods or services clearly covered by the literal meaning of the indication or term. The use of such terms or indications shall not be interpreted as comprising a claim to goods or services which cannot be so understood.
+
+6\. Where the applicant requests registration for more than one class, the applicant shall group the goods and services according to the classes of the Nice Classification, each group being preceded by the number of the class to which that group of goods or services belongs, and shall present them in the order of the classes.
+
+7\. Goods and services shall not be regarded as being similar to each other on the ground that they appear in the same class under the Nice Classification. Goods and services shall not be regarded as being dissimilar from each other on the ground that they appear in different classes under the Nice Classification.
+
+#### Article 40 — Observations by third parties
+
+1\. Member States may provide that prior to registration of a trade mark, any natural or legal person and any group or body representing manufacturers, producers, suppliers of services, traders or consumers may submit to the office written observations, explaining on which grounds the trade mark should not be registered ex officio.
+
+Persons and groups or bodies, as referred to in the first subparagraph, shall not be parties to the proceedings before the office.
+
+2\. In addition to the grounds referred to in paragraph 1 of this Article, any natural or legal person and any group or body representing manufacturers, producers, suppliers of services, traders or consumers may submit to the office written observations based on the particular grounds on which the application for a collective mark should be refused under Article 31(1) and (2). This provision may be extended to cover certification and guarantee marks where regulated in Member States.
+
+#### Article 41 — Division of applications and registrations
+
+The applicant or proprietor may divide a national trade mark application or registration into two or more separate applications or registrations by sending a declaration to the office and indicating for each divisional application or registration the goods or services covered by the original application or registration which are to be covered by the divisional applications or registrations.
+
+#### Article 42 — Class fees
+
+Member States may provide that the application and renewal of a trade mark is to be subject to an additional fee for each class of goods and services beyond the first class.
+
+### SECTION 2 — Procedures for opposition, revocation and invalidity
+
+#### Article 43 — Opposition procedure
+
+1\. Member States shall provide for an efficient and expeditious administrative procedure before their offices for opposing the registration of a trade mark application on the grounds provided for in Article 5.
+
+2\. The administrative procedure referred to in paragraph 1 of this Article shall at least provide that the proprietor of an earlier trade mark as referred to in Article 5(2) and Article 5(3)(a), and the person authorised under the relevant law to exercise the rights arising from a protected designation of origin or geographical indication as referred to in Article 5(3)(c) shall be entitled to file a notice of opposition. A notice of opposition may be filed on the basis of one or more earlier rights, provided that they all belong to the same proprietor, and on the basis of part or the totality of the goods or services in respect of which the earlier right is protected or applied for, and may be directed against part or the totality of the goods or services in respect of which the contested mark is applied for.
+
+3\. The parties shall be granted, at their joint request, a minimum of two months in the opposition proceedings in order to allow for the possibility of a friendly settlement between the opposing party and the applicant.
+
+#### Article 44 — Non-use as defence in opposition proceedings
+
+1\. In opposition proceedings pursuant to Article 43, where at the filing date or date of priority of the later trade mark, the five-year period within which the earlier trade mark must have been put to genuine use as provided for in Article 16 had expired, at the request of the applicant, the proprietor of the earlier trade mark who has given notice of opposition shall furnish proof that the earlier trade mark has been put to genuine use as provided for in Article 16 during the five-year period preceding the filing date or date of priority of the later trade mark, or that proper reasons for non-use existed. In the absence of proof to this effect, the opposition shall be rejected.
+
+2\. If the earlier trade mark has been used in relation to only part of the goods or services for which it is registered, it shall, for the purpose of the examination of the opposition as provided for in paragraph 1, be deemed to be registered in respect of that part of the goods or services only.
+
+3\. Paragraphs 1 and 2 of this Article shall also apply where the earlier trade mark is an EU trade mark. In such a case, the genuine use of the EU trade mark shall be determined in accordance with Article 15 of Regulation (EC) No 207/2009.
+
+#### Article 45 — Procedure for revocation or declaration of invalidity
+
+1\. Without prejudice to the right of the parties to appeal to the courts, Member States shall provide for an efficient and expeditious administrative procedure before their offices for the revocation or declaration of invalidity of a trade mark.
+
+2\. The administrative procedure for revocation shall provide that the trade mark is to be revoked on the grounds provided for in Articles 19 and 20.
+
+3\. The administrative procedure for invalidity shall provide that the trade mark is to be declared invalid at least on the following grounds:
+
+(a) the trade mark should not have been registered because it does not comply with the requirements provided for in Article 4;
+
+(b) the trade mark should not have been registered because of the existence of an earlier right within the meaning of Article 5(1) to (3).
+
+4\. The administrative procedure shall provide that at least the following are to be entitled to file an application for revocation or for a declaration of invalidity:
+
+(a) in the case of paragraph 2 and paragraph 3(a), any natural or legal person and any group or body set up for the purpose of representing the interests of manufacturers, producers, suppliers of services, traders or consumers, and which, under the terms of the law governing it, has the capacity to sue in its own name and to be sued;
+
+(b) in the case of paragraph 3(b) of this Article, the proprietor of an earlier trade mark as referred to in Article 5(2) and Article 5(3)(a), and the person authorised under the relevant law to exercise the rights arising from a protected designation of origin or geographical indication as referred to in Article 5(3)(c).
+
+5\. An application for revocation or for a declaration of invalidity may be directed against a part or the totality of the goods or services in respect of which the contested mark is registered.
+
+6\. An application for a declaration of invalidity may be filed on the basis of one or more earlier rights, provided they all belong to the same proprietor.
+
+#### Article 46 — Non-use as a defence in proceedings seeking a declaration of invalidity
+
+1\. In proceedings for a declaration of invalidity based on a registered trade mark with an earlier filing date or priority date, if the proprietor of the later trade mark so requests, the proprietor of the earlier trade mark shall furnish proof that, during the five-year period preceding the date of the application for a declaration of invalidity, the earlier trade mark has been put to genuine use, as provided for in Article 16, in connection with the goods or services in respect of which it is registered and which are cited as justification for the application, or that there are proper reasons for non-use, provided that the registration process of the earlier trade mark has at the date of the application for a declaration of invalidity been completed for not less than five years.
+
+2\. Where, at the filing date or date of priority of the later trade mark, the five-year period within which the earlier trade mark was to have been put to genuine use, as provided for in Article 16, had expired, the proprietor of the earlier trade mark shall, in addition to the proof required under paragraph 1 of this Article, furnish proof that the trade mark was put to genuine use during the five-year period preceding the filing date or date of priority, or that proper reasons for non-use existed.
+
+3\. In the absence of the proof referred to in paragraphs 1 and 2, an application for a declaration of invalidity on the basis of an earlier trade mark shall be rejected.
+
+4\. If the earlier trade mark has been used in accordance with Article 16 in relation to only part of the goods or services for which it is registered, it shall, for the purpose of the examination of the application for a declaration of invalidity, be deemed to be registered in respect of that part of the goods or services only.
+
+5\. Paragraphs 1 to 4 of this Article shall also apply where the earlier trade mark is an EU trade mark. In such a case, genuine use of the EU trade mark shall be determined in accordance with Article 15 of Regulation (EC) No 207/2009.
+
+#### Article 47 — Consequences of revocation and invalidity
+
+1\. A registered trade mark shall be deemed not to have had, as from the date of the application for revocation, the effects specified in this Directive, to the extent that the rights of the proprietor have been revoked. An earlier date, on which one of the grounds for revocation occurred, may be fixed in the decision on the application for revocation, at the request of one of the parties.
+
+2\. A registered trade mark shall be deemed not to have had, as from the outset, the effects specified in this Directive, to the extent that the trade mark has been declared invalid.
+
+### SECTION 3 — Duration and renewal of registration
+
+#### Article 48 — Duration of registration
+
+1\. Trade marks shall be registered for a period of 10 years from the date of filing of the application.
+
+2\. Registration may be renewed in accordance with Article 49 for further 10-year periods.
+
+#### Article 49 — Renewal
+
+1\. Registration of a trade mark shall be renewed at the request of the proprietor of the trade mark or any person authorised to do so by law or by contract, provided that the renewal fees have been paid. Member States may provide that receipt of payment of the renewal fees is to be deemed to constitute such a request.
+
+2\. The office shall inform the proprietor of the trade mark of the expiry of the registration at least six months before the said expiry. The office shall not be held liable if it fails to give such information.
+
+3\. The request for renewal shall be submitted and the renewal fees shall be paid within a period of at least six months immediately preceding the expiry of the registration. Failing that, the request may be submitted within a further period of six months immediately following the expiry of the registration or of the subsequent renewal thereof. The renewal fees and an additional fee shall be paid within that further period.
+
+4\. Where the request is submitted or the fees paid in respect of only some of the goods or services for which the trade mark is registered, registration shall be renewed for those goods or services only.
+
+5\. Renewal shall take effect from the day following the date on which the existing registration expires. The renewal shall be recorded in the register.
+
+### SECTION 4 — Communication with the office
+
+#### Article 50 — Communication with the office
+
+Parties to the proceedings or, where appointed, their representatives, shall designate an official address for all official communication with the office. Member States shall have the right to require that such an official address be situated in the European Economic Area.
+
+## CHAPTER 4 — ADMINISTRATIVE COOPERATION
+
+#### Article 51 — Cooperation in the area of trade mark registration and administration
+
+The offices shall be free to cooperate effectively with each other and with the European Union Intellectual Property Office in order to promote convergence of practices and tools in relation to the examination and registration of trade marks.
+
+#### Article 52 — Cooperation in other areas
+
+The offices shall be free to cooperate effectively with each other and with the European Union Intellectual Property Office in all areas of their activities other than those referred to in Article 51 which are of relevance for the protection of trade marks in the Union.
+
+## CHAPTER 5 — FINAL PROVISIONS
+
+#### Article 53 — Data protection
+
+The processing of any personal data carried out in the Member States in the framework of this Directive shall be subject to national law implementing Directive 95/46/EC.
+
+#### Article 54 — Transposition
+
+1\. Member States shall bring into force the laws, regulations and administrative provisions necessary to comply with Articles 3 to 6, Articles 8 to 14, Articles 16, 17 and 18, Articles 22 to 39, Article 41, Articles 43 and 44 and Articles 46 to 50  by 14 January 2019. Member States shall bring into force the laws, regulations and administrative provisions to comply with Article 45 by 14 January 2023. They shall immediately communicate the text of those measures to the Commission.
+
+When Member States adopt those measures, they shall contain a reference to this Directive or be accompanied by such a reference on the occasion of their official publication. They shall also include a statement that references in existing laws, regulations and administrative provisions to the Directive repealed by this Directive shall be construed as references to this Directive. Member States shall determine how such reference is to be made and how that statement is to be formulated.
+
+2\. Member States shall communicate to the Commission the text of the main provisions of national law which they adopt in the field covered by this Directive.
+
+#### Article 55 — Repeal
+
+Directive 2008/95/EC is repealed with effect from 15 January 2019, without prejudice to the obligations of the Member States relating to the time limit for the transposition into national law of Directive 89/104/EEC set out in Part B of Annex I to Directive 2008/95/EC.
+
+References to the repealed Directive shall be construed as references to this Directive and shall be read in accordance with the correlation table in the Annex.
+
+#### Article 56 — Entry into Force
+
+This Directive shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+
+Articles 1, 7, 15, 19, 20 and 21 shall apply from 15 January 2019.
+
+#### Article 57 — Addressees
+
+This Directive is addressed to the Member States.
+
+## ANNEX
+
+**Correlation table**
+
+| Directive 2008/95/EC | This Directive |
+| --- | --- |
+| Article 1 | Article 1 |
+| — | Article 2 |
+| Article 2 | Article 3 |
+| Article 3(1)(a) to (h) | Article 4(1)(a) to (h) |
+| — | Article 4(1)(i) to (l) |
+| Article 3(2)(a) to (c) | Article 4(3)(a) to (c) |
+| Article 3(2)(d) | Article 4(2) |
+| Article 3(3), first sentence | Article 4(4), first sentence |
+| — | Article 4(4), second sentence |
+| Article 3(3), second sentence | Article 4(5) |
+| Article 3(4) | — |
+| Article 4(1) and (2) | Article 5(1) and (2) |
+| Article 4(3) and (4)(a) | Article 5(3)(a) |
+| — | Article 5(3)(b) |
+| — | Article 5(3)(c) |
+| Article 4(4)(b) and (c) | Article 5(4)(a) and (b) |
+| Article 4(4)(d) to (f) | — |
+| Article 4(4)(g) | Article 5(4)(c) |
+| Article 4(5) and (6) | Article 5(5) and (6) |
+| — | Article 8 |
+| Article 5(1), first sentence | Article 10(1) |
+| Article 5(1), second sentence, introductory part | Article 10(2), introductory part of the sentence |
+| Article 5(1)(a) and (b) | Article 10(2)(a) and (b) |
+| Article 5(2) | Article 10(2)(c) |
+| Article 5(3)(a) to (c) | Article 10(3)(a) to (c) |
+| — | Article 10(3)(d) |
+| Article 5(3)(d) | Article 10(3)(e) |
+| — | Article 10(3)(f) |
+| — | Article 10(4) |
+| Article 5(4) and (5) | Article 10(5) and (6) |
+| — | Article 11 |
+| — | Article 12 |
+| — | Article 13 |
+| Article 6(1)(a) to (c) | Article 14(1)(a) to (c), and (2) |
+| Article 6(2) | Article 14(3) |
+| Article 7 | Article 15 |
+| Article 8(1) and (2) | Article 25(1) and (2) |
+| — | Article 25(3) to (5) |
+| Article 9 | Article 9 |
+| Article 10(1), first subparagraph | Article 16(1) |
+| — | Article 16(2) to (4) |
+| Article 10(1), second subparagraph | Article 16(5) |
+| Article 10(2) | Article 16(6) |
+| Article 10(3) | — |
+| Article 11(1) | Article 46(1) to (3) |
+| Article 11(2) | Article 44(1) |
+| Article 11(3) | Article 17 |
+| Article 11(4) | Articles 17, 44(2) and Article 46(4) |
+| — | Article 18 |
+| Article 12(1), first subparagraph | Article 19(1) |
+| Article 12(1), second subparagraph | Article 19(2) |
+| Article 12(1), third subparagraph | Article 19(3) |
+| Article 12(2) | Article 20 |
+| Article 13 | Article 7 and Article 21 |
+| Article 14 | Article 6 |
+| — | Articles 22 to 24 |
+| — | Article 26 |
+| — | Article 27 |
+| Article 15(1) | Article 28(1) and (3) |
+| Article 15(2) | Article 28(4) |
+| — | Article 28(2) and (5) |
+| — | Articles 29 to 54(1) |
+| Article 16 | Article 54(2) |
+| Article 17 | Article 55 |
+| Article 18 | Article 56 |
+| Article 19 | Article 57 |
+
+( 1 ) OJ C 327, 12.11.2013, p. 42.
+
+( 2 ) Position of the European Parliament of 25 February 2014 (not yet published in the Official Journal) and position of the Council at first reading of 10 November 2015 (not yet published in the Official Journal). Position of the European Parliament of 15 December 2015.
+
+( 3 ) Directive 2008/95/EC of the European Parliament and of the Council of 22 October 2008 to approximate the laws of the Member States relating to trade marks (OJ L 299, 8.11.2008, p. 25).
+
+( 4 ) Council Regulation (EC) No 207/2009 of 26 February 2009 on the Community trade mark (OJ L 78, 24.3.2009, p. 1).
+
+( 5 ) Directive 2006/114/EC of the European Parliament and of the Council of 12 December 2006 concerning misleading and comparative advertising (OJ L 376, 27.12.2006, p. 21).
+
+( 6 ) Regulation (EU) No 608/2013 of the European Parliament and of the Council of 12 June 2013 concerning customs enforcement of intellectual property rights and repealing Council Regulation (EC) No 1383/2003 (OJ L 181, 29.6.2013, p. 15).
+
+( 7 ) Directive 95/46/EC of the European Parliament and of the Council of 24 October 1995 on the protection of individuals with regard to the processing of personal data and on the free movement of such data (OJ L 281, 23.11.1995, p. 31).
+
+( 8 ) Regulation (EC) No 45/2001 of the European Parliament and of the Council of 18 December 2000 on the protection of individuals with regard to the processing of personal data by the Community institutions and bodies and on the free movement of such data (OJ L 8, 12.1.2001, p. 1).
+
+( 9 ) First Council Directive 89/104/EEC of 21 December 1988 to approximate the laws of the Member States relating to trade marks (OJ L 40, 11.2.1989, p. 1).

@@ -1,0 +1,395 @@
+---
+title: "Directive 2005/44/EC of the European Parliament and of the Council of 7 September 2005 on harmonised river information services (RIS) on inland waterways in the Community"
+identifier: "32005L0044"
+eli: "http://data.europa.eu/eli/dir/2005/44/oj"
+type: directive
+jurisdiction: eu
+language: en
+date: 2005-09-07
+entry_into_force: 2005-12-24
+last_amended: 2026-01-01
+consolidated_version: "02005L0044-20260101"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02005L0044-20260101"
+retrieved: 2026-10-11
+---
+
+# Directive 2005/44/EC of the European Parliament and of the Council of 7 September 2005 on harmonised river information services (RIS) on inland waterways in the Community
+
+**DIRECTIVE 2005/44/EC OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 7 September 2005**
+
+**on harmonised river information services (RIS) on inland waterways in the Community**
+
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td> M1</td><td> REGULATION (EC) No 219/2009 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 11 March 2009 </td><td> L 87</td><td>109</td><td>31.3.2009</td></tr>
+<tr><td></td><td> REGULATION (EU) 2019/1243 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 20 June 2019 </td><td> L 198</td><td>241</td><td>25.7.2019</td></tr>
+<tr><td></td><td> DIRECTIVE (EU) 2025/2482 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 26 November 2025 </td><td> L 2482</td><td>1</td><td>12.12.2025</td></tr>
+
+C1
+
+**DIRECTIVE 2005/44/EC OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 7 September 2005**
+
+**on harmonised river information services (RIS) on inland waterways in the Community**
+
+## Article 1 — Subject matter
+
+1\. This Directive establishes a framework for the deployment and use of harmonised river information services (RIS) in the Union in order to support inland waterway transport with a view to enhancing its safety, efficiency and sustainability and to facilitating interfaces with other transport modes.
+
+2\. This Directive provides a framework for the establishment and further development of technical requirements, specifications and conditions to ensure harmonised, interoperable and accessible RIS on inland waterways in the Union and to facilitate continuity with traffic management services of other transport modes through the use of standardised interfaces.
+
+## Article 2 — Scope
+
+1\. This Directive applies to the implementation and operation of RIS on all inland waterways and inland ports of the Member States that form part of the trans-European transport network, as specified and listed in Annexes I and II to Regulation (EU) 2024/1679 of the European Parliament and of the Council ( 1 ), and that are directly connected to inland waterways and inland ports of another Member State that form part of the trans-European transport network, as specified and listed in those Annexes.
+
+2\. Member States may apply this Directive to inland waterways and inland ports not referred to in paragraph 1.
+
+## Article 3 — Definitions
+
+For the purposes of this Directive, the following definitions shall apply:
+
+(a) ‘river information services (RIS)’ means the harmonised information services to support traffic and transport management in inland navigation, including, wherever technically feasible, interfaces with other transport modes. RIS do not deal with internal commercial activities between one or more of the involved companies, but are open for interfacing with commercial activities. RIS comprise services such as fairway information, traffic information, traffic management, calamity abatement support, information for transport management, statistics and customs services and waterway charges and port dues;
+
+(b) ‘fairway information’ means geographical, hydrological, and administrative information regarding the waterway (fairway). Fairway Information is one-way information: shore to ship or shore to office;
+
+(c) ‘tactical traffic information’ means the information affecting immediate navigation decisions in the actual traffic situation and the close geographic surroundings;
+
+(d) ‘strategic traffic information’ means the information affecting the medium and long-term decisions of RIS users;
+
+(e) ‘RIS application’ means the provision of river information services through dedicated systems;
+
+(f) ‘RIS centre’, means the place where the services are managed by operators;
+
+(g) ‘RIS users’ means all different user groups including boat masters, RIS operators, lock and/or bridge operators, waterway authorities, port and terminal operators, operators in calamity centres of emergency services, fleet managers, cargo shippers and freight brokers;
+
+(h) ‘interoperability’ means that services, data contents, data exchange formats and frequencies are harmonised in such a way that RIS users have access to the same services and information on a European level;
+
+(i) ‘trans-European transport network’ or ‘TEN-T’ means inland waterways as specified in the maps set out in Annex I to Regulation (EU) 2024/1679;
+
+(j) ‘European Reference Data Management System’ or ‘ERDMS’ means a single point of access repository (library) of reference data and code lists that are used by IT applications in inland waterway transport operated under the authority of the Commission; it does not include the network data provided by the Member State in accordance with Annexes I and III;
+
+(k) ‘port community system’ means an electronic platform for the exchange of information between public and private stakeholders to ensure smooth port and logistics processes;
+
+(l) ‘smart inland waterway infrastructure system’ means an electronic platform that supports semi- and fully automated management of inland waterway transport infrastructure in locks and movable bridges in the TEN-T and is operated by the public management authorities of inland waterways;
+
+(m) ‘European RIS Environment’ means an electronic single-point-of-access platform based on national RIS information that provides technical and operational services for RIS users and contains links to electronic reporting according to the ‘once-only’ principle;
+
+(n) ‘inland port’ means an inland waterway port of the TEN-T core network or TEN-T comprehensive network, as listed and categorised in Annex II to Regulation (EU) 2024/1679.
+
+## Article 4 — Setting-up of RIS
+
+1\. Member States shall take the necessary measures to implement RIS on inland waterways and inland ports falling within the scope of this Directive.
+
+2\. Member States shall develop RIS in such a way that the RIS application is efficient, expandable and interoperable so as to interact with other RIS applications and with systems for other modes of transport, while also providing interfaces to transport management systems and commercial activities.
+
+3\. In order to set up RIS, Member States shall:
+
+(a) ensure that all relevant data for navigation and voyage planning on inland waterways are supplied to RIS users; those network data, as set out in Annex I, shall be kept up-to-date and provided at least in an accessible common electronic format in accordance with Annex III;
+
+(b) ensure that for all their inland waterways and inland ports of the TEN-T, in addition to the data referred to in point (a), electronic navigational charts suitable for navigational purposes are available to RIS users;
+
+(c) enable, as far as ship reporting is required by national or international regulations, the competent authorities to receive electronic ship reports of all required data from ships; in cross-border transport, those data shall be made available in full to the competent authorities of the neighbouring Member State before arrival of the vessels at the border;
+
+(d) ensure that notices to skippers, including on water level or maximum allowable draught, and ice reports of their inland waterways are provided as standardised, encoded and downloadable messages; the standardised message shall contain at least the information necessary for safe navigation and the notices to skippers shall be kept up-to-date and provided at least in an accessible common electronic format in accordance with Annex III;
+
+(e) ensure that the network data in the European RIS Environment are kept up to date by supplying all the necessary network data in accordance with Annexes I and III without delay;
+
+(f) ensure, when available, that at least traffic related information is made available through interfaces following the technical specifications laid down in accordance with point 7 of Annex II, where applicable, to electronic information exchange environments established by Union law and used in other transport modes;
+
+(g) ensure that standardised interfaces in accordance with Annexes II and III to this Directive are made available to the port community systems of inland ports, including, when available, up-to-date information on the availability of berths and of alternative fuel infrastructure, and in particular the installations required pursuant to Article 10 of Regulation (EU) 2023/1804 of the European Parliament and of the Council ( 2 );
+
+(h) ensure that standardised interfaces in accordance with Annexes II and III are made available to other smart inland waterways infrastructure systems for the purpose of managing inland waterway traffic.
+
+The obligations referred to in this paragraph shall be fulfilled in compliance with the requirements and principles set out in Annexes I and II.
+
+4\. The competent authorities of the Member States shall establish RIS centres according to regional needs.
+
+5\. Member States shall jointly create, govern, operate, use and maintain a European RIS Environment that provides fairway-, infrastructure-, traffic-, and transport-related services, and shall provide the necessary data. The European RIS Environment shall be accessible for all RIS users and shall be the main platform for the exchange of RIS-related information. It shall contain interfaces for connections with systems of other transport modes and inland ports. Member States shall designate one or more competent authorities responsible for the operation of the European RIS Environment. The European RIS Environment shall allow for the possibility of contributions from third countries whose waterways are connected to the European inland waterway network and which are willing to cooperate and provide their network data, provided that the data are of identical quality and format to that of Member States and that they adhere to the same level of cybersecurity and data protection.
+
+6\. The Commission shall adopt implementing acts which lay down the operational characteristics, roles and procedures for the European RIS Environment and which identify its operating entity, based on the principles for RIS technical specifications set out in point 6 of Annex II, to ensure their uniform implementation throughout the Union. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 11(2).
+
+7\. For the use of the automatic identification systems (AIS), the Regional Arrangement on the Radiocommunication Service for Inland Waterways (RAINWAT), concluded in Bucharest on 12 April 2012, in the framework of the radio regulations of the International Telecommunication Union (ITU) shall apply.
+
+8\. Member States, in cooperation with the Union, if appropriate, shall encourage boat masters, operators, agents or owners of vessels navigating on their inland waterways and shippers or owners of goods carried on board such vessels to fully profit from the services which are made available under this Directive.
+
+9\. The Commission shall take appropriate measures to verify the interoperability, reliability, availability and safety of RIS.
+
+## Article 5 — Technical specifications
+
+1\. In order to support RIS and to ensure the interoperability of services in accordance with Article 4(2), the technical specifications referred to in Annex III in line with the principles set out in Annex II shall apply and shall cover in particular the following areas:
+
+(a) electronic chart display and information system for inland navigation (inland ECDIS);
+
+(b) electronic ship reporting;
+
+(c) notices to skippers;
+
+(d) vessel tracking and tracing systems;
+
+(e) compatibility of the equipment necessary for the use of RIS;
+
+(f) operation of the European RIS Environment;
+
+(g) interconnection and exchange of information with Union data bases (ERDMS);
+
+(h) standardised interface for IT platforms of other transport modes;
+
+(i) standardised interface between the European RIS Environment and port community systems of inland ports and between the European RIS Environment and smart inland waterway infrastructure systems;
+
+(j) data for navigation and voyage planning on inland waterways.
+
+## Article 6 — Satellite positioning
+
+For the purposes of RIS, for which exact positioning is required, it is recommended to use satellite positioning and navigation systems, such as navigation services provided by Galileo, including the high-accuracy service and Open Service Navigation Message Authentication and the European Geostationary Navigation Overlay Service (EGNOS) referred to in Regulation (EU) 2021/696 of the European Parliament and of the Council ( 3 ). For the purposes of applications and services relying on Earth observation data, the use of Copernicus data, information and services is recommended.
+
+## Article 7 — Type-approval of RIS equipment
+
+1\. Where necessary for the safety of navigation and required by the relevant technical specifications, RIS terminal and network equipment and software applications shall be type-approved for compliance with those specifications before being put into service on inland waterways.
+
+2\. Member States shall notify to the Commission the national bodies responsible for type-approval. The Commission shall communicate such information to the other Member States.
+
+3\. All Member States shall recognise type-approvals issued by the national bodies of the other Member States referred to in paragraph 2.
+
+## Article 8 — Competent authorities
+
+Member States shall designate competent authorities responsible for the RIS application, for the international exchange of data, for the operation of the European RIS Environment and for the handling of feedback by RIS users. They shall notify those designated authorities to the Commission by 17 January 2029.
+
+## Article 8a — Feedback mechanism
+
+1\. Each Member State shall ensure that an effective, simple and accessible procedure is in place, building, where possible, on existing structures, to handle feedback from RIS users arising from the application of this Directive.
+
+2\. The handling of feedback from RIS users shall be carried out in a manner which avoids conflicts of interest. The handling of feedback shall be impartial and transparent and shall duly respect the right to freely conduct business.
+
+3\. Feedback from RIS users shall be submitted through the European RIS Environment and be transmitted to the relevant Member States. Member States shall ensure that RIS users and other relevant stakeholders are informed of where and how to submit feedback.
+
+4\. Member States shall ensure that feedback from RIS users is handled in a timely and appropriate manner and that the information on its follow-up is provided through the European RIS Environment.
+
+5\. The European RIS Environment shall inform the Commission, on an annual basis, of the amount of feedback received and of the way that the feedback was handled.
+
+## Article 9 — Rules on privacy, security of information and processing of personal data
+
+1\. Member States shall take the necessary technical and organisational measures in accordance with applicable Union and national law in order to protect RIS information and records against untoward events or misuse, including improper access, alteration or loss, and to ensure the confidentiality of commercial and other sensitive information exchanged pursuant to this Directive.
+
+2\. Data that constitute personal data as defined in Article 4, point (1), of Regulation (EU) 2016/679 of the European Parliament and of the Council ( 4 ) may be processed on the basis of this Directive only insofar as such processing is necessary for the operation of RIS applications, with a view to ensuring harmonised, interoperable and accessible RIS on inland waterways in the Union and to facilitating standardised interfaces with traffic management services of other transport modes.
+
+## Article 10 — Delegated powers
+
+1\. The Commission shall be empowered to adopt delegated acts in accordance with Article 10a to amend Annex I, by updating and revising the minimum data requirements, taking into account the experience gained from the application of this Directive, and the technical progress in developing RIS technologies and applications.
+
+2\. In the absence of pertinent and up-to-date technical specifications, or when technical specifications developed by the European committee for drawing up standards in the field of inland navigation (CESNI) do not comply with any of the applicable requirements set out in the Annex II, or where changes in the decision-making process of CESNI or in other elements of the standard would compromise Union interests, and where duly justified by an appropriate analysis, the Commission shall be empowered to adopt delegated acts in accordance with Article 10a to amend Annex III to provide appropriate technical specifications based on the principles set out in Annex II.
+
+## Article 10a — Exercise of the delegation
+
+1\. The power to adopt delegated acts is conferred on the Commission subject to the conditions laid down in this Article.
+
+2\. The power to adopt delegated acts referred to in Article 10 shall be conferred on the Commission for a period of five years from 1 January 2026. The Commission shall draw up a report in respect of the delegation of power not later than nine months before the end of the five-year period. The delegation of power shall be tacitly extended for periods of an identical duration, unless the European Parliament or the Council opposes such extension not later than three months before the end of each period.
+
+3\. The delegation of power referred to in Article 10 may be revoked at any time by the European Parliament or by the Council. A decision to revoke shall put an end to the delegation of the power specified in that decision. It shall take effect the day following the publication of the decision in the Official Journal of the European Union or at a later date specified therein. It shall not affect the validity of any delegated acts already in force.
+
+4\. Before adopting a delegated act, the Commission shall consult experts designated by each Member State in accordance with the principles laid down in the Interinstitutional Agreement of 13 April 2016 on Better Law-Making ( 5 ).
+
+5\. As soon as it adopts a delegated act, the Commission shall notify it simultaneously to the European Parliament and to the Council.
+
+6\. A delegated act adopted pursuant to Article 10 shall enter into force only if no objection has been expressed either by the European Parliament or by the Council within a period of two months of notification of that act to the European Parliament and the Council or if, before the expiry of that period, the European Parliament and the Council have both informed the Commission that they will not object. That period shall be extended by two months at the initiative of the European Parliament or of the Council.
+
+## Article 11 — Committee procedure
+
+1\. The Commission shall be assisted by the Inland Waterway Transport Committee. That committee shall be a committee within the meaning of Regulation (EU) No 182/2011 of the European Parliament and of the Council ( 6 ).
+
+2\. Where reference is made to this paragraph, Article 5 of Regulation (EU) No 182/2011 shall apply.
+
+Where the committee delivers no opinion, the Commission shall not adopt the draft implementing act and Article 5(4), third subparagraph, of Regulation (EU) No 182/2011 shall apply.
+
+## Article 12 — Transposition
+
+1\. Member States which have inland waterways falling within the scope of Article 2 shall bring into force the laws, regulations and administrative provisions necessary to comply with this Directive by 20 October 2007. They shall forthwith inform the Commission thereof.
+
+When Member States adopt these measures, they shall contain a reference to this Directive or shall be accompanied by such reference on the occasion of their official publication. Member States shall determine how such reference is to be made.
+
+4\. Member States shall communicate to the Commission the text of the main provisions of national law which they adopt in the field governed by this Directive.
+
+5\. Where necessary, Member States shall assist one another in the implementation of this Directive.
+
+6\. The Commission shall monitor the setting up of RIS in the Community and shall report to the European Parliament and to the Council by 20 October 2008.
+
+## Article 12a — Monitoring
+
+The Commission shall monitor the setting up of RIS in the Union and shall report to the European Parliament and to the Council by 3 January 2034. The report shall include an analysis of the impact of this Directive on the level of integration of inland waterway transport in the overall logistics chain and shall examine the potential for new digital tools to increase efficiency throughout the TEN-T inland waterway network.
+
+## Article 13 — Entry into force
+
+This Directive shall enter into force on the 20th day following its publication in the Official Journal of the European Union.
+
+## Article 14 — Addressees
+
+This Directive is addressed to the Member States which have inland waterways falling within the scope of Article 2.
+
+## ANNEX I — MINIMUM DATA REQUIREMENTS
+
+As referred to in Article 4(3), point (a), in particular the following data shall be supplied:
+
+(a) waterway axis with kilometre indication;
+
+(b) restrictions for vessels or convoys in terms of length, width, draught and air draught;
+
+(c) operation times of restricting structures, in particular locks and bridges;
+
+(d) predicted waiting times at bridges, locks and inland ports, in real time when available;
+
+(e) location of ports and transhipment sites;
+
+(f) reference data for water level gauges relevant to navigation;
+
+(g) location and, when available, current availability of alternative fuels infrastructure, including shore-side electricity supply.
+
+The information provided shall be kept up-to-date and, when available, reflect the real-time situation.
+
+## ANNEX II — PRINCIPLES FOR RIS TECHNICAL SPECIFICATIONS
+
+**1\. General principles**
+
+The RIS technical specifications shall respect the following general principles:
+
+(a) the indication of technical requirements for the planning, implementing and operational use of services and related systems;
+
+(b) the RIS architecture and organisation;
+
+(c) recommendations for vessels to participate in RIS, for individual services and for the stepwise development of RIS.
+
+**2\. Electronic chart display and information system for inland navigation (inland ECDIS)**
+
+The technical specifications to be established in accordance with Article 5 for an electronic chart display and information system for inland navigation (inland ECDIS) shall respect the following principles:
+
+(a) compatibility with the maritime electronic chart display and information system (maritime ECDIS) in order to facilitate traffic of inland waterway vessels in mixed traffic zones of the estuaries and sea-river traffic;
+
+(b) the specification of minimum requirements for inland ECDIS equipment as well as the minimum content of electronic navigational charts with a view to the safety of navigation, in particular:
+
+(i) a high level of reliability and availability of the inland ECDIS equipment used;
+
+(ii) the robustness of the inland ECDIS equipment in order to withstand the environmental conditions typically prevailing on board a vessel without any degradation in quality or reliability;
+
+(iii) the inclusion in the electronic navigational chart of all kinds of geographical objects, for example boundaries of the fairway, shoreline constructions, and beacons, that are needed for safe navigation;
+
+(iv) the monitoring of the electronic chart with overlaid radar image when used for conning the vessel;
+
+(c) the integration of up-to-date depth information on the fairway in the electronic navigational chart and display of such information in relation to a predefined or the actual water level;
+
+(d) the integration of additional information, for example of parties other than the competent authorities, in the electronic navigational chart and display of such information in the inland ECDIS without affecting the information that is needed for safe navigation;
+
+(e) the availability of electronic navigational charts to RIS users;
+
+(f) the availability of the data for electronic navigational charts to all manufacturers of applications, when appropriate against a reasonable cost-related charge;
+
+(g) the integration of up-to-date information on the waiting times at locks, bridges and inland ports and display of such information in the inland ECDIS without affecting the information that is needed for safe navigation.
+
+**3\. Electronic ship reporting**
+
+The technical specifications for electronic ship reporting in inland navigation in accordance with Article 5 shall respect the following principles:
+
+(a) the facilitation of the electronic data exchange between the competent authorities of the Member States, between participants in inland as well as maritime navigation and in multi-modal transport where inland navigation is involved;
+
+(b) the use of a standardised transport notification message for ship-to-authority, authority-to-ship and authority-to-authority messaging in order to achieve compatibility with maritime navigation;
+
+(c) the use of internationally accepted code lists and classifications, possibly complemented by additional inland navigation needs;
+
+(d) the use of a unique European vessel identification number.
+
+**4\. Notices to skippers**
+
+The technical specifications for notices to skippers in accordance with Article 5, in particular regarding fairway information, traffic information and traffic management as well as voyage planning on inland waterways, shall respect the following principles:
+
+(a) a standardised data structure using predefined text modules and encoded to a high extent in order to enable automatic translation of the most important content into other languages and to facilitate the integration of notices to skippers into voyage planning systems;
+
+(b) the compatibility of the standardised data structure with the data structure of inland ECDIS to facilitate integration of notices to skippers in inland ECDIS;
+
+(c) an alignment with technical specifications for navigation and voyage planning on inland waterways to ensure coherence of provided information.
+
+**5\. Vessel tracking and tracing systems**
+
+The technical specifications for vessel tracking and tracing systems in accordance with Article 5 shall respect the following principles:
+
+(a) the specification of the requirements concerning systems and of standard messages as well as procedures so that they can be provided in an automated way;
+
+(b) the differentiation between systems suited to requirements of tactical traffic information and systems suited to requirements of strategic traffic information, both with regard to positioning accuracy and required update rate;
+
+(c) the description of the relevant technical systems for vessel tracking and tracing such as Inland AIS (inland automatic identification system);
+
+(d) compatibility of data formats with the maritime AIS system.
+
+**6\. Operational principles of the European RIS Environment**
+
+The technical specifications of the European RIS Environment in accordance with Article 5 shall respect the following principles:
+
+(a) acting as a single digital window for inland navigation;
+
+(b) a harmonised, single point of access for up-to-date and, if possible, real-time information on fairway conditions for safe and sustainable navigation, voyage planning and port operations along the TEN-T;
+
+(c) enabling multi-modality transport chains while providing an adequate level of data protection;
+
+(d) high level of data accuracy for seamless data exchange among relevant RIS users along the TEN-T (within and outside the Union);
+
+(e) user-friendly interface with serviceable, useful and practical functionalities such as the ability to save and store profiles;
+
+(f) harmonised, single point of reporting in accordance with the ‘once-only’ principle, also for international voyages;
+
+(g) link with other systems using information, communication, navigation or positioning/localisation technologies in order to manage infrastructure, mobility and traffic on the TEN-T effectively and to provide value-added services to citizens and operators, including systems for safe, secure, environmentally sound and capacity-efficient use of the TEN-T;
+
+(h) collect and report anonymised and aggregate usage data that can be used for the monitoring of the implementation of RIS, including at least the number of RIS users, data availability in the European RIS Environment, connection and the number of exchanges with other digital systems or platforms;
+
+(i) ensure cybersecurity.
+
+**7\. Availability of data for other digital systems or platforms**
+
+The technical specifications for exchange of data with other digital systems or platforms, in accordance with Article 5, shall respect the following principles:
+
+(a) build on the functionalities provided by the European RIS Environment;
+
+(b) the facilitation of the electronic data exchange between RIS technologies and the databases and systems in use by other modes of transport, through appropriate data links and interfaces;
+
+(c) the specification of the requirements concerning other digital systems or platforms as well as procedures for automated data exchange;
+
+(d) the real-time exchange of information in particular for time-critical data;
+
+(e) ensuring the secure exchange of information in accordance with a comprehensive rights-based access-control system;
+
+(f) anticipate a system exchange framework that will allow for future developments and links with additional systems as required, including exchanges with the future European Mobility Data Space and any other system that is designed to promote innovations in multimodality transport.
+
+**8\. Data for navigation and voyage planning on inland waterways**
+
+The technical specifications for data for navigation and voyage planning on inland waterways in accordance with Article 5 shall respect the following principles:
+
+(a) provision of up-to-date information at regular intervals and at least when significant changes in the fairway situation take place that can impact the navigation;
+
+(b) cover at least the following information:
+
+(i) predicted waiting times at locks, (movable) bridges, inland ports;
+
+(ii) data on the European waterway network required for navigation and voyage planning on inland waterways and covering at least the minimum data requirements set out in Annex I;
+
+(iii) water level, the least sounded depth, the vertical clearance, the barrage status if blocking navigation, the regime, the forecast water level, the least sounded predicted depth;
+
+(iv) ice situation and the related navigability or other extreme weather warnings;
+
+(v) operating hours of locks, (movable) bridges, inland ports.
+
+(c) provision of information through inland ECDIS, notices to skippers and the European RIS Environment as appropriate.
+
+## ANNEX III — TECHNICAL SPECIFICATIONS FOR RIS
+
+The technical specifications applicable to RIS shall be those set out in the latest edition of the European Standard for River Information Services (ES-RIS) adopted by CESNI.
+
+( 1 ) Regulation (EU) 2024/1679 of the European Parliament and of the Council of 13 June 2024 on Union guidelines for the development of the trans-European transport network, amending Regulations (EU) 2021/1153 and (EU) No 913/2010 and repealing Regulation (EU) No 1315/2013 (OJ L, 2024/1679, 28.6.2024, ELI: http://data.europa.eu/eli/reg/2024/1679/oj).
+
+( 2 ) Regulation (EU) 2023/1804 of the European Parliament and of the Council of 13 September 2023 on the deployment of alternative fuels infrastructure, and repealing Directive 2014/94/EU (OJ L 234, 22.9.2023, p. 1, ELI: http://data.europa.eu/eli/reg/2023/1804/oj).
+
+( 3 ) Regulation (EU) 2021/696 of the European Parliament and of the Council of 28 April 2021 establishing the Union Space Programme and the European Union Agency for the Space Programme and repealing Regulations (EU) No 912/2010, (EU) No 1285/2013 and (EU) No 377/2014 and Decision No 541/2014/EU (OJ L 170, 12.5.2021, p. 69, ELI: http://data.europa.eu/eli/reg/2021/696/oj).
+
+( 4 ) Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation) (OJ L 119, 4.5.2016, p. 1, ELI: http://data.europa.eu/eli/reg/2016/679/oj).
+
+( 5 ) OJ L 123, 12.5.2016, p. 1.
+
+( 6 ) Regulation (EU) No 182/2011 of the European Parliament and of the Council of 16 February 2011 laying down the rules and general principles concerning mechanisms for control by Member States of the Commission’s exercise of implementing powers (OJ L 55, 28.2.2011, p. 13, ELI: http://data.europa.eu/eli/reg/2011/182/oj).

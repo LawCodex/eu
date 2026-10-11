@@ -1,0 +1,1181 @@
+---
+title: "Directive (EU) 2017/2397 of the European Parliament and of the Council of 12 December 2017 on the recognition of professional qualifications in inland navigation and repealing Council Directives 91/672/EEC and 96/50/EC (Text with EEA relevance)"
+identifier: "32017L2397"
+eli: "http://data.europa.eu/eli/dir/2017/2397/oj"
+type: directive
+jurisdiction: eu
+language: en
+date: 2017-12-12
+entry_into_force: 2017-12-20
+last_amended: 2022-03-03
+consolidated_version: "02017L2397-20220303"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02017L2397-20220303"
+retrieved: 2026-10-11
+---
+
+# Directive (EU) 2017/2397 of the European Parliament and of the Council of 12 December 2017 on the recognition of professional qualifications in inland navigation and repealing Council Directives 91/672/EEC and 96/50/EC (Text with EEA relevance)
+
+**DIRECTIVE (EU) 2017/2397 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 12 December 2017**
+
+**on the recognition of professional qualifications in inland navigation and repealing Council Directives 91/672/EEC and 96/50/EC**
+
+**(Text with EEA relevance)**
+
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> DIRECTIVE (EU) 2021/1233 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 14 July 2021 </td><td> L 274</td><td>52</td><td>30.7.2021</td></tr>
+<tr><td></td><td> COMMISSION DELEGATED REGULATION (EU) 2022/184 of 22 November 2021 </td><td> L 30</td><td>3</td><td>11.2.2022</td></tr>
+
+**DIRECTIVE (EU) 2017/2397 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 12 December 2017**
+
+**on the recognition of professional qualifications in inland navigation and repealing Council Directives 91/672/EEC and 96/50/EC**
+
+**(Text with EEA relevance)**
+
+## CHAPTER 1 — SUBJECT MATTER, SCOPE AND DEFINITIONS
+
+#### Article 1 — Subject matter
+
+This Directive lays down the conditions and procedures for the certification of the qualifications of persons involved in the operation of a craft navigating on Union inland waterways, as well as for the recognition of such qualifications in the Member States.
+
+#### Article 2 — Scope
+
+1\. This Directive applies to deck crew members, liquefied natural gas experts and passenger navigation experts on the following types of craft on any Union inland waterway:
+
+(a) vessels having a length of 20 metres or more;
+
+(b) vessels for which the product of length, breadth and draught is a volume of 100 cubic metres or more;
+
+(c) tugs and pushers intended for:
+
+(i) towing or pushing vessels referred to in points (a) and (b);
+
+(ii) towing or pushing floating equipment;
+
+(iii) moving vessels referred to in points (a) and (b) or floating equipment alongside;
+
+(d) passenger vessels;
+
+(e) vessels required to have a certificate of approval pursuant to Directive 2008/68/EC of the European Parliament and of the Council ( 1 );
+
+(f) floating equipment.
+
+2\. This Directive does not apply to persons:
+
+(a) navigating for sport or pleasure;
+
+(b) involved in the operation of ferries not moving independently;
+
+(c) involved in the operation of craft used by armed forces, forces maintaining public order, civil defence services, waterway administrations, fire services and other emergency services.
+
+3\. Without prejudice to Article 39(3), this Directive also does not apply to persons navigating in Member States with no inland waterways linked to the navigable network of another Member State and who are exclusively:
+
+(a) navigating limited journeys of local interest, where the distance from the departure point is at no time more than ten kilometres; or
+
+(b) navigating seasonally.
+
+#### Article 3 — Definitions
+
+For the purposes of this Directive, the following definitions apply:
+
+(1) ‘inland waterway’ means a waterway other than the sea, open to navigation by craft referred to in Article 2;
+
+(2) ‘craft’ means a vessel or item of floating equipment;
+
+(3) ‘vessel’ means an inland waterway vessel or seagoing ship;
+
+(4) ‘tug’ means a vessel specially built to perform towing operations;
+
+(5) ‘pusher’ means a vessel specially built to propel a pushed convoy;
+
+(6) ‘passenger vessel’ means a vessel constructed and equipped to carry more than 12 passengers;
+
+(7) ‘Union certificate of qualification’ means a certificate, issued by a competent authority, attesting that a person fulfils the requirements of this Directive;
+
+(8) ‘STCW Convention’ means ‘STCW Convention’ as defined in Article 1(21) of Directive 2008/106/EC of the European Parliament and of the Council ( 2 );
+
+(9) ‘deck crew members’ means persons who are involved in the general operation of a craft navigating on Union inland waterways and who carry out various tasks, such as tasks related to navigation, controlling the operation of the craft, cargo handling, stowage, passenger transport, marine engineering, maintenance and repair, communication, health and safety, and environmental protection, other than persons who are solely assigned to the operation of the engines, cranes, or electrical and electronic equipment;
+
+(10) ‘radio operator’s certificate’ means a national certificate, issued by a Member State in accordance with the Radio Regulations annexed to the International Telecommunication Convention, authorising the operation of a radio-communication station on an inland waterway craft;
+
+(11) ‘passenger navigation expert’ means a person serving on board the vessel who is qualified to take measures in emergency situations on board passenger vessels;
+
+(12) ‘liquefied natural gas expert’ means a person who is qualified to be involved in the bunkering procedure of a craft using liquefied natural gas as fuel or to be the boatmaster sailing such a craft;
+
+(13) ‘boatmaster’ means a deck crew member who is qualified to sail a craft on the Member States’ inland waterways and is qualified to have overall responsibility on board, including for the crew, for the passengers and for the cargo;
+
+(14) ‘specific risk’ means a safety hazard that is due to particular navigation conditions which require boatmasters to have competences beyond what is expected under the general standards of competence for the management level;
+
+(15) ‘competence’ means the proven ability to use the knowledge and skills required by the established standards for the proper performance of the tasks necessary for the operation of inland waterway craft;
+
+(16) ‘management level’ means the level of responsibility associated with serving as boatmaster and with ensuring that other deck crew members properly perform all tasks in the operation of a craft;
+
+(17) ‘operational level’ means the level of responsibility associated with serving as boatman, as able boatman or as helmsman and with maintaining control over the performance of all tasks within that person’s designated area of responsibility in accordance with proper procedures and under the direction of a person serving at management level;
+
+(18) ‘large convoy’ means a pushed convoy for which the product of the total length and the total width of the pushed craft is 7 000 square metres or more;
+
+(19) ‘service record book’ means a personal register that records details of a crew member’s work history, in particular navigation time and journeys carried out;
+
+(20) ‘logbook’ means an official record of the journeys made by a craft and its crew;
+
+(21) ‘active service record book’ or ‘active logbook’ means a service record book or logbook which is open for recording data;
+
+(22) ‘navigation time’ means the time, measured in days, that deck crew members have spent aboard during a journey on a craft on inland waterways, including loading and unloading activities that require active navigational operations, which has been validated by the competent authority;
+
+(23) ‘floating equipment’ means a floating installation carrying working gear such as cranes, dredging equipment, pile drivers or elevators;
+
+(24) ‘length’ means the maximum length of the hull in metres, excluding rudder and bowsprit;
+
+(25) ‘breadth’ means the maximum breadth of the hull in metres, measured to the outer edge of the shell plating (excluding paddle wheels, rub rail, and similar);
+
+(26) ‘draught’ means the vertical distance in metres between the lowest point of the hull without taking into account the keel or other fixed attachments and the maximum draught line;
+
+(27) ‘seasonal navigation’ means a navigating activity which is exercised for not more than six months each year.
+
+## CHAPTER 2 — UNION CERTIFICATES OF QUALIFICATION
+
+#### Article 4 — Obligation to carry a Union certificate of qualification as a deck crew member
+
+1\. Member States shall ensure that deck crew members who navigate on Union inland waterways carry either a Union certificate of qualification as a deck crew member issued in accordance with Article 11 or a certificate recognised in accordance with Article 10(2) or (3).
+
+2\. For deck crew members other than boatmasters, the Union certificate of qualification and the service record book as referred to in Article 22 shall be presented in a single document.
+
+3\. By way of derogation from paragraph 1 of this Article, certificates held by persons involved in the operation of a craft, other than boatmasters, issued or recognised in accordance with Directive 2008/106/EC, and therefore in accordance with the STCW Convention, shall be valid on sea-going ships operating on inland waterways.
+
+#### Article 5 — Obligation to carry a Union certificate of qualification for specific operations
+
+1\. Member States shall ensure that passenger navigation experts and liquefied natural gas experts carry either a Union certificate of qualification issued in accordance with Article 11 or a certificate recognised in accordance with Article 10(2) or (3).
+
+2\. By way of derogation from paragraph 1 of this Article, certificates held by persons involved in the operation of a craft, issued or recognised in accordance with Directive 2008/106/EC, and therefore in accordance with the STCW Convention, shall be valid on sea-going ships operating on inland waterways.
+
+#### Article 6 — Obligation for boatmasters to hold specific authorisations
+
+Member States shall ensure that boatmasters hold specific authorisations issued in accordance with Article 12 when:
+
+(a) sailing on waterways that have been classified as inland waterways with a maritime character pursuant to Article 8;
+
+(b) sailing on waterways that have been identified as stretches of inland waterways with specific risks pursuant to Article 9;
+
+(c) sailing with the aid of radar;
+
+(d) sailing craft using liquefied natural gas as fuel;
+
+(e) sailing large convoys.
+
+#### Article 7 — Exemptions related to national inland waterways that are not linked to the navigable network of another Member State
+
+1\. A Member State may exempt persons referred to in Article 4(1), Article 5(1) and Article 6 who operate exclusively on national inland waterways that are not linked to the navigable network of another Member State, including those that have been classified as inland waterways with a maritime character, from the obligations set out in Article 4(1) and (2), Article 5(1), Article 6, the first subparagraph of Article 22(1), and Article 22(3) and (6).
+
+2\. A Member State that grants exemptions in accordance with paragraph 1 may issue certificates of qualification to persons referred to in paragraph 1 under conditions that differ from the general conditions set out in this Directive, provided that such certificates ensure an adequate level of safety. The recognition of those certificates in other Member States shall be governed by Directive 2005/36/EC or Directive 2005/45/EC of the European Parliament and of the Council ( 3 ), as applicable.
+
+3\. Member States shall inform the Commission of the exemptions granted in accordance with paragraph 1. The Commission shall make information on those granted exemptions publicly available.
+
+#### Article 8 — Classification of inland waterways with a maritime character
+
+1\. Member States shall classify a stretch of inland waterway in their territory as an inland waterway with a maritime character where one of the following criteria is met:
+
+(a) the Convention on the International Regulations for Preventing Collisions at Sea is applicable;
+
+(b) the buoys and signs are in accordance with the maritime system;
+
+(c) terrestrial navigation is necessary on that inland waterway; or
+
+(d) maritime equipment which requires special knowledge for its operation is necessary for navigation on that inland waterway.
+
+2\. Member States shall notify the Commission of the classification of any specific stretch of inland waterways on their territory as an inland waterway with a maritime character. The notification to the Commission shall be accompanied by a justification based on the criteria referred to in paragraph 1. The Commission shall make the list of notified inland waterways with a maritime character publicly available without undue delay.
+
+#### Article 9 — Stretches of inland waterways with specific risks
+
+1\. Where necessary to ensure safety of navigation, Member States may identify stretches of inland waterways with specific risks which run through their own territories, in accordance with the procedure set out in paragraphs 2 to 4, where such risks are due to one or more of the following reasons:
+
+(a) frequently changing stream patterns and speed;
+
+(b) the hydro-morphological characteristics of the inland waterway and the absence of appropriate Fairway Information Services on the inland waterway or of suitable charts;
+
+(c) the presence of a specific local traffic regulation justified by specific hydro-morphological characteristics of the inland waterway; or
+
+(d) a high frequency of accidents at a specific stretch of the inland waterway that is attributed to the lack of a competence that is not covered by the standards referred to in Article 17.
+
+Where Member States consider it to be necessary to ensure safety, they shall consult the relevant European River Commission during the process of identifying the stretches referred to in the first subparagraph.
+
+2\. Member States shall notify the Commission of the measures they intend to adopt pursuant to paragraph 1 of this Article and to Article 20, together with the reasoning on which the measure is based, at least six months before the envisaged date of adoption of those measures.
+
+3\. Where stretches of inland waterways referred to in paragraph 1 are situated along the border between two or more Member States, the Member States concerned shall consult one another and notify the Commission jointly.
+
+4\. Where a Member State intends to adopt a measure that is not justified in accordance with paragraphs 1 and 2 of this Article, the Commission may, within a period of six months from the notification, adopt implementing acts setting out its decision opposing the adoption of the measure. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 33(3).
+
+5\. The Commission shall make the measures adopted by the Member States publicly available, together with the reasoning referred to in paragraph 2.
+
+#### Article 10 — Recognition
+
+1\. Any Union certificate of qualification referred to in Articles 4 and 5, as well as any service record books or logbooks referred to in Article 22 that have been issued by the competent authorities in accordance with this Directive, shall be valid on all Union inland waterways.
+
+2\. Any certificate of qualification, service record book or logbook issued in accordance with the Regulations for Rhine Navigation Personnel, which lay down requirements that are identical to those of this Directive, shall be valid on all Union inland waterways.
+
+Such certificates, service record books and logbooks that have been issued by a third country shall be valid on all Union inland waterways, provided that that third country recognises, within its jurisdiction, Union documents issued pursuant to this Directive.
+
+3\. Without prejudice to paragraph 2 of this Article, any certificate of qualification, service record book or logbook that has been issued in accordance with the national rules of a third country laying down requirements that are identical to those of this Directive, including those set out in Article 38(1) and (3), shall be valid on all Union inland waterways, subject to the procedure and the conditions set out in paragraphs 4 and 5 of this Article.
+
+4\. Any third country may submit to the Commission a request for recognition of certificates, service record books or logbooks that have been issued by its authorities. The request shall be accompanied by all information necessary to determine whether the issuing of such documents is subject to requirements that are identical to those laid down in this Directive.
+
+5\. Upon receiving a request for recognition pursuant to paragraph 4, the Commission shall carry out an assessment of the certification systems in the requesting third country in order to determine whether the issuing of the certificates, service record books or logbooks specified in its request is subject to requirements that are identical to those laid down in this Directive.
+
+If those requirements are found to be identical, the Commission shall adopt implementing acts granting recognition in the Union to the certificates, record books or logbooks issued by that third country, subject to that third country recognising within its jurisdiction Union documents issued pursuant to this Directive.
+
+When adopting the implementing act referred to in the second subparagraph of this paragraph, the Commission shall specify to which documents, referred to in paragraph 4 of this Article, the recognition applies. That implementing act shall be adopted in accordance with the examination procedure referred to in Article 33(3).
+
+6\. When a Member State considers that a third country no longer complies with the requirements of this Article, it shall notify the Commission immediately, giving substantiated reasons for its contention.
+
+7\. Every eight years, the Commission shall assess the compliance of the certification system in the third country referred to in the second subparagraph of paragraph 5 with the requirements laid down in this Directive. If the Commission determines that the requirements laid down in this Directive are no longer met, paragraph 8 shall apply.
+
+8\. If the Commission determines that the issuing of documents referred to in paragraphs 2 or 3 of this Article is no longer subject to identical requirements to those laid down in this Directive, it shall adopt implementing acts suspending the validity on all Union inland waterways of the certificates of qualification, service record books and logbooks issued in accordance with these requirements. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 33(3).
+
+The Commission may at any time rescind the suspension, if the identified shortcomings as regards the standards applied have been resolved.
+
+9\. The Commission shall make the list of third countries referred to in paragraphs 2 and 3 publicly available, together with the documents which are recognised as valid on all Union inland waterways.
+
+## CHAPTER 3 — CERTIFICATION OF PROFESSIONAL QUALIFICATIONS
+
+### SECTION I — Procedure for issuing Union certificates of qualification and specific authorisations
+
+#### Article 11 — Issuing and validity of Union certificates of qualification
+
+1\. Member States shall ensure that applicants for Union certificates of qualification as a deck crew member and Union certificate of qualification for specific operations provide satisfactory documentary evidence:
+
+(a) of their identity;
+
+(b) that they meet the minimum requirements laid down in Annex I on age, competence, administrative compliance and navigation time for the qualification for which they have applied;
+
+(c) that they meet the standards for medical fitness in accordance with Article 23, where applicable.
+
+2\. Member States shall issue Union certificates of qualification after having verified the authenticity and validity of the documents provided by the applicants and after having verified that the applicants have not already been issued a valid Union certificate of qualification.
+
+3\. The Commission shall adopt implementing acts establishing models for Union certificates of qualification and for single documents combining Union certificates of qualification and service record books. Those implementing acts shall be adopted in accordance with the advisory procedure referred to in Article 33(2).
+
+4\. The validity of the Union certificate of qualification as a deck crew member shall be limited to the date of the next medical examination required pursuant to Article 23.
+
+5\. Without prejudice to the limitation referred to in paragraph 4, Union certificates of qualification as a boatmaster shall be valid for up to a maximum of 13 years.
+
+6\. Union certificates of qualification for specific operations shall be valid for up to a maximum of five years.
+
+#### Article 12 — Issuing and validity of specific authorisations for boatmasters
+
+1\. Member States shall ensure that applicants for specific authorisations referred to in Article 6 provide satisfactory documentary evidence:
+
+(a) of their identity;
+
+(b) that they meet the minimum requirements laid down in Annex I on age, competence, administrative compliance and navigation time for the specific authorisation for which they have applied;
+
+(c) that they hold a Union certificate of qualification as a boatmaster or of a certificate recognised in accordance with Article 10(2) and (3), or that they meet the minimum requirements for Union certificates of qualification for boatmasters provided for by this Directive.
+
+2\. By way of derogation from paragraph 1 of this Article, for specific authorisations for sailing on stretches of inland waterways with specific risks required pursuant to point (b) of Article 6, applicants shall provide to the competent authorities of the Member States referred to in Article 20(3) satisfactory documentary evidence:
+
+(a) of their identity;
+
+(b) that they meet the requirements established in accordance with Article 20 for the competence for specific risks for the specific stretch of inland waterway for which the authorisation is required;
+
+(c) that they hold a Union certificate of qualification as a boatmaster or of a certificate recognised in accordance with Article 10(2) and (3), or that they meet the minimum requirements for Union certificates of qualification for boatmasters provided for by this Directive.
+
+3\. Member States shall issue the specific authorisations referred to in paragraphs 1 and 2 after having verified the authenticity and validity of the documents provided by the applicant.
+
+4\. Member States shall ensure that the competent authority that issues Union certificates of qualification to boatmasters specifically indicates in the certificate any specific authorisation issued pursuant to Article 6 in accordance with the model referred to in Article 11(3). The validity of such specific authorisation shall end when the validity of the Union certificate of qualification ends.
+
+5\. By way of derogation from paragraph 4 of this Article, the specific authorisation referred to in point (d) of Article 6 shall be issued as a Union certificate of qualification as a liquefied natural gas expert in accordance with the model referred to in Article 11(3), the period of validity of which shall be set in accordance with Article 11(6).
+
+#### Article 13 — Renewal of Union certificates of qualification and of specific authorisations for boatmasters
+
+Upon the expiry of a Union certificate of qualification, Member States shall, upon request, renew the certificate and, where relevant, the specific authorisations included therein, provided that:
+
+(a) for Union certificates of qualification as a deck crew member and for specific authorisations other than the one referred to in point (d) of Article 6, satisfactory documentary evidence referred to in points (a) and (c) of Article 11(1) has been submitted;
+
+(b) for Union certificates of qualification for specific operations, the satisfactory documentary evidence referred to in points (a) and (b) of Article 11(1) has been submitted.
+
+#### Article 14 — Suspension and withdrawal of Union certificates of qualification or specific authorisations for boatmasters
+
+1\. Where there are indications that the requirements for certificates of qualification or specific authorisations are no longer met, the Member State that issued the certificate or specific authorisation shall undertake all necessary assessments and, where appropriate, shall withdraw those certificates or specific authorisation.
+
+2\. Any Member State may temporarily suspend a Union certificate of qualification where it considers that such suspension is necessary for reasons of safety or public order.
+
+3\. Member States shall record without undue delay suspensions and withdrawals in the database referred to in Article 25(2).
+
+### SECTION II — Administrative Cooperation
+
+#### Article 15 — Cooperation
+
+Where a Member State referred to in Article 39(3) determines that a certificate of qualification issued by a competent authority in another Member State does not satisfy conditions laid down by this Directive, or where there are reasons of safety or public order, the competent authority shall request the issuing authority to consider suspending that certificate of qualification pursuant to Article 14. The requesting authority shall inform the Commission of its request. The authority that issued the certificate of qualification in question shall examine the request and shall notify the other authority of its decision. Any competent authority may prohibit persons from operating in its area of jurisdiction pending notification of the issuing authority’s decision.
+
+The Member States referred to in Article 39(3) shall also cooperate with competent authorities of other Member States in order to ensure that navigation time and journeys for holders of certificates of qualification and service record books recognised under this Directive are recorded, if a holder of a service record book requests the recording, and are validated for a period of up to 15 months before the request for validation. The Member States referred to in Article 39(3) shall inform the Commission, where relevant, of the inland waterways on their territory where competences for navigation of a maritime character are required.
+
+### SECTION III — Competences
+
+#### Article 16 — Requirements for competences
+
+1\. Member States shall ensure that the persons referred to in Articles 4, 5 and 6 have the necessary competences for the safe operation of a craft as laid down in Article 17.
+
+2\. By way of derogation from paragraph 1 of this Article, the assessment of the competence for specific risks referred to in point (b) of Article 6 shall be carried out in accordance with Article 20.
+
+#### Article 17 — Assessment of competences
+
+1\. The Commission shall adopt delegated acts in accordance with Article 31 to supplement this Directive by laying down the standards for competences and corresponding knowledge and skills in compliance with the essential requirements set out in Annex II.
+
+2\. Member States shall ensure that persons who apply for the documents referred to in Articles 4, 5 and 6 demonstrate, where applicable, that they meet the standards of competence referred to in paragraph 1 of this Article by passing an examination that was organised:
+
+(a) under the responsibility of an administrative authority in accordance with Article 18 or;
+
+(b) as part of a training programme approved in accordance with Article 19.
+
+3\. The demonstration of compliance with the standards of competence shall include a practical examination for obtaining:
+
+(a) a Union certificate of qualification as a boatmaster;
+
+(b) a specific authorisation for sailing with the aid of radar as referred to in point (c) of Article 6;
+
+(c) a Union certificate of qualification as a liquefied natural gas expert;
+
+(d) a Union certificate of qualification as a passenger navigation expert.
+
+To obtain the documents referred to in points (a) and (b) of this paragraph, practical examinations may take place on board a craft or on a simulator that complies with Article 21. For points (c) and (d) of this paragraph, practical examinations may take place on board a craft or at an appropriate onshore installation.
+
+4\. The Commission is empowered to adopt delegated acts in accordance with Article 31 to supplement this Directive by laying down standards for the practical examinations referred to in paragraph 3 of this Article, specifying the specific competences and the conditions to be tested during the practical examinations, as well as the minimum requirements for the craft on which a practical examination may be taken.
+
+#### Article 18 — Examination under the responsibility of an administrative authority
+
+1\. Member States shall ensure that the examinations referred to in point (a) of Article 17(2) are organised under their responsibility. They shall ensure that those examinations are conducted by examiners who are qualified to assess the competences and the corresponding knowledge and skills referred to in Article 17(1).
+
+2\. Member States shall issue a practical examination certificate to applicants who have passed the practical examination referred to in Article 17(3) where that examination took place on a simulator compliant with Article 21, and where the applicant has requested such a certificate.
+
+3\. The Commission shall adopt implementing acts establishing models for the practical examination certificates referred to in paragraph 2 of this Article. Those implementing acts shall be adopted in accordance with the advisory procedure referred to in Article 33(2).
+
+4\. Member States shall recognise, without further requirements or assessments, practical examination certificates referred to in paragraph 2 that have been issued by competent authorities in other Member States.
+
+5\. In the case of written exams or computer-based exams, the examiners referred to in paragraph 1 may be replaced by qualified supervisors.
+
+6\. The Member States shall ensure that the examiners and qualified supervisors referred to in this chapter are free from conflicts of interest.
+
+#### Article 19 — Approval of training programmes
+
+1\. Member States may establish training programmes for the persons referred to in Articles 4, 5 and 6. Member States shall ensure that such training programmes leading to diplomas or certificates that demonstrate compliance with the standards of competence referred to in Article 17(1) are approved by the competent authorities of the Member States in whose territory the relevant education or training institute conducts its training programmes.
+
+Member States shall ensure that the quality assessment and assurance of the training programmes is ensured by the application of a national or international quality standard in accordance with Article 27(1).
+
+2\. Member States may approve the training programmes referred to in paragraph 1 of this Article only if:
+
+(a) the training objectives, learning content, methods, media of delivery, procedures, including the use of simulators, where applicable, and course materials are properly documented and allow applicants to achieve the standards of competence referred to in Article 17(1);
+
+(b) the programmes for the assessment of the relevant competences are conducted by qualified persons who have in-depth knowledge of the training programme;
+
+(c) an examination to verify compliance with the standards of competence referred to in Article 17(1) is carried out by qualified examiners who are free from conflicts of interest.
+
+3\. Member States shall recognise any diplomas or certificates awarded after the completion of training programmes approved by other Member States in accordance with paragraph 1.
+
+4\. Member States shall revoke or suspend their approval of training programmes that no longer comply with the criteria set out in paragraph 2.
+
+5\. Member States shall notify to the Commission the list of the approved training programmes, as well as any training programmes whose approval has been revoked or suspended. The Commission shall make this information publicly available. The list shall indicate the name of the training programme, the titles of diplomas or certificates awarded, the body awarding the diploma or certificates, the year of entry into force of the approval, as well as the relevant qualification and any specific authorisations to which the diploma or certificate gives access.
+
+#### Article 20 — Assessment of competences for specific risks
+
+1\. The Member States that identify stretches of inland waterways with specific risks in their territories, within the meaning of Article 9(1), shall specify the additional competence required from boatmasters navigating on those stretches of inland waterways, and shall specify the means necessary to prove that such requirements are met. Where Member States consider it to be necessary for the purpose of ensuring safety, they shall consult the relevant European River Commission during the process of identifying those competences.
+
+Taking into account the competences required for navigating on the stretch of inland waterway with specific risks, the means necessary to prove that such requirements are met may consist of the following:
+
+(a) a limited number of journeys to be carried out on the stretch concerned;
+
+(b) a simulator examination;
+
+(c) a multiple choice examination;
+
+(d) an oral examination; or
+
+(e) a combination of the means referred to in points (a) to (d).
+
+When applying this paragraph, the Member States shall apply objective, transparent, non-discriminatory and proportionate criteria.
+
+2\. The Member States referred to in paragraph 1 shall ensure that procedures are put in place for assessing applicants’ competence for specific risks, and that tools are made publicly available to facilitate the acquisition by boatmasters of the required competence for specific risks.
+
+3\. A Member State may carry out an assessment of applicants’ competence for specific risks for stretches of inland waterways located in another Member State, on the basis of the requirements established for that stretch of inland waterway in accordance with paragraph 1, provided that the Member State where the stretch of inland waterway is located gives its consent. In such case, that Member State shall provide the Member State carrying out the assessment with the necessary means to carry it out. Member States shall justify any refusal to give consent on objective and proportional grounds.
+
+#### Article 21 — Use of simulators
+
+1\. Simulators used to assess competences shall be approved by Member States. That approval shall be issued upon request when it is demonstrated that the simulator complies with the standards for simulators established by delegated acts referred to in paragraph 2. The approval shall specify which particular assessment of competence is authorised as regards the simulator.
+
+2\. The Commission is empowered to adopt delegated acts in accordance with Article 31 to supplement this Directive by laying down standards for the approval of simulators, specifying the minimum functional and technical requirements and the administrative procedures in this regard, with the objective of ensuring that the simulators used for an assessment of competences are designed in such a way as to allow for the verification of the competences as prescribed under the standards for practical examinations referred to in Article 17(3).
+
+3\. Member States shall recognise simulators approved by competent authorities in other Member States in accordance with paragraph 1 without further technical requirements or evaluation.
+
+4\. Member States shall revoke or suspend their approval of simulators that no longer comply with the standards referred to in paragraph 2.
+
+5\. Member States shall notify the list of the approved simulators to the Commission. The Commission shall make this information publicly available.
+
+6\. Member States shall ensure that access to simulators for the purposes of assessment is non-discriminatory.
+
+### SECTION IV — Navigation time and medical fitness
+
+#### Article 22 — Service record book and logbook
+
+1\. The Member States shall ensure that boatmasters record navigation time, referred to in point (b) of Article 11(1), and journeys carried out, referred to in Article 20(1), in a service record book as referred to in paragraph 6 of this Article or in a service record book recognised pursuant to Article 10(2) or (3).
+
+By way of derogation from the first subparagraph, when Member States apply Article 7(1) or Article 39(2), the obligation laid down in the first subparagraph of this paragraph shall apply only if a holder of a service record book requests the recording.
+
+2\. The Member States shall ensure that, if a crew member so requests, their competent authorities, after having verified the authenticity and validity of any necessary documentary evidence, validate in the service record book the data regarding navigation time and journeys carried out up to 15 months before the request. Where electronic tools are put in place, including electronic service record books and electronic logbooks, including appropriate procedures for safeguarding the authenticity of the documents, the corresponding data may be validated without additional procedures.
+
+Navigation time that has been acquired on any of the Member States’ inland waterways shall be taken into consideration. In the case of inland waterways whose courses are not fully within Union territory, the navigation time acquired on sections located outside the Union territory shall also be taken into consideration.
+
+3\. Member States shall ensure that the journeys of craft referred to in Article 2(1) are recorded in the logbook referred to in paragraph 6 of this Article or in a logbook recognised pursuant to Articles 10(2) or (3).
+
+4\. The Commission shall adopt implementing acts establishing models for service record books and logbooks, taking into account the information required for the implementation of this Directive as regards the identification of the person, their navigation time and the journeys carried out. Those implementing acts shall be adopted in accordance with the advisory procedure referred to in Article 33(2).
+
+When adopting those implementing acts, the Commission shall take into account the fact that the logbook is also used in the implementation of Council Directive 2014/112/EU ( 4 ), for verifying manning requirements and recording journeys of the craft.
+
+5\. The Commission shall submit to the European Parliament and to the Council an assessment of tamper-proof electronic service record books, logbooks and professional cards that incorporate Union certificates of qualification in inland navigation, by 17 January 2026.
+
+6\. Member States shall ensure that crew members hold a single active service record book and that there is a single active logbook on the craft.
+
+#### Article 23 — Medical fitness
+
+1\. Member States shall ensure that deck crew members who apply for a Union certificate of qualification demonstrate their medical fitness by presenting to the competent authority a valid medical certificate issued by a medical practitioner who is recognised by the competent authority, based on the successful completion of a medical fitness examination.
+
+2\. The applicants shall present a medical certificate to the competent authority when applying for
+
+(a) their first Union certificate of qualification as a deck crew member;
+
+(b) their Union certificate of qualification as a boatmaster;
+
+(c) the renewal of their Union certificate of qualification as a deck crew member in case the conditions specified in paragraph 3 of this Article are met.
+
+Medical certificates issued for the purpose of obtaining a Union certificate of qualification shall be dated no earlier than three months before the date of the application for a Union certificate of qualification.
+
+3\. From the age of 60, the holder of a Union certificate of qualification as a deck crew member shall demonstrate medical fitness in accordance with paragraph 1 at least every five years. From the age of 70, the holder shall demonstrate medical fitness in accordance with paragraph 1 every two years.
+
+4\. Member States shall ensure that employers, boatmasters and Member States authorities are able to require a deck crew member to demonstrate medical fitness in accordance with paragraph 1 whenever there are objective indications that that deck crew member no longer fulfils the medical fitness requirements referred to in paragraph 6.
+
+5\. Where medical fitness cannot be fully demonstrated by the applicant, Member States may impose mitigation measures or restrictions that provide equivalent navigation safety. In that case, those mitigation measures and restrictions related to medical fitness shall be mentioned in the Union certificate of qualification in accordance with the model referred to in Article 11(3).
+
+6\. The Commission is empowered to adopt delegated acts in accordance with Article 31 on the basis of the essential requirements for medical fitness referred to in Annex III to supplement this Directive by laying down the standards for medical fitness that specify the requirements with regards to medical fitness, in particular with regard to the tests that medical practitioners must carry out, the criteria they must apply to determine fitness for work, and the list of restrictions and mitigation measures.
+
+## CHAPTER 4 — ADMINISTRATIVE PROVISIONS
+
+#### Article 24 — Protection of personal data
+
+1\. Member States shall carry out all processing of personal data provided for in this Directive in accordance with Union law on the protection of personal data, in particular Regulation (EU) 2016/679.
+
+2\. The Commission shall carry out all processing of personal data provided for in this Directive in accordance with Regulation (EC) No 45/2001.
+
+3\. Member States shall ensure that personal data are processed only for the purposes of:
+
+(a) implementing, enforcing and evaluating this Directive;
+
+(b) exchanging information between the authorities that have access to the database referred to in Article 25 and the Commission;
+
+(c) producing statistics.
+
+Anonymised information derived from such data may be used to support policies that promote inland waterway transport.
+
+4\. Member States shall ensure that the persons referred to in Articles 4 and 5 whose personal data, and in particular health data, are processed in the registers referred to in Article 25(1), and in the database referred to in Article 25(2), are informed ex ante. Member States shall grant such persons access to their personal data, and shall provide such persons with a copy of that data on request at any time.
+
+#### Article 25 — Registers
+
+1\. To contribute to efficient administration with respect to issuing, renewing, suspending and withdrawing certificates of qualification, Member States shall keep registers of the Union certificates of qualification, service record books and logbooks issued under their authority in accordance with this Directive and, where relevant, of documents recognised pursuant to Article 10(2) which have been issued, renewed, suspended or withdrawn, which have been reported lost, stolen or destroyed, or which have expired.
+
+For Union certificates of qualification, registers shall include the data appearing on the Union certificates of qualification and the issuing authority.
+
+For service record books, registers shall include the name of the holder and his identification number, the service record book identification number, the date of issuance and the issuing authority.
+
+For logbooks, registers shall include the name of the craft, the European Number of Identification or European Vessel Identification Number (ENI number), the logbook identification number, the date of issuance and the issuing authority.
+
+The Commission is empowered to adopt delegated acts in accordance with Article 31 in order to supplement the information in the registers for service record books and logbooks with other information required by the models of service record books and logbooks adopted pursuant to Article 22(4), with the objective of further facilitating the exchange of information between Member States.
+
+2\. For the purpose of implementing, enforcing and evaluating this Directive, for maintaining safety, for ease of navigation, as well as for statistical purposes, and in order to facilitate the exchange of information between the authorities that implement this Directive, Member States shall reliably record without delay data related to the certificates of qualification, service record books and logbooks referred to in paragraph 1 in a database kept by the Commission.
+
+The Commission is empowered to adopt delegated acts in accordance with Article 31 to provide the standards laying down the characteristics of such a database and the conditions for its use, specifying in particular:
+
+(a) the instructions for encoding data into the database;
+
+(b) the access rights of the users, differentiated where appropriate according to the type of users, the type of access and the purpose for which the data is used;
+
+(c) the maximum duration that data is retained in accordance with paragraph 3 of this Article, differentiated where appropriate according to the type of document;
+
+(d) the instructions regarding the operation of the database and its interaction with the registers referred to in paragraph 1 of this Article.
+
+3\. Any personal data included in the registers referred to in paragraph 1 or in the database referred to in paragraph 2 shall be stored for no longer than is necessary for the purposes for which the data were collected or for which they are further processed pursuant to this Directive. Once such data are no longer needed for those purposes, they shall be destroyed.
+
+4\. The Commission may provide access to the database to an authority of a third country or to an international organisation in so far as this is necessary for the purposes referred to in paragraph 2 of this Article, provided that:
+
+(a) the requirements of Article 9 of Regulation (EC) No 45/2001 are fulfilled; and
+
+(b) the third country or the international organisation does not limit access by Member States or by the Commission to its corresponding database.
+
+The Commission shall ensure that the third country or international organisation does not transfer the data to another third country or international organisation without the Commission’s express written authorisation and under the conditions specified by the Commission.
+
+#### Article 26 — Competent authorities
+
+1\. Member States shall designate, where applicable, which competent authorities are to:
+
+(a) organise and supervise the examinations referred to in Article 18;
+
+(b) approve the training programmes referred to in Article 19;
+
+(c) approve simulators referred to in Article 21;
+
+(d) issue, renew, suspend or withdraw the certificates and issue the specific authorisations referred to in Articles 4, 5, 6, 11, 12, 13, 14 and 38 as well as the service record books and the logbooks referred to in Article 22;
+
+(e) validate the navigation time in service record books referred to in Article 22;
+
+(f) determine the medical practitioners who may issue medical certificates pursuant to Article 23;
+
+(g) keep the registers referred to in Article 25;
+
+(h) detect and combat fraud and other unlawful practices referred to in Article 29.
+
+2\. Member States shall notify the Commission of all competent authorities within their territory that they have designated in accordance with paragraph 1. The Commission shall make this information publicly available.
+
+#### Article 27 — Monitoring
+
+1\. Member States shall ensure that all activities by governmental and non-governmental bodies under their authority related to training, to assessments of competence, and to the issuing and updating of Union certificates of qualification, service record books and logbooks, are continuously monitored through a quality standards system to ensure the achievement of the objectives of this Directive.
+
+2\. Member States shall ensure that the training objectives and related standards of competence to be achieved are clearly defined and identify the levels of knowledge and skills to be assessed and examined in accordance with this Directive.
+
+3\. Member States shall ensure, having regard to the policies, systems, controls and internal quality-assurance reviews established to ensure achievement of the defined objectives, that the fields of application of the quality standards cover:
+
+(a) the issuance, renewal, suspension and withdrawal of Union certificates of qualification, service record books and logbooks;
+
+(b) all training courses and programmes;
+
+(c) examinations and assessments carried out by or under the authority of each Member State; and
+
+(d) the qualifications and experience required of trainers and examiners.
+
+#### Article 28 — Evaluation
+
+1\. Member States shall ensure that independent bodies evaluate activities relating to competence acquisition and assessment and to the administration of Union certificates of qualification, services record books and logbooks, by 17 January 2037 and at least every 10 years thereafter.
+
+2\. Member States shall ensure that the results of the evaluations by those independent bodies are duly documented and brought to the attention of the competent authorities concerned. If necessary, Member States shall take appropriate measures to remedy any shortcomings identified by the independent evaluation.
+
+#### Article 29 — Prevention of fraud and other unlawful practices
+
+1\. Member States shall take appropriate measures to prevent fraud and other unlawful practices involving Union certificates of qualification, service record books, logbooks, medical certificates and registers provided for in this Directive.
+
+2\. Member States shall exchange relevant information with the competent authorities of other Member States concerning the certification of persons involved in the operation of craft, including information on the suspension and withdrawal of certificates. In doing so, they shall comply fully with the principles of personal data protection laid down in Regulation (EU) 2016/679.
+
+#### Article 30 — Penalties
+
+Member States shall lay down the rules on penalties applicable to infringements of national provisions adopted pursuant to this Directive and shall take all measures necessary to ensure that they are implemented. The penalties provided for shall be effective, proportionate and dissuasive.
+
+## CHAPTER 5 — FINAL PROVISIONS
+
+#### Article 31 — Exercise of the delegation
+
+1\. The power to adopt delegated acts is conferred on the Commission subject to the conditions laid down in this Article.
+
+2\. The power to adopt delegated acts referred to in Article 17(1) and (4), Article 21(2), Article 23(6) and Article 25(1) and (2) shall be conferred on the Commission for a period of five years from 16 January 2018. The Commission shall draw up a report in respect of the delegation of power not later than nine months before the end of the five-year period. The delegation of power shall be tacitly extended for periods of an identical duration, unless the European Parliament or the Council opposes such extension not later than three months before the end of each period.
+
+3\. The delegation of power referred to in this Article may be revoked at any time by the European Parliament or by the Council. A decision to revoke shall put an end to the delegation of the power specified in that decision. It shall take effect the day following the publication of the decision in the Official Journal of the European Union or at a later date specified therein. It shall not affect the validity of any delegated acts already in force.
+
+4\. Before adopting a delegated act, the Commission shall consult experts designated by each Member State in accordance with the principles laid down in the Interinstitutional Agreement of 13 April 2016 on Better Law-Making.
+
+5\. As soon as it adopts a delegated act, the Commission shall notify it simultaneously to the European Parliament and to the Council.
+
+6\. A delegated act adopted pursuant to this Article shall enter into force only if no objection has been expressed either by the European Parliament or by the Council within a period of two months of notification of that act to the European Parliament and the Council or if, before the expiry of that period, the European Parliament and the Council have both informed the Commission that they will not object. That period shall be extended by two months at the initiative of the European Parliament or of the Council.
+
+#### Article 32 — CESNI Standards and Delegated Acts
+
+Delegated acts adopted under this Directive shall, except for those based on Article 25, make reference to standards established by CESNI, provided that:
+
+(a) those standards are available and up-to-date;
+
+(b) those standards comply with any applicable requirements set out in the Annexes;
+
+(c) Union interests are not compromised by changes in the decision-making process of CESNI.
+
+Where these conditions are not met, the Commission may provide or refer to other standards.
+
+Where delegated acts adopted under this Directive refer to standards, the Commission shall include the entire text of those standards in those delegated acts, and shall make or update the relevant reference and enter the date of application in Annex IV.
+
+#### Article 33 — Committee procedure
+
+1\. The Commission shall be assisted by a committee. That committee shall be a committee within the meaning of Regulation (EU) No 182/2011. References to the committee set up pursuant to Article 7 of Directive 91/672/EEC, which is repealed by this Directive, shall be construed as references to the committee set up by this Directive.
+
+2\. Where reference is made to this paragraph, Article 4 of Regulation (EU) No 182/2011 shall apply.
+
+Where the opinion of the Committee is to be obtained by written procedure, that procedure shall be terminated without result when, within the time-limit for delivery of the opinion, the chair of the committee so decides.
+
+3\. Where reference is made to this paragraph, Article 5 of Regulation (EU) No 182/2011 shall apply. If the committee’s opinion is to be obtained by written procedure, its chair may decide to terminate the procedure without result within the time-limit for the delivery of the opinion.
+
+#### Article 34 — CESNI Standards and Implementing Acts
+
+When adopting the implementing acts referred to in Articles 11(3), 18(3) and 22(4) the Commission shall make reference to standards established by CESNI, and set the date of application, provided that:
+
+(a) those standards are available and up-to-date;
+
+(b) those standards comply with any applicable requirements set out in the Annexes;
+
+(c) Union interests are not compromised by changes in the decision-making process of CESNI.
+
+Where these conditions are not met, the Commission may provide or refer to other standards.
+
+Where implementing acts adopted under this Directive refer to standards, the Commission shall include the entire text of those standards in those implementing acts.
+
+#### Article 35 — Review
+
+1\. The Commission shall evaluate this Directive together with the implementing and delegated acts referred to in this Directive, and shall submit the results of the evaluation to the European Parliament and the Council no later than 17 January 2030.
+
+2\. By 17 January 2028, each Member State shall make available to the Commission the information needed for the purposes of monitoring the implementation and evaluation of this Directive, in accordance with guidelines provided by the Commission in consultation with Member States as regards information collection, format and content.
+
+#### Article 36 — Phasing-in
+
+1\. The Commission shall adopt delegated acts referred to in Article 17(1) and (4), Article 21(2), Article 23(6) and Article 25(1) and (2) by 17 January 2020.
+
+At the latest 24 months after the adoption of the delegated acts referred to in Article 25(2), the Commission shall set up the database provided for in that Article.
+
+2\. The Commission shall adopt implementing acts referred to in Article 11(3), Article 18(3) and Article 22(4) by 17 January 2020.
+
+#### Article 37 — Repeal
+
+Directives 91/672/EEC and 96/50/EC are repealed with effect from 18 January 2022.
+
+References to the repealed Directives shall be construed as references to this Directive.
+
+#### Article 38 — Transitional provisions
+
+1\. Boatmasters’ certificates issued in accordance with Directive 96/50/EC and certificates referred to in Article 1(6) of Directive 96/50/EC, as well as Rhine navigation licences referred to in Article 1(5) of Directive 96/50/EC, that were issued prior to 18 January 2022, shall remain valid on the Union inland waterways for which they were valid before that date, for a maximum of 10 years after that date.
+
+Before 18 January 2032, the Member State that issued the certificates referred to in the first subparagraph shall issue to boatmasters who hold such certificates in accordance with the model prescribed by this Directive, upon their request, a Union certificate of qualification or a certificate as referred to in Article 10(2), subject to the boatmaster having provided satisfactory documentary evidence as referred to in points (a) and (c) of Article 11(1).
+
+2\. When issuing Union certificates of qualification in accordance with paragraph 1 of this Article, Member States shall safeguard previously granted entitlements as far as possible, in particular as regards the specific authorisations referred to in Article 6.
+
+3\. Crew members, other than boatmasters, who hold a certificate of qualification issued by a Member State prior to 18 January 2022, or who hold a qualification recognised in one or more Member States, may still rely on that certificate or qualification for a maximum of 10 years after that date. During that period, such crew members may continue to rely on Directive 2005/36/EC for the recognition of their qualification by other Member States’ authorities. Before the expiry of that period, they may apply to a competent authority issuing such certificates for a Union certificate of qualification or a certificate in application of Article 10(2), subject to the crew members having provided satisfactory evidence as referred to in points (a) and (c) of Article 11(1).
+
+Where crew members referred to in the first subparagraph of this paragraph apply for a Union certificate of qualification or a certificate referred to in Article 10(2), Member States shall ensure that a certificate of qualification is issued for which the competence requirements are similar to or lower than those of the certificate to be replaced. A certificate for which the requirements are higher than those of the certificate to be replaced shall only be issued where the following conditions are met:
+
+(a) for the Union certificate of qualification as a boatman: 540 days of navigation time, including at least 180 days in inland navigation;
+
+(b) for the Union certificate of qualification as an able boatman: 900 days of navigation time, including at least 540 days in inland navigation;
+
+(c) for the Union certificate of qualification as a helmsman: 1 080 days of navigation time, including at least 720 days in inland navigation.
+
+The navigation experience shall be demonstrated by means of a service record book, logbook or other proof.
+
+The minimum durations of the navigation time as set in points (a), (b) and (c) of the second subparagraph of this paragraph may be reduced by a maximum of 360 days of navigation time where the applicant has a diploma which is recognised by the competent authority and which confirms the applicant’s specialised training in inland navigation comprising practical navigation work. The reduction of the minimum duration may not be greater than the duration of the specialised training.
+
+4\. Service record books and logbooks issued prior to 18 January 2022 that were issued in accordance with rules other than those set out by this Directive may remain active for a maximum of 10 years after 18 January 2022.
+
+5\. By way of derogation from paragraph 3, for crew members on ferries who hold national certificates that do not fall within the scope of Directive 96/50/EC and that were issued prior to 18 January 2022, such certificates shall remain valid on those Union inland waterways for which they were valid before this date for a maximum of 20 years after that date.
+
+Before the expiry of that period, such crew members may apply to a competent authority issuing such certificates for a Union certificate of qualification or for a certificate referred to in Article 10(2), on condition that they provide satisfactory evidence as referred to in points (a) and (c) of Article 11(1). The second and the third subparagraph of paragraph 3 of this Article shall apply accordingly.
+
+6\. By way of derogation from Article 4(1), until 17 January 2038, Member States may allow boatmasters who sail sea-going ships operating on specific inland waterways to carry a certificate of competency for masters that has been issued in accordance with the provisions of the STCW Convention, provided that:
+
+(a) this inland navigation activity is performed at the beginning or at the end of a maritime transport journey; and
+
+(b) the Member State has recognised certificates referred to in this paragraph for at least five years on 16 January 2018 on the inland waterways concerned.
+
+7\. Until 17 January 2032, Member States may continue to recognise, on the basis of their national requirements, or international agreements, applicable before 16 January 2018, certificates of qualification, service record books and logbooks that have been issued by a third country before 18 January 2024. The recognition shall be limited to the inland waterways on the territory of the Member State concerned.
+
+#### Article 39 — Transposition
+
+1\. Member States shall bring into force the laws, regulations and administrative provisions necessary to comply with this Directive by 17 January 2022. They shall immediately inform the Commission thereof.
+
+When Member States adopt those measures, they shall contain a reference to this Directive or be accompanied by such a reference on the occasion of their official publication. The methods of making such reference shall be laid down by Member States.
+
+2\. By way of derogation from paragraph 1 of this Article, a Member State in which all persons referred to in Article 4(1), Article 5(1) and Article 6 operate exclusively on national inland waterways that are not linked to the navigable network of another Member State shall only be obliged to bring into force those measures which are necessary to ensure compliance with Articles 7, 8, 10 as regards recognition of certificates of qualification and the service record book, Article 14(2) and (3) as regards suspensions, the second subparagraph of Article 22(1) and (2), point (d) of Article 26(1) where applicable, points (e) and (h) of Article 26(1), Article 26(2), Article 29 as regards prevention of fraud, Article 30 as regards penalties and Article 38 with the exception of paragraph 2 of that Article as regards transitional provisions. Such Member State shall bring those measures into force by 17 January 2022.
+
+Such Member State may not issue Union certificates of qualifications or approve training programmes or simulators until it has transposed and implemented the remaining provisions of this Directive and has informed the Commission that it has done so.
+
+3\. By way of derogation from paragraph 1 of this Article, a Member State in which all persons are exempted pursuant to Article 2(3) shall only be obliged to bring into force those measures which are necessary to ensure compliance with Article 10 as regards recognition of certificates of qualification and the service record book, with Article 38 as regards recognition of valid certificates, as well as with Article 15. Such Member State shall bring those measures into force by 17 January 2022.
+
+Such Member State may not issue Union certificates of qualification or approve training programmes or simulators until it has transposed and implemented the remaining provisions of this Directive and has informed the Commission that it has done so.
+
+4\. By way of derogation from paragraph 1 of this Article, a Member State shall not be obliged to transpose this Directive as long as inland waterway navigation is not technically possible on its territory.
+
+Such Member State may not issue Union certificates of qualification or approve training programmes or simulators until it has transposed and implemented the provisions of this Directive and informed the Commission that it has done so.
+
+5\. Member States shall communicate to the Commission the text of the main provisions of national law which they adopt in the field covered by this Directive.
+
+#### Article 40 — Entry into force
+
+This Directive shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+
+#### Article 41 — Addressees
+
+This Directive is addressed to the Member States.
+
+## ANNEX I
+
+**MINIMUM REQUIREMENTS FOR AGE, ADMINISTRATIVE COMPLIANCE, COMPETENCE AND NAVIGATION TIME**
+
+The minimum requirements for the deck crew qualifications set out in this Annex are to be understood as an ascending level of qualifications, with the exception of the qualifications of deckhands and apprentices, which are considered to be at the same level.
+
+**1 Deck crew qualifications at entry level**
+
+**1.1 Minimum requirements for certification as a deckhand**
+
+Every applicant for a Union certificate of qualification shall:
+
+— be at least 16 years of age;
+
+— have completed basic safety training according to national requirements.
+
+**1.2 Minimum requirements for certification as an apprentice**
+
+Every applicant for a Union certificate of qualification shall:
+
+— be at least 15 years of age;
+
+— have signed an apprenticeship agreement which provides for an approved training programme as referred to in Article 19.
+
+**2 Deck crew qualifications at operational level**
+
+**2.1 Minimum requirements for certification as a boatman**
+
+Every applicant for a Union certificate of qualification shall:
+
+(a)
+
+— be at least 17 years of age;
+
+— have completed an approved training programme, as referred to in Article 19, which was of a duration of at least two years, and which covered the standards of competence for the operational level set out in Annex II;
+
+— have accumulated navigation time of at least 90 days as part of this approved training programme;
+
+or
+
+(b)
+
+— be at least 18 years of age;
+
+— have passed an assessment of competence by an administrative authority as referred to in Article 18, to verify that the standards of competence for the operational level set out in Annex II are met;
+
+— have accumulated navigation time of at least 360 days, or have accumulated navigation time of at least 180 days if the applicant can also provide proof of work experience of at least 250 days that the applicant acquired on a sea-going ship as a member of the deck crew;
+
+or
+
+(c)
+
+— have a minimum of five years’ work experience prior to the enrolment in an approved training programme, or have at least 500 days’ work experience on a sea-going ship as a member of the deck crew prior to the enrolment in an approved training programme, or have completed any vocational training programme of at least three years’ duration prior to the enrolment in an approved training programme;
+
+— have completed an approved training programme as referred to in Article 19, which was of a duration of at least nine months, and which covered the standards of competence for the operational level set out in Annex II;
+
+— have accumulated navigation time of at least 90 days as part of that approved training programme.
+
+**2.2 Minimum requirements for certification as an able boatman**
+
+Every applicant for a Union certificate of qualification shall:
+
+(a)
+
+— have accumulated navigation time of at least 180 days while qualified to serve as boatman;
+
+or
+
+(b)
+
+— have completed an approved training programme as referred to in Article 19, which was of a duration of at least three years, and which covered the standards of competence for the operational level set out in Annex II;
+
+— have accumulated navigation time of at least 270 days as part of this approved training programme.
+
+**2.3 Minimum requirements for certification as a helmsman**
+
+Every applicant for a Union certificate of qualification shall:
+
+(a)
+
+— have accumulated navigation time of at least 180 days while qualified to serve as able boatman;
+
+— hold a radio operator’s certificate;
+
+or
+
+(b)
+
+— have completed an approved training programme as referred to in Article 19, which was of a duration of at least three years, and which covered the standards of competence for the operational level set out in Annex II;
+
+— have accumulated navigation time of at least 360 days as part of this approved training programme;
+
+— hold a radio operator’s certificate;
+
+or
+
+(c)
+
+— have a minimum of 500 days’ work experience as a maritime master;
+
+— have passed an assessment of competence by an administrative authority as referred to in Article 18 to verify that the standards of competence for the operational level set out in Annex II are met;
+
+— hold a radio operator’s certificate.
+
+**3 Deck crew qualifications at management level**
+
+**3.1 Minimum requirements for certification as a boatmaster**
+
+Every applicant for a Union certificate of qualification shall:
+
+(a)
+
+— be at least 18 years of age;
+
+— have completed an approved training programme as referred to in Article 19, which was of a duration of at least three years and which covered the standards of competence for the management level set out in Annex II;
+
+— have accumulated navigation time of at least 360 days as part of this approved training programme or after completion thereof;
+
+— hold a radio operator’s certificate;
+
+or
+
+(b)
+
+— be at least 18 years of age;
+
+— hold a Union certificate of qualification as a helmsman or a certificate as a helmsman recognised in accordance with Article 10(2) or (3);
+
+— have accumulated navigation time of at least 180 days;
+
+— have passed an assessment of competence by an administrative authority as referred to in Article 18 to verify that the standards of competence for the management level set out in Annex II are met;
+
+— hold a radio operator’s certificate;
+
+or
+
+(c)
+
+— be at least 18 years of age;
+
+— have accumulated navigation time of at least 540 days, or have accumulated navigation time of at least 180 days, if the applicant can also provide proof of work experience of at least 500 days that the applicant acquired on a sea-going ship as a member of the deck crew;
+
+— have passed an assessment of competence by an administrative authority as referred to in Article 18 to verify that the standards of competence for the management level set out in Annex II are met;
+
+— hold a radio operator’s certificate;
+
+or
+
+(d)
+
+— have a minimum of five years’ work experience prior to the enrolment in an approved training programme, or have at least 500 days’ work experience on a sea-going ship as a member of the deck crew prior to the enrolment in an approved training programme, or have completed any vocational training programme of at least three years’ duration prior to the enrolment in an approved training programme;
+
+— have completed an approved training programme referred to in Article 19, which was of a duration of at least one and a half years, and which covered the standards of competence for the management level set out in Annex II;
+
+— have accumulated navigation time of at least 180 days as part of that approved training programme and at least 180 days after completion thereof;
+
+— hold a radio operator’s certificate.
+
+**3.2 Minimum requirements for specific authorisations for Union certificates of qualification as a boatmaster**
+
+3.2.1 Waterways with a maritime character
+
+Every applicant shall:
+
+— meet the standards of competence for sailing on waterways with a maritime character set out in Annex II.
+
+3.2.2 Radar
+
+Every applicant shall:
+
+— meet the standards of competence for sailing with the aid of radar set out in Annex II.
+
+3.2.3 Liquefied natural gas
+
+Every applicant shall:
+
+— hold a Union certificate of qualification as a liquefied natural gas (LNG) expert referred to in section 4.2.
+
+3.2.4 Large convoys
+
+Every applicant shall have accumulated navigation time of at least 720 days, including at least 540 days while qualified to serve as a boatmaster and at least 180 days in steering a large convoy.
+
+**4 Qualifications for specific operations**
+
+**4.1 Minimum requirements for the certification of a passenger navigation expert**
+
+Every applicant for the first Union certificate of qualification as a passenger navigation expert shall:
+
+— be at least 18 years of age;
+
+— meet the standards of competence for passenger navigation experts set out in Annex II.
+
+Every applicant for the renewal of a Union certificate of qualification as a passenger navigation expert shall:
+
+— pass a new administrative exam or complete a new approved training programme in accordance with Article 17(2).
+
+**4.2 Minimum requirements for certification as a LNG expert**
+
+Every applicant for the first Union certificate of qualification as a LNG expert shall:
+
+— be at least 18 years of age;
+
+— meet the standards of competence for LNG experts set out in Annex II.
+
+Every applicant for the renewal of a Union certificate of qualification as a LNG expert shall:
+
+(a) have accumulated the following navigation time aboard a craft using LNG as fuel:
+
+— at least 180 days during the previous five years; or
+
+— at least 90 days during the previous year;
+
+or
+
+(b) meet the standards of competence for LNG experts set out in Annex II.
+
+## ANNEX II
+
+**ESSENTIAL COMPETENCE REQUIREMENTS**
+
+**1 Essential competence requirements at operational level**
+
+**1.1 Navigation**
+
+The boatman shall assist the management of the craft in situations of manoeuvring and handling a craft on inland waterways. The boatman shall be able to do so on all types of waterways and in all types of ports. In particular the boatman shall be able to:
+
+— assist in preparing the craft for sailing, in order to ensure a safe voyage in all circumstances;
+
+— assist with mooring and anchoring operations;
+
+— assist in the sailing and manoeuvring of the craft in a nautically safe and economical way.
+
+**1.2 Operation of craft**
+
+The boatman shall be able to:
+
+— assist the management of the craft in controlling the operation of the craft and in the care of persons on board;
+
+— use the equipment of the craft.
+
+**1.3 Cargo handling, stowage and passenger transport**
+
+The boatman shall be able to:
+
+— assist the management of the craft in the preparation, stowage and monitoring of cargo during loading and unloading operations;
+
+— assist the vessel’s management in providing services to passengers;
+
+— provide direct assistance to disabled persons and persons with reduced mobility in accordance with the training requirements and instructions of Annex IV of Regulation (EU) No 1177/2010 of the European Parliament and of the Council ( 5 );
+
+**1.4 Marine engineering and electrical, electronic and control engineering**
+
+The boatman shall be able to:
+
+— assist the management of the craft in marine, electrical, electronic, and control engineering to ensure general technical safety;
+
+— perform maintenance work on marine, electrical, electronic, and control engineering equipment to ensure general technical safety.
+
+**1.5 Maintenance and repair**
+
+The boatman shall be able to:
+
+— assist the management of the craft in maintaining and repairing the craft, its devices and its equipment.
+
+**1.6 Communication**
+
+The boatman shall be able to:
+
+— communicate generally and professionally, which includes the ability to use standardised communication phrases in situations with communication problems;
+
+— be sociable.
+
+**1.7 Health and safety and environmental protection**
+
+The boatman shall be able to:
+
+— adhere to safe working rules, understand the importance of health and safety rules and the importance of the environment;
+
+— acknowledge the importance of training on safety aboard and act immediately in the event of emergencies;
+
+— take precautions to prevent fire, and use the firefighting equipment correctly;
+
+— perform duties, taking into account the importance of protecting the environment.
+
+**2 Essential competence requirements for competences at management level**
+
+**2.0 Supervision**
+
+The boatmaster shall be able to:
+
+— instruct other deck crew members and supervise the tasks they exercise, as referred to Section 1 of this Annex, implying adequate abilities to perform these tasks.
+
+**2.1 Navigation**
+
+The boatmaster shall be able to:
+
+— plan a journey and conduct navigation on inland waterways, including being able to choose the most logical, economic and ecological sailing route to reach the loading and unloading destinations, taking into account the applicable traffic regulations and agreed set of rules applicable in inland navigation;
+
+— apply knowledge of the applicable rules on the manning of craft, including knowledge on resting time and on deck crew members composition;
+
+— sail and manoeuvre, ensuring the safe operation of the craft in all conditions on inland waterways, including in situations that involve high traffic density or where other craft carry dangerous goods and require basic knowledge on the European Agreement concerning the International Carriage of Dangerous Goods by Inland Waterways (ADN);
+
+— respond to navigational emergencies on inland waterways.
+
+**2.2 Operation of craft**
+
+The boatmaster shall be able to:
+
+— apply knowledge of inland waterway shipbuilding and construction methods to the operation of various types of craft and have basic knowledge of the technical requirements for inland waterway vessels, as referred to in Directive (EU) 2016/1629 of the European Parliament and of the Council ( 6 );
+
+— control and monitor the mandatory equipment as mentioned in the applicable craft certificate.
+
+**2.3 Cargo handling, stowage and passenger transport**
+
+The boatmaster shall be able to:
+
+— plan and ensure the safe loading, stowage, securing, unloading and care of cargoes during the voyage;
+
+— plan and ensure the stability of the craft;
+
+— plan and ensure the safe transport of and care for passengers during the voyage, including providing direct assistance to disabled persons and persons with reduced mobility in accordance with the training requirements and instructions of Annex IV of Regulation (EU) No 1177/2010.
+
+**2.4 Marine engineering and electrical, electronic and control engineering**
+
+The boatmaster shall be able to:
+
+— plan the workflow of marine engineering and electrical, electronic and control engineering;
+
+— monitor the main engines and auxiliary machinery and equipment;
+
+— plan and give instructions in relation to the pump and the pump control system of the craft;
+
+— organise the safe use and application, maintenance and repair of the electro-technical devices of the craft;
+
+— control the safe maintenance and repair of technical devices.
+
+**2.5 Maintenance and repair**
+
+The boatmaster shall be able to:
+
+— organise the safe maintenance and repair of the craft and its equipment.
+
+**2.6 Communication**
+
+The boatmaster shall be able to:
+
+— perform human resources management, be socially responsible, and take care of the organisation of workflow and training on board the craft;
+
+— ensure good communication at all times, which includes the use of standardised communication phrases in situations with communication problems;
+
+— foster a well-balanced and sociable working environment on board.
+
+**2.7 Health and safety, passenger rights and environmental protection**
+
+The boatmaster shall be able to:
+
+— monitor the applicable legal requirements and take measures to ensure the safety of life;
+
+— maintain safety and security for persons on board, including providing direct assistance to disabled persons and persons with reduced mobility in accordance with the training requirements and instructions of Annex IV of Regulation (EU) No 1177/2010;
+
+— set-up emergency and damage control plans, and handle emergency situations;
+
+— ensure compliance with requirements for environmental protection.
+
+**3 Essential competence requirements for specific authorisations**
+
+**3.1 Sailing on inland waterways with a maritime character**
+
+The boatmaster shall be able to:
+
+— work with up-to-date charts and maps, notices to skippers and mariners and other publications specific to waterways with a maritime character;
+
+— use tidal datums, tidal currents, periods and cycles, the time of tidal currents and tides and variations across an estuary;
+
+— use SIGNI (Signalisation de voies de Navigation Intérieure) and IALA (International Association of Marine Aids to Navigation and Lighthouse Authorities) for safe navigation on inland waterways with a maritime character.
+
+**3.2 Radar navigation**
+
+The boatmaster shall be able to:
+
+— take appropriate action in relation to navigation with the aid of radar before casting off;
+
+— interpret radar displays and analyse the information supplied by radar;
+
+— reduce interference of varying origin;
+
+— navigate by radar taking into account the agreed set of rules applicable to inland navigation and in accordance with the regulations specifying the requirements for navigating by radar (such as manning requirements or technical requirements for vessels);
+
+— handle specific circumstances, such as density of traffic, failure of devices, dangerous situations.
+
+**4 Essential competence requirements for specific operations**
+
+**4.1 Passenger navigation expert**
+
+Every applicant shall be able to:
+
+— organise the use of life-saving equipment on board passenger vessels;
+
+— apply safety instructions and take the necessary measures to protect passengers in general, especially in the event of emergencies (e.g. evacuation, damage, collision, running aground, fire, explosion or other situations which may give rise to panic), including providing direct assistance to disabled persons and persons with reduced mobility in accordance with training requirements and instructions of Annex IV of Regulation (EU) No 1177/2010;
+
+— communicate in elementary English;
+
+— meet the relevant requirements of Regulation (EU) No 1177/2010.
+
+**4.2 Liquefied natural gas (LNG) expert**
+
+Every applicant shall be able to:
+
+— ensure compliance with legislation and standards applicable to craft that use LNG as fuel, as well as with other relevant health and safety regulations;
+
+— be aware of specific points of attention related to LNG, recognise the risks and manage them;
+
+— operate the systems specific to LNG in a safe way;
+
+— ensure regular checking of the LNG system;
+
+— know how to perform LNG bunkering operations in a safe and controlled manner;
+
+— prepare the LNG system for craft maintenance;
+
+— handle emergency situations related to LNG.
+
+## ANNEX III
+
+**ESSENTIAL REQUIREMENTS REGARDING MEDICAL FITNESS**
+
+Medical fitness, comprising of physical and psychological fitness, means not suffering from any disease or disability which makes the person serving on board a craft unable to:
+
+— execute the tasks necessary to operate a craft;
+
+— perform assigned duties at any time; or
+
+— perceive their environment correctly.
+
+The examination shall, in particular, cover visual and auditory acuity, motor functions, the neuro-psychiatric state and cardiovascular conditions.
+
+## ANNEX IV — APPLICABLE REQUIREMENTS
+
+**Table A**
+
+| Subject matter, Article | Conformity requirements | Start of application |
+| --- | --- | --- |
+| Practical examinations, Article 17(4) | ES-QIN 2018, specifically by CESNI Resolutions 2018-II-9, 2018-II-10, 2018-II-11, 2018-II-12, 2018-II-13 | 18/01/2022 |
+| Approval of simulators, Article 21(2) | ES-QIN 2018, specifically CESNI Resolutions 2018-II-14 and 2018-II-15 | 18/01/2022 |
+| Characteristics and conditions of use of registers, Article 25(2) |  |  |
+
+**Table B**
+
+| Item | Essential competence requirements | Conformity requirements | Start of application |
+| --- | --- | --- | --- |
+| 1 | Essential competence requirements at operational level | ES-QIN 2018, specifically CESNI Resolution 2018-II-3 | 18/01/2022 |
+| 2 | Essential competence requirements at management level | ES-QIN 2018, specifically CESNI Resolution 2018-II-4 | 18/01/2022 |
+| 3 | Essential competence requirements for specific authorisations |  |  |
+| 3.1 | Sailing on inland waterways with a maritime character | ES-QIN 2018, specifically CESNI Resolution 2018-II-6 | 18/01/2022 |
+| 3.2 | Radar navigation | ES-QIN 2018, specifically CESNI Resolution 2018-II-7 | 18/01/2022 |
+| 4 | Essential competence requirements for specific operations |  |  |
+| 4.1 | Passenger navigation expert | ES-QIN 2018, specifically CESNI Resolution 2018-II-5 | 18/01/2022 |
+| 4.2 | Liquefied natural gas (LNG) expert | ES-QIN 2018, specifically CESNI Resolution 2018-II-8 | 18/01/2022 |
+
+**Table C**
+
+| Essential requirements regarding medical fitness | Conformity requirements | Start of application |
+| --- | --- | --- |
+| Medical fitness examination | ES-QIN 2018, specifically CESNI Resolution 2018-II-2 | 18/01/2022. |
+
+( 1 ) Directive 2008/68/EC of the European Parliament and of the Council of 24 September 2008 on the inland transport of dangerous goods (OJ L 260, 30.9.2008, p. 13).
+
+( 2 ) Directive 2008/106/EC of the European Parliament and of the Council of 19 November 2008 on the minimum level of training of seafarers (OJ L 323, 3.12.2008, p. 33).
+
+( 3 ) Directive 2005/45/EC of the European Parliament and of the Council of 7 September 2005 on the mutual recognition of seafarers’ certificates issued by the Member States and amending Directive 2001/25/EC (OJ L 255, 30.9.2005, p. 160).
+
+( 4 ) Council Directive 2014/112/EU of 19 December 2014 implementing the European Agreement concerning certain aspects of the organisation of working time in inland waterway transport, concluded by the European Barge Union (EBU), the European Skippers Organisation (ESO) and the European Transport Workers’ Federation (ETF) (OJ L 367, 23.12.2014, p. 86).
+
+( 5 ) Regulation (EU) No 1177/2010 of the European Parliament and of the Council of 24 November 2010 concerning the rights of passengers when travelling by sea and inland waterway and amending Regulation (EC) No 2006/2004 (OJ L 334, 17.12.2010, p. 1).
+
+( 6 ) Directive (EU) 2016/1629 of the European Parliament and of the Council of 14 September 2016 laying down technical requirements for inland waterway vessels, amending Directive 2009/100/EC and repealing Directive 2006/87/EC (OJ L 252, 16.9.2016, p. 118).

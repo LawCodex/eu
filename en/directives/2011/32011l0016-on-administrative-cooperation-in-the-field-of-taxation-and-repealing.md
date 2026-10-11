@@ -1,0 +1,3673 @@
+---
+title: "Council Directive 2011/16/EU of 15 February 2011 on administrative cooperation in the field of taxation and repealing Directive 77/799/EEC"
+identifier: "32011L0016"
+eli: "http://data.europa.eu/eli/dir/2011/16/oj"
+type: directive
+jurisdiction: eu
+language: en
+date: 2011-02-15
+entry_into_force: 2011-12-01
+last_amended: 2026-01-01
+consolidated_version: "02011L0016-20260101"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02011L0016-20260101"
+retrieved: 2026-10-11
+---
+
+# Council Directive 2011/16/EU of 15 February 2011 on administrative cooperation in the field of taxation and repealing Directive 77/799/EEC
+
+**COUNCIL DIRECTIVE 2011/16/EU**
+
+**of 15 February 2011**
+
+**on administrative cooperation in the field of taxation and repealing Directive 77/799/EEC**
+
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> COUNCIL DIRECTIVE 2014/107/EU of 9 December 2014 </td><td> L 359</td><td>1</td><td>16.12.2014</td></tr>
+<tr><td></td><td> COUNCIL DIRECTIVE (EU) 2015/2376 of 8 December 2015 </td><td> L 332</td><td>1</td><td>18.12.2015</td></tr>
+<tr><td></td><td> COUNCIL DIRECTIVE (EU) 2016/881 of 25 May 2016 </td><td> L 146</td><td>8</td><td>3.6.2016</td></tr>
+<tr><td> M4</td><td> COUNCIL DIRECTIVE (EU) 2016/2258 of 6 December 2016 </td><td> L 342</td><td>1</td><td>16.12.2016</td></tr>
+<tr><td></td><td> COUNCIL DIRECTIVE (EU) 2018/822 of 25 May 2018 </td><td> L 139</td><td>1</td><td>5.6.2018</td></tr>
+<tr><td></td><td> COUNCIL DIRECTIVE (EU) 2020/876 of 24 June 2020 </td><td> L 204</td><td>46</td><td>26.6.2020</td></tr>
+<tr><td></td><td> COUNCIL DIRECTIVE (EU) 2021/514 of 22 March 2021 </td><td> L 104</td><td>1</td><td>25.3.2021</td></tr>
+<tr><td></td><td> COUNCIL DIRECTIVE (EU) 2023/2226 of 17 October 2023 </td><td> L 2226</td><td>1</td><td>24.10.2023</td></tr>
+<tr><td></td><td> COUNCIL DIRECTIVE (EU) 2025/872 of 14 April 2025 </td><td> L 872</td><td>1</td><td>6.5.2025</td></tr>
+
+**COUNCIL DIRECTIVE 2011/16/EU**
+
+**of 15 February 2011**
+
+**on administrative cooperation in the field of taxation and repealing Directive 77/799/EEC**
+
+## CHAPTER I — GENERAL PROVISIONS
+
+#### Article 1 — Subject matter
+
+1\. This Directive lays down the rules and procedures under which the Member States shall cooperate with each other with a view to exchanging information that is foreseeably relevant to the administration and enforcement of the domestic laws of the Member States concerning the taxes referred to in Article 2.
+
+2\. This Directive also lays down provisions for the exchange of information referred to in paragraph 1 by electronic means, as well as rules and procedures under which the Member States and the Commission are to cooperate on matters concerning coordination and evaluation.
+
+3\. This Directive shall not affect the application in the Member States of the rules on mutual assistance in criminal matters. It shall also be without prejudice to the fulfilment of any obligations of the Member States in relation to wider administrative cooperation ensuing from other legal instruments, including bilateral or multilateral agreements.
+
+#### Article 2 — Scope
+
+1\. This Directive shall apply to all taxes of any kind levied by, or on behalf of, a Member State or the Member State’s territorial or administrative subdivisions, including the local authorities.
+
+2\. Notwithstanding paragraph 1, this Directive shall not apply to value added tax and customs duties, or to excise duties covered by other Union legislation on administrative cooperation between Member States. This Directive shall also not apply to compulsory social security contributions payable to the Member State or a subdivision of the Member State or to social security institutions established under public law.
+
+3\. In no case shall the taxes referred to in paragraph 1 be construed as including:
+
+(a) fees, such as for certificates and other documents issued by public authorities; or
+
+(b) dues of a contractual nature, such as consideration for public utilities.
+
+4\. This Directive shall apply to the taxes referred to in paragraph 1 levied within the territory to which the Treaties apply by virtue of Article 52 of the Treaty on the European Union.
+
+#### Article 3 — Definitions
+
+For the purposes of this Directive the following definitions shall apply:
+
+1\. ‘competent authority’ of a Member State means the authority which has been designated as such by that Member State. When acting pursuant to this Directive, the central liaison office, a liaison department or a competent official shall also be deemed to be competent authorities by delegation according to Article 4;
+
+2\. ‘central liaison office’ means the office which has been designated as such with principal responsibility for contacts with other Member States in the field of administrative cooperation;
+
+3\. ‘liaison department’ means any office other than the central liaison office which has been designated as such to directly exchange information pursuant to this Directive;
+
+4\. ‘competent official’ means any official who is authorised to directly exchange information pursuant to this Directive;
+
+5\. ‘requesting authority’ means the central liaison office, a liaison department or any competent official of a Member State who makes a request for assistance on behalf of the competent authority;
+
+6\. ‘requested authority’ means the central liaison office, a liaison department or any competent official of a Member State who receives a request for assistance on behalf of the competent authority;
+
+7\. ‘administrative enquiry’ means all controls, checks and other action taken by Member States in the performance of their duties with a view to ensuring the proper application of tax legislation;
+
+8\. ‘exchange of information on request’ means the exchange of information based on a request made by the requesting Member State to the requested Member State in a specific case;
+
+9\. ‘automatic exchange’ means,
+
+(a) for the purposes of Article 8(1) and Articles 8a to 8ae, the systematic communication of predefined information to another Member State, without prior request, at pre-established regular intervals. For the purposes of Article 8(1), reference to available information relates to information in the tax files of the Member State communicating the information, which is retrievable in accordance with the procedures for gathering and processing information in that Member State;
+
+(b) for the purposes of Article 8(3a), the systematic communication of predefined information on residents in other Member States to the relevant Member State of residence, without prior request, at pre-established regular intervals;
+
+(c) for the purposes of provisions of this Directive other than Articles 8(1) and 8(3a) and Articles 8a to 8ae, the systematic communication of predefined information provided for in the first subparagraph, points (a) and (b), of this point.
+
+In the context of this Article, Articles 8(3a), 8(7a) and 21(2) of this Directive and Annex IV to this Directive, any capitalised term shall have the meaning that it has under the corresponding definitions set out in Annex I to this Directive. In the context of Article 21(5) and Article 25(3) and (4) of this Directive, any capitalised term shall have the meaning that it has under the corresponding definitions set out in Annex I, V or VI to this Directive. In the context of Article 8aa of this Directive and Annex III to this Directive, any capitalised term shall have the meaning that it has under the corresponding definitions set out in Annex III to this Directive. In the context of Article 8ac of this Directive and Annex V to this Directive, any capitalised term shall have the meaning that it has under the corresponding definitions set out in Annex V to this Directive. In the context of Article 8ad of this Directive and Annex VI to this Directive, any capitalised term shall have the meaning that it has under the corresponding definitions set out in Annex VI to this Directive. In the context of Articles 8ae and 9a of this Directive and Annex VII to this Directive, any term shall have the same meaning as defined in Article 3, Article 9(2), point (a), Article 16(4), (6), (8) and (11), Article 17(1), Article 21(5), Article 22(1), Article 24(4) and (6), Article 26(2), Article 27(3), (4), and (5), Article 28(1), Article 30(2), Article 31(1), Article 32, Article 33(1), Article 35(1), Article 36(1), Article 37(1), Article 39(1), Article 42(1), Article 44(1), Article 47(1) and Article 49(3) of Council Directive (EU) 2022/2523 ( 1 ). Furthermore, any capitalised term shall have the same meaning as defined in Section I of Annex VII to this Directive.
+
+10\. ‘spontaneous exchange’ means the non-systematic communication, at any moment and without prior request, of information to another Member State;
+
+11\. ‘person’ means:
+
+(a) a natural person;
+
+(b) a legal person;
+
+(c) where the legislation in force so provides, an association of persons recognised as having the capacity to perform legal acts but lacking the status of a legal person; or
+
+(d) any other legal arrangement of whatever nature and form, regardless of whether it has legal personality, owning or managing assets, which, including income derived therefrom, are subject to any of the taxes covered by this Directive;
+
+12\. ‘by electronic means’ means using electronic equipment for the processing, including digital compression, and storage of data, and employing wires, radio transmission, optical technologies or other electromagnetic means;
+
+13\. ‘CCN network’ means the common platform based on the common communication network (CCN), developed by the Union for all transmissions by electronic means between competent authorities in the area of customs and taxation;
+
+14\. ‘advance cross-border ruling’ means any agreement, communication, or any other instrument or action with similar effects, including one issued, amended or renewed in the context of a tax audit, and which meets the following conditions:
+
+(a) is issued, amended or renewed by, or on behalf of, the government or the tax authority of a Member State, or the Member State's territorial or administrative subdivisions, including local authorities, irrespective of whether it is effectively used;
+
+(b) is issued, amended or renewed, to a particular person or a group of persons, and upon which that person or a group of persons is entitled to rely;
+
+(c) concerns the interpretation or application of a legal or administrative provision concerning the administration or enforcement of national laws relating to taxes of the Member State, or the Member State's territorial or administrative subdivisions, including local authorities;
+
+(d) relates to a cross-border transaction, or to the question of whether or not activities carried on by a person in another jurisdiction create a permanent establishment or to the question of whether or not a natural person is resident for tax purposes in the Member State issuing the ruling; and
+
+(e) is made in advance of the transactions or of the activities in another jurisdiction potentially creating a permanent establishment or in advance of the filing of a tax return covering the period in which the transaction or series of transactions or activities took place.
+
+The cross-border transaction may involve, but is not restricted to, the making of investments, the provision of goods, services, finance or the use of tangible or intangible assets and does not have to directly involve the person receiving the advance cross-border ruling;
+
+15\. ‘advance pricing arrangement’ means any agreement, communication or any other instrument or action with similar effects, including one issued, amended or renewed in the context of a tax audit, and which meets the following conditions:
+
+(a) is issued, amended or renewed by, or on behalf of, the government or the tax authority of one or more Member States, including any territorial or administrative subdivision thereof, including local authorities, irrespective of whether it is effectively used;
+
+(b) is issued, amended or renewed, to a particular person or a group of persons and upon which that person or a group of persons is entitled to rely; and
+
+(c) determines in advance of cross-border transactions between associated enterprises, an appropriate set of criteria for the determination of the transfer pricing for those transactions or determines the attribution of profits to a permanent establishment.
+
+Enterprises are associated enterprises where one enterprise participates directly or indirectly in the management, control or capital of another enterprise or the same persons participate directly or indirectly in the management, control or capital of the enterprises.
+
+Transfer prices are the prices at which an enterprise transfers physical goods and intangible property or provides services to associated enterprises, and ‘transfer pricing’ is to be construed accordingly;
+
+16\. For the purpose of point 14 ‘cross-border transaction’ means a transaction or series of transactions where:
+
+(a) not all of the parties to the transaction or series of transactions are resident for tax purposes in the Member State issuing, amending or renewing the advance cross-border ruling;
+
+(b) any of the parties to the transaction or series of transactions is simultaneously resident for tax purposes in more than one jurisdiction;
+
+(c) one of the parties to the transaction or series of transactions carries on business in another jurisdiction through a permanent establishment and the transaction or series of transactions forms part or the whole of the business of the permanent establishment. A cross-border transaction or series of transactions shall also include arrangements made by a person in respect of business activities in another jurisdiction which that person carries on through a permanent establishment; or
+
+(d) such transactions or series of transactions have a cross border impact.
+
+For the purpose of point 15, ‘cross-border transaction’ means a transaction or series of transactions involving associated enterprises which are not all resident for tax purposes in the territory of a single jurisdiction or a transaction or series of transactions which have a cross border impact;
+
+17\. For the purpose of point 15 and 16, ‘enterprise’ means any form of conducting business;
+
+18\. ‘cross-border arrangement’ means an arrangement concerning either more than one Member State or a Member State and a third country where at least one of the following conditions is met:
+
+(a) not all of the participants in the arrangement are resident for tax purposes in the same jurisdiction;
+
+(b) one or more of the participants in the arrangement is simultaneously resident for tax purposes in more than one jurisdiction;
+
+(c) one or more of the participants in the arrangement carries on a business in another jurisdiction through a permanent establishment situated in that jurisdiction and the arrangement forms part or the whole of the business of that permanent establishment;
+
+(d) one or more of the participants in the arrangement carries on an activity in another jurisdiction without being resident for tax purposes or creating a permanent establishment situated in that jurisdiction;
+
+(e) such arrangement has a possible impact on the automatic exchange of information or the identification of beneficial ownership.
+
+For the purposes of points 18 to 25 of this Article, Article 8ab and Annex IV, an arrangement shall also include a series of arrangements. An arrangement may comprise more than one step or part;
+
+19\. ‘reportable cross-border arrangement’ means any cross-border arrangement that contains at least one of the hallmarks set out in Annex IV;
+
+20\. ‘hallmark’ means a characteristic or feature of a cross-border arrangement that presents an indication of a potential risk of tax avoidance, as listed in Annex IV;
+
+21\. ‘intermediary’ means any person that designs, markets, organises or makes available for implementation or manages the implementation of a reportable cross-border arrangement.
+
+It also means any person that, having regard to the relevant facts and circumstances and based on available information and the relevant expertise and understanding required to provide such services, knows or could be reasonably expected to know that they have undertaken to provide, directly or by means of other persons, aid, assistance or advice with respect to designing, marketing, organising, making available for implementation or managing the implementation of a reportable cross-border arrangement. Any person shall have the right to provide evidence that such person did not know and could not reasonably be expected to know that that person was involved in a reportable cross-border arrangement. For this purpose, that person may refer to all relevant facts and circumstances as well as available information and their relevant expertise and understanding.
+
+In order to be an intermediary, a person shall meet at least one of the following additional conditions:
+
+(a) be resident for tax purposes in a Member State;
+
+(b) have a permanent establishment in a Member State through which the services with respect to the arrangement are provided;
+
+(c) be incorporated in, or governed by the laws of, a Member State;
+
+(d) be registered with a professional association related to legal, taxation or consultancy services in a Member State;
+
+22\. ‘relevant taxpayer’ means any person to whom a reportable cross-border arrangement is made available for implementation, or who is ready to implement a reportable cross-border arrangement or has implemented the first step of such an arrangement;
+
+23\. for the purposes of Article 8ab, ‘associated enterprise’ means a person who is related to another person in at least one of the following ways:
+
+(a) a person participates in the management of another person by being in a position to exercise a significant influence over the other person;
+
+(b) a person participates in the control of another person through a holding that exceeds 25 % of the voting rights;
+
+(c) a person participates in the capital of another person through a right of ownership that, directly or indirectly, exceeds 25 % of the capital;
+
+(d) a person is entitled to 25 % or more of the profits of another person.
+
+If more than one person participates, as referred to in points (a) to (d), in the management, control, capital or profits of the same person, all persons concerned shall be regarded as associated enterprises.
+
+If the same persons participate, as referred to in points (a) to (d), in the management, control, capital or profits of more than one person, all persons concerned shall be regarded as associated enterprises.
+
+For the purposes of this point, a person who acts together with another person in respect of the voting rights or capital ownership of an entity shall be treated as holding a participation in all of the voting rights or capital ownership of that entity that are held by the other person.
+
+In indirect participations, the fulfilment of requirements under point (c) shall be determined by multiplying the rates of holding through the successive tiers. A person holding more than 50 % of the voting rights shall be deemed to hold 100 %.
+
+An individual, his or her spouse and his or her lineal ascendants or descendants shall be treated as a single person;
+
+24\. ‘marketable arrangement’ means a cross-border arrangement that is designed, marketed, ready for implementation or made available for implementation without a need to be substantially customised;
+
+25\. ‘bespoke arrangement’ means any cross-border arrangement that is not a marketable arrangement;
+
+26\. ‘joint audit’ means an administrative enquiry jointly conducted by the competent authorities of two or more Member States, and linked to one or more persons of common or complementary interest to the competent authorities of those Member States;
+
+27\. ‘data breach’ means a breach of security leading to destruction, loss, alteration or any incident of inappropriate or unauthorised access, disclosure or use of information, including but not limited to personal data transmitted, stored or otherwise processed, as the result of deliberate unlawful acts, negligence or accidents. A data breach may concern the confidentiality, availability and integrity of data;
+
+28\. ‘non-custodial dividend income’ means dividends or other income treated as dividends in the payer’s Member State which are paid or credited to an account other than a Custodial Account as defined in Section VIII, subparagraph C(3), of Annex I;
+
+29\. ‘life insurance products not covered by other Union legal instruments on exchange of information and other similar measures’ means Insurance Contracts, other than Cash Value Insurance Contracts subject to reporting under Section I of Annex I, where benefits under the contracts are payable on death of a policy holder;
+
+30\. ‘distributed ledger address’ means distributed ledger address as defined in Article 3, point (18), of Regulation (EU) 2023/1113 of the European Parliament and of the Council ( 2 );
+
+31\. ‘client’ means, for the purposes of Article 8ab, any intermediary or relevant taxpayer that receives services, including assistance, advice, counsel or guidance, from an intermediary subject to legal professional privilege in relation to a reportable cross-border arrangement.
+
+#### Article 4 — Organisation
+
+1\. Each Member State shall inform the Commission, within one month from 11 March 2011, of its competent authority for the purposes of this Directive and shall inform the Commission without delay of any change thereto.
+
+The Commission shall make the information available to the other Member States and publish a list of the authorities of the Member States in the Official Journal of the European Union.
+
+2\. The competent authority shall designate a single central liaison office. The competent authority shall be responsible for informing the Commission and the other Member States thereof.
+
+The central liaison office may also be designated as responsible for contacts with the Commission. The competent authority shall be responsible for informing the Commission thereof.
+
+3\. The competent authority of each Member State may designate liaison departments with the competence assigned according to its national legislation or policy. The central liaison office shall be responsible for keeping the list of liaison departments up to date and making it available to the central liaison offices of the other Member States concerned and to the Commission.
+
+4\. The competent authority of each Member State may designate competent officials. The central liaison office shall be responsible for keeping the list of competent officials up to date and making it available to the central liaison offices of the other Member States concerned and to the Commission.
+
+5\. The officials engaged in administrative cooperation pursuant to this Directive shall in any case be deemed to be competent officials for that purpose, in accordance with arrangements laid down by the competent authorities.
+
+6\. Where a liaison department or a competent official sends or receives a request or a reply to a request for cooperation, it shall inform the central liaison office of its Member State under the procedures laid down by that Member State.
+
+7\. Where a liaison department or a competent official receives a request for cooperation requiring action which falls outside the competence it is assigned according to the national legislation or policy of its Member State, it shall forward such request without delay to the central liaison office of its Member State and inform the requesting authority thereof. In such a case, the period laid down in Article 7 shall start the day after the request for cooperation is forwarded to the central liaison office.
+
+## CHAPTER II — EXCHANGE OF INFORMATION
+
+### SECTION I — Exchange of information on request
+
+#### Article 5 — Procedure for the exchange of information on request
+
+At the request of the requesting authority, the requested authority shall communicate to the requesting authority any information referred to in Article 1(1) that it has in its possession or that it obtains as a result of administrative enquiries.
+
+#### Article 5a — Foreseeable relevance
+
+1\. For the purposes of a request referred to in Article 5, the requested information is foreseeably relevant where, at the time the request is made, the requesting authority considers that, in accordance with its national law, there is a reasonable possibility that the requested information will be relevant to the tax affairs of one or several taxpayers, whether identified by name or otherwise, and be justified for the purposes of the investigation.
+
+2\. With the aim to demonstrate the foreseeable relevance of the requested information, the requesting authority shall provide at least the following information to the requested authority:
+
+(a) the tax purpose for which the information is sought; and
+
+(b) a specification of the information required for the administration or enforcement of its national law.
+
+3\. Where a request referred to in Article 5 relates to a group of taxpayers who cannot be identified individually the requesting authority shall provide at least the following information to the requested authority:
+
+(a) a detailed description of the group;
+
+(b) an explanation of the applicable law and of the facts based on which there is reason to believe that the taxpayers in the group have not complied with the applicable law;
+
+(c) an explanation how the requested information would assist in determining compliance by the taxpayers in the group; and
+
+(d) where relevant facts and circumstances related to the involvement of a third party that actively contributed to the potential non-compliance of the taxpayers in the group with the applicable law.
+
+#### Article 6 — Administrative enquiries
+
+1\. The requested authority shall arrange for the carrying out of any administrative enquiries necessary to obtain the information referred to in Article 5.
+
+2\. The request referred to in Article 5 may contain a reasoned request for an administrative enquiry. If the requested authority takes the view that no administrative enquiry is necessary, it shall immediately inform the requesting authority of the reasons thereof.
+
+3\. In order to obtain the requested information or to conduct the administrative enquiry requested, the requested authority shall follow the same procedures as it would when acting on its own initiative or at the request of another authority in its own Member State.
+
+4\. When specifically requested by the requesting authority, the requested authority shall communicate original documents provided that this is not contrary to the provisions in force in the Member State of the requested authority.
+
+#### Article 7 — Time limits
+
+1\. The requested authority shall provide the information referred to in Article 5 as quickly as possible, and no later than three months from the date of receipt of the request. However, where the requested authority is unable to respond to the request by the relevant time limit, it shall inform the requesting authority immediately and in any event within three months of the receipt of the request, of the reasons for its failure to do so, and the date by which it considers it might be able to respond. The time limit shall not be longer than six months from the date of receipt of the request.
+
+However, where the requested authority is already in possession of that information, the information shall be transmitted within two months of that date.
+
+2\. In certain special cases, time limits other than those provided for in paragraph 1 may be agreed upon between the requested and the requesting authorities.
+
+3\. The requested authority shall confirm immediately and in any event no later than seven working days from receipt, if possible by electronic means, receipt of a request to the requesting authority.
+
+4\. Within one month of receipt of the request, the requested authority shall notify the requesting authority of any deficiencies in the request and of the need for any additional background information. In such a case, the time limits provided for in paragraph 1 shall start the day after the requested authority has received the additional information needed.
+
+6\. Where the requested authority is not in possession of the requested information and is unable to respond to the request for information or refuses to do so on the grounds provided for in Article 17, it shall inform the requesting authority of the reasons thereof immediately and in any event within one month of receipt of the request.
+
+### SECTION II — Mandatory automatic exchange of information
+
+#### Article 8 — Scope and conditions of mandatory automatic exchange of information
+
+1\. The competent authority of each Member State shall, by automatic exchange, communicate to the competent authority of any other Member State all information that is available concerning residents of that other Member State, on the following specific categories of income and capital as they are to be understood under the national legislation of the Member State which communicates the information:
+
+(a) income from employment;
+
+(b) director’s fees;
+
+(c) income from life insurance products not covered by other Union legal instruments on exchange of information and other similar measures;
+
+(d) pensions;
+
+(e) ownership of and income from immovable property;
+
+(f) royalties;
+
+(g) non-custodial dividend income other than income from dividends exempt from corporate income tax pursuant to Articles 4, 5 or 6 of Council Directive 2011/96/EU ( 3 ).
+
+For taxable periods starting on or after 1 January 2024, Member States shall endeavour to include the Tax Identification Number (TIN) of residents issued by the Member State of residence in the communication of the information referred to in the first subparagraph.
+
+Member States shall inform the Commission annually of at least two categories of income and capital listed in the first subparagraph with regard to which they communicate information concerning residents of another Member State.
+
+2\. Before 1 January 2024, Member States shall inform the Commission of at least four categories listed in the first subparagraph of paragraph 1 in respect of which the competent authority of each Member State shall, by automatic exchange, communicate to the competent authority of any other Member State information concerning residents of that other Member State. Such information shall concern taxable periods starting on or after 1 January 2025.
+
+Before 1 January 2026, Member States shall inform the Commission of at least five categories listed in paragraph 1, first subparagraph, in respect of which the competent authority of each Member State shall, by automatic exchange, communicate to the competent authority of any other Member State information concerning residents of that other Member State. Such information shall concern taxable periods starting on or after 1 January 2026.
+
+3\. The competent authority of a Member State may indicate to the competent authority of any other Member State that it does not wish to receive information on one or several of the categories of income and capital referred to in paragraph 1. It shall also inform the Commission thereof.
+
+3a. Each Member State shall take the necessary measures to require its Reporting Financial Institutions to perform the reporting and due diligence rules included in Annexes I and II and to ensure effective implementation of, and compliance with, such rules in accordance with Section IX of Annex I.
+
+Pursuant to the applicable reporting and due diligence rules contained in Annexes I and II, the competent authority of each Member State shall, by automatic exchange, communicate within the deadline laid down in point (b) of paragraph 6 to the competent authority of any other Member State, the following information regarding taxable periods as from 1 January 2016 concerning a Reportable Account:
+
+(a) the name, address, TIN(s) and date and place of birth (in the case of an individual) of each Reportable Person that is an Account Holder of the account and, in the case of any Entity that is an Account Holder and that, after application of due diligence rules consistent with the Annexes I and II, is identified as having one or more Controlling Persons that are Reportable Persons, the name, address, and TIN(s) of the Entity and the name, address, TIN(s) and date and place of birth of each Reportable Person;
+
+(b) the account number (or functional equivalent in the absence of an account number);
+
+(c) the name and identifying number (if any) of the Reporting Financial Institution;
+
+(d) the account balance or value (including, in the case of a Cash Value Insurance Contract or Annuity Contract, the Cash Value or surrender value) as of the end of the relevant calendar year or other appropriate reporting period or, if the account was closed during such year or period, the closure of the account;
+
+(e) in the case of any Custodial Account:
+
+(i) the total gross amount of interest, the total gross amount of dividends, and the total gross amount of other income generated with respect to the assets held in the account, in each case paid or credited to the account (or with respect to the account) during the calendar year or other appropriate reporting period; and
+
+(ii) the total gross proceeds from the sale or redemption of Financial Assets paid or credited to the account during the calendar year or other appropriate reporting period with respect to which the Reporting Financial Institution acted as a custodian, broker, nominee, or otherwise as an agent for the Account Holder;
+
+(f) in the case of any Depository Account, the total gross amount of interest paid or credited to the account during the calendar year or other appropriate reporting period;
+
+(g) in the case of any account not described in point (e) or point (f), the total gross amount paid or credited to the Account Holder with respect to the account during the calendar year or other appropriate reporting period with respect to which the Reporting Financial Institution is the obligor or debtor, including the aggregate amount of any redemption payments made to the Account Holder during the calendar year or other appropriate reporting period;
+
+(h) whether a valid self-certification has been provided for each Account Holder;
+
+(i) the role(s) by virtue of which each Reportable Person that is a Controlling Person of an Entity Account Holder is a Controlling Person of the Entity and whether a valid self-certification has been provided for each such Reportable Person;
+
+(j) the type of account, whether the account is a Pre-existing Account or a New Account and whether the account is a joint account, including the number of joint Account Holders; and
+
+(k) in the case of any Equity Interest held in an Investment Entity that is a legal arrangement, the role(s) by virtue of which the Reportable Person is an Equity Interest holder.
+
+For the purposes of the exchange of information under this paragraph, unless otherwise provided for in this paragraph or in Annex I or II, the amount and characterisation of payments made with respect to a Reportable Account shall be determined in accordance with the national legislation of the Member State which communicates the information.
+
+The first and second subparagraphs of this paragraph shall prevail over point (c) of paragraph 1 or any other Union legal instrument, to the extent that the exchange of information at issue would fall within the scope of point (c) of paragraph 1 or of any other Union legal instrument.
+
+The competent authority of each Member State shall communicate the information referred to in points (h) to (k) of the second subparagraph regarding taxable periods as from 1 January 2026.
+
+6\. The communication of information shall take place as follows:
+
+(a) for the categories laid down in paragraph 1: at least once a year, within six months following the end of the tax year of the Member State during which the information became available;
+
+(b) for the information laid down in paragraph 3a: annually, within nine months following the end of the calendar year or other appropriate reporting period to which the information relates.
+
+7\. The Commission shall adopt the practical arrangements for the automatic exchange of information, in accordance with the procedure referred to in Article 26(2), before the dates referred to in Article 29(1).
+
+7a. Member States shall ensure that entities and accounts that are to be treated, respectively, as Non-Reporting Financial Institutions and Excluded Accounts satisfy all the requirements listed in Section VIII, subparagraph B(1), point (c), and subparagraph C(17), point (g), of Annex I, and in particular that the status of a Financial Institution as a Non-Reporting Financial Institution or the status of an account as an Excluded Account does not frustrate the purposes of this Directive.
+
+8\. Where Member States agree on the automatic exchange of information for additional categories of income and capital in bilateral or multilateral agreements which they conclude with other Member States, they shall communicate those agreements to the Commission which shall make those agreements available to all the other Member States
+
+#### Article 8a — Scope and conditions of mandatory automatic exchange of information on advance cross-border rulings and advance pricing arrangements
+
+1\. The competent authority of a Member State, where an advance cross-border ruling or an advance pricing arrangement was issued, amended or renewed after 31 December 2016 shall, by automatic exchange, communicate information thereon to the competent authorities of all other Member States as well as to the European Commission, with the limitation of cases set out in paragraph 8 of this Article, in accordance with applicable practical arrangements adopted pursuant to Article 21.
+
+2\. The competent authority of a Member State shall, in accordance with applicable practical arrangements adopted pursuant to Article 21, also communicate information to the competent authorities of all other Member States as well as to the European Commission, with the limitation of cases set out in paragraph 8 of this Article, on advance cross-border rulings and advance pricing arrangements issued, amended or renewed within a period beginning five years before 1 January 2017.
+
+If advance cross-border rulings and advance pricing arrangements are issued, amended or renewed between 1 January 2012 and 31 December 2013, such communication shall take place under the condition that they were still valid on 1 January 2014.
+
+If advance cross-border rulings and advance pricing arrangements are issued, amended or renewed between 1 January 2014 and 31 December 2016, such communication shall take place irrespective of whether they are still valid.
+
+Member States may exclude from the communication referred to in this paragraph, information on advance cross-border rulings and advance pricing arrangements issued, amended or renewed before 1 April 2016 to a particular person or a group of persons, excluding those conducting mainly financial or investment activities, with a group-wide annual net turnover, as defined in point (5) of Article 2 of Directive 2013/34/EU of the European Parliament and of the Council ( 4 ), of less than EUR 40 000 000 (or the equivalent amount in any other currency) in the fiscal year preceding the date of issuance, amendment or renewal of those cross-border rulings and advance pricing arrangements.
+
+3\. Bilateral or multilateral advance pricing arrangements with third countries shall be excluded from the scope of automatic exchange of information under this Article where the international tax agreement under which the advance pricing arrangement was negotiated does not permit its disclosure to third parties. Such bilateral or multilateral advance pricing arrangements will be exchanged under Article 9, where the international tax agreement under which the advance pricing arrangement was negotiated permits its disclosure, and the competent authority of the third country gives permission for the information to be disclosed.
+
+However, where the bilateral or multilateral advance pricing arrangements would be excluded from the automatic exchange of information under the first sentence of the first subparagraph of this paragraph, the information identified in paragraph 6 of this Article referred to in the request that lead to issuance of such a bilateral or multilateral advance pricing arrangement shall instead be exchanged under paragraphs 1 and 2 of this Article.
+
+4\. Paragraphs 1 and 2 shall not apply in a case where an advance cross-border ruling exclusively concerns and involves the tax affairs of one or more natural persons, except where such an advance cross-border ruling was issued, amended or renewed after 1 January 2026 and where:
+
+(a) the amount of the transaction or series of transactions of the advance cross-border ruling exceeds EUR 1 500 000 (or the equivalent amount in any other currency), if such amount is referred to in the advance cross-border ruling; or
+
+(b) the advance cross-border ruling determines whether a person is or is not resident for tax purposes in the Member State issuing the ruling.
+
+For the purposes of the first subparagraph, point (a), and without prejudice to the amount referred to in the advance cross-border ruling, in a series of transactions regarding different goods, services or assets the amount of the advance cross-border ruling shall comprise the total underlying value. The amounts shall not be aggregated if the same goods, services or assets are transacted several times.
+
+Notwithstanding the first subparagraph, point (b), the exchange of information on advance cross-border rulings concerning natural persons shall not include such rulings on taxation at source with regard to non-residents’ income from employment, director’s fees or pensions.
+
+5\. The exchange of information shall take place as follows:
+
+(a) in respect of information exchanged pursuant to paragraph 1 – without delay after the advance cross-border rulings or advance pricing arrangements have been issued, amended or renewed and at the latest three months following the end of the half of the calendar year during which the advance cross-border rulings or advance pricing arrangements were issued, amended or renewed;
+
+(b) in respect of the information exchanged pursuant to paragraph 2 — before 1 January 2018.
+
+6\. The information to be communicated by a Member State pursuant to paragraphs 1 and 2 of this Article shall include the following:
+
+(a) the identification of the person, other than a natural person, except where the advance-cross border ruling concerns a natural person and shall be communicated pursuant to paragraphs 1 and 4, and where appropriate the group of persons to which it belongs;
+
+(b) a summary of the advance cross-border ruling or advance pricing arrangement, including a description of the relevant business activities or transactions or series of transactions and any other information that could assist the competent authority in assessing a potential tax risk, without leading to the disclosure of a commercial, industrial or professional secret or of a commercial process, or of information whose disclosure would be contrary to public policy;
+
+(c) the dates of issuance, amendment or renewal of the advance cross-border ruling or advance pricing arrangement;
+
+(d) the start date of the period of validity of the advance cross-border ruling or advance pricing arrangement, if specified;
+
+(e) the end date of the period of validity of the advance cross-border ruling or advance pricing arrangement, if specified;
+
+(f) the type of the advance cross-border ruling or advance pricing arrangement;
+
+(g) the amount of the transaction or series of transactions of the advance cross-border ruling or advance pricing arrangement if such amount is referred to in the advance cross-border ruling or advance pricing arrangement;
+
+(h) the description of the set of criteria used for the determination of the transfer pricing or the transfer price itself in the case of an advance pricing arrangement;
+
+(i) the identification of the method used for determination of the transfer pricing or the transfer price itself in the case of an advance pricing arrangement;
+
+(j) the identification of the other Member States, if any, likely to be concerned by the advance cross-border ruling or advance pricing arrangement;
+
+(k) the identification of any person, other than a natural person, except where the advance-cross border ruling concerns a natural person and shall be communicated pursuant to paragraphs 1 and 4, in the other Member States, if any, likely to be affected by the advance cross-border ruling, or advance pricing arrangement (indicating to which Member States the affected persons are linked); and
+
+(l) the indication whether the information communicated is based upon the advance cross-border ruling or advance pricing arrangement itself or upon the request referred to in the second subparagraph of paragraph 3 of this Article.
+
+7\. To facilitate the exchange of information referred to in paragraph 6 of this Article, the Commission shall adopt the practical arrangements necessary for the implementation of this Article, including measures to standardise the communication of the information set out in paragraph 6 of this Article, as part of the procedure for establishing the standard form provided for in Article 20(5).
+
+8\. Information as defined under points (a), (b), (h) and (k) of paragraph 6 of this Article shall not be communicated to the European Commission.
+
+9\. The competent authority of the Member States concerned, identified under paragraph 6(j), shall confirm, if possible by electronic means, the receipt of the information to the competent authority which provided the information without delay and in any event no later than seven working days. This measure shall be applicable until the directory referred to in Article 21(5) becomes operational.
+
+10\. Member States may, in accordance with Article 5, and having regard to Article 21(4), request additional information, including the full text of an advance cross-border ruling or an advance pricing arrangement.
+
+#### Article 8aa — Scope and conditions of mandatory automatic exchange of information on the country-by-country report
+
+1\. Each Member State shall take the necessary measures to require the Ultimate Parent Entity of an MNE Group that is resident for tax purposes in its territory, or any other Reporting Entity in accordance with Section II of Annex III, to file a country-by-country report with respect to its Reporting Fiscal Year within 12 months of the last day of the Reporting Fiscal Year of the MNE Group in accordance with Section II of Annex III.
+
+2\. The competent authority of a Member State where the country-by-country report was received pursuant to paragraph 1 shall, by means of automatic exchange and within the deadline laid down in paragraph 4, communicate the country-by-country report to any other Member State in which, on the basis of the information in the country-by-country report, one or more Constituent Entities of the MNE Group of the Reporting Entity are either resident for tax purposes or subject to tax with respect to the business carried out through a permanent establishment.
+
+3\. The country-by-country report shall contain the following information with respect to the MNE Group:
+
+(a) aggregate information relating to the amount of revenue, profit (loss) before income tax, income tax paid, income tax accrued, stated capital, accumulated earnings, number of employees, and tangible assets other than cash or cash equivalents with regard to each jurisdiction in which the MNE Group operates;
+
+(b) an identification of each Constituent Entity of the MNE Group setting out the jurisdiction of tax residence of that Constituent Entity and, where different from that jurisdiction of tax residence, the jurisdiction under the laws of which that Constituent Entity is organised, and the nature of the main business activity or activities of that Constituent Entity.
+
+4\. The communication shall take place within 15 months of the last day of the Fiscal Year of the MNE Group to which the country-by-country report relates. The first country-by-country report shall be communicated for the Fiscal Year of the MNE Group commencing on or after 1 January 2016, which shall take place within 18 months of the last day of that Fiscal Year.
+
+#### Article 8ab — Scope and conditions of mandatory automatic exchange of information on reportable cross-border arrangements
+
+1\. Each Member State shall take the necessary measures to require intermediaries to file information that is within their knowledge, possession or control on reportable cross-border arrangements with the competent authorities within 30 days beginning:
+
+(a) on the day after the reportable cross-border arrangement is made available for implementation; or
+
+(b) on the day after the reportable cross-border arrangement is ready for implementation; or
+
+(c) when the first step in the implementation of the reportable cross-border arrangement has been made,
+
+whichever occurs first.
+
+Notwithstanding the first subparagraph, intermediaries referred to in the second paragraph of point 21 of Article 3 shall also be required to file information within 30 days beginning on the day after they provided, directly or by means of other persons, aid, assistance or advice.
+
+2\. In the case of marketable arrangements, Member States shall take the necessary measures to require that a periodic report be made by the intermediary every 3 months providing an update which contains new reportable information as referred to in points (a), (d), (g) and (h) of paragraph 14 that has become available since the last report was filed.
+
+3\. Where the intermediary is liable to file information on reportable cross-border arrangements with the competent authorities of more than one Member State, such information shall be filed only in the Member State that features first in the list below:
+
+(a) the Member State where the intermediary is resident for tax purposes;
+
+(b) the Member State where the intermediary has a permanent establishment through which the services with respect to the arrangement are provided;
+
+(c) the Member State which the intermediary is incorporated in or governed by the laws of;
+
+(d) the Member State where the intermediary is registered with a professional association related to legal, taxation or consultancy services.
+
+4\. Where, pursuant to paragraph 3, there is a multiple reporting obligation, the intermediary shall be exempt from filing the information if it has proof, in accordance with national law, that the same information has been filed in another Member State.
+
+5\. Each Member State may take the necessary measures to give intermediaries the right to a waiver from filing information on a reportable cross-border arrangement where the reporting obligation would breach the legal professional privilege under the national law of that Member State. In such circumstances, each Member State shall take the necessary measures to require any intermediaries that have been granted a waiver to notify, without delay, their client, if that client is an intermediary or, where there is no such intermediary, that client is the relevant taxpayer, of that client’s reporting obligations under paragraph 6.
+
+Intermediaries may only be entitled to a waiver under the first subparagraph to the extent that they operate within the limits of the relevant national laws that define their professions.
+
+6\. Each Member State shall take the necessary measures to require that, where there is no intermediary or the intermediary notifies the relevant taxpayer or another intermediary of the application of a waiver under paragraph 5, the obligation to file information on a reportable cross-border arrangement lie with the other notified intermediary, or, if there is no such intermediary, with the relevant taxpayer.
+
+7\. The relevant taxpayer with whom the reporting obligation lies shall file the information within 30 days, beginning on the day after the reportable cross-border arrangement is made available for implementation to that relevant taxpayer, or is ready for implementation by the relevant taxpayer, or when the first step in its implementation has been made in relation to the relevant taxpayer, whichever occurs first.
+
+Where the relevant taxpayer has an obligation to file information on the reportable cross-border arrangement with the competent authorities of more than one Member State, such information shall be filed only with the competent authorities of the Member State that features first in the list below:
+
+(a) the Member State where the relevant taxpayer is resident for tax purposes;
+
+(b) the Member State where the relevant taxpayer has a permanent establishment benefiting from the arrangement;
+
+(c) the Member State where the relevant taxpayer receives income or generates profits, although the relevant taxpayer is not resident for tax purposes and has no permanent establishment in any Member State;
+
+(d) the Member State where the relevant taxpayer carries on an activity, although the relevant taxpayer is not resident for tax purposes and has no permanent establishment in any Member State.
+
+8\. Where, pursuant to paragraph 7, there is a multiple reporting obligation, the relevant taxpayer shall be exempt from filing the information if it has proof, in accordance with national law, that the same information has been filed in another Member State.
+
+9\. Each Member State shall take the necessary measures to require that, where there is more than one intermediary, the obligation to file information on the reportable cross-border arrangement lie with all intermediaries involved in the same reportable cross-border arrangement.
+
+An intermediary shall be exempt from filing the information only to the extent that it has proof, in accordance with national law, that the same information referred to in paragraph 14 has already been filed by another intermediary.
+
+10\. Each Member State shall take the necessary measures to require that, where the reporting obligation lies with the relevant taxpayer and where there is more than one relevant taxpayer, the relevant taxpayer that is to file information in accordance with paragraph 6 be the one that features first in the list below:
+
+(a) the relevant taxpayer that agreed the reportable cross-border arrangement with the intermediary;
+
+(b) the relevant taxpayer that manages the implementation of the arrangement.
+
+Any relevant taxpayer shall only be exempt from filing the information to the extent that it has proof, in accordance with national law, that the same information referred to in paragraph 14 has already been filed by another relevant taxpayer.
+
+11\. Each Member State may take the necessary measures to require that each relevant taxpayer file information about their use of the arrangement to the tax administration in each of the years for which they use it.
+
+12\. Each Member State shall take the necessary measures to require intermediaries and relevant taxpayers to file information on reportable cross-border arrangements the first step of which was implemented between 25 June 2018 and 30 June 2020. Intermediaries and relevant taxpayers, as appropriate, shall file information on those reportable cross-border arrangements by 31 August 2020.
+
+13\. The competent authority of a Member State where the information was filed pursuant to paragraphs 1 to 12 of this Article shall, by means of an automatic exchange, communicate the information specified in paragraph 14 of this Article to the competent authorities of all other Member States, in accordance with the practical arrangements adopted pursuant to Article 21.
+
+14\. The information to be communicated by the competent authority of a Member State under paragraph 13 shall contain the following, as applicable:
+
+(a) the identification of intermediaries, other than intermediaries exempt from the reporting obligation on account of the legal professional privilege pursuant to paragraph 5, and relevant taxpayers, including their name, date and place of birth (in the case of an individual), residence for tax purposes, TIN and, where appropriate, the persons that are associated enterprises to the relevant taxpayer;
+
+(b) details of the hallmarks set out in Annex IV that make the cross-border arrangement reportable;
+
+(c) a summary of the content of the reportable cross-border arrangement, including a reference to the name by which it is commonly known, if any, and a description of the relevant arrangements and any other information that could assist the competent authority in assessing a potential tax risk, without leading to the disclosure of a commercial, industrial or professional secret or of a commercial process, or of information whose disclosure would be contrary to public policy;
+
+(d) the date on which the first step in implementing the reportable cross-border arrangement has been made or will be made;
+
+(e) details of the national provisions that form the basis of the reportable cross-border arrangement;
+
+(f) the value of the reportable cross-border arrangement;
+
+(g) the identification of the Member State of the relevant taxpayer(s) and any other Member States which are likely to be concerned by the reportable cross-border arrangement;
+
+(h) the identification of any other person in a Member State likely to be affected by the reportable cross-border arrangement, indicating to which Member States such person is linked.
+
+15\. The fact that a tax administration does not react to a reportable cross-border arrangement shall not imply any acceptance of the validity or tax treatment of that arrangement.
+
+16\. To facilitate the exchange of information referred to in paragraph 13 of this Article, the Commission shall adopt the practical arrangements necessary for the implementation of this Article, including measures to standardise the communication of the information set out in paragraph 14 of this Article, as part of the procedure for establishing the standard form provided for in Article 20(5).
+
+17\. The Commission shall not have access to information referred to in points (a), (c) and (h) of paragraph 14.
+
+18\. The automatic exchange of information shall take place within one month of the end of the quarter in which the information was filed. The first information shall be communicated by 31 October 2020.
+
+#### Article 8ac — Scope and conditions of mandatory automatic exchange of information reported by Platform Operators
+
+1\. Each Member State shall take the necessary measures to require Reporting Platform Operators to carry out the due diligence procedures and fulfil reporting requirements laid down in Sections II and III of Annex V. Each Member State shall also ensure the effective implementation of, and compliance with, such measures in accordance with Section IV of Annex V.
+
+2\. Pursuant to the applicable due diligence procedures and reporting requirements contained in Sections II and III of Annex V, the competent authority of a Member State where the reporting in accordance with paragraph 1 took place shall, by means of automatic exchange, and within the time limit laid down in paragraph 3, communicate to the competent authority of the Member State in which the Reportable Seller is resident as determined pursuant to paragraph D of Section II of Annex V and, where the Reportable Seller provides immovable property rental services, in any case to the competent authority of the Member State in which the immovable property is located, the following information regarding each Reportable Seller:
+
+(a) the name, registered office address, TIN and, where relevant, individual identification number allocated pursuant to the first subparagraph of paragraph 4, of the Reporting Platform Operator, as well as the business name(s) of the Platform(s) in respect of which the Reporting Platform Operator is reporting;
+
+(b) the first and last name of the Reportable Seller who is an individual, and legal name of the Reportable Seller that is an Entity;
+
+(c) the Primary Address;
+
+(d) any TIN of the Reportable Seller, including each Member State of issuance, or, in the absence of a TIN, the place of birth of the Reportable Seller who is an individual;
+
+(e) the business registration number of the Reportable Seller that is an Entity;
+
+(f) the VAT identification number of the Reportable Seller, where available;
+
+(g) the date of birth of the Reportable Seller who is an individual;
+
+(h) the Financial Account Identifier to which the Consideration is paid or credited, insofar as it is available to the Reporting Platform Operator and the competent authority of the Member State where the Reportable Seller is resident in the meaning of paragraph D of Section II of Annex V has not notified the competent authorities of all other Member States that it does not intend to use the Financial Account Identifier for this purpose;
+
+(i) where different from the name of the Reportable Seller, in addition to the Financial Account Identifier, the name of the holder of the financial account to which the Consideration is paid or credited, to the extent available to the Reporting Platform Operator, as well as any other financial identification information available to the Reporting Platform Operator with respect to that account holder;
+
+(j) each Member State in which the Reportable Seller is resident determined pursuant to paragraph D of Section II of Annex V;
+
+(k) the total Consideration paid or credited during each quarter of the Reportable Period and the number of Relevant Activities in respect of which it was paid or credited;
+
+(l) any fees, commissions or taxes withheld or charged by the Reporting Platform during each quarter of the Reportable Period;
+
+(m) the Identification Service identifier and the Member State of issuance, where the Reporting Platform Operator relies on direct confirmation of the identity and residence of the Seller through an Identification Service made available by a Member State or the Union to ascertain the identity and tax residence of the Seller; in such cases it is not necessary to communicate to the Member State of issuance of the Identification Service identifier the information referred to in points (c) to (g).
+
+Where the Reportable Seller provides immovable property rental services, the following additional information shall be communicated:
+
+(a) the address of each Property Listing, determined on the basis of the procedures set out in paragraph E of Section II of Annex V and respective land registration number or its equivalent under the national law of the Member State where it is located, where available;
+
+(b) the total Consideration paid or credited during each quarter of the Reportable Period and number of Relevant Activities provided with respect to each Property Listing;
+
+(c) where available, the number of days each Property Listing was rented during the Reportable Period and the type of each Property Listing.
+
+3\. The communication pursuant to paragraph 2 of this Article shall take place using the standard computerised format referred to in Article 20(4) within two months following the end of the Reportable Period to which the reporting requirements applicable to the Reporting Platform Operator relate. The first information shall be communicated for Reportable Periods as from 1 January 2023.
+
+4\. For the purpose of complying with the reporting requirements pursuant to paragraph 1 of this Article, each Member State shall lay down the necessary rules to require a Reporting Platform Operator within the meaning of point (b) of subparagraph A(4) of Section I of Annex V to register within the Union. The competent authority of the Member State of registration shall allocate an individual identification number to such Reporting Platform Operator.
+
+Member States shall lay down rules pursuant to which a Reporting Platform Operator may choose to register with the competent authority of a single Member State in accordance with the rules laid down in paragraph F of Section IV of Annex V. Member States shall take the necessary measures to require that a Reporting Platform Operator within the meaning of point (b) of subparagraph A(4) of Section I of Annex V, whose registration has been revoked in accordance with subparagraph F(7) of Section IV of Annex V, can only be permitted to re-register on the condition that it provides to the authorities of a Member State concerned appropriate assurances as regards its commitment to comply with the reporting requirements within the Union, including any outstanding unfulfilled reporting requirements.
+
+The Commission shall, by means of implementing acts, lay down the practical arrangements necessary for the registration and identification of Reporting Platform Operators. Those implementing acts shall be adopted in accordance with the procedure referred to in Article 26(2).
+
+5\. Where a Platform Operator is deemed to be an Excluded Platform Operator, the competent authority of the Member State where the demonstration in accordance with subparagraph A(3) of Section I of Annex V was provided to, shall notify the competent authorities of all other Member States accordingly, including any subsequent changes.
+
+6\. The Commission shall, by 31 December 2022, establish a central register where information to be notified in accordance with paragraph 5 of this Article and communicated in accordance with subparagraph F(2) of Section IV of Annex V shall be recorded. That central register shall be available to the competent authorities of all Member States.
+
+7\. The Commission shall, by means of implementing acts, following a reasoned request by a Member State or on its own initiative, determine whether the information that is required to be automatically exchanged pursuant to an agreement between competent authorities of the Member State concerned and a non-Union jurisdiction is, within the meaning of subparagraph A(7) of Section I of Annex V, equivalent to that specified in paragraph B of Section III of Annex V. Those implementing acts shall be adopted in accordance with the procedure referred to in Article 26(2).
+
+A Member State requesting the measure referred to in the first subparagraph shall send a reasoned request to the Commission.
+
+If the Commission considers that it does not have all the information necessary for the appraisal of the request, it shall contact the Member State concerned within two months of receipt of the request and specify what additional information is required. Once the Commission has all the information it considers necessary, it shall, within one month, notify the requesting Member State and it shall submit the relevant information to the Committee referred to in Article 26(2).
+
+When acting on its own initiative, the Commission shall adopt an implementing act as referred to in the first subparagraph only after a Member State has concluded a competent authority agreement with a non-Union jurisdiction that requires the automatic exchange of information on sellers deriving income from activities facilitated by Platforms.
+
+When determining whether information is equivalent within the meaning of the first subparagraph in relation to a Relevant Activity, the Commission shall take into due account the extent to which the regime on which such information is based corresponds to that set out in Annex V, in particular with regard to:
+
+(i) the definitions of Reporting Platform Operator, Reportable Seller, Relevant Activity;
+
+(ii) the procedures applicable for the purpose of identifying Reportable Sellers;
+
+(iii) the reporting requirements; and
+
+(iv) the rules and administrative procedures that non-Union jurisdictions are to have in place to ensure effective implementation of, and compliance with, the due diligence procedures and reporting requirements set out in that regime.
+
+The same procedure shall apply for determining that the information is no longer equivalent.
+
+#### Article 8ad — Scope and conditions of mandatory automatic exchange of information reported by Reporting Crypto-Asset Service Providers
+
+1\. Each Member State shall take the necessary measures to require Reporting Crypto-Asset Service Providers to fulfil the reporting requirements and carry out the due diligence procedures laid down in Sections II and III of Annex VI, respectively. Each Member State shall also ensure the effective implementation of, and compliance with, such measures in accordance with Section V of Annex VI.
+
+2\. Pursuant to the applicable reporting requirements and due diligence procedures contained in Sections II and III of Annex VI, respectively, the competent authority of a Member State where the reporting referred to in paragraph 1 of this Article takes place shall, by means of automatic exchange, and within the time limit laid down in paragraph 6 of this Article, communicate the information specified in paragraph 3 of this Article to the competent authorities of the Member States concerned in accordance with the practical arrangements adopted pursuant to Article 21.
+
+3\. The competent authority of a Member State shall communicate the following information regarding each Reportable Person:
+
+(a) the name, address, Member State(s) of residence, TIN(s) and, in the case of an individual, date and place of birth of each Reportable User and, in the case of any Entity that, after application of the due diligence procedures laid down in Section III of Annex VI is identified as having one or more Controlling Persons that is a Reportable Person, the name, address, Member State(s) of residence and TIN(s) of the Entity and the name, address, Member State(s) of residence, TIN(s) and date and place of birth of each Controlling Person of the Entity that is a Reportable Person, as well as the role(s) by virtue of which each such Reportable Person is a Controlling Person of the Entity;
+
+notwithstanding the first subparagraph of this point, where the Reporting Crypto-Asset Service Provider relies on direct confirmation of the identity and residence of the Reportable Person through an Identification Service made available by a Member State or the Union to ascertain the identity and tax residence of the Reportable Person, the information to be communicated to the Member State of issuance of the Identification Service identifier regarding the Reportable Person shall include the name, the Identification Service identifier and the Member State of issuance, as well as the role(s) by virtue of which each Reportable Person is a Controlling Person of the Entity;
+
+(b) the name, address, TIN and, if available, the individual identification number referred to in paragraph 7 and the global legal entity identifier of the Reporting Crypto-Asset Service Provider;
+
+(c) for each type of Reportable Crypto-Asset with respect to which the Reporting Crypto-Asset Service Provider has effectuated Reportable Transactions during the relevant calendar year or other appropriate reporting period, where relevant:
+
+(i) the full name of the type of Reportable Crypto-Asset;
+
+(ii) the aggregate gross amount paid, the aggregate number of units and the number of Reportable Transactions in respect of acquisitions against Fiat Currency;
+
+(iii) the aggregate gross amount received, the aggregate number of units and the number of Reportable Transactions in respect of disposals against Fiat Currency;
+
+(iv) the aggregate fair market value, the aggregate number of units and the number of Reportable Transactions in respect of acquisitions against other Reportable Crypto-Assets;
+
+(v) the aggregate fair market value, the aggregate number of units and the number of Reportable Transactions in respect of disposals against other Reportable Crypto-Assets;
+
+(vi) the aggregate fair market value, the aggregate number of units and the number of Reportable Retail Payment Transactions;
+
+(vii) the aggregate fair market value, the aggregate number of units and the number of Reportable Transactions, and subdivided by transfer type where known by the Reporting Crypto-Asset Service Provider, in respect of Transfers to the Reportable User not covered by points (ii) and (iv);
+
+(viii) the aggregate fair market value, the aggregate number of units and the number of Reportable Transactions, and subdivided by transfer type where known by the Reporting Crypto-Asset Service Provider, in respect of Transfers by the Reportable User not covered by points (iii), (v) and (vi); and
+
+(ix) the aggregate fair market value, as well as the aggregate number of units of Transfers effectuated by the Reporting Crypto-Asset Service Provider to distributed ledger addresses, as defined in Article 3, point (18), of Regulation (EU) 2023/1113, not known to be associated with a virtual asset service provider or financial institution.
+
+For the purposes of point (c)(ii) and (iii), the amount paid or received shall be communicated in the Fiat Currency in which it was paid or received. In case the amounts were paid or received in multiple Fiat Currencies, the amounts shall be communicated in a single Fiat Currency, converted at the time of each Reportable Transaction in a manner that is consistently applied by the Reporting Crypto-Asset Service Provider.
+
+For the purposes of point (c)(iv) to (ix), the fair market value shall be determined and communicated in a single Fiat Currency, valued at the time of each Reportable Transaction in a manner that is consistently applied by the Reporting Crypto-Asset Service Provider.
+
+The information communicated shall specify the Fiat Currency in which each amount is reported.
+
+4\. To facilitate the exchange of information referred to in paragraph 3 of this Article, the Commission shall, by means of implementing acts, adopt the necessary practical arrangements, including measures to standardise the communication of the information set out in that paragraph, as part of the procedure for establishing the standard computerised form provided for in Article 20(5). Those implementing acts shall be adopted in accordance with the procedure referred to in Article 26(2).
+
+5\. The Commission shall not have access to information referred to in paragraph 3, points (a) and (b).
+
+6\. The communication pursuant to paragraph 3 of this Article shall take place using the standard computerised form referred to in Article 20(5) within nine months following the end of the calendar year to which the reporting requirements applicable to Reporting Crypto-Asset Service Providers relate. The first information shall be communicated for the relevant calendar year or other appropriate reporting period as from 1 January 2026.
+
+7\. For the purpose of complying with the reporting requirements referred to in paragraph 1, each Member State shall lay down the necessary rules to require a Crypto-Asset Operator to register within the Union. The competent authority of the Member State of registration shall allocate an individual identification number to such Crypto-Asset Operator.
+
+Member States shall lay down rules pursuant to which a Crypto-Asset Operator shall register with the competent authority of a single Member State in accordance with the rules laid down in Section V, paragraph F, of Annex VI.
+
+Member States shall take the necessary measures to require that a Crypto-Asset Operator whose registration has been revoked in accordance with Section V, subparagraph F(7), of Annex VI can be permitted to register again only if it provides to the authorities of a Member State concerned appropriate assurance as regards its commitment to comply with the reporting requirements within the Union, including any outstanding unfulfilled reporting requirements.
+
+8\. Paragraph 7 of this Article shall not apply to Crypto-Asset Service Providers within the meaning of Section IV, subparagraph B(1), of Annex VI.
+
+9\. The Commission shall, by means of implementing acts, lay down the practical and technical arrangements necessary for the registration and identification of Crypto-Asset Operators. Those implementing acts shall be adopted in accordance with the procedure referred to in Article 26(2).
+
+10\. The Commission shall, by 31 December 2025, establish a Crypto-Asset Operator register where information to be communicated in accordance with Section V, subparagraph F(2), of Annex VI shall be recorded. That Crypto-Asset Operator register shall be available to the competent authorities of all Member States.
+
+11\. The Commission shall, by means of implementing acts, following a reasoned request by any Member State or on its own initiative, determine whether the information that is required to be automatically exchanged pursuant to an agreement between competent authorities of the Member State concerned and a non-Union jurisdiction corresponds to that specified in Section II, paragraph B, of Annex VI, within the meaning of Section IV, subparagraph F(5), of Annex VI. Those implementing acts shall be adopted in accordance with the procedure referred to in Article 26(2).
+
+A Member State requesting the measure referred to in the first subparagraph shall send a reasoned request to the Commission.
+
+If the Commission considers that it does not have all the information necessary for the appraisal of the request, it shall contact the Member State concerned within two months of receipt of the request and specify what additional information is required. Once the Commission has all the information it considers necessary, it shall, within one month, notify the requesting Member State and it shall submit the relevant information to the Committee referred to in Article 26(1).
+
+When acting on its own initiative, the Commission shall adopt an implementing act as referred to in the first subparagraph only in respect of a competent authority agreement with a non-Union jurisdiction that requires the automatic exchange of information on an individual or Entity that is a customer of a Reporting Crypto-Asset Service Provider for the purpose of carrying out Reportable Transactions, concluded by a Member State.
+
+When determining whether information is corresponding information within the meaning of the first subparagraph in relation to Reportable Transactions, the Commission shall take into due account the extent to which the regime on which such information is based corresponds to that set out in Annex VI, in particular with regard to:
+
+(a) the definitions of Reporting Crypto-Asset Service Provider, Reportable User, and Reportable Transaction;
+
+(b) the procedures applicable for the purpose of identifying Reportable Users;
+
+(c) the reporting requirements;
+
+(d) the rules and administrative procedures that non-Union jurisdictions are to have in place to ensure effective implementation of, and compliance with, the due diligence procedures and reporting requirements set out in that regime.
+
+The procedure set out in this paragraph shall also apply for determining that the information is no longer corresponding within the meaning of Section IV, subparagraph F(5), of Annex VI.
+
+12\. Notwithstanding paragraph 11, where an international standard on the reporting and automatic exchange of information on crypto-assets is determined to be a minimum standard or equivalent, any determination by the Commission, by means of implementing acts, on whether the information that is required to be automatically exchanged pursuant to the implementation of that standard and the competent authority agreement between the Member State(s) concerned and a non-Union jurisdiction is corresponding information shall no longer be required. That information shall be deemed to correspond to the information that is required under this Directive, provided that there is a competent authority agreement in place between the competent authorities of all Member States concerned and the non-Union jurisdiction that requires the automatic exchange of information on an individual or Entity that is a customer of a Reporting Crypto-Asset Service Provider for the purpose of carrying out Reportable Transactions. The corresponding provisions in this Article and in Annex VI shall no longer apply for such purposes.
+
+#### Article 8ae — Filing format and exchange of information with respect to Top-up tax information returns under Article 44 of Directive (EU) 2022/2523
+
+1\. Each Member State shall take the necessary measures to require the filing constituent entity of an MNE group to use the standard template set out in Section IV of Annex VII to this Directive to fulfil the filing obligations under Article 44 of Directive (EU) 2022/2523.
+
+2\. The competent authority of a Member State which has received the Top-up tax information return filed by the ultimate parent entity or designated filing entity, as referred to in Article 44(3), points (a) and (b), of Directive (EU) 2022/2523, shall communicate, by means of automatic exchange and in accordance with the following dissemination approach, the following:
+
+(a) the General section of the Top-up tax information return, to the Implementing Member State where the ultimate parent entity or constituent entities of the MNE group are located;
+
+(b) the General section of the Top-up tax information return, with the exception of the high-level summary information in Section 1.4 thereof, to the Qualified domestic top-up tax (QDTT)-only Member States:
+
+(i) where constituent entities of the MNE group are located;
+
+(ii) where a joint venture or a member of a joint venture group of the MNE group is located if the qualified domestic top-up tax is imposed in respect of joint ventures in the Member State;
+
+(iii) where the qualified domestic top-up tax is imposed in the Member State in respect of a stateless constituent entity or a stateless joint venture of the MNE group;
+
+(c) one or more Jurisdictional sections of the Top-up tax information return, to Member States that have taxing rights under Directive (EU) 2022/2523, including the qualified domestic top-up tax, in respect of the Member States to which such Jurisdictional sections relate.
+
+Notwithstanding the first subparagraph, point (c), UTPR jurisdictions with a UTPR percentage of zero shall only be provided with the portion of the Top-up tax information return that contains information on the attribution of Top-up tax under the UTPR in respect of that jurisdiction, such information being consistent with an excerpt of Section 3.4.3 of the Top-up tax information return, and the Implementing Member State in which the ultimate parent entity is located shall be provided with all Jurisdictional sections.
+
+3\. The competent authority of a Member State shall communicate the Top-up tax information return received pursuant to paragraph 2 and that communication shall take place no later than 3 months after the filing deadline for the Reporting fiscal year.
+
+4\. The competent authority of a Member State shall communicate the Top-up tax information return received after the filing deadline, and that communication shall take place no later than 3 months after the date on which it is received.
+
+5\. The Commission shall adopt, by means of implementing acts, the necessary practical arrangements to facilitate the communication as referred to in paragraph 2 of this Article. Those implementing acts shall be adopted in accordance with the procedure referred to in Article 26(2).
+
+6\. The Commission shall not have access to the information referred to in paragraph 2, points (a) to (c).
+
+7\. The communication of information, as referred to in paragraphs 2, 3 and 4 of this Article, shall take place using the standard computerised format referred to in Article 20(4).
+
+#### Article 8b — Statistics on automatic exchanges
+
+Member States shall provide the Commission on an annual basis with statistics on the volume of automatic exchanges under Articles 8(1), 8(3a), 8aa, 8ac and 8ae and with information on the administrative and other relevant costs and benefits relating to exchanges that have taken place and any potential changes, for both tax administrations and third parties.
+
+### SECTION III — Spontaneous exchange of information
+
+#### Article 9 — Scope and conditions of spontaneous exchange of information
+
+1\. The competent authority of each Member State shall communicate the information referred to in Article 1(1) to the competent authority of any other Member State concerned, in any of the following circumstances:
+
+(a) the competent authority of one Member State has grounds for supposing that there may be a loss of tax in the other Member State;
+
+(b) a person liable to tax obtains a reduction in, or an exemption from, tax in one Member State which would give rise to an increase in tax or to liability to tax in the other Member State;
+
+(c) business dealings between a person liable to tax in one Member State and a person liable to tax in the other Member State are conducted through one or more countries in such a way that a saving in tax may result in one or the other Member State or in both;
+
+(d) the competent authority of a Member State has grounds for supposing that a saving of tax may result from artificial transfers of profits within groups of enterprises;
+
+(e) information forwarded to one Member State by the competent authority of the other Member State has enabled information to be obtained which may be relevant in assessing liability to tax in the latter Member State.
+
+2\. The competent authorities of each Member State may communicate, by spontaneous exchange, to the competent authorities of the other Member States any information of which they are aware and which may be useful to the competent authorities of the other Member States.
+
+#### Article 9a — Collaboration on corrections, compliance and enforcement with respect to Top-up tax information returns
+
+1\. Where the competent authority of a Member State has reason to believe that the information in a Top-up tax information return filed by an ultimate parent entity or designated filing entity that is located in the jurisdiction of the other Member State, communicated under Article 8ae, requires the correction of manifest errors, it shall, without undue delay, notify the competent authority of the other Member State. If the notified competent authority agrees that the information in the Top-up tax information return requires correction, it shall take, without undue delay, appropriate measures to obtain a corrected Top-up tax information return from the concerned ultimate parent entity or designated filing entity. It shall communicate, without undue delay, the corrected Top-up tax information return with all competent authorities for which such information is subject to exchange in accordance with this Directive.
+
+2\. When the competent authority of a Member State has received a notification from one or more constituent entities located in its Member State that the Top-up tax information return for such constituent entities was to be filed by the ultimate parent entity or designated filing entity located in another Member State, but the information included in the Top-up tax information return was not communicated within the deadlines specified in Article 8ae(3) or Article 27d(3) and (4), it shall, without undue delay, notify the other competent authority that the information has not been received. The notified competent authority shall, without undue delay, determine the reason for not communicating the concerned Top-up tax information return and shall inform the competent authority within 1 month of receipt of the notification, including the expected exchange date for the Top-up tax information return, where relevant. The expected exchange date shall be set for a date no later than 3 months from the date of the receipt of notification of the missing exchange.
+
+#### Article 10 — Time limits
+
+1\. The competent authority to which information referred to in Article 9(1) becomes available, shall forward that information to the competent authority of any other Member State concerned as quickly as possible, and no later than one month after it becomes available.
+
+2\. The competent authority to which information is communicated pursuant to Article 9 shall confirm, if possible by electronic means, the receipt of the information to the competent authority which provided the information immediately and in any event no later than seven working days.
+
+## CHAPTER III — OTHER FORMS OF ADMINISTRATIVE COOPERATION
+
+### SECTION I — Presence in administrative offices and participation in administrative enquiries
+
+#### Article 11 — Scope and conditions
+
+1\. With a view to exchanging the information referred to in Article 1(1), the competent authority of a Member State may request the competent authority of another Member State that officials authorised by the former and in accordance with the procedural arrangements laid down by the latter:
+
+(a) be present in the offices where the administrative authorities of the requested Member State carry out their duties;
+
+(b) be present during administrative enquiries carried out in the territory of the requested Member State;
+
+(c) participate in the administrative enquiries carried out by the requested Member State through the use of electronic means of communication, where appropriate.
+
+The requested authority shall respond to a request in accordance with the first subparagraph within 60 days of the receipt of the request, to confirm its agreement or communicate its reasoned refusal to the requesting authority.
+
+Where the requested information is contained in documentation to which the officials of the requested authority have access, the officials of the requesting authority shall be given copies thereof.
+
+2\. Where officials of the requesting authority are present during administrative enquiries, or participate in the administrative enquiries through the use of electronic means of communication, they may interview individuals and examine records subject to the procedural arrangements laid down by the requested Member State.
+
+Any refusal by the person under investigation to respect the inspection measures of the officials of the requesting authority shall be treated by the requested authority as if that refusal was committed against officials of the latter authority.
+
+3\. Officials authorised by the requesting Member State present in another Member State in accordance with paragraph 1 shall at all times be able to produce written authority stating their identity and their official capacity.
+
+### SECTION II — Simultaneous controls
+
+#### Article 12 — Simultaneous controls
+
+1\. Where two or more Member States agree to conduct simultaneous controls, in their own territory, of one or more persons of common or complementary interest to them, with a view to exchanging the information thus obtained, paragraphs 2, 3 and 4 shall apply.
+
+2\. The competent authority in each Member State shall identify independently the persons for whom it intends to propose a simultaneous control. It shall notify the competent authority of the other Member States concerned of any cases for which it proposes a simultaneous control, giving reasons for its choice.
+
+It shall specify the period of time during which those controls are to be conducted.
+
+3\. The competent authority of each Member State concerned shall decide whether it wishes to take part in simultaneous controls. It shall confirm its agreement or communicate its reasoned refusal to the authority that proposed a simultaneous control within 60 days of receiving the proposal.
+
+4\. The competent authority of each Member State concerned shall appoint a representative with responsibility for supervising and coordinating the control operation.
+
+### SECTION IIa — Joint audits
+
+#### Article 12a — Joint audits
+
+1\. The competent authority of one or more Member States may request the competent authority of another Member State (or other Member States) to conduct a joint audit. The requested competent authorities shall respond to the request for a joint audit within 60 days of the receipt of the request. The requested competent authorities may reject a request for a joint audit by the competent authority of a Member State on justified grounds.
+
+2\. Joint audits shall be conducted in a pre-agreed and coordinated manner, including linguistic arrangements, by the competent authorities of the requesting and the requested Member States, and in accordance with the laws and procedural requirements of the Member State where the activities of a joint audit take place. In each Member State where the activities of a joint audit take place, the competent authority of that Member State shall appoint a representative with responsibility for supervising and coordinating the joint audit in that Member State.
+
+The rights and obligations of the officials of Member States who participate in the joint audit, when they are present in activities performed in a different Member State, shall be determined in accordance with the laws of the Member State where the activities of the joint audit take place. While complying with the laws of the Member State where the activities of the joint audit take place, officials of another Member State shall not exercise any powers that would exceed the scope of the powers granted to them under the laws of their Member State.
+
+3\. Without prejudice to paragraph 2, a Member State where the activities of the joint audit take place shall take the necessary measures to:
+
+(a) permit that officials of other Member States who participate in the activities of the joint audit interview individuals and examine records together with the officials of the Member State where the activities of the joint audit take place, subject to the procedural arrangements laid down by the Member State where those activities take place;
+
+(b) ensure that evidence collected during the activities of the joint audit can be assessed, including on its admissibility, under the same legal conditions as in the case of an audit carried out in that Member State where only the officials of that Member State take part, including in the course of any process of complaint, review or appeal; and
+
+(c) ensure that the person(s) subject to a joint audit or affected by it enjoy the same rights and have the same obligations as in the case of an audit where only the officers of that Member State take part, including in the course of any process of complaint, review or appeal.
+
+4\. Where competent authorities of two or more Member States conduct a joint audit, they shall endeavour to agree on the facts and circumstances relevant to the joint audit and endeavour to reach an agreement on the tax position of the audited person(s) based on the results of the joint audit. The findings of the joint audit shall be incorporated in a final report. Issues on which the competent authorities agree shall be reflected in the final report and be taken into account in the relevant instruments issued by the competent authorities of the participating Member States following that joint audit.
+
+Subject to the first subparagraph, the actions by the competent authorities of a Member State or any of its officers following a joint audit and any further processes taking place in that Member State, such as a decision of tax authorities, process of appeal or settlement relating thereto, shall take place in accordance with the national law of that Member State.
+
+5\. The audited person(s) shall be informed of the outcome of the joint audit, including a copy of the final report within 60 days of the issuance of the final report.
+
+### SECTION III — Administrative notification
+
+#### Article 13 — Request for notification
+
+1\. At the request of the competent authority of a Member State, the competent authority of another Member State shall, in accordance with the rules governing the notification of similar instruments in the requested Member State, notify the addressee of any instruments and decisions which emanate from the administrative authorities of the requesting Member State and concern the application in its territory of legislation on taxes covered by this Directive.
+
+2\. Requests for notification shall indicate the subject of the instrument or decision to be notified and shall specify the name and address of the addressee, together with any other information which may facilitate identification of the addressee.
+
+3\. The requested authority shall inform the requesting authority immediately of its response and, in particular, of the date of notification of the instrument or decision to the addressee.
+
+4\. The requesting authority shall only make a request for notification pursuant to this Article when it is unable to notify in accordance with the rules governing the notification of the instruments concerned in the requesting Member State, or where such notification would give rise to disproportionate difficulties. The competent authority of a Member State may notify any document by registered mail or electronically directly to a person within the territory of another Member State.
+
+### SECTION IV — Feedback
+
+#### Article 14 — Conditions
+
+1\. Where a competent authority provides information pursuant to Articles 5 or 9, it may request the competent authority which receives the information to send feedback thereon. If feedback is requested, the competent authority which received the information shall, without prejudice to the rules on tax secrecy and data protection applicable in its Member State, send feedback to the competent authority which provided the information as soon as possible and no later than three months after the outcome of the use of the requested information is known. The Commission shall determine the practical arrangements in accordance with the procedure referred to in Article 26(2).
+
+2\. Member States’ competent authorities shall send feedback on the automatic exchange of information to the other Member States concerned once a year, in accordance with practical arrangements agreed upon bilaterally.
+
+### SECTION V — Sharing of best practices and experience
+
+#### Article 15 — Scope and conditions
+
+1\. Member States shall, together with the Commission, examine and evaluate administrative cooperation pursuant to this Directive and shall share their experience, with a view to improving such cooperation and, where appropriate, drawing up rules in the fields concerned.
+
+2\. Member States may, together with the Commission, produce guidelines on any aspect deemed necessary for sharing best practices and sharing experience.
+
+## CHAPTER IV — CONDITIONS GOVERNING ADMINISTRATIVE COOPERATION
+
+#### Article 16 — Disclosure of information and documents
+
+1\. Information communicated between Member States in any form pursuant to this Directive shall be covered by the obligation of official secrecy and enjoy the protection extended to similar information under the national law of the Member State which received it. Such information may be used for the assessment, administration and enforcement of the national law of Member States concerning the taxes referred to in Article 2 as well as VAT, other indirect taxes, customs duties and anti-money laundering and countering the financing of terrorism.
+
+Such information may also be used for the assessment and enforcement of other taxes and duties covered by Article 2 of Council Directive 2010/24/EU of 16 March 2010 concerning mutual assistance for the recovery of claims relating to taxes, duties and other measures ( 5 ), or for the assessment and enforcement of compulsory social security contributions.
+
+In addition, it may be used in connection with judicial and administrative proceedings that may involve penalties, initiated as a result of infringements of tax law, without prejudice to the general rules and provisions governing the rights of defendants and witnesses in such proceedings.
+
+2\. With the permission of the competent authority of the Member State communicating information pursuant to this Directive, and only in so far as this is allowed under the national law of the Member State of the competent authority receiving the information, information and documents received pursuant to this Directive may be used for other purposes than those referred to in paragraph 1. Such permission shall be granted if the information can be used for similar purposes in the Member State of the competent authority communicating the information.
+
+The competent authority of each Member State may communicate to the competent authorities of all other Member States a list of purposes for which, in accordance with its national law, information and documents may be used, other than those referred to in paragraph 1. The competent authority that receives information and documents may use the received information and documents without the permission referred to in the first subparagraph of this paragraph for any of the purposes listed by the communicating Member State.
+
+The competent authority that receives information and documents may also use the received information and documents without the permission referred to in the first subparagraph of this paragraph for any purpose that is covered by an act based on Article 215 of the Treaty on the Functioning of the European Union and share them for such purpose with the competent authority in charge of restrictive measures in the Member State concerned.
+
+3\. Where a competent authority of a Member State considers that information which it has received from the competent authority of another Member State is likely to be useful for the purposes referred to in paragraph 1 to the competent authority of a third Member State, it may transmit that information to the latter competent authority, provided that the transmission is in accordance with the rules and procedures laid down in this Directive. It shall inform the competent authority of the Member State from which the information originates about its intention to share that information with a third Member State. The Member State of origin of the information may oppose such a sharing of information within 15 calendar days of receipt of the communication from the Member State wishing to share the information.
+
+4\. Permission to use information pursuant to paragraph 2, which has been transmitted pursuant to paragraph 3, may be granted only by the competent authority of the Member State from which the information originates.
+
+5\. Information, reports, statements and any other documents, or certified true copies or extracts thereof, obtained by the requested authority and communicated to the requesting authority in accordance with this Directive may be invoked as evidence by the competent bodies of the requesting Member State on the same basis as similar information, reports, statements and any other documents provided by an authority of that Member State.
+
+6\. Notwithstanding paragraphs 1 to 4 of this Article, information communicated between Member States pursuant to Article 8aa shall be used for the purposes of assessing high-level transfer-pricing risks and other risks related to base erosion and profit shifting, including assessing the risk of non-compliance by members of the MNE Group with applicable transfer-pricing rules, and where appropriate for economic and statistical analysis. Transfer-pricing adjustments by the tax authorities of the receiving Member State shall not be based on the information exchanged pursuant to Article 8aa. Notwithstanding the above, there is no prohibition on using the information communicated between Member States pursuant to Article 8aa as a basis for making further enquiries into the MNE Group's transfer-pricing arrangements or into other tax matters in the course of a tax audit, and, as a result, appropriate adjustments to the taxable income of a Constituent Entity may be made.
+
+#### Article 17 — Limits
+
+1\. A requested authority in one Member State shall provide a requesting authority in another Member State with the information referred to in Article 5 provided that the requesting authority has exhausted the usual sources of information which it could have used in the circumstances for obtaining the information requested, without running the risk of jeopardising the achievement of its objectives.
+
+2\. This Directive shall impose no obligation upon a requested Member State to carry out enquiries or to communicate information, if it would be contrary to its legislation to conduct such inquiries or to collect the information requested for its own purposes.
+
+3\. The competent authority of a requested Member State may decline to provide information where the requesting Member State is unable, for legal reasons, to provide similar information.
+
+4\. The provision of information may be refused where it would lead to the disclosure of a commercial, industrial or professional secret or of a commercial process, or of information whose disclosure would be contrary to public policy.
+
+5\. The requested authority shall inform the requesting authority of the grounds for refusing a request for information.
+
+#### Article 18 — Obligations
+
+1\. If information is requested by a Member State in accordance with this Directive, the requested Member State shall use its measures aimed at gathering information to obtain the requested information, even though that Member State may not need such information for its own tax purposes. That obligation is without prejudice to paragraphs 2, 3 and 4 of Article 17, the invocation of which shall in no case be construed as permitting a requested Member State to decline to supply information solely because it has no domestic interest in such information.
+
+2\. In no case shall Article 17(2) and (4) be construed as permitting a requested authority of a Member State to decline to supply information solely because this information is held by a bank, other financial institution, nominee or person acting in an agency or a fiduciary capacity or because it relates to ownership interests in a person.
+
+3\. Notwithstanding paragraph 2, a Member State may refuse the transmission of requested information where such information concerns taxable periods prior to 1 January 2011 and where the transmission of such information could have been refused on the basis of Article 8(1) of Directive 77/799/EEC if it had been requested before 11 March 2011.
+
+4\. The competent authority of each Member State shall put in place an effective mechanism to ensure the use of information acquired through the reporting or the exchange of information under Articles 8 to 8ae.
+
+#### Article 19 — Extension of wider cooperation provided to a third country
+
+Where a Member State provides a wider cooperation to a third country than that provided for under this Directive, that Member State may not refuse to provide such wider cooperation to any other Member State wishing to enter into such mutual wider cooperation with that Member State.
+
+#### Article 20 — Standard forms and computerised formats
+
+1\. Requests for information and for administrative enquiries pursuant to Article 5 and their replies, acknowledgements, requests for additional background information, inability or refusal pursuant to Article 7 shall, as far as possible, be sent using a standard form adopted by the Commission in accordance with the procedure referred to in Article 26(2).
+
+The standard forms may be accompanied by reports, statements and any other documents, or certified true copies or extracts thereof.
+
+2\. The standard form referred to in paragraph 1 shall include at least the following information to be provided by the requesting authority:
+
+(a) the identity of the person under examination or investigation and, in the case of group requests as referred to in Article 5a(3), detailed description of the group;
+
+(b) the tax purpose for which the information is sought.
+
+The requesting authority may, to the extent known and in line with international developments, provide the name and address of any person believed to be in possession of the requested information as well as any element that may facilitate the collection of information by the requested authority.
+
+3\. Spontaneous information and its acknowledgement pursuant to Articles 9 and 10 respectively, requests for administrative notifications pursuant to Article 13, feedback information pursuant to Article 14 and communications pursuant to Article 16(2) and (3) and Article 24(2) shall be sent using the standard forms adopted by the Commission in accordance with the procedure referred to in Article 26(2).
+
+4\. The automatic exchange of information pursuant to Articles 8, 8ac and 8ae shall be carried out using a standard computerised format aimed at facilitating such automatic exchange, adopted by the Commission in accordance with the procedure referred to in Article 26(2).
+
+5\. The Commission shall adopt implementing acts laying down standard computerised forms, including the linguistic arrangements, in the following cases:
+
+(a) for the automatic exchange of information on advance cross-border rulings and advance pricing arrangements pursuant to Article 8a before 1 January 2017;
+
+(b) for the automatic exchange of information on reportable cross-border arrangements pursuant to Article 8ab before 30 June 2019;
+
+(c) for the automatic exchange of information on Reportable Crypto-Assets pursuant to Article 8ad before 30 June 2025.
+
+Those standard computerised forms shall not exceed the components for the exchange of information listed in Articles 8a(6), 8ab(14) and 8ad(3), and such other related fields which are linked to those components which are necessary to achieve the objectives of Articles 8a, 8ab and 8ad, respectively.
+
+The linguistic arrangements referred to in the first subparagraph of this paragraph shall not preclude Member States from communicating the information referred to in Articles 8a and 8ab in any of the official languages of the Union. However, those linguistic arrangements may provide that the key elements of such information shall also be sent in another official language of the Union.
+
+The implementing acts referred to in this paragraph shall be adopted in accordance with the procedure referred to in Article 26(2).
+
+6\. The automatic exchange of information on the country-by-country report pursuant to Article 8aa shall be carried out using the standard form provided in Tables 1, 2 and 3 of Section III of Annex III. The Commission shall, by means of implementing acts, adopt the linguistic arrangements for that exchange by 31 December 2016. They shall not preclude Member States from communicating information referred to in Article 8aa in any of the official and working languages of the Union. However, those linguistic arrangements may provide that the key elements of such information also be sent in another official language of the Union. Those implementing acts shall be adopted in accordance with the procedure referred to in Article 26(2).
+
+#### Article 21 — Practical arrangements
+
+1\. Information communicated pursuant to this Directive shall, as far as possible, be provided by electronic means using the CCN network.
+
+Where necessary, the Commission shall adopt practical arrangements necessary for the implementation of the first subparagraph in accordance with the procedure referred to in Article 26(2).
+
+2\. The Commission shall be responsible for whatever development of the CCN network is necessary to permit the exchange of that information between Member States and for ensuring the security of the CCN network.
+
+Member States shall be responsible for whatever development of their systems is necessary to enable that information to be exchanged using the CCN network and for ensuring the security of their systems.
+
+Member States shall ensure that each individual Reportable Person is notified of a breach of security with regard to his data when that breach is likely to adversely affect the protection of his personal data or privacy.
+
+Member States shall waive all claims for the reimbursement of expenses incurred in applying this Directive except, where appropriate, in respect of fees paid to experts.
+
+3\. Persons duly accredited by the Security Accreditation Authority of the Commission may have access to that information only in so far as it is necessary for the care, maintenance and development of the directory referred to in paragraph 5 and of the CCN network.
+
+4\. Requests for cooperation, including requests for notification, and attached documents may be made in any language agreed between the requested and requesting authority.
+
+Those requests shall be accompanied by a translation into the official language or one of the official languages of the Member State of the requested authority only in special cases when the requested authority states its reason for requesting a translation.
+
+5\. The Commission shall by 31 December 2017 develop and provide with technical and logistical support a secure Member State central directory on administrative cooperation in the field of taxation where information to be communicated in the framework of Article 8a(1) and (2) shall be recorded in order to satisfy the automatic exchange provided for in those paragraphs.
+
+The Commission shall by 31 December 2019 develop and provide with technical and logistical support a secure Member State central directory on administrative cooperation in the field of taxation where information to be communicated in the framework of Article 8ab(13), (14) and (16) shall be recorded in order to satisfy the automatic exchange provided for in those paragraphs.
+
+The Commission shall by 31 December 2026 develop and provide with technical and logistical support a secure Member State central directory on administrative cooperation in the field of taxation where information to be communicated in the framework of Article 8ad(2) and (3) shall be recorded in order to satisfy the automatic exchange provided for in those paragraphs.
+
+The competent authorities of all Member States shall have access to the information recorded in that directory. With respect to the information to be communicated in the framework of Article 8ad(2) and (3), the competent authority of a Member State shall, however, have access only to information pertaining to Reportable Users and Reportable Persons resident in that Member State. The Commission shall also have access to the information recorded in that directory, however with the limitations set out in Articles 8a(8), 8ab(17) and 8ad(5), and only for the purpose of collecting statistics in accordance with paragraph 7 of this Article. The Commission shall, by means of implementing acts, adopt the necessary practical arrangements. Those implementing acts shall be adopted in accordance with the procedure referred to in Article 26(2).
+
+Until that secure central directory is operational, the automatic exchange provided for in Article 8a(1) and (2), Article 8ab(13), (14) and (16) and Article 8ad(2) and (3) shall be carried out in accordance with paragraph 1 of this Article and the applicable practical arrangements.
+
+6\. Information communicated pursuant to Article 8aa(2) shall be provided by electronic means using the CCN network. The Commission shall, by means of implementing acts, adopt the necessary practical arrangements for the upgrading of the CCN network. Those implementing acts shall be adopted in accordance with the procedure referred to in Article 26(2).
+
+7\. The Commission shall develop and provide technical and logistical support for a secure central interface on administrative cooperation in the field of taxation where Member States communicate with the use of standard forms pursuant to Article 20(1) and (3). The competent authorities of all Member States shall have access to that interface. For the purpose of collecting statistics, the Commission shall have access to information about the exchanges recorded to the interface and which can be extracted automatically. The Commission shall have only access to anonymous and aggregated data. The access by the Commission shall be without prejudice to the obligation of Member States to provide statistics on exchanges of information in accordance with Article 23(4).
+
+The Commission shall, by means of implementing acts, lay down the necessary practical arrangements. Those implementing acts shall be adopted in accordance with the procedure referred to in Article 26(2).
+
+8\. The Commission shall provide Member States with a tool allowing an electronic and automated verification of the correctness of the TIN provided by a reporting entity or a taxpayer for the purposes of the automatic exchange of information.
+
+The Commission shall develop the technical parameters of the tool referred to in the first subparagraph by means of implementing acts. Those implementing acts shall be adopted in accordance with the procedure referred to in Article 26(2).
+
+#### Article 22 — Specific obligations
+
+1\. Member States shall take all necessary measures to:
+
+(a) ensure effective internal coordination within the organisation referred to in Article 4;
+
+(b) establish direct cooperation with the authorities of the other Member States referred to in Article 4;
+
+(c) ensure the smooth operation of the administrative cooperation arrangements provided for in this Directive.
+
+1a. For the purposes of the implementation and enforcement of the laws of Member States giving effect to this Directive and to ensure the functioning of the administrative cooperation it establishes, Member States shall provide by law for access by tax authorities to the mechanisms, procedures, documents and information referred to in Articles 13, 30, 31, 32a and 40 of Directive (EU) 2015/849 of the European Parliament and of the Council ( 6 ).
+
+2\. The Commission shall communicate to each Member State any general information concerning the implementation and application of this Directive which it receives and which it is able to provide.
+
+3\. Member States shall retain the records of the information received through the automatic exchange of information pursuant to Articles 8 to 8ad for no longer than necessary but in any event not less than five years from its date of receipt to achieve the purposes of this Directive.
+
+## CHAPTER V — RELATIONS WITH THE COMMISSION
+
+#### Article 23 — Evaluation
+
+1\. Member States and the Commission shall examine and evaluate the functioning of the administrative cooperation provided for in this Directive.
+
+2\. Member States shall communicate to the Commission any relevant information necessary for the evaluation of the effectiveness of administrative cooperation in accordance with this Directive in combating tax evasion and tax avoidance.
+
+3\. Each Member State shall monitor and assess, in relation to itself, the effectiveness of administrative cooperation in accordance with this Directive, including in combating tax evasion and tax avoidance, and shall communicate the results of its assessment to the Commission once a year. The Commission shall, by means of implementing acts, adopt the form and the conditions of communication for that yearly assessment. Those implementing acts shall be adopted in accordance with the procedure referred to in Article 26(2).
+
+4\. The Commission shall, in accordance with the procedure referred to in Article 26(2), determine a list of statistical data which shall be provided by the Member States for the purposes of evaluation of this Directive.
+
+#### Article 23a — Confidentiality of information
+
+1\. Information communicated to the Commission pursuant to this Directive shall be kept confidential by the Commission in accordance with the provisions applicable to Union authorities and may not be used for any purposes other than those required to determine whether and to what extent Member States comply with this Directive.
+
+2\. Information communicated to the Commission by a Member State under Article 23, as well as any report or document produced by the Commission using such information, may be transmitted to other Member States. Such transmitted information shall be covered by the obligation of official secrecy and enjoy the protection extended to similar information under the national law of the Member State which received it.
+
+Reports and documents produced by the Commission, referred to in the first subparagraph, may be used by Member States only for analytical purposes, and shall not be published or made available to any other person or body without the express agreement of the Commission.
+
+Notwithstanding the first and second subparagraphs, the Commission may publish annually anonymised summaries of the statistical data that Member States communicate to it in accordance with Article 23(4).
+
+## CHAPTER VI — RELATIONS WITH THIRD COUNTRIES
+
+#### Article 24 — Exchange of information with third countries
+
+1\. Where the competent authority of a Member State receives from a third country information that is foreseeably relevant to the administration and enforcement of the domestic laws of that Member State concerning the taxes referred to in Article 2, that authority may, in so far as this is allowed pursuant to an agreement with that third country, provide that information to the competent authorities of Member States for which that information might be useful and to any requesting authorities.
+
+2\. Competent authorities may communicate, in accordance with their domestic provisions on the communication of personal data to third countries, information obtained in accordance with this Directive to a third country, provided that all of the following conditions are met:
+
+(a) the competent authority of the Member State from which the information originates have consented to that communication;
+
+(b) the third country concerned has given an undertaking to provide the cooperation required to gather evidence of the irregular or illegal nature of transactions which appear to contravene or constitute an abuse of tax legislation.
+
+## CHAPTER VII — GENERAL AND FINAL PROVISIONS
+
+#### Article 25 — Data protection
+
+1\. All exchange of information pursuant to this Directive shall be subject to Regulation (EU) 2016/679 of the European Parliament and of the Council ( 7 ). However, Member States shall, for the purposes of the correct application of this Directive, restrict the scope of the obligations and rights provided for in Article 13, Article 14(1) and Article 15, of Regulation (EU) 2016/679, to the extent required in order to safeguard the interests referred to in point (e) of Article 23(1) of that Regulation.
+
+2\. Regulation (EU) 2018/1725 of the European Parliament and of the Council ( 8 ) shall apply to any processing of personal data under this Directive by the Union institutions, bodies, offices and agencies. However, for the purposes of the correct application of this Directive, the scope of the obligations and rights provided for in Article 15, Article 16(1), and Articles 17 to 21, of Regulation (EU) 2018/1725, shall be restricted to the extent required in order to safeguard the interests referred to in point (c) of Article 25(1) of that Regulation.
+
+3\. Reporting Financial Institutions, intermediaries, Reporting Platform Operators, Reporting Crypto-Asset Service Providers and the competent authorities of Member States shall be considered to be controllers, acting alone or jointly. When processing personal data for the purposes of this Directive, the Commission shall be considered to process the personal data on behalf of the controllers and shall comply with the requirements for processors set out in Regulation (EU) 2018/1725. The processing shall be governed by a contract within the meaning of Article 28(3) of Regulation (EU) 2016/679 and Article 29(3) of Regulation (EU) 2018/1725.
+
+4\. Notwithstanding paragraph 1, each Member State shall ensure that each Reporting Financial Institution or intermediary or Reporting Platform Operator or Reporting Crypto-Asset Service Provider, as the case may be, which is under its jurisdiction:
+
+(a) informs each individual concerned that information relating to that individual will be collected and transferred in accordance with this Directive; and
+
+(b) provides to each individual concerned all information that the individual is entitled to from the data controller in sufficient time for that individual to exercise his or her data protection rights and, in any case, before the information is reported.
+
+Notwithstanding point (b) of the first subparagraph, each Member State shall lay down rules obliging Reporting Platform Operators to inform Reportable Sellers of the reported Consideration.
+
+5\. Information processed in accordance with this Directive shall be retained for no longer than is necessary to achieve the purposes of this Directive, and in any case in accordance with each data controller’s domestic rules on statute of limitations.
+
+6\. A Member State where a data breach occurred, shall report the data breach and any subsequent remedial action to the Commission without delay. The Commission shall inform all Member States without delay of the data breach that has been reported to it or of which it is aware and any remedial action.
+
+Each Member State may suspend the exchange of information to the Member State(s) where the data breach occurred by giving notice in writing to the Commission and the Member State(s) concerned. Such suspension shall have immediate effect.
+
+The Member State(s) where the data breach occurred shall investigate, contain and remedy the data breach and shall, by giving notice in writing to the Commission, request the suspension of the CCN access for the purposes of this Directive, if the data breach cannot be contained immediately and appropriately. Upon such request, the Commission shall suspend the CCN access of such Member State(s) for the purposes of this Directive.
+
+Upon reporting by the Member State where the data breach occurred of remedying the data breach, the Commission shall resume the CCN access of the Member State(s) concerned for the purposes of this Directive. In case one or more Member States request the Commission to jointly verify whether the remediation of the data breach was successful, the Commission shall resume the CCN access of such Member State(s) for the purposes of this Directive upon such verification.
+
+Where a data breach occurs to the central directory or the CCN for the purposes of this Directive and where the exchanges of Member States through the CCN can potentially be affected, the Commission shall inform Member States of the data breach and any remedial actions taken without undue delay. Such remedial actions may include suspending access to the central directory or the CCN for the purposes of this Directive until the data breach is remedied.
+
+7\. Member States, assisted by the Commission, shall agree on the practical arrangements necessary for the implementation of this Article, including data breach management processes which are aligned with internationally recognised good practices and where appropriate a joint data controller agreement, a data processor – data controller agreement, or models thereof.
+
+#### Article 25a — Penalties
+
+Member States shall lay down the rules on penalties applicable to infringements of national provisions adopted pursuant to this Directive and concerning Articles 8aa to 8ae and shall take all measures necessary to ensure that they are implemented. The penalties provided for shall be effective, proportionate and dissuasive.
+
+#### Article 26 — Committee procedure
+
+1\. The Commission shall be assisted by the Committee on administrative cooperation for taxation. That committee shall be a committee within the meaning of Regulation (EU) No 182/2011 of the European Parliament and of the Council ( 9 ).
+
+2\. Where reference is made to this paragraph, Article 5 of Regulation (EU) No 182/2011 shall apply.
+
+#### Article 27 — Reporting
+
+1\. Every five years after 1 January 2013, the Commission shall submit a report on the application of this Directive to the European Parliament and to the Council.
+
+#### Article 27a — Optional deferral of time limits because of the COVID-19 pandemic
+
+1\. Notwithstanding the time limits for filing information on reportable cross-border arrangements as specified in Article 8ab(12), Member States may take the measures necessary to allow intermediaries and relevant taxpayers to file, by 28 February 2021, information on reportable cross-border arrangements the first step of which was implemented between 25 June 2018 and 30 June 2020.
+
+2\. Where Member States take measures as referred to in paragraph 1, they shall also take the measures necessary to allow:
+
+(a) notwithstanding Article 8ab(18), the first information to be communicated by 30 April 2021;
+
+(b) the period of 30 days for filing information referred to in Article 8ab(1) and (7) to begin by 1 January 2021 where:
+
+(i) a reportable cross-border arrangement is made available for implementation or is ready for implementation, or where the first step in its implementation has been made between 1 July 2020 and 31 December 2020; or
+
+(ii) intermediaries within the meaning of the second paragraph of point 21 of Article 3 provide, directly or by means of other persons, aid, assistance or advice between 1 July 2020 and 31 December 2020;
+
+(c) in the case of marketable arrangements, the first periodic report in accordance with Article 8ab(2) to be made by the intermediary by 30 April 2021.
+
+3\. Notwithstanding the time limit laid down in point (b) of Article 8(6), Member States may take the measures necessary to allow the communication of information referred to in Article 8(3a) that relates to the calendar year 2019 or another appropriate reporting period to take place within 12 months following the end of the calendar year 2019 or the other appropriate reporting period.
+
+#### Article 27b — Extension of the period of deferral
+
+1\. The Council, acting unanimously on a proposal from the Commission, may take an implementing decision to extend the period of deferral of the time limits set out in Article 27a by three months, provided that severe risks to public health, hindrances and economic disturbance caused by the COVID-19 pandemic continue to exist and Member States apply lockdown measures.
+
+2\. The proposal for a Council implementing decision shall be submitted to the Council at least one month before the expiry of the relevant deadline.
+
+#### Article 27c — Reporting and communication of the TIN
+
+1\. Each Member State shall take the necessary measures to require that the TIN of reported individuals or entities issued by the Member State of residence be reported by the reporting entity or reporting individual and be communicated by each Member State when explicitly required by, and pursuant to, the Articles and Annexes of this Directive.
+
+4\. For taxable periods starting on or after 1 January 2028, each Member State shall include, where it has been obtained by the competent authority of the Member State, the TIN of individuals and entities issued by the Member State of residence in the communication of the information referred to in Article 8a(6), points (a) and (k), as well as of reported individuals and entities in the communication of the information referred to in Article 8aa(3), point (b), and in Article 8ab(14), point (h).
+
+#### Article 27d — The first Reporting fiscal year and communication of the information under Article 8ae for the first time
+
+1\. The first Reporting fiscal year for which the information is to be communicated under Article 8ae is the first fiscal year beginning from 31 December 2023.
+
+2\. For the Member States that have elected not to apply the IIR and the UTPR pursuant to Article 50(1) of Directive (EU) 2022/2523, the first Reporting fiscal year for which the information is to be communicated under Article 8ae shall be the first fiscal year following the end of such election.
+
+Notwithstanding the first subparagraph of this paragraph, for the Member States that have elected not to apply the IIR and the UTPR pursuant to Article 50(1) of Directive (EU) 2022/2523 and have elected to apply a qualified domestic top-up tax pursuant to Article 11(1) of that Directive, the first Reporting fiscal year for which the information is to be communicated under Article 8ae shall be the first fiscal year during which the qualified domestic top-up tax applies.
+
+3\. The competent authority of the Member State shall communicate the information under Article 8ae with respect to the first Reporting fiscal year no later than 6 months after the filing deadline.
+
+4\. In any case, Member States shall communicate the information under Article 8ae for the first time no earlier than 1 December 2026.
+
+#### Article 28 — Repeal of Directive 77/799/EEC
+
+Directive 77/799/EEC is repealed with effect from 1 January 2013.
+
+References made to the repealed Directive shall be construed as references to this Directive.
+
+#### Article 29 — Transposition
+
+1\. Member States shall bring into force the laws, regulations and administrative provisions necessary to comply with this Directive with effect from 1 January 2013.
+
+However, they shall bring into force the laws, regulations and administrative provisions necessary to comply with Article 8 of this Directive with effect from 1 January 2015.
+
+They shall forthwith inform the Commission thereof.
+
+When Member States adopt those measures, they shall contain a reference to this Directive or shall be accompanied by such a reference on the occasion of their official publication. The methods of making such reference shall be laid down by the Member States.
+
+2\. Member States shall communicate to the Commission the text of the main provisions of national law which they adopt in the field covered by this Directive.
+
+#### Article 30 — Entry into force
+
+This Directive shall enter into force on the day of its publication in the Official Journal of the European Union.
+
+#### Article 31 — Addressees
+
+This Directive is addressed to the Member States.
+
+## ANNEX I — REPORTING AND DUE DILIGENCE RULES FOR FINANCIAL ACCOUNT INFORMATION
+
+This Annex lays down the reporting and due diligence rules that have to be applied by Reporting Financial Institutions in order to enable the Member States to communicate, by automatic exchange, the information referred to in Article 8(3a) of this Directive. This Annex also describes the rules and administrative procedures that Member States shall have in place to ensure effective implementation of, and compliance with, the reporting and due diligence procedures set out below.
+
+**SECTION I**
+
+**GENERAL REPORTING REQUIREMENTS**
+
+A. Subject to paragraphs C to F, each Reporting Financial Institution shall report to the competent authority of its Member State with respect to each Reportable Account of such Reporting Financial Institution:
+
+1\. the following information:
+
+(a) the name, address, Member State(s) of residence, TIN(s) and date and place of birth (in the case of an individual) of each Reportable Person that is an Account Holder of the account and whether the Account Holder has provided a valid self-certification;
+
+(b) in the case of any Entity that is an Account Holder and that, after application of the due diligence procedures consistent with Sections V, VI and VII, is identified as having one or more Controlling Persons that is a Reportable Person, the name, address, Member State(s) and (if any) other jurisdiction(s) of residence and TIN(s) of the Entity and the name, address, Member State(s) of residence, TIN(s) and date and place of birth of each Reportable Person, as well as the role(s) by virtue of which each Reportable Person is a Controlling Person of the Entity and whether a valid self-certification has been provided for each Reportable Person;
+
+(c) whether the account is a joint account, including the number of joint Account Holders;
+
+2\. the account number (or functional equivalent in the absence of an account number), the type of account and whether the account is a Pre-existing Account or a New Account;
+
+3\. the name and identifying number (if any) of the Reporting Financial Institution;
+
+4\. the account balance or value (including, in the case of a Cash Value Insurance Contract or Annuity Contract, the Cash Value or surrender value) as of the end of the relevant calendar year or other appropriate reporting period or, if the account was closed during such year or period, the closure of the account;
+
+5\. in the case of any Custodial Account:
+
+(a) the total gross amount of interest, the total gross amount of dividends, and the total gross amount of other income generated with respect to the assets held in the account, in each case paid or credited to the account (or with respect to the account) during the calendar year or other appropriate reporting period; and
+
+(b) the total gross proceeds from the sale or redemption of Financial Assets paid or credited to the account during the calendar year or other appropriate reporting period with respect to which the Reporting Financial Institution acted as a custodian, broker, nominee, or otherwise as an agent for the Account Holder;
+
+6\. in the case of any Depository Account, the total gross amount of interest paid or credited to the account during the calendar year or other appropriate reporting period;
+
+6a. in the case of any Equity Interest held in an Investment Entity that is a legal arrangement, the role(s) by virtue of which the Reportable Person is an Equity Interest holder; and
+
+7\. in the case of any account not described in subparagraph A(5) or (6), the total gross amount paid or credited to the Account Holder with respect to the account during the calendar year or other appropriate reporting period with respect to which the Reporting Financial Institution is the obligor or debtor, including the aggregate amount of any redemption payments made to the Account Holder during the calendar year or other appropriate reporting period.
+
+B. The information reported must identify the currency in which each amount is denominated.
+
+C. Notwithstanding subparagraph A(1), with respect to each Reportable Account that is a Pre-existing Account, the TIN(s) or date of birth is not required to be reported if such TIN(s) or date of birth is not in the records of the Reporting Financial Institution and is not otherwise required to be collected by such Reporting Financial Institution under domestic law or any Union legal instrument. However, a Reporting Financial Institution is required to use reasonable efforts to obtain the TIN(s) and date of birth with respect to Pre-existing Accounts by the end of the second calendar year following the year in which Pre-existing Accounts were identified as Reportable Accounts and whenever it is required to update the information relating to the Pre-existing Account pursuant to domestic AML/KYC Procedures.
+
+D. Notwithstanding subparagraph A(1), the TIN is not required to be reported if a TIN is not issued by the relevant Member State or other jurisdiction of residence.
+
+E. Notwithstanding subparagraph A(1), the place of birth is not required to be reported unless:
+
+(1) the Reporting Financial Institution is otherwise required to obtain and report it under domestic law or the Reporting Financial Institution is or has been otherwise required to obtain and report it under any Union legal instrument in effect or that was in effect on 5 January 2015; and
+
+(2) it is available in the electronically searchable data maintained by the Reporting Financial Institution.
+
+F. Notwithstanding subparagraph A(5), point (b), and unless the Reporting Financial Institution elects otherwise with respect to any clearly identified group of accounts, the gross proceeds from the sale or redemption of a Financial Asset are not required to be reported to the extent such gross proceeds from the sale or redemption of such Financial Asset are reported by the Reporting Financial Institution in accordance with Article 8ad.
+
+**SECTION II**
+
+**GENERAL DUE DILIGENCE REQUIREMENTS**
+
+A. An account is treated as a Reportable Account beginning as of the date it is identified as such pursuant to the due diligence procedures in Sections II through VII and, unless otherwise provided, information with respect to a Reportable Account must be reported annually in the calendar year following the year to which the information relates.
+
+B. The balance or value of an account is determined as of the last day of the calendar year or other appropriate reporting period.
+
+C. Where a balance or value threshold is to be determined as of the last day of a calendar year, the relevant balance or value must be determined as of the last day of the reporting period that ends with or within that calendar year.
+
+D. Each Member State may allow Reporting Financial Institutions to use service providers to fulfil the reporting and due diligence obligations imposed on such Reporting Financial Institutions, as contemplated in domestic law, but these obligations shall remain the responsibility of the Reporting Financial Institutions.
+
+E. Each Member State may allow Reporting Financial Institutions to apply the due diligence procedures for New Accounts to Pre-existing Accounts, and the due diligence procedures for High Value Accounts to Lower Value Accounts. Where a Member State allows New Account due diligence procedures to be used for Pre-existing Accounts, the rules otherwise applicable to Pre-existing Accounts continue to apply.
+
+**SECTION III**
+
+**DUE DILIGENCE FOR PRE-EXISTING INDIVIDUAL ACCOUNTS**
+
+A. Introduction. The following procedures apply for purposes of identifying Reportable Accounts among Pre-existing Individual Accounts.
+
+B. Lower Value Accounts. The following procedures apply with respect to Lower Value Accounts.
+
+1\. Residence Address. If the Reporting Financial Institution has in its records a current residence address for the individual Account Holder based on Documentary Evidence, the Reporting Financial Institution may treat the individual Account Holder as being a resident for tax purposes of the Member State or other jurisdiction in which the address is located for purposes of determining whether such individual Account Holder is a Reportable Person.
+
+2\. Electronic Record Search. If the Reporting Financial Institution does not rely on a current residence address for the individual Account Holder based on Documentary Evidence as set forth in subparagraph B(1), the Reporting Financial Institution must review electronically searchable data maintained by the Reporting Financial Institution for any of the following indicia and apply subparagraphs B(3) to (6):
+
+(a) identification of the Account Holder as a resident of a Member State;
+
+(b) current mailing or residence address (including a post office box) in a Member State;
+
+(c) one or more telephone numbers in a Member State and no telephone number in the Member State of the Reporting Financial Institution;
+
+(d) standing instructions (other than with respect to a Depository Account) to transfer funds to an account maintained in a Member State;
+
+(e) currently effective power of attorney or signatory authority granted to a person with an address in a Member State; or
+
+(f) a ‘hold mail’ instruction or ‘in-care-of’ address in a Member State if the Reporting Financial Institution does not have any other address on file for the Account Holder.
+
+3\. If none of the indicia listed in subparagraph B(2) are discovered in the electronic search, then no further action is required until there is a change in circumstances that results in one or more indicia being associated with the account, or the account becomes a High Value Account.
+
+4\. If any of the indicia listed in subparagraph B(2)(a) through (e) are discovered in the electronic search, or if there is a change in circumstances that results in one or more indicia being associated with the account, then the Reporting Financial Institution must treat the Account Holder as a resident for tax purposes of each Member State for which an indicium is identified, unless it elects to apply subparagraph B(6) and one of the exceptions in that subparagraph applies with respect to that account.
+
+5\. If a ‘hold mail’ instruction or ‘in-care-of’ address is discovered in the electronic search and no other address and none of the other indicia listed in subparagraph B(2)(a) through (e) are identified for the Account Holder, the Reporting Financial Institution must, in the order most appropriate to the circumstances, apply the paper record search described in subparagraph C(2), or seek to obtain from the Account Holder a self-certification or Documentary Evidence to establish the residence(s) for tax purposes of such Account Holder. If the paper search fails to establish an indicium and the attempt to obtain the self-certification or Documentary Evidence is not successful, the Reporting Financial Institution must report the account to the competent authority of its Member State as an undocumented account.
+
+6\. Notwithstanding a finding of indicia under subparagraph B(2), a Reporting Financial Institution is not required to treat an Account Holder as a resident of a Member State if:
+
+(a) the Account Holder information contains a current mailing or residence address in that Member State, one or more telephone numbers in that Member State (and no telephone number in the Member State of the Reporting Financial Institution) or standing instructions (with respect to Financial Accounts other than Depository Accounts) to transfer funds to an account maintained in a Member State, and the Reporting Financial Institution obtains, or has previously reviewed and maintains, a record of:
+
+(i) a self-certification from the Account Holder of the Member State(s) or other jurisdiction(s) of residence of such Account Holder that does not include that Member State; and
+
+(ii) Documentary Evidence establishing the Account Holder's non-reportable status;
+
+(b) the Account Holder information contains a currently effective power of attorney or signatory authority granted to a person with an address in that Member State, and the Reporting Financial Institution obtains, or has previously reviewed and maintains, a record of:
+
+(i) a self-certification from the Account Holder of the Member State(s) or other jurisdiction(s) of residence of such Account Holder that does not include that Member State; or
+
+(ii) Documentary Evidence establishing the Account Holder's non-reportable status.
+
+C. Enhanced Review Procedures for High Value Accounts. The following enhanced review procedures apply with respect to High Value Accounts.
+
+1\. Electronic Record search. With respect to High Value Accounts, the Reporting Financial Institution must review electronically searchable data maintained by the Reporting Financial Institution for any of the indicia described in subparagraph B(2).
+
+2\. Paper Record Search. If the Reporting Financial Institution's electronically searchable databases include fields for, and capture all of the information described in, subparagraph C(3), then a further paper record search is not required. If the electronic databases do not capture all of this information, then with respect to a High Value Account, the Reporting Financial Institution must also review the current customer master file and, to the extent not contained in the current customer master file, the following documents associated with the account and obtained by the Reporting Financial Institution within the last five years for any of the indicia described in subparagraph B(2):
+
+(a) the most recent Documentary Evidence collected with respect to the account;
+
+(b) the most recent account opening contract or documentation;
+
+(c) the most recent documentation obtained by the Reporting Financial Institution pursuant to AML/KYC Procedures or for other regulatory purposes;
+
+(d) any power of attorney or signature authority forms currently in effect; and
+
+(e) any standing instructions (other than with respect to a Depository Account) to transfer funds currently in effect.
+
+3\. Exception To The Extent Databases Contain Sufficient Information. A Reporting Financial Institution is not required to perform the paper record search described in subparagraph C(2) to the extent the Reporting Financial Institution's electronically searchable information includes the following:
+
+(a) the Account Holder's residence status;
+
+(b) the Account Holder's residence address and mailing address currently on file with the Reporting Financial Institution;
+
+(c) the Account Holder's telephone number(s) currently on file, if any, with the Reporting Financial Institution;
+
+(d) in the case of Financial Accounts other than Depository Accounts, whether there are standing instructions to transfer funds in the account to another account (including an account at another branch of the Reporting Financial Institution or another Financial Institution);
+
+(e) whether there is a current ‘in-care-of’ address or ‘hold mail’ instruction for the Account Holder; and
+
+(f) whether there is any power of attorney or signatory authority for the account.
+
+4\. Relationship Manager Inquiry for Actual Knowledge. In addition to the electronic and paper record searches described in subparagraphs C(1) and (2), the Reporting Financial Institution must treat as a Reportable Account any High Value Account assigned to a relationship manager (including any Financial Accounts aggregated with that High Value Account) if the relationship manager has actual knowledge that the Account Holder is a Reportable Person.
+
+5\. Effect of Finding Indicia.
+
+(a) If none of the indicia listed in subparagraph B(2) are discovered in the enhanced review of High Value Accounts described in paragraph C, and the account is not identified as held by a Reportable Person in subparagraph C(4), then further action is not required until there is a change in circumstances that results in one or more indicia being associated with the account.
+
+(b) If any of the indicia listed in subparagraphs B(2)(a) through (e) are discovered in the enhanced review of High Value Accounts described in paragraph C, or if there is a subsequent change in circumstances that results in one or more indicia being associated with the account, then the Reporting Financial Institution must treat the account as a Reportable Account with respect to each Member State for which an indicium is identified unless it elects to apply subparagraph B(6) and one of the exceptions in that subparagraph applies with respect to that account.
+
+(c) If a ‘hold mail’ instruction or ‘in-care-of’ address is discovered in the enhanced review of High Value Accounts described in paragraph C, and no other address and none of the other indicia listed in subparagraphs B(2)(a) through (e) are identified for the Account Holder, the Reporting Financial Institution must obtain from such Account Holder a self-certification or Documentary Evidence to establish the residence(s) for tax purposes of the Account Holder. If the Reporting Financial Institution cannot obtain such self-certification or Documentary Evidence, it must report the account to the competent authority of its Member State as an undocumented account.
+
+6\. If a Pre-existing Individual Account is not a High Value Account as of 31 December 2015, but becomes a High Value Account as of the last day of a subsequent calendar year, the Reporting Financial Institution must complete the enhanced review procedures described in paragraph C with respect to such account within the calendar year following the year in which the account becomes a High Value Account. If based on this review such account is identified as a Reportable Account, the Reporting Financial Institution must report the required information about such account with respect to the year in which it is identified as a Reportable Account and subsequent years on an annual basis, unless the Account Holder ceases to be a Reportable Person.
+
+7\. Once a Reporting Financial Institution applies the enhanced review procedures described in paragraph C to a High Value Account, the Reporting Financial Institution is not required to reapply such procedures, other than the relationship manager inquiry described in subparagraph C(4), to the same High Value Account in any subsequent year unless the account is undocumented where the Reporting Financial Institution should reapply them annually until such account ceases to be undocumented.
+
+8\. If there is a change of circumstances with respect to a High Value Account that results in one or more indicia described in subparagraph B(2) being associated with the account, then the Reporting Financial Institution must treat the account as a Reportable Account with respect to each Member State for which an indicium is identified unless it elects to apply subparagraph B(6) and one of the exceptions in that subparagraph applies with respect to that account.
+
+9\. A Reporting Financial Institution must implement procedures to ensure that a relationship manager identifies any change in circumstances of an account. For example, if a relationship manager is notified that the Account Holder has a new mailing address in a Member State, the Reporting Financial Institution is required to treat the new address as a change in circumstances and, if it elects to apply subparagraph B(6), is required to obtain the appropriate documentation from the Account Holder.
+
+D. Review of Pre-existing High Value Individual Accounts must be completed by 31 December 2016. Review of Pre-existing Lower Value Individual Accounts must be completed by 31 December 2017.
+
+E. Any Pre-existing Individual Account that has been identified as a Reportable Account under this Section must be treated as a Reportable Account in all subsequent years, unless the Account Holder ceases to be a Reportable Person.
+
+**SECTION IV**
+
+**DUE DILIGENCE FOR NEW INDIVIDUAL ACCOUNTS**
+
+The following procedures apply for purposes of identifying Reportable Accounts among New Individual Accounts.
+
+A. With respect to New Individual Accounts, upon account opening, the Reporting Financial Institution must obtain a self-certification, which may be part of the account opening documentation, that allows the Reporting Financial Institution to determine the Account Holder's residence(s) for tax purposes and confirm the reasonableness of such self-certification based on the information obtained by the Reporting Financial Institution in connection with the opening of the account, including any documentation collected pursuant to AML/KYC Procedures.
+
+B. If the self-certification establishes that the Account Holder is resident for tax purposes in a Member State, the Reporting Financial Institution must treat the account as a Reportable Account and the self-certification must also include the Account Holder's TIN with respect to such Member State (subject to paragraph D of Section I) and date of birth.
+
+C. If there is a change of circumstances with respect to a New Individual Account that causes the Reporting Financial Institution to know, or have reason to know, that the original self-certification is incorrect or unreliable, the Reporting Financial Institution cannot rely on the original self-certification and must obtain a valid self-certification that establishes the residence(s) for tax purposes of the Account Holder.
+
+**SECTION V**
+
+**DUE DILIGENCE FOR PRE-EXISTING ENTITY ACCOUNTS**
+
+The following procedures apply for purposes of identifying Reportable Accounts among Pre-existing Entity Accounts.
+
+A. Entity Accounts Not Required to Be Reviewed, Identified or Reported. Unless the Reporting Financial Institution elects otherwise, either with respect to all Pre-existing Entity Accounts or, separately, with respect to any clearly identified group of such accounts, a Pre-existing Entity Account with an aggregate account balance or value that does not exceed, as of 31 December 2015, an amount denominated in the domestic currency of each Member State that corresponds to USD 250 000 , is not required to be reviewed, identified, or reported as a Reportable Account until the aggregate account balance or value exceeds that amount as of the last day of any subsequent calendar year.
+
+B. Entity Accounts Subject to Review. A Pre-existing Entity Account that has an aggregate account balance or value that exceeds, as of 31 December 2015, an amount denominated in the domestic currency of each Member State that corresponds to USD 250 000 , and a Pre-existing Entity Account that does not exceed, as of 31 December 2015, that amount but the aggregate account balance or value of which exceeds such amount as of the last day of any subsequent calendar year, must be reviewed in accordance with the procedures set forth in paragraph D.
+
+C. Entity Accounts With Respect to Which Reporting Is Required. With respect to Pre-existing Entity Accounts described in paragraph B, only accounts that are held by one or more Entities that are Reportable Persons, or by Passive NFEs with one or more Controlling Persons who are Reportable Persons, shall be treated as Reportable Accounts.
+
+D. Review Procedures for Identifying Entity Accounts With Respect to Which Reporting Is Required. For Pre-existing Entity Accounts described in paragraph B, a Reporting Financial Institution must apply the following review procedures to determine whether the account is held by one or more Reportable Persons, or by Passive NFEs with one or more Controlling Persons who are Reportable Persons:
+
+1\. Determine Whether the Entity Is a Reportable Person.
+
+(a) Review information maintained for regulatory or customer relationship purposes (including information collected pursuant to AML/KYC Procedures) to determine whether the information indicates that the Account Holder is resident in a Member State. For this purpose, information indicating that the Account Holder is resident in a Member State includes a place of incorporation or organisation, or an address in a Member State.
+
+(b) If the information indicates that the Account Holder is resident in a Member State, the Reporting Financial Institution must treat the account as a Reportable Account unless it obtains a self-certification from the Account Holder, or reasonably determines based on information in its possession or that is publicly available, that the Account Holder is not a Reportable Person.
+
+2\. Determine Whether the Entity is a Passive NFE with One or More Controlling Persons who are Reportable Persons. With respect to an Account Holder of a Pre-existing Entity Account (including an Entity that is a Reportable Person), the Reporting Financial Institution must determine whether the Account Holder is a Passive NFE with one or more Controlling Persons who are Reportable Persons. If any of the Controlling Persons of a Passive NFE is a Reportable Person, then the account must be treated as a Reportable Account. In making these determinations the Reporting Financial Institution must follow the guidance in subparagraphs D(2)(a) through (c) in the order most appropriate under the circumstances.
+
+(a) Determining whether the Account Holder is a Passive NFE. For purposes of determining whether the Account Holder is a Passive NFE, the Reporting Financial Institution must obtain a self-certification from the Account Holder to establish its status, unless it has information in its possession or that is publicly available, based on which it can reasonably determine that the Account Holder is an Active NFE or a Financial Institution other than an Investment Entity described in subparagraph A(6)(b) of Section VIII that is not a Participating Jurisdiction Financial Institution.
+
+(b) Determining the Controlling Persons of an Account Holder. For the purposes of determining the Controlling Persons of an Account Holder, a Reporting Financial Institution may rely on information collected and maintained pursuant to AML/KYC Procedures.
+
+(c) Determining whether a Controlling Person of a Passive NFE is a Reportable Person. For the purposes of determining whether a Controlling Person of a Passive NFE is a Reportable Person, a Reporting Financial Institution may rely on:
+
+(i) information collected and maintained pursuant to AML/KYC Procedures in the case of a Pre-existing Entity Account held by one or more NFEs with an aggregate account balance or value that does not exceed an amount denominated in the domestic currency of each Member State that corresponds to USD 1 000 000 ; or
+
+(ii) a self-certification from the Account Holder or such Controlling Person of the Member State(s) or other jurisdiction(s) in which the controlling person is resident for tax purposes.
+
+E. Timing of Review and Additional Procedures Applicable to Pre-existing Entity Accounts
+
+1\. Review of Pre-existing Entity Accounts with an aggregate account balance or value that exceeds, as of 31 December 2015, an amount denominated in the domestic currency of each Member State that corresponds to USD 250 000 , must be completed by 31 December 2017.
+
+2\. Review of Pre-existing Entity Accounts with an aggregate account balance or value that does not exceed, as of 31 December 2015, an amount denominated in the domestic currency of each Member State that corresponds to USD 250 000 but exceeds that amount as of 31 December of a subsequent year, must be completed within the calendar year following the year in which the aggregate account balance or value exceeds such amount.
+
+3\. If there is a change of circumstances with respect to a Pre-existing Entity Account that causes the Reporting Financial Institution to know, or have reason to know, that the self-certification or other documentation associated with an account is incorrect or unreliable, the Reporting Financial Institution must re-determine the status of the account in accordance with the procedures set forth in paragraph D.
+
+**SECTION VI**
+
+**DUE DILIGENCE FOR NEW ENTITY ACCOUNTS**
+
+The following procedures apply for purposes of identifying Reportable Accounts among New Entity Accounts.
+
+Review Procedures for Identifying Entity Accounts With Respect to Which Reporting Is Required. For New Entity Accounts, a Reporting Financial Institution must apply the following review procedures to determine whether the account is held by one or more Reportable Persons, or by Passive NFEs with one or more Controlling Persons who are Reportable Persons:
+
+1\. Determine Whether the Entity Is a Reportable Person.
+
+(a) Obtain a self-certification, which may be part of the account opening documentation, that allows the Reporting Financial Institution to determine the Account Holder's residence(s) for tax purposes and confirm the reasonableness of such self-certification based on the information obtained by the Reporting Financial Institution in connection with the opening of the account, including any documentation collected pursuant to AML/KYC Procedures. If the Entity certifies that it has no residence for tax purposes, the Reporting Financial Institution may rely on the address of the principal office of the Entity to determine the residence of the Account Holder.
+
+(b) If the self-certification indicates that the Account Holder is resident in a Member State, the Reporting Financial Institution must treat the account as a Reportable Account, unless it reasonably determines based on information in its possession or that is publicly available that the Account Holder is not a Reportable Person with respect to such Member State.
+
+2\. Determine Whether the Entity is a Passive NFE with One or More Controlling Persons Who Are Reportable Persons. With respect to an Account Holder of a New Entity Account (including an Entity that is a Reportable Person), the Reporting Financial Institution must determine whether the Account Holder is a Passive NFE with one or more Controlling Persons who are Reportable Persons. If any of the Controlling Persons of a Passive NFE is a Reportable Person, then the account must be treated as a Reportable Account. In making these determinations the Reporting Financial Institution must follow the guidance in subparagraphs A(2)(a) through (c) in the order most appropriate under the circumstances.
+
+(a) Determining whether the Account Holder is a Passive NFE. For purposes of determining whether the Account Holder is a Passive NFE, the Reporting Financial Institution must rely on a self-certification from the Account Holder to establish its status, unless it has information in its possession or that is publicly available, based on which it can reasonably determine that the Account Holder is an Active NFE or a Financial Institution other than an Investment Entity described in subparagraph A(6)(b) of Section VIII that is not a Participating Jurisdiction Financial Institution.
+
+(b) Determining the Controlling Persons of an Account Holder. For the purpose of determining the Controlling Persons of an Account Holder, a Reporting Financial Institution may rely on information collected and maintained pursuant to AML/KYC Procedures, provided that such procedures are consistent with the Directive (EU) 2015/849. If the Reporting Financial Institution is not legally required to apply AML/KYC Procedures that are consistent with the Directive (EU) 2015/849, it shall apply substantially similar procedures for the purpose of determining the Controlling Persons.
+
+(c) Determining whether a Controlling Person of a Passive NFE is a Reportable Person. For purposes of determining whether a controlling person of a Passive NFE is a Reportable Person, a Reporting Financial Institution may rely on a self-certification from the Account Holder or such Controlling Person.
+
+**SECTION VII**
+
+**SPECIAL DUE DILIGENCE RULES**
+
+The following additional rules apply in implementing the due diligence procedures described above:
+
+A. Reliance on Self-Certifications and Documentary Evidence. A Reporting Financial Institution may not rely on a self-certification or Documentary Evidence if the Reporting Financial Institution knows or has reason to know that the self-certification or Documentary Evidence is incorrect or unreliable.
+
+Aa. Temporary lack of self-certification. In exceptional circumstances where a self-certification cannot be obtained by a Reporting Financial Institution in respect of a New Account in time to meet its due diligence and reporting obligations with respect to the reporting period during which the account was opened, the Reporting Financial Institution shall apply the due diligence procedures for Pre-existing Accounts, until such self-certification is obtained and validated.
+
+B. Alternative Procedures for Financial Accounts held by Individual Beneficiaries of a Cash Value Insurance Contract or an Annuity Contract and for a Group Cash Value Insurance Contract or Group Annuity Contract. A Reporting Financial Institution may presume that an individual beneficiary (other than the owner) of a Cash Value Insurance Contract or an Annuity Contract receiving a death benefit is not a Reportable Person and may treat such Financial Account as other than a Reportable Account unless the Reporting Financial Institution has actual knowledge, or reason to know, that the beneficiary is a Reportable Person. A Reporting Financial Institution has reason to know that a beneficiary of a Cash Value Insurance Contract or an Annuity Contract is a Reportable Person if the information collected by the Reporting Financial Institution and associated with the beneficiary contains indicia as described in paragraph B of Section III. If a Reporting Financial Institution has actual knowledge, or reason to know, that the beneficiary is a Reportable Person, the Reporting Financial Institution must follow the procedures in paragraph B of Section III.
+
+A Reporting Financial Institution may treat a Financial Account that is a member's interest in a Group Cash Value Insurance Contract or Group Annuity Contract as a Financial Account that is not a Reportable Account until the date on which an amount is payable to the employee/certificate holder or beneficiary, if the Financial Account that is a member's interest in a Group Cash Value Insurance Contract or Group Annuity Contract meets the following requirements:
+
+(i) the Group Cash Value Insurance Contract or Group Annuity Contract is issued to an employer and covers 25 or more employees/certificate holders;
+
+(ii) the employee/certificate holders are entitled to receive any contract value related to their interests and to name beneficiaries for the benefit payable upon the employee's death; and
+
+(iii) the aggregate amount payable to any employee/certificate holder or beneficiary does not exceed an amount denominated in the domestic currency of each Member State that corresponds to USD 1 000 000 .
+
+The term ‘Group Cash Value Insurance Contract’ means a Cash Value Insurance Contract that (i) provides coverage on individuals who are affiliated through an employer, trade association, labour union, or other association or group; and (ii) charges a premium for each member of the group (or member of a class within the group) that is determined without regard to the individual health characteristics other than age, gender, and smoking habits of the member (or class of members) of the group.
+
+The term ‘Group Annuity Contract’ means an Annuity Contract under which the obligees are individuals who are affiliated through an employer, trade association, labour union, or other association or group.
+
+C. Account Balance Aggregation and Currency Rules
+
+1\. Aggregation of Individual Accounts. For purposes of determining the aggregate balance or value of Financial Accounts held by an individual, a Reporting Financial Institution is required to aggregate all Financial Accounts maintained by the Reporting Financial Institution, or by a Related Entity, but only to the extent that the Reporting Financial Institution's computerised systems link the Financial Accounts by reference to a data element such as client number or TIN, and allow account balances or values to be aggregated. Each holder of a jointly held Financial Account shall be attributed the entire balance or value of the jointly held Financial Account for purposes of applying the aggregation requirements described in this subparagraph.
+
+2\. Aggregation of Entity Accounts. For purposes of determining the aggregate balance or value of Financial Accounts held by an Entity, a Reporting Financial Institution is required to take into account all Financial Accounts that are maintained by the Reporting Financial Institution, or by a Related Entity, but only to the extent that the Reporting Financial Institution's computerised systems link the Financial Accounts by reference to a data element such as client number or TIN, and allow account balances or values to be aggregated. Each holder of a jointly held Financial Account shall be attributed the entire balance or value of the jointly held Financial Account for purposes of applying the aggregation requirements described in this subparagraph.
+
+3\. Special Aggregation Rule Applicable to Relationship Managers. For purposes of determining the aggregate balance or value of Financial Accounts held by a person to determine whether a financial account is a High Value Account, a Reporting Financial Institution is also required, in the case of any Financial Accounts that a relationship manager knows, or has reason to know, are directly or indirectly owned, controlled, or established (other than in a fiduciary capacity) by the same person, to aggregate all such accounts.
+
+4\. Amounts Read to Include Equivalent in Other Currencies. All amounts denominated in the domestic currency of each Member State shall be read to include equivalent amounts in other currencies, as determined by domestic law.
+
+**SECTION VIII**
+
+**DEFINED TERMS**
+
+The following terms have the meanings set forth below:
+
+**A. Reporting Financial Institution**
+
+1\. The term ‘Reporting Financial Institution’ means any Member State Financial Institution that is not a Non-Reporting Financial Institution. The term ‘Member State Financial Institution’ means: (i) any Financial Institution that is resident in a Member State, but excludes any branch of that Financial Institution that is located outside that Member State; and (ii) any branch of a Financial Institution that is not resident in a Member State, if that branch is located in that Member State.
+
+2\. The term ‘Participating Jurisdiction Financial Institution’ means (i) any Financial Institution that is resident in a Participating Jurisdiction, but excludes any branch of that Financial Institution that is located outside such Participating Jurisdiction; and (ii) any branch of a Financial Institution that is not resident in a Participating Jurisdiction, if that branch is located in such Participating Jurisdiction.
+
+3\. The term ‘Financial Institution’ means a Custodial Institution, a Depository Institution, an Investment Entity, or a Specified Insurance Company.
+
+4\. The term ‘Custodial Institution’ means any Entity that holds, as a substantial portion of its business, Financial Assets for the account of others. An Entity holds Financial Assets for the account of others as a substantial portion of its business if the Entity's gross income attributable to the holding of Financial Assets and related financial services equals or exceeds 20 % of the Entity's gross income during the shorter of: (i) the three-year period that ends on 31 December (or the final day of a non-calendar year accounting period) prior to the year in which the determination is being made; or (ii) the period during which the Entity has been in existence.
+
+5\. The term ‘Depository Institution’ means any Entity that:
+
+(a) accepts deposits in the ordinary course of a banking or similar business; or
+
+(b) holds E-money or Central Bank Digital Currencies for the benefit of customers.
+
+6\. The term ‘Investment Entity’ means any Entity:
+
+(a) which primarily conducts as a business one or more of the following activities or operations for or on behalf of a customer:
+
+(i) trading in money market instruments (cheques, bills, certificates of deposit, derivatives, etc.); foreign exchange; exchange, interest rate and index instruments; transferable securities; or commodity futures trading;
+
+(ii) individual and collective portfolio management; or
+
+(iii) otherwise investing, administering, or managing Financial Assets, money, or Reportable Crypto-Assets on behalf of other persons; or
+
+(b) the gross income of which is primarily attributable to investing, reinvesting, or trading in Financial Assets or Reportable Crypto-Assets, if the Entity is managed by another Entity that is a Depository Institution, a Custodial Institution, a Specified Insurance Company, or an Investment Entity described in subparagraph A(6), point (a).
+
+An Entity is treated as primarily conducting as a business one or more of the activities described in subparagraph A(6), point (a), or an Entity’s gross income is primarily attributable to investing, reinvesting, or trading in Financial Assets or Reportable Crypto-Assets for the purposes of subparagraph A(6), point (b), if the Entity’s gross income attributable to the relevant activities equals or exceeds 50 % of the Entity’s gross income during the shorter of: (i) the three-year period ending on 31 December of the year preceding the year in which the determination is made; or (ii) the period during which the Entity has been in existence. For the purposes of subparagraph A(6), point (a)(iii), the term ‘otherwise investing, administering, or managing Financial Assets, money, or Reportable Crypto-Assets on behalf of other persons’ does not include the provision of services effectuating Exchange Transactions for or on behalf of customers. The term ‘Investment Entity’ does not include an Entity that is an Active NFE because that Entity meets any of the criteria in subparagraph D(8), points (d) to (g).
+
+This subparagraph shall be interpreted in a manner consistent with the similar language set out in the definition of ‘financial institution’ in Directive (EU) 2015/849.
+
+7\. The term ‘Financial Asset’ includes a security (for example, a share of stock in a corporation; partnership or beneficial ownership interest in a widely held or publicly traded partnership or trust; note, bond, debenture, or other evidence of indebtedness), partnership interest, commodity, swap (for example, interest rate swaps, currency swaps, basis swaps, interest rate caps, interest rate floors, commodity swaps, equity swaps, equity index swaps, and similar agreements), Insurance Contract or Annuity Contract, or any interest (including a futures or forward contract or option) in a security, Reportable Crypto-Asset, partnership interest, commodity, swap, Insurance Contract, or Annuity Contract. The term ‘Financial Asset’ does not include a non-debt, direct interest in real property.
+
+8\. The term ‘Specified Insurance Company’ means any Entity that is an insurance company (or the holding company of an insurance company) which issues, or is obligated to make payments with respect to, a Cash Value Insurance Contract or an Annuity Contract.
+
+9\. For the purposes of this Annex, the term ‘Electronic Money’ or ‘E-money’ means any product that is:
+
+(a) a digital representation of a single Fiat Currency;
+
+(b) issued on the receipt of funds for the purpose of making payment transactions;
+
+(c) represented by a claim on the issuer denominated in the same Fiat Currency;
+
+(d) accepted in payment by a natural or legal person other than the issuer; and
+
+(e) by virtue of regulatory requirements to which the issuer is subject, redeemable at any time and at par value for the same Fiat Currency upon request of the holder of the product.
+
+The term ‘Electronic Money’ or ‘E-money’ does not include a product created for the sole purpose of facilitating the transfer of funds from a customer to another person pursuant to instructions of the customer. A product is not created for the sole purpose of facilitating the transfer of funds if, in the ordinary course of business of the transferring Entity, either the funds connected with such product are held longer than 60 days after receipt of instructions to facilitate the transfer, or, if no instructions are received, the funds connected with such product are held longer than 60 days after receipt of the funds.
+
+10\. The term ‘Fiat Currency’ means the official currency of a jurisdiction, issued by a jurisdiction or by a jurisdiction’s designated Central Bank or monetary authority, as represented by physical banknotes or coins or by money in different digital forms, including bank reserves and Central Bank Digital Currencies. The term also includes commercial bank money and electronic money products (Electronic Money).
+
+11\. The term ‘Central Bank Digital Currency’ means any digital Fiat Currency issued by a Central Bank or other monetary authority.
+
+12\. The term ‘Crypto-Asset’ means crypto-asset as defined in Article 3(1), point (5), of Regulation (EU) 2023/1114 of the European Parliament and of the Council ( 10 ).
+
+13\. The term ‘Reportable Crypto-Asset’ means any Crypto-Asset other than a Central Bank Digital Currency, Electronic Money, or any Crypto-Asset for which the Reporting Crypto-Asset Service Provider has adequately determined that it cannot be used for payment or investment purposes.
+
+14\. The term ‘Exchange Transaction’ means any:
+
+(a) exchange between Reportable Crypto-Assets and Fiat Currencies; and
+
+(b) exchange between one or more forms of Reportable Crypto-Assets.
+
+**B. Non-Reporting Financial Institution**
+
+1\. The term ‘Non-Reporting Financial Institution’ means any Financial Institution which is:
+
+(a) a Governmental Entity, International Organisation or Central Bank, other than:
+
+(i) with respect to a payment that is derived from an obligation held in connection with a commercial financial activity of a type engaged in by a Specified Insurance Company, Custodial Institution, or Depository Institution; or
+
+(ii) with respect to the activity of maintaining Central Bank Digital Currencies for Account Holders which are not Financial Institutions, Governmental Entities, International Organisations or Central Banks;
+
+(b) a Broad Participation Retirement Fund; a Narrow Participation Retirement Fund; a Pension Fund of a Governmental Entity, International Organisation or Central Bank; or a Qualified Credit Card Issuer;
+
+(c) any other Entity that presents a low risk of being used to evade tax, has substantially similar characteristics to any of the Entities described in subparagraphs B(1)(a) and (b), and is included in the list of Non-Reporting Financial Institutions referred to in Article 8(7a) of this Directive, provided that the status of such Entity as a Non-Reporting Financial Institution does not frustrate the purposes of this Directive;
+
+(d) an Exempt Collective Investment Vehicle; or
+
+(e) a trust to the extent that the trustee of the trust is a Reporting Financial Institution and reports all information required to be reported pursuant to Section I with respect to all Reportable Accounts of the trust.
+
+2\. The term ‘Governmental Entity’ means the government of a Member State or other jurisdiction, any political subdivision of a Member State or other jurisdiction (which, for the avoidance of doubt, includes a state, province, county, or municipality), or any wholly owned agency or instrumentality of a Member State or other jurisdiction or of any one or more of the foregoing (each, a ‘Governmental Entity’). This category is comprised of the integral parts, controlled entities, and political subdivisions of a Member State or other jurisdiction.
+
+(a) An ‘integral part’ of a Member State or other jurisdiction means any person, organisation, agency, bureau, fund, instrumentality, or other body, however designated, that constitutes a governing authority of a Member State or other jurisdiction. The net earnings of the governing authority must be credited to its own account or to other accounts of the Member State or other jurisdiction, with no portion inuring to the benefit of any private person. An integral part does not include any individual who is a sovereign, official, or administrator acting in a private or personal capacity.
+
+(b) A ‘controlled entity’ means an Entity which is separate in form from the Member State or other jurisdiction or which otherwise constitutes a separate juridical entity, provided that:
+
+(i) the Entity is wholly owned and controlled by one or more Governmental Entities directly or through one or more controlled entities;
+
+(ii) the Entity's net earnings are credited to its own account or to the accounts of one or more Governmental Entities, with no portion of its income inuring to the benefit of any private person; and
+
+(iii) the Entity's assets vest in one or more Governmental Entities upon dissolution.
+
+(c) Income does not inure to the benefit of private persons if such persons are the intended beneficiaries of a governmental programme, and the programme activities are performed for the general public with respect to the common welfare or relate to the administration of some phase of government. Notwithstanding the foregoing, however, income is considered to inure to the benefit of private persons if the income is derived from the use of a Governmental Entity to conduct a commercial business, such as a commercial banking business, that provides financial services to private persons.
+
+3\. The term ‘International Organisation’ means any international organisation or wholly owned agency or instrumentality thereof. This category includes any intergovernmental organisation (including a supranational organisation) (i) that is comprised primarily of governments; (ii) that has in effect a headquarters or substantially similar agreement with the Member State; and (iii) the income of which does not inure to the benefit of private persons.
+
+4\. The term ‘Central Bank’ means an institution that is by law or government sanction the principal authority, other than the government of the Member State itself, issuing instruments intended to circulate as currency. Such an institution may include an instrumentality that is separate from the government of the Member State, whether or not owned in whole or in part by the Member State.
+
+5\. The term ‘Broad Participation Retirement Fund’ means a fund established to provide retirement, disability, or death benefits, or any combination thereof, to beneficiaries who are current or former employees (or persons designated by such employees) of one or more employers in consideration for services rendered, provided that the fund:
+
+(a) does not have a single beneficiary with a right to more than 5 % of the fund's assets;
+
+(b) is subject to government regulation and provides information reporting to the tax authorities; and
+
+(c) satisfies at least one of the following requirements:
+
+(i) the fund is generally exempt from tax on investment income, or taxation of such income is deferred or taxed at a reduced rate, due to its status as a retirement or pension plan;
+
+(ii) the fund receives at least 50 % of its total contributions (other than transfers of assets from other plans described in subparagraphs B(5) through (7) or from retirement and pension accounts described in subparagraph C(17)(a)) from the sponsoring employers;
+
+(iii) distributions or withdrawals from the fund are allowed only upon the occurrence of specified events related to retirement, disability, or death (except rollover distributions to other retirement funds described in subparagraphs B(5) through (7) or retirement and pension accounts described in subparagraph C(17)(a)), or penalties apply to distributions or withdrawals made before such specified events; or
+
+(iv) contributions (other than certain permitted make-up contributions) by employees to the fund are limited by reference to earned income of the employee or may not exceed, annually, an amount denominated in the domestic currency of each Member State that corresponds to USD 50 000 , applying the rules set forth in paragraph C of Section VII for account aggregation and currency translation.
+
+6\. The term ‘Narrow Participation Retirement Fund’ means a fund established to provide retirement, disability, or death benefits to beneficiaries who are current or former employees (or persons designated by such employees) of one or more employers in consideration for services rendered, provided that:
+
+(a) the fund has fewer than 50 participants;
+
+(b) the fund is sponsored by one or more employers that are not Investment Entities or Passive NFEs;
+
+(c) the employee and employer contributions to the fund (other than transfers of assets from retirement and pension accounts described in subparagraph C(17)(a)) are limited by reference to earned income and compensation of the employee, respectively;
+
+(d) participants that are not residents of the Member State in which the fund is established are not entitled to more than 20 % of the fund's assets; and
+
+(e) the fund is subject to government regulation and provides information reporting to the tax authorities.
+
+7\. The term ‘Pension Fund of a Governmental Entity, International Organisation or Central Bank’ means a fund established by a Governmental Entity, International Organisation or Central Bank to provide retirement, disability, or death benefits to beneficiaries or participants who are current or former employees (or persons designated by such employees), or who are not current or former employees, if the benefits provided to such beneficiaries or participants are in consideration of personal services performed for the Governmental Entity, International Organisation or Central Bank.
+
+8\. The term ‘Qualified Credit Card Issuer’ means a Financial Institution satisfying the following requirements:
+
+(a) the Financial Institution is a Financial Institution solely because it is an issuer of credit cards that accepts deposits only when a customer makes a payment in excess of a balance due with respect to the card and the overpayment is not immediately returned to the customer; and
+
+(b) beginning on or before 1 January 2016, the Financial Institution implements policies and procedures either to prevent a customer from making an overpayment in excess of an amount denominated in the domestic currency of each Member State that corresponds to USD 50 000 , or to ensure that any customer overpayment in excess of that amount is refunded to the customer within 60 days, in each case applying the rules set forth in paragraph C of Section VII for account aggregation and currency translation. For this purpose, a customer overpayment does not refer to credit balances to the extent of disputed charges but does include credit balances resulting from merchandise returns.
+
+9\. The term ‘Exempt Collective Investment Vehicle’ means an Investment Entity that is regulated as a collective investment vehicle, provided that all of the interests in the collective investment vehicle are held by or through individuals or Entities that are not Reportable Persons, except a Passive NFE with Controlling Persons who are Reportable Persons.
+
+An Investment Entity that is regulated as a collective investment vehicle does not fail to qualify under subparagraph B(9) as an Exempt Collective Investment Vehicle, solely because the collective investment vehicle has issued physical shares in bearer form, provided that:
+
+(a) the collective investment vehicle has not issued, and does not issue, any physical shares in bearer form after 31 December 2015;
+
+(b) the collective investment vehicle retires all such shares upon surrender;
+
+(c) the collective investment vehicle performs the due diligence procedures set forth in Sections II through VII and reports any information required to be reported with respect to any such shares when such shares are presented for redemption or other payment; and
+
+(d) the collective investment vehicle has in place policies and procedures to ensure that such shares are redeemed or immobilised as soon as possible, and in any event prior to 1 January 2018.
+
+**C. Financial Account**
+
+1\. The term ‘Financial Account’ means an account maintained by a Financial Institution, and includes a Depository Account, a Custodial Account and:
+
+(a) in the case of an Investment Entity, any equity or debt interest in the Financial Institution. Notwithstanding the foregoing, the term ‘Financial Account’ does not include any equity or debt interest in an Entity that is an Investment Entity solely because it (i) renders investment advice to, and acts on behalf of; or (ii) manages portfolios for, and acts on behalf of, a customer for the purpose of investing, managing, or administering Financial Assets deposited in the name of the customer with a Financial Institution other than such Entity;
+
+(b) in the case of a Financial Institution not described in subparagraph C(1)(a), any equity or debt interest in the Financial Institution, if the class of interests was established with the purpose of avoiding reporting in accordance with Section I; and
+
+(c) any Cash Value Insurance Contract and any Annuity Contract issued or maintained by a Financial Institution, other than a non-investment-linked, non-transferable immediate life annuity that is issued to an individual and monetises a pension or disability benefit provided under an account that is an Excluded Account.
+
+The term ‘Financial Account’ does not include any account that is an Excluded Account.
+
+2\. The term ‘Depository Account’ includes any commercial, checking, savings, time, or thrift account, or an account that is evidenced by a certificate of deposit, thrift certificate, investment certificate, certificate of indebtedness, or other similar instrument maintained by a Depository Institution. A Depository Account also includes:
+
+(a) an amount held by an insurance company pursuant to a guaranteed investment contract or similar agreement to pay or credit interest therein;
+
+(b) an account or notional account that represents all E-money held for the benefit of a customer; and
+
+(c) an account that holds one or more Central Bank Digital Currencies for the benefit of a customer.
+
+3\. The term ‘Custodial Account’ means an account (other than an Insurance Contract or Annuity Contract) which holds one or more Financial Assets for the benefit of another person.
+
+4\. The term ‘Equity Interest’ means, in the case of a partnership that is a Financial Institution, either a capital or profits interest in the partnership. In the case of a trust that is a Financial Institution, an Equity Interest is considered to be held by any person treated as a settlor or beneficiary of all or a portion of the trust, or any other natural person exercising ultimate effective control over the trust. A Reportable Person will be treated as being a beneficiary of a trust if such Reportable Person has the right to receive directly or indirectly (for example, through a nominee) a mandatory distribution or may receive, directly or indirectly, a discretionary distribution from the trust.
+
+5\. The term ‘Insurance Contract’ means a contract (other than an Annuity Contract) under which the issuer agrees to pay an amount upon the occurrence of a specified contingency involving mortality, morbidity, accident, liability, or property risk.
+
+6\. The term ‘Annuity Contract’ means a contract under which the issuer agrees to make payments for a period of time determined in whole or in part by reference to the life expectancy of one or more individuals. The term also includes a contract that is considered to be an Annuity Contract in accordance with the law, regulation, or practice of the Member State or other jurisdiction in which the contract was issued, and under which the issuer agrees to make payments for a term of years.
+
+7\. The term ‘Cash Value Insurance Contract’ means an Insurance Contract (other than an indemnity reinsurance contract between two insurance companies) that has a Cash Value.
+
+8\. The term ‘Cash Value’ means the greater of (i) the amount that the policyholder is entitled to receive upon surrender or termination of the contract (determined without reduction for any surrender charge or policy loan); and (ii) the amount the policyholder can borrow under or with regard to the contract. Notwithstanding the foregoing, the term ‘Cash Value’ does not include an amount payable under an Insurance Contract:
+
+(a) solely by reason of the death of an individual insured under a life insurance contract;
+
+(b) as a personal injury or sickness benefit or other benefit providing indemnification of an economic loss incurred upon the occurrence of the event insured against;
+
+(c) as a refund of a previously paid premium (less cost of insurance charges whether or not actually imposed) under an Insurance Contract (other than an investment-linked life insurance or annuity contract) due to cancellation or termination of the contract, decrease in risk exposure during the effective period of the contract, or arising from the correction of a posting or similar error with regard to the premium for the contract;
+
+(d) as a policyholder dividend (other than a termination dividend) provided that the dividend relates to an Insurance Contract under which the only benefits payable are described in subparagraph C(8)(b); or
+
+(e) as a return of an advance premium or premium deposit for an Insurance Contract for which the premium is payable at least annually if the amount of the advance premium or premium deposit does not exceed the next annual premium that will be payable under the contract.
+
+9\. The term ‘Pre-existing Account’ means:
+
+(a) a Financial Account maintained by a Reporting Financial Institution as of 31 December 2015 or, if the account is treated as a Financial Account solely by virtue of the amendments to this Directive made by Council Directive (EU) 2023/2226 ( 11 ), as of 31 December 2025;
+
+(b) any Financial Account of an Account Holder, regardless of the date such Financial Account was opened, if:
+
+(i) the Account Holder also holds with the Reporting Financial Institution (or with a Related Entity within the same Member State as the Reporting Financial Institution) a Financial Account that is a Pre-existing Account under subparagraph C(9), point (a);
+
+(ii) the Reporting Financial Institution (and, as applicable, the Related Entity within the same Member State as the Reporting Financial Institution) treats both of the aforementioned Financial Accounts, and any other Financial Accounts of the Account Holder that are treated as Pre-existing Accounts under subparagraph C(9), point (b), as a single Financial Account for the purpose of satisfying the standards of knowledge requirements set out in Section VII, paragraph A, and for the purpose of determining the balance or value of any of the Financial Accounts when applying any of the account thresholds;
+
+(iii) with respect to a Financial Account that is subject to AML/KYC Procedures, the Reporting Financial Institution is permitted to satisfy such AML/KYC Procedures for the Financial Account by relying upon the AML/KYC Procedures performed for the Pre-existing Account described in subparagraph C(9), point (a); and
+
+(iv) the opening of the Financial Account does not require the provision of new, additional or amended customer information by the Account Holder other than for the purposes of this Directive.
+
+10\. The term ‘New Account’ means a Financial Account maintained by a Reporting Financial Institution opened on or after 1 January 2016 or, if the account is treated as a Financial Account solely by virtue of the amendments to this Directive made by Directive (EU) 2023/2226, on or after 1 January 2026.
+
+11\. The term ‘Pre-existing Individual Account’ means a Pre-existing Account held by one or more individuals.
+
+12\. The term ‘New Individual Account’ means a New Account held by one or more individuals.
+
+13\. The term ‘Pre-existing Entity Account’ means a Pre-existing Account held by one or more Entities.
+
+14\. The term ‘Lower Value Account’ means a Pre-existing Individual Account with an aggregate balance or value as of 31 December 2015 that does not exceed an amount denominated in the domestic currency of each Member State that corresponds to USD 1 000 000 .
+
+15\. The term ‘High Value Account’ means a Pre-existing Individual Account with an aggregate balance or value that exceeds, as of 31 December 2015, or 31 December of any subsequent year, an amount denominated in the domestic currency of each Member State that corresponds to USD 1 000 000 .
+
+16\. The term ‘New Entity Account’ means a New Account held by one or more Entities.
+
+17\. The term ‘Excluded Account’ means any of the following accounts:
+
+(a) a retirement or pension account that satisfies the following requirements:
+
+(i) the account is subject to regulation as a personal retirement account or is part of a registered or regulated retirement or pension plan for the provision of retirement or pension benefits (including disability or death benefits);
+
+(ii) the account is tax-favoured (i.e., contributions to the account that would otherwise be subject to tax are deductible or excluded from the gross income of the Account Holder or taxed at a reduced rate, or taxation of investment income from the account is deferred or taxed at a reduced rate);
+
+(iii) information reporting is required to the tax authorities with respect to the account;
+
+(iv) withdrawals are conditioned on reaching a specified retirement age, disability, or death, or penalties apply to withdrawals made before such specified events; and
+
+(v) either (i) annual contributions are limited to an amount denominated in the domestic currency of each Member State that corresponds to USD 50 000 or less; or (ii) there is a maximum lifetime contribution limit to the account of an amount denominated in the domestic currency of each Member State that corresponds to USD 1 000 000 or less, in each case applying the rules set forth in paragraph C of Section VII for account aggregation and currency translation.
+
+A Financial Account that otherwise satisfies the requirement of subparagraph C(17)(a)(v) will not fail to satisfy such requirement solely because such Financial Account may receive assets or funds transferred from one or more Financial Accounts that meet the requirements of subparagraph C(17)(a) or (b) or from one or more retirement or pension funds that meet the requirements of any of subparagraphs B(5) through (7);
+
+(b) an account that satisfies the following requirements:
+
+(i) the account is subject to regulation as an investment vehicle for purposes other than for retirement and is regularly traded on an established securities market, or the account is subject to regulation as a savings vehicle for purposes other than for retirement;
+
+(ii) the account is tax-favoured (i.e., contributions to the account that would otherwise be subject to tax are deductible or excluded from the gross income of the Account Holder or taxed at a reduced rate, or taxation of investment income from the account is deferred or taxed at a reduced rate);
+
+(iii) withdrawals are conditioned on meeting specific criteria related to the purpose of the investment or savings account (for example, the provision of educational or medical benefits), or penalties apply to withdrawals made before such criteria are met; and
+
+(iv) annual contributions are limited to an amount denominated in the domestic currency of each Member State that corresponds to USD 50 000 or less, applying the rules set forth in paragraph C of Section VII for account aggregation and currency translation.
+
+A Financial Account that otherwise satisfies the requirement of subparagraph C(17)(b)(iv) will not fail to satisfy such requirement solely because such Financial Account may receive assets or funds transferred from one or more Financial Accounts that meet the requirements of subparagraph C(17)(a) or (b) or from one or more retirement or pension funds that meet the requirements of any of subparagraphs B(5) through (7);
+
+(c) a life insurance contract with a coverage period that will end before the insured individual attains age 90, provided that the contract satisfies the following requirements:
+
+(i) periodic premiums, which do not decrease over time, are payable at least annually during the period the contract is in existence or until the insured attains age 90, whichever is shorter;
+
+(ii) the contract has no contract value that any person can access (by withdrawal, loan, or otherwise) without terminating the contract;
+
+(iii) the amount (other than a death benefit) payable upon cancellation or termination of the contract cannot exceed the aggregate premiums paid for the contract, less the sum of mortality, morbidity, and expense charges (whether or not actually imposed) for the period or periods of the contract's existence and any amounts paid prior to the cancellation or termination of the contract; and
+
+(iv) the contract is not held by a transferee for value;
+
+(d) an account that is held solely by an estate if the documentation for such account includes a copy of the deceased's will or death certificate;
+
+(e) an account established in connection with any of the following:
+
+(i) a court order or judgment.
+
+(ii) a sale, exchange, or lease of real or personal property, provided that the account satisfies the following requirements:
+
+— the account is funded solely with a down payment, earnest money, deposit in an amount appropriate to secure an obligation directly related to the transaction, or a similar payment, or is funded with a Financial Asset that is deposited in the account in connection with the sale, exchange, or lease of the property,
+
+— the account is established and used solely to secure the obligation of the purchaser to pay the purchase price for the property, the seller to pay any contingent liability, or the lessor or lessee to pay for any damages relating to the leased property as agreed under the lease,
+
+— the assets of the account, including the income earned thereon, will be paid or otherwise distributed for the benefit of the purchaser, seller, lessor, or lessee (including to satisfy such person's obligation) when the property is sold, exchanged, or surrendered, or the lease terminates,
+
+— the account is not a margin or similar account established in connection with a sale or exchange of a Financial Asset, and
+
+— the account is not associated with an account described in subparagraph C(17)(f);
+
+(iii) an obligation of a Financial Institution servicing a loan secured by real property to set aside a portion of a payment solely to facilitate the payment of taxes or insurance related to the real property at a later time;
+
+(iv) an obligation of a Financial Institution solely to facilitate the payment of taxes at a later time;
+
+(v) a foundation or capital increase of a company provided that the account satisfies the following requirements:
+
+— the account is used exclusively to deposit capital that is to be used for the purposes of the foundation or capital increase of a company, as prescribed by law;
+
+— any amounts held in the account are blocked until the Reporting Financial Institution obtains an independent confirmation regarding the foundation or capital increase;
+
+— the account is closed or transformed into an account in the name of the company after the foundation or capital increase;
+
+— any repayments resulting from a failed foundation or capital increase, net of service provider and similar fees, are made solely to the persons who contributed the amounts; and
+
+— the account has not been established more than 12 months ago;
+
+(ea) a Depository Account that represents all Electronic Money held for the benefit of a customer, if the rolling average 90 days end-of-day aggregate account balance or value during any period of 90 consecutive days did not exceed USD 10 000 at any day during the calendar year or other appropriate reporting period;
+
+(f) a Depository Account that satisfies the following requirements:
+
+(i) the account exists solely because a customer makes a payment in excess of a balance due with respect to a credit card or other revolving credit facility and the overpayment is not immediately returned to the customer; and
+
+(ii) beginning on or before 1 January 2016, the Financial Institution implements policies and procedures either to prevent a customer from making an overpayment in excess of an amount denominated in the domestic currency of each Member State that corresponds to USD 50 000 , or to ensure that any customer overpayment in excess of that amount is refunded to the customer within 60 days, in each case applying the rules set forth in paragraph C of Section VII for currency translation. For this purpose, a customer overpayment does not refer to credit balances to the extent of disputed charges but does include credit balances resulting from merchandise returns;
+
+(g) any other account that presents a low risk of being used to evade tax, has substantially similar characteristics to any of the accounts described in subparagraphs C(17)(a) through (f), and is included in the list of Excluded Accounts referred to in Article 8(7a) of this Directive, provided that the status of such account as an Excluded Account does not frustrate the purposes of this Directive.
+
+**D. Reportable Account**
+
+1\. The term ‘Reportable Account’ means a Financial Account that is maintained by a Member State Reporting Financial Institution and is held by one or more Reportable Persons or by a Passive NFE with one or more Controlling Persons that is a Reportable Person, provided it has been identified as such pursuant to the due diligence procedures described in Sections II through VII.
+
+2\. The term ‘Reportable Person’ means a Member State Person other than:
+
+(a) an Entity the stock of which is regularly traded on one or more established securities markets;
+
+(b) any Entity that is a Related Entity of an Entity described in point (a);
+
+(c) a Governmental Entity;
+
+(d) an International Organisation;
+
+(e) a Central Bank; or
+
+(f) a Financial Institution.
+
+3\. The term ‘Member State Person’ with regard to each Member State means an individual or Entity that is resident in any other Member State under the tax laws of that other Member State, or an estate of a decedent that was a resident of any other Member State. For this purpose, an Entity such as a partnership, limited liability partnership or similar legal arrangement, which has no residence for tax purposes shall be treated as resident in the jurisdiction in which its place of effective management is situated.
+
+4\. The term ‘Participating Jurisdiction’ with regard to each Member State means:
+
+(a) any other Member State;
+
+(b) any other jurisdiction (i) with which the Member State concerned has an agreement in place pursuant to which that jurisdiction will provide the information specified in Section I; and (ii) which is identified in a list published by that Member State and notified to the European Commission;
+
+(c) any other jurisdiction (i) with which the Union has an agreement in place pursuant to which that jurisdiction will provide the information specified in Section I; and (ii) which is identified in a list published by the European Commission.
+
+5\. The term ‘Controlling Persons’ means the natural persons who exercise control over an Entity. In the case of a trust, that term means the settlor(s), the trustee(s), the protector(s) (if any), the beneficiary(ies) or class(es) of beneficiaries, and any other natural person(s) exercising ultimate effective control over the trust, and in the case of a legal arrangement other than a trust, such term means persons in equivalent or similar positions. The term ‘Controlling Persons’ must be interpreted in a manner consistent with the Financial Action Task Force Recommendations.
+
+6\. The term ‘NFE’ means any Entity that is not a Financial Institution.
+
+7\. The term ‘Passive NFE’ means any: (i) NFE that is not an Active NFE; or (ii) an Investment Entity described in subparagraph A(6)(b) that is not a Participating Jurisdiction Financial Institution.
+
+8\. The term ‘Active NFE’ means any NFE that meets any of the following criteria:
+
+(a) less than 50 % of the NFE's gross income for the preceding calendar year or other appropriate reporting period is passive income and less than 50 % of the assets held by the NFE during the preceding calendar year or other appropriate reporting period are assets that produce or are held for the production of passive income;
+
+(b) the stock of the NFE is regularly traded on an established securities market or the NFE is a Related Entity of an Entity the stock of which is regularly traded on an established securities market;
+
+(c) the NFE is a Governmental Entity, an International Organisation, a Central Bank, or an Entity wholly owned by one or more of the foregoing;
+
+(d) substantially all of the activities of the NFE consist of holding (in whole or in part) the outstanding stock of, or providing financing and services to, one or more subsidiaries that engage in trades or businesses other than the business of a Financial Institution, except that an Entity does not qualify for this status if the Entity functions (or holds itself out) as an investment fund, such as a private equity fund, venture capital fund, leveraged buyout fund, or any investment vehicle whose purpose is to acquire or fund companies and then hold interests in those companies as capital assets for investment purposes;
+
+(e) the NFE is not yet operating a business and has no prior operating history, but is investing capital into assets with the intent to operate a business other than that of a Financial Institution, provided that the NFE does not qualify for this exception after the date that is 24 months after the date of the initial organisation of the NFE;
+
+(f) the NFE was not a Financial Institution in the past five years, and is in the process of liquidating its assets or is reorganising with the intent to continue or recommence operations in a business other than that of a Financial Institution;
+
+(g) the NFE primarily engages in financing and hedging transactions with, or for, Related Entities that are not Financial Institutions, and does not provide financing or hedging services to any Entity that is not a Related Entity, provided that the group of any such Related Entities is primarily engaged in a business other than that of a Financial Institution; or
+
+(h) the NFE meets all of the following requirements:
+
+(i) it is established and operated in its Member State or other jurisdiction of residence exclusively for religious, charitable, scientific, artistic, cultural, athletic, or educational purposes; or it is established and operated in its Member State or other jurisdiction of residence and it is a professional organisation, business league, chamber of commerce, labour organisation, agricultural or horticultural organisation, civic league or an organisation operated exclusively for the promotion of social welfare;
+
+(ii) it is exempt from income tax in its Member State or other jurisdiction of residence;
+
+(iii) it has no shareholders or members who have a proprietary or beneficial interest in its income or assets;
+
+(iv) the applicable laws of the NFE's Member State or other jurisdiction of residence or the NFE's formation documents do not permit any income or assets of the NFE to be distributed to, or applied for the benefit of, a private person or non-charitable Entity other than pursuant to the conduct of the NFE's charitable activities, or as payment of reasonable compensation for services rendered, or as payment representing the fair market value of property which the NFE has purchased; and
+
+(v) the applicable laws of the NFE's Member State or other jurisdiction of residence or the NFE's formation documents require that, upon the NFE's liquidation or dissolution, all of its assets be distributed to a Governmental Entity or other non-profit organisation, or escheat to the government of the NFE's Member State or other jurisdiction of residence or any political subdivision thereof.
+
+**E. Miscellaneous**
+
+1\. The term ‘Account Holder’ means the person listed or identified as the holder of a Financial Account by the Financial Institution that maintains the account. A person, other than a Financial Institution, holding a Financial Account for the benefit or account of another person as agent, custodian, nominee, signatory, investment advisor, or intermediary, is not treated as holding the account for purposes of this Directive, and such other person is treated as holding the account. In the case of a Cash Value Insurance Contract or an Annuity Contract, the Account Holder is any person entitled to access the Cash Value or change the beneficiary of the contract. If no person can access the Cash Value or change the beneficiary, the Account Holder is any person named as the owner in the contract and any person with a vested entitlement to payment under the terms of the contract. Upon the maturity of a Cash Value Insurance Contract or an Annuity Contract, each person entitled to receive a payment under the contract is treated as an Account Holder.
+
+2\. The term ‘AML/KYC Procedures’ means the customer due diligence procedures of a Reporting Financial Institution pursuant to the anti-money laundering or similar requirements to which such Reporting Financial Institution is subject.
+
+3\. The term ‘Entity’ means a legal person or a legal arrangement, such as a corporation, partnership, trust, or foundation.
+
+4\. An Entity is a ‘Related Entity’ of another Entity if (i) either Entity controls the other Entity; (ii) the two Entities are under common control; or (iii) the two Entities are Investment Entities described in subparagraph A(6)(b), are under common management, and such management fulfils the due diligence obligations of such Investment Entities. For this purpose control includes direct or indirect ownership of more than 50 % of the vote and value in an Entity.
+
+5\. The term ‘TIN’ means Taxpayer Identification Number (or functional equivalent in the absence of a Taxpayer Identification Number).
+
+6\. The term ‘Documentary Evidence’ includes any of the following:
+
+(a) a certificate of residence issued by an authorised government body (for example, a government or agency thereof, or a municipality) of the Member State or other jurisdiction in which the payee claims to be a resident;
+
+(b) with respect to an individual, any valid identification issued by an authorised government body (for example, a government or agency thereof, or a municipality), that includes the individual's name and is typically used for identification purposes;
+
+(c) with respect to an Entity, any official documentation issued by an authorised government body (for example, a government or agency thereof, or a municipality) that includes the name of the Entity and either the address of its principal office in the Member State or other jurisdiction in which it claims to be a resident or the Member State or other jurisdiction in which the Entity was incorporated or organised;
+
+(d) any audited financial statement, third-party credit report, bankruptcy filing, or securities regulator's report.
+
+With respect to a Pre-existing Entity Account, Reporting Financial Institutions may use as Documentary Evidence any classification in the Reporting Financial Institution's records with respect to the Account Holder that was determined based on a standardised industry coding system, that was recorded by the Reporting Financial Institution consistent with its normal business practices for purposes of AML/KYC Procedures or another regulatory purposes (other than for tax purposes) and that was implemented by the Reporting Financial Institution prior to the date used to classify the Financial Account as a Pre-existing Account, provided that the Reporting Financial Institution does not know or does not have reason to know that such classification is incorrect or unreliable. The term ‘standardised industry coding system’ means a coding system used to classify establishments by business type for purposes other than tax purposes.
+
+7\. The term ‘Identification Service’ means an electronic process made available free of charge by a Member State or the Union to a Reporting Financial Institution for the purpose of ascertaining the identity and tax residence of an Account Holder or Controlling Person.
+
+**SECTION IX**
+
+**EFFECTIVE IMPLEMENTATION**
+
+Pursuant to Article 8(3a) of this Directive, Member States must have rules and administrative procedures in place to ensure effective implementation of, and compliance with, the reporting and due diligence procedures set out above including:
+
+(1) rules to prevent any Financial Institutions, persons or intermediaries from adopting practices intended to circumvent the reporting and due diligence procedures;
+
+(2) rules requiring Reporting Financial Institutions to keep records of the steps undertaken and any evidence relied upon for the performance of the above procedures and adequate measures to obtain those records;
+
+(3) administrative procedures to verify Reporting Financial Institutions' compliance with the reporting and due diligence procedures; administrative procedures to follow up with a Reporting Financial Institution when undocumented accounts are reported;
+
+(4) administrative procedures to ensure that the Entities and accounts defined in domestic law as Non-Reporting Financial Institutions and Excluded Accounts continue to have a low risk of being used to evade tax; and
+
+(5) effective enforcement provisions to address non-compliance.
+
+In order to achieve the purposes of this Directive, records referred to in the first paragraph, point (2), shall remain available not longer than necessary but in any event not less than five years.
+
+**SECTION X**
+
+**IMPLEMENTATION DATES AS REGARDS REPORTING FINANCIAL INSTITUTIONS LOCATED IN AUSTRIA**
+
+In the case of Reporting Financial Institutions located in Austria, all references to ‘2016’ and ‘2017’ in this Annex should be read as references to ‘2017’ and ‘2018’ respectively.
+
+In the case of Pre-existing Accounts held by Reporting Financial Institutions located in Austria, all references to ‘ 31 December 2015 ’ in this Annex should be read as references to ‘ 31 December 2016 ’.
+
+**SECTION XI**
+
+**TRANSITIONAL MEASURES**
+
+Notwithstanding Section I, subparagraph A(1), point (b), and subparagraph A(6a), with respect to each Reportable Account that is maintained by a Reporting Financial Institution as of 31 December 2025 and for reporting periods ending by the second calendar year following such date, information with respect to the role(s) by virtue of which each Reportable Person is a Controlling Person or Equity Interest holder of the Entity is only required to be reported if such information is available in the electronically searchable data maintained by the Reporting Financial Institution.
+
+## ANNEX II — COMPLEMENTARY REPORTING AND DUE DILIGENCE RULES FOR FINANCIAL ACCOUNT INFORMATION
+
+**1\. Change in circumstances**
+
+A ‘change in circumstances’ includes any change that results in the addition of information relevant to a person's status or otherwise conflicts with such person's status. In addition, a change in circumstances includes any change or addition of information to the Account Holder's account (including the addition, substitution, or other change of an Account Holder) or any change or addition of information to any account associated with such account (applying the account aggregation rules described in subparagraphs C(1) through (3) of Section VII of Annex I) if such change or addition of information affects the status of the Account Holder.
+
+If a Reporting Financial Institution has relied on the residence address test described in subparagraph B(1) of Section III of Annex I and there is a change in circumstances that causes the Reporting Financial Institution to know or have reason to know that the original Documentary Evidence (or other equivalent documentation) is incorrect or unreliable, the Reporting Financial Institution must, by the later of the last day of the relevant calendar year or other appropriate reporting period, or 90 calendar days following the notice or discovery of such change in circumstances, obtain a self-certification and new Documentary Evidence to establish the residence(s) for tax purposes of the Account Holder. If the Reporting Financial Institution cannot obtain the self-certification and new Documentary Evidence by such date, the Reporting Financial Institution must apply the electronic record search procedure described in subparagraphs B(2) through (6) of Section III of Annex I.
+
+**2\. Self-certification for New Entity Accounts**
+
+With respect to New Entity Accounts, for the purposes of determining whether a Controlling Person of a Passive NFE is a Reportable Person, a Reporting Financial Institution may only rely on a self-certification from either the Account Holder or the Controlling Person.
+
+**3\. Residence of a Financial Institution**
+
+A Financial Institution is ‘resident’ in a Member State if it is subject to the jurisdiction of such Member State (i.e., the Member State is able to enforce reporting by the Financial Institution). In general, where a Financial Institution is resident for tax purposes in a Member State, it is subject to the jurisdiction of such Member State and it is, thus, a Member State Financial Institution. In the case of a trust that is a Financial Institution (irrespective of whether it is resident for tax purposes in a Member State), the trust is considered to be subject to the jurisdiction of a Member State if one or more of its trustees are resident in such Member State except if the trust reports all the information required to be reported pursuant to this Directive with respect to Reportable Accounts maintained by the trust to another Member State because it is resident for tax purposes in such other Member State. However, where a Financial Institution (other than a trust) does not have a residence for tax purposes (e.g., because it is treated as fiscally transparent, or it is located in a jurisdiction that does not have an income tax), it is considered to be subject to the jurisdiction of a Member State and it is, thus, a Member State Financial Institution if:
+
+(a) it is incorporated under the laws of the Member State;
+
+(b) it has its place of management (including effective management) in the Member State; or
+
+(c) it is subject to financial supervision in the Member State.
+
+Where a Financial Institution (other than a trust) is resident in two or more Member States, such Financial Institution will be subject to the reporting and due diligence obligations of the Member State in which it maintains the Financial Account(s).
+
+**4\. Account maintained**
+
+In general, an account would be considered to be maintained by a Financial Institution as follows:
+
+(a) in the case of a Custodial Account, by the Financial Institution that holds custody over the assets in the account (including a Financial Institution that holds assets in street name for an Account Holder in such institution);
+
+(b) in the case of a Depository Account, by the Financial Institution that is obligated to make payments with respect to the account (excluding an agent of a Financial Institution regardless of whether such agent is a Financial Institution);
+
+(c) in the case of any equity or debt interest in a Financial Institution that constitutes a Financial Account, by such Financial Institution;
+
+(d) in the case of a Cash Value Insurance Contract or an Annuity Contract, by the Financial Institution that is obligated to make payments with respect to the contract.
+
+**5\. Trusts that are Passive NFEs**
+
+An Entity such as a partnership, limited liability partnership or similar legal arrangement that has no residence for tax purposes, according to subparagraph D(3) of Section VIII of Annex I, shall be treated as resident in the jurisdiction in which its place of effective management is situated. For these purposes, a legal person or a legal arrangement is considered ‘similar’ to a partnership and a limited liability partnership where it is not treated as a taxable unit in a Member State under the tax laws of such Member State. However, in order to avoid duplicate reporting (given the wide scope of the term ‘Controlling Persons’ in the case of trusts), a trust that is a Passive NFE may not be considered a similar legal arrangement.
+
+**6\. Address of Entity's principal office**
+
+One of the requirements described in subparagraph E(6)(c) of Section VIII of Annex I is that, with respect to an Entity, the official documentation includes either the address of the Entity's principal office in the Member State or other jurisdiction in which it claims to be a resident or the Member State or other jurisdiction in which the Entity was incorporated or organised. The address of the Entity's principal office is generally the place in which its place of effective management is situated. The address of a Financial Institution with which the Entity maintains an account, a post office box, or an address used solely for mailing purposes is not the address of the Entity's principal office unless such address is the only address used by the Entity and appears as the Entity's registered address in the Entity's organisational documents. Further, an address that is provided subject to instructions to hold all mail to that address is not the address of the Entity's principal office.
+
+## ANNEX III
+
+**FILING RULES FOR GROUPS OF MULTINATIONAL ENTERPRISES**
+
+**SECTION I**
+
+**DEFINED TERMS**
+
+1\. The term ‘Group’ means a collection of enterprises related through ownership or control such that it is either required to prepare Consolidated Financial Statements for financial reporting purposes under applicable accounting principles or would be so required if equity interests in any of the enterprises were traded on a public securities exchange.
+
+2\. The term ‘Enterprise’ means any form of conducting business by any person referred to in points (b), (c) and (d) of Article 3, point 11.
+
+3\. The term ‘MNE Group’ means any Group that includes two or more enterprises the tax residence for which is in different jurisdictions, or includes an enterprise that is resident for tax purposes in one jurisdiction and is subject to tax with respect to the business carried out through a permanent establishment in another jurisdiction, and is not an Excluded MNE Group.
+
+4\. The term ‘Excluded MNE Group’ means, with respect to any Fiscal Year of the Group, a Group having total consolidated group revenue of less than EUR 750 000 000 or an amount in local currency approximately equivalent to EUR 750 000 000 as of January 2015 during the Fiscal Year immediately preceding the Reporting Fiscal Year as reflected in its Consolidated Financial Statements for such preceding Fiscal Year.
+
+5\. The term ‘Constituent Entity’ means any of the following:
+
+(a) any separate business unit of an MNE Group that is included in the Consolidated Financial Statements of the MNE Group for financial reporting purposes, or would be so included if equity interests in such business unit of an MNE Group were traded on a public securities exchange;
+
+(b) any such business unit that is excluded from the MNE Group's Consolidated Financial Statements solely on size or materiality grounds;
+
+(c) any permanent establishment of any separate business unit of the MNE Group included in (a) or (b) provided the business unit prepares a separate financial statement for such permanent establishment for financial reporting, regulatory, tax reporting, or internal management control purposes.
+
+6\. The term ‘Reporting Entity’ means the Constituent Entity that is required to file a country-by-country report conforming to the requirements in Article 8aa(3) in its jurisdiction of tax residence on behalf of the MNE Group. The Reporting Entity may be the Ultimate Parent Entity, the Surrogate Parent Entity, or any entity described in point 1 of Section II.
+
+7\. The term ‘Ultimate Parent Entity’ means a Constituent Entity of an MNE Group that meets the following criteria:
+
+(a) it owns directly or indirectly a sufficient interest in one or more other Constituent Entities of such MNE Group such that it is required to prepare Consolidated Financial Statements under accounting principles generally applied in its jurisdiction of tax residence, or would be so required if its equity interests were traded on a public securities exchange in its jurisdiction of tax residence;
+
+(b) there is no other Constituent Entity of such MNE Group that owns directly or indirectly an interest described in point (a) in the first mentioned Constituent Entity.
+
+8\. The term ‘Surrogate Parent Entity’ means one Constituent Entity of the MNE Group that has been appointed by such MNE Group, as a sole substitute for the Ultimate Parent Entity, to file the country-by-country report in that Constituent Entity's jurisdiction of tax residence, on behalf of such MNE Group, when one or more of the conditions set out in point (b) of the first paragraph of point 1 of Section II apply.
+
+9\. The term ‘Fiscal Year’ means an annual accounting period with respect to which the Ultimate Parent Entity of the MNE Group prepares its financial statements.
+
+10\. The term ‘Reporting Fiscal Year’ means that Fiscal Year the financial and operational results of which are reflected in the country-by-country report referred to in Article 8aa(3).
+
+11\. The term ‘Qualifying Competent Authority Agreement’ means an agreement that is between authorised representatives of an EU Member State and a non-Union jurisdiction that are parties to an International Agreement and that requires the automatic exchange of country-by-country reports between the party jurisdictions.
+
+12\. The term ‘International Agreement’ means the Multilateral Convention on Mutual Administrative Assistance in Tax Matters, any bilateral or multilateral tax convention, or any tax information exchange agreement to which the Member State is a party, and that by its terms provides legal authority for the exchange of tax information between jurisdictions, including automatic exchange of such information.
+
+13\. The term ‘Consolidated Financial Statements’ means the financial statements of an MNE Group in which the assets, liabilities, income, expenses and cash flows of the Ultimate Parent Entity and the Constituent Entities are presented as those of a single economic entity.
+
+14\. The term ‘Systemic Failure’ with respect to a jurisdiction means either that a jurisdiction has a Qualifying Competent Authority Agreement in effect with a Member State but has suspended automatic exchange (for reasons other than those that are in accordance with the terms of that Agreement), or that a jurisdiction otherwise persistently failed to automatically provide to a Member State country-by-country reports in its possession of MNE Groups that have Constituent Entities in that Member State.
+
+**SECTION II**
+
+**GENERAL REPORTING REQUIREMENTS**
+
+1\. A Constituent Entity resident in a Member State which is not the Ultimate Parent Entity of an MNE Group shall file a country-by-country report with respect to the Reporting Fiscal Year of an MNE Group of which it is a Constituent Entity, if the following criteria are satisfied:
+
+(a) the entity is resident for tax purposes in a Member State;
+
+(b) one of the following conditions applies:
+
+(i) the Ultimate Parent Entity of the MNE Group is not obligated to file a country-by-country report in its jurisdiction of tax residence;
+
+(ii) the jurisdiction in which the Ultimate Parent Entity is resident for tax purposes has a current International Agreement to which the Member State is a party but does not have a Qualifying Competent Authority Agreement in effect to which the Member State is a party by the time specified in Article 8aa(1) for filing the country-by-country report for the Reporting Fiscal Year;
+
+(iii) there has been a Systemic Failure of the jurisdiction of tax residence of the Ultimate Parent Entity that has been notified by the Member State to the Constituent Entity resident for tax purposes in the Member State.
+
+Without prejudice to the obligation of the Ultimate Parent Entity referred to in Article 8aa(1) or its Surrogate Parent Entity to file the first country-by-country report for the Fiscal Year of the MNE Group commencing on or after 1 January 2016, Member States may decide that the obligation for Constituent Entities set out in point 1 of this Section shall apply for country-by-country reports with respect to the Reporting Fiscal Years commencing on or after 1 January 2017 onwards.
+
+A Constituent Entity resident in a Member State as defined in the first paragraph of this point shall request its Ultimate Parent Entity to provide it with all information required to enable it to meet its obligations to file a country-by-country report, in accordance with Article 8aa(3). If despite that, that Constituent Entity has not obtained or acquired all the required information to report for the MNE Group, this Constituent Entity shall file a country-by-country report containing all information in its possession, obtained or acquired, and notify the Member State of its residence that the Ultimate Parent Entity has refused to make the necessary information available. This shall be without prejudice to the right of the Member State concerned to apply penalties provided for in its national legislation and this Member State shall inform all Member States of this refusal.
+
+Where there are more than one Constituent Entities of the same MNE Group that are resident for tax purposes in the Union and one or more of the conditions set out in point (b) of the first paragraph apply, the MNE Group may designate one of such Constituent Entities to file the country-by-country report conforming to the requirements of Article 8aa(3) with respect to any Reporting Fiscal Year within the deadline specified in Article 8aa(1) and to notify the Member State that the filing is intended to satisfy the filing requirement of all the Constituent Entities of such MNE Group that are resident for tax purposes in the Union. That Member State shall, pursuant to Article 8aa(2), communicate the country-by-country report received to any other Member State in which, on the basis of the information in the country-by-country report, one or more Constituent Entities of the MNE Group of the Reporting Entity are either resident for tax purposes or are subject to tax with respect to the business carried out through a permanent establishment.
+
+Where a Constituent Entity cannot obtain or acquire all the information required to file a country-by-country report, in line with Article 8aa(3), then such Constituent Entity shall not be eligible to be designated to be the Reporting Entity for the MNE Group in accordance with the fourth paragraph of this point. This rule shall be without prejudice to the obligation of the Constituent Entity to notify the Member State of its residence that the Ultimate Parent Entity has refused to make the necessary information available.
+
+2\. By derogation from point 1, when one or more of the conditions set out in point (b) of the first paragraph of point 1 apply, an entity described in point 1 shall not be required to file a country-by-country report with respect to any Reporting Fiscal Year if the MNE Group of which it is a Constituent Entity has made available a country-by-country report in accordance with Article 8aa(3) with respect to such Fiscal Year through a Surrogate Parent Entity that files that country-by-country report with the tax authority of its jurisdiction of tax residence on or before the date specified in Article 8aa(1) and that, in case the Surrogate Parent Entity is tax resident in a jurisdiction outside the Union, satisfies the following conditions:
+
+(a) the jurisdiction of tax residence of the Surrogate Parent Entity requires filing of country-by-country reports conforming to the requirements of Article 8aa(3);
+
+(b) the jurisdiction of tax residence of the Surrogate Parent Entity has a Qualifying Competent Authority Agreement in effect to which the Member State is a party by the time specified in Article 8aa(1) for filing the country-by-country report for the Reporting Fiscal Year;
+
+(c) the jurisdiction of tax residence of the Surrogate Parent Entity has not notified the Member State of a Systemic Failure;
+
+(d) the jurisdiction of tax residence of the Surrogate Parent Entity has been notified no later than the last day of the Reporting Fiscal Year of such MNE Group by the Constituent Entity resident for tax purposes in its jurisdiction that it is the Surrogate Parent Entity;
+
+(e) a notification has been provided to the Member State in accordance with point 4.
+
+3\. Member States shall request that any Constituent Entity of an MNE Group that is resident for tax purposes in that Member State notifies the Member State whether it is the Ultimate Parent Entity or the Surrogate Parent Entity or the Constituent Entity designated under point 1, no later than the last day of the Reporting Fiscal Year of such MNE Group. Member States may extend that deadline to the last day for filing of a tax return of that Constituent Entity for the preceding fiscal year.
+
+4\. Member States shall request that where a Constituent Entity of an MNE Group, that is resident for tax purposes in that Member State, is not the Ultimate Parent Entity nor the Surrogate Parent Entity nor the Constituent Entity designated under point 1, it shall notify the Member State of the identity and tax residence of the Reporting Entity, no later than the last day of the Reporting Fiscal Year of such MNE Group. Member States may extend that deadline to the last day for filing of a tax return of that Constituent Entity for the preceding fiscal year.
+
+5\. The country-by-country report shall specify the currency of the amounts referred to in that report.
+
+**SECTION III**
+
+**COUNTRY-BY-COUNTRY REPORT**
+
+**Α. Template for the country-by-country report**
+
+Table 1. Overview of allocation of income, taxes and business activities by tax jurisdiction
+
+<tbody><tr><td colspan="11">Name of the MNE Group: Fiscal Year concerned:  Currency used: </td></tr>
+<tr><td rowspan="2">Tax jurisdiction</td><td colspan="3">Revenues</td><td rowspan="2">Profit (loss) before income tax</td><td rowspan="2">Income tax paid (on cash basis)</td><td rowspan="2">Income tax accrued — current year</td><td rowspan="2">Stated capital</td><td rowspan="2">Accumulated earnings</td><td rowspan="2">Number of employees</td><td rowspan="2">Tangible assets other than cash and cash equivalents</td></tr>
+<tr><td>Unrelated party</td><td>Related party</td><td>Total</td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+</tbody>
+
+Table 2 List of all the Constituent Entities of the MNE Group included in each aggregation per tax jurisdiction
+
+<tbody><tr><td colspan="16">Name of the MNE Group: Fiscal Year concerned: </td></tr>
+<tr><td rowspan="2">Tax Jurisdiction</td><td rowspan="2">Constituent Entities Resident in the Tax Jurisdiction</td><td rowspan="2">Tax Jurisdiction of Organisation or Incorporation if Different from Tax Jurisdiction of Residence</td><td colspan="13">Main Business Activity(ies)</td></tr>
+<tr><td>Research and Development</td><td>Holding or Managing Intellectual Property</td><td>Purchasing or Procurement</td><td>Manufacturing or Production</td><td>Sales, Marketing or Distribution</td><td>Administrative, Management or Support Services</td><td>Provision of Services to Unrelated Parties</td><td>Internal Group Finance</td><td>Regulated Financial Services</td><td>Insurance</td><td>Holding Shares or Other Equity instruments</td><td>Dormant</td><td>Other (1)</td></tr>
+<tr><td rowspan="3">  </td><td>1.</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>2.</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>3.</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td rowspan="3">  </td><td>1.</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>2.</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>3.</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td colspan="16">(1)  Please specify the nature of the activity of the Constituent Entity in the ‘Additional information’ </td></tr>
+</tbody>
+
+Table 3: Additional information
+
+Name of the MNE Group:
+
+Fiscal Year concerned:
+
+Please include any further brief information or explanation you consider necessary or that would facilitate the understanding of the compulsory information provided in the country-by-country report
+
+**B. General instructions for filling in the country-by-country report**
+
+1\. Purpose
+
+The template shall be used for reporting a multinational enterprise's (MNE) Group allocation of income, taxes and business activities on a tax jurisdiction-by-tax jurisdiction basis.
+
+2\. Treatment of branches and permanent establishments
+
+The permanent establishment data shall be reported by reference to the tax jurisdiction in which it is situated and not by reference to the tax jurisdiction of residence of the business unit of which the permanent establishment is a part. Residence tax jurisdiction reporting for the business unit of which the permanent establishment is a part shall exclude financial data related to the permanent establishment.
+
+3\. Period covered by the annual template
+
+The template shall cover the Fiscal Year of the reporting MNE. For Constituent Entities, at the discretion of the reporting MNE, the template shall reflect on a consistent basis either of the following information:
+
+(a) information for the Fiscal Year of the relevant Constituent Entities ending on the same date as the Fiscal Year of the reporting MNE, or ending within the 12 month period preceding such date;
+
+(b) information for all the relevant Constituent Entities reported for the Fiscal Year of the reporting MNE.
+
+4\. Source of data
+
+The reporting MNE shall consistently use the same sources of data from year to year in completing the template. The reporting MNE may choose to use data from its consolidation reporting packages, from separate entity statutory financial statements, regulatory financial statements, or internal management accounts. It is not necessary to reconcile the revenue, profit and tax reporting in the template to the Consolidated Financial Statements. If statutory financial statements are used as the basis for reporting, all amounts shall be translated to the stated functional currency of the reporting MNE at the average exchange rate for the year stated in the ‘Additional information’ section of the template. Adjustments need not be made, however, for differences in accounting principles applied from tax jurisdiction to tax jurisdiction.
+
+The reporting MNE shall provide a brief description of the sources of data used in preparing the template in the ‘Additional information’ section of the template. If a change is made in the source of data used from year to year, the reporting MNE shall explain the reasons for the change and its consequences in the ‘Additional information’ section of the template.
+
+**C. Specific instructions for filling in the country-by-country report**
+
+1\. Overview of allocation of income, taxes and business activities by tax jurisdiction (Table 1)
+
+1.1. Tax jurisdiction
+
+In the first column of the template, the reporting MNE shall list all of the tax jurisdictions in which Constituent Entities of the MNE Group are resident for tax purposes. A tax jurisdiction is defined as a State as well as a non-State jurisdiction which has fiscal autonomy. A separate line shall be included for all Constituent Entities in the MNE Group deemed by the reporting MNE not to be resident in any tax jurisdiction for tax purposes. Where a Constituent Entity is resident in more than one tax jurisdiction, the applicable tax treaty tie breaker shall be applied to determine the tax jurisdiction of residence. Where no applicable tax treaty exists, the Constituent Entity shall be reported in the tax jurisdiction of the Constituent Entity's place of effective management. The place of effective management shall be determined with internationally agreed standards.
+
+1.2. Revenues
+
+In the three columns of the template under the heading ‘Revenues’, the reporting MNE shall report the following information:
+
+(a) the sum of revenues of all the Constituent Entities of the MNE Group in the relevant tax jurisdiction generated from transactions with associated enterprises;
+
+(b) the sum of revenues of all the Constituent Entities of the MNE Group in the relevant tax jurisdiction generated from transactions with independent parties;
+
+(c) the total of the sums referred to in points (a) and (b).
+
+Revenues shall include revenues from sales of inventory and properties, services, royalties, interest, premiums and any other amounts. Revenues shall exclude payments received from other Constituent Entities that are treated as dividends in the payer's tax jurisdiction.
+
+1.3. Profit (loss) before income tax
+
+In the fifth column of the template, the reporting MNE shall report the sum of the profit (loss) before income tax for all the Constituent Entities resident for tax purposes in the relevant tax jurisdiction. The profit (loss) before income tax shall include all extraordinary income and expense items.
+
+1.4. Income tax paid (on cash basis)
+
+In the sixth column of the template, the reporting MNE shall report the total amount of income tax actually paid during the relevant Fiscal Year by all the Constituent Entities resident for tax purposes in the relevant tax jurisdiction. Taxes paid shall include cash taxes paid by the Constituent Entity to the residence tax jurisdiction and to all other tax jurisdictions. Taxes paid shall include withholding taxes paid by other entities (associated enterprises and independent enterprises) with respect to payments to the Constituent Entity. Thus, if company A resident in tax jurisdiction A earns interest in tax jurisdiction B, the tax withheld in tax jurisdiction B shall be reported by company A.
+
+1.5. Income tax accrued (current year)
+
+In the seventh column of the template, the reporting MNE shall report the sum of the accrued current tax expense recorded on taxable profits or losses of the year of reporting of all the Constituent Entities resident for tax purposes in the relevant tax jurisdiction. The current tax expense shall reflect only operations in the current year and shall not include deferred taxes or provisions for uncertain tax liabilities.
+
+1.6. Stated capital
+
+In the eighth column of the template, the reporting MNE shall report the sum of the stated capital of all the Constituent Entities resident for tax purposes in the relevant tax jurisdiction. With regard to permanent establishments, the stated capital shall be reported by the legal entity of which it is a permanent establishment unless there is a defined capital requirement in the permanent establishment tax jurisdiction for regulatory purposes.
+
+1.7. Accumulated earnings
+
+In the ninth column of the template, the reporting MNE shall report the sum of the total accumulated earnings of all the Constituent Entities resident for tax purposes in the relevant tax jurisdiction as of the end of the year. With regard to permanent establishments, accumulated earnings shall be reported by the legal entity of which it is a permanent establishment.
+
+1.8. Number of employees
+
+In the tenth column of the template, the reporting MNE shall report the total number of employees on a full-time equivalent (FTE) basis of all the Constituent Entities resident for tax purposes in the relevant tax jurisdiction. The number of employees may be reported as of the year-end, on the basis of average employment levels for the year, or on any other basis consistently applied across tax jurisdictions and from year to year. For this purpose, independent contractors participating in the ordinary operating activities of the Constituent Entity may be reported as employees. Reasonable rounding or approximation of the number of employees is permissible, providing that such rounding or approximation does not materially distort the relative distribution of employees across the various tax jurisdictions. Consistent approaches shall be applied from year to year and across entities.
+
+1.9. Tangible assets other than cash and cash equivalents
+
+In the eleventh column of the template, the reporting MNE shall report the sum of the net book values of tangible assets of all the Constituent Entities resident for tax purposes in the relevant tax jurisdiction. With regard to permanent establishments, assets shall be reported by reference to the tax jurisdiction in which the permanent establishment is situated. Tangible assets for this purpose do not include cash or cash equivalents, intangibles, or financial assets.
+
+2\. List of all the Constituent Entities of the MNE Group included in each aggregation per tax jurisdiction (Table 2)
+
+2.1. Constituent Entities resident in the tax jurisdiction
+
+The reporting MNE shall list, on a tax jurisdiction-by-tax jurisdiction basis and by legal entity name, all the Constituent Entities of the MNE Group which are resident for tax purposes in the relevant tax jurisdiction. As stated in point 2 of the general instructions with regard to permanent establishments, however, the permanent establishment shall be listed by reference to the tax jurisdiction in which it is situated. The legal entity of which it is a permanent establishment shall be noted.
+
+2.2. Tax jurisdiction of organisation or incorporation if different from tax jurisdiction of residence
+
+The reporting MNE shall report the name of the tax jurisdiction under whose laws the Constituent Entity of the MNE Group is organised or incorporated if it is different from the tax jurisdiction of residence.
+
+2.3. Main business activity(ies)
+
+The reporting MNE shall determine the nature of the main business activity(ies) carried out by the Constituent Entity in the relevant tax jurisdiction, by ticking one or more of the appropriate boxes.
+
+## ANNEX IV
+
+**HALLMARKS**
+
+**Part I. Main benefit test**
+
+Generic hallmarks under category A and specific hallmarks under category B and under points (b)(i), (c) and (d) of paragraph 1 of category C may only be taken into account where they fulfil the ‘main benefit test’.
+
+That test will be satisfied if it can be established that the main benefit or one of the main benefits which, having regard to all relevant facts and circumstances, a person may reasonably expect to derive from an arrangement is the obtaining of a tax advantage.
+
+In the context of hallmark under paragraph 1 of category C, the presence of conditions set out in points (b)(i), (c) or (d) of paragraph 1 of category C can not alone be a reason for concluding that an arrangement satisfies the main benefit test.
+
+**Part II. Categories of hallmarks**
+
+**A. Generic hallmarks linked to the main benefit test**
+
+1\. An arrangement where the relevant taxpayer or a participant in the arrangement undertakes to comply with a condition of confidentiality which may require them not to disclose how the arrangement could secure a tax advantage vis-à-vis other intermediaries or the tax authorities.
+
+2\. An arrangement where the intermediary is entitled to receive a fee (or interest, remuneration for finance costs and other charges) for the arrangement and that fee is fixed by reference to:
+
+(a) the amount of the tax advantage derived from the arrangement; or
+
+(b) whether or not a tax advantage is actually derived from the arrangement. This would include an obligation on the intermediary to partially or fully refund the fees where the intended tax advantage derived from the arrangement was not partially or fully achieved.
+
+3\. An arrangement that has substantially standardised documentation and/or structure and is available to more than one relevant taxpayer without a need to be substantially customised for implementation.
+
+**B. Specific hallmarks linked to the main benefit test**
+
+1\. An arrangement whereby a participant in the arrangement takes contrived steps which consist in acquiring a loss-making company, discontinuing the main activity of such company and using its losses in order to reduce its tax liability, including through a transfer of those losses to another jurisdiction or by the acceleration of the use of those losses.
+
+2\. An arrangement that has the effect of converting income into capital, gifts or other categories of revenue which are taxed at a lower level or exempt from tax.
+
+3\. An arrangement which includes circular transactions resulting in the round-tripping of funds, namely through involving interposed entities without other primary commercial function or transactions that offset or cancel each other or that have other similar features.
+
+**C. Specific hallmarks related to cross-border transactions**
+
+1\. An arrangement that involves deductible cross-border payments made between two or more associated enterprises where at least one of the following conditions occurs:
+
+(a) the recipient is not resident for tax purposes in any tax jurisdiction;
+
+(b) although the recipient is resident for tax purposes in a jurisdiction, that jurisdiction either:
+
+(i) does not impose any corporate tax or imposes corporate tax at the rate of zero or almost zero; or
+
+(ii) is included in a list of third-country jurisdictions which have been assessed by Member States collectively or within the framework of the OECD as being non-cooperative;
+
+(c) the payment benefits from a full exemption from tax in the jurisdiction where the recipient is resident for tax purposes;
+
+(d) the payment benefits from a preferential tax regime in the jurisdiction where the recipient is resident for tax purposes;
+
+2\. Deductions for the same depreciation on the asset are claimed in more than one jurisdiction.
+
+3\. Relief from double taxation in respect of the same item of income or capital is claimed in more than one jurisdiction.
+
+4\. There is an arrangement that includes transfers of assets and where there is a material difference in the amount being treated as payable in consideration for the assets in those jurisdictions involved.
+
+**D. Specific hallmarks concerning automatic exchange of information and beneficial ownership**
+
+1\. An arrangement which may have the effect of undermining the reporting obligation under the laws implementing Union legislation or any equivalent agreements on the automatic exchange of Financial Account information, including agreements with third countries, or which takes advantage of the absence of such legislation or agreements. Such arrangements include at least the following:
+
+(a) the use of an account, product or investment that is not, or purports not to be, a Financial Account, but has features that are substantially similar to those of a Financial Account;
+
+(b) the transfer of Financial Accounts or assets to, or the use of jurisdictions that are not bound by the automatic exchange of Financial Account information with the State of residence of the relevant taxpayer;
+
+(c) the reclassification of income and capital into products or payments that are not subject to the automatic exchange of Financial Account information;
+
+(d) the transfer or conversion of a Financial Institution or a Financial Account or the assets therein into a Financial Institution or a Financial Account or assets not subject to reporting under the automatic exchange of Financial Account information;
+
+(e) the use of legal entities, arrangements or structures that eliminate or purport to eliminate reporting of one or more Account Holders or Controlling Persons under the automatic exchange of Financial Account information;
+
+(f) arrangements that undermine, or exploit weaknesses in, the due diligence procedures used by Financial Institutions to comply with their obligations to report Financial Account information, including the use of jurisdictions with inadequate or weak regimes of enforcement of anti-money-laundering legislation or with weak transparency requirements for legal persons or legal arrangements.
+
+2\. An arrangement involving a non-transparent legal or beneficial ownership chain with the use of persons, legal arrangements or structures:
+
+(a) that do not carry on a substantive economic activity supported by adequate staff, equipment, assets and premises; and
+
+(b) that are incorporated, managed, resident, controlled or established in any jurisdiction other than the jurisdiction of residence of one or more of the beneficial owners of the assets held by such persons, legal arrangements or structures; and
+
+(c) where the beneficial owners of such persons, legal arrangements or structures, as defined in Directive (EU) 2015/849, are made unidentifiable.
+
+**E. Specific hallmarks concerning transfer pricing**
+
+1\. An arrangement which involves the use of unilateral safe harbour rules.
+
+2\. An arrangement involving the transfer of hard-to-value intangibles. The term ‘hard-to-value intangibles’ covers intangibles or rights in intangibles for which, at the time of their transfer between associated enterprises:
+
+(a) no reliable comparables exist; and
+
+(b) at the time the transaction was entered into, the projections of future cash flows or income expected to be derived from the transferred intangible, or the assumptions used in valuing the intangible are highly uncertain, making it difficult to predict the level of ultimate success of the intangible at the time of the transfer.
+
+3\. An arrangement involving an intragroup cross-border transfer of functions and/or risks and/or assets, if the projected annual earnings before interest and taxes (EBIT), during the three-year period after the transfer, of the transferor or transferors, are less than 50 % of the projected annual EBIT of such transferor or transferors if the transfer had not been made.
+
+## ANNEX V — DUE DILIGENCE PROCEDURES, REPORTING REQUIREMENTS AND OTHER RULES FOR PLATFORM OPERATORS
+
+This Annex lays down the due diligence procedures, reporting requirements and other rules that shall be applied by the Reporting Platform Operators in order to enable Member States to communicate, by automatic exchange, the information referred to in Article 8ac of this Directive.
+
+This Annex also lays down the rules and administrative procedures that Member States shall have in place to ensure effective implementation of, and compliance with, the due diligence procedures and reporting requirements set out in it.
+
+**SECTION I**
+
+**DEFINED TERMS**
+
+The following terms have the meaning set forth below:
+
+A. Reporting Platform Operators
+
+1\. ‘Platform’ means any software, including a website or a part thereof and applications, including mobile applications, accessible by users and allowing Sellers to be connected to other users for the purpose of carrying out a Relevant Activity, directly or indirectly, to such users. It also includes any arrangement for the collection and payment of a Consideration in respect of Relevant Activity.
+
+The term ‘Platform’ does not include software that without any further intervention in carrying out a Relevant Activity exclusively allows any of the following:
+
+(a) processing of payments in relation to Relevant Activity;
+
+(b) users to list or advertise a Relevant Activity;
+
+(c) redirecting or transferring of users to a Platform.
+
+2\. ‘Platform Operator’ means an Entity that contracts with Sellers to make available all or part of a Platform to such Sellers.
+
+3\. ‘Excluded Platform Operator’ means a Platform Operator which has demonstrated upfront and on an annual basis to the satisfaction of the competent authority of the Member State to which, in accordance with the rules laid down in subparagraphs A(1) to A(3) of Section III, the Platform Operator otherwise would have had to report that Platform’s entire business model is such that it does not have Reportable Sellers.
+
+4\. ‘Reporting Platform Operator’ means any Platform Operator, other than an Excluded Platform Operator, who is in any of the following situations:
+
+(a) it is resident for tax purposes in a Member State or, where such Platform Operator does not have a residence for tax purposes in a Member State, it fulfils any of the following conditions:
+
+(i) it is incorporated under the laws of a Member State;
+
+(ii) it has its place of management (including effective management) in a Member State;
+
+(iii) it has a permanent establishment in a Member State and is not a Qualified Non-Union Platform Operator;
+
+(b) it is neither resident for tax purposes, nor incorporated or managed in a Member State, nor has a permanent establishment in a Member State, but facilitates the carrying out of a Relevant Activity by Reportable Sellers or a Relevant Activity involving the rental of immovable property located in a Member State and is not a Qualified Non-Union Platform Operator.
+
+5\. ‘Qualified Non-Union Platform Operator’ means a Platform Operator for which all Relevant Activities that it facilitates are also Qualified Relevant Activities and that is resident for tax purposes in a Qualified Non-Union Jurisdiction or, where such Platform Operator does not have a residence for tax purposes in a Qualified Non-Union Jurisdiction, it fulfils any of the following conditions:
+
+(a) it is incorporated under the laws of a Qualified Non-Union Jurisdiction; or
+
+(b) it has its place of management (including effective management) in a Qualified Non-Union Jurisdiction.
+
+6\. ‘Qualified Non-Union Jurisdiction’ means a non-Union jurisdiction that has in effect an Effective Qualifying Competent Authority Agreement with the competent authorities of all Member States which are identified as reportable jurisdictions in a list published by the non-Union jurisdiction.
+
+7\. ‘Effective Qualifying Competent Authority Agreement’ means an agreement between the competent authorities of a Member State and a non-Union jurisdiction that requires the automatic exchange of information equivalent to that specified in paragraph B of Section III of this Annex as confirmed by an implementing act in accordance with Article 8ac(7).
+
+8\. ‘Relevant Activity’ means an activity carried out for Consideration and being any of the following:
+
+(a) the rental of immovable property, including both residential and commercial property, as well as any other immovable property and parking spaces;
+
+(b) a Personal Service;
+
+(c) the sale of Goods;
+
+(d) the rental of any mode of transport.
+
+The term ‘Relevant Activity’ does not include an activity carried out by a Seller acting as an employee of the Platform Operator or a related Entity of the Platform Operator.
+
+9\. ‘Qualified Relevant Activities’ means any Relevant Activity covered by the automatic exchange pursuant to an Effective Qualifying Competent Authority Agreement.
+
+10\. ‘Consideration’ means compensation in any form, net of any fees, commissions or taxes withheld or charged by the Reporting Platform Operator, that is paid or credited to a Seller in connection with the Relevant Activity, the amount of which is known or reasonably knowable by the Platform Operator.
+
+11\. ‘Personal Service’ means a service involving time- or task-based work performed by one or more individuals, acting either independently or on behalf of an Entity, and which is carried out at the request of a user, either online or physically offline after having been facilitated via a Platform.
+
+B. Reportable Sellers
+
+1\. ‘Seller’ means a Platform user, either an individual or an Entity, that is registered at any moment during the Reportable Period on the Platform and carries out a Relevant Activity.
+
+2\. ‘Active Seller’ means any Seller that either provides a Relevant Activity during the Reportable Period or is paid or credited Consideration in connection with a Relevant Activity during the Reportable Period.
+
+3\. ‘Reportable Seller’ means any Active Seller, other than an Excluded Seller, that is resident in a Member State or that rented out immovable property located in a Member State.
+
+4\. ‘Excluded Seller’ means any Seller
+
+(a) that is a Governmental Entity;
+
+(b) that is an Entity the stock of which is regularly traded on an established securities market or a related Entity of an Entity the stock of which is regularly traded on an established securities market;
+
+(c) that is an Entity for which the Platform Operator facilitated more than 2 000 Relevant Activities by means of the rental of immovable property in respect of a Property Listing during the Reporting Period; or
+
+(d) for which the Platform Operator facilitated less than 30 Relevant Activities by means of the sale of Goods and for which the total amount of Consideration paid or credited did not exceed EUR 2 000 during the Reporting Period.
+
+C. Other definitions
+
+1\. ‘Entity’ means a legal person or a legal arrangement, such as a corporation, partnership, trust or foundation. An Entity is a related Entity of another Entity if either Entity controls the other Entity, or the two Entities are under common control. For this purpose control includes direct or indirect ownership of more than 50 % of the vote and value in an Entity. In indirect participation, the fulfilment of the requirement for the holding of more than 50 % of the right of ownership in the capital of the other Entity shall be determined by multiplying the rates of holding through the successive tiers. A person holding more than 50 % of the voting rights shall be deemed to hold 100 %.
+
+2\. ‘Governmental Entity’ means the government of a Member State or other jurisdiction, any political subdivision of a Member State or other jurisdiction (which includes a state, province, county, or municipality), or any wholly owned agency or instrumentality of a Member State or other jurisdiction or of any one or more of the foregoing (each, a ‘Governmental Entity’).
+
+3\. ‘TIN’ means a Taxpayer Identification Number, issued by a Member State, or functional equivalent in the absence of a Taxpayer Identification Number.
+
+4\. ‘VAT identification number’ means the unique number that identifies a taxable person or a non-taxable legal entity that is registered for value added tax purposes.
+
+5\. ‘Primary Address’ means the address that is the primary residence of a Seller who is an individual, as well as the address that is the registered office of a Seller that is an Entity.
+
+6\. ‘Reportable Period’ means the calendar year in respect of which reporting is being completed pursuant to Section III.
+
+7\. ‘Property Listing’ means all immovable property units located at the same street address, owned by the same owner and offered for rent on a Platform by the same Seller.
+
+8\. ‘Financial Account Identifier’ means the unique identifying number or reference available to the Platform Operator of the bank account or other similar payment services account to which the Consideration is paid or credited.
+
+9\. ‘Goods’ means any tangible property.
+
+10\. ‘Identification Service’ means an electronic process made available free of charge by a Member State or the Union to a Reporting Platform Operator for the purpose of ascertaining the identity and tax residence of a Seller.
+
+**SECTION II**
+
+**DUE DILIGENCE PROCEDURES**
+
+The following procedures shall apply for the purpose of identifying Reportable Sellers.
+
+A. Sellers not subject to review
+
+For the purpose of determining whether a Seller that is an Entity qualifies as an Excluded Seller described in points (a) and (b) of subparagraph B(4) of Section I, a Reporting Platform Operator may rely on publicly available information or a confirmation from the Seller that is an Entity.
+
+For the purpose of determining whether a Seller qualifies as an Excluded Seller described in points (c) and (d) of subparagraph B(4) of Section I, a Reporting Platform Operator may rely on its available records.
+
+B. Collection of Seller information
+
+1\. The Reporting Platform Operator shall collect all of the following information for each Seller who is an individual and not an Excluded Seller:
+
+(a) the first and last name;
+
+(b) the Primary Address;
+
+(c) any TIN issued to that Seller, including each Member State of issuance, and in the absence of a TIN, the place of birth of that Seller;
+
+(d) the VAT identification number of that Seller, where available;
+
+(e) the date of birth.
+
+2\. The Reporting Platform Operator shall collect all of the following information for each Seller that is an Entity and not an Excluded Seller:
+
+(a) the legal name;
+
+(b) the Primary Address;
+
+(c) any TIN issued to that Seller, including each Member State of issuance;
+
+(d) the VAT identification number of that Seller, where available;
+
+(e) the business registration number;
+
+(f) the existence of any permanent establishment through which Relevant Activities are carried out in the Union, where available, indicating each respective Member State, where such a permanent establishment is located.
+
+4\. Notwithstanding point (c) of subparagraph B(1) and points (c) and (e) of subparagraph B(2), the Reporting Platform Operator shall not be required to collect the TIN or the business registration number, as the case may be, in any of the following situations:
+
+(a) the Member State of residence of the Seller does not issue a TIN or business registration number to the Seller;
+
+(b) the Member State of residence of the Seller does not require the collection of the TIN issued to the Seller.
+
+C. Verification of Seller information
+
+1\. The Reporting Platform Operator shall determine whether the information collected pursuant to paragraph A, subparagraph B(1), points (a) to (e) of subparagraph B(2) and paragraph E is reliable, using all information and documents available to the Reporting Platform Operator in its records, as well as any electronic interface made available by a Member State or the Union free of charge to ascertain the validity of the TIN and/or VAT identification number.
+
+2\. Notwithstanding subparagraph C(1), for the completion of the due diligence procedures pursuant to subparagraph F(2), the Reporting Platform Operator may determine whether the information collected pursuant to paragraph A, subparagraph B(1), points (a) to (e) of subparagraph B(2) and paragraph E is reliable, using information and documents available to the Reporting Platform Operator in its electronically searchable records.
+
+3\. In application of point (b) of subparagraph F(3) and notwithstanding subparagraphs C(1) and C(2), in instances where the Reporting Platform Operator has reason to know that any of the information items described in paragraph B or E may be inaccurate by virtue of information provided by the competent authority of a Member State in a request concerning a specific Seller, it shall request the Seller to correct information items that were found to be incorrect and to provide supporting documents, data or information, which is reliable and of independent source, such as:
+
+(a) valid government-issued identification document,
+
+(b) recent tax residency certificate.
+
+D. Determination of Member State(s) of residence of Seller for the purposes of this Directive
+
+1\. A Reporting Platform Operator shall consider a Seller resident in the Member State of the Seller’s Primary Address. Where different from the Member State of the Seller’s Primary Address, a Reporting Platform Operator shall consider Seller resident also in the Member State of issuance of TIN. Where the Seller has provided information with respect to the existence of a permanent establishment pursuant to point (f) of subparagraph B(2), a Reporting Platform Operator shall consider a Seller resident also in the respective Member State as specified by the Seller.
+
+2\. Notwithstanding subparagraph D(1), a Reporting Platform Operator shall consider a Seller resident in each Member State confirmed by an electronic identification service made available by a Member State or the Union pursuant to subparagraph B(3).
+
+E. Collection of information on rented immovable property
+
+Where a Seller is engaged in Relevant Activity involving the rental of immovable property, the Reporting Platform Operator shall collect the address of each Property Listing and, where issued, respective land registration number or its equivalent under the national law of the Member State where it is located. Where a Reporting Platform Operator facilitated more than 2 000 Relevant Activities by means of the rental of a Property Listing for the same Seller that is an Entity, the Reporting Platform Operator shall collect supporting documents, data or information that the Property Listing is owned by the same owner.
+
+F. Timing and validity of due diligence procedures
+
+1\. A Reporting Platform Operator shall complete the due diligence procedures set out in paragraphs A to E by 31 December of the Reportable Period.
+
+2\. Notwithstanding subparagraph F(1), for Sellers that were already registered on the Platform as of 1 January 2023 or as of the date on which an Entity becomes a Reporting Platform Operator, the due diligence procedures set out in paragraphs A to E are required to be completed by 31 December of the second Reportable Period for the Reporting Platform Operator.
+
+3\. Notwithstanding subparagraph F(1), a Reporting Platform Operator may rely on the due diligence procedures conducted in respect of previous Reportable Periods, provided that:
+
+(a) the Seller information required in subparagraphs B(1) and B(2) has been either collected and verified or confirmed within the last 36 months; and
+
+(b) the Reporting Platform Operator does not have reason to know that information collected pursuant to paragraphs A, B and E is or has become unreliable or incorrect.
+
+G. Application of the due diligence procedures to Active Sellers only
+
+A Reporting Platform Operator may elect to complete the due diligence procedures pursuant to paragraphs A to F in respect of Active Sellers only.
+
+H. Completion of the due diligence procedures by third parties
+
+1\. A Reporting Platform Operator may rely on a third party service provider to fulfil the due diligence obligations laid down in this Section, but such obligations shall remain the responsibility of the Reporting Platform Operator.
+
+2\. Where a Platform Operator fulfils the due diligence obligations for a Reporting Platform Operator with respect to the same Platform pursuant to subparagraph H(1), such Platform Operator shall carry out the due diligence procedures pursuant to the rules laid down in this Section. The due diligence obligations shall remain the responsibility of the Reporting Platform Operator.
+
+**SECTION III**
+
+**REPORTING REQUIREMENTS**
+
+A. Time and manner of reporting
+
+1\. A Reporting Platform Operator within the meaning of point (a) of subparagraph A(4) of Section I shall report to the competent authority of the Member State determined in accordance with point (a) of subparagraph A(4) of Section I the information set out in paragraph B of this Section with respect to the Reportable Period no later than 31 January of the year following the calendar year in which the Seller is identified as a Reportable Seller. Where there is more than one Reporting Platform Operator, any of those Reporting Platform Operators shall be exempt from reporting the information if it has proof, in accordance with national law, that the same information has been reported by another Reporting Platform Operator.
+
+2\. If a Reporting Platform Operator within the meaning of point (a) of subparagraph A(4) of Section I fulfils any of the conditions listed therein in more than one Member State, it shall elect one of those Member States in which it will fulfil the reporting requirements set out in this Section. Such Reporting Platform Operator shall report the information listed in paragraph B of this Section with respect to the Reportable Period to the competent authority of the Member State of election, as this is determined in accordance with paragraph E of Section IV, no later than 31 January of the year following the calendar year in which the Seller is identified as a Reportable Seller. Where there is more than one Reporting Platform Operator, any of those Reporting Platform Operators shall be exempt from reporting the information if it has proof, in accordance with national law, that the same information has been reported by another Reporting Platform Operator in another Member State.
+
+3\. A Reporting Platform Operator within the meaning of point (b) of subparagraph A(4) of Section I shall report the information set out in paragraph B of this Section with respect to the Reportable Period to the competent authority of the Member State of registration, as this is determined in accordance with subparagraph F(1) of Section IV, no later than 31 January of the year following the calendar year in which the Seller is identified as a Reportable Seller.
+
+4\. Notwithstanding subparagraph A(3) of this Section, a Reporting Platform Operator within the meaning of point (b) of subparagraph A(4) of Section I shall not be required to provide the information set out in paragraph B of this Section with respect to Qualified Relevant Activities, covered by an Effective Qualifying Competent Authority Agreement, which already provides for the automatic exchange of equivalent information with a Member State on Reportable Sellers resident in that Member State.
+
+5\. A Reporting Platform Operator shall also provide the information set out in subparagraphs B(2) and B(3) to the Reportable Seller to which it relates, no later than 31 January of the year following the calendar year in which the Seller is identified as a Reportable Seller.
+
+6\. The information with respect to the Consideration paid or credited in a fiat currency shall be reported in the currency in which it was paid or credited. In case the Consideration was paid or credited in a form other than fiat currency, it shall be reported in the local currency, converted or valued in a manner that is consistently determined by the Reporting Platform Operator.
+
+7\. The information about the Consideration and other amounts shall be reported in respect of the quarter of the Reportable Period in which the Consideration was paid or credited.
+
+B. Information to be reported
+
+Each Reporting Platform Operator shall report the following information:
+
+1\. The name, registered office address, TIN and, where relevant, individual identification number allocated pursuant to subparagraph F(4) of Section IV of the Reporting Platform Operator, as well as the business name(s) of the Platform(s) in respect of which the Reporting Platform Operator is reporting.
+
+2\. With respect to each Reportable Seller that carried out Relevant Activity, other than immovable property rental:
+
+(a) the information items required to be collected pursuant to paragraph B of Section II;
+
+(b) the Financial Account Identifier, insofar as it is available to the Reporting Platform Operator and the competent authority of the Member State where the Reportable Seller is resident in the meaning of paragraph D of Section II has not published that it does not intend to use the Financial Account Identifier for this purpose;
+
+(c) where different from the name of the Reportable Seller, in addition to the Financial Account Identifier, the name of the holder of the financial account to which the Consideration is paid or credited, to the extent available to the Reporting Platform Operator, as well as any other financial identification information available to the Reporting Platform Operator with respect to that account holder;
+
+(d) each Member State in which the Reportable Seller is resident for the purposes of this Directive as determined pursuant to paragraph D of Section II;
+
+(e) the total Consideration paid or credited during each quarter of the Reportable Period and the number of Relevant Activities in respect of which it was paid or credited;
+
+(f) any fees, commissions or taxes withheld or charged by the Reporting Platform Operator during each quarter of the Reportable Period.
+
+3\. With respect to each Reportable Seller that carried out Relevant Activity involving immovable property rental:
+
+(a) the information items required to be collected pursuant to paragraph B of Section II;
+
+(b) the Financial Account Identifier, insofar as it is available to the Reporting Platform Operator and the competent authority of the Member State where the Reportable Seller is resident in the meaning of paragraph D of Section II has not published that it does not intend to use the Financial Account Identifier for this purpose;
+
+(c) where different from the name of the Reportable Seller, in addition to the Financial Account Identifier, the name of the holder of the financial account to which the Consideration is paid or credited, to the extent available to the Reporting Platform Operator, as well as any other financial identification information available to the Reporting Platform Operator with respect to the account holder;
+
+(d) each Member State in which the Reportable Seller is resident for the purposes of this Directive as determined pursuant to subparagraph D of Section II;
+
+(e) the address of each Property Listing, determined on the basis of the procedures set out in paragraph E of Section II, and respective land registration number or its equivalent under the national law of the Member State where it is located, where available;
+
+(f) the total Consideration paid or credited during each quarter of the Reportable Period and the number of Relevant Activities provided with respect to each Property Listing;
+
+(g) any fees, commissions or taxes withheld or charged by the Reporting Platform Operator during each quarter of the Reportable Period;
+
+(h) where available, the number of days each Property Listing was rented during the Reportable Period and the type of each Property Listing.
+
+4\. Notwithstanding subparagraph B(2), point (a), and subparagraph B(3), point (a), the Reporting Platform Operator shall not be required to report the information items required to be collected pursuant to Section II, paragraph B, where it reports to a competent authority that uses an Identification Service and relies on direct confirmation of the identity and residence of the Seller through an Identification Service made available by a Member State or the Union to ascertain the identity and all tax residencies of the Seller. In case the Reporting Platform Operator relied on an Identification Service to ascertain the identity and all tax residencies of a Reportable Seller, the name, Identification Service identifier(s) and the Member State(s) of issuance shall be reported.
+
+**SECTION IV**
+
+**EFFECTIVE IMPLEMENTATION**
+
+Pursuant to Article 8ac, Member States shall have rules and administrative procedures in place to ensure effective implementation of, and compliance with, the due diligence procedures and reporting requirements set out in Sections II and III of this Annex.
+
+A. Rules to enforce the collection and verification requirements laid down in Section II
+
+1\. Member States shall take the necessary measures to require Reporting Platform Operators to enforce the collection and verification requirements under Section II in relation to their Sellers.
+
+2\. Where a Seller does not provide the information required under Section II after two reminders following the initial request by the Reporting Platform Operator, but not prior to the expiration of 60 days, the Reporting Platform Operator shall close the account of the Seller and prevent the Seller from re-registering on the Platform or withhold the payment of the Consideration to the Seller as long as the Seller does not provide the information requested.
+
+B. Rules requiring Reporting Platform Operators to keep records of the steps undertaken and any information relied upon for the performance of the due diligence procedures and reporting requirements and adequate measures to obtain those records
+
+1\. Member States shall take the necessary measures to require Reporting Platform Operators to keep records of the steps undertaken and any information relied upon for the performance of the due diligence procedures and reporting requirements set out in Sections II and III. Such records shall remain available for a sufficiently long period of time and in any event for a period of not less than 5 years but not more than 10 years following the end of the Reportable Period to which they relate.
+
+2\. Member States shall take the necessary measures, including the possibility of addressing an order for reporting to Reporting Platform Operators, in order to ensure that all necessary information is reported to the competent authority so that the latter can comply with the obligation to communicate information in accordance with Article 8ac(2).
+
+C. Administrative procedures to verify compliance of Reporting Platform Operators with the due diligence procedures and reporting requirements
+
+Member States shall lay down administrative procedures to verify the compliance of Reporting Platform Operators with the due diligence procedures and reporting requirements set out in Sections II and III.
+
+D. Administrative procedures to follow up with a Reporting Platform Operator where incomplete or inaccurate information is reported
+
+Member States shall lay down procedures for following up with Reporting Platform Operators where the reported information is incomplete or inaccurate.
+
+E. Administrative procedure for the election of a single Member State in which to report
+
+If a Reporting Platform Operator within the meaning of point (a) of subparagraph A(4) of Section I fulfils any of the conditions listed therein in more than one Member State, it shall elect one of those Member States, to fulfil its reporting requirements pursuant to Section III. The Reporting Platform Operator shall notify all the competent authorities of those Member States of its election.
+
+F. Administrative procedure for single registration of a Reporting Platform Operator
+
+1\. A Reporting Platform Operator within the meaning of point (b) of subparagraph A(4) of Section I of this Annex shall register with the competent authority of any Member State pursuant to Article 8ac(4) when it commences its activity as a Platform Operator.
+
+2\. The Reporting Platform Operator shall communicate to the Member State of its single registration the following information:
+
+(a) name;
+
+(b) postal address;
+
+(c) electronic addresses, including websites;
+
+(d) any TIN issued to the Reporting Platform Operator;
+
+(e) a statement with information about identification of that Reporting Platform Operator for VAT purposes within the Union, pursuant to Title XII, Chapter 6, Sections 2 and 3 of Council Directive 2006/112/EC ( 12 );
+
+(f) Member States in which Reportable Sellers are residents within the meaning of paragraph D of Section II.
+
+3\. The Reporting Platform Operator shall notify the Member State of single registration of any changes in the information provided under subparagraph F(2).
+
+4\. The Member State of single registration shall allocate an individual identification number to the Reporting Platform Operator and shall notify it to the competent authorities of all Member States by electronic means.
+
+5\. The Member State of single registration shall remove a Reporting Platform Operator from the central register in the following cases:
+
+(a) the Platform Operator notifies that Member State that it no longer carries out any activity as a Platform Operator;
+
+(b) in the absence of a notification pursuant to point (a), there are grounds to assume that the activity of a Platform Operator has ceased;
+
+(c) the Platform Operator no longer meets the conditions laid down in point (b) of subparagraph A(4) of Section I;
+
+(d) the Member State revoked the registration with its competent authority pursuant to subparagraph F(7).
+
+6\. Each Member State shall forthwith notify the Commission of any Platform Operator within the meaning of point (b) of subparagraph A(4) of Section I that commences its activity as a Platform Operator while failing to register itself pursuant to this paragraph.
+
+Where a Reporting Platform Operator does not comply with the obligation to register or where its registration has been revoked in accordance with subparagraph F(7) of this Section, Member States shall, without prejudice to Article 25a, take effective, proportionate and dissuasive measures to enforce compliance within their jurisdiction. The choice of such measures shall remain within the discretion of Member States. Member States shall also endeavour to coordinate their actions aimed at enforcing compliance, including the prevention of the Reporting Platform Operator from being able to operate within the Union as a last resort.
+
+7\. Where a Reporting Platform Operator does not comply with the obligation to report in accordance with subparagraph A(3) of Section III of this Annex after two reminders by the Member State of single registration, the Member State shall, without prejudice to Article 25a, take the necessary measures to revoke the registration of the Reporting Platform Operator made pursuant to Article 8ac(4). The registration shall be revoked not later than after the expiration of 90 days but not prior to the expiration of 30 days after the second reminder.
+
+## ANNEX VI — REPORTING REQUIREMENTS, DUE DILIGENCE PROCEDURES AND OTHER RULES APPLICABLE TO REPORTING CRYPTO-ASSET SERVICE PROVIDERS
+
+This Annex lays down the reporting requirements, due diligence procedures and other rules to be applied by the Reporting Crypto-Asset Service Providers in order to enable Member States to communicate, by automatic exchange, the information referred to in Article 8ad.
+
+This Annex also lays down the rules and administrative procedures that Member States are to have in place in order to ensure the effective implementation of, and compliance with, the reporting requirements and the due diligence procedures set out herein.
+
+**SECTION I**
+
+**OBLIGATIONS OF REPORTING CRYPTO-ASSET SERVICE PROVIDERS**
+
+A. A Reporting Crypto-Asset Service Provider as defined in Section IV, subparagraph B(3), is subject to the reporting and due diligence requirements set out in Sections II and III, respectively, in a Member State, if it is:
+
+1\. an Entity authorised by a Member State in accordance with Article 63 of Regulation (EU) 2023/1114 or allowed to provide Crypto-Asset Services following a notification to a Member State in accordance with Article 60 of Regulation (EU) 2023/1114; or
+
+2\. not an Entity authorised by a Member State in accordance with Article 63 of Regulation (EU) 2023/1114 or allowed to provide Crypto-Asset Services following a notification to a Member State in accordance with Article 60 of Regulation (EU) 2023/1114, and it is:
+
+(a) an Entity or individual resident for tax purposes in a Member State;
+
+(b) an Entity that (i) is incorporated or organised under the laws of a Member State and (ii) either has legal personality in a Member State or has an obligation to file tax returns or tax information returns to the tax authorities in a Member State with respect to the income of the Entity;
+
+(c) an Entity managed from a Member State; or
+
+(d) an Entity or individual that has a regular place of business in a Member State.
+
+B. A Reporting Crypto-Asset Service Provider is subject to the reporting and due diligence requirements set out in Sections II and III, respectively, in a Member State with respect to Reportable Transactions effectuated through a Branch based in a Member State.
+
+C. A Reporting Crypto-Asset Service Provider that is an Entity is not required to complete the reporting and due diligence requirements set out in Sections II and III, respectively, in a Member State it is subject to pursuant to subparagraph A(2), point (b), (c) or (d), if those requirements are completed by such Reporting Crypto-Asset Service Provider in any other Member State or in a Qualified Non-Union Jurisdiction by virtue of it being resident for tax purposes in such Member State or Qualified Non-Union Jurisdiction.
+
+D. A Reporting Crypto-Asset Service Provider that is an Entity is not required to complete the reporting and due diligence requirements set out in Sections II and III, respectively, in a Member State it is subject to pursuant to subparagraph A(2), point (c) or (d), if those requirements are completed by such Reporting Crypto-Asset Service Provider in any other Member State or in a Qualified Non-Union Jurisdiction by virtue of it being an Entity that (a) is incorporated or organised under the laws of such Member State or Qualified Non-Union Jurisdiction and (b) either has legal personality in the other Member State or Qualified Non-Union Jurisdiction or has an obligation to file tax returns or tax information returns to the tax authorities in the other Member State or Qualified Non-Union Jurisdiction with respect to the income of the Entity.
+
+E. A Reporting Crypto-Asset Service Provider that is an Entity is not required to complete the reporting and due diligence requirements set out in Sections II and III, respectively, in a Member State it is subject to pursuant to subparagraph A(2), point (d), if those requirements are completed by such Reporting Crypto-Asset Service Provider in any other Member State or in a Qualified Non-Union Jurisdiction by virtue of it being managed from such Member State or Qualified Non-Union Jurisdiction.
+
+F. A Reporting Crypto-Asset Service Provider that is an individual is not required to complete the reporting and due diligence requirements set out in Sections II and III, respectively, in a Member State it is subject to pursuant to subparagraph A(2), point (d), if those requirements are completed by such Reporting Crypto-Asset Service Provider in any other Member State or in a Qualified Non-Union Jurisdiction by virtue of it being resident for tax purposes in such Member State or Qualified Non-Union Jurisdiction.
+
+G. A Reporting Crypto-Asset Service Provider is not required to complete the reporting and due diligence requirements set out in Sections II and III, respectively, in a Member State it is subject to pursuant to subparagraph A(2), point (a), (b), (c) or (d), if it has lodged a notification with a Member State in a format specified by such Member State confirming that those requirements are completed by such Reporting Crypto-Asset Service Provider under the rules of any other Member State or Qualified Non-Union Jurisdiction pursuant to criteria that are substantially similar to subparagraph A(2), point (a), (b), (c) or (d), respectively.
+
+H. A Reporting Crypto-Asset Service Provider is not required to complete the reporting and due diligence requirements set out in Sections II and III, respectively, in a Member State with respect to Reportable Transactions it effectuates through a Branch in any other Member State or Qualified Non-Union Jurisdiction, if those requirements are completed by that Branch in such other Member State or Qualified Non-Union Jurisdiction.
+
+**SECTION II**
+
+**REPORTING REQUIREMENTS**
+
+A. A Reporting Crypto-Asset Service Provider within the meaning of Section I, paragraphs A and B, shall report the information set out in paragraph B of this Section to the competent authority of the Member State where it is subject to reporting requirements in accordance with Section I.
+
+B. For each relevant calendar year or other appropriate reporting period, and subject to the obligations of Reporting Crypto-Asset Service Providers set out in Section I and the due diligence procedures set out in Section III, a Reporting Crypto-Asset Service Provider shall report the following information with respect to its Crypto-Asset Users that are Reportable Users or that have Controlling Persons that are Reportable Persons:
+
+1\. the name, address, Member State(s) of residence, TIN(s) and, in the case of an individual, date and place of birth of each Reportable User and, in the case of any Entity that, after application of the due diligence procedures laid down in Section III, is identified as having one or more Controlling Persons that is a Reportable Person, the name, address, Member State(s) of residence and TIN(s) of the Entity and the name, address, Member State(s) of residence, TIN(s) and date and place of birth of each Controlling Person of the Entity that is a Reportable Person, as well as the role(s) by virtue of which each such Reportable Person is a Controlling Person of the Entity;
+
+notwithstanding subparagraph B(1), first subparagraph, where the Reporting Crypto-Asset Service Provider reports to a competent authority that uses an Identification Service and relies on direct confirmation of the identity and residence of the Reportable Person through an Identification Service made available by a Member State or the Union to ascertain the identity and all tax residencies of the Reportable Person, the information to be reported regarding the Reportable Person is the name, the Identification Service identifier(s) and the Member State(s) of issuance, as well as the role(s) by virtue of which each Reportable Person is a Controlling Person of the Entity;
+
+2\. the name, address, TIN and, if available, the individual identification number referred to in Article 8ad(7) and the global legal entity identifier of the Reporting Crypto-Asset Service Provider;
+
+3\. for each type of Reportable Crypto-Asset with respect to which the Reporting Crypto-Asset Service Provider has effectuated Reportable Transactions during the relevant calendar year or other appropriate reporting period, where relevant:
+
+(a) the full name of the type of Reportable Crypto-Asset;
+
+(b) the aggregate gross amount paid, the aggregate number of units and the number of Reportable Transactions in respect of acquisitions against Fiat Currency;
+
+(c) the aggregate gross amount received, the aggregate number of units and the number of Reportable Transactions in respect of disposals against Fiat Currency;
+
+(d) the aggregate fair market value, the aggregate number of units and the number of Reportable Transactions in respect of acquisitions against other Reportable Crypto-Assets;
+
+(e) the aggregate fair market value, the aggregate number of units and the number of Reportable Transactions in respect of disposals against other Reportable Crypto-Assets;
+
+(f) the aggregate fair market value, the aggregate number of units and the number of Reportable Retail Payment Transactions;
+
+(g) the aggregate fair market value, the aggregate number of units and the number of Reportable Transactions, and subdivided by transfer type where known by the Reporting Crypto-Asset Service Provider, in respect of Transfers to the Reportable User not covered by points (b) and (d);
+
+(h) the aggregate fair market value, the aggregate number of units and the number of Reportable Transactions, and subdivided by transfer type where known by the Reporting Crypto-Asset Service Provider, in respect of Transfers by the Reportable User not covered by points (c), (e) and (f); and
+
+(i) the aggregate fair market value, as well as the aggregate number of units of Transfers effectuated by the Reporting Crypto-Asset Service Provider to distributed ledger addresses, as defined in Article 3, point (18), of Regulation (EU) 2023/1113, not known to be associated with a virtual asset service provider or financial institution.
+
+For the purposes of subparagraph B(3), points (b) and (c), the amount paid or received shall be reported in the Fiat Currency in which it was paid or received. In case the amounts were paid or received in multiple Fiat Currencies, the amounts shall be reported in a single currency, converted at the time of each Reportable Transaction in a manner that is consistently applied by the Reporting Crypto-Asset Service Provider.
+
+For the purposes of subparagraph B(3), points (d) to (i), the fair market value shall be determined and reported in a single currency, valued at the time of each Reportable Transaction in a manner that is consistently applied by the Reporting Crypto-Asset Service Provider.
+
+The information reported shall identify the Fiat Currency in which each amount is reported.
+
+C. Notwithstanding subparagraph B(1), the place of birth is not required to be reported unless the Reporting Crypto-Asset Service Provider is otherwise required to obtain and report it under domestic law.
+
+D. The information listed in paragraph B shall be reported annually in the calendar year following the year to which the information relates. The first information shall be reported for the relevant calendar year or other appropriate reporting period as from 1 January 2026.
+
+E. Notwithstanding paragraphs A and D of this Section, a Reporting Crypto-Asset Service Provider within the meaning of Section I, subparagraph A(2), point (a), (b), (c) or (d), shall not be required to provide the information set out in paragraph B of this Section with respect to a Reportable User or Controlling Person for which the Reporting Crypto-Asset Service Provider completes the reporting of such information in a non-Union jurisdiction that is covered by an Effective Qualifying Competent Authority Agreement with the Member State of residence of such Reportable User or such Controlling Person.
+
+**SECTION III**
+
+**DUE DILIGENCE PROCEDURES**
+
+A Crypto-Asset User is treated as a Reportable User beginning as of the date when it is identified as such pursuant to the due diligence procedures described in this Section.
+
+A. Due diligence procedures for Individual Crypto-Asset Users
+
+The following procedures apply for the purpose of determining whether the Individual Crypto-Asset User is a Reportable User.
+
+1\. When establishing the relationship with the Individual Crypto-Asset User, or with respect to Pre-existing Individual Crypto-Asset Users by 1 January 2027, the Reporting Crypto-Asset Service Provider shall obtain a self-certification that allows the Reporting Crypto-Asset Service Provider to determine the Individual Crypto-Asset User’s residence(s) for tax purposes and confirm the reasonableness of such self-certification based on the information obtained by the Reporting Crypto-Asset Service Provider, including any documentation collected pursuant to Customer Due Diligence Procedures.
+
+2\. If at any point there is a change of circumstances with respect to an Individual Crypto-Asset User that causes the Reporting Crypto-Asset Service Provider to know, or have reason to know, that the original self-certification is incorrect or unreliable, the Reporting Crypto-Asset Service Provider cannot rely on the original self-certification and shall obtain a valid self-certification, or a reasonable explanation and, where appropriate, documentation supporting the validity of the original self-certification.
+
+B. Due diligence procedures for Entity Crypto-Asset Users
+
+The following procedures apply for the purpose of determining whether the Entity Crypto-Asset User is a Reportable User or an Entity, other than an Excluded Person or an Active Entity, with one or more Controlling Persons who are Reportable Persons.
+
+1\. Determine whether the Entity Crypto-Asset User is a Reportable Person.
+
+(a) When establishing the relationship with the Entity Crypto-Asset User, or with respect to Pre-existing Entity Crypto-Assets Users by 1 January 2027, the Reporting Crypto-Asset Service Provider shall obtain a self-certification that allows the Reporting Crypto-Asset Service Provider to determine the Entity Crypto-Asset User’s residence(s) for tax purposes and confirm the reasonableness of such self-certification based on the information obtained by the Reporting Crypto-Asset Service Provider, including any documentation collected pursuant to Customer Due Diligence Procedures. If the Entity Crypto-Asset User certifies that it has no residence for tax purposes, the Reporting Crypto-Asset Service Provider may rely on the place of effective management or the address of the principal office to determine the residence of the Entity Crypto-Asset User.
+
+(b) If the self-certification indicates that the Entity Crypto-Asset User is resident in a Member State, the Reporting Crypto-Asset Service Provider shall treat the Entity Crypto-Asset User as a Reportable User, unless it reasonably determines based on the self-certification or on information in its possession or that is publicly available, that the Entity Crypto-Asset User is an Excluded Person.
+
+2\. Determine whether the Entity has one or more Controlling Persons who are Reportable Persons. With respect to an Entity Crypto-Asset User, other than an Excluded Person, the Reporting Crypto-Asset Service Provider shall determine whether it has one or more Controlling Persons who are Reportable Persons, unless it determines that the Entity Crypto-Asset User is an Active Entity, based on a self-certification from the Entity Crypto-Asset User.
+
+(a) Determining the Controlling Persons of the Entity Crypto-Asset User. For the purpose of determining the Controlling Persons of the Entity Crypto-Asset User, a Reporting Crypto-Asset Service Provider may rely on information collected and maintained pursuant to Customer Due Diligence Procedures, provided that such procedures are consistent with Directive (EU) 2015/849. If the Reporting Crypto-Asset Service Provider is not legally required to apply Customer Due Diligence Procedures that are consistent with Directive (EU) 2015/849, it shall apply substantially similar procedures for the purpose of determining the Controlling Persons.
+
+(b) Determining whether a Controlling Person of an Entity Crypto-Asset User is a Reportable Person. For the purpose of determining whether a Controlling Person is a Reportable Person, a Reporting Crypto-Asset Service Provider shall rely on a self-certification from the Entity Crypto-Asset User or such Controlling Person that allows the Reporting Crypto-Asset Service Provider to determine the Controlling Person’s residence(s) for tax purposes and confirm the reasonableness of such self-certification based on the information obtained by the Reporting Crypto-Asset Service Provider, including any documentation collected pursuant to Customer Due Diligence Procedures.
+
+3\. If at any point there is a change of circumstances with respect to an Entity Crypto-Asset User or its Controlling Persons that causes the Reporting Crypto-Asset Service Provider to know, or have reason to know, that the original self-certification is incorrect or unreliable, the Reporting Crypto-Asset Service Provider cannot rely on the original self-certification and shall obtain a valid self-certification, or a reasonable explanation and, where appropriate, documentation supporting the validity of the original self-certification.
+
+C. Requirements for validity of self-certifications
+
+1\. A self-certification provided by an Individual Crypto-Asset User or Controlling Person is valid only if it is signed or otherwise positively affirmed by the Individual Crypto-Asset User or Controlling Person, it is dated at the latest at the date of receipt and it contains the following information with respect to the Individual Crypto-Asset User or Controlling Person:
+
+(a) first and last name;
+
+(b) residence address;
+
+(c) Member State(s) of residence for tax purposes;
+
+(d) with respect to each Reportable Person, the TIN with respect to each Member State;
+
+(e) date of birth.
+
+2\. A self-certification provided by an Entity Crypto-Asset User is valid only if it is signed or otherwise positively affirmed by the Entity Crypto-Asset User, it is dated at the latest at the date of receipt and it contains the following information with respect to the Entity Crypto-Asset User:
+
+(a) legal name;
+
+(b) address;
+
+(c) Member State(s) of residence for tax purposes;
+
+(d) with respect to each Reportable Person, the TIN with respect to each Member State;
+
+(e) in the case of an Entity Crypto-Asset User other than an Active Entity or an Excluded Person, the information described in subparagraph C(1) with respect to each Controlling Person of the Entity Crypto-Asset User, unless such Controlling Person has provided a self-certification pursuant to subparagraph C(1), as well as the role(s) by virtue of which each Reportable Person is a Controlling Person of the Entity, if not already determined on the basis of Customer Due Diligence Procedures;
+
+(f) if applicable, information as to the criteria it meets to be treated as an Active Entity or Excluded Person.
+
+D. General due diligence requirements
+
+1\. A Reporting Crypto-Asset Service Provider that is also a Financial Institution for the purposes of this Directive may rely on the due diligence procedures completed pursuant to Sections IV and VI of Annex I for the purposes of the due diligence procedures pursuant to this Section. A Reporting Crypto-Asset Service Provider may also rely on a self-certification already collected for other tax purposes, provided such self-certification meets the requirements of paragraph C of this Section.
+
+2\. A Reporting Crypto-Asset Service Provider may rely on a third party to fulfil the due diligence obligations set out in this Section, but such obligations remain the responsibility of the Reporting Crypto-Asset Service Provider.
+
+**SECTION IV**
+
+**DEFINED TERMS**
+
+The following terms have the meaning set out below:
+
+A. Reportable Crypto-Asset
+
+1\. ‘Crypto-Asset’ means crypto-asset as defined in Article 3(1), point (5), of Regulation (EU) 2023/1114.
+
+2\. ‘Central Bank Digital Currency’ means any digital Fiat Currency issued by a Central Bank or other monetary authority.
+
+3\. ‘Central Bank’ means an institution that is by law or government sanction the principal authority, other than the government of the jurisdiction itself, issuing instruments intended to circulate as currency. Such an institution may include an instrumentality that is separate from the government of the jurisdiction, whether or not owned in whole or in part by the jurisdiction.
+
+4\. ‘Reportable Crypto-Asset’ means any Crypto-Asset other than a Central Bank Digital Currency, Electronic Money, or any Crypto-Asset for which the Reporting Crypto-Asset Service Provider has adequately determined that it cannot be used for payment or investment purposes.
+
+5\. For the purposes of this Annex, ‘Electronic Money’ or ‘E-money’ means any Crypto-Asset that is:
+
+(a) a digital representation of a single Fiat Currency;
+
+(b) issued on the receipt of funds for the purpose of making payment transactions;
+
+(c) represented by a claim on the issuer denominated in the same Fiat Currency;
+
+(d) accepted in payment by a natural or legal person other than the issuer; and
+
+(e) by virtue of regulatory requirements to which the issuer is subject, redeemable at any time and at par value for the same Fiat Currency upon request of the holder of the product.
+
+The term ‘Electronic money’ or ‘E-money’ does not include a product created for the sole purpose of facilitating the transfer of funds from a customer to another person pursuant to instructions of the customer. A product is not created for the sole purpose of facilitating the transfer of funds if, in the ordinary course of business of the transferring Entity, either the funds connected with such product are held longer than 60 days after receipt of instructions to facilitate the transfer, or, if no instructions are received, the funds connected with such product are held longer than 60 days after receipt of the funds.
+
+B. Reporting Crypto-Asset Service Provider
+
+1\. ‘Crypto-Asset Service Provider’ means crypto-asset service provider as defined in Article 3(1), point (15), of Regulation (EU) 2023/1114.
+
+2\. ‘Crypto-Asset Operator’ means a provider of Crypto-Asset Services other than a Crypto-Asset Service Provider.
+
+3\. ‘Reporting Crypto-Asset Service Provider’ means any Crypto-Asset Service Provider and any Crypto-Asset Operator that conducts one or more Crypto-Asset Services effectuating Exchange Transactions for or on behalf of a Reportable User.
+
+4\. ‘Crypto-Asset Service’ means crypto-asset service as defined in Article 3(1), point (16), of Regulation (EU) 2023/1114, including staking and lending.
+
+C. Reportable Transaction
+
+1\. ‘Reportable Transaction’ means any:
+
+(a) Exchange Transaction; and
+
+(b) Transfer of Reportable Crypto-Assets.
+
+2\. ‘Exchange Transaction’ means any:
+
+(a) exchange between Reportable Crypto-Assets and Fiat Currencies; and
+
+(b) exchange between one or more forms of Reportable Crypto-Assets.
+
+3\. ‘Reportable Retail Payment Transaction’ means a Transfer of Reportable Crypto-Assets in consideration of goods or services for a value exceeding USD 50 000 (or the equivalent amount in any other currency).
+
+4\. ‘Transfer’ means a transaction that moves a Reportable Crypto-Asset from or to the Crypto-Asset address or account of one Crypto-Asset User, other than one maintained by the Reporting Crypto-Asset Service Provider on behalf of the same Crypto-Asset User, where, based on the knowledge available to the Reporting Crypto-Asset Service Provider at the time of transaction, the Reporting Crypto-Asset Service Provider cannot determine that the transaction is an Exchange Transaction.
+
+5\. ‘Fiat Currency’ means the official currency of a jurisdiction, issued by a jurisdiction or by a jurisdiction’s designated Central Bank or monetary authority, as represented by physical banknotes or coins or by money in different digital forms, including bank reserves and Central Bank Digital Currencies. The term also includes commercial bank money and electronic money products (Electronic Money).
+
+D. Reportable User
+
+1\. ‘Reportable User’ means a Crypto-Asset User that is a Reportable Person resident in a Member State.
+
+2\. ‘Crypto-Asset User’ means an individual or Entity that is a customer of a Reporting Crypto-Asset Service Provider for the purpose of carrying out Reportable Transactions. An individual or Entity, other than a Financial Institution or a Reporting Crypto-Asset Service Provider, acting as a Crypto-Asset User for the benefit or account of another individual or Entity as agent, custodian, nominee, signatory, investment advisor, or intermediary, is not treated as a Crypto-Asset User, and such other individual or Entity is treated as the Crypto-Asset User. Where a Reporting Crypto-Asset Service Provider provides a service effectuating Reportable Retail Payment Transactions for or on behalf of a merchant, the Reporting Crypto-Asset Service Provider shall also treat the customer that is the counterparty to the merchant for such Reportable Retail Payment Transactions as the Crypto-Asset User with respect to such Reportable Retail Payment Transaction, provided that the Reporting Crypto-Asset Service Provider is required to verify the identity of such customer by virtue of the Reportable Retail Payment Transaction pursuant to domestic anti-money laundering rules.
+
+3\. ‘Individual Crypto-Asset User’ means a Crypto-Asset User that is an individual.
+
+4\. ‘Pre-existing Individual Crypto-Asset User’ means an Individual Crypto-Asset User that has established a relationship with the Reporting Crypto-Asset Service Provider as of 31 December 2025.
+
+5\. ‘Entity Crypto-Asset User’ means a Crypto-Asset User that is an Entity.
+
+6\. ‘Pre-existing Entity Crypto-Asset User’ means an Entity Crypto-Asset User that has established a relationship with the Reporting Crypto-Asset Service Provider as of 31 December 2025.
+
+7\. ‘Reportable Person’ means a Member State Person other than an Excluded Person.
+
+8\. ‘Member State Person’ with regard to each Member State means an Entity or individual that is resident in any Member State under the tax laws of that Member State, or an estate of a decedent that was a resident of any Member State. For that purpose, an Entity such as a partnership, limited liability partnership or similar legal arrangement that has no residence for tax purposes shall be treated as resident in the jurisdiction in which its place of effective management is situated.
+
+9\. ‘Controlling Persons’ means the natural persons who exercise control over an Entity. In the case of a trust, such term means the settlor(s), the trustee(s), the protector(s) (if any), the beneficiary(ies) or class(es) of beneficiaries, and any other natural person(s) exercising ultimate effective control over the trust, and in the case of a legal arrangement other than a trust, such term means persons in equivalent or similar positions. The term ‘Controlling Persons’ shall be interpreted in a manner consistent with the term of ‘beneficial owner’ as defined in Article 3, point (6), of Directive (EU) 2015/849, as far as Reporting Crypto-Asset Service Providers are concerned.
+
+10\. ‘Active Entity’ means any Entity that meets any of the following criteria:
+
+(a) less than 50 % of the Entity’s gross income for the preceding calendar year or other appropriate reporting period is passive income and less than 50 % of the assets held by the Entity during the preceding calendar year or other appropriate reporting period are assets that produce or are held for the production of passive income;
+
+(b) substantially all of the activities of the Entity consist of holding (in whole or in part) the outstanding stock of, or providing financing and services to, one or more subsidiaries that engage in trades or businesses other than the business of a Financial Institution, except that an Entity does not qualify for this status if the Entity functions (or holds itself out) as an investment fund, such as a private equity fund, venture capital fund, leveraged buyout fund, or any investment vehicle whose purpose is to acquire or fund companies and then hold interests in those companies as capital assets for investment purposes;
+
+(c) the Entity is not yet operating a business and has no prior operating history, but is investing capital into assets with the intent to operate a business other than that of a Financial Institution, provided that the Entity does not qualify for this exception after the date that is 24 months after the date of the initial organisation of the Entity;
+
+(d) the Entity was not a Financial Institution in the past five years, and is in the process of liquidating its assets or is reorganising with the intent to continue or recommence operations in a business other than that of a Financial Institution;
+
+(e) the Entity primarily engages in financing and hedging transactions with, or for, Related Entities that are not Financial Institutions, and does not provide financing or hedging services to any Entity that is not a Related Entity, provided that the group of any such Related Entities is primarily engaged in a business other than that of a Financial Institution; or
+
+(f) the Entity meets all of the following requirements:
+
+(i) it is established and operated in its jurisdiction of residence exclusively for religious, charitable, scientific, artistic, cultural, athletic, or educational purposes; or it is established and operated in its jurisdiction of residence, and it is a professional organisation, business league, chamber of commerce, labour organisation, agricultural or horticultural organisation, civic league or an organisation operated exclusively for the promotion of social welfare;
+
+(ii) it is exempt from income tax in its jurisdiction of residence;
+
+(iii) it has no shareholders or members who have a proprietary or beneficial interest in its income or assets;
+
+(iv) the applicable laws of the Entity’s jurisdiction of residence or the Entity’s formation documents do not permit any income or assets of the Entity to be distributed to, or applied for the benefit of, a private person or non-charitable Entity other than pursuant to the conduct of the Entity’s charitable activities, or as payment of reasonable compensation for services rendered, or as payment representing the fair market value of property which the Entity has purchased; and
+
+(v) the applicable laws of the Entity’s jurisdiction of residence or the Entity’s formation documents require that, upon the Entity’s liquidation or dissolution, all of its assets be distributed to a Governmental Entity or other non-profit organisation, or escheat to the government of the Entity’s jurisdiction of residence or any political subdivision thereof.
+
+E. Excluded Person
+
+1\. ‘Excluded Person’ means:
+
+(a) an Entity the stock of which is regularly traded on one or more established securities markets;
+
+(b) any Entity that is a Related Entity of an Entity described in point (a);
+
+(c) a Governmental Entity;
+
+(d) an International Organisation;
+
+(e) a Central Bank; or
+
+(f) a Financial Institution other than an Investment Entity described in subparagraph E(5), point (b).
+
+2\. ‘Financial Institution’ means a Custodial Institution, a Depository Institution, an Investment Entity, or a Specified Insurance Company.
+
+3\. ‘Custodial Institution’ means any Entity that holds, as a substantial portion of its business, Financial Assets for the account of others. An Entity holds Financial Assets for the account of others as a substantial portion of its business if the Entity’s gross income attributable to the holding of Financial Assets and related financial services equals to or exceeds 20 % of the Entity’s gross income during the shorter of: (i) the three-year period that ends on 31 December (or the final day of a non-calendar year accounting period) prior to the year in which the determination is being made; or (ii) the period during which the Entity has been in existence.
+
+4\. ‘Depository Institution’ means any Entity that:
+
+(a) accepts deposits in the ordinary course of a banking or similar business; or
+
+(b) holds Electronic Money or Central Bank Digital Currencies for the benefit of customers.
+
+5\. ‘Investment Entity’ means any Entity:
+
+(a) that primarily conducts as a business one or more of the following activities or operations for or on behalf of a customer:
+
+(i) trading in money market instruments (cheques, bills, certificates of deposit, derivatives, etc.); foreign exchange; exchange, interest rate and index instruments; transferable securities; or commodity futures trading;
+
+(ii) individual and collective portfolio management; or
+
+(iii) otherwise investing, administering, or managing Financial Assets, money, or Reportable Crypto-Assets on behalf of other persons; or
+
+(b) the gross income of which is primarily attributable to investing, reinvesting, or trading in Financial Assets or Reportable Crypto-Assets, if the Entity is managed by another Entity that is a Depository Institution, a Custodial Institution, a Specified Insurance Company, or an Investment Entity described in subparagraph E(5), point (a).
+
+An Entity is treated as primarily conducting as a business one or more of the activities described in subparagraph E(5), point (a), or an Entity’s gross income is primarily attributable to investing, reinvesting, or trading in Financial Assets or Reportable Crypto-Assets for the purposes of subparagraph E(5), point (b), if the Entity’s gross income attributable to the relevant activities equals to or exceeds 50 % of the Entity’s gross income during the shorter of: (i) the three-year period ending on 31 December of the year preceding the year in which the determination is made; or (ii) the period during which the Entity has been in existence.
+
+For the purposes of subparagraph E(5), point (a)(iii), the term ‘otherwise investing, administering, or managing Financial Assets, money, or Reportable Crypto-Assets on behalf of other persons’ does not include the provision of services effectuating Exchange Transactions for or on behalf of customers. The term ‘Investment Entity’ does not include an Entity that is an Active Entity because it meets any of the criteria in subparagraph D(10), points (b) to (e).
+
+This subparagraph shall be interpreted in a manner consistent with the similar language set out in the definition of ‘financial institution’ in Article 3, point (2), of Directive (EU) 2015/849.
+
+6\. ‘Specified Insurance Company’ means any Entity that is an insurance company (or the holding company of an insurance company) that issues, or is obligated to make payments with respect to, a Cash Value Insurance Contract or an Annuity Contract.
+
+7\. ‘Governmental Entity’ means the government of a jurisdiction, any political subdivision of a jurisdiction (which, for the avoidance of doubt, includes a state, province, county, or municipality), or any wholly owned agency or instrumentality of a jurisdiction or of any one or more of the foregoing. This category is comprised of the integral parts, controlled entities, and political subdivisions of a jurisdiction.
+
+(a) An ‘integral part’ of a jurisdiction means any person, organisation, agency, bureau, fund, instrumentality, or other body, however designated, that constitutes a governing authority of a jurisdiction. The net earnings of the governing authority shall be credited to its own account or to other accounts of the jurisdiction, with no portion inuring to the benefit of any private person. An integral part does not include any individual who is a sovereign, official, or administrator acting in a private or personal capacity.
+
+(b) A ‘controlled entity’ means an Entity that is separate in form from the jurisdiction or that otherwise constitutes a separate juridical entity, provided that:
+
+(i) the Entity is wholly owned and controlled by one or more Governmental Entities directly or through one or more controlled entities;
+
+(ii) the Entity’s net earnings are credited to its own account or to the accounts of one or more Governmental Entities, with no portion of its income inuring to the benefit of any private person; and
+
+(iii) the Entity’s assets vest in one or more Governmental Entities upon dissolution.
+
+(c) Income does not inure to the benefit of private persons if such persons are the intended beneficiaries of a governmental programme, and the programme activities are performed for the general public with respect to the common welfare or relate to the administration of some phase of government. Notwithstanding the foregoing, however, income is considered to inure to the benefit of private persons if the income is derived from the use of a governmental entity to conduct a commercial business, such as a commercial banking business, that provides financial services to private persons.
+
+8\. ‘International Organisation’ means any international organisation or wholly owned agency or instrumentality thereof. This category includes any intergovernmental organisation (including a supranational organisation):
+
+(a) that is comprised primarily of governments;
+
+(b) that has in effect a headquarters or substantially similar agreement with the jurisdiction; and
+
+(c) the income of which does not inure to the benefit of private persons.
+
+9\. ‘Financial Asset’ includes a security (for example, a share of stock in a corporation; partnership or beneficial ownership interest in a widely held or publicly traded partnership or trust; note, bond, debenture, or other evidence of indebtedness), partnership interest, commodity, swap (for example, interest rate swaps, currency swaps, basis swaps, interest rate caps, interest rate floors, commodity swaps, equity swaps, equity index swaps, and similar agreements), Insurance Contract or Annuity Contract, or any interest (including a futures or forward contract or option) in a security, Reportable Crypto-Asset, partnership interest, commodity, swap, Insurance Contract, or Annuity Contract. The term ‘Financial Asset’ does not include a non-debt, direct interest in real property.
+
+10\. ‘Equity Interest’ means, in the case of a partnership that is a Financial Institution, either a capital or profits interest in the partnership. In the case of a trust that is a Financial Institution, an Equity Interest is considered to be held by any person treated as a settlor or beneficiary of all or a portion of the trust, or any other natural person exercising ultimate effective control over the trust. A Reportable Person will be treated as being a beneficiary of a trust if such Reportable Person has the right to receive directly or indirectly (for example, through a nominee) a mandatory distribution or may receive, directly or indirectly, a discretionary distribution from the trust.
+
+11\. ‘Insurance Contract’ means a contract (other than an Annuity Contract) under which the issuer agrees to pay an amount upon the occurrence of a specified contingency involving mortality, morbidity, accident, liability, or property risk.
+
+12\. ‘Annuity Contract’ means a contract under which the issuer agrees to make payments for a period of time determined in whole or in part by reference to the life expectancy of one or more individuals. The term also includes a contract that is considered to be an Annuity Contract in accordance with the law, regulation, or practice of the Member State or other jurisdiction in which the contract was issued, and under which the issuer agrees to make payments for a term of years.
+
+13\. ‘Cash Value Insurance Contract’ means an Insurance Contract (other than an indemnity reinsurance contract between two insurance companies) that has a Cash Value.
+
+14\. ‘Cash Value’ means the greater of (i) the amount that the policyholder is entitled to receive upon surrender or termination of the contract (determined without reduction for any surrender charge or policy loan) and (ii) the amount the policyholder can borrow under or with regard to the contract. Notwithstanding the foregoing, the term ‘Cash Value’ does not include an amount payable under an Insurance Contract:
+
+(a) solely by reason of the death of an individual insured under a life insurance contract;
+
+(b) as a personal injury or sickness benefit or other benefit providing indemnification of an economic loss incurred upon the occurrence of the event insured against;
+
+(c) as a refund of a previously paid premium (less cost of insurance charges whether or not actually imposed) under an Insurance Contract (other than an investment-linked life insurance or annuity contract) due to cancellation or termination of the contract, decrease in risk exposure during the effective period of the contract, or arising from the correction of a posting or similar error with regard to the premium for the contract;
+
+(d) as a policyholder dividend (other than a termination dividend) provided that the dividend relates to an Insurance Contract under which the only benefits payable are described in point (b); or
+
+(e) as a return of an advance premium or premium deposit for an Insurance Contract for which the premium is payable at least annually if the amount of the advance premium or premium deposit does not exceed the next annual premium that will be payable under the contract.
+
+F. Miscellaneous
+
+1\. ‘Customer Due Diligence Procedures’ means the customer due diligence procedures of a Reporting Crypto-Asset Service Provider pursuant to Directive (EU) 2015/849 or similar requirements to which such Reporting Crypto-Asset Service Provider is subject.
+
+2\. ‘Entity’ means a legal person or a legal arrangement, such as a corporation, partnership, trust, or foundation.
+
+3\. An Entity is a ‘Related Entity’ of another Entity if either Entity controls the other Entity, or the two Entities are under common control. For this purpose, control includes direct or indirect ownership of more than 50 % of the vote and value in an Entity.
+
+4\. ‘Branch’ means a unit, business or office of a Reporting Crypto-Asset Service Provider that is treated as a branch under the regulatory regime of a jurisdiction or that is otherwise regulated under the laws of a jurisdiction as separate from other offices, units, or branches of the Reporting Crypto-Asset Service Provider. All units, businesses, or offices of a Reporting Crypto-Asset Service Provider in a single jurisdiction shall be treated as a single branch.
+
+5\. ‘Effective Qualifying Competent Authority Agreement’ means an agreement between the competent authorities of a Member State and a non-Union jurisdiction that requires the automatic exchange of information corresponding to that specified in Section II, paragraph B, of this Annex, as determined by an implementing act in accordance with Article 8ad(11).
+
+6\. ‘Qualified Non-Union Jurisdiction’ means a non-Union jurisdiction that has in effect an Effective Qualifying Competent Authority Agreement with the competent authorities of all Member States which are identified as reportable jurisdictions in a list published by the non-Union jurisdiction.
+
+7\. ‘TIN’ means Taxpayer Identification Number (or functional equivalent in the absence of a Taxpayer Identification Number). The TIN is any number or code that a competent authority uses to identify a taxpayer.
+
+8\. ‘Identification Service’ means an electronic process made available free of charge by a Member State or the Union to a Reporting Crypto-Asset Service Provider for the purpose of ascertaining the identity and tax residence of a Crypto-Asset User.
+
+**SECTION V**
+
+**EFFECTIVE IMPLEMENTATION**
+
+A. Rules to enforce the collection and verification requirements laid down in Section III
+
+1\. Member States shall take the necessary measures to require Reporting Crypto-Asset Service Providers to enforce the collection and verification requirements under Section III in relation to their Crypto-Asset Users.
+
+2\. Where a Crypto-Asset User does not provide the information required under Section III after two reminders following the initial request by the Reporting Crypto-Asset Service Provider, but not prior to the expiration of 60 days, the Reporting Crypto-Asset Service Provider shall prevent the Crypto-Asset User from performing Reportable Transactions.
+
+B. Rules requiring Reporting Crypto-Asset Service Providers to keep records of the steps undertaken and any information relied upon for the performance of the reporting requirements and due diligence procedures and adequate measures to obtain those records
+
+1\. Member States shall take the necessary measures to require Reporting Crypto-Asset Service Providers to keep records of the steps undertaken and any information relied upon for the performance of the reporting requirements and due diligence procedures set out in Sections II and III, respectively. Such records shall remain available for a sufficiently long period of time and in any event for a period of not less than five years but not more than 10 years following the end of the period within which the Reporting Crypto-Asset Service Provider is required to report the information if the information is reportable pursuant to Section II.
+
+2\. Member States shall take the necessary measures, including the possibility of addressing an order for reporting to Reporting Crypto-Asset Service Providers, in order to ensure that all necessary information is reported to the competent authority so that the latter can comply with the obligation to communicate information in accordance with Article 8ad(3).
+
+C. Administrative procedures to verify compliance of Reporting Crypto-Asset Service Providers with the reporting requirements and due diligence procedures
+
+Member States shall lay down administrative procedures to verify the compliance of Reporting Crypto-Asset Service Providers with the reporting requirements and due diligence procedures set out in Sections II and III, respectively.
+
+D. Administrative procedures to follow up with Reporting Crypto-Asset Service Providers where incomplete or inaccurate information is reported
+
+Member States shall lay down procedures for following up with Reporting Crypto-Asset Service Providers where the reported information is incomplete or inaccurate.
+
+E. Administrative procedure for authorisation of a Crypto-Asset Service Provider
+
+The competent authority of a Member State providing authorisation to Crypto-Asset Service Providers in accordance with Regulation (EU) 2023/1114 shall communicate on a regular basis and at the latest before 31 December of the relevant calendar year or other appropriate reporting period to the competent authority under this Directive, if that is a different authority, a list of all authorised Crypto-Asset Service Providers.
+
+F. Administrative procedure for single registration of a Crypto-Asset Operator
+
+1\. A Crypto-Asset Operator that is a Reporting Crypto-Asset Service Provider as defined in Section IV, subparagraph B(3), shall register, pursuant to Article 8ad(7), with the competent authority of the Member State, determined in accordance with Section I, subparagraph A(2), point (a), (b), (c) or (d), or paragraph B, before the end of the period within which such Crypto-Asset Operator must report the information set out in Section II, paragraph B. If such Crypto-Asset Operator fulfils the conditions in Section I, subparagraph A(2), point (a), (b), (c) or (d), or paragraph B, respectively, in more than one Member State, it shall register, pursuant to Article 8ad(7), with the competent authority of one of those Member States, before the end of the period within which the Crypto-Asset Operator must report the information set out in Section II, paragraph B.
+
+Notwithstanding subparagraph F(1), first subparagraph, a Crypto-Asset Operator that is a Reporting Crypto-Asset Service Provider as defined in Section IV, subparagraph B(3), shall not register with the competent authority of a Member State in which such Crypto-Asset Operator is not required to complete the reporting and due diligence requirements set out in Sections II and III, respectively, pursuant to Section I, paragraph C, D, E, F, G or H, by virtue of such requirements being completed by such Crypto-Asset Operator in any other Member State.
+
+2\. Upon registration, the Crypto-Asset Operator shall communicate to the Member State of its single registration, determined in accordance with subparagraph F(1), the following information:
+
+(a) name;
+
+(b) postal address;
+
+(c) electronic addresses, including websites;
+
+(d) any TIN issued to the Crypto-Asset Operator;
+
+(e) Member States in which Reportable Users are residents within the meaning of Section III, paragraphs A and B;
+
+(f) any Qualified Non-Union Jurisdiction as referred to in Section I, paragraph C, D, E, F or H.
+
+3\. The Crypto-Asset Operator shall notify the Member State of single registration of any changes in the information provided under subparagraph F(2).
+
+4\. The Member State of single registration shall allocate an individual identification number to the Crypto-Asset Operator and shall notify it to the competent authorities of all Member States by electronic means.
+
+5\. The Member State of single registration shall be able to remove a Crypto-Asset Operator from the Crypto-Asset Operator register in the following cases:
+
+(a) the Crypto-Asset Operator notifies that Member State that it no longer has Reportable Users in the Union;
+
+(b) in the absence of a notification pursuant to point (a), there are grounds to assume that the activity of a Crypto-Asset Operator has ceased;
+
+(c) the Crypto-Asset Operator no longer meets the conditions laid down in Section IV, subparagraph B(2);
+
+(d) the Member State revoked the registration with its competent authority pursuant to subparagraph F(7).
+
+6\. Each Member State shall forthwith notify the Commission of any Crypto-Asset Operator within the meaning of Section IV, subparagraph B(2), that has Reportable Users resident in the Union while failing to register itself pursuant to this paragraph. Where a Crypto-Asset Operator does not comply with the obligation to register or where its registration has been revoked in accordance with subparagraph F(7) of this Section, Member States shall, without prejudice to Article 25a, take effective, proportionate and dissuasive measures to enforce compliance within their jurisdiction. The choice of such measures shall remain within the discretion of Member States. Member States shall also endeavour to coordinate their actions aimed at enforcing compliance, including the prevention of the Crypto-Asset Operator from being able to operate within the Union as a last resort.
+
+7\. Where a Crypto-Asset Operator does not comply with the obligation to report in accordance with Section II, paragraph B, of this Annex after two reminders by the Member State of single registration, the Member State of single registration shall, without prejudice to Article 25a, take the necessary measures to revoke the registration of the Crypto-Asset Operator made pursuant to Article 8ad(7). The registration shall be revoked not later than after the expiration of 90 days but not prior to the expiration of 30 days after the second reminder.
+
+## ANNEX VII — Filing rules and standard template for Top-up tax information return
+
+**SECTION I**
+
+**DEFINITIONS**
+
+For the purposes of this Annex, the following definitions apply:
+
+(1) ‘Implementing Member State’ means a Member State that has implemented either a qualified income inclusion rule (IIR) or a qualified undertaxed profit rule (UTPR), as defined in Article 3, points (18) and (43), respectively, of Directive (EU) 2022/2523, or both, for the given Reporting fiscal year;
+
+(2) ‘Qualified domestic top-up tax (QDTT)-only Member State’ means a Member State that has only implemented a qualified domestic top-up tax, as defined in Article 3, point (28), of Directive (EU) 2022/2523 for the given Reporting fiscal year;
+
+(3) ‘Top-up tax information return’ means the information return filed by an ultimate parent entity, designated filing entity, designated local entity or constituent entity for which a standard template is set out in Section IV of this Annex;
+
+(4) ‘General section’ means the section of the Top-up tax information return that contains general information on the MNE group as a whole, including its corporate structure and a high-level summary of the application of Directive (EU) 2022/2523, such section being consistent with Section 1 of the standard template for the Top-up tax information return;
+
+(5) ‘Jurisdictional sections’ means the sections of the Top-up tax information return that contain information on the detailed application of the qualified IIR, qualified UTPR and qualified domestic top-up tax in respect of each jurisdiction where the MNE group is operating, such sections being consistent with Sections 2 and 3 of the standard template for the Top-up tax information return;
+
+(6) ‘Reporting fiscal year’ means the fiscal year to which the Top-up tax information return relates.
+
+**SECTION II**
+
+**FILING REQUIREMENTS**
+
+The constituent entity filing the Top-up tax information return shall identify the relevant sections and the relevant Member States that the information shall be distributed to pursuant to the dissemination approach set out in Article 8ae.
+
+**SECTION III**
+
+**FILING FORMAT AND EXCHANGE OF INFORMATION FOR LARGE-SCALE DOMESTIC GROUPS WITH JOINT VENTURES**
+
+When a parent entity of a large-scale domestic group holds a direct or indirect ownership interest in a joint venture or joint venture affiliate that is subject to a qualified domestic top-up tax in a Member State other than the Member State where the large-scale domestic group is located, such large-scale domestic group shall use the standard template for the Top-up tax information return set out in Section IV of this Annex.
+
+In cases covered by the first subparagraph, Member States shall take the necessary measures to ensure that Article 8ae(2) and Article 9a apply.
+
+**SECTION IV**
+
+**DATA POINTS**
+
+**1\. MNE group information**
+
+**1.1. Identification of the filing constituent entity**
+
+| 1. UPE is the filing constituent entity | 2. Name of the filing constituent entity | 3. Tax identification number | 4. Role | 5. Jurisdiction where the filing constituent entity is located | 6. Recipient Jurisdictions for Exchange of Information (if relevant) |
+| --- | --- | --- | --- | --- | --- |
+| Yes/No |  |  |  |  |  |
+
+**1.2. MNE group general information**
+
+1.2.1. MNE group and Reporting fiscal year
+
+| 1. Name of the MNE group | 2. Start date of the Reporting fiscal year | 3. End date of the Reporting fiscal year | 4. Amended return |
+| --- | --- | --- | --- |
+|  |  |  | Yes/No |
+
+1.2.2. MNE general accounting information
+
+| 1. Consolidated financial statements of the UPE (type) | 2. Financial accounting standard used for the consolidated financial statements of the UPE | 3. Presentation currency used for the consolidated financial statements of the UPE (ISO code) |
+| --- | --- | --- |
+|  |  |  |
+
+**1.3. Corporate structure**
+
+1.3.1. Ultimate parent entity
+
+| 1. UPE Jurisdiction |  |
+| --- | --- |
+| 2. Applicable rules? |  |
+| 3. Name of the UPE |  |
+| 4. TIN of the UPE |  |
+| 5. TIN of the UPE in the filing jurisdiction (if different, and if any) |  |
+| 6. Status for purposes of the rules |  |
+| 7. If the UPE is an excluded entity – Type |  |
+| 8. The jurisdiction in which a dual resident parent entity is deemed to be subject to qualified IIR (if based on the rules that parent entity is deemed to be located in another jurisdiction where it is in not subject to qualified IIR) (if any) |  |
+
+1.3.2. Group entities (other than the UPE) and members of joint venture groups
+
+1.3.2.1. Constituent entities and members of joint venture groups
+
+<tbody><tr><td>Changes</td><td>1. Changes from previous Reporting fiscal year?</td><td>Yes/No</td></tr>
+<tr><td rowspan="2">Jurisdiction</td><td>2. Jurisdiction</td><td>  </td></tr>
+<tr><td>3. Applicable rules?</td><td>  </td></tr>
+<tr><td rowspan="4">Identification of the constituent entity, joint venture or joint venture affiliate</td><td>4. Name of constituent entity, joint venture or joint venture affiliate</td><td>  </td></tr>
+<tr><td>5. TIN</td><td>  </td></tr>
+<tr><td>6 TIN for filing jurisdiction (if any)</td><td>  </td></tr>
+<tr><td>7. Status for purposes of the rules</td><td>  </td></tr>
+<tr><td>Ownership structure of the constituent entity, joint venture or joint venture affiliate</td><td>For each entity holding ownership interests in the constituent entity, joint venture or joint venture affiliate: 8. Type  9. TIN (for constituent entities or members of joint venture groups)  10. Ownership interest held (percentage) </td><td>  </td></tr>
+<tr><td rowspan="3">If the constituent entity is a partially owned parent entity or an intermediate parent entity, is the entity required to apply a qualified IIR?</td><td>11. Parent entity status</td><td>  </td></tr>
+<tr><td>12. If the intermediate parent entity shall not apply IIR, because the UPE is subject to qualified IIR or there is another intermediate parent entity that owns a controlling interest in it and is subject to qualified IIR, identify the UPE or the other intermediate parent entity (TIN)</td><td>  </td></tr>
+<tr><td>13. If the partially owned parent entity shall not apply IIR, because another partially owned parent entity that is subject to qualified IIR holds 100 % of its ownership interests, identify the other partially owned parent entity required to apply a qualified IIR (TIN)</td><td>  </td></tr>
+<tr><td rowspan="3">Is UTPR applicable in respect of the entity?</td><td>14. Initial phase of international activity applicable?</td><td>Yes/No</td></tr>
+<tr><td>15. Aggregate ownership interests (respectively allocable share of top-up taxes) of parent entities required to apply a qualified IIR in respect of the constituent entity (respectively member of joint venture group) (in percentage)</td><td>  </td></tr>
+<tr><td>16. Are the UPE's ownership interests in the constituent entity (respectively UPE’s allocable share of top-up tax for the member of joint venture group) greater than the aggregate ownership interests (respectively allocable share) of parent entities required to apply a qualified IIR in that constituent entity (respectively member of joint venture group)?</td><td>Yes/No</td></tr>
+</tbody>
+
+1.3.2.2. Excluded entities
+
+| 1. Changes from previous Reporting fiscal year? | Yes/No |
+| --- | --- |
+| 2. Name of the excluded entity |  |
+| 3. Type of the excluded entity |  |
+
+1.3.3. Changes in the corporate structure that occurred during the Reporting fiscal year
+
+<tbody><tr><td colspan="8">Were changes in the corporate structure that occurred during the Reporting fiscal year not reported because they neither affected the effective tax rate computation or the computation or allocation of top-up tax?</td><td>Yes/No</td></tr>
+<tr><td>1. Name of the constituent entity (or other entity of the MNE group) or member of joint venture group</td><td>2. TIN</td><td>3. Effective date of the change</td><td>4. Status before the change</td><td>5. Status after the change</td><td>6. Entities holding ownership interests in that constituent entity (or other entity) or member of joint venture group before or after the change</td><td>7. Ownership interests held in that constituent entity (or other entity) or member of joint venture group before the change (Percentage)</td><td colspan="2">8. Ownership interests held in that constituent entity (or other entity) or member of joint venture group after the change (Percentage)</td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td colspan="2">  </td></tr>
+</tbody>
+
+**1.4. High-level summary of information**
+
+| 1. Name of the jurisdiction | 2. Type of subgroup (if any) | 3. Identification of subgroup (if any) | 4. Name(s) of jurisdiction(s) with taxing rights | 5. Safe harbour or exclusion applied? | 6. Effective tax rate range | 7. Has application of substance-based income exclusion resulted in no top- up tax arising? | 8. Top-up tax payable (qualified domestic top-up tax) – range | 9. Top-up tax payable (qualified IIR/ qualified UTPR) – range |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  |  |  |  | [Insert relevant option] | [Insert relevant option] | Yes/No | [Insert relevant option] | [Insert relevant option] |
+
+**2\. Jurisdictional safe harbours and exclusions**
+
+**2.1. Characteristics of the jurisdiction**
+
+| 1. Name of the jurisdiction |  |
+| --- | --- |
+| 2. Type of subgroup (if any) |  |
+| 3. Identification of subgroup (if any) |  |
+| 4. Jurisdiction with taxing rights |  |
+| 5. Existence of reportable differences (Yes/No) |  |
+
+**2.2. Jurisdictional exceptions applicable in respect of this jurisdiction (top-up tax reduced to zero)**
+
+2.2.1. Safe harbour jurisdiction election
+
+2.2.1.1. Safe harbour election
+
+| 1. Safe Harbour elected | [insert the relevant option] |
+| --- | --- |
+
+2.2.1.2. Permanent safe harbours
+
+ Simplified calculation for non-material constituent entities
+
+|  | 1. Total revenue of all non-material constituent entities in the jurisdiction | 2. Aggregate simplified tax of all non-material constituent entities in the jurisdiction |
+| --- | --- | --- |
+| a. Reporting fiscal year |  |  |
+| b. 1st preceding fiscal year (if applicable) |  | n.a. |
+| c. 2nd preceding fiscal year (if applicable) |  | n.a. |
+| d. Average of the three fiscal years (if applicable) |  | n.a. |
+
+2.2.1.3. Transitional safe harbours
+
+(a) Transitional Country-by-Country Reporting (CbCR) safe harbour
+
+| 1. Total revenue |  |
+| --- | --- |
+| 2. Profit (loss) before income tax |  |
+| 3. Simplified covered taxes |  |
+
+(b) Transitional UTPR safe harbour
+
+| 1. Corporate income tax rate |  |
+| --- | --- |
+
+2.2.2. Election for de minimis exclusion
+
+ Election to apply the de minimis exclusion for the Reporting fiscal year
+
+ Simplified calculations for non-material constituent entities – constituent entities that are not non-material constituent entities
+
+|  | 1. Revenue (financial accounts) | 2. Qualifying revenue | 3. Financial accounting net income or loss | 4. Qualifying income or loss |
+| --- | --- | --- | --- | --- |
+| a. Reporting fiscal year |  |  |  |  |
+| b. 1st preceding fiscal year (if applicable) |  |  |  |  |
+| c. 2nd preceding fiscal year (if applicable) |  |  |  |  |
+| d. Average of the three fiscal years |  |  |  |  |
+
+**2.3. MNE group in the initial phase of international activity (if applicable)**
+
+<tbody><tr><td>1. First day of the first fiscal year in which the MNE group originally falls within the scope of the rules</td><td>  </td></tr>
+<tr><td>2. Reference jurisdiction</td><td>  </td></tr>
+<tr><td>3. Net book value of tangible assets in reference jurisdiction for the fiscal year in which the MNE group originally falls within the scope of the rules</td><td>  </td></tr>
+<tr><td>4. Number of jurisdictions where the MNE group has constituent entities for the fiscal year in which the MNE group originally falls within the scope of the rules</td><td>  </td></tr>
+<tr><td rowspan="2">5. Tangible assets of constituent entities located outside the reference jurisdiction for the fiscal year in which the MNE group originally falls within the scope of the rules</td><td>a. Jurisdiction</td></tr>
+<tr><td>b. Net book values of tangible assets of all constituent entities located in each jurisdiction</td></tr>
+<tr><td>6. Number of jurisdictions where the MNE group has constituent entities during the Reporting fiscal year</td><td>  </td></tr>
+<tr><td>7. Sum of the net book values of tangible assets of all constituent entities located in other jurisdictions than the reference jurisdiction during the Reporting fiscal year</td><td>  </td></tr>
+</tbody>
+
+**3\. Computations**
+
+**3.1. Characteristics of the jurisdiction**
+
+| 1. Name of the jurisdiction |  |
+| --- | --- |
+| 2. Type of subgroup (if any) |  |
+| 3. Identification of subgroup (if any) for the effective tax rate and top-up tax computation |  |
+| 4. Jurisdiction with taxing rights |  |
+| 5. Effective tax rate |  |
+| 6. Adjusted covered taxes |  |
+| 7. Net qualifying income or loss |  |
+| 8. Substance-based income exclusion |  |
+| 9. Additional current top-up tax |  |
+| 10. Top-up tax amount under domestic legislation |  |
+| 11. Elections |  |
+| 12. Aggregate current tax expense with respect to covered taxes after allocations of covered taxes incurred by certain types of constituent entities |  |
+| 13. Qualified refundable tax credits or marketable transferable tax credits (tax expense) |  |
+| 14. Other tax credits (tax expense) |  |
+| 15. Deferred tax expense amount |  |
+| 16. Qualified refundable tax credits or marketable transferable tax credits (income) |  |
+| 17. Excess negative tax expense carry-forward |  |
+| 18. Transition rules |  |
+
+**3.2. Effective tax rate computation**
+
+3.2.1. Effective tax rate
+
+| a. Financial accounting net income or loss | b. Net qualifying income or loss | c. Income tax expense | d. Adjusted covered taxes | e. Effective tax rate |
+| --- | --- | --- | --- | --- |
+|  | [A] |  | [B] | [C]=[B]/[A] |
+
+3.2.1.1. Computation of the qualifying income or loss
+
+| 1. Aggregate financial accounting net income or loss amount after allocations (All constituent entities in the jurisdiction) |  |
+| --- | --- |
+| 2. Adjustments | Net amount |
+| (a) Net taxes expense |  |
+| (b) Excluded dividends |  |
+| (c) Excluded equity gain or loss |  |
+| (d) Included revaluation method gain or loss |  |
+| (e) Gain or loss from disposition of assets and liabilities excluded due to reorganisation |  |
+| (f) Asymmetric foreign currency gains or losses |  |
+| (g) Policy disallowed expenses |  |
+| (h) Prior period errors |  |
+| (i) Changes in accounting principles |  |
+| (j) Accrued pension expense |  |
+| (k) Debt releases |  |
+| (l) Stock-based compensation |  |
+| (m) Arm’s length adjustments |  |
+| (n) Qualified refundable tax credit or marketable transferable tax credit |  |
+| (o) Election for gains and losses using realisation principle |  |
+| (p) Election for adjusted asset gain |  |
+| (q) Intragroup financing arrangement expense |  |
+| (r) Election for intragroup transactions in same jurisdiction |  |
+| (s) Insurance company taxes charged to policyholders |  |
+| (t) Increase/decrease to equity attributed to additional tier one and restricted tier one capital distributions paid/payable or received/receivable |  |
+| (u) Constituent entities joining and leaving an MNE group |  |
+| (v) Reduction of qualifying income of the UPE that is a flow-through entity |  |
+| (w) Reduction of qualifying income of the UPE that is subject to a deductible dividend regime |  |
+| (x) Taxable distribution method election |  |
+| (y) International shipping income |  |
+| (z) Transactions between constituent entities |  |
+| 3. Net qualifying income or loss of the jurisdiction |  |
+
+3.2.1.2. Computation of adjusted covered taxes
+
+(a) Total amount of adjusted covered taxes
+
+| 1. Aggregate current tax expense with respect to covered taxes after allocations (All constituent entities in the jurisdiction) |  |
+| --- | --- |
+| 2. Adjustments | Net amount |
+| (a) Covered tax accrued as an expense in the profit before taxation in the financial accounts |  |
+| (b) Qualifying loss deferred tax asset established or used |  |
+| (c) Covered taxes for uncertain tax position recorded as a reduction to covered taxes in prior year |  |
+| (d) Qualified refundable tax credit or marketable transferable tax credits recorded as a reduction to current tax expense |  |
+| (e) Qualified flow-through tax benefits of qualified ownership interests |  |
+| (f) Current tax expense on income excluded from qualifying income or loss |  |
+| (g) Non-qualified refundable tax credit, non-marketable transferable tax credit or other tax credits not recorded as a reduction to current tax expense |  |
+| (h) Covered taxes refunded or credited (except for any qualified refundable tax credit, or marketable transferable tax credits) not treated as an adjustment to current tax expense |  |
+| (i) Current tax expense related to uncertain tax position |  |
+| (j) Current tax expense not expected to be paid within three years |  |
+| (k) Post-filing adjustments |  |
+| (l) Covered taxes relating to net asset gain or net asset loss |  |
+| (m) Reduction of covered taxes of the UPE that is a flow-through entity |  |
+| (n) Covered taxes for qualifying income of the UPE that is reduced under a deductible dividend regime |  |
+| (o) Deemed distribution tax |  |
+| (p) Taxable distribution method election |  |
+| (q) Total deferred tax adjustment amount |  |
+| (r) Increase or decrease in covered taxes recorded in equity or other comprehensive income relating to amounts included in qualifying income or loss that will be subject to tax under local tax rules |  |
+| (s) Excess negative tax expense carry-forward generated |  |
+| (t) Decrease in covered taxes (but not below zero) by the remaining balance of the excess negative tax expense carry-forward |  |
+| 3. Adjusted covered taxes |  |
+
+(b) Excess negative tax expense carry-forward
+
+| 1. Balance from prior years | [A] |
+| --- | --- |
+| 2. Excess negative tax expense carry-forward generated in the Reporting fiscal year | [B] |
+| 3. Excess negative tax expense carry-forward utilised for the Reporting fiscal year | [C] |
+| 4. Excess negative tax expense carry-forward remaining for subsequent years | [D]=[A]+[B]-[C] |
+
+(c) Transitional blended controlled foreign company (CFC) regime calculation (if any)
+
+<tbody><tr><td>1. CFC jurisdictions</td><td>2. Subgroup</td><td>3. Aggregated taxes allocated to that subgroup under a blended CFC tax regime</td></tr>
+<tr><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>  </td><td>  </td><td>  </td></tr>
+<tr><td colspan="2">Total</td><td>  </td></tr>
+</tbody>
+
+3.2.2. Jurisdictional computations relating to deferred tax accounting
+
+3.2.2.1. Deferred tax adjustments
+
+(a) High-level summary
+
+<tbody><tr><td rowspan="4">1. Deferred tax expense for purposes of the rules before recasting and adjustments</td><td>(a) Deferred tax expense in the financial accounts</td><td>[A]</td></tr>
+<tr><td>(b) Deferred tax expense in relation to assets or liabilities for which the carrying value based on the rules is different to the accounting carrying value</td><td>[B]</td></tr>
+<tr><td>(c) Deferred tax expense based on the carrying value of assets or liabilities as determined based on the rules</td><td>[C]</td></tr>
+<tr><td>(d) Deferred tax expense for purposes of the rules before recasting and adjustments</td><td>[D]=[A]-[B]+[C]</td></tr>
+<tr><td colspan="2">2. Total amount of the adjustments</td><td>[E]</td></tr>
+<tr><td rowspan="3">3. Recasting the deferred tax expense to the minimum tax rate</td><td>(e) Deferred tax expense for purposes of the rules before recasting</td><td>[F]=[D]+[E]</td></tr>
+<tr><td>(f) Difference between deferred tax expense recorded at a lower tax rate than the minimum tax rate and recast at the minimum tax rate</td><td>[G]</td></tr>
+<tr><td>(g) Difference between deferred tax expense recorded at a higher tax rate than the minimum tax rate and recast at the minimum tax rate</td><td>[H]</td></tr>
+<tr><td colspan="2">4. Total deferred tax adjustment amount</td><td>[I]=[F]+[G]-[H]</td></tr>
+</tbody>
+
+(b) Breakdown of the adjustments
+
+| 1. Adjustments to deferred tax expense | Net amount |
+| --- | --- |
+| (a) Deferred tax expense related to items excluded from qualifying income or loss |  |
+| (b) Deferred tax expense related to disallowed accruals |  |
+| (c) Deferred tax expense related to unclaimed accruals |  |
+| (d) Valuation adjustment or accounting recognition adjustment related to a deferred tax asset |  |
+| (e) Deferred tax expense arising from a re-measurement related to changes in the tax rate |  |
+| (f) Deferred tax expense related to the generation and use of tax credits |  |
+| (g) Substitute loss carry-forward deferred tax asset or deemed substitute loss carry-forward deferred tax asset |  |
+| (h) Disallowed accruals or unclaimed accruals paid during the fiscal year |  |
+| (i) Recapture deferred tax liability paid during the fiscal year |  |
+| (j) Recognition of a loss deferred tax asset not included in the financials |  |
+| (k) Deferred tax expense adjustment resulting from a reduction to a tax rate |  |
+| (l) Deferred tax expense adjustment resulting from an increase to a tax rate |  |
+| (m) Constituent entities joining and leaving an MNE group |  |
+| (n) Deferred tax expense of the UPE that is a flow-through entity |  |
+| (o) Deferred tax expense of the UPE that is subject to deductible dividend regime |  |
+| (p) Deferred tax adjustment resulting from transactions between constituent entities |  |
+| 2. Total amount of the adjustments | [E] |
+
+(c) Loss carry-backs
+
+|  | 1. Deemed deferred tax assets attributable to loss carry backs | 2. Covered tax refund relating to loss carry backs |
+| --- | --- | --- |
+| a. Amount attributed to prior fiscal year X |  |  |
+| b. Amount attributed to prior fiscal year Y, etc. |  |  |
+| c. Total |  |  |
+
+3.2.2.2. Recapture mechanism
+
+(a) Annual amount of deferred tax liabilities subject to recapture rule
+
+| 1. Amount of deferred tax liabilities subject to recapture rule claimed in the fifth fiscal year preceding the Reporting fiscal year |  |
+| --- | --- |
+| 2. Amount of recaptured deferred tax liability determined in the Reporting fiscal year in relation to the fifth fiscal year preceding the Reporting fiscal year |  |
+| 3. Amount of deferred tax liabilities subject to recapture rule claimed for the Reporting fiscal year |  |
+
+(b) Aggregate deferred tax liability recapture accounts
+
+|  | 1. Reporting fiscal year | 2. Prior fiscal year |
+| --- | --- | --- |
+| a. Amount of pre-transition year deferred tax liabilities |  |  |
+| b. Amount of outstanding balance |  |  |
+| c. Amount of unjustified balance |  |  |
+
+3.2.2.3. Transition rules
+
+| 1. Transition year |  |
+| --- | --- |
+
+(a) Deferred tax assets and deferred tax liabilities at the beginning of the transition year
+
+<tbody><tr><td colspan="5">Deferred tax liabilities</td></tr>
+<tr><td colspan="3">1. Deferred tax liabilities at the beginning of the transition year</td><td colspan="2">2. Deferred tax liabilities recast at the minimum tax rate (if applicable)</td></tr>
+<tr><td colspan="3">  </td><td colspan="2">  </td></tr>
+<tr><td colspan="5">Deferred tax assets</td></tr>
+<tr><td>3. Deferred tax assets at the beginning of the transition year</td><td>4. Deferred tax assets recast at the minimum tax rate (if applicable)</td><td colspan="2">5. Deferred tax assets arising from excluded items</td><td>6. Deferred tax assets taken into account for purposes of the rules</td></tr>
+<tr><td>[A]</td><td>[B]</td><td colspan="2">[C]</td><td>[D] = [[A] or [B], if applicable] - [C]</td></tr>
+</tbody>
+
+(b) Transfer of assets after 30 November 2021 and before the commencement of a transition year
+
+| 1. Jurisdiction of the disposing entities | 2. Tax paid in respect of the transaction(s) | 3. Net deferred tax asset or liability reflected in the financial accounts of the disposing constituent entity(ies) | 4. Carrying value of the transferred assets for purposes of the rules | 5. Net deferred tax asset or liability is determined with respect to the transferred assets for purposes of the rules for acquiring constituent entity(ies) |
+| --- | --- | --- | --- | --- |
+|  |  |  |  |  |
+
+3.2.3. Jurisdictional elections (if any)
+
+3.2.3.1. Jurisdictional elections
+
+(a) Elections
+
+<tbody><tr><td colspan="4">1. Annual elections</td><td colspan="2">  </td></tr>
+<tr><td colspan="4">a. Aggregate asset gain election</td><td colspan="2"></td></tr>
+<tr><td colspan="4">b. Immaterial decrease in covered taxes election</td><td colspan="2"></td></tr>
+<tr><td colspan="4">c. Election not to apply the substance-based income exclusion</td><td colspan="2"></td></tr>
+<tr><td colspan="4">d. Negative tax expense carry-forward</td><td colspan="2"></td></tr>
+<tr><td colspan="2">2. Five-year elections</td><td colspan="3">3. Election year</td><td>4. Revocation year</td></tr>
+<tr><td colspan="2">e. Equity investment inclusion election</td><td colspan="3">  </td><td>  </td></tr>
+<tr><td colspan="2">f. Stock-based compensation election</td><td colspan="3">  </td><td>  </td></tr>
+<tr><td colspan="2">g. Realisation-principle election</td><td colspan="3">  </td><td>  </td></tr>
+<tr><td colspan="2">h. Intra-group transactions election</td><td colspan="3">  </td><td>  </td></tr>
+<tr><td colspan="2">i. Election not to allocate cross-border deferred tax</td><td colspan="3">  </td><td>  </td></tr>
+<tr><td>5. Other elections</td><td colspan="2">6. Election year</td><td colspan="3">7. Revocation year</td></tr>
+<tr><td>j. Qualifying loss election</td><td colspan="2">  </td><td colspan="3">  </td></tr>
+</tbody>
+
+(b) Information requirements related to jurisdictional elections
+
+| 1. Inclusion of equity gain or loss with respect to an equity investment inclusion election |  |
+| --- | --- |
+| 2. Balance of the owner’s investment in a qualified ownership interest from prior years | [A] |
+| 3. Additions to the owner’s investment in a qualified ownership interest | [B] |
+| 4. Reductions to the owner’s investment in a qualified ownership interest | [C] |
+| 5. Outstanding balance of the owner’s investment in a qualified ownership interest | [D]=[A]+[B]-[C] |
+
+3.2.3.2. Deemed distribution tax election
+
+| 1. Deemed distribution tax election |  |
+| --- | --- |
+
+(a) Recapture mechanism
+
+<tbody><tr><td rowspan="2">1. Fiscal year</td><td rowspan="2">2. Amount of deemed distribution tax</td><td colspan="4">3. Deemed distribution tax paid or used</td><td rowspan="2">4. Outstanding balance of a deemed distribution tax recapture account</td></tr>
+<tr><td>3rd preceding fiscal year</td><td>2nd preceding fiscal year</td><td>1st preceding fiscal year</td><td>Reporting fiscal year</td></tr>
+<tr><td>4th preceding fiscal year</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>3rd preceding fiscal year</td><td>  </td><td>Not applicable</td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>2nd preceding fiscal year</td><td>  </td><td>Not applicable</td><td>Not applicable</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>1st preceding fiscal year</td><td>  </td><td>Not applicable</td><td>Not applicable</td><td>Not applicable</td><td>  </td><td>  </td></tr>
+<tr><td>Reporting fiscal year</td><td>  </td><td>Not applicable</td><td>Not applicable</td><td>Not applicable</td><td>Not applicable</td><td>Not applicable</td></tr>
+</tbody>
+
+(b) Recalculation of effective tax rate and top-up tax
+
+| 1. Reduction to the adjusted covered taxes for a prior fiscal year | 2. Incremental top-up tax | 3. Disposition recapture ratio |
+| --- | --- | --- |
+| [A] | [B] | [C] |
+
+3.2.4. Constituent entity computations
+
+(a) Election for the transitional simplified jurisdictional reporting framework
+
+| 1. Does the MNE group elect to apply the transitional simplified jurisdictional reporting framework? | Yes/No |
+| --- | --- |
+
+(b) Aggregated reporting for tax consolidated groups
+
+| 1. Tax consolidated group (TIN) | 2. Consolidated entities (TIN) |
+| --- | --- |
+|  |  |
+
+3.2.4.1. Qualifying income or loss
+
+(a) Adjustments to the financial accounting net income or loss
+
+<tbody><tr><td>1. Constituent entity or member of joint venture group (TIN)</td><td colspan="2">  </td></tr>
+<tr><td>2. Financial accounting net income or loss amount after allocations</td><td colspan="2">  </td></tr>
+<tr><td>3. Adjustments</td><td>Additions</td><td>Reductions</td></tr>
+<tr><td>(a) Net taxes expense</td><td>  </td><td>  </td></tr>
+<tr><td>(b) Excluded dividends</td><td>  </td><td>  </td></tr>
+<tr><td>(c) Excluded equity gain or loss</td><td>  </td><td>  </td></tr>
+<tr><td>(d) Included revaluation method gain or loss</td><td>  </td><td>  </td></tr>
+<tr><td>(e) Gain or loss from disposition of assets and liabilities excluded due to reorganisation</td><td>  </td><td>  </td></tr>
+<tr><td>(f) Asymmetric foreign currency gains or losses</td><td>  </td><td>  </td></tr>
+<tr><td>(g) Policy disallowed expenses</td><td>  </td><td>  </td></tr>
+<tr><td>(h) Prior period errors</td><td>  </td><td>  </td></tr>
+<tr><td>(i) Changes in accounting principles</td><td>  </td><td>  </td></tr>
+<tr><td>(j) Accrued pension expense</td><td>  </td><td>  </td></tr>
+<tr><td>(k) Debt releases</td><td>  </td><td>  </td></tr>
+<tr><td>(l) Stock-based compensation</td><td>  </td><td>  </td></tr>
+<tr><td>(m) Arm’s length adjustments</td><td>  </td><td>  </td></tr>
+<tr><td>(n) Qualified refundable tax credit or marketable transferable tax credits</td><td>  </td><td>  </td></tr>
+<tr><td>(o) Election for gains and losses using realisation principle</td><td>  </td><td>  </td></tr>
+<tr><td>(p) Election for adjusted asset gain</td><td>  </td><td>  </td></tr>
+<tr><td>(q) Intragroup financing arrangement expense</td><td>  </td><td>  </td></tr>
+<tr><td>(r) Election for intragroup transactions in same jurisdiction</td><td>  </td><td>  </td></tr>
+<tr><td>(s) Insurance company taxes charged to policyholders</td><td>  </td><td>  </td></tr>
+<tr><td>(t) Increase/decrease to equity attributed to additional tier one and restricted tier one capital distributions paid/payable or received/receivable</td><td>  </td><td>  </td></tr>
+<tr><td>(u) Constituent entities joining and leaving an MNE group</td><td>  </td><td>  </td></tr>
+<tr><td>(v) Reduction of qualifying income of the UPE that is a flow-through entity</td><td>  </td><td>  </td></tr>
+<tr><td>(w) Reduction of qualifying income of the UPE that is subject to a deductible dividend regime</td><td>  </td><td>  </td></tr>
+<tr><td>(x) Taxable distribution method election</td><td>  </td><td>  </td></tr>
+<tr><td>(y) International shipping income</td><td>  </td><td>  </td></tr>
+<tr><td>(z) Transactions between constituent entities</td><td>  </td><td>  </td></tr>
+<tr><td>4. Qualifying income or loss of the constituent entity or member of joint venture group</td><td colspan="2">  </td></tr>
+</tbody>
+
+(b) Cross-border allocation of income or loss between a main entity and a permanent establishment and of a flow-through entity
+
+| 1. Constituent entity or members of joint venture groups located in this jurisdiction or stateless constituent entity (TIN) | 2. Financial accounting net income or loss before the adjustment | 3. Basis for the adjustment | 4. Other constituent entity or member of joint venture group (TIN) | 5. Jurisdiction of other constituent entity or member of joint venture group (ISO) | 6. Additions to this constituent entity | 7. Reductions to this constituent entity | 8. Financial accounting net income or loss after the adjustment |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+|  |  |  |  |  |  |  |  |
+
+(c) Cross-border adjustments
+
+| 1. Constituent entity or member of joint venture group (TIN) | 2. Basis for the adjustment | 3. Other constituent entity or member of joint venture group (TIN) | 4. Jurisdiction of other constituent entity (ISO) | 5. Additions to this constituent entity | 6. Reductions to this constituent entity |
+| --- | --- | --- | --- | --- | --- |
+|  |  |  |  |  |  |
+
+(d) Adjustments to the qualifying income of the UPE that is a flow-through entity or is subject to a deductible dividend regime
+
+| 1. Constituent entity (or member of joint venture group) located in this jurisdiction (TIN) | 2. Basis for reduction | 3. Identification of holders of ownership interests or dividend recipients | 4. Ownership interest directly held (in percentage) | 5. Reductions for this constituent entity |
+| --- | --- | --- | --- | --- |
+|  |  |  |  |  |
+
+3.2.4.2. Adjusted covered taxes
+
+(a) Adjustments to the current tax expense in the financial accounts
+
+| 1. Constituent entity or member of joint venture group (TIN) |  |  |
+| --- | --- | --- |
+| 2. Current tax expense with respect to covered taxes after allocations |  |  |
+| 3. Adjustments | Additions | Reductions |
+| (a) Covered tax accrued as an expense in the profit before taxation in the financial accounts |  |  |
+| (b) Covered taxes for uncertain tax position recorded as a reduction to covered taxes in prior year |  |  |
+| (c) Qualified refundable tax credit or marketable transferable tax credits recorded as a reduction to current tax expense |  |  |
+| (d) Qualified flow-through tax benefits of qualified ownership interests |  |  |
+| (e) Current tax expense on income excluded from qualifying income or loss |  |  |
+| (f) Non-qualified refundable tax credit, non-marketable transferable tax credits or other tax credits not recorded as a reduction to current tax expense |  |  |
+| (g) Covered taxes refunded or credited (except for any qualified refundable tax credit, or marketable transferable tax credits) not treated as an adjustment to current tax expense |  |  |
+| (h) Current tax expense related to uncertain tax position |  |  |
+| (i) Current tax expense not expected to be paid within three years |  |  |
+| (j) Post-filing adjustments |  |  |
+| (k) Covered taxes relating to net asset gain or net asset loss |  |  |
+| (l) Reduction of covered taxes of the UPE that is a flow-through entity |  |  |
+| (m) Covered taxes for qualifying income of the UPE that is reduced under a deductible dividend regime |  |  |
+| (n) Deemed distribution tax |  |  |
+| (o) Taxable distribution method election |  |  |
+| (p) Total deferred tax adjustment amount |  |  |
+| (q) Increase or decrease in covered taxes recorded in equity or other comprehensive income relating to amounts included in qualifying income or loss that will be subject to tax under local tax rules |  |  |
+| 4. Adjusted covered taxes |  |  |
+
+(b) Cross allocation of taxes
+
+| 1. Constituent entity located in this jurisdiction or stateless constituent entity (or member of joint venture group) (TIN) | 2. Covered taxes of the constituent entity (or member of joint venture group) before the adjustment | 3. Basis for the adjustment | 4. Other constituent entity (or member of joint venture group) (TIN) | 5. Jurisdiction of other constituent entity (or member of joint venture group) (ISO) | 6. Additions to this constituent entity | 7. Reductions to this constituent entity | 8. Covered taxes of the constituent entity (or member of joint venture group) after the adjustment |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+|  |  |  |  |  |  |  |  |
+
+(c) Deferred tax expense
+
+| 1. Constituent entity or member of joint venture group (TIN) |  |  |
+| --- | --- | --- |
+| 2. Deferred tax expense amount for purposes of the rules |  |  |
+| 3. Adjustments to deferred tax expense | Additions | Reductions |
+| (a) Deferred tax expense related to items excluded from qualifying income or loss |  |  |
+| (b) Deferred tax expense related to disallowed accruals |  |  |
+| (c) Deferred tax expense related to unclaimed accruals |  |  |
+| (d) Valuation adjustment or accounting recognition adjustment related to a deferred tax asset |  |  |
+| (e) Deferred tax expense arising from a re-measurement related to changes in the tax rate |  |  |
+| (f) Deferred tax expense related to the generation and use of tax credits |  |  |
+| (g) Substitute loss carry forward DTA or deemed substitute loss carry forward DTA |  |  |
+| (h) Disallowed accruals or unclaimed accruals paid during the fiscal year |  |  |
+| (i) Recapture deferred tax liability paid during the fiscal year |  |  |
+| (j) Recognition of a loss deferred tax asset not included in the financials |  |  |
+| (k) Deferred tax expense adjustment resulting from a reduction to a tax rate |  |  |
+| (l) Deferred tax expense adjustment resulting from an increase to a tax rate |  |  |
+| (m) Constituent entities joining and leaving an MNE group |  |  |
+| (n) Deferred tax expense of the UPE that is a flow-through entity |  |  |
+| (o) Deferred tax expense of the UPE that is subject to deductible dividend regime |  |  |
+| (p) Deferred tax adjustment resulting from transactions between constituent entities |  |  |
+| 4. Difference between deferred tax expense recorded at a lower tax rate than the minimum tax rate and recast at minimum tax rate |  |  |
+| 5. Difference between deferred tax expense recorded at a higher tax rate than the minimum tax rate and recast at minimum tax rate |  |  |
+| 6. Total deferred tax adjustment amount |  |  |
+
+3.2.4.3. Constituent entity elections (or elections that apply to a joint venture group)
+
+<tbody><tr><td colspan="4">1. Constituent entities (or member of joint venture group) for which an election is made (TIN)</td><td colspan="3">  </td></tr>
+<tr><td rowspan="3">2. Annual elections</td><td colspan="3">a. Election to apply the simplified calculations for non-material constituent entities (simplified calculations safe harbour)</td><td colspan="3">  </td></tr>
+<tr><td colspan="3">b. Debt release election</td><td colspan="3">  </td></tr>
+<tr><td colspan="3">c. Unclaimed accrual election</td><td colspan="3">  </td></tr>
+<tr><td rowspan="7">3. Five-year elections</td><td colspan="3">  </td><td>4. Election year</td><td>5. Revocation year</td><td rowspan="6">  </td></tr>
+<tr><td colspan="3">d. Not treating an entity as an excluded entity election</td><td>  </td><td>  </td></tr>
+<tr><td colspan="3">e. Inclusion of all dividends with respect to portfolio shareholdings</td><td>  </td><td>  </td></tr>
+<tr><td colspan="3">f. Treating foreign exchange gains or losses attributable to hedging as an excluded equity gain or loss</td><td>  </td><td>  </td></tr>
+<tr><td colspan="3">g. Investment entity tax transparency election</td><td>  </td><td>  </td></tr>
+<tr><td colspan="3">h. Taxable distribution method election</td><td>  </td><td>  </td></tr>
+<tr><td colspan="3">i. Unclaimed accrual five-year election</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td rowspan="2">6. Other elections</td><td colspan="3">j. Qualifying loss election</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td colspan="5">k. Fair value election</td><td>  </td></tr>
+</tbody>
+
+| 1. Constituent entities (or members of joint venture groups) for which the election is made (TIN) | 2. Fiscal year of the triggering event | 3. Inclusion in the fiscal year of the triggering event or five-year inclusion |
+| --- | --- | --- |
+|  |  |  |
+
+3.2.4.4. International shipping income exclusion
+
+(a) International shipping income exclusion
+
+<tbody><tr><td colspan="2">1. Constituent entity or member of joint venture group located in this jurisdiction (TIN)</td><td>  </td></tr>
+<tr><td rowspan="4">International shipping income</td><td>2. Category</td><td>  </td></tr>
+<tr><td>3. Revenue</td><td>[A]</td></tr>
+<tr><td>4. Costs</td><td>[B]</td></tr>
+<tr><td>5. International shipping income</td><td>[C]=[A]-[B]</td></tr>
+<tr><td rowspan="4">Qualified ancillary international shipping income</td><td>6. Category</td><td>  </td></tr>
+<tr><td>7. Revenue</td><td>[D]</td></tr>
+<tr><td>8. Costs</td><td>[E]</td></tr>
+<tr><td>9. Qualified ancillary international shipping income</td><td>[F]=[D]-[E]</td></tr>
+<tr><td rowspan="2">Effect on substance-based income exclusion</td><td>10. Payroll costs attributable to the excluded international shipping income or qualified ancillary international shipping income</td><td>  </td></tr>
+<tr><td>11. Carrying value of tangible assets used in the generation of the excluded international shipping income or qualified ancillary international shipping income</td><td>  </td></tr>
+<tr><td>Covered taxes</td><td>12. Covered taxes attributable to the excluded international shipping income or qualified ancillary international shipping income</td><td>  </td></tr>
+</tbody>
+
+(b) Jurisdictional cap for the qualified ancillary international shipping income exclusion
+
+| 1. Total international shipping income for all constituent entities (or members of joint venture group) | [A] |
+| --- | --- |
+| 2. 50 % cap | 50 %x[A] |
+| 3. Total qualified ancillary international shipping income for all constituent entities (or members of joint venture group) | [B] |
+| 4. Excess of the cap if B exceeds 50 % of A | [B]-50 %x[A] |
+
+3.2.4.5. Information for purposes of election to apply taxable distribution method (if applicable)
+
+Taxable distribution method election
+
+| 1. Constituent entity-owner (or member of joint venture group) for which an election is made (TIN) | 2. Investment entity for which the election is made (TIN) | 3. Actual and deemed distributions of the investment entity’s qualifying income received by the constituent entity-owner | 4. Local creditable tax gross-up incurred by the investment entity | 5. Constituent entity-owner’s proportionate share of the investment entity’s undistributed net qualifying income |
+| --- | --- | --- | --- | --- |
+|  |  |  |  |  |
+
+3.2.4.6. Other accounting standard
+
+| 1. Constituent entity (or member of joint venture group) with financial accounting net income or loss based on a different accounting standard (TIN) | 2. Acceptable or authorised financial accounting standard |
+| --- | --- |
+|  |  |
+
+**3.3. Top-up tax computation**
+
+3.3.1. Top-up tax
+
+| a. Top-up tax percentage | b. Substance-based income exclusion | c. Excess profit | d. Additional top-up tax | e. Payable domestic top-up tax | f. Top-up tax |
+| --- | --- | --- | --- | --- | --- |
+| [A]=15 % - effective tax rate | [B] | [C] = net qualifying income or loss -[B] | [D] | [E] | =[A]x[C]+[D]-[E] |
+
+3.3.2. Computation of substance-based income exclusion (if applicable)
+
+3.3.2.1. Total amount of the substance-based income exclusion
+
+<tbody><tr><td colspan="2">Payroll carve-out</td><td colspan="2">Tangible assets carve-out</td><td>Total</td></tr>
+<tr><td>1. Relevant eligible payroll costs of eligible employees performing activities in the jurisdiction</td><td>2. Application of relevant mark-up percentage for the Reporting fiscal year</td><td>3. Carrying value of relevant eligible tangible assets located in the jurisdiction</td><td>4. Application of relevant mark-up percentage for the Reporting fiscal year</td><td>5. Substance-based income exclusion</td></tr>
+<tr><td>[A]</td><td>[B]</td><td>[C]</td><td>[D]</td><td>[E]=[A]x[B]+[C]x[D]</td></tr>
+</tbody>
+
+3.3.2.2. Allocation of eligible payroll costs and carrying value of eligible tangible assets to permanent establishments for purposes of the substance-based income exclusion
+
+| 1. Relevant eligible payroll costs | 2. Carrying value of relevant eligible tangible assets | 3. Jurisdiction of permanent establishments | 4. Relevant eligible payroll costs allocated to permanent establishments | 5. Carrying value of relevant eligible tangible assets allocated to permanent establishments |
+| --- | --- | --- | --- | --- |
+|  |  |  |  |  |
+
+3.3.2.3. Allocation of eligible payroll costs and carrying value of eligible tangible assets of a flow-through entity for purposes of the substance-based income exclusion
+
+| 1. Relevant eligible payroll costs | 2. Carrying value of relevant eligible tangible assets | 3. Jurisdiction of constituent entity owners (or members of joint venture group) | 4. Relevant eligible payroll costs allocated to constituent entity owner (or excluded) | 5. Carrying value of relevant eligible tangible assets allocated to constituent entity owner (or excluded) |
+| --- | --- | --- | --- | --- |
+|  |  |  |  |  |
+
+3.3.3. Additional current top-up tax
+
+3.3.3.1. Additional top-up tax other than in case of a net qualifying loss in the Reporting fiscal year
+
+<tbody><tr><td>1. Relevant Articles</td><td>2. Relevant year</td><td>3. As previously reported or recalculated</td><td>4. Net qualifying income/loss</td><td>5. Adjusted covered taxes</td><td>6. Effective tax rate</td><td>7. Excess profit</td><td>8. Top-up tax percentage</td><td>9. Top-up tax</td><td>10. Additional top-up tax</td></tr>
+<tr><td rowspan="2">  </td><td rowspan="2">Prior fiscal year X</td><td>a. Previously reported</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td rowspan="2">  </td></tr>
+<tr><td>b. Recalculated</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+</tbody>
+
+3.3.3.2. Additional top-up tax in case of a net qualifying loss for the Reporting fiscal year
+
+| 1. Adjusted covered taxes for the jurisdiction (if negative) | [A] |
+| --- | --- |
+| 2. Qualifying loss for the jurisdiction | [B] |
+| 3. Expected adjusted covered taxes | [C]=[B]×15 % |
+| 4. Additional top-up tax | [D]=[C]-[A] |
+
+3.3.4. Qualified domestic top-up tax
+
+<tbody><tr><td>1. Financial accounting standard</td><td colspan="3">  </td></tr>
+<tr><td>2. Qualified domestic top-up tax amount payable</td><td colspan="3">  </td></tr>
+<tr><td>3. Qualified domestic top-up tax minimum tax rate (if higher than 15 %)</td><td colspan="3">  </td></tr>
+<tr><td>4. Basis for the blending of income and taxes (if different from the IIR rules)</td><td colspan="3">  </td></tr>
+<tr><td>5. Currency used (if different from consolidated financial statement presentation currency)</td><td colspan="3">  </td></tr>
+<tr><td>6. Five-year election to use the consolidated financial statement currency or the local currency</td><td>Currency</td><td>Election year</td><td>Revocation year</td></tr>
+<tr><td>7 Substance-based income exclusion available?</td><td colspan="3">Yes/No</td></tr>
+<tr><td>8. De-minimis available?</td><td colspan="3">Yes/No</td></tr>
+</tbody>
+
+**3.4. Top-up tax allocation and attribution (if any)**
+
+3.4.1. Application of the IIR in respect of this jurisdiction
+
+<tbody><tr><td rowspan="3">1. Group entity allocated top-up tax</td><td>a. Low-taxed constituent entity or member of joint venture group (TIN)</td><td colspan="2">  </td></tr>
+<tr><td>b. Qualifying income of the low taxed constituent entity or member of joint venture group</td><td colspan="2">[A]</td></tr>
+<tr><td>c. Top-up tax of the low-taxed constituent entity or the member of the joint venture group</td><td colspan="2">[C] = [T] x [A]/[A+B+etc.]</td></tr>
+<tr><td rowspan="4">2. Parent entities required to apply a qualified IIR</td><td>a. Parent entity (TIN)</td><td>[Parent entity 1]</td><td>  </td></tr>
+<tr><td>b. Parent entity jurisdiction</td><td>Jurisdiction B</td><td>  </td></tr>
+<tr><td>c. The amount of qualifying income attributable to ownership interests held by other owners</td><td>[D]</td><td>  </td></tr>
+<tr><td>d. Parent entity’s inclusion ratio</td><td>[F]=([A]-[D])/[A]</td><td>  </td></tr>
+<tr><td rowspan="3">3. IIR top-up tax</td><td>a. Parent entity’s allocable share of the top-up tax</td><td>[G]=[C]×[F]</td><td>  </td></tr>
+<tr><td>b. IIR offset</td><td>[H]</td><td>  </td></tr>
+<tr><td>c. Top-up tax payable by parent entity</td><td>[I]=[G]-[H]</td><td>  </td></tr>
+</tbody>
+
+3.4.2. Total UTPR top-up tax amount in respect of this jurisdiction
+
+| 1. Low taxed constituent entity (or member of joint venture group) for which the reduction of UTPR to zero does not apply (TIN) |  |
+| --- | --- |
+| 2. Top-up tax taken into account for calculating the total UTPR top-up tax for each low-taxed constituent entity |  |
+| 3. Total UTPR top-up tax amount in respect of this jurisdiction |  |
+
+3.4.3. Attribution of top-up tax under the UTPR
+
+| 1. UTPR jurisdictions | 2. UTPR top- up tax carry- forward | 3. Number of employees | 4. Net book value of tangible assets | 5. UTPR percentage | 6. UTPR top-up tax amount attributed for the Reporting fiscal year | 7. Additional cash tax expense incurred by constituent entities in UTPR jurisdiction | 8. UTPR top-up tax left to be carried forward |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+|  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |
+| Total |  |  |  |  |  |  |  |
+
+( 1 ) Council Directive (EU) 2022/2523 of 15 December 2022 on ensuring a global minimum level of taxation for multinational enterprise groups and large-scale domestic groups in the Union (OJ L 328, 22.12.2022, p. 1, ELI: http://data.europa.eu/eli/dir/2022/2523/oj).
+
+( 2 ) Regulation (EU) 2023/1113 of the European Parliament and of the Council of 31 May 2023 on information accompanying transfers of funds and certain crypto-assets and amending Directive (EU) 2015/849 (OJ L 150, 9.6.2023, p. 1).
+
+( 3 ) Council Directive 2011/96/EU of 30 November 2011 on the common system of taxation applicable in the case of parent companies and subsidiaries of different Member States (OJ L 345, 29.12.2011, p. 8).
+
+( 4 ) Directive 2013/34/EU of the European Parliament and of the Council of 26 June 2013 on the annual financial statements, consolidated financial statements and related reports of certain types of undertakings, amending Directive 2006/43/EC of the European Parliament and of the Council and repealing Council Directives 78/660/EEC and 83/349/EEC (OJ L 182, 29.6.2013, p. 19).
+
+( 5 ) OJ L 84, 31.3.2010, p. 1.
+
+( 6 ) Directive (EU) 2015/849 of the European Parliament and of the Council of 20 May 2015 on the prevention of the use of the financial system for the purposes of money laundering or terrorist financing, amending Regulation (EU) No 648/2012 of the European Parliament and of the Council, and repealing Directive 2005/60/EC of the European Parliament and of the Council and Commission Directive 2006/70/EC (OJ L 141, 5.6.2015, p. 73).
+
+( 7 ) Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation) (OJ L 119, 4.5.2016, p. 1).
+
+( 8 ) Regulation (EU) 2018/1725 of the European Parliament and of the Council of 23 October 2018 on the protection of natural persons with regard to the processing of personal data by the Union institutions, bodies, offices and agencies and on the free movement of such data, and repealing Regulation (EC) No 45/2001 and Decision No 1247/2002/EC (OJ L 295, 21.11.2018, p. 39).
+
+( 9 ) Regulation (EU) No 182/2011 of the European Parliament and of the Council of 16 February 2011 laying down the rules and general principles concerning mechanisms for control by the Member States of the Commission's exercise of implementing powers (OJ L 55, 28.2.2011, p. 13).
+
+( 10 ) Regulation (EU) 2023/1114 of the European Parliament and of the Council of 31 May 2023 on markets in crypto-assets, and amending Regulations (EU) No 1093/2010 and (EU) No 1095/2010 and Directives 2013/36/EU and (EU) 2019/1937 (OJ L 150, 9.6.2023, p. 40).
+
+( 11 ) Council Directive (EU) 2023/2226 of 17 October 2023 amending Directive 2011/16/EU on administrative cooperation in the field of taxation (OJ L, 2023/2226, 24.10.2023, ELI: http://data.europa.eu/eli/dir/2023/2226/oj).
+
+( 12 ) Council Directive 2006/112/EC of 28 November 2006 on the common system of value added tax (OJ L 347, 11.12.2006, p. 1).

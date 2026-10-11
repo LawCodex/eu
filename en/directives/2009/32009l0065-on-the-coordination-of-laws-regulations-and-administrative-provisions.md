@@ -1,0 +1,3384 @@
+---
+title: "Directive 2009/65/EC of the European Parliament and of the Council of 13 July 2009 on the coordination of laws, regulations and administrative provisions relating to undertakings for collective investment in transferable securities (UCITS) (recast) (Text with EEA relevance)"
+identifier: "32009L0065"
+eli: "http://data.europa.eu/eli/dir/2009/65/oj"
+type: directive
+jurisdiction: eu
+language: en
+date: 2009-07-13
+entry_into_force: 2009-12-07
+last_amended: 2026-04-16
+consolidated_version: "02009L0065-20260416"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02009L0065-20260416"
+retrieved: 2026-10-11
+---
+
+# Directive 2009/65/EC of the European Parliament and of the Council of 13 July 2009 on the coordination of laws, regulations and administrative provisions relating to undertakings for collective investment in transferable securities (UCITS) (recast) (Text with EEA relevance)
+
+**DIRECTIVE 2009/65/EC OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 13 July 2009**
+
+**on the coordination of laws, regulations and administrative provisions relating to undertakings for collective investment in transferable securities (UCITS)**
+
+**(recast)**
+
+**(Text with EEA relevance)**
+
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> DIRECTIVE 2010/78/EU OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 24 November 2010 </td><td> L 331</td><td>120</td><td>15.12.2010</td></tr>
+<tr><td> M2</td><td> DIRECTIVE 2011/61/EU OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 8 June 2011 </td><td> L 174</td><td>1</td><td>1.7.2011</td></tr>
+<tr><td></td><td> DIRECTIVE 2013/14/EU OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 21 May 2013 </td><td> L 145</td><td>1</td><td>31.5.2013</td></tr>
+<tr><td></td><td> DIRECTIVE 2014/91/EU OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 23 July 2014 </td><td> L 257</td><td>186</td><td>28.8.2014</td></tr>
+<tr><td></td><td> REGULATION (EU) 2017/2402 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 12 December 2017 </td><td> L 347</td><td>35</td><td>28.12.2017</td></tr>
+<tr><td></td><td> DIRECTIVE (EU) 2019/1160 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 20 June 2019 </td><td> L 188</td><td>106</td><td>12.7.2019</td></tr>
+<tr><td></td><td> DIRECTIVE (EU) 2019/2034 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 27 November 2019 </td><td> L 314</td><td>64</td><td>5.12.2019</td></tr>
+<tr><td></td><td> DIRECTIVE (EU) 2019/2162 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 27 November 2019 </td><td> L 328</td><td>29</td><td>18.12.2019</td></tr>
+<tr><td></td><td> DIRECTIVE (EU) 2021/2261 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 15 December 2021 </td><td> L 455</td><td>15</td><td>20.12.2021</td></tr>
+<tr><td></td><td> DIRECTIVE (EU) 2022/2556 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 14 December 2022 </td><td> L 333</td><td>153</td><td>27.12.2022</td></tr>
+<tr><td></td><td> DIRECTIVE (EU) 2023/2864 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 13 December 2023 </td><td> L 2864</td><td>1</td><td>20.12.2023</td></tr>
+<tr><td></td><td> DIRECTIVE (EU) 2024/927 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 13 March 2024 </td><td> L 927</td><td>1</td><td>26.3.2024</td></tr>
+<tr><td></td><td> DIRECTIVE (EU) 2024/2994 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 27 November 2024 </td><td> L 2994</td><td>1</td><td>4.12.2024</td></tr>
+
+**DIRECTIVE 2009/65/EC OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 13 July 2009**
+
+**on the coordination of laws, regulations and administrative provisions relating to undertakings for collective investment in transferable securities (UCITS)**
+
+**(recast)**
+
+**(Text with EEA relevance)**
+
+<tr><td colspan="2">CONTENT</td></tr>
+<tr><td>CHAPTER I</td><td>SUBJECT MATTER, SCOPE AND DEFINITIONS</td></tr>
+<tr><td>CHAPTER II</td><td>AUTHORISATION OF UCITS</td></tr>
+<tr><td>CHAPTER III</td><td>OBLIGATIONS REGARDING MANAGEMENT COMPANIES</td></tr>
+<tr><td>SECTION 1</td><td>Conditions for taking up business</td></tr>
+<tr><td>SECTION 2</td><td>Relations with third countries</td></tr>
+<tr><td>SECTION 3</td><td>Operating conditions</td></tr>
+<tr><td>SECTION 4</td><td>Freedom of establishment and freedom to provide services</td></tr>
+<tr><td>CHAPTER IV</td><td>OBLIGATIONS REGARDING THE DEPOSITARY</td></tr>
+<tr><td>CHAPTER V</td><td>OBLIGATIONS REGARDING INVESTMENT COMPANIES</td></tr>
+<tr><td>SECTION 1</td><td>Conditions for taking up business</td></tr>
+<tr><td>SECTION 2</td><td>Operating conditions</td></tr>
+<tr><td>CHAPTER VI</td><td>MERGERS OF UCITS</td></tr>
+<tr><td>SECTION 1</td><td>Principle, authorisation and approval</td></tr>
+<tr><td>SECTION 2</td><td>Third party control, information of unit-holders and other rights of unit-holders</td></tr>
+<tr><td>SECTION 3</td><td>Costs and entry into effect</td></tr>
+<tr><td>CHAPTER VII</td><td>OBLIGATIONS CONCERNING THE INVESTMENT POLICIES OF UCITS</td></tr>
+<tr><td>CHAPTER VIII</td><td>MASTER-FEEDER STRUCTURES</td></tr>
+<tr><td>SECTION 1</td><td>Scope and approval</td></tr>
+<tr><td>SECTION 2</td><td>Common provisions for feeder UCITS and master UCITS</td></tr>
+<tr><td>SECTION 3</td><td>Depositaries and auditors</td></tr>
+<tr><td>SECTION 4</td><td>Compulsory information and marketing communications by the feeder UCITS</td></tr>
+<tr><td>SECTION 5</td><td>Conversion of existing UCITS into feeder UCITS and change of master UCITS</td></tr>
+<tr><td>SECTION 6</td><td>Obligations and competent authorities</td></tr>
+<tr><td>CHAPTER IX</td><td>OBLIGATIONS CONCERNING INFORMATION TO BE PROVIDED TO INVESTORS</td></tr>
+<tr><td>SECTION 1</td><td>Publication of a prospectus and periodical reports</td></tr>
+<tr><td>SECTION 2</td><td>Publication of other information</td></tr>
+<tr><td>SECTION 3</td><td>Key investor information</td></tr>
+<tr><td>SECTION 4</td><td>Accessibility of information on the european single access point</td></tr>
+<tr><td>CHAPTER X</td><td>GENERAL OBLIGATIONS OF UCITS</td></tr>
+<tr><td>CHAPTER XI</td><td>SPECIAL PROVISIONS APPLICABLE TO UCITS WHICH MARKET THEIR UNITS IN MEMBER STATES OTHER THAN THOSE IN WHICH THEY ARE ESTABLISHED</td></tr>
+<tr><td>CHAPTER XII</td><td>PROVISIONS CONCERNING THE AUTHORITIES RESPONSIBLE FOR AUTHORISATION AND SUPERVISION</td></tr>
+<tr><td>CHAPTER XIII</td><td>DELEGATED ACTS AND POWERS OF EXECUTION</td></tr>
+<tr><td>CHAPTER XIV</td><td>DEROGATIONS, TRANSITIONAL AND FINAL PROVISIONS</td></tr>
+<tr><td>SECTION 1</td><td>Derogations</td></tr>
+<tr><td>SECTION 2</td><td>Transitional and final provisions</td></tr>
+<tr><td>ANNEX I</td><td>Schedules A and B</td></tr>
+<tr><td>ANNEX II</td><td>Functions included in the activity of collective portfolio management</td></tr>
+<tr><td>ANNEX III</td><td></td></tr>
+<tr><td>Part A</td><td>Repealed Directive with list of its successive amendments</td></tr>
+<tr><td>Part B</td><td>List of time limits for transposition into national law and application</td></tr>
+<tr><td>ANNEX IV</td><td>Correlation table</td></tr>
+
+## CHAPTER I — SUBJECT MATTER, SCOPE AND DEFINITIONS
+
+#### Article 1
+
+1\. This Directive applies to undertakings for collective investment in transferable securities (UCITS) established within the territories of the Member States.
+
+2\. For the purposes of this Directive, and subject to Article 3, UCITS means an undertaking:
+
+(a) with the sole object of collective investment in transferable securities or in other liquid financial assets referred to in Article 50(1) of capital raised from the public and which operate on the principle of risk-spreading; and
+
+(b) with units which are, at the request of holders, repurchased or redeemed, directly or indirectly, out of those undertakings’ assets. Action taken by a UCITS to ensure that the stock exchange value of its units does not significantly vary from their net asset value shall be regarded as equivalent to such repurchase or redemption.
+
+Member States may allow UCITS to consist of several investment compartments.
+
+3\. The undertakings referred to in paragraph 2 may be constituted in accordance with contract law (as common funds managed by management companies), trust law (as unit trusts), or statute (as investment companies).
+
+For the purposes of this Directive:
+
+(a) ‘common funds’ shall also include unit trusts;
+
+(b) ‘units’ of UCITS shall also include shares of UCITS.
+
+4\. Investment companies, the assets of which are invested through the intermediary of subsidiary companies, mainly other than in transferable securities, shall not be subject to this Directive.
+
+5\. The Member States shall prohibit UCITS which are subject to this Directive from transforming themselves into collective investment undertakings which are not covered by this Directive.
+
+6\. Subject to the provisions in Community law governing capital movements and subject to Articles 91 and 92 and the second subparagraph of Article 108(1), no Member State shall apply any other provisions in the field covered by this Directive to UCITS established in another Member State or to the units issued by such UCITS, where those UCITS market their units within the territory of that Member State.
+
+7\. Without prejudice to this Chapter, a Member State may apply to UCITS established within its territory requirements which are stricter than or additional to those laid down in this Directive, provided that they are of general application and do not conflict with the provisions of this Directive.
+
+#### Article 2
+
+1\. For the purposes of this Directive the following definitions apply:
+
+(a) ‘depositary’ means an institution entrusted with the duties set out in Articles 22 and 32 and subject to the other provisions laid down in Chapter IV and Section 3 of Chapter V;
+
+(b) ‘management company’ means a company, the regular business of which is the management of UCITS in the form of common funds or of investment companies (collective portfolio management of UCITS);
+
+(c) ‘management company’s home Member State’ means the Member State in which the management company has its registered office;
+
+(d) ‘management company’s host Member State’ means a Member State, other than the home Member State, within the territory of which a management company has a branch or provides services;
+
+(e) ‘UCITS home Member State’ means the Member State in which the UCITS is authorised pursuant to Article 5;
+
+(f) ‘UCITS host Member State’ means a Member State, other than the UCITS home Member State, in which the units of the UCITS are marketed;
+
+(g) ‘branch’ means a place of business which is a part of the management company, which has no legal personality and which provides the services for which the management company has been authorised;
+
+(h) ‘competent authorities’ means the authorities which each Member State designates under Article 97;
+
+(i) ‘close links’ means a situation in which two or more natural or legal persons are linked by either:
+
+(i) ‘participation’, which means the ownership, direct or by way of control, of 20 % or more of the voting rights or capital of an undertaking; or
+
+(ii) ‘control’, which means the relationship between a ‘parent undertaking’ and a ‘subsidiary’, as defined in Articles 1 and 2 of Seventh Council Directive 83/349/EEC of 13 June 1983 based on the Article 54(3)(g) of the Treaty on consolidated accounts ( 1 ) and in all the cases referred to in Article 1(1) and (2) of Directive 83/349/EEC, or a similar relationship between any natural or legal person and an undertaking;
+
+(j) ‘qualifying holding’ means a direct or indirect holding in a management company which represents 10 % or more of the capital or of the voting rights or which makes it possible to exercise a significant influence over the management of the management company in which that holding subsists;
+
+(k) ‘initial capital’ means the funds as referred to in Article 57(a) and (b) of Directive 2006/48/EC;
+
+(l) ‘own funds’ means own funds as referred to in Title V, Chapter 2, Section 1 of Directive 2006/48/EC;
+
+(m) ‘durable medium’ means an instrument which enables an investor to store information addressed personally to that investor in a way that is accessible for future reference for a period of time adequate for the purposes of the information and which allows the unchanged reproduction of the information stored;
+
+(n) ‘transferable securities’ means:
+
+(i) shares in companies and other securities equivalent to shares in companies (shares);
+
+(ii) bonds and other forms of securitised debt (debt securities);
+
+(iii) any other negotiable securities which carry the right to acquire any such transferable securities by subscription or exchange;
+
+(o) ‘money market instruments’ means instruments normally dealt in on the money market which are liquid and have a value which can be accurately determined at any time;
+
+(p) ‘mergers’ means an operation whereby:
+
+(i) one or more UCITS or investment compartments thereof, the ‘merging UCITS’, on being dissolved without going into liquidation, transfer all of their assets and liabilities to another existing UCITS or an investment compartment thereof, the ‘receiving UCITS’, in exchange for the issue to their unit-holders of units of the receiving UCITS and, if applicable, a cash payment not exceeding 10 % of the net asset value of those units;
+
+(ii) two or more UCITS or investment compartments thereof, the ‘merging UCITS’, on being dissolved without going into liquidation, transfer all of their assets and liabilities to a UCITS which they form or an investment compartment thereof, the ‘receiving UCITS’, in exchange for the issue to their unit-holders of units of the receiving UCITS and, if applicable, a cash payment not exceeding 10 % of the net asset value of those units;
+
+(iii) one or more UCITS or investment compartments thereof, the ‘merging UCITS’, which continue to exist until the liabilities have been discharged, transfer their net assets to another investment compartment of the same UCITS, to a UCITS which they form or to another existing UCITS or an investment compartment thereof, the ‘receiving UCITS’;
+
+(q) ‘cross-border merger’ means a merger of UCITS:
+
+(i) at least two of which are established in different Member States; or
+
+(ii) established in the same Member State into a newly constituted UCITS established in another Member State;
+
+(r) ‘domestic merger’ means a merger between UCITS established in the same Member State where at least one of the involved UCITS has been notified pursuant to Article 93;
+
+(s) ‘management body’ means the body with ultimate decision-making authority in a management company, investment company or depositary, comprising the supervisory and the managerial functions, or only the managerial function if the two functions are separated. Where, according to national law, the management company, investment company or depositary has in place different bodies with specific functions, the requirements laid down in this Directive directed at the management body or at the management body in its supervisory function shall also, or shall instead, apply to those members of other bodies of the management company, investment company or depositary to whom the applicable national law assigns the respective responsibility;
+
+(t) ‘financial instrument’ means a financial instrument specified in Section C of Annex I to Directive 2014/65/EU of the European Parliament and of the Council ( 2 );
+
+(v) ‘central counterparty’ or ‘CCP’ means a CCP as defined in Article 2, point (1), of Regulation (EU) No 648/2012 of the European Parliament and of the Council ( 3 );
+
+(u) ‘central securities depository’ means a central securities depository as defined in Article 2(1), point (1), of Regulation (EU) No 909/2014 of the European Parliament and of the Council ( 4 ).
+
+2\. For the purposes of paragraph 1(b), the regular business of a management company shall include the functions referred to in Annex II.
+
+3\. For the purposes of paragraph 1(g), all the places of business established in the same Member State by a management company with its head office in another Member State shall be regarded as a single branch.
+
+4\. For the purposes of point (i)(ii) of paragraph 1, the following shall apply:
+
+(a) a subsidiary undertaking of a subsidiary undertaking shall also be considered to be a subsidiary of the parent undertaking which is at the head of those undertakings;
+
+(b) situations in which two or more natural or legal persons are permanently linked to the same person by a control relationship shall also be regarded as constituting a close links between such persons.
+
+5\. For the purposes of paragraph 1(j), the voting rights referred to in Articles 9 and 10 of Directive 2004/109/EC of the European Parliament and of the Council of 15 December 2004 on the harmonisation of transparency requirements in relation to information about issuers whose securities are admitted to trading on a regulated market ( 5 ) shall be taken into account.
+
+6\. For the purposes of paragraph 1(l), Articles 13 to 16 of Directive 2006/49/EC shall apply mutatis mutandis.
+
+7\. For the purposes of paragraph 1(n), transferable securities shall exclude the techniques and instruments referred to in Article 51.
+
+#### Article 3
+
+The following undertakings are not subject to this Directive:
+
+(a) collective investment undertakings of the closed-ended type;
+
+(b) collective investment undertakings which raise capital without promoting the sale of their units to the public within the Community or any part of it;
+
+(c) collective investment undertakings the units of which, under the fund rules or the instruments of incorporation of the investment company, may be sold only to the public in third countries;
+
+(d) categories of collective investment undertakings prescribed by the regulations of the Member States in which such collective investment undertakings are established, for which the rules laid down in Chapter VII and Article 83 are inappropriate in view of their investment and borrowing policies.
+
+#### Article 4
+
+For the purposes of this Directive, a UCITS shall be deemed to be established in its home Member State.
+
+## CHAPTER II — AUTHORISATION OF UCITS
+
+#### Article 5
+
+1\. No UCITS shall pursue activities as such unless it has been authorised in accordance with this Directive.
+
+Such authorisation shall be valid for all Member States.
+
+2\. A common fund shall be authorised only if the competent authorities of its home Member State have approved the application of the management company to manage that common fund, the fund rules and the choice of depositary. An investment company shall be authorised only if the competent authorities of its home Member State have approved both its instruments of incorporation and the choice of depositary, and, where relevant, the application of the designated management company to manage that investment company.
+
+3\. Without prejudice to paragraph 2, if the UCITS is not established in the management company’s home Member State, the competent authorities of the UCITS home Member State shall decide, on the application of the management company, to manage the UCITS pursuant to Article 20. Authorisation shall not be subject either to a requirement that the UCITS be managed by a management company having its registered office in the UCITS home Member State or that the management company pursue or delegate any activities in the UCITS home Member State.
+
+4\. The competent authorities of the UCITS home Member State shall not authorise a UCITS if:
+
+(a) they establish that the investment company does not comply with the preconditions laid down in Chapter V; or
+
+(b) the management company is not authorised for the management of UCITS in its home Member State.
+
+Without prejudice to Article 29(2), the management company or, where applicable, the investment company, shall be informed, within two months of the submission of a complete application, whether or not authorisation of the UCITS has been granted.
+
+The competent authorities of the UCITS home Member State shall not authorise a UCITS if the directors of the depositary are not of sufficiently good repute or are not sufficiently experienced also in relation to the type of UCITS to be managed. To that end, the names of the directors of the depositary and of every person succeeding them in office shall be communicated forthwith to the competent authorities.
+
+Directors shall mean those persons who, under the law or the instruments of incorporation, represent the depositary, or who effectively determine the policy of the depositary.
+
+5\. The competent authorities of the UCITS home Member State shall not grant authorisation if the UCITS is legally prevented (for example, through a provision in the fund rules or instruments of incorporation) from marketing its units in its home Member State.
+
+6\. Neither the management company nor the depositary shall be replaced, nor shall the fund rules or the instruments of incorporation of the investment company be amended, without the approval of the competent authorities of the UCITS home Member State.
+
+7\. The Member States shall ensure that complete information on the laws, regulations and administrative provisions implementing this Directive which relate to the constitution and functioning of the UCITS are easily accessible at a distance or by electronic means. Member States shall ensure that such information is available at least in a language customary in the sphere of international finance, provided in a clear and unambiguous manner, and kept up to date.
+
+8\. In order to ensure consistent harmonisation of this Article the European Supervisory Authority (European Securities and Markets Authority) (hereinafter ‘ESMA’), established by Regulation (EU) No 1095/2010 of the European Parliament and of the Council ( 6 ) may develop draft regulatory technical standards to specify the information to be provided to the competent authorities in the application for authorisation of a UCITS.
+
+Power is delegated to the Commission to adopt the regulatory technical standards referred to in the first subparagraph in accordance with the procedure laid down in Articles 10 to 14 of Regulation (EU) No 1095/2010.
+
+## CHAPTER III — OBLIGATIONS REGARDING MANAGEMENT COMPANIES
+
+### SECTION 1 — Conditions for taking up business
+
+#### Article 6
+
+1\. Access to the business of management companies shall be subject to prior authorisation to be granted by the competent authorities of the management company’s home Member State. Authorisation granted under this Directive to a management company shall be valid for all Member States.
+
+ESMA shall be notified of every authorisation granted and shall publish and keep up-to-date a list of authorised management companies on its website.
+
+2\. No management company shall engage in activities other than the management of UCITS authorised under this Directive, with the exception of the additional management of other collective investment undertakings which are not covered by this Directive and for which the management company is subject to prudential supervision but the units of which cannot be marketed in other Member States under this Directive.
+
+The activity of management of UCITS shall include, for the purpose of this Directive, the functions referred to in Annex II.
+
+3\. By way of derogation from paragraph 2, Member States may authorise management companies to provide, in addition to the management of UCITS, the following services:
+
+(a) management of portfolios of investments, including those owned by pension funds, in accordance with mandates given by investors on a discretionary, client-by-client basis, where such portfolios include one or more of the instruments listed in Annex I, Section C to Directive 2004/39/EC; and
+
+(b) as non-core services:
+
+(i) investment advice concerning one or more of the instruments listed in Annex I, Section C to Directive 2004/39/EC;
+
+(ii) safekeeping and administration in relation to units of collective investment undertakings;
+
+(iii) reception and transmission of orders in relation to financial instruments;
+
+(iv) any other function or activity which is already provided by the management company in relation to a UCITS that it manages in accordance with this Article, or in relation to services that it provides in accordance with this paragraph, provided that any potential conflict of interest created by the provision of that function or activity to other parties is appropriately managed;
+
+(c) administration of benchmarks in accordance with Regulation (EU) 2016/1011.
+
+Management companies shall not be authorised under this Directive to provide only the services referred to in this paragraph. Management companies shall not be authorised to provide the services referred to in the first subparagraph, point (c), which are used in the UCITS that they manage.
+
+4\. Article 15, Article 16 except for paragraph 5, first subparagraph, and Articles 23, 24 and 25 of Directive 2014/65/EU shall apply where the services referred to in paragraph 3, points (a) and (b), of this Article are provided by management companies.
+
+#### Article 7
+
+1\. Without prejudice to other conditions of general application laid down by national law, the competent authorities shall not grant authorisation to a management company unless the following conditions are met:
+
+(a) the management company has an initial capital of at least EUR 125 000 , taking into account the following:
+
+(i) when the value of the portfolios of the management company exceeds EUR 250 000 000 , the management company must be required to provide an additional amount of own funds which is equal to 0,02 % of the amount by which the value of the portfolios of the management company exceeds EUR 250 000 000 but the required total of the initial capital and the additional amount must not, however, exceed EUR 10 000 000 ;
+
+(ii) for the purposes of this paragraph, the following portfolios must be deemed to be the portfolios of the management company:
+
+— common funds managed by the management company including portfolios for which it has delegated the management function but excluding portfolios that it is managing under delegation,
+
+— investment companies for which the management company is the designated management company,
+
+— other collective investment undertakings managed by the management company including portfolios for which it has delegated the management function but excluding portfolios that it is managing under delegation;
+
+(iii) irrespective of the amount of those requirements, the own funds of the management company must at no time be less than the amount prescribed in Article 13 of Regulation (EU) 2019/2033 of the European Parliament and of the Council ( 7 );
+
+(b) the persons who effectively conduct the business of the management company are of sufficiently good repute and are sufficiently experienced also in relation to the type of UCITS managed by the management company, the names of those persons and of every person succeeding them in office are communicated forthwith to the competent authorities and the conduct of the business of a management company is decided by at least two natural persons meeting such conditions who either are employed full-time by that management company or are executive members or members of the management body of the management company committed full-time to conducting the business of that management company, and who are domiciled in the Union;
+
+(c) the application for authorisation is accompanied by a programme of activity setting out, at least, the organisational structure of the management company, and specifying the human and technical resources that will be used to conduct the business of the management company and information about the persons effectively conducting the business of that management company, including:
+
+(i) a description of the role, title and level of seniority of those persons;
+
+(ii) a description of the reporting lines and responsibilities of those persons within and outside the management company;
+
+(iii) an overview of the amount of time that each of those persons allocates to each responsibility;
+
+(iv) information on how the management company intends to comply with its obligations under this Directive, and with its obligations under Article 3(1), Article 6(1), point (a), and Article 13(1) of Regulation (EU) 2019/2088 of the European Parliament and of the Council ( 8 ), and a detailed description of the appropriate human and technical resources to be used by the management company to that effect.
+
+(d) the head office and the registered office of the management company are located in the same Member State;
+
+(e) information is provided by the management company on arrangements made for the delegation and sub-delegation to third parties of functions in accordance with Article 13, comprising at least the following:
+
+(i) the legal name and relevant identifier of the management company;
+
+(ii) for each delegate:
+
+— its legal name and relevant identifier,
+
+— its jurisdiction of establishment, and
+
+— where relevant, its supervisory authority;
+
+(iii) a detailed description of the human and technical resources employed by the management company for:
+
+— performing day-to-day portfolio management or risk management tasks within the management company, and
+
+— monitoring the delegated activity;
+
+(iv) in respect of each of the UCITS it manages or intends to manage:
+
+— a brief description of the delegated portfolio management function, including whether such delegation amounts to a partial or full delegation, and
+
+— a brief description of the delegated risk management function, including whether such delegation amounts to a partial or full delegation;
+
+(v) a description of the periodic due diligence measures to be carried out by the management company to monitor the delegated activity.
+
+For the purposes of point (a) of the first subparagraph, Member States may authorise management companies not to provide up to 50 % of the additional amount of own funds referred to in point (i) of point (a) if they benefit from a guarantee of the same amount given by a credit institution or an insurance undertaking which has its registered office in a Member State, or in a third country where it is subject to prudential rules considered by the competent authorities as equivalent to those laid down in Community law.
+
+2\. Where close links exist between the management company and other natural or legal persons, the competent authorities shall grant authorisation only if those close links do not prevent the effective exercise of their supervisory functions.
+
+The competent authorities shall also refuse authorisation if the laws, regulations or administrative provisions of a third country governing one or more natural or legal persons with which the management company has close links, or difficulties involved in their enforcement, prevent the effective exercise of their supervisory functions.
+
+The competent authorities shall require management companies to provide them with the information they require to monitor compliance with the conditions referred to in this paragraph on a continuous basis.
+
+3\. The competent authorities shall inform the applicant within six months of the submission of a complete application whether or not authorisation has been granted. Reasons shall be given where an authorisation is refused.
+
+4\. A management company may start business as soon as authorisation has been granted.
+
+5\. The competent authorities may withdraw the authorisation issued to a management company subject to this Directive only where that company:
+
+(a) does not make use of the authorisation within 12 months, expressly renounces the authorisation or has ceased the activity covered by this Directive more than six months previously, unless the Member State concerned has provided for authorisation to lapse in such cases;
+
+(b) has obtained the authorisation by making false statements or by any other irregular means;
+
+(c) no longer fulfils the conditions under which authorisation was granted;
+
+(d) no longer complies with Directive 2006/49/EC if its authorisation also covers the discretionary portfolio management service referred to in Article 6(3)(a) of this Directive;
+
+(e) has seriously or systematically infringed the provisions adopted pursuant to this Directive; or
+
+(f) falls within any of the cases where national law provides for withdrawal.
+
+6\. In order to ensure consistent harmonisation of this Article, ESMA may develop draft regulatory technical standards to specify:
+
+(a) the information to be provided to the competent authorities in the application for the authorisation of the management company, including the programme of activity;
+
+(b) the requirements applicable to the management company under paragraph 2 and the information for the notification provided for in paragraph 3;
+
+(c) the requirements applicable to shareholders and members with qualifying holdings, as well as obstacles which may prevent effective exercise of the supervisory functions of the competent authority, as provided for in Article 8(1) of this Directive and in Article 10(1) and (2) of Directive 2004/39/EC, in accordance with Article 11 of this Directive.
+
+Power is delegated to the Commission to adopt the regulatory technical standards referred to in the first subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1095/2010.
+
+In order to ensure uniform conditions of application of this Article, ESMA may develop draft implementing technical standards to determine standard forms, templates and procedures for the notification or provision of information provided for in points (a) and (b) of the first subparagraph.
+
+Power is conferred on the Commission to adopt the implementing technical standards referred to in the third subparagraph in accordance with Article 15 of Regulation (EU) No 1095/2010.
+
+7\. Member States shall require that management companies, before implementation, notify the competent authorities of their home Member State of any material changes to the conditions for initial authorisation, in particular material changes to the information provided in accordance with this Article.
+
+#### Article 8
+
+1\. The competent authorities shall not grant authorisation to take up the business of management companies until they have been informed of the identities of the shareholders or members, whether direct or indirect, natural or legal persons, that have qualifying holdings and of the amounts of those holdings.
+
+The competent authorities shall refuse authorisation if, taking into account the need to ensure the sound and prudent management of a management company, they are not satisfied as to the suitability of the shareholders or members referred to in the first subparagraph.
+
+2\. In the case of branches of management companies that have registered offices outside the Community and are taking up or pursuing business, the Member States shall not apply provisions that result in treatment more favourable than that accorded to branches of management companies that have registered offices in Member States.
+
+3\. The competent authorities of the other Member State involved shall be consulted beforehand in relation to the authorisation of any management company which is one of the following:
+
+(a) a subsidiary of another management company, an investment firm, a credit institution or an insurance undertaking authorised in another Member State;
+
+(b) a subsidiary of the parent undertaking of another management company, an investment firm, a credit institution or an insurance undertaking authorised in another Member State; or
+
+(c) a company controlled by the same natural or legal persons as control another management company, an investment firm, a credit institution or an insurance undertaking authorised in another Member State.
+
+### SECTION 2 — Relations with third countries
+
+#### Article 9
+
+1\. Relations with third countries shall be regulated in accordance with the relevant rules laid down in Article 15 of Directive 2004/39/EC.
+
+For the purposes of this Directive, the terms ‘investment firm’ and ‘investment firms’ referred to in Article 15 of Directive 2004/39/EC shall mean, respectively, ‘management company’ and ‘management companies’; the term ‘providing investment services’ referred to in Article 15(1) of Directive 2004/39/EC shall mean ‘providing services’.
+
+2\. Member States shall inform ESMA and the Commission of any general difficulties which UCITS encounter in marketing their units in any third country.
+
+The Commission shall examine such difficulties as quickly as possible in order to find an appropriate solution. ESMA shall assist it in discharging that task.
+
+### SECTION 3 — Operating conditions
+
+#### Article 10
+
+1\. The competent authorities of the management company’s home Member State shall require that the management company which they have authorised complies at all times with the conditions laid down in Article 6 and Article 7(1) and (2).
+
+The own funds of a management company shall not fall below the level specified in Article 7(1)(a). If they do, however, the competent authorities may, where the circumstances so justify, allow such firms a limited period in which to rectify their situations or cease their activities.
+
+2\. The prudential supervision of a management company shall be the responsibility of the competent authorities of the management company’s home Member State, whether the management company establishes a branch or provides services in another Member State or not, without prejudice to those provisions of this Directive which confer responsibility to the competent authorities of a management company’s host Member State.
+
+#### Article 11
+
+1\. Qualifying holdings in management companies shall be subject to the same rules as those laid down in Articles 10, 10a and 10b of Directive 2004/39/EC.
+
+2\. For the purposes of this Directive, the terms ‘investment firm’ and ‘investment firms’ referred to in Article 10 of Directive 2004/39/EC, mean, respectively, ‘management company’ and ‘management companies’.
+
+3\. In order to ensure consistent harmonisation of this Directive, ESMA may develop draft regulatory technical standards to establish an exhaustive list of information, as provided for in this Article, with reference to Article 10b(4) of Directive 2004/39/EC, to be included by proposed acquirers in their notification, without prejudice to Article 10a(2) of that Directive.
+
+Power is delegated to the Commission to adopt the regulatory technical standards referred to in the first subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1095/2010.
+
+In order to ensure uniform conditions of application of this Article, ESMA may develop draft implementing technical standards to establish standard forms, templates and procedures for the modalities of the consultation process between the relevant competent authorities, as provided for in this Article, with reference to Article 10(4) of Directive 2004/39/EC.
+
+Power is conferred to the Commission to adopt the implementing technical standards referred to in the third subparagraph in accordance with Article 15 of Regulation (EU) No 1095/2010.
+
+#### Article 12
+
+1\. Each Member State shall draw up prudential rules which management companies authorised in that Member State, with regard to the activity of management of UCITS authorised according to this Directive, shall observe at all times.
+
+In particular, the competent authorities of the management company’s home Member State, having regard also to the nature of the UCITS managed by a management company, shall require that each such company:
+
+(a) has sound administrative and accounting procedures, control and safeguard arrangements for electronic data processing, including with regard to network and information systems that are set up and managed in accordance with Regulation (EU) 2022/2554 of the European Parliament and of the Council ( 9 ), as well as adequate internal control mechanisms, including, in particular, rules for personal transactions by its employees or for the holding or management of investments in financial instruments in order to invest on its own account and ensuring, at least, that each transaction involving the UCITS may be reconstructed according to its origin, the parties to it, its nature, and the time and place at which it was effected and that the assets of the UCITS managed by the management company are invested according to the fund rules or the instruments of incorporation and the legal provisions in force;
+
+(b) is structured and organised in such a way as to minimise the risk of UCITS’ or clients’ interests being prejudiced by conflicts of interest between the company and its clients, between two of its clients, between one of its clients and a UCITS, or between two UCITS.
+
+2\. Each management company the authorisation of which also covers the discretionary portfolio management service referred to in Article 6(3)(a) shall:
+
+(a) not be permitted to invest all or a part of the investor’s portfolio in units of collective investment undertakings it manages, unless it receives prior general approval from the client;
+
+(b) be subject with regard to the services referred to in Article 6(3) to the provisions laid down in Directive 97/9/EC of the European Parliament and of the Council of 3 March 1997 on investor-compensation schemes ( 10 ).
+
+3\. Without prejudice to Article 116, the Commission shall adopt, by means of delegated acts in accordance with Article 112a, measures specifying:
+
+(a) the procedures and arrangements referred to in point (a) of the second subparagraph of paragraph 1, other than the procedures and arrangements concerning network and information systems;
+
+(b) the structures and organisational requirements to minimise conflicts of interests referred to in point (b) of the second subparagraph of paragraph 1.
+
+4\. In order to ensure uniform conditions of application of this Article, ESMA may develop draft implementing technical standards to determine the conditions of applications of the delegated acts adopted by the Commission regarding the procedures, arrangements, structures and organisational requirements referred to in paragraph 3.
+
+Power is conferred on the Commission to adopt the implementing technical standards referred to in the first subparagraph in accordance with Article 15 of Regulation (EU) No 1095/2010.
+
+#### Article 13
+
+1\. Management companies which intend to delegate to third parties the task of carrying out, on their behalf, one or more of the functions referred to in Annex II or of the services referred to in Article 6(3), shall notify the competent authorities of their home Member State before the delegation arrangements become effective. The following conditions shall be met:
+
+(a) the management company must inform the competent authorities of its home Member State in an appropriate manner; the competent authorities of the management company’s home Member State must, without delay, transmit the information to the competent authorities of the UCITS home Member State;
+
+(b) the mandate must not prevent the effectiveness of supervision of the management company, and, in particular, must not prevent the management company from acting, or the UCITS from being managed, in the best interests of its investors and clients;
+
+(c) when the delegation concerns the investment management, the mandate must be given only to undertakings which are authorised or registered for the purpose of asset management and subject to prudential supervision; the delegation must be in accordance with investment-allocation criteria periodically laid down by the management companies;
+
+(d) where the mandate concerns the investment management and is given to a third-country undertaking, cooperation between the supervisory authorities concerned must be ensured;
+
+(e) a mandate with regard to the core function of investment management must not be given to the depositary or to any other undertaking whose interests may conflict with those of the management company or the unit-holders;
+
+(f) measures must exist which enable the persons who conduct the business of the management company to monitor effectively at any time the activity of the undertaking to which the mandate is given;
+
+(g) the mandate must not prevent the persons who conduct the business of the management company from giving further instructions to the undertaking to which functions or provision of services are delegated at any time or from withdrawing the mandate with immediate effect where to do so is in the interest of investors and clients;
+
+(h) having regard to the nature of the functions and provision of services to be delegated, the undertaking to which functions or provision of services are to be delegated must be qualified and capable of undertaking the functions or performing the services in question;
+
+(i) the UCITS’ prospectuses must list the services and functions which the management company has been allowed to delegate in accordance with this Article; and
+
+(j) the management company must be able to justify its entire delegation structure on objective reasons.
+
+2\. The liability of the management company or the depositary shall not be affected by the fact that the management company has delegated functions or services to a third party. The management company shall not delegate the functions or services to the extent that, in essence, it can no longer be considered to be the manager of the UCITS or the provider of the services referred to in Article 6(3) and to the extent that it becomes a letter-box entity.
+
+3\. By way of derogation from paragraphs 1 and 2 of this Article, where the marketing function referred to in Annex II, third indent, is performed by one or several distributors which are acting on their own behalf and which market the UCITS under Directive 2014/65/EU or through insurance-based investment products in accordance with Directive (EU) 2016/97 of the European Parliament and of the Council ( 11 ), such function shall not be considered to be a delegation subject to the requirements of paragraphs 1 and 2 of this Article irrespective of any distribution agreement between the management company and the distributor.
+
+4\. The management company shall ensure that the performance of the functions referred to in Annex II and the provision of the services referred to in Article 6(3) comply with this Directive. That obligation shall apply irrespective of the regulatory status or location of any delegate or sub-delegate.
+
+5\. The Commission shall adopt, by means of delegated acts in accordance with Article 112a, measures specifying:
+
+(a) the conditions for fulfilling the requirements set out in paragraph 1;
+
+(b) the conditions under which the management company is to be deemed to have delegated its functions to the extent that it becomes a letter-box entity and can no longer be considered to be the manager of the UCITS or the provider of the services referred to in Article 6(3), as set out in paragraph 2.
+
+6\. By 16 April 2029, ESMA shall provide the European Parliament, the Council and the Commission with a report analysing market practices regarding delegation and compliance with Article 7 and with paragraphs 1 to 5 of this Article, based, inter alia, on the data reported to the competent authorities in accordance with Article 20a(2), point (d), and on the exercise of ESMA’s supervisory convergence powers. That report shall also analyse compliance with the substance requirements of this Directive.
+
+#### Article 14
+
+1\. Each Member State shall draw up rules of conduct which management companies authorised in that Member State shall observe at all times. Such rules shall implement at least the principles set out in this paragraph. Those principles shall ensure that a management company:
+
+(a) acts honestly and fairly in conducting its business activities in the best interests of the UCITS it manages and the integrity of the market;
+
+(b) acts with due skill, care and diligence, in the best interests of the UCITS it manages and the integrity of the market;
+
+(c) has and employs effectively the resources and procedures that are necessary for the proper performance of its business activities;
+
+(d) tries to avoid conflicts of interests and, when they cannot be avoided, ensures that the UCITS it manages are fairly treated; and
+
+(e) complies with all regulatory requirements applicable to the conduct of its business activities so as to promote the best interests of its investors and the integrity of the market.
+
+2\. Without prejudice to Article 116, the Commission shall adopt, by means of delegated acts in accordance with Article 112a  , measures with a view to ensuring that the management company complies with the duties set out in paragraph 1, in particular to:
+
+(a) establish appropriate criteria for acting honestly and fairly and with due skill, care and diligence in the best interests of the UCITS;
+
+(b) specify the principles required to ensure that management companies employ effectively the resources and procedures that are necessary for the proper performance of their business activities; and
+
+(c) define the steps that management companies might reasonably be expected to take to identify, prevent, manage or disclose conflicts of interest as well as to establish appropriate criteria for determining the types of conflicts of interest whose existence may damage the interests of the UCITS.
+
+2a. Where a management company manages or intends to manage a UCITS at the initiative of a third party, including cases where that UCITS uses the name of a third-party initiator or where a management company appoints a third-party initiator as a delegate pursuant to Article 13, the management company shall, taking account of any conflicts of interest, submit detailed explanations and evidence of its compliance with paragraph 1, point (d), of this Article to the competent authorities of its home Member State. In particular, the management company shall specify the reasonable steps it has taken to prevent conflicts of interest arising from the relationship with the third party or, where those conflicts of interest cannot be prevented, how it identifies, manages, monitors and, where applicable, discloses, those conflicts of interest in order to prevent them from adversely affecting the interests of the UCITS and its investors.
+
+3\. In order to ensure uniform conditions of application of this Article, ESMA may develop draft implementing technical standards to determine the delegated acts adopted by the Commission regarding the criteria, principles and steps referred to in paragraph 2.
+
+Power is conferred on the Commission to adopt the implementing technical standards referred to in the first subparagraph in accordance with Article 15 of Regulation (EU) No 1095/2010.
+
+4\. For the purposes of paragraph 1, point (a), ESMA shall by 16 October 2025 submit a report to the European Parliament, the Council and the Commission assessing the costs charged by UCITS and management companies to the investors and explaining the reasons for the level of those costs and for any differences between them, including differences resulting from the nature of the UCITS concerned. As part of that assessment, ESMA shall analyse, within the framework of Article 29 of Regulation (EU) No 1095/2010, the appropriateness and effectiveness of the criteria set out in the ESMA convergence tools on the supervision of costs.
+
+For the purposes of that report, and in accordance with Article 35 of Regulation (EU) No 1095/2010, the competent authorities shall provide ESMA on a one-time basis with data on costs including all fees, charges and expenses which are directly or indirectly borne by the investors, or by the management company in connection with the operations of the UCITS, and that are to be directly or indirectly allocated to the UCITS. The competent authorities shall make those data available to ESMA within their powers, which include the power to require management companies to provide information as laid down in Article 98(2) of this Directive.
+
+#### Article 14a
+
+1\. Member States shall require management companies to establish and apply remuneration policies and practices that are consistent with, and promote, sound and effective risk management and that neither encourage risk taking which is inconsistent with the risk profiles, rules or instruments of incorporation of the UCITS that they manage nor impair compliance with the management company’s duty to act in the best interest of the UCITS.
+
+2\. The remuneration policies and practices shall include fixed and variable components of salaries and discretionary pension benefits.
+
+3\. The remuneration policies and practices shall apply to those categories of staff, including senior management, risk takers, control functions and any employee receiving total remuneration that falls within the remuneration bracket of senior management and risk takers whose professional activities have a material impact on the risk profiles of the management companies or of the UCITS that they manage.
+
+4\. In accordance with Article 16 of Regulation (EU) No 1095/2010, ESMA shall issue guidelines addressed to competent authorities or to financial market participants concerning the persons referred to in paragraph 3 of this Article and the application of the principles referred to in Article 14b. Those guidelines shall take into account the principles on sound remuneration policies set out in Commission Recommendation 2009/384/EC ( 12 ), the size of the management company and the size of the UCITS that they manage, their internal organisation, and the nature, scope and complexity of their activities. In the process of the development of those guidelines, ESMA shall cooperate closely with the European Supervisory Authority (European Banking Authority) (‘EBA’), established by Regulation (EU) No 1093/2010 of the European Parliament and of the Council ( 13 ), in order to ensure consistency with requirements developed for other financial services sectors, in particular credit institutions and investment firms.
+
+#### Article 14b
+
+1\. When establishing and applying the remuneration policies referred to in Article 14a, management companies shall comply with the following principles in a way and to the extent that is appropriate to their size, internal organisation and the nature, scope and complexity of their activities:
+
+(a) the remuneration policy is consistent with and promotes sound and effective risk management and does not encourage risk taking which is inconsistent with the risk profiles, rules or instruments of incorporation of the UCITS that the management company manages;
+
+(b) the remuneration policy is in line with the business strategy, objectives, values and interests of the management company and the UCITS that it manages and of the investors in such UCITS, and includes measures to avoid conflicts of interest;
+
+(c) the remuneration policy is adopted by the management body of the management company in its supervisory function, and that body adopts, and reviews at least annually, the general principles of the remuneration policy and is responsible for, and oversees, their implementation; the tasks referred to in this point shall be undertaken only by members of the management body who do not perform any executive functions in the management company concerned and who have expertise in risk management and remuneration;
+
+(d) the implementation of the remuneration policy is, at least annually, subject to central and independent internal review for compliance with policies and procedures for remuneration adopted by the management body in its supervisory function;
+
+(e) staff engaged in control functions are compensated in accordance with the achievement of the objectives linked to their functions, independently of the performance of the business areas that they control;
+
+(f) the remuneration of the senior officers in the risk management and compliance functions is overseen directly by the remuneration committee, where such a committee exists;
+
+(g) where remuneration is performance-related, the total amount of remuneration is based on a combination of the assessment as to the performance of the individual and of the business unit or UCITS concerned and as to their risks and of the overall results of the management company when assessing individual performance, taking into account financial and non-financial criteria;
+
+(h) the assessment of performance is set in a multi-year framework appropriate to the holding period recommended to the investors of the UCITS managed by the management company in order to ensure that the assessment process is based on the longer-term performance of the UCITS and its investment risks and that the actual payment of performance-based components of remuneration is spread over the same period;
+
+(i) guaranteed variable remuneration is exceptional, occurs only in the context of hiring new staff and is limited to the first year of engagement;
+
+(j) fixed and variable components of total remuneration are appropriately balanced and the fixed component represents a sufficiently high proportion of the total remuneration to allow the operation of a fully flexible policy on variable remuneration components, including the possibility to pay no variable remuneration component;
+
+(k) payments relating to the early termination of a contract reflect performance achieved over time and are designed in a way that does not reward failure;
+
+(l) the measurement of performance used to calculate variable remuneration components or pools of variable remuneration components includes a comprehensive adjustment mechanism to integrate all relevant types of current and future risks;
+
+(m) subject to the legal structure of the UCITS and its fund rules or instruments of incorporation, a substantial portion, and in any event at least 50 %, of any variable remuneration component consists of units of the UCITS concerned, equivalent ownership interests, or share-linked instruments or equivalent non-cash instruments with equally effective incentives as any of the instruments referred to in this point, unless the management of UCITS accounts for less than 50 % of the total portfolio managed by the management company, in which case the minimum of 50 % does not apply.
+
+The instruments referred to in this point shall be subject to an appropriate retention policy designed to align incentives with the interests of the management company and the UCITS that it manages and the investors of such UCITS. Member States or their competent authorities may place restrictions on the types and designs of those instruments or ban certain instruments as appropriate. This point shall apply to both the portion of the variable remuneration component deferred in line with point (n) and the portion of the variable remuneration component not deferred;
+
+(n) a substantial portion, and in any event at least 40 %, of the variable remuneration component, is deferred over a period which is appropriate in view of the holding period recommended to the investors of the UCITS concerned and is correctly aligned with the nature of the risks of the UCITS in question.
+
+The period referred to in this point shall be at least three years; remuneration payable under deferral arrangements vests no faster than on a pro-rata basis; in the case of a variable remuneration component of a particularly high amount, at least 60 % of the amount shall be deferred;
+
+(o) the variable remuneration, including the deferred portion, is paid or vests only if it is sustainable according to the financial situation of the management company as a whole, and justified according to the performance of the business unit, the UCITS and the individual concerned.
+
+The total variable remuneration shall generally be considerably contracted where subdued or negative financial performance of the management company or of the UCITS concerned occurs, taking into account both current compensation and reductions in payouts of amounts previously earned, including through malus or clawback arrangements;
+
+(p) the pension policy is in line with the business strategy, objectives, values and long-term interests of the management company and the UCITS that it manages.
+
+If the employee leaves the management company before retirement, discretionary pension benefits shall be held by the management company for a period of five years in the form of instruments referred to in point (m). In the case of an employee reaching retirement, discretionary pension benefits shall be paid to the employee in the form of instruments referred to in point (m), subject to a five-year retention period;
+
+(q) staff are required to undertake not to use personal hedging strategies or remuneration- and liability-related insurance to undermine the risk alignment effects embedded in their remuneration arrangements;
+
+(r) variable remuneration is not paid through vehicles or methods that facilitate the avoidance of the requirements laid down in this Directive.
+
+2\. In accordance with Article 35 of Regulation (EU) No 1095/2010, ESMA may request information from competent authorities on the remuneration policies and practices referred to in Article 14a of this Directive.
+
+ESMA shall, in close cooperation with EBA, include in its guidelines on remuneration policies provisions on how different sectoral remuneration principles, such as those set out in Directive 2011/61/EU of the European Parliament and of the Council ( 14 ) and in Directive 2013/36/EU of the European Parliament and of the Council ( 15 ), are to be applied where employees or other categories of personnel perform services subject to different sectoral remuneration principles.
+
+3\. The principles set out in paragraph 1 shall apply to any benefit of any type paid by the management company, to any amount paid directly by the UCITS itself, including performance fees, and to any transfer of units or shares of the UCITS, made for the benefit of those categories of staff, including senior management, risk takers, control functions and any employee receiving total remuneration that falls into the remuneration bracket of senior management and risk takers, whose professional activities have a material impact on their risk profile or the risk profile of the UCITS that they manage.
+
+4\. Management companies that are significant in terms of their size or of the size of the UCITS that they manage, their internal organisation and the nature, scope and complexity of their activities shall establish a remuneration committee. The remuneration committee shall be constituted in a way that enables it to exercise competent and independent judgment on remuneration policies and practices and the incentives created for managing risk.
+
+The remuneration committee that is, where appropriate, set up in accordance with the ESMA guidelines referred to in Article 14a(4) shall be responsible for the preparation of decisions regarding remuneration, including those which have implications for the risk and risk management of the management company or the UCITS concerned and which are to be taken by the management body in its supervisory function. The remuneration committee shall be chaired by a member of the management body who does not perform any executive functions in the management company concerned. The members of the remuneration committee shall be members of the management body who do not perform any executive functions in the management company concerned.
+
+If employee representation on the management body is provided for by national law, the remuneration committee shall include one or more employee representatives. When preparing its decisions, the remuneration committee shall take into account the long-term interest of investors and other stakeholders and the public interest.
+
+#### Article 15
+
+Management companies or, where relevant, investment companies shall take measures in accordance with Article 92 and establish appropriate procedures and arrangements to ensure that they deal properly with investor complaints and that there are no restrictions on investors exercising their rights in the event that the management company is authorised in a Member State other than the UCITS home Member State. Those measures shall allow investors to file complaints in the official language or one of the official languages of their Member State.
+
+Management companies shall also establish appropriate procedures and arrangements to make information available at the request of the public or the competent authorities of the UCITS home Member State.
+
+### SECTION 4 — Freedom of establishment and freedom to provide services
+
+#### Article 16
+
+1\. Member States shall ensure that a management company, authorised by its home Member State, may pursue within their territories the activity for which it has been authorised, either by the establishment of a branch or under the freedom to provide services.
+
+Where a management company so authorised proposes, without establishing a branch, only to market the units of the UCITS it manages as provided for in Annex II in a Member State other than the UCITS home Member State, without proposing to pursue any other activities or services, such marketing shall be subject only to the requirements of Chapter XI.
+
+2\. Member States shall not make the establishment of a branch or the provision of the services subject to any authorisation requirement, to any requirement to provide endowment capital or to any other measure having equivalent effect.
+
+3\. Subject to the conditions set out in this Article, a UCITS shall be free to designate, or to be managed by a management company authorised in a Member State other than the UCITS home Member State in accordance with the relevant provisions of this Directive, provided that such a management company complies with the provisions of:
+
+(a) Article 17 or Article 18; and
+
+(b) Articles 19 and 20.
+
+#### Article 17
+
+1\. In addition to meeting the conditions imposed in Articles 6 and 7, a management company wishing to establish a branch within the territory of another Member State to pursue the activities for which it has been authorised shall notify the competent authorities of its home Member State accordingly.
+
+2\. Member States shall require every management company wishing to establish a branch within the territory of another Member State to provide the following information and documents, when effecting the notification provided for in paragraph 1:
+
+(a) the Member State within the territory of which the management company plans to establish a branch;
+
+(b) a programme of operations setting out the activities and services according to Article 6(2) and (3) envisaged and the organisational structure of the branch, which shall include a description of the risk management process put in place by the management company. It shall also include a description of the procedures and arrangements taken in accordance with Article 15;
+
+(c) the address in the management company’s host Member State from which documents may be obtained; and
+
+(d) the names of those responsible for the management of the branch.
+
+3\. Unless the competent authorities of the management company’s home Member State have reason to doubt the adequacy of the administrative structure or the financial situation of a management company, taking into account the activities envisaged, they shall, within two months of receiving all the information referred to in paragraph 2, communicate that information to the competent authorities of the management company’s host Member State and shall inform the management company accordingly. They shall also communicate details of any compensation scheme intended to protect investors.
+
+Where the competent authorities of the management company’s home Member State refuse to communicate the information referred to in paragraph 2 to the competent authorities of the management company’s host Member State, they shall give reasons for such refusal to the management company concerned within two months of receiving all the information. The refusal or any failure to reply shall be subject to the right to apply to the courts in the management company’s home Member State.
+
+Where a management company wishes to pursue the activity of collective portfolio management referred to in Annex II, the competent authorities of the management company’s home Member State shall enclose with the documentation sent to the competent authorities of the management company’s host Member State an attestation that the management company has been authorised pursuant to the provisions of this Directive, a description of the scope of the management company’s authorisation and details of any restriction on the types of UCITS that the management company is authorised to manage.
+
+4\. A management company which pursues activities by a branch within the territory of the host Member State shall comply with the rules drawn up by the management company’s host Member State pursuant to Article 14.
+
+5\. The competent authorities of the management company’s host Member State shall be responsible for supervising compliance with paragraph 4.
+
+6\. Before the branch of a management company starts business, the competent authorities of the management company’s host Member State shall, within two months of receiving the information referred to in paragraph 2, prepare for supervising the compliance of the management company with the rules under their responsibility.
+
+7\. On receipt of a communication from the competent authorities of the management company’s host Member State or on the expiry of the period provided for in paragraph 6 without receipt of any communication from those authorities, the branch may be established and start business.
+
+8\. In the event of change of any particulars communicated in accordance with paragraph 2(b), (c) or (d), a management company shall give written notice of that change to the competent authorities of the management company’s home Member State and of the management company’s host Member State at least one month before implementing the change so that the competent authorities of the management company’s home Member State may take a decision on the change under paragraph 3 and the competent authorities of the management company’s host Member State may do so under paragraph 6.
+
+Where, pursuant to a change as referred to in the first subparagraph, the management company would no longer comply with this Directive, the competent authorities of the management company's home Member State shall inform the management company within 15 working days of receipt of all the information referred to in the first subparagraph that it is not to implement that change. In that case, the competent authorities of the management company's home Member State shall inform the competent authorities of the management company's host Member State accordingly.
+
+Where a change referred to in the first subparagraph is implemented after information has been transmitted in accordance with the second subparagraph and pursuant to that change the management company no longer complies with this Directive, the competent authorities of the management company's home Member State shall take all appropriate measures in accordance with Article 98 and shall notify the competent authorities of the management company's host Member State without undue delay of the measures taken.
+
+9\. In the event of a change in the particulars communicated in accordance with the first subparagraph of paragraph 3, the competent authorities of the management company’s home Member State shall inform the competent authorities of the management company’s host Member State accordingly.
+
+The competent authorities of the management company’s home Member State shall update the information contained in the attestation referred to in the third subparagraph of paragraph 3 and inform the competent authorities of the management company’s host Member State whenever there is a change in the scope of the management company’s authorisation or in the details of any restriction on the types of UCITS that the management company is authorised to manage.
+
+10\. In order to ensure consistent harmonisation of this Article ESMA may develop draft regulatory technical standards to specify the information to be notified in accordance with paragraphs 1, 2, 3, 8 and 9.
+
+Power is delegated to the Commission to adopt the regulatory technical standards referred to in the first subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1095/2010.
+
+In order to ensure uniform conditions of application of this Article, ESMA may develop draft implementing technical standards to establish standard forms, templates and procedures for the transmission of information in accordance with paragraphs 3 and 9.
+
+Power is conferred on the Commission to adopt the implementing technical standards referred to in the third subparagraph in accordance with Article 15 of Regulation (EU) No 1095/2010.
+
+#### Article 18
+
+1\. Any management company wishing to pursue the activities for which it has been authorised within the territory of another Member State for the first time under the freedom to provide services shall communicate the following information to the competent authorities of the management company’s home Member State:
+
+(a) the Member State within the territory of which the management company intends to operate; and
+
+(b) a programme of operations stating the activities and services referred to in Article 6(2) and (3) envisaged which shall include a description of the risk management process put in place by the management company. It shall also include a description of the procedures and arrangements taken in accordance with Article 15.
+
+2\. The competent authorities of the management company’s home Member State shall, within one month of receiving the information referred to in paragraph 1, forward it to the competent authorities of the management company’s host Member State.
+
+The competent authorities of the management company’s home Member State shall also communicate details of any applicable compensation scheme intended to protect investors.
+
+Where a management company wishes to pursue the activity of collective portfolio management as referred to in Annex II, the competent authorities of the management company’s home Member State shall enclose with the documentation sent to the competent authorities of the management company’s host Member State an attestation that the management company has been authorised pursuant to the provisions of this Directive, a description of the scope of the management company’s authorisation and details of any restriction on the types of UCITS that the management company is authorised to manage.
+
+Notwithstanding Articles 20 and 93, the management company may then start business in the management company’s host Member State.
+
+3\. A management company which pursues activities under the freedom to provide services shall comply with the rules drawn up by the management company’s home Member State pursuant to Article 14.
+
+4\. Where the content of the information communicated in accordance with paragraph 1(b) is amended, the management company shall give notice of the amendment in writing to the competent authorities of the management company’s home Member State and of the management company’s host Member State before implementing the change. The competent authorities of the management company’s home Member State shall update the information contained in the attestation referred to in paragraph 2 and inform the competent authorities of the management company’s host Member State whenever there is a change in the scope of the management company’s authorisation or in the details of any restriction on the types of UCITS that the management company is authorised to manage.
+
+5\. In order to ensure consistent harmonisation of this Article ESMA may develop draft regulatory technical standards to specify the information to be notified in accordance with paragraphs 1, 2 and 4.
+
+Power is delegated to the Commission to adopt the regulatory technical standards referred to in the first subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1095/2010.
+
+In order to ensure uniform conditions of application of this Article, ESMA may develop draft implementing technical standards to establish standard forms, templates and procedures for the transmission of information in accordance with paragraphs 2 and 4.
+
+Power is conferred on the Commission to adopt the implementing technical standards referred to in the third subparagraph in accordance with Article 15 of Regulation (EU) No 1095/2010.
+
+#### Article 18a
+
+1\. Member States shall ensure that at least the liquidity management tools set out in Annex IIA are available to UCITS.
+
+2\. A UCITS shall select at least two appropriate liquidity management tools from those referred to in Annex IIA, points 2 to 8, after assessing the suitability of those tools in relation to its pursued investment strategy, its liquidity profile and its redemption policy. The UCITS shall include those tools in its fund rules or the instruments of incorporation for possible use in the interest of the UCITS’ investors. It shall not be possible for that selection to include only the tools referred to in Annex IIA, points 5 and 6.
+
+By way of derogation from the first subparagraph, a UCITS may decide to select only one liquidity management tool from those referred to in Annex IIA, points 2 to 8, if that UCITS is authorised as a money market fund in accordance with Regulation (EU) 2017/1131 of the European Parliament and of the Council ( 16 ).
+
+The UCITS shall implement detailed policies and procedures for the activation and deactivation of any selected liquidity management tool and the operational and administrative arrangements for the use of such tool. The selection referred to in the first and second subparagraphs and the detailed policies and procedures for the activation and deactivation shall be communicated to the competent authorities of the UCITS home Member State.
+
+Redemption in kind as referred to in Annex IIA, point 8, shall only be activated to meet redemptions requested by professional investors and if the redemption in kind corresponds to a pro rata share of the assets held by the UCITS.
+
+By way of derogation from the fourth subparagraph of this paragraph, the redemption in kind need not correspond to a pro rata share of the assets held by the UCITS if that UCITS is solely marketed to professional investors, or if the aim of that UCITS’ investment policy is to replicate the composition of a certain stock or debt securities index and that UCITS is an exchange-traded fund as defined in Article 4(1), point (46), of Directive 2014/65/EU.
+
+3\. ESMA shall develop draft regulatory technical standards to specify the characteristics of the liquidity management tools set out in Annex IIA.
+
+When developing those draft regulatory technical standards, ESMA shall take account of the diversity of investment strategies and underlying assets of UCITS. Those standards shall not restrict the ability of UCITS to use any appropriate liquidity management tool for all asset classes, jurisdictions and market conditions.
+
+4\. By 16 April 2025, ESMA shall develop guidelines on the selection and calibration of liquidity management tools by UCITS for liquidity risk management and for mitigating financial stability risks. Those guidelines shall recognise that the primary responsibility for liquidity risk management remains with UCITS. They shall include indications as to the circumstances in which side pockets, as referred to in Annex IIA, point 9, can be activated. They shall allow adequate time for adaptation before they apply, in particular for existing UCITS.
+
+5\. ESMA shall submit the draft regulatory technical standards referred to in paragraph 3 of this Article to the Commission by 16 April 2025.
+
+Power is delegated to the Commission to supplement this Directive by adopting the regulatory technical standards referred to in paragraph 3 in accordance with Articles 10 to 14 of Regulation (EU) No 1095/2010.
+
+#### Article 19
+
+1\. A management company which pursues the activity of collective portfolio management on a cross-border basis by establishing a branch or under the freedom to provide services shall comply with the rules of the management company’s home Member State which relate to the organisation of the management company, including delegation arrangements, risk-management procedures, prudential rules and supervision, procedures referred to in Article 12 and the management company’s reporting requirements. Those rules shall be no stricter than those applicable to management companies conducting their activities only in their home Member State.
+
+2\. The competent authorities of the management company’s home Member State shall be responsible for supervising compliance with paragraph 1.
+
+3\. A management company which pursues the activity of collective portfolio management on a cross-border basis by establishing a branch or in accordance with the freedom to provide services shall comply with the rules of the UCITS home Member State which relate to the constitution and functioning of the UCITS, namely the rules applicable to:
+
+(a) the setting up and authorisation of the UCITS;
+
+(b) the issuance and redemption of units and shares;
+
+(c) investment policies and limits, including the calculation of total exposure and leverage;
+
+(d) restrictions on borrowing, lending and uncovered sales;
+
+(e) the valuation of assets and the accounting of the UCITS;
+
+(f) the calculation of the issue or redemption price, and errors in the calculation of the net asset value and related investor compensation;
+
+(g) the distribution or reinvestment of the income;
+
+(h) the disclosure and reporting requirements of the UCITS, including the prospectus, key investor information and periodic reports;
+
+(i) the arrangements made for marketing;
+
+(j) the relationship with unit-holders;
+
+(k) the merging and restructuring of the UCITS;
+
+(l) the winding-up and liquidation of the UCITS;
+
+(m) where applicable, the content of the unit-holder register;
+
+(n) the licensing and supervision fees regarding the UCITS; and
+
+(o) the exercise of unit-holders’ voting rights and other unit-holders’ rights in relation to points (a) to (m).
+
+4\. The management company shall comply with the obligations set out in the fund rules or in the instruments of incorporation, and the obligations set out in the prospectus, which shall be consistent with the applicable law as referred to in paragraphs 1 and 3.
+
+5\. The competent authorities of the UCITS home Member State shall be responsible for supervising compliance with paragraphs 3 and 4.
+
+6\. The management company shall decide and be responsible for adopting and implementing all the arrangements and organisational decisions which are necessary to ensure compliance with the rules which relate to the constitution and functioning of the UCITS and with the obligations set out in the fund rules or in the instruments of incorporation, and with the obligations set out in the prospectus.
+
+7\. The competent authorities of the management company’s home Member State shall be responsible for supervising the adequacy of the arrangements and organisation of the management company so that the management company is in a position to comply with the obligations and rules which relate to the constitution and functioning of all the UCITS it manages.
+
+8\. Member States shall ensure that any management company authorised in a Member State is not subject to any additional requirement established in the UCITS home Member State in respect of the subject matter of this Directive, except in the cases expressly referred to in this Directive.
+
+#### Article 20
+
+1\. Without prejudice to Article 5, a management company which applies to manage a UCITS established in another Member State shall provide the competent authorities of the UCITS home Member State with the following documentation:
+
+(a) the written contract with the depositary referred to in Article 22(2);
+
+(b) information on delegation arrangements regarding functions of investment management and administration referred to in Annex II.
+
+If a management company already manages other UCITS of the same type in the UCITS home Member State, reference to the documentation already provided shall be sufficient.
+
+2\. In so far as it is necessary to ensure compliance with the rules for which they are responsible, the competent authorities of the UCITS home Member State may ask the competent authorities of the management company’s home Member State for clarification and information regarding the documentation referred to in paragraph 1 and, based on the attestation referred to in Articles 17 and 18, as to whether the type of UCITS for which authorisation is requested falls within the scope of the management company’s authorisation. Where applicable, the competent authorities of the management company’s home Member State shall provide their opinion within 10 working days of the initial request.
+
+3\. The competent authorities of the UCITS home Member State may refuse the application of the management company only if:
+
+(a) the management company does not comply with the rules falling under their responsibility pursuant to Article 19;
+
+(b) the management company is not authorised by the competent authorities of its home Member State to manage the type of UCITS for which authorisation is requested; or
+
+(c) the management company has not provided the documentation referred to in paragraph 1.
+
+Before refusing an application, the competent authorities of the UCITS home Member State shall consult the competent authorities of the management company’s home Member State.
+
+4\. Any subsequent material modifications of the documentation referred to in paragraph 1 shall be notified by the management company to the competent authorities of the UCITS home Member State.
+
+5\. In order to ensure consistent harmonisation of this Article, ESMA may develop draft regulatory technical standards to determine the information to be provided to the competent authorities in the application for managing a UCITS established in another Member State.
+
+The Commission may adopt the regulatory technical standards referred to in the first subparagraph in accordance with the procedure laid down in Articles 10 to 14 of Regulation (EU) No 1095/2010.
+
+In order to ensure uniform conditions of application of this Article, ESMA may develop draft implementing technical standards to establish standard forms, templates and procedures for such provision of information.
+
+Power is conferred on the Commission to adopt the implementing technical standards referred to in the third subparagraph in accordance with Article 15 of Regulation (EU) No 1095/2010.
+
+#### Article 20b
+
+1\. By 16 April 2026, ESMA shall submit to the Commission a report regarding the development of the integrated collection of supervisory data, which shall focus on how to:
+
+(a) reduce areas of duplication and inconsistencies between the reporting frameworks in the asset-management sector and other sectors of the financial industry; and
+
+(b) improve data standardisation and efficient sharing and use of data already reported within any Union reporting framework by any relevant competent authority, at Union or national level.
+
+In that report, ESMA shall also make a comparison of best practices for data collection in the Union and in other markets for retail investment funds.
+
+2\. When preparing the report referred to in paragraph 1, ESMA shall work in close cooperation with the European Central Bank, the other ESAs, and the competent authorities.
+
+#### Article 21
+
+1\. A management company’s host Member State may, for statistical purposes, require all management companies with branches within its territory to report periodically on their activities pursued in that host Member State to the competent authorities of that host Member State.
+
+2\. A management company’s host Member State may require management companies pursuing business within its territory through the establishment of a branch or under the freedom to provide services, to provide the information necessary for the monitoring of their compliance with the rules under the responsibility of the management company’s host Member State that apply to them.
+
+Those requirements shall not be more stringent than those which the same Member State imposes on management companies authorised in that Member State for the monitoring of their compliance with the same standards.
+
+Management companies shall ensure that the procedures and arrangements referred to in Article 15 enable the competent authorities of the UCITS home Member State to obtain directly from the management company the information referred to in this paragraph.
+
+3\. Where the competent authorities of a management company’s host Member State ascertain that a management company that has a branch or provides services within its territory is in breach of one of the rules under their responsibility, those authorities shall require the management company concerned to put an end to that breach and inform the competent authorities of the management company’s home Member State thereof.
+
+4\. If the management company concerned refuses to provide the management company’s host Member State with information falling under its responsibility, or fails to take the necessary steps to put an end to the breach referred to in paragraph 3, the competent authorities of the management company’s host Member State shall inform the competent authorities of the management company’s home Member State accordingly. The competent authorities of the management company’s home Member State shall, at the earliest opportunity, take all appropriate measures to ensure that the management company concerned provides the information requested by the management company’s host Member State pursuant to paragraph 2 or puts an end to the breach. The nature of those measures shall be communicated to the competent authorities of the management company’s host Member State.
+
+5\. If, despite the measures taken by the competent authorities of the management company's home Member State or because such measures prove to be inadequate or are not available in the Member State in question, the management company continues to refuse to provide the information requested by the management company's host Member State pursuant to paragraph 2, or persists in breaching the legal or regulatory provisions, referred to in the same paragraph, in force in the management company's host Member State, the competent authorities of the management company's host Member State may take either of the following actions:
+
+(a) after informing the competent authorities of the management company's home Member State, take appropriate measures, including under Articles 98 and 99, to prevent or penalise further irregularities and, in so far as necessary, to prevent that management company from initiating any further transaction within its territory. Member States shall ensure that within their territories it is possible to serve the legal documents necessary for those measures on management companies. Where the service provided within the management company's host Member State is the management of a UCITS, the management company's host Member State may require the management company to cease managing that UCITS; or
+
+(b) where they consider that the competent authority of the management company's home Member State has not acted adequately, refer the matter to ESMA, which may act in accordance with the powers conferred on it under Article 19 of Regulation (EU) No 1095/2010.
+
+6\. Any measure adopted pursuant to paragraphs 4 or 5 involving measures or penalties shall be properly justified and communicated to the management company concerned. Every such measure shall be subject to the right to apply to the courts in the Member State which adopted it.
+
+7\. Before following the procedure laid down in paragraphs 3, 4 or 5, the competent authorities of the management company's host Member State may, in emergencies, take any precautionary measures necessary to protect the interests of investors and others for whom services are provided. The Commission, ESMA, and the competent authorities of the other Member States concerned shall be informed of such measures at the earliest opportunity.
+
+After consulting the competent authorities of the Member States concerned, the Commission may decide that the Member State in question must amend or abolish those measures, without prejudice to power of ESMA under Article 17 of Regulation (EU) No 1095/2010.
+
+8\. The competent authorities of the management company’s home Member State shall consult the competent authorities of the UCITS home Member State before withdrawing the authorisation of the management company. In such cases, the competent authorities of the UCITS home Member State shall take appropriate measures to safeguard investors’ interests. Those measures may include decisions preventing the management company concerned from initiating any further transactions within its territory.
+
+Every two years the Commission shall issue a report on such cases.
+
+9\. Member States shall inform ESMA and the Commission of the number and type of cases in which they refuse authorisation under Article 17 or an application under Article 20 and of any measures taken in accordance with paragraph 5 of this Article.
+
+Every two years the Commission shall issue a report on such cases.
+
+## CHAPTER IV — OBLIGATIONS REGARDING THE DEPOSITARY
+
+#### Article 22
+
+1\. An investment company and, for each of the common funds that it manages, a management company shall ensure that a single depositary is appointed in accordance with this Chapter.
+
+2\. The appointment of the depositary shall be evidenced by a written contract.
+
+That contract shall, inter alia, regulate the flow of information deemed to be necessary to allow the depositary to perform its functions for the UCITS for which it has been appointed as depositary, as laid down in this Directive and in other relevant laws, regulations and administrative provisions.
+
+3\. The depositary shall:
+
+(a) ensure that the sale, issue, repurchase, redemption and cancellation of units of the UCITS are carried out in accordance with the applicable national law and the fund rules or instruments of incorporation;
+
+(b) ensure that the value of the units of the UCITS is calculated in accordance with the applicable national law and the fund rules or the instruments of incorporation;
+
+(c) carry out the instructions of the management company or an investment company, unless they conflict with the applicable national law, or with the fund rules or the instruments of incorporation;
+
+(d) ensure that in transactions involving the assets of the UCITS any consideration is remitted to the UCITS within the usual time limits;
+
+(e) ensure that the income of the UCITS is applied in accordance with the applicable national law and the fund rules or the instruments of incorporation.
+
+4\. The depositary shall ensure that the cash flows of the UCITS are properly monitored, and, in particular, that all payments made by, or on behalf of, investors upon the subscription of units of the UCITS have been received, and that all cash of the UCITS has been booked in cash accounts that are:
+
+(a) opened in the name of the UCITS, of the management company acting on behalf of the UCITS, or of the depositary acting on behalf of the UCITS;
+
+(b) opened at an entity referred to in points (a), (b) and (c) of Article 18(1) of Commission Directive 2006/73/EC ( 17 ); and
+
+(c) maintained in accordance with the principles set out in Article 16 of Directive 2006/73/EC.
+
+Where the cash accounts are opened in the name of the depositary acting on behalf of the UCITS, no cash of the entity referred to in point (b) of the first subparagraph and none of the own cash of the depositary shall be booked on such accounts.
+
+5\. The assets of the UCITS shall be entrusted to the depositary for safekeeping as follows:
+
+(a) for financial instruments that may be held in custody, the depositary shall:
+
+(i) hold in custody all financial instruments that may be registered in a financial instruments account opened in the depositary’s books and all financial instruments that can be physically delivered to the depositary;
+
+(ii) ensure that all financial instruments that can be registered in a financial instruments account opened in the depositary’s books are registered in the depositary’s books within segregated accounts in accordance with the principles set out in Article 16 of Directive 2006/73/EC, opened in the name of the UCITS or the management company acting on behalf of the UCITS, so that they can be clearly identified as belonging to the UCITS in accordance with the applicable law at all times;
+
+(b) for other assets, the depositary shall:
+
+(i) verify the ownership by the UCITS, or by the management company acting on behalf of the UCITS, of such assets by assessing whether the UCITS or the management company acting on behalf of the UCITS holds the ownership based on information or documents provided by the UCITS or by the management company and, where available, on external evidence;
+
+(ii) maintain a record of those assets for which it is satisfied that the UCITS or the management company acting on behalf of the UCITS holds the ownership and keep that record up to date.
+
+6\. The depositary shall provide the management company or the investment company, on a regular basis, with a comprehensive inventory of all of the assets of the UCITS.
+
+7\. The assets held in custody by the depositary shall not be reused by the depositary, or by any third party to which the custody function has been delegated, for their own account. Reuse comprises any transaction of assets held in custody including, but not limited to, transferring, pledging, selling and lending.
+
+The assets held in custody by the depositary are allowed to be reused only where:
+
+(a) the reuse of the assets is executed for the account of the UCITS;
+
+(b) the depositary is carrying out the instructions of the management company on behalf of the UCITS;
+
+(c) the reuse is for the benefit of the UCITS and in the interest of the unit holders; and
+
+(d) the transaction is covered by high-quality and liquid collateral received by the UCITS under a title transfer arrangement.
+
+The market value of the collateral shall, at all times, amount to at least the market value of the reused assets plus a premium.
+
+8\. Member States shall ensure that in the event of insolvency of the depositary and/or of any third party located in the Union to which custody of UCITS assets has been delegated, the assets of a UCITS held in custody are unavailable for distribution among, or realisation for the benefit of, creditors of such a depositary and/or such a third party.
+
+#### Article 22a
+
+1\. The depositary shall not delegate to third parties the functions referred to in Article 22(3) and (4).
+
+2\. The depositary may delegate to third parties the functions referred to in Article 22(5) only where:
+
+(a) the tasks are not delegated with the intention of avoiding the requirements laid down in this Directive;
+
+(b) the depositary can demonstrate that there is an objective reason for the delegation;
+
+(c) the depositary has exercised all due skill, care and diligence in the selection and appointment of any third party to whom it intends to delegate parts of its tasks, except where that third party is a central securities depository acting in the capacity of an investor CSD as defined in the delegated act adopted pursuant to Articles 29(3) and 48(10) of Regulation (EU) No 909/2014 and continues to exercise all due skill, care and diligence in the periodic review and ongoing monitoring of any third party to which it has delegated parts of its tasks and of the arrangements of the third party in respect of the matters delegated to it.
+
+3\. The functions referred to in Article 22(5) may be delegated by the depositary to a third party only where that third party at all times during the performance of the tasks delegated to it:
+
+(a) has structures and expertise that are adequate and proportionate to the nature and complexity of the assets of the UCITS or the management company acting on behalf of the UCITS which have been entrusted to it;
+
+(b) for custody tasks referred to in point (a) of Article 22(5), is subject to:
+
+(i) effective prudential regulation, including minimum capital requirements, and supervision in the jurisdiction concerned;
+
+(ii) an external periodic audit to ensure that the financial instruments are in its possession;
+
+(c) segregates the assets of the clients of the depositary from its own assets and from the assets of the depositary in such a way that they can, at any time, be clearly identified as belonging to clients of a particular depositary;
+
+(d) takes all necessary steps to ensure that in the event of insolvency of the third party, assets of a UCITS held by the third party in custody are unavailable for distribution among, or realisation for the benefit of, creditors of the third party; and
+
+(e) complies with the general obligations and prohibitions laid down in Article 22(2), (5) and (7) and in Article 25.
+
+Notwithstanding point (b)(i) of the first subparagraph, where the law of a third country requires that certain financial instruments be held in custody by a local entity and no local entities satisfy the delegation requirements laid down in that point, the depositary may delegate its functions to such a local entity only to the extent required by the law of that third country, only for as long as there are no local entities that satisfy the delegation requirements, and only where:
+
+(a) the investors of the relevant UCITS are duly informed, prior to their investment, of the fact that such a delegation is required due to legal constraints in the law of the third country, of the circumstances justifying the delegation and of the risks involved in such a delegation;
+
+(b) the investment company, or the management company on behalf of the UCITS, has instructed the depositary to delegate the custody of such financial instruments to such a local entity.
+
+The third party may, in turn, sub-delegate those functions, subject to the same requirements. In such a case, Article 24(2) shall apply mutatis mutandis to the relevant parties.
+
+4\. For the purposes of this Article, the provision of services by a central securities depository acting in the capacity of an issuer CSD as defined in the delegated act adopted pursuant to Articles 29(3) and 48(10) of Regulation (EU) No 909/2014 shall not be considered a delegation of the depositary’s custody functions. For the purposes of this Article, the provision of services by a central securities depository acting in the capacity of an investor CSD as defined in that delegated act shall be considered a delegation of the depositary’s custody functions.
+
+#### Article 23
+
+1\. A depositary shall either have its registered office or be established in the UCITS home Member State.
+
+2\. The depositary shall be:
+
+(a) a national central bank;
+
+(b) a credit institution authorised in accordance with Directive 2013/36/EU; or
+
+(c) another legal entity, authorised by the competent authority under the law of the Member State to carry out depositary activities under this Directive, which is subject to capital adequacy requirements not less than the requirements calculated depending on the selected approach in accordance with Article 315 or 317 of Regulation (EU) No 575/2013 of the European Parliament and of the Council ( 18 ) and which has own funds not less than the amount of initial capital under Article 28(2) of Directive 2013/36/EU.
+
+A legal entity as referred to in point (c) of the first subparagraph shall be subject to prudential regulation and ongoing supervision and shall satisfy the following minimum requirements:
+
+(a) it shall have the infrastructure necessary to keep in custody financial instruments that can be registered in a financial instruments account opened in the depositary’s books;
+
+(b) it shall establish adequate policies and procedures sufficient to ensure compliance of the entity, including its managers and employees, with its obligations under this Directive;
+
+(c) it shall have sound administrative and accounting procedures, internal control mechanisms, effective procedures for risk assessment and effective control and safeguard arrangements for information processing systems;
+
+(d) it shall maintain and operate effective organisational and administrative arrangements with a view to taking all reasonable steps designed to prevent conflicts of interest;
+
+(e) it shall arrange for records to be kept of all services, activities and transactions that it undertakes, which shall be sufficient to enable the competent authority to fulfil its supervisory tasks and to perform the enforcement actions provided for in this Directive;
+
+(f) it shall take reasonable steps to ensure continuity and regularity in the performance of its depositary functions by employing appropriate and proportionate systems, resources and procedures including to perform its depositary activities;
+
+(g) all members of its management body and senior management, shall, at all times, be of sufficiently good repute, possess sufficient knowledge, skills and experience;
+
+(h) its management body shall possess adequate collective knowledge, skills and experience to be able to understand the depositary’s activities, including the main risks;
+
+(i) each member of its management body and senior management shall act with honesty and integrity.
+
+3\. Member States shall determine which of the categories of institutions referred to in the first subparagraph of paragraph 2 shall be eligible to be depositaries.
+
+4\. Investment companies or management companies acting on behalf of the UCITS that they manage, which, before 18 March 2016, appointed as a depositary an institution that does not meet the requirements laid down in paragraph 2, shall appoint a depositary that meets those requirements before 18 March 2018.
+
+#### Article 24
+
+1\. Member States shall ensure that the depositary is liable to the UCITS and to the unit-holders of the UCITS for the loss by the depositary or a third party to whom the custody of financial instruments held in custody in accordance with point (a) of Article 22(5) has been delegated.
+
+In the case of a loss of a financial instrument held in custody, Member States shall ensure that the depositary returns a financial instrument of an identical type or the corresponding amount to the UCITS or the management company acting on behalf of the UCITS without undue delay. The depositary shall not be liable if it can prove that the loss has arisen as a result of an external event beyond its reasonable control, the consequences of which would have been unavoidable despite all reasonable efforts to the contrary.
+
+Member States shall ensure that the depositary is also liable to the UCITS, and to the investors of the UCITS, for all other losses suffered by them as a result of the depositary’s negligent or intentional failure to properly fulfil its obligations pursuant to this Directive.
+
+2\. The liability of the depositary referred to in paragraph 1 shall not be affected by any delegation as referred to in Article 22a.
+
+3\. The liability of the depositary referred to in paragraph 1 shall not be excluded or limited by agreement.
+
+4\. Any agreement that contravenes paragraph 3 shall be void.
+
+5\. Unit-holders in the UCITS may invoke the liability of the depositary directly or indirectly through the management company or the investment company provided that this does not lead to a duplication of redress or to unequal treatment of the unit-holders.
+
+#### Article 25
+
+1\. No company shall act as both management company and depositary. No company shall act as both investment company and depositary.
+
+2\. In carrying out their respective functions, the management company and the depositary shall act honestly, fairly, professionally, independently and solely in the interest of the UCITS and the investors of the UCITS. In carrying out their respective functions, the investment company and the depositary shall act honestly, fairly, professionally, independently and solely in the interest of the investors of the UCITS.
+
+A depositary shall not carry out activities with regard to the UCITS or the management company on behalf of the UCITS that may create conflicts of interest between the UCITS, the investors in the UCITS, the management company and itself, unless the depositary has functionally and hierarchically separated the performance of its depositary tasks from its other potentially conflicting tasks, and the potential conflicts of interest are properly identified, managed, monitored and disclosed to the investors of the UCITS.
+
+#### Article 26
+
+1\. The law or the fund rules of the common fund shall lay down the conditions for the replacement of the management company and of the depositary and rules to ensure the protection of unit-holders in the event of such a replacement.
+
+2\. The law or the instruments of incorporation of the investment company shall lay down the conditions for the replacement of the management company and of the depositary and rules to ensure the protection of unit-holders in the event of such a replacement.
+
+#### Article 26a
+
+The depositary shall make available to its competent authorities, on request, all information which it has obtained while performing its duties and that may be necessary for its competent authorities or for the competent authorities of the UCITS or of the management company.
+
+If the competent authorities of the UCITS or of the management company are different from those of the depositary, the competent authorities of the depositary shall without delay share the information received with the competent authorities of the UCITS and of the management company.
+
+#### Article 26b
+
+The Commission shall be empowered to adopt delegated acts in accordance with Article 112a specifying:
+
+(a) the particulars that need to be included in the written contract referred to in Article 22(2);
+
+(b) the conditions for performing the depositary functions pursuant to Article 22(3), (4) and (5), including:
+
+(i) the types of financial instrument to be included in the scope of the custody duties of the depositary in accordance with point (a) of Article 22(5);
+
+(ii) the conditions subject to which the depositary is able to exercise its custody duties over financial instruments registered with a central depositary;
+
+(iii) the conditions subject to which the depositary is to safekeep the financial instruments issued in a nominative form and registered with an issuer or a registrar, in accordance with point (b) of Article 22(5);
+
+(c) the due diligence duties of depositaries pursuant to point (c) of Article 22a(2);
+
+(d) the segregation obligation pursuant to point (c) of Article 22a(3);
+
+(e) the steps to be taken by the third party pursuant to point (d) of Article 22a(3);
+
+(f) the conditions subject to which and circumstances in which financial instruments held in custody are to be considered to be lost for the purpose of Article 24;
+
+(g) what is to be understood by external events beyond reasonable control, the consequences of which would have been unavoidable despite all reasonable efforts to the contrary, pursuant to Article 24(1);
+
+(h) the conditions for fulfilling the independence requirement referred to in Article 25(2).
+
+## CHAPTER V — OBLIGATIONS REGARDING INVESTMENT COMPANIES
+
+### SECTION 1 — Conditions for taking up business
+
+#### Article 27
+
+Access to the business of an investment company shall be subject to prior authorisation to be granted by the competent authorities of the investment company’s home Member State.
+
+Member States shall determine the legal form which an investment company must take.
+
+The registered office of the investment company shall be situated in the investment company’s home Member State.
+
+#### Article 28
+
+No investment company may engage in activities other than those referred to in Article 1(2).
+
+#### Article 29
+
+1\. Without prejudice to other conditions of general application laid down by national law, the competent authorities of the investment company’s home Member State shall not grant authorisation to an investment company that has not designated a management company unless the investment company has a sufficient initial capital of at least EUR 300 000 .
+
+In addition, when an investment company has not designated a management company authorised pursuant to this Directive, the following conditions shall apply:
+
+(a) the authorisation must not be granted unless the application for authorisation is accompanied by a programme of operations setting out, at least, the organisational structure of the investment company;
+
+(b) the directors of the investment company must be of sufficiently good repute and be sufficiently experienced also in relation to the type of business pursued by the investment company and, to that end: the names of the directors and of every person succeeding them in office must be communicated forthwith to the competent authorities; the conduct of an investment company’s business must be decided by at least two natural persons meeting such conditions who either are employed full-time by that investment company or are executive members or members of the management body of the investment company committed full-time to conducting the business of that investment company, and who are domiciled in the Union; and ‘directors’ shall mean those persons who, under the law or the instruments of incorporation, represent the investment company, or who effectively determine the policy of the company;
+
+(c) where close links exist between the investment company and other natural or legal persons, the competent authorities must grant authorisation only if those close links do not prevent the effective exercise of their supervisory functions.
+
+The competent authorities of the investment company’s home Member State shall also refuse authorisation if the laws, regulations or administrative provisions of a third country governing one or more natural or legal persons with which the investment company has close links, or difficulties involved in their enforcement, prevent the effective exercise of their supervisory functions.
+
+The competent authorities of the investment company’s home Member State shall require investment companies to provide them with the information they need.
+
+2\. Where an investment company has not designated a management company, the investment company shall be informed, within six months of the submission of a complete application, whether or not authorisation has been granted. Reasons shall be given whenever an authorisation is refused.
+
+3\. An investment company may start business as soon as authorisation has been granted.
+
+4\. The competent authorities of the investment company’s home Member State may withdraw the authorisation issued to an investment company subject to this Directive only where that company:
+
+(a) does not make use of the authorisation within 12 months, expressly renounces the authorisation or has ceased the activity covered by this Directive more than six months previously, unless the Member State concerned has provided for authorisation to lapse in such cases;
+
+(b) has obtained the authorisation by making false statements or by any other irregular means;
+
+(c) no longer fulfils the conditions under which authorisation was granted;
+
+(d) has seriously or systematically infringed the provisions adopted pursuant to this Directive; or
+
+(e) falls within any of the cases where national law provides for withdrawal.
+
+5\. In order to ensure consistent harmonisation of this Directive, ESMA may develop draft regulatory technical standards to specify:
+
+(a) the information to be provided to the competent authorities in the application for the authorisation of the investment company, including the programme of operations; and
+
+(b) the obstacles which may prevent effective exercise of the supervisory functions of the competent authority under paragraph 1(c).
+
+Power is delegated to the Commission to adopt the regulatory technical standards referred to in the first subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1095/2010.
+
+6\. In order to ensure uniform conditions of application of this Article, ESMA may develop draft implementing technical standards to establish standard forms, templates and procedures for the provision of information referred to in point (a) of the first subparagraph of paragraph 5.
+
+Power is conferred on the Commission to adopt the implementing technical standards referred to in the first subparagraph in accordance with Article 15 of Regulation (EU) No 1095/2010.
+
+### SECTION 2 — Operating conditions
+
+#### Article 30
+
+Articles 13 to 14b shall apply mutatis mutandis to investment companies that have not designated a management company authorised pursuant to this Directive.
+
+For the purpose of the Articles referred to in the first paragraph, ‘management company’ means ‘investment company’.
+
+Investment companies shall manage only assets of their own portfolio and shall not, under any circumstances, receive any mandate to manage assets on behalf of a third party.
+
+#### Article 31
+
+Each investment company’s home Member State shall draw up prudential rules which shall be observed at all times by investment companies that have not designated a management company authorised pursuant to this Directive.
+
+In particular, the competent authorities of the investment company’s home Member State, having regard also to the nature of the investment company, shall require that the company has sound administrative and accounting procedures, control and safeguard arrangements for electronic data processing and adequate internal control mechanisms including, in particular, rules for personal transactions by its employees or for the holding or management of investments in financial instruments in order to invest its initial capital and ensuring, at least, that each transaction involving the company may be reconstructed according to its origin, the parties to it, its nature, and the time and place at which it was effected and that the assets of the investment company are invested according to the instruments of incorporation and the legal provisions in force.
+
+## CHAPTER VI — MERGERS OF UCITS
+
+### SECTION 1 — Principle, authorisation and approval
+
+#### Article 37
+
+For the purposes of this Chapter, a UCITS shall include investment compartments thereof.
+
+#### Article 38
+
+1\. Member States shall, subject to the conditions set out in this Chapter and irrespective of the manner in which UCITS are constituted under Article 1(3), allow for cross-border and domestic mergers as defined in Article 2(1)(q) and (r) in accordance with one or more of the merger techniques provided for in Article 2(1)(p).
+
+2\. The merger techniques used for cross-border mergers as defined in Article 2(1)(q) must be provided for under the laws of the merging UCITS home Member State.
+
+The merger techniques used for domestic mergers as defined in Article 2(1)(r) must be provided for under the laws of the Member State, in which the UCITS are established.
+
+#### Article 39
+
+1\. Mergers shall be subject to prior authorisation by the competent authorities of the merging UCITS home Member State.
+
+2\. The merging UCITS shall provide the following information to the competent authorities of its home Member State:
+
+(a) the common draft terms of the proposed merger duly approved by the merging UCITS and the receiving UCITS;
+
+(b) an up-to-date version of the prospectus and the key investor information, referred to in Article 78, of the receiving UCITS, if established in another Member State;
+
+(c) a statement by each of the depositaries of the merging and the receiving UCITS confirming that, in accordance with Article 41, they have verified compliance of the particulars set out in points (a), (f) and (g) of Article 40(1) with the requirements of this Directive and the fund rules or instruments of incorporation of their respective UCITS; and
+
+(d) the information on the proposed merger that the merging and the receiving UCITS intend to provide to their respective unit-holders.
+
+That information shall be provided in such a manner as to enable the competent authorities of both the merging and the receiving UCITS home Member State to read them in the official language or one of the official languages of that Member State or those Member States, or in a language approved by those competent authorities.
+
+3\. Once the file is complete, the competent authorities of the merging UCITS home Member State shall immediately transmit copies of the information referred to in paragraph 2 to the competent authorities of the receiving UCITS home Member State. The competent authorities of the merging and the receiving UCITS home Member State shall, respectively, consider the potential impact of the proposed merger on unit-holders of the merging and the receiving UCITS to assess whether appropriate information is being provided to unit-holders.
+
+If the competent authorities of the merging UCITS home Member State consider it necessary, they may require, in writing, that the information to unit-holders of the merging UCITS be clarified.
+
+If the competent authorities of the receiving UCITS home Member State consider it necessary, they may require, in writing, and no later than 15 working days of receipt of the copies of the complete information referred to in paragraph 2, that the receiving UCITS modify the information to be provided to its unit-holders.
+
+In such a case, the competent authorities of the receiving UCITS home Member State shall send an indication of their dissatisfaction to the competent authorities of the merging UCITS home Member State. They shall inform the competent authorities of the merging UCITS home Member State whether they are satisfied with the modified information to be provided to the unit-holders of the receiving UCITS within 20 working days of being notified thereof.
+
+4\. The competent authorities of the merging UCITS home Member State shall authorise the proposed merger if the following conditions are met:
+
+(a) the proposed merger complies with all of the requirements of Articles 39 to 42;
+
+(b) the receiving UCITS has been notified, in accordance with Article 93, to market its units in all Member States where the merging UCITS is either authorised or has been notified to market its units in accordance with Article 93; and
+
+(c) the competent authorities of the merging and the receiving UCITS home Member State are satisfied with the proposed information to be provided to unit-holders, or no indication of dissatisfaction from the competent authorities of the receiving UCITS home Member State has been received under the fourth subparagraph of paragraph 3.
+
+5\. If the competent authorities of the merging UCITS home Member State consider that the file is not complete, they shall request additional information within 10 working days of receiving the information referred to in paragraph 2.
+
+The competent authorities of the merging UCITS home Member State shall inform the merging UCITS, within 20 working days of submission of the complete information, in accordance with paragraph 2, whether or not the merger has been authorised.
+
+The competent authorities of the merging UCITS home Member State shall also inform the competent authorities of the receiving UCITS home Member State of their decision.
+
+6\. Member States may, in accordance with the second subparagraph of Article 57(1), provide for a derogation from Articles 52 to 55 for receiving UCITS.
+
+#### Article 40
+
+1\. Member States shall require that the merging and the receiving UCITS draw up common draft terms of merger.
+
+The common draft terms of merger shall set out the following particulars:
+
+(a) an identification of the type of merger and of the UCITS involved;
+
+(b) the background to and rationale for the proposed merger;
+
+(c) the expected impact of the proposed merger on the unit-holders of both the merging and the receiving UCITS;
+
+(d) the criteria adopted for valuation of the assets and, where applicable, the liabilities on the date for calculating the exchange ratio as referred to in Article 47(1);
+
+(e) the calculation method of the exchange ratio;
+
+(f) the planned effective date of the merger;
+
+(g) the rules applicable, respectively, to the transfer of assets and the exchange of units; and
+
+(h) in the case of a merger pursuant to point (p)(ii) of Article 2(1) and, where applicable, point (p)(iii) of Article 2(1), the fund rules or instruments of incorporation of the newly constituted receiving UCITS.
+
+The competent authorities shall not require that any additional information is included in the common draft terms of mergers.
+
+2\. The merging UCITS and the receiving UCITS may decide to include further items in the common draft terms of merger.
+
+### SECTION 2 — Third-party control, information of unit-holders and other rights of unit-holders
+
+#### Article 41
+
+Member States shall require that the depositaries of the merging and of the receiving UCITS verify the conformity of the particulars set out in points (a), (f) and (g) of Article 40(1) with the requirements of this Directive and the fund rules or instruments of incorporation of their respective UCITS.
+
+#### Article 42
+
+1\. The law of the merging UCITS home Member States shall entrust either a depositary or an independent auditor, approved in accordance with Directive 2006/43/EC of the European Parliament and of the Council of 17 May 2006 on statutory audits of annual accounts and consolidated accounts ( 19 ), to validate the following:
+
+(a) the criteria adopted for valuation of the assets and, where applicable, the liabilities on the date for calculating the exchange ratio, as referred to in Article 47(1);
+
+(b) where applicable, the cash payment per unit; and
+
+(c) the calculation method of the exchange ratio as well as the actual exchange ratio determined at the date for calculating that ratio, as referred to in Article 47(1).
+
+2\. The statutory auditors of the merging UCITS or the statutory auditor of the receiving UCITS shall be considered independent auditors for the purposes of paragraph 1.
+
+3\. A copy of the reports of the independent auditor, or, where applicable, the depositary shall be made available on request and free of charge to the unit-holders of both the merging UCITS and the receiving UCITS and to their respective competent authorities.
+
+#### Article 43
+
+1\. Member States shall require merging and receiving UCITS to provide appropriate and accurate information on the proposed merger to their respective unit-holders so as to enable them to make an informed judgement of the impact of the proposal on their investment.
+
+2\. That information shall be provided to unit-holders of the merging and of the receiving UCITS only after the competent authorities of the merging UCITS home Member State have authorised the proposed merger under Article 39.
+
+It shall be provided at least 30 days before the last date for requesting repurchase or redemption or, where applicable, conversion without additional charge under Article 45(1).
+
+3\. The information to be provided to unit-holders of the merging and of the receiving UCITS, shall include appropriate and accurate information on the proposed merger such as to enable them to take an informed decision on the possible impact thereof on their investment and to exercise their rights under Articles 44 and 45.
+
+It shall include the following:
+
+(a) the background to and the rationale for the proposed merger;
+
+(b) the possible impact of the proposed merger on unit-holders, including but not limited to any material differences in respect of investment policy and strategy, costs, expected outcome, periodic reporting, possible dilution in performance, and, where relevant, a prominent warning to investors that their tax treatment may be changed following the merger;
+
+(c) any specific rights unit-holders have in relation to the proposed merger, including but not limited to the right to obtain additional information, the right to obtain a copy of the report of the independent auditor or the depositary on request, and the right to request the repurchase or redemption or, where applicable, the conversion of their units without charge as specified in Article 45(1) and the last date for exercising that right;
+
+(d) the relevant procedural aspects and the planned effective date of the merger; and
+
+(e) a copy of the key investor information, referred to in Article 78, of the receiving UCITS.
+
+4\. If the merging or the receiving UCITS has been notified in accordance with Article 93, the information referred to in paragraph 3 shall be provided in the official language, or one of the official languages, of the relevant UCITS host Member State, or in a language approved by its competent authorities. The UCITS required to provide the information shall be responsible for producing the translation. That translation shall faithfully reflect the content of the original.
+
+5\. The Commission may adopt, by means of delegated acts in accordance with Article 112a  , measures specifying the detailed content, format and method by which to provide the information referred to in paragraphs 1 and 3.
+
+6\. In order to ensure uniform conditions of application of this Article, ESMA may develop draft implementing technical standards to determine the conditions of applications of the delegated acts adopted by the Commission regarding the content, format and method by which the information referred to in paragraphs 1 and 3 of this Article is to be provided.
+
+Power is conferred on the Commission to adopt the implementing technical standards referred to in the first subparagraph in accordance with Article 15 of Regulation (EU) No 1095/2010.
+
+#### Article 44
+
+Where the national laws of Member States require approval by the unit-holders of mergers between UCITS, Member States shall ensure that such approval does not require more than 75 % of the votes actually cast by unit-holders present or represented at the general meeting of unit-holders.
+
+The first paragraph shall be without prejudice to any presence quorum provided for under national laws. Member States shall impose neither more stringent presence quorums for cross-border than for domestic mergers nor more stringent presence quorums for UCITS mergers than for mergers of corporate entities.
+
+#### Article 45
+
+1\. The laws of Member States shall provide that unit-holders of both the merging and the receiving UCITS have the right to request, without any charge other than those retained by the UCITS to meet disinvestment costs, the repurchase or redemption of their units or, where possible, to convert them into units in another UCITS with similar investment policies and managed by the same management company or by any other company with which the management company is linked by common management or control, or by a substantial direct or indirect holding. That right shall become effective from the moment that the unit-holders of the merging UCITS and those of the receiving UCITS, have been informed of the proposed merger in accordance with Article 43 and shall cease to exist five working days before the date for calculating the exchange ratio referred to in Article 47(1).
+
+2\. Without prejudice to paragraph 1, for mergers between UCITS and by way of derogation from Article 84(1), Member States may allow the competent authorities to require or to allow the temporary suspension of the subscription, repurchase or redemption of units provided that such suspension is justified for the protection of the unit-holders.
+
+### SECTION 3 — Costs and entry into effect
+
+#### Article 46
+
+Except in cases where UCITS have not designated a management company, Member States shall ensure that any legal, advisory or administrative costs associated with the preparation and the completion of the merger shall not be charged to the merging or the receiving UCITS, or to any of their unit-holders.
+
+#### Article 47
+
+1\. For domestic mergers, the laws of the Member States shall determine the date on which a merger takes effect as well as the date for calculating the exchange ratio of units of the merging UCITS into units of the receiving UCITS and, where applicable, for determining the relevant net asset value for cash payments.
+
+For cross-border mergers, the laws of the receiving UCITS home Member State shall determine those dates. Member States shall ensure that, where applicable, those dates are after the approval of the merger by unit-holders of the receiving UCITS or the merging UCITS.
+
+2\. The entry into effect of the merger shall be made public through all appropriate means in the manner prescribed by the laws of the receiving UCITS home Member State, and shall be notified to the competent authorities of the home Member States of the receiving and the merging UCITS.
+
+3\. A merger which has taken effect as provided for in paragraph 1 shall not be declared null and void.
+
+#### Article 48
+
+1\. A merger effected in accordance with point (p)(i) of Article 2(1) shall have the following consequences:
+
+(a) all the assets and liabilities of the merging UCITS are transferred to the receiving UCITS or, where applicable, to the depositary of the receiving UCITS;
+
+(b) the unit-holders of the merging UCITS become unit-holders of the receiving UCITS and, where applicable, they are entitled to a cash payment not exceeding 10 % of the net asset value of their units in the merging UCITS; and
+
+(c) the merging UCITS cease to exist on the entry into effect of the merger.
+
+2\. A merger effected in accordance with point (p)(ii) of Article 2(1) shall have the following consequences:
+
+(a) all the assets and liabilities of the merging UCITS are transferred to the newly constituted receiving UCITS or, where applicable, to the depositary of the receiving UCITS;
+
+(b) the unit-holders of the merging UCITS become unit-holders of the newly constituted receiving UCITS and, where applicable, they are entitled to a cash payment not exceeding 10 % of the net asset value of their units in the merging UCITS; and
+
+(c) the merging UCITS cease to exist on the entry into effect of the merger.
+
+3\. A merger effected in accordance with point (p)(iii) of Article 2(1) shall have the following consequences:
+
+(a) the net assets of the merging UCITS are transferred to the receiving UCITS or, where applicable, the depositary of the receiving UCITS;
+
+(b) the unit-holders of the merging UCITS become unit-holders of the receiving UCITS; and
+
+(c) the merging UCITS continues to exist until the liabilities have been discharged.
+
+4\. Member States shall provide for the establishment of a procedure whereby the management company of the receiving UCITS confirms to the depositary of the receiving UCITS that transfer of assets and, where applicable, liabilities is complete. Where the receiving UCITS has not designated a management company, it shall give that confirmation to the depositary of the receiving UCITS.
+
+## CHAPTER VII — OBLIGATIONS CONCERNING THE INVESTMENT POLICIES OF UCITS
+
+#### Article 49
+
+Where UCITS comprise more than one investment compartment, each compartment shall be regarded as a separate UCITS for the purposes of this Chapter.
+
+#### Article 50
+
+1\. The investments of a UCITS shall comprise only one or more of the following:
+
+(a) transferable securities and money market instruments admitted to or dealt in on a regulated market as defined in Article 4(1)(14) of Directive 2004/39/EC;
+
+(b) transferable securities and money market instruments dealt in on another regulated market in a Member State, which operates regularly and is recognised and open to the public;
+
+(c) transferable securities and money market instruments admitted to official listing on a stock exchange in a third country or dealt in on another regulated market in a third country which operates regularly and is recognised and open to the public provided that the choice of stock exchange or market has been approved by the competent authorities or is provided for in law or the fund rules or the instruments of incorporation of the investment company;
+
+(d) recently issued transferable securities, provided that:
+
+(i) the terms of issue include an undertaking that an application will be made for admission to official listing on a stock exchange or to another regulated market which operates regularly and is recognised and open to the public, provided that the choice of stock exchange or market has been approved by the competent authorities or is provided for in law or the fund rules or the instruments of incorporation of the investment company; and
+
+(ii) the admission referred to in point (i) is secured within a year of issue;
+
+(e) units of UCITS authorised according to this Directive or other collective investment undertakings within the meaning of Article 1(2)(a) and (b), whether or not established in a Member State, provided that:
+
+(i) such other collective investment undertakings are authorised under laws which provide that they are subject to supervision considered by the competent authorities of the UCITS home Member State to be equivalent to that laid down in Community law, and that cooperation between authorities is sufficiently ensured;
+
+(ii) the level of protection for unit-holders in the other collective investment undertakings is equivalent to that provided for unit-holders in a UCITS, and in particular that the rules on asset segregation, borrowing, lending, and uncovered sales of transferable securities and money market instruments are equivalent to the requirements of this Directive;
+
+(iii) the business of the other collective investment undertakings is reported in half-yearly and annual reports to enable an assessment to be made of the assets and liabilities, income and operations over the reporting period; and
+
+(iv) no more than 10 % of the assets of the UCITS or of the other collective investment undertakings, whose acquisition is contemplated, can, according to their fund rules or instruments of incorporation, be invested in aggregate in units of other UCITS or other collective investment undertakings;
+
+(f) deposits with credit institutions which are repayable on demand or have the right to be withdrawn, and maturing in no more than 12 months, provided that the credit institution has its registered office in a Member State or, if the credit institution has its registered office in a third country, provided that it is subject to prudential rules considered by the competent authorities of the UCITS home Member State as equivalent to those laid down in Community law;
+
+(g) financial derivative instruments, including equivalent cash-settled instruments, dealt in on a regulated market referred to in points (a), (b) and (c) or financial derivative instruments dealt in over-the-counter (OTC) derivatives, provided that:
+
+(i) the underlying of the derivative consists of instruments covered by this paragraph, financial indices, interest rates, foreign exchange rates or currencies, in which the UCITS may invest according to its investment objectives as stated in its fund rules or instruments of incorporation;
+
+(ii) the counterparties to OTC derivative transactions are institutions subject to prudential supervision, and belonging to the categories approved by the competent authorities of the UCITS home Member State; and
+
+(iii) the OTC derivatives are subject to reliable and verifiable valuation on a daily basis and can be sold, liquidated or closed by an offsetting transaction at any time at their fair value at the UCITS’ initiative; or
+
+(h) money market instruments other than those dealt in on a regulated market, which fall under Article 2(1)(o), if the issue or issuer of such instruments is itself regulated for the purpose of protecting investors and savings, provided that they are:
+
+(i) issued or guaranteed by a central, regional or local authority or central bank of a Member State, the European Central Bank, the Community or the European Investment Bank, a third country or, in the case of a Federal State, by one of the members making up the federation, or by a public international body to which one or more Member States belong;
+
+(ii) issued by an undertaking any securities of which are dealt in on regulated markets referred to in points (a), (b) or (c);
+
+(iii) issued or guaranteed by an establishment subject to prudential supervision, in accordance with criteria defined by Community law, or by an establishment which is subject to and complies with prudential rules considered by the competent authorities to be at least as stringent as those laid down by Community law; or
+
+(iv) issued by other bodies belonging to the categories approved by the competent authorities of the UCITS home Member State provided that investments in such instruments are subject to investor protection equivalent to that laid down in points (i), (ii) or (iii) and provided that the issuer is a company whose capital and reserves amount to at least EUR 10 000 000 and which presents and publishes its annual accounts in accordance with Fourth Council Directive 78/660/EEC of 25 July 1978 based on Article 54(3)(g) of the Treaty on the annual accounts of certain types of companies ( 20 ), is an entity which, within a group of companies which includes one or several listed companies, is dedicated to the financing of the group or is an entity which is dedicated to the financing of securitisation vehicles which benefit from a banking liquidity line.
+
+2\. A UCITS shall not, however:
+
+(a) invest more than 10 % of its assets in transferable securities or money market instruments other than those referred to in paragraph 1; or
+
+(b) acquire either precious metals or certificates representing them.
+
+UCITS may hold ancillary liquid assets.
+
+3\. An investment company may acquire movable or immovable property which is essential for the direct pursuit of its business.
+
+4\. In order to ensure consistent harmonisation of this Article ESMA may develop draft regulatory technical standards to specify the provisions concerning the categories of assets in which UCITS can invest in accordance with this Article and with delegated acts adopted by the Commission which relate to such provisions.
+
+Power is delegated to the Commission to adopt the regulatory technical standards referred to in the first subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1095/2010.
+
+#### Article 50a
+
+Where UCITS management companies or internally managed UCITS are exposed to a securitisation that no longer meets the requirements provided for in the Regulation (EU) 2017/2402 of the European Parliament and of the Council ( 21 ), they shall, in the best interest of the investors in the relevant UCITS, act and take corrective action, if appropriate.
+
+#### Article 51
+
+1\. A management or investment company shall employ a risk-management process which enables it to monitor and measure at any time the risk of the positions and their contribution to the overall risk profile of the portfolio of a UCITS. In particular, it shall not solely or mechanistically rely on credit ratings issued by credit rating agencies as defined in Article 3(1)(b) of Regulation (EC) No 1060/2009 of the European Parliament and of the Council of 16 September 2009 on credit rating agencies ( 22 ), for assessing the creditworthiness of the UCITS’ assets.
+
+It shall employ a process for accurate and independent assessment of the value of OTC derivatives.
+
+It shall communicate to the competent authorities of its home Member State regularly in regard to the types of derivative instruments, the underlying risks, the quantitative limits and the methods which are chosen in order to estimate the risks associated with transactions in derivative instruments regarding each managed UCITS.
+
+Competent authorities shall ensure that all information received under the third paragraph aggregated in respect of all the management or investment companies they supervise is accessible to ESMA in accordance with Article 35 of the Regulation (EU) No 1095/2010, and the European Systemic Risk Board (the ‘ESRB’) established by Regulation (EU) No 1092/2010 of the European Parliament and of the Council of 24 November 2010 on European Union macro-prudential oversight of the financial system and establishing a European Systemic Risk Board ( 23 ) in accordance with Article 15 of that Regulation for the purpose of monitoring systemic risks at Union level.
+
+2\. Member States may authorise UCITS to employ techniques and instruments relating to transferable securities and money market instruments under the conditions and within the limits which they lay down provided that such techniques and instruments are used for the purpose of efficient portfolio management.
+
+When those operations concern the use of derivative instruments, the conditions and limits shall conform to the provisions laid down in this Directive.
+
+Under no circumstances shall those operations cause the UCITS to diverge from its investment objectives as laid down in the UCITS’ fund rules, instruments of incorporation or prospectus.
+
+3\. A UCITS shall ensure that its global exposure relating to derivative instruments does not exceed the total net value of its portfolio.
+
+The exposure is calculated taking into account the current value of the underlying assets, the counterparty risk, future market movements and the time available to liquidate the positions. This shall also apply to the third and fourth subparagraphs.
+
+A UCITS may invest, as a part of its investment policy and within the limit laid down in Article 52(5), in financial derivative instruments provided that the exposure to the underlying assets does not exceed in aggregate the investment limits laid down in Article 52. Member States may provide that, when a UCITS invests in index-based financial derivative instruments, those investments are not required to be combined for the purposes of the limits laid down in Article 52.
+
+When transferable securities or money market instruments embed a derivative, the derivative shall be taken into account when complying with the requirements of this Article.
+
+3a. Taking into account the nature, scale and complexity of the UCITS’ activities, the competent authorities shall’ monitor the adequacy of the credit assessment processes of the management or investment companies, assess the use of references to credit ratings, as referred to in the first subparagraph of paragraph 1, in the UCITS’ investment policies and, where appropriate, encourage mitigation of the impact of such references, with a view to reducing sole and mechanistic reliance on such credit ratings.
+
+4\. Without prejudice to Article 116, the Commission shall adopt, by means of delegated acts in accordance with Article 112a  , measures specifying the following:
+
+(a) criteria for assessing the adequacy of the risk-management process employed by the management or investment company in accordance with the first subparagraph of paragraph 1;
+
+(b) detailed rules regarding the accurate and independent assessment of the value of OTC derivatives; and
+
+(c) detailed rules regarding the content of and procedure to be followed for communicating the information referred to in the third subparagraph of paragraph 1 to the competent authorities of the management company's home Member State.
+
+The criteria referred to in point (a) of the first subparagraph shall ensure that the management or investment company is prevented from relying solely or mechanistically on credit ratings, as referred to in the first subparagraph of paragraph 1, for assessing the creditworthiness of the UCITS’ assets.
+
+5\. In order to ensure uniform conditions of application of this Article, ESMA may develop draft implementing technical standards to determine the conditions of application of the delegated acts adopted by the Commission regarding the criteria and rules referred to in paragraph 4.
+
+Power is conferred on the Commission to adopt the implementing technical standards referred to in the first subparagraph in accordance with Article 15 of Regulation (EU) No 1095/2010.
+
+#### Article 52
+
+1\. A UCITS shall invest no more than:
+
+(a) 5 % of its assets in transferable securities or money market instruments issued by the same body; or
+
+(b) 20 % of its assets in deposits made with the same body.
+
+The risk exposure to a counterparty of the UCITS in a derivative transaction that is not centrally cleared through a CCP authorised in accordance with Article 14 of Regulation (EU) No 648/2012 or recognised in accordance with Article 25 of that Regulation, shall not exceed either:
+
+(a) 10 % of its assets when the counterparty is a credit institution referred to in Article 50(1)(f); or
+
+(b) 5 % of its assets, in other cases.
+
+2\. Member States may raise the 5 % limit laid down in paragraph 1, first subparagraph, to a maximum of 10 %. If they do so, however, the total value of the transferable securities and the money market instruments held by the UCITS in the issuing bodies in each of which it invests more than 5 % of its assets shall not exceed 40 % of the value of its assets. That limitation shall not apply to deposits or derivative transactions made with financial institutions subject to prudential supervision.
+
+Notwithstanding the individual limits laid down in paragraph 1, a UCITS shall not combine, where this would lead to investment of more than 20 % of its assets in a single body, any of the following:
+
+(a) investments in transferable securities or money market instruments issued by that body;
+
+(b) deposits made with that body; or
+
+(c) exposures arising from derivative transactions undertaken with that body that are not centrally cleared through a CCP authorised in accordance with Article 14 of Regulation (EU) No 648/2012 or recognised in accordance with Article 25 of that Regulation.
+
+3\. Member States may raise the 5 % limit laid down in the first subparagraph of paragraph 1 to a maximum of 35 % if the transferable securities or money market instruments are issued or guaranteed by a Member State, by its local authorities, by a third country or by a public international body to which one or more Member States belong.
+
+4\. Member States may raise the 5 % limit laid down in the first subparagraph of paragraph 1 to a maximum of 25 % where bonds were issued before 8 July 2022 and met the requirements set out in this paragraph as applicable on the date of their issue, or where bonds fall under the definition of covered bonds in point (1) of Article 3 of Directive (EU) 2019/2162 of the European Parliament and of the Council ( 24 ).
+
+Where a UCITS invests more than 5 % of its assets in the bonds referred to in the first subparagraph which are issued by a single issuer, the total value of these investments shall not exceed 80 % of the value of the assets of the UCITS.
+
+5\. The transferable securities and money market instruments referred to in paragraphs 3 and 4 shall not be taken into account for the purpose of applying the limit of 40 % referred to in paragraph 2.
+
+The limits provided for in paragraphs 1 to 4 shall not be combined, and thus investments in transferable securities or money market instruments issued by the same body or in deposits or derivative instruments made with this body carried out in accordance with paragraphs 1 to 4 shall not exceed in total 35 % of the assets of the UCITS.
+
+Companies which are included in the same group for the purposes of consolidated accounts, as defined in Directive 83/349/EEC or in accordance with recognised international accounting rules, shall be regarded as a single body for the purpose of calculating the limits contained in this Article.
+
+Member States may allow cumulative investment in transferable securities and money market instruments within the same group up to a limit of 20 %.
+
+#### Article 53
+
+1\. Without prejudice to the limits laid down in Article 56, Member States may raise the limits laid down in Article 52 to a maximum of 20 % for investment in shares or debt securities issued by the same body when, according to the fund rules or instruments of incorporation, the aim of the UCITS’ investment policy is to replicate the composition of a certain stock or debt securities index which is recognised by the competent authorities, on the following basis:
+
+(a) its composition is sufficiently diversified;
+
+(b) the index represents an adequate benchmark for the market to which it refers; and
+
+(c) it is published in an appropriate manner.
+
+2\. Member States may raise the limit laid down in paragraph 1 to a maximum of 35 % where that proves to be justified by exceptional market conditions in particular in regulated markets where certain transferable securities or money market instruments are highly dominant. The investment up to that limit shall be permitted only for a single issuer.
+
+#### Article 54
+
+1\. By way of derogation from Article 52, Member States may authorise UCITS to invest in accordance with the principle of risk-spreading up to 100 % of their assets in different transferable securities and money market instruments issued or guaranteed by a Member State, one or more of its local authorities, a third country, or a public international body to which one or more Member States belong.
+
+The competent authorities of the UCITS home Member State shall grant such a derogation only if they consider that unit-holders in the UCITS have protection equivalent to that of unit-holders in UCITS complying with the limits laid down in Article 52.
+
+Such a UCITS shall hold securities from at least six different issues, but securities from any single issue shall not account for more than 30 % of its total assets.
+
+2\. The UCITS referred to in paragraph 1 shall make express mention in the fund rules or in the instruments of incorporation of the investment company of the Member States, local authorities, or public international bodies issuing or guaranteeing securities in which they intend to invest more than 35 % of their assets.
+
+Such fund rules or instruments of incorporation shall be approved by the competent authorities.
+
+3\. Each UCITS referred to in paragraph 1 shall include a prominent statement in its prospectus and marketing communications drawing attention to such authorisation and indicating the Member States, local authorities, or public international bodies in the securities of which it intends to invest or has invested more than 35 % of its assets.
+
+#### Article 55
+
+1\. A UCITS may acquire the units of UCITS or other collective investment undertakings referred to in Article 50(1)(e), provided that no more than 10 % of its assets are invested in units of a single UCITS or other collective investment undertaking. Member States may raise that limit to a maximum of 20 %.
+
+2\. Investments made in units of collective investment undertakings other than UCITS shall not exceed, in aggregate, 30 % of the assets of the UCITS.
+
+Member States may, where a UCITS has acquired units of another UCITS or collective investment undertakings, provide that the assets of the respective UCITS or other collective investment undertakings are not required to be combined for the purposes of the limits laid down in Article 52.
+
+3\. Where a UCITS invests in the units of other UCITS or collective investment undertakings that are managed, directly or by delegation, by the same management company or by any other company with which the management company is linked by common management or control, or by a substantial direct or indirect holding, that management company or other company shall not charge subscription or redemption fees on account of the UCITS’ investment in the units of such other UCITS or collective investment undertakings.
+
+A UCITS that invests a substantial proportion of its assets in other UCITS or collective investment undertakings shall disclose in its prospectus the maximum level of the management fees that may be charged both to the UCITS itself and to the other UCITS or collective investment undertakings in which it intends to invest. It shall indicate in its annual report the maximum proportion of management fees charged both to the UCITS itself and to the other UCITS or collective investment undertaking in which it invests.
+
+#### Article 56
+
+1\. An investment company or a management company acting in connection with all of the common funds which it manages and which fall within the scope of this Directive shall not acquire any shares carrying voting rights which would enable it to exercise significant influence over the management of an issuing body.
+
+Pending further coordination, Member States shall take account of existing rules defining the principle stated in the first subparagraph in the law of other Member States.
+
+2\. A UCITS may acquire no more than:
+
+(a) 10 % of the non-voting shares of a single issuing body;
+
+(b) 10 % of the debt securities of a single issuing body;
+
+(c) 25 % of the units of a single UCITS or other collective investment undertaking within the meaning of Article 1(2)(a) and (b); or
+
+(d) 10 % of the money market instruments of a single issuing body.
+
+The limits laid down in points (b), (c) and (d) may be disregarded at the time of acquisition if at that time the gross amount of the debt securities or of the money market instruments, or the net amount of the securities in issue, cannot be calculated.
+
+3\. A Member State may waive the application of paragraphs 1 and 2 as regards:
+
+(a) transferable securities and money market instruments issued or guaranteed by a Member State or its local authorities;
+
+(b) transferable securities and money market instruments issued or guaranteed by a third country;
+
+(c) transferable securities and money market instruments issued by a public international body to which one or more Member States belong;
+
+(d) shares held by a UCITS in the capital of a company incorporated in a third country investing its assets mainly in the securities of issuing bodies having their registered offices in that country, where under the legislation of that country such a holding represents the only way in which the UCITS can invest in the securities of issuing bodies of that country; or
+
+(e) shares held by an investment company or investment companies in the capital of subsidiary companies pursuing only the business of management, advice or marketing in the country where the subsidiary is established, in regard to the repurchase of units at unit-holders’ request exclusively on its or their behalf.
+
+The derogation referred to in point (d) of the first subparagraph of this paragraph shall apply only if in its investment policy the company from the third country complies with the limits laid down in Articles 52 and 55 and in paragraphs 1 and 2 of this Article. Where the limits set in Articles 52 and 55 are exceeded, Article 57 shall apply mutatis mutandis.
+
+#### Article 57
+
+1\. UCITS are not required to comply with the limits laid down in this Chapter when exercising subscription rights attaching to transferable securities or money market instruments which form part of their assets.
+
+While ensuring observance of the principle of risk spreading, Member States may allow recently authorised UCITS to derogate from Articles 52 to 55 for six months following the date of their authorisation.
+
+2\. If the limits referred to in paragraph 1 are exceeded for reasons beyond the control of a UCITS or as a result of the exercise of subscription rights, that UCITS shall adopt as a priority objective for its sales transactions the remedying of that situation, taking due account of the interests of its unit-holders.
+
+3\. Where a UCITS activates side pockets as referred to in Article 84(2), point (a), by means of asset segregation, the segregated assets may be excluded from the calculation of limits laid down in this Chapter.
+
+## CHAPTER VIII — MASTER-FEEDER STRUCTURES
+
+### SECTION 1 — Scope and approval
+
+#### Article 58
+
+1\. A feeder UCITS is a UCITS, or an investment compartment thereof, which has been approved to invest, by way of derogation from Article 1(2)(a), Articles 50, 52 and 55, and Article 56(2)(c), at least 85 % of its assets in units of another UCITS or investment compartment thereof (the master UCITS).
+
+2\. A feeder UCITS may hold up to 15 % of its assets in one or more of the following:
+
+(a) ancillary liquid assets in accordance with the second subparagraph of Article 50(2);
+
+(b) financial derivative instruments, which may be used only for hedging purposes, in accordance with Article 50(1)(g) and Article 51(2) and (3);
+
+(c) movable and immovable property which is essential for the direct pursuit of the business, if the feeder UCITS is an investment company.
+
+For the purposes of compliance with Article 51(3), the feeder UCITS shall calculate its global exposure related to financial derivative instruments by combining its own direct exposure under point (b) of the first subparagraph with either:
+
+(a) the master UCITS’ actual exposure to financial derivative instruments in proportion to the feeder UCITS’ investment into the master UCITS; or
+
+(b) the master UCITS’ potential maximum global exposure to financial derivative instruments provided for in the master UCITS’ fund rules or instruments of incorporation in proportion to the feeder UCITS investment into the master UCITS.
+
+3\. A master UCITS is a UCITS, or an investment compartment thereof, which:
+
+(a) has, among its unit-holders, at least one feeder UCITS;
+
+(b) is not itself a feeder UCITS; and
+
+(c) does not hold units of a feeder UCITS.
+
+4\. The following derogations for a master UCITS shall apply:
+
+(a) if a master UCITS has at least two feeder UCITS as unit-holders, Article 1(2)(a) and Article 3(b) shall not apply, giving the master UCITS the choice whether or not to raise capital from other investors;
+
+(b) If a master UCITS does not raise capital from the public in a Member State other than that in which it is established, but only has one or more feeder UCITS in that Member State, Chapter XI and the second subparagraph of Article 108(1) shall not apply.
+
+#### Article 59
+
+1\. Member States shall ensure that the investment of a feeder UCITS into a given master UCITS which exceeds the limit applicable under Article 55(1) for investments into other UCITS be subject to prior approval by the competent authorities of the feeder UCITS home Member State.
+
+2\. The feeder UCITS shall be informed within 15 working days following the submission of a complete file, whether or not the competent authorities have approved the feeder UCITS’ investment into the master UCITS.
+
+3\. The competent authorities of the feeder UCITS home Member State shall grant approval if the feeder UCITS, its depositary and its auditor, as well as the master UCITS, comply with all the requirements set out in this Chapter. For such purposes, the feeder UCITS shall provide to the competent authorities of its home Member State the following documents:
+
+(a) the fund rules or instruments of incorporation of the feeder UCITS and the master UCITS;
+
+(b) the prospectus and the key investor information referred to in Article 78 of the feeder and the master UCITS;
+
+(c) the agreement between the feeder and the master UCITS or the internal conduct of business rules referred to in Article 60(1);
+
+(d) where applicable, the information to be provided to unit-holders referred to in Article 64(1);
+
+(e) if the master UCITS and the feeder UCITS have different depositaries, the information-sharing agreement referred to in Article 61(1) between their respective depositaries; and
+
+(f) if the master UCITS and the feeder UCITS have different auditors, the information-sharing agreement referred to in Article 62(1) between their respective auditors.
+
+Where the feeder UCITS is established in a Member State other than the master UCITS home Member State, the feeder UCITS shall also provide an attestation by the competent authorities of the master UCITS home Member State that the master UCITS is a UCITS, or an investment compartment thereof, which fulfils the conditions set out in Article 58(3)(b) and (c). Documents shall be provided by the feeder UCITS in the official language, or one of the official languages, of the feeder UCITS home Member State or in a language approved by its competent authorities.
+
+### SECTION 2 — Common provisions for feeder and master UCITS
+
+#### Article 60
+
+1\. Member States shall require that the master UCITS provide the feeder UCITS with all documents and information necessary for the latter to meet the requirements laid down in this Directive. For this purpose, the feeder UCITS shall enter into an agreement with the master UCITS.
+
+The feeder UCITS shall not invest in excess of the limit applicable under Article 55(1) in units of that master UCITS until the agreement referred to in the first subparagraph has become effective. That agreement shall be made available, on request and free of charge, to all unit-holders.
+
+In the event that both master and feeder UCITS are managed by the same management company, the agreement may be replaced by internal conduct of business rules ensuring compliance with the requirements set out in this paragraph.
+
+2\. The master and the feeder UCITS shall take appropriate measures to coordinate the timing of their net asset value calculation and publication in order to avoid market timing in their units, preventing arbitrage opportunities.
+
+3\. Without prejudice to Article 84, if a master UCITS temporarily suspends the repurchase, redemption or subscription of its units, whether at its own initiative or at the request of its competent authorities, each of its feeder UCITS is entitled to suspend the repurchase, redemption or subscription of its units notwithstanding the conditions laid down in Article 84(2) within the same period of time as the master UCITS.
+
+4\. If a master UCITS is liquidated, the feeder UCITS shall also be liquidated, unless the competent authorities of its home Member State approve:
+
+(a) the investment of at least 85 % of the assets of the feeder UCITS in units of another master UCITS; or
+
+(b) the amendment of its fund rules or instruments of incorporation in order to enable the feeder UCITS to convert into a UCITS which is not a feeder UCITS.
+
+Without prejudice to specific national provisions regarding compulsory liquidation, the liquidation of a master UCITS shall take place no sooner than three months after the master UCITS has informed all of its unit-holders and the competent authorities of the feeder UCITS home Member State of the binding decision to liquidate.
+
+5\. If a master UCITS merges with another UCITS or is divided into two or more UCITS, the feeder UCITS shall be liquidated, unless the competent authorities of the feeder UCITS home Member State grant approval to the feeder UCITS to:
+
+(a) continue to be a feeder UCITS of the master UCITS or another UCITS resulting from the merger or division of the master UCITS;
+
+(b) invest at least 85 % of its assets in units of another master UCITS not resulting from the merger or the division; or
+
+(c) amend its fund rules or its instruments of incorporation in order to convert into a UCITS which is not a feeder UCITS.
+
+No merger or division of a master UCITS shall become effective, unless the master UCITS has provided all of its unit-holders and the competent authorities of its feeder UCITS home Member States with the information referred to, or comparable with that referred to, in Article 43 by 60 days before the proposed effective date.
+
+Unless the competent authorities of the feeder UCITS home Member State has granted approval pursuant to point (a) of the first subparagraph, the master UCITS shall enable the feeder UCITS to repurchase or redeem all units in the master UCITS before the merger or division of the master UCITS becomes effective.
+
+6\. The Commission may adopt, by means of delegated acts in accordance with Article 112a  , measures specifying:
+
+(a) the content of the agreement or of the internal conduct of business rules referred to in paragraph 1;
+
+(b) which measures referred to in paragraph 2 are deemed appropriate; and
+
+(c) the procedures for the required approvals pursuant to paragraphs 4 and 5 in the event of a liquidation, merger or division of a master UCITS.
+
+7\. In order to ensure uniform conditions of application of this Article, ESMA may develop draft implementing technical standards to determine the conditions of application of the delegated acts adopted by the Commission regarding the agreement, measures and procedures referred to in paragraph 6.
+
+Power is conferred on the Commission to adopt the implementing technical standards referred to in the first subparagraph in accordance with the Article 15 of Regulation (EU) No 1095/2010.
+
+### SECTION 3 — Depositaries and auditors
+
+#### Article 61
+
+1\. Member States shall require that, if the master and the feeder UCITS have different depositaries, those depositaries enter into an information-sharing agreement in order to ensure the fulfilment of the duties of both depositaries.
+
+The feeder UCITS shall not invest in units of the master UCITS until such agreement has become effective.
+
+Where they comply with the requirements laid down in this Chapter, neither the depositary of the master UCITS nor that of the feeder UCITS shall be found to be in breach of any rules that restrict the disclosure of information or relate to data protection where such rules are provided for in a contract or in a law, regulation or administrative provision. Such compliance shall not give rise to any liability on the part of such depositary or any person acting on its behalf.
+
+Member States shall require that the feeder UCITS or, when applicable, the management company of the feeder UCITS be in charge of communicating to the depositary of the feeder UCITS any information about the master UCITS which is required for the completion of the duties of the depositary of the feeder UCITS.
+
+2\. The depositary of the master UCITS shall immediately inform the competent authorities of the master UCITS home Member State, the feeder UCITS or, where applicable, the management company and the depositary of the feeder UCITS about any irregularities it detects with regard to the master UCITS which are deemed to have a negative impact on the feeder UCITS.
+
+3\. The Commission may adopt, by means of delegated acts in accordance with Article 112a  , measures further specifying the following:
+
+(a) the particulars that need to be included in the agreement referred to in paragraph 1; and
+
+(b) the types of irregularities referred to in paragraph 2 which are deemed to have a negative impact on the feeder UCITS.
+
+4\. In order to ensure uniform conditions of application of this Article, ESMA may develop draft implementing technical standards to determine the conditions of application of the delegated acts adopted by the Commission regarding the agreement, measures and types of irregularities referred to in paragraph 3.
+
+Power is conferred on the Commission to adopt the implementing technical standards referred to in the first subparagraph in accordance with Article 15 of Regulation (EU) No 1095/2010.
+
+#### Article 62
+
+1\. Member States shall require that if the master and the feeder UCITS have different auditors, those auditors enter into an information-sharing agreement in order to ensure the fulfilment of the duties of both auditors, including the arrangements taken to comply with the requirements of paragraph 2.
+
+The feeder UCITS shall not invest in units of the master UCITS until such agreement has become effective.
+
+2\. In its audit report, the auditor of the feeder UCITS shall take into account the audit report of the master UCITS. If the feeder and the master UCITS have different accounting years, the auditor of the master UCITS shall make an ad hoc report on the closing date of the feeder UCITS.
+
+The auditor of the feeder UCITS shall, in particular, report on any irregularities revealed in the audit report of the master UCITS and on their impact on the feeder UCITS.
+
+3\. Where they comply with the requirements laid down in this Chapter, neither the auditor of the master UCITS nor that of the feeder UCITS shall be found to be in breach of any rules that restrict the disclosure of information or relate to data protection where such rules are provided for in a contract or in a law, regulation or administrative provision. Such compliance shall not give rise to any liability on the part of such auditor or any person acting on its behalf.
+
+4\. The Commission may adopt, by means of delegated acts in accordance with Article 112a  , measures specifying the content of the agreement referred to in the first subparagraph of paragraph 1.
+
+### SECTION 4 — Compulsory information and marketing communications by the feeder UCITS
+
+#### Article 63
+
+1\. Member States shall require that, in addition to the information provided for in Schedule A of Annex I, the prospectus of the feeder UCITS contains the following information:
+
+(a) a declaration that the feeder UCITS is a feeder of a particular master UCITS and as such permanently invests 85 % or more of its assets in units of that master UCITS;
+
+(b) the investment objective and policy, including the risk profile and whether the performance of the feeder and the master UCITS are identical, or to what extent and for which reasons they differ, including a description of investment made in accordance with Article 58(2);
+
+(c) a brief description of the master UCITS, its organisation, its investment objective and policy, including the risk profile, and an indication of how the prospectus of the master UCITS may be obtained;
+
+(d) a summary of the agreement entered into between the feeder UCITS and the master UCITS or of the internal conduct of business rules pursuant to Article 60(1);
+
+(e) how the unit-holders may obtain further information on the master UCITS and the agreement entered into between the feeder UCITS and the master UCITS pursuant to Article 60(1);
+
+(f) a description of all remuneration or reimbursement of costs payable by the feeder UCITS by virtue of its investment in units of the master UCITS, as well as of the aggregate charges of the feeder UCITS and the master UCITS; and
+
+(g) a description of the tax implications of the investment into the master UCITS for the feeder UCITS.
+
+2\. In addition to the information provided for in Schedule B of Annex I, the annual report of the feeder UCITS shall include a statement on the aggregate charges of the feeder UCITS and the master UCITS.
+
+The annual and the half-yearly reports of the feeder UCITS shall indicate how the annual and the half-yearly report of the master UCITS can be obtained.
+
+3\. In addition to the requirements laid down in Articles 74 and 82, the feeder UCITS shall send the prospectus, the key investor information referred to in Article 78 and any amendment thereto, as well as the annual and half-yearly reports of the master UCITS, to the competent authorities of its home Member State.
+
+4\. A feeder UCITS shall disclose in any relevant marketing communications that it permanently invests 85 % or more of its assets in units of such master UCITS.
+
+5\. A paper copy of the prospectus, and the annual and half-yearly reports of the master UCITS shall be delivered by the feeder UCITS to investors on request and free of charge.
+
+### SECTION 5 — Conversion of existing UCITS into feeder UCITS and change of master UCITS
+
+#### Article 64
+
+1\. Member States shall require that a feeder UCITS which already pursues activities as a UCITS, including those of a feeder UCITS of a different master UCITS, shall provide the following information to its unit-holders:
+
+(a) a statement that the competent authorities of the feeder UCITS home Member State approved the investment of the feeder UCITS in units of such master UCITS;
+
+(b) the key investor information referred to in Article 78 concerning the feeder and the master UCITS;
+
+(c) the date when the feeder UCITS is to start to invest in the master UCITS or, if it has already invested therein, the date when its investment will exceed the limit applicable under Article 55(1); and
+
+(d) a statement that the unit-holders have the right to request within 30 days the repurchase or redemption of their units without any charges other than those retained by the UCITS to cover disinvestment costs; that right shall become effective from the moment the feeder UCITS has provided the information referred to in this paragraph.
+
+That information shall be provided at least 30 days before the date referred to in point (c) of the first subparagraph.
+
+2\. In the event that the feeder UCITS has been notified in accordance with Article 93, the information referred to in paragraph 1 shall be provided in the official language, or one of the official languages, of the feeder UCITS host Member State or in a language approved by its competent authorities. The feeder UCITS shall be responsible for producing the translation. That translation shall faithfully reflect the content of the original.
+
+3\. Member States shall ensure that the feeder UCITS does not invest into the units of the given master UCITS in excess of the limit applicable under Article 55(1) before the period of 30 days referred to in the second subparagraph of paragraph 1 has elapsed.
+
+4\. The Commission may adopt, by means of delegated acts in accordance with Article 112a  , measures specifying:
+
+(a) the format and the manner in which to provide the information referred to in paragraph 1; or
+
+(b) in the event that the feeder UCITS transfers all or parts of its assets to the master UCITS in exchange for units, the procedure for valuing and auditing such a contribution in kind and the role of the depositary of the feeder UCITS in that process.
+
+5\. In order to ensure uniform conditions of application in which the information is provided, ESMA may develop draft implementing technical standards to determine the conditions of application of the delegated acts adopted by the Commission regarding the format and the manner of the information provided and procedure referred to in paragraph 4.
+
+Power is conferred on the Commission to adopt the implementing technical standards referred to in the first subparagraph in accordance with Article 15 of Regulation (EU) No 1095/2010.
+
+### SECTION 6 — Obligations and competent authorities
+
+#### Article 65
+
+1\. The feeder UCITS shall monitor effectively the activity of the master UCITS. In performing that obligation, the feeder UCITS may rely on information and documents received from the master UCITS or, where applicable, its management company, depositary and auditor, unless there is reason to doubt their accuracy.
+
+2\. Where, in connection with an investment in the units of the master UCITS, a distribution fee, commission or other monetary benefit is received by the feeder UCITS, its management company, or any person acting on behalf of either the feeder UCITS or the management company of the feeder UCITS, the fee, commission or other monetary benefit shall be paid into the assets of the feeder UCITS.
+
+#### Article 66
+
+1\. The master UCITS shall immediately inform the competent authorities of its home Member State of the identity of each feeder UCITS which invests in its units. If the master UCITS and the feeder UCITS are established in different Member States, the competent authorities of the master UCITS home Member State shall immediately inform those of the feeder UCITS home Member State of such investment.
+
+2\. The master UCITS shall not charge subscription or redemption fees for the investment of the feeder UCITS into its units or the divestment thereof.
+
+3\. The master UCITS shall ensure the timely availability of all information that is required in accordance with this Directive, other Community law, the applicable national law, the fund rules or the instruments of incorporation to the feeder UCITS or, where applicable, its management company, and to the competent authorities, the depositary and the auditor of the feeder UCITS.
+
+#### Article 67
+
+1\. If the master UCITS and the feeder UCITS are established in the same Member State, the competent authorities shall immediately inform the feeder UCITS of any decision, measure, observation of non-compliance with the conditions of this Chapter or of any information reported pursuant to Article 106(1) with regard to the master UCITS or, where applicable, its management company, depositary or auditor.
+
+2\. If the master UCITS and the feeder UCITS are established in different Member States, the competent authorities of the master UCITS home Member State shall immediately communicate any decision, measure, observation of non-compliance with the conditions of this Chapter or information reported pursuant to Article 106(1) with regard to the master UCITS or, where applicable, its management company, depositary or auditor, to the competent authorities of the feeder UCITS home Member State. The latter shall then immediately inform the feeder UCITS.
+
+## CHAPTER IX — OBLIGATIONS CONCERNING INFORMATION TO BE PROVIDED TO INVESTORS
+
+### SECTION 1 — Publication of a prospectus and periodical reports
+
+#### Article 68
+
+1\. An investment company and, for each of the common funds it manages, a management company, shall publish the following:
+
+(a) a prospectus;
+
+(b) an annual report for each financial year; and
+
+(c) a half-yearly report covering the first six months of the financial year.
+
+2\. The annual and half-yearly reports shall be published within the following time limits, with effect from the end of the period to which they relate:
+
+(a) four months in the case of the annual report; or
+
+(b) two months in the case of the half-yearly report.
+
+#### Article 69
+
+1\. The prospectus shall include the information necessary for investors to be able to make an informed judgement of the investment proposed to them, and, in particular, of the risks attached thereto.
+
+The prospectus shall include, independent of the instruments invested in, a clear and easily understandable explanation of the fund’s risk profile.
+
+The prospectus shall include either:
+
+(a) the details of the up-to-date remuneration policy, including, but not limited to, a description of how remuneration and benefits are calculated, the identities of persons responsible for awarding the remuneration and benefits including the composition of the remuneration committee, where such a committee exists; or
+
+(b) a summary of the remuneration policy and a statement to the effect that the details of the up-to-date remuneration policy, including, but not limited to, a description of how remuneration and benefits are calculated, the identity of persons responsible for awarding the remuneration and benefits, including the composition of the remuneration committee where such a committee exists, are available by means of a website – including a reference to that website – and that a paper copy will be made available free of charge upon request.
+
+2\. The prospectus shall contain at least the information provided for in Schedule A of Annex I, in so far as that information does not already appear in the fund rules or instruments of incorporation annexed to the prospectus in accordance with Article 71(1).
+
+3\. The annual report shall include a balance-sheet or a statement of assets and liabilities, a detailed income and expenditure account for the financial year, a report on the activities of the financial year and the other information provided for in Schedule B of Annex I as well as any significant information which will enable investors to make an informed judgement on the development of the activities of the UCITS and its results.
+
+The annual report shall also include:
+
+(a) the total amount of remuneration for the financial year, split into fixed and variable remuneration paid by the management company and by the investment company to its staff, and the number of beneficiaries, and where relevant, any amount paid directly by the UCITS itself, including any performance fee;
+
+(b) the aggregate amount of remuneration broken down by categories of employees or other members of staff as referred to in Article 14a(3);
+
+(c) a description of how the remuneration and the benefits have been calculated;
+
+(d) the outcome of the reviews referred to in points (c) and (d) of Article 14b(1) including any irregularities that have occurred;
+
+(e) material changes to the adopted remuneration policy.
+
+4\. The half-yearly report shall include at least the information provided for in Sections I to IV of Schedule B of Annex I. Where a UCITS has paid or proposes to pay an interim dividend, the figures must indicate the results after tax for the half-year concerned and the interim dividend paid or proposed.
+
+5\. In order to ensure consistent harmonisation of this Article, ESMA may develop draft regulatory technical standards to specify the provisions concerning the content of the prospectus, the annual report and the half-yearly report as laid down in Annex I, and the format of those documents.
+
+Power is delegated to the Commission to adopt the regulatory technical standards referred to in the first subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1095/2010.
+
+6\. In order to ensure the uniform application of the rules relating to the name of the UCITS, ESMA shall by 16 April 2026 develop guidelines to specify the circumstances in which the name of a UCITS is unfair, unclear or misleading. Those guidelines shall take into account relevant sectoral legislation. Sectoral legislation setting standards for fund names or marketing of funds takes precedence over those guidelines.
+
+#### Article 70
+
+1\. The prospectus shall indicate in which categories of assets a UCITS is authorised to invest. It shall mention if transactions in financial derivative instruments are authorised, in which case it shall include a prominent statement indicating whether those operations may be carried out for the purpose of hedging or with the aim of meeting investment goals, and the possible outcome of the use of financial derivative instruments on the risk profile.
+
+2\. Where a UCITS invests principally in any category of assets defined in Article 50 other than transferable securities or money market instruments, or where a UCITS replicates a stock or debt securities index in accordance with Article 53, its prospectus and, where necessary, marketing communications shall include a prominent statement drawing attention to the investment policy.
+
+3\. Where the net asset value of a UCITS is likely to have a high volatility due to its portfolio composition or the portfolio management techniques that may be used, its prospectus and, where necessary, marketing communications shall include a prominent statement drawing attention to that characteristic.
+
+4\. Upon request of an investor, the management company shall also provide supplementary information relating to the quantitative limits that apply in the risk management of the UCITS, to the methods chosen to this end and to the recent evolution of the main risks and yields of the instrument categories.
+
+#### Article 71
+
+1\. The fund rules or instruments of incorporation of an investment company shall form an integral part of the prospectus and shall be annexed thereto.
+
+2\. The documents referred to in paragraph 1 are not, however, required to be annexed to the prospectus provided that the investor is informed that, on request, he or she will be sent those documents or be apprised of the place where, in each Member State in which the units are marketed, he or she may consult them.
+
+#### Article 72
+
+The essential elements of the prospectus shall be kept up to date.
+
+#### Article 73
+
+The accounting information given in the annual report shall be audited by one or more persons empowered by law to audit accounts in accordance with Directive 2006/43/EC. The auditor’s report, including any qualifications, shall be reproduced in full in the annual report.
+
+#### Article 74
+
+UCITS shall send their prospectus and any amendments thereto, as well as their annual and half-yearly reports, to the competent authorities of the UCITS home Member State. UCITS shall provide that documentation to the competent authorities of the management company’s home Member State on request.
+
+#### Article 75
+
+1\. The prospectus and the latest published annual and half-yearly reports shall be provided to investors on request and free of charge.
+
+2\. The prospectus may be provided in a durable medium or by means of a website. A paper copy shall be delivered to the investors on request and free of charge.
+
+3\. The annual and half-yearly reports shall be available to investors in the manner specified in the prospectus and in the key investor information referred to in Article 78. A paper copy of the annual and half-yearly reports shall be delivered to the investors on request and free of charge.
+
+4\. The Commission may adopt, by means of delegated acts in accordance with Article 112a  , measures which define the specific conditions which need to be met when providing the prospectus in a durable medium other than paper or by means of a website which does not constitute a durable medium.
+
+### SECTION 2 — Publication of other information
+
+#### Article 76
+
+A UCITS shall make public in an appropriate manner the issue, sale, repurchase or redemption price of its units each time it issues, sells, repurchases or redeems them, and at least twice a month.
+
+The competent authorities may, however, permit a UCITS to reduce the frequency to once a month on condition that such derogation does not prejudice the interests of the unit-holders.
+
+### SECTION 3 — Key investor information
+
+#### Article 78
+
+1\. Member States shall require that an investment company and, for each of the common funds it manages, a management company draw up a short document containing key information for investors. That document shall be referred to as ‘key investor information’ in this Directive. The words ‘key investor information’ shall be clearly stated in that document, in one of the languages referred to in Article 94(1)(b).
+
+2\. Key investor information shall include appropriate information about the essential characteristics of the UCITS concerned, which is to be provided to investors so that they are reasonably able to understand the nature and the risks of the investment product that is being offered to them and, consequently, to take investment decisions on an informed basis.
+
+3\. Key investor information shall provide information on the following essential elements in respect of the UCITS concerned:
+
+(a) identification of the UCITS and of the competent authority of the UCITS;
+
+(b) a short description of its investment objectives and investment policy;
+
+(c) past-performance presentation or, where relevant, performance scenarios;
+
+(d) costs and associated charges; and
+
+(e) risk/reward profile of the investment, including appropriate guidance and warnings in relation to the risks associated with investments in the relevant UCITS.
+
+Those essential elements shall be comprehensible to the investor without any reference to other documents.
+
+4\. Key investor information shall clearly specify where and how to obtain additional information relating to the proposed investment, including but not limited to where and how the prospectus and the annual and half-yearly report can be obtained on request and free of charge at any time, and the language in which such information is available to investors.
+
+Key investor information shall also include a statement to the effect that the details of the up-to-date remuneration policy, including, but not limited to, a description of how remuneration and benefits are calculated, the identity of persons responsible for awarding the remuneration and benefits including the composition of the remuneration committee, where such a committee exists, are available by means of a website – including a reference to that website – and that a paper copy will be made available free of charge upon request.
+
+5\. Key investor information shall be written in a concise manner and in non-technical language. It shall be drawn up in a common format, allowing for comparison, and shall be presented in a way that is likely to be understood by retail investors.
+
+6\. Key investor information shall be used without alterations or supplements, except translation, in all Member States where the UCITS is notified to market its units in accordance with Article 93.
+
+7\. The Commission shall adopt, by means of delegated acts in accordance with Article 112a  , measures which define the following:
+
+(a) the detailed and exhaustive content of the key investor information to be provided to investors as referred to in paragraphs 2, 3 and 4;
+
+(b) the detailed and exhaustive content of the key investor information to be provided to investors in the following specific cases:
+
+(i) for UCITS having different investment compartments, the key investor information to be provided to investors subscribing to a specific investment compartment, including how to pass from one investment compartment into another and the costs related thereto,
+
+(ii) for UCITS offering different share classes, the key investor information to be provided to investors subscribing to a specific share class,
+
+(iii) for fund of funds structures, the key investor information to be provided to investors subscribing to a UCITS, which invests itself in other UCITS or other collective investment undertakings referred to in Article 50(1)(e),
+
+(iv) for master-feeder structures, the key investor information to be provided to investors subscribing to a feeder UCITS,
+
+(v) for structured, capital protected and other comparable UCITS, the key investor information to be provided to investors in relation to the special characteristics of such UCITS; and
+
+(c) the specific details of the format and presentation of the key investor information to be provided to investors as referred to in paragraph 5.
+
+8\. In order to ensure uniform conditions of application of this Article, ESMA may develop draft implementing technical standards to determine the conditions of application of the delegated acts adopted by the Commission in accordance with paragraph 7 regarding the information referred to in paragraph 3.
+
+Power is conferred on the Commission to adopt the implementing technical standards referred to in the first subparagraph in accordance with Article 15 of Regulation (EU) No 1095/2010.
+
+#### Article 79
+
+1\. Key investor information, including the name of the UCITS, shall constitute pre-contractual information. It shall be fair, clear and not misleading. It shall be consistent with the relevant parts of the prospectus.
+
+2\. Member States shall ensure that a person does not incur civil liability solely on the basis of the key investor information, including any translation thereof, unless it is misleading, inaccurate or inconsistent with the relevant parts of the prospectus. Key investor information shall contain a clear warning in this respect.
+
+#### Article 80
+
+1\. Member States shall require that an investment company and, for each of the common funds it manages, a management company, which sells UCITS directly or through another natural or legal person who acts on its behalf and under its full and unconditional responsibility provides investors with key investor information on such UCITS in good time before their proposed subscription of units in such UCITS.
+
+2\. Member States shall require that an investment company and, for each of the common funds it manages, a management company, which does not sell UCITS directly or through another natural or legal person who acts on its behalf and under its full and unconditional responsibility to investors provides key investor information to product manufacturers and intermediaries selling or advising investors on potential investments in such UCITS or in products offering exposure to such UCITS upon their request. Member States shall require that the intermediaries selling or advising investors on potential investments in UCITS, provide key investor information to their clients or potential clients.
+
+3\. Key investor information shall be provided to investors free of charge.
+
+#### Article 81
+
+1\. Member States shall allow investment companies and, for each of the common funds they manage, management companies, to provide key investor information in a durable medium or by means of a website. A paper copy shall be delivered to the investor on request and free of charge.
+
+In addition, an up-to-date version of the key investor information shall be made available on the website of the investment company or management company.
+
+2\. The Commission may adopt, by means of delegated acts in accordance with Article 112a  , measures which define the specific conditions which need to be met when providing key investor information in a durable medium other than on paper or by means of a website which does not constitute a durable medium.
+
+#### Article 82
+
+1\. UCITS shall send their key investor information and any amendments thereto, to the competent authorities of their home Member State.
+
+2\. The essential elements of key investor information shall be kept up to date.
+
+#### Article 82a
+
+1\. Member States shall ensure that, where an investment company or, for any of the common funds it manages, a management company draws up, provides, revises and translates a key information document which complies with the requirements for key information documents laid down in Regulation (EU) No 1286/2014 of the European Parliament and of the Council ( 25 ), competent authorities consider that key information document to satisfy the requirements applicable to key investor information set out in Articles 78 to 82 and Article 94 of this Directive.
+
+2\. Member States shall ensure that competent authorities do not require an investment company or, for any of the common funds it manages, a management company to draw up key investor information in accordance with Articles 78 to 82 and Article 94 of this Directive where it draws up, provides, revises and translates a key information document which complies with the requirements for key information documents set out in Regulation (EU) No 1286/2014.
+
+### SECTION 4 — Accessibility of information on the european single access point
+
+#### Article 82B
+
+1\. From 10 January 2028, Member States shall ensure that, when making public any information referred to in Articles 68(1) and 78(1) of this Directive, management companies and investment companies submit that information at the same time to the collection body referred to in paragraph 3 of this Article for the purpose of making it accessible on the European single access point (ESAP) established under Regulation (EU) 2023/2859 of the European Parliament and of the Council ( *1 ).
+
+Member States shall ensure that the information complies with the following requirements:
+
+(a) be submitted in a data extractable format as defined in Article 2, point (3), of Regulation (EU) 2023/2859 or, where required by Union law, in a machine-readable format, as defined in Article 2, point (4), of that Regulation;
+
+(b) be accompanied by the following metadata:
+
+(i) all the names of the UCITS to which the information relates;
+
+(ii) the legal entity identifier of the UCITS, as specified pursuant to Article 7(4), point (b), of Regulation (EU) 2023/2859;
+
+(iii) the size of the UCITS by category, as specified pursuant to Article 7(4), point (d), of that Regulation;
+
+(iv) the type of information, as classified pursuant to Article 7(4), point (c), of that Regulation;
+
+(v) an indication of whether the information contains personal data.
+
+2\. For the purposes of paragraph 1, point (b)(ii), Member States shall ensure that UCITS obtain a legal entity identifier.
+
+3\. For the purpose of making the information referred to in paragraph 1 of this Article accessible on ESAP, the collection body as defined in Article 2, point (2), of Regulation (EU) 2023/2859 shall be the competent authority.
+
+4\. From 10 January 2028, Member States shall ensure that the information referred to in Article 6(1), second subparagraph, of this Directive is made accessible on ESAP. For that purpose, the collection body as defined in Article 2, point (2), of Regulation (EU) 2023/2859 shall be the national competent authority.
+
+Member States shall ensure that the information complies with the following requirements:
+
+(a) be submitted in a data extractable format as defined in Article 2, point (3), of Regulation (EU) 2023/2859;
+
+(b) be accompanied by the following metadata:
+
+(i) all the names of the management company to which the information relates;
+
+(ii) where available, the legal entity identifier of the management company, as specified pursuant to Article 7(4), point (b), of that Regulation;
+
+(iii) the type of information, as classified pursuant to Article 7(4), point (c), of that Regulation;
+
+(iv) an indication of whether the information contains personal data.
+
+5\. From 10 January 2028, Member States shall ensure that the information referred to in Article 99b(1) of this Directive is made accessible on ESAP. For that purpose, the collection body as defined in Article 2, point (2), of Regulation (EU) 2023/2859 shall be the competent authority.
+
+Member States shall ensure that the information complies with the following requirements:
+
+(a) be submitted in a data extractable format as defined in Article 2, point (3), of Regulation (EU) 2023/2859;
+
+(b) be accompanied by the following metadata:
+
+(i) all the names of the UCITS to which the information relates;
+
+(ii) where available, the legal entity identifier of the UCITS, as specified pursuant to Article 7(4), point (b), of Regulation (EU) 2023/2859;
+
+(iii) the type of information, as classified pursuant to Article 7(4), point (c), of that Regulation;
+
+(iv) an indication of whether the information contains personal data.
+
+6\. For the purpose of ensuring the efficient collection and management of information submitted in accordance with paragraph 1, ESMA shall develop draft implementing technical standards to specify the following:
+
+(a) any other metadata to accompany the information;
+
+(b) the structuring of data in the information;
+
+(c) for which information a machine-readable format is required and, in such cases, which machine-readable format is to be used.
+
+For the purposes of point (c), ESMA shall assess the advantages and disadvantages of different machine-readable formats and conduct appropriate field tests.
+
+ESMA shall submit those draft implementing technical standards to the Commission.
+
+Power is conferred on the Commission to adopt the implementing technical standards referred to in the first subparagraph of this paragraph in accordance with Article 15 of Regulation (EU) No 1095/2010.
+
+7\. Where necessary, ESMA shall adopt guidelines to ensure that the metadata submitted in accordance with paragraph 6, first subparagraph, point (a), are correct.
+
+## CHAPTER X — GENERAL OBLIGATIONS OF UCITS
+
+#### Article 83
+
+1\. The following shall not borrow:
+
+(a) an investment company;
+
+(b) a management company or depositary acting on behalf of a common fund.
+
+A UCITS may, however, acquire foreign currency by means of a ‘back-to-back’ loan.
+
+2\. By way of derogation from paragraph 1, a Member State may authorise a UCITS to borrow provided that such borrowing is:
+
+(a) on a temporary basis and represents:
+
+— in the case of an investment company, no more than 10 % of its assets, or
+
+— in the case of a common fund, no more than 10 % of the value of the fund; or
+
+(b) to enable the acquisition of immovable property essential for the direct pursuit of its business and represents, in the case of an investment company, no more than 10 % of its assets.
+
+Where a UCITS is authorised to borrow under points (a) and (b), such borrowing shall not exceed 15 % of its assets in total.
+
+3\. In order to ensure consistent harmonisation of this Article, ESMA may develop draft regulatory technical standards to specify the requirements of this Article relating to borrowing.
+
+Power is delegated to the Commission to adopt the regulatory technical standards referred to in the first subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1095/2010.
+
+#### Article 84
+
+1\. A UCITS shall repurchase or redeem its units at the request of any unit-holder.
+
+2\. By way of derogation from paragraph 1:
+
+(a) a UCITS may, in the interest of its unitholders, temporarily suspend the subscription, repurchase and redemption of its units as referred to in Annex IIA, point 1, or activate or deactivate other liquidity management tools selected from points 2 to 8 of that Annex in accordance with Article 18a(2). The UCITS may also, in the interest of its unitholders, activate side pockets as referred to in Annex IIA, point 9;
+
+(b) in the interest of investors, in exceptional circumstances and after consulting the UCITS, the competent authorities of the UCITS home Member State may require a UCITS to activate or deactivate the liquidity management tool referred to in Annex IIA, point 1, where there are risks to investor protection or financial stability that, on a reasonable and balanced view, necessitate such activation or deactivation.
+
+A UCITS shall only use a suspension of subscriptions, repurchases and redemptions or side pockets as referred to in the first subparagraph, point (a), in exceptional cases where circumstances so require and where justified having regard to the interests of its unitholders.
+
+3\. The UCITS shall, without delay, notify the competent authorities of its home Member State of the following:
+
+(a) where the UCITS activates or deactivates the liquidity management tool referred to in Annex IIA, point 1;
+
+(b) where the UCITS activates or deactivates any of the liquidity management tools referred to in Annex IIA, points 2 to 8, in a manner that is not in the ordinary course of business as envisaged in the fund rules or the instruments of incorporation of the UCITS.
+
+A UCITS shall, within a reasonable timeframe before it activates or deactivates the liquidity management tool referred to in Annex IIA, point 9, notify the competent authorities of its home Member State of such activation or deactivation.
+
+The competent authorities of the UCITS home Member State shall inform, without delay, the competent authorities of the management company’s home Member State, the competent authorities of the UCITS host Member State, ESMA and, if there are potential risks to the stability and integrity of the financial system, the ESRB, of any notification received in accordance with this paragraph. ESMA shall have the power to share the information received pursuant to this paragraph with the competent authorities.
+
+3a. Where the competent authorities of the UCITS home Member State exercise powers pursuant to paragraph 2, point (b), they shall notify the competent authorities of the UCITS host Member State, the competent authorities of the management company’s home Member State, ESMA and, if there are potential risks to the stability and integrity of the financial system, the ESRB thereof.
+
+3b. The competent authorities of the UCITS host Member State or the competent authorities of the management company’s home Member State may request the competent authorities of the UCITS home Member State to exercise powers pursuant to paragraph 2, point (b), specifying the reasons for the request and informing ESMA and, if there are potential risks to the stability and integrity of the financial system, the ESRB thereof.
+
+3c. Where the competent authorities of the UCITS home Member State do not agree with the request referred to in paragraph 3b, they shall inform the requesting competent authorities, ESMA and, where the ESRB was informed of that request pursuant to paragraph 3b, the ESRB thereof, stating the reasons for the disagreement.
+
+3d. On the basis of the information received pursuant to paragraphs 3b and 3c, ESMA shall issue without undue delay an opinion to the competent authorities of the UCITS home Member State on the exercise of powers pursuant to paragraph 2, point (b). ESMA shall communicate that opinion to the competent authorities of the UCITS host Member State.
+
+3e. Where the competent authorities of the UCITS home Member State do not act in accordance with ESMA’s opinion referred to in paragraph 3d, or do not intend to comply with that opinion, they shall inform ESMA and the requesting competent authorities thereof, stating the reasons for their non-compliance or intention not to comply. In the event of a serious threat to investor protection, to the orderly functioning and integrity of financial markets or to the stability of the whole or part of the financial system in the Union, and unless such publication conflicts with the legitimate interests of the UCITS’ unitholders or of the public, ESMA may publish the fact that the competent authorities of the UCITS home Member State do not comply or do not intend to comply with its opinion, together with the reasons provided by those competent authorities for their non-compliance or intention not to comply. ESMA shall analyse whether the benefits of publication would outweigh the amplification of the threats to investor protection, to the orderly functioning and integrity of financial markets or to the stability of the whole or part of the financial system in the Union resulting from that publication and shall give the competent authorities advance notice of such publication.
+
+3f. By 16 April 2026 ESMA shall develop guidelines providing indications to guide the competent authorities in their exercise of the powers set out in paragraph 2, point (b), and indications as to the situations that might lead to the requests referred to in paragraph 3b of this Article and Article 98(3) being put forward. When developing those guidelines, ESMA shall consider the potential implications of such supervisory intervention for investor protection and financial stability in another Member State or in the Union. Those guidelines shall recognise that the primary responsibility for liquidity risk management remains with UCITS.
+
+4\. In order to ensure consistent harmonisation of this Article, ESMA may develop draft regulatory technical standards to specify the conditions which need to be met by the UCITS after the adoption of the temporary suspension of the re-purchase or redemption of the units of the UCITS as referred to in paragraph 2(a), once the suspension has been decided.
+
+Power is delegated to the Commission to adopt the regulatory technical standards referred to in the first subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1095/2010.
+
+#### Article 85
+
+The rules for the valuation of assets and the rules for calculating the sale or issue price and the repurchase or redemption price of the units of a UCITS shall be laid down in the applicable national law, in the fund rules or in the instruments of incorporation of the investment company.
+
+#### Article 86
+
+The distribution or reinvestment of the income of a UCITS shall be effected in accordance with the law and with the fund rules or the instruments of incorporation of the investment company.
+
+#### Article 87
+
+A UCITS unit shall not be issued unless the equivalent of the net issue price is paid into the assets of the UCITS within the usual time limits. This shall not preclude the distribution of bonus units.
+
+#### Article 88
+
+1\. Without prejudice to the application of Articles 50 and 51, the following shall not grant loans or act as a guarantor on behalf of third parties:
+
+(a) an investment company;
+
+(b) a management company or depositary acting on behalf of a common fund.
+
+2\. Paragraph 1 shall not prevent the undertakings referred to therein from acquiring transferable securities, money market instruments or other financial instruments referred to in points (e), (g) and (h) of Article 50(1) which are not fully paid.
+
+#### Article 89
+
+The following shall not carry out uncovered sales of transferable securities, money market instruments or other financial instruments referred to in points (e), (g) and (h) of Article 50(1):
+
+(a) an investment company;
+
+(b) a management company or depositary acting on behalf of a common fund.
+
+#### Article 90
+
+The law of the UCITS home Member State or the fund rules shall prescribe the remuneration and the expenditure which a management company is empowered to charge to a common fund and the method of calculation of such remuneration.
+
+The law or the instruments of incorporation of an investment company shall prescribe the nature of the cost to be borne by the company.
+
+## CHAPTER XI — SPECIAL PROVISIONS APPLICABLE TO UCITS WHICH MARKET THEIR UNITS IN MEMBER STATES OTHER THAN THOSE IN WHICH THEY ARE ESTABLISHED
+
+#### Article 91
+
+1\. UCITS host Member States shall ensure that UCITS are able to market their units within their territories upon notification in accordance with Article 93.
+
+2\. UCITS host Member States shall not impose any additional requirements or administrative procedures on UCITS as referred to in paragraph 1 in respect of the field governed by this Directive.
+
+4\. For the purposes of this Chapter, a UCITS shall include investment compartments thereof.
+
+#### Article 92
+
+1\. Member States shall ensure that a UCITS makes available, in each Member State where it intends to market its units, facilities to perform the following tasks:
+
+(a) process subscription, repurchase and redemption orders and make other payments to unit-holders relating to the units of the UCITS, in accordance with the conditions set out in the documents required pursuant to Chapter IX;
+
+(b) provide investors with information on how orders referred to in point (a) can be made and how repurchase and redemption proceeds are paid;
+
+(c) facilitate the handling of information and access to procedures and arrangements referred to in Article 15 relating to the investors' exercise of their rights arising from their investment in the UCITS in the Member State where the UCITS is marketed;
+
+(d) make the information and documents required pursuant to Chapter IX available to investors under the conditions laid down in Article 94, for the purposes of inspection and obtaining copies thereof;
+
+(e) provide investors with information relevant to the tasks that the facilities perform in a durable medium; and
+
+(f) act as a contact point for communicating with the competent authorities.
+
+2\. Member States shall not require a UCITS to have a physical presence in the host Member State or to appoint a third party for the purposes of paragraph 1.
+
+3\. The UCITS shall ensure that the facilities to perform the tasks referred to in paragraph 1, including electronically, are provided:
+
+(a) in the official language or one of the official languages of the Member State where the UCITS is marketed or in a language approved by the competent authorities of that Member State;
+
+(b) by the UCITS itself, by a third party which is subject to regulation and supervision governing the tasks to be performed, or by both.
+
+For the purposes of point (b), where the tasks are to be performed by a third party, the appointment of that third party shall be evidenced by a written contract, which specifies which of the tasks referred to in paragraph 1 are not to be performed by the UCITS and that the third party will receive all the relevant information and documents from the UCITS.
+
+#### Article 93
+
+1\. If a UCITS proposes to market its units in a Member State other than its home Member State, it shall first submit a notification letter to the competent authorities of its home Member State.
+
+The notification letter shall include information on arrangements made for marketing units of the UCITS in the host Member State, including, where relevant, in respect of share classes. In the context of Article 16(1), it shall include an indication that the UCITS is marketed by the management company that manages the UCITS.
+
+The notification letter shall also include the details necessary, including the address, for the invoicing or for the communication of any applicable regulatory fees or charges by the competent authorities of the host Member State and information on the facilities for performing the tasks referred to in Article 92(1).
+
+2\. A UCITS shall enclose with the notification letter, as referred to in paragraph 1, the latest version of the following:
+
+(a) its fund rules or its instruments of incorporation, its prospectus and, where appropriate, its latest annual report and any subsequent half-yearly report translated in accordance with the provisions of Article 94(1)(c) and (d); and
+
+(b) its key investor information referred to in Article 78, translated in accordance with Article 94(1)(b) and (d).
+
+3\. The competent authorities of the UCITS home Member State shall verify whether the documentation submitted by the UCITS in accordance with paragraphs 1 and 2 is complete.
+
+The competent authorities of the UCITS home Member State shall transmit the complete documentation referred to in paragraphs 1 and 2 to the competent authorities of the Member State in which the UCITS proposes to market its units, no later than 10 working days of the date of receipt of the notification letter accompanied by the complete documentation provided for in paragraph 2. They shall enclose with the documentation an attestation that the UCITS fulfils the conditions imposed by this Directive.
+
+Upon the transmission of the documentation, the competent authorities of the UCITS home Member State shall immediately notify the UCITS about the transmission. The UCITS may access the market of the UCITS host Member State as from the date of that notification.
+
+4\. Member States shall ensure that the notification letter referred to in paragraph 1 and the attestation referred to in paragraph 3 are provided in a language customary in the sphere of international finance, unless the UCITS home and host Member States agree to that notification letter and that attestation being provided in an official language of both Member States.
+
+5\. Member States shall ensure that the electronic transmission and filing of the documents referred to in paragraph 3 is accepted by their competent authorities.
+
+6\. For the purpose of the notification procedure set out in this Article, the competent authorities of the Member State in which a UCITS proposes to market its units shall not request any additional documents, certificates or information other than those provided for in this Article.
+
+7\. The UCITS home Member State shall ensure that the competent authorities of the UCITS host Member State have access, by electronic means, to the documents referred to in paragraph 2 and, if applicable, to any translations thereof. It shall ensure that the UCITS keeps those documents and translations up to date. The UCITS shall notify any amendments to the documents referred to in paragraph 2 to the competent authorities of the UCITS host Member State and shall indicate where those documents can be obtained electronically.
+
+8\. In the event of a change to the information in the notification letter submitted in accordance with paragraph 1, or a change regarding share classes to be marketed, the UCITS shall give written notice thereof to the competent authorities of both the UCITS home Member State and the UCITS host Member State at least one month before implementing that change.
+
+Where, pursuant to a change as referred to in the first subparagraph, the UCITS would no longer comply with this Directive, the competent authorities of the UCITS home Member State shall inform the UCITS within 15 working days of receipt of all the information referred to in the first subparagraph that it is not to implement that change. In that case, the competent authorities of the UCITS home Member State shall notify the competent authorities of the UCITS host Member State accordingly.
+
+Where a change referred to in the first subparagraph is implemented after information has been transmitted in accordance with the second subparagraph and pursuant to that change the UCITS no longer complies with this Directive, the competent authorities of the home Member State of the UCITS shall take all appropriate measures in accordance with Article 98, including, where necessary, the express prohibition of marketing of the UCITS and shall notify the competent authorities of the UCITS host Member State without undue delay of the measures taken.
+
+#### Article 93a
+
+1\. Member States shall ensure that a UCITS may de-notify arrangements made for marketing as regards units, including, where relevant, in respect of share classes, in a Member State in respect of which it has made a notification in accordance with Article 93, where all the following conditions are fulfilled:
+
+(a) a blanket offer is made to repurchase or redeem, free of any charges or deductions, all such units held by investors in that Member State, is publicly available for at least 30 working days, and is addressed, directly or through financial intermediaries, individually to all investors in that Member State whose identity is known;
+
+(b) the intention to terminate arrangements made for marketing such units in that Member State is made public by means of a publicly available medium, including by electronic means, which is customary for marketing UCITS and suitable for a typical UCITS investor;
+
+(c) any contractual arrangements with financial intermediaries or delegates are modified or terminated with effect from the date of de-notification in order to prevent any new or further, direct or indirect, offering or placement of the units identified in the notification referred to in paragraph 2.
+
+The information referred to in points (a) and (b) of the first subparagraph shall clearly describe the consequences for investors if they do not accept the offer to redeem or repurchase their units.
+
+The information referred to in points (a) and (b) of the first subparagraph shall be provided in the official language or one of the official languages of the Member State in respect of which the UCITS has made a notification in accordance with Article 93 or in a language approved by the competent authorities of that Member State. As of the date referred to in point (c) of the first subparagraph, the UCITS shall cease any new or further, direct or indirect, offering or placement of its units which were the subject of de-notification in that Member State.
+
+2\. The UCITS shall submit a notification to the competent authorities of its home Member State containing the information referred to in points (a), (b) and (c) of the first subparagraph of paragraph 1.
+
+3\. The competent authorities of the UCITS home Member State shall verify whether the notification submitted by the UCITS in accordance with paragraph 2 is complete. The competent authorities of the UCITS home Member State shall, no later than 15 working days from the receipt of a complete notification, transmit that notification to the competent authorities of the Member State identified in the notification referred to in paragraph 2, and to ESMA.
+
+Upon transmission of the notification pursuant to the first subparagraph, the competent authorities of the UCITS home Member State shall promptly notify the UCITS of that transmission.
+
+4\. The UCITS shall provide investors who remain invested in the UCITS as well as the competent authorities of the UCITS home Member State with the information required under Articles 68 to 82 and under Article 94.
+
+5\. The competent authorities of the UCITS home Member State shall transmit to the competent authorities of the Member State identified in the notification referred to in paragraph 2 of this Article information on any changes to the documents referred to in Article 93(2).
+
+6\. The competent authorities of the Member State identified in the notification referred to in paragraph 2 of this Article shall have the same rights and obligations as the competent authorities of the UCITS host Member State as set out in Article 21(2), Article 97(3) and Article 108. Without prejudice to other monitoring activities and supervisory powers as referred to in Article 21(2) and Article 97, as from the date of transmission under paragraph 5 of this Article, the competent authorities of the Member State identified in the notification referred to in paragraph 2 of this Article shall not require the UCITS concerned to demonstrate compliance with national laws, regulations and administrative provisions governing marketing requirements referred to in Article 5 of Regulation (EU) 2019/1156 of the European Parliament and of the Council ( 26 ).
+
+7\. Member States shall allow for the use of any electronic or other distance communication means for the purposes of paragraph 4, provided that the information and communication means are available for investors in the official language or one of the official languages of the Member State where the investor is located or in a language approved by the competent authorities of that Member State.
+
+#### Article 94
+
+1\. Where a UCITS markets its units in a UCITS host Member State, it shall provide to investors within the territory of such Member State all information and documents which it is required pursuant to Chapter IX to provide to investors in its home Member State.
+
+Such information and documents shall be provided to investors in compliance with the following provisions:
+
+(a) without prejudice to the provisions of Chapter IX, such information or documents shall be provided to investors in the way prescribed by the laws, regulations or administrative provisions of the UCITS host Member State;
+
+(b) key investor information referred to in Article 78 shall be translated into the official language, or one of the official languages, of the UCITS host Member State or into a language approved by the competent authorities of that Member State;
+
+(c) information or documents other than key investor information referred to in Article 78 shall be translated, at the choice of the UCITS, into the official language, or one of the official languages, of the UCITS host Member State, into a language approved by the competent authorities of that Member State or into a language customary in the sphere of international finance; and
+
+(d) translations of information or documents under points (b) and (c) shall be produced under the responsibility of the UCITS and shall faithfully reflect the content of the original information.
+
+2\. The requirements set out in paragraph 1 shall also be applicable to any changes to the information and documents referred therein.
+
+3\. The frequency of the publication of the issue, sale, repurchase or redemption price of units of UCITS according to Article 76 shall be subject to the laws, regulations and administrative provisions of the UCITS home Member State.
+
+#### Article 95
+
+1\. The Commission may adopt, by means of delegated acts in accordance with Article 112a  , measures specifying:
+
+(b) the facilitation of access for the competent authorities of the UCITS host Member States to the information or documents referred to in Article 93(1), (2) and (3) in accordance with Article 93(7).
+
+2\. In order to ensure uniform conditions of application of Article 93, ESMA may develop draft implementing technical standards to determine:
+
+(a) the form and contents of a standard model notification letter to be used by a UCITS for the purpose of notification referred to in Article 93(1), including an indication as to which documents the translations refer to;
+
+(b) the form and contents of a standard model attestation to be used by competent authorities of Member States referred to in Article 93(3);
+
+(c) the procedure for the exchange of information and the use of electronic communication between competent authorities for the purpose of notification under Article 93.
+
+Power is conferred on the Commission to adopt the implementing technical standards referred to in the first subparagraph in accordance with Article 15 of Regulation (EU) No 1095/2010.
+
+#### Article 96
+
+For the purpose of pursuing its activities, a UCITS may use the same reference to its legal form (such as investment company or common fund) in its designation in a UCITS host Member State as it uses in its home Member State.
+
+## CHAPTER XII — PROVISIONS CONCERNING THE AUTHORITIES RESPONSIBLE FOR AUTHORISATION AND SUPERVISION
+
+#### Article 97
+
+1\. Member States shall designate the competent authorities which are to carry out the duties provided for in this Directive. They shall inform ESMA and the Commission thereof, indicating any division of duties.
+
+2\. The competent authorities shall be public authorities or bodies appointed by public authorities.
+
+3\. The authorities of the UCITS home Member State shall be competent to supervise that UCITS including, where relevant, pursuant to Article 19. However, the authorities of the UCITS host Member State shall be competent to supervise compliance with the provisions falling outside the field governed by this Directive and requirements set out in Articles 92 and 94.
+
+#### Article 98
+
+1\. The competent authorities shall be given all supervisory and investigatory powers that are necessary for the exercise of their functions. Such powers shall be exercised:
+
+(a) directly;
+
+(b) in collaboration with other authorities;
+
+(c) under the responsibility of the competent authorities, by delegation to entities to which tasks have been delegated; or
+
+(d) by application to the competent judicial authorities.
+
+2\. Under paragraph 1, competent authorities shall have the power, at least, to:
+
+(a) access any document in any form and receive a copy thereof;
+
+(b) require any person to provide information and, if necessary, to summon and question a person with a view to obtaining information;
+
+(c) carry out on-site inspections;
+
+(d) require:
+
+(i) in so far as permitted by national law, existing data traffic records held by a telecommunications operator, where there is a reasonable suspicion of an infringement and where such records may be relevant to an investigation into infringements of this Directive;
+
+(ii) existing recordings of telephone conversations or electronic communications or other data traffic records held by UCITS, management companies, investment companies, depositaries or any other entities regulated by this Directive;
+
+(e) require the cessation of any practice that is contrary to the provisions adopted in the implementation of this Directive;
+
+(f) request the freezing or the sequestration of assets;
+
+(g) request the temporary prohibition of professional activity;
+
+(h) require authorised investment companies, management companies or depositaries to provide information;
+
+(i) adopt any type of measure to ensure that investment companies, management companies or depositaries continue to comply with the requirements of this Directive;
+
+(j) require the suspension of the issue, repurchase or redemption of units in the interest of the unit-holders or of the public;
+
+(k) withdraw the authorisation granted to a UCITS, a management company or a depositary;
+
+(l) refer matters for criminal prosecution; and
+
+(m) allow auditors or experts to carry out verifications or investigations.
+
+3\. The competent authorities of the UCITS host Member State may, where they have reasonable grounds for doing so, request the competent authorities of the UCITS home Member State to exercise, without delay, powers pursuant to paragraph 2, other than point (j) of that paragraph, specifying the reasons for their request in as specific a manner as possible and informing ESMA and, if there are potential risks to the stability and integrity of the financial system, the ESRB thereof.
+
+The competent authorities of the UCITS home Member State shall, without undue delay, inform the competent authorities of the UCITS host Member State, ESMA and, if there are potential risks to the stability and integrity of the financial system, the ESRB, of the powers exercised and of their findings.
+
+4\. ESMA may request the competent authorities to submit, without undue delay, explanations to ESMA in relation to specific cases which raise a serious threat to investor protection, to the orderly functioning and integrity of financial markets or to the stability of the whole or part of the financial system in the Union.
+
+#### Article 99
+
+1\. Without prejudice to the supervisory powers of competent authorities referred to in Article 98 and the right of Member States to provide for and impose criminal sanctions, Member States shall lay down rules on administrative sanctions and other administrative measures to be imposed on companies and persons in respect of infringements of national provisions transposing this Directive and shall take all measures necessary to ensure that they are implemented.
+
+Where Member States decide not to lay down rules for administrative sanctions for infringements which are subject to national criminal law, they shall communicate to the Commission the relevant criminal law provisions.
+
+Administrative sanctions and other administrative measures shall be effective, proportionate and dissuasive.
+
+By 18 March 2016, Member States shall notify the laws, regulations and administrative provisions transposing this Article, including any relevant criminal law provisions, to the Commission and ESMA. Member States shall notify the Commission and ESMA without undue delay of any subsequent amendments thereto.
+
+2\. Where Member States have chosen, in accordance with paragraph 1, to lay down criminal sanctions for infringements of the provisions referred to in that paragraph, they shall ensure that appropriate measures are in place so that competent authorities have all the necessary powers to liaise with judicial authorities within their jurisdiction to receive specific information relating to criminal investigations or proceedings commenced for possible infringements of this Directive and provide the same to other competent authorities and ESMA in order to fulfil their obligation to cooperate with each other and ESMA for the purposes of this Directive.
+
+Competent authorities may also cooperate with competent authorities of other Member States with respect to facilitating the recovery of pecuniary sanctions.
+
+3\. As part of its overall review of the functioning of this Directive, the Commission shall review, not later than 18 September 2017, the application of the administrative and criminal sanctions, and in particular the need to further harmonise the administrative sanctions laid down for infringements of the requirements laid down in this Directive.
+
+4\. A competent authority may refuse to act on a request for information or a request to cooperate with an investigation only in the following exceptional circumstances, namely where:
+
+(a) communication of relevant information might adversely affect the security of the Member State addressed, in particular the fight against terrorism and other serious crimes;
+
+(b) compliance with the request is likely to affect adversely its own investigation, enforcement activities or, where applicable, a criminal investigation;
+
+(c) judicial proceedings have already been initiated in respect of the same actions and against the same persons before the authorities of the Member State addressed; or
+
+(d) a final judgment has already been delivered in relation to such persons for the same actions in the Member State addressed.
+
+5\. Member States shall ensure that where obligations apply to UCITS, management companies, investment companies or depositaries, in the event of an infringement of national provisions transposing this Directive, administrative penalties or other administrative measures may be applied, in accordance with national law, to the members of the management body and to other natural persons who are responsible, under national law, for the infringement.
+
+6\. In accordance with national law, Member States shall ensure that, in all cases referred to in paragraph 1, the administrative penalties and other administrative measures that may be applied include at least the following:
+
+(a) a public statement which identifies the person responsible and the nature of the infringement;
+
+(b) an order requiring the person responsible to cease the conduct and to desist from a repetition of that conduct;
+
+(c) in the case of a UCITS or a management company, suspension or withdrawal of the authorisation of the UCITS or the management company;
+
+(d) a temporary or, for repeated serious infringements, a permanent ban against a member of the management body of the management company or investment company or against any other natural person who is held responsible, from exercising management functions in those or in other such companies;
+
+(e) in the case of a legal person, maximum administrative pecuniary sanctions of at least EUR 5 000 000 or, in the Member States whose currency is not the euro, the corresponding value in the national currency on 17 September 2014, or 10 % of the total annual turnover of the legal person according to the last available accounts approved by the management body; where the legal person is a parent undertaking or a subsidiary of the parent undertaking which has to prepare consolidated financial accounts in accordance with Directive 2013/34/EU of the European Parliament and of the Council ( 27 ), the relevant total annual turnover shall be the total annual turnover or the corresponding type of income in accordance with the relevant Union law in the area of accounting according to the last available consolidated accounts approved by the management body of the ultimate parent undertaking;
+
+(f) in the case of a natural person, maximum administrative pecuniary sanctions of at least EUR 5 000 000 or, in the Member States whose currency is not the euro, the corresponding value in the national currency on 17 September 2014;
+
+(g) as an alternative to points (e) and (f), maximum administrative pecuniary sanctions of at least twice the amount of the benefit derived from the infringement where that benefit can be determined, even if that exceeds the maximum amounts in points (e) and (f).
+
+7\. Member States may empower competent authorities, under national law, to impose types of penalty in addition to those referred to in paragraph 6 or to impose pecuniary penalties exceeding the amounts referred to in points (e), (f) and (g) of paragraph 6.
+
+#### Article 99a
+
+Member States shall ensure that their laws, regulations or administrative provisions transposing this Directive provide for penalties, in particular when:
+
+(a) the activities of UCITS are pursued without obtaining authorisation, thus infringing Article 5;
+
+(b) the business of a management company is carried out without obtaining prior authorisation, thus infringing Article 6;
+
+(c) the business of an investment company is carried out without obtaining prior authorisation, thus infringing Article 27;
+
+(d) a qualifying holding in a management company is acquired, directly or indirectly, or such a qualifying holding in a management company is further increased so that the proportion of the voting rights or of the capital held would reach or exceed 20 %, 30 % or 50 % or so that the management company would become its subsidiary (‘the proposed acquisition’), without notifying in writing the competent authorities of the management company in which the acquirer is seeking to acquire or increase a qualifying holding, thus infringing Article 11(1);
+
+(e) a qualifying holding in a management company is disposed of, directly or indirectly, or reduced so that the proportion of the voting rights or of the capital held would fall below 20 %, 30 % or 50 % or so that the management company would cease to be a subsidiary, without notifying in writing the competent authorities, thus infringing Article 11(1);
+
+(f) a management company has obtained an authorisation through false statements or any other irregular means, thus infringing point (b) of Article 7(5);
+
+(g) an investment company has obtained an authorisation through false statements or any other irregular means, thus infringing point (b) of Article 29(4);
+
+(h) a management company, on becoming aware of any acquisition or disposal of holdings in their capital that cause holdings to exceed or fall below one of the thresholds referred to in Article 11(1) of Directive 2014/65/EU fails to inform the competent authorities of those acquisitions or disposals, thus infringing Article 11(1) of this Directive;
+
+(i) a management company fails to inform the competent authority, at least once a year, of the names of shareholders and members possessing qualifying holdings and the sizes of such holdings, thus infringing Article 11(1);
+
+(j) a management company fails to comply with procedures and arrangements imposed in accordance with the national provisions transposing point (a) of Article 12(1);
+
+(k) a management company fails to comply with structural and organisational requirements imposed in accordance with the national provisions transposing point (b) of Article 12(1);
+
+(l) an investment company fails to comply with procedures and arrangements imposed in accordance with the national provisions transposing Article 31;
+
+(m) a management company or an investment company fails to comply with requirements related to delegation of its functions to third parties imposed in accordance with the national provisions transposing Articles 13 and 30;
+
+(n) a management company or an investment company fails to comply with rules of conduct imposed in accordance with the national provisions transposing Articles 14 and 30;
+
+(o) a depositary fails to perform its tasks in accordance with national provisions transposing Article 22(3) to (7);
+
+(p) an investment company or, for each of the common funds that it manages, a management company, repeatedly fails to comply with obligations concerning the investment policies of UCITS laid down in national provisions transposing Chapter VII;
+
+(q) a management company or an investment company fails to employ a risk-management process or a process for accurate and independent assessment of the value of OTC derivatives as laid down in national provisions transposing Article 51(1);
+
+(r) an investment company or, for each of the common funds that it manages, a management company, repeatedly fails to comply with obligations concerning information to be provided to investors imposed in accordance with the national provisions transposing Articles 68 to 82;
+
+(s) a management company or an investment company marketing units of UCITS that it manages in a Member State other than the UCITS home Member State fails to comply with the notification requirement laid down in Article 93(1).
+
+#### Article 99b
+
+1\. Member States shall ensure that competent authorities publish any decision against which there is no appeal imposing an administrative sanction or measure for infringements of the national provisions transposing this Directive on their official websites without undue delay after the person on whom the sanction or measure was imposed has been informed of that decision. The publication shall include at least information on the type and nature of the infringement and the identity of the persons responsible. That obligation does not apply to decisions imposing measures that are of an investigatory nature.
+
+However, where the publication of the identity of the legal persons or of the personal data of the natural persons is considered by the competent authority to be disproportionate following a case-by-case assessment conducted on the proportionality of the publication of such data, or where publication jeopardises the stability of financial markets or an ongoing investigation, Member States shall ensure that competent authorities do one of the following:
+
+(a) defer the publication of the decision to impose the sanction or measure until the reasons for non-publication cease to exist;
+
+(b) publish the decision to impose the sanction or measure on an anonymous basis in a manner which complies with national law, if such anonymous publication ensures effective protection of the personal data concerned; or
+
+(c) not publish the decision to impose a sanction or measure in the event that the options laid down in points (a) and (b) are considered to be insufficient to ensure:
+
+(i) that the stability of the financial markets would not be put in jeopardy;
+
+(ii) the proportionality of the publication of such decisions with regard to measures which are deemed to be of a minor nature.
+
+In the case of a decision to publish a sanction or measure on an anonymous basis, the publication of the relevant data may be postponed for a reasonable period of time if it is envisaged that within that period the reasons for anonymous publication shall cease to exist.
+
+2\. Competent authorities shall inform ESMA of all administrative sanctions imposed but not published in accordance with point (c) of the second subparagraph of paragraph 1 including any appeal in relation thereto and the outcome of such an appeal. Member States shall ensure that competent authorities receive information and the final judgement in relation to any criminal sanction imposed and submit it to ESMA. ESMA shall maintain a central database of sanctions communicated to it solely for the purpose of exchanging information between competent authorities. That database shall be accessible only to competent authorities and it shall be updated on the basis of the information provided by the competent authorities.
+
+3\. Where the decision to impose a sanction or measure is subject to appeal before the relevant judicial or other authorities, competent authorities shall also publish immediately on their official website such information and any subsequent information on the outcome of such an appeal. Any decision annulling a previous decision to impose a sanction or a measure shall also be published.
+
+4\. Competent authorities shall ensure that any publication in accordance with this Article shall remain on their official website for a period of at least five years from its publication. Personal data contained in the publication shall be kept on the official website of the competent authority only for the period which is necessary in accordance with the applicable data protection rules.
+
+#### Article 99c
+
+1\. Member States shall ensure that when determining the type of administrative penalties or measures and the level of administrative pecuniary penalties, the competent authorities ensure that they are effective, proportionate and dissuasive and take into account all relevant circumstances, including, where appropriate:
+
+(a) the gravity and the duration of the infringement;
+
+(b) the degree of responsibility of the person responsible for the infringement;
+
+(c) the financial strength of the person responsible for the infringement, as indicated, for example, by its total turnover in the case of a legal person or the annual income in the case of a natural person;
+
+(d) the importance of the profits gained or losses avoided by the person responsible for the infringement, the damage to other persons and, where applicable, the damage to the functioning of markets or the wider economy, in so far as they can be determined;
+
+(e) the level of cooperation with the competent authority of the person responsible for the infringement;
+
+(f) previous infringements by the person responsible for the infringement;
+
+(g) measures taken after the infringement by the person responsible for the infringement to prevent its repetition.
+
+2\. In the exercise of their powers to impose penalties under Article 99, competent authorities shall cooperate closely to ensure that the supervisory and investigative powers and administrative penalties produce the results pursued by this Directive. They shall also coordinate their actions in order to avoid possible duplication and overlap when applying supervisory and investigative powers and administrative penalties and measures to cross-border cases in accordance with Article 101.
+
+#### Article 99d
+
+1\. Member States shall establish effective and reliable mechanisms to encourage the reporting of potential or actual infringements of national provisions transposing this Directive to competent authorities, including secure communication channels for reporting such infringements.
+
+2\. The mechanisms referred to in paragraph 1 shall include at least:
+
+(a) specific procedures for the receipt of reports on infringements and their follow-up;
+
+(b) appropriate protection for employees of investment companies, management companies and depositaries, who report infringements committed within those entities, at least against retaliation, discrimination and other types of unfair treatment;
+
+(c) protection of personal data concerning both the person who reports the infringements and the natural person who is allegedly responsible for an infringement, in accordance with Directive 95/46/EC of the European Parliament and of the Council ( 28 );
+
+(d) clear rules that ensure that confidentiality is guaranteed in all cases in relation to the person who reports an infringement, unless disclosure is required by national law in the context of further investigations or subsequent judicial proceedings.
+
+3\. ESMA shall provide one or more secure communication channels for reporting infringements of the national provisions transposing this Directive. ESMA shall ensure that those communication channels comply with points (a) to (d) of paragraph 2.
+
+4\. Member States shall ensure that the reporting by employees of investment companies, management companies and depositaries referred to in paragraphs 1 and 3 shall not be considered to be an infringement of any restriction on disclosure of information imposed by contract or by any law, regulation or administrative provision, and shall not subject the person reporting to liability of any kind relating to such reporting.
+
+5\. Member States shall require management companies, investment companies and depositaries to have in place appropriate procedures for their employees to report infringements internally through a specific, independent and autonomous channel.
+
+#### Article 99e
+
+1\. Competent authorities shall provide ESMA annually with aggregated information regarding all penalties and measures imposed in accordance with Article 99. ESMA shall publish that information in an annual report.
+
+2\. Where the competent authority has disclosed administrative penalties or measures to the public, it shall simultaneously report those administrative penalties or measures to ESMA. Where a published penalty or measure relates to a management company or investment company, ESMA shall add a reference to the published penalty or measure in the list of management companies published under Article 6(1).
+
+3\. ESMA shall develop draft implementing technical standards to determine the procedures and forms for submitting information as referred to in this Article.
+
+ESMA shall submit those draft implementing technical standards to the Commission by 18 September 2015.
+
+Power is conferred on the Commission to adopt the implementing technical standards referred to in the first subparagraph in accordance with Article 15 of Regulation (EU) No 1095/2010.
+
+#### Article 100
+
+1\. Member States shall ensure that efficient and effective complaints and redress procedures are in place for the out-of-court settlement of consumer disputes concerning the activity of UCITS using existing bodies where appropriate.
+
+2\. Member States shall ensure that the bodies referred to in paragraph 1 are not prevented by legal or regulatory provisions from cooperating effectively in the resolution of cross-border disputes.
+
+#### Article 101
+
+1\. The competent authorities of the Member States shall cooperate with each other and with ESMA and the ESRB whenever necessary for the purpose of carrying out their duties under this Directive or of exercising their powers under this Directive or under national law.
+
+Member States shall take the necessary administrative and organisational measures to facilitate the cooperation provided for in this paragraph.
+
+Competent authorities shall use their powers for the purpose of cooperation, even in cases where the conduct under investigation does not constitute an infringement of any regulation in force in their Member State.
+
+2\. The competent authorities of the Member States shall immediately provide each other with the information required for the purposes of carrying out their duties under this Directive.
+
+2a. The competent authorities shall cooperate with ESMA for the purposes of this Directive, in accordance with Regulation (EU) No 1095/2010.
+
+The competent authorities shall without delay provide ESMA with all information necessary to carry out its duties, in accordance with Article 35 of Regulation (EU) No 1095/2010.
+
+3\. Where a competent authority of one Member State has good reason to suspect that acts contrary to the provisions of this Directive, are being or have been carried out by entities not subject to that competent authority’s supervision on the territory of another Member State, it shall notify the competent authorities of the other Member State thereof in as specific a manner as possible. The recipient authorities shall take appropriate action, shall inform the notifying competent authority of the outcome of that action and, to the extent possible, of significant interim developments. This paragraph shall be without prejudice to the competences of the notifying competent authority.
+
+4\. The competent authorities of one Member State may request the cooperation of the competent authorities of another Member State in a supervisory activity or for an on-the-spot verification or in an investigation on the territory of the latter within the framework of their powers pursuant to this Directive. Where a competent authority receives a request with respect to an on-the-spot verification or investigation, it shall:
+
+(a) carry out the verification or investigation itself;
+
+(b) allow the requesting authority to carry out the verification or investigation; or
+
+(c) allow auditors or experts to carry out the verification or investigation.
+
+5\. If the verification or investigation is carried out on the territory of one Member State by a competent authority of the same Member State, the competent authority of the Member State which has requested cooperation may request that its own officials accompany the officials carrying out the verification or investigation. The verification or investigation shall, however, be subject to the overall control of the Member State on whose territory it is conducted.
+
+If the verification or investigation is carried out on the territory of one Member State by a competent authority of another Member State, the competent authority of the Member State on whose territory the verification or investigation is carried out may request that its own officials accompany the officials carrying out the verification or investigation.
+
+6\. The competent authorities of the Member State where the verification or investigation is carried out may refuse to exchange information as provided for in paragraph 2 or to act on a request for cooperation in carrying out an investigation or on-the-spot verification as provided for in paragraph 4, only where:
+
+(a) such an investigation, on-the-spot verification or exchange of information might adversely affect the sovereignty, security or public policy of that Member State;
+
+(b) judicial proceedings have already been initiated in respect of the same persons and the same actions before the authorities of that Member State;
+
+(c) final judgment in respect of the same persons and the same actions has already been delivered in that Member State.
+
+7\. The competent authorities shall notify the requesting competent authorities of any decision taken under paragraph 6. That notification shall contain information about the motives of their decision.
+
+8\. The competent authorities may refer to ESMA situations where a request:
+
+(a) to exchange information as provided for in Article 109 has been rejected or has not been acted upon within a reasonable time;
+
+(b) to carry out an investigation or on-the-spot verification as provided for in Article 110 has been rejected or has not been acted upon within a reasonable time; or
+
+(c) for authorisation for its officials to accompany those of the competent authority of the other Member State has been rejected or has not been acted upon within a reasonable time.
+
+Without prejudice to Article 258 of the Treaty of on the Functioning of the European Union (TFEU), ESMA may, in situations referred to in the first subparagraph, act in accordance with the powers conferred on it under Article 19 of Regulation (EU) No 1095/2010, without prejudice to the possibilities for refusing to act on a request for information or for an investigation provided for in paragraph 6 of this Article and to the ability of ESMA to act in accordance with Article 17 of that Regulation in those cases.
+
+9\. In order to ensure uniform conditions of application of this Article and of Article 20a, ESMA may develop draft implementing technical standards to establish common procedures for competent authorities:
+
+(a) to cooperate in on-the-spot verifications and investigations as referred to in paragraphs 4 and 5; and
+
+(b) to determine the procedures for exchange of information between competent authorities, the ESAs, the ESRB, and members of the ESCB, subject to the applicable provisions of this Directive.
+
+Power is conferred on the Commission to adopt the implementing technical standards referred to in the first subparagraph in accordance with Article 15 of Regulation (EU) No 1095/2010.
+
+#### Article 102
+
+1\. Member States shall provide that all persons who work or who have worked for the competent authorities, as well as auditors and experts instructed by the competent authorities, be bound by the obligation of professional secrecy. That obligation means that no confidential information which those persons receive in the course of their duties shall be divulged to any person or authority whatsoever, save in summary or aggregate form such that UCITS, management companies and depositaries (undertakings contributing towards UCITS’ business activity) cannot be individually identified, without prejudice to cases covered by criminal or taxation law.
+
+However, when a UCITS or an undertaking contributing towards its business activity has been declared bankrupt or is being compulsorily wound up, confidential information which does not concern third parties involved in rescue attempts may be divulged in the course of civil or commercial proceedings.
+
+2\. Paragraph 1 shall not prevent the competent authorities of the Member States from exchanging information in accordance with this Directive or other Union legislation applicable to UCITS or to undertakings contributing towards their business activity or from transmitting it to ESMA in accordance with Regulation (EU) No 1095/2010 or the ESRB. That information shall be subject to the conditions of professional secrecy laid down in paragraph 1.
+
+The competent authorities exchanging information with other competent authorities under this Directive may indicate at the time of communication that such information must not be disclosed without their express consent, in which case such information may be exchanged solely for the purposes for which those authorities gave their consent.
+
+Paragraph 1 and the first and second subparagraphs of this paragraph shall not preclude the exchange of information between competent authorities and tax authorities that are located in the same Member State. Where the information originates in another Member State, it shall only be disclosed in accordance with the first sentence of this subparagraph with the express consent of the competent authorities which have disclosed it.
+
+3\. Member States may conclude cooperation agreements providing for exchange of information with the competent authorities of third countries, or with authorities or bodies of third countries, as determined in paragraph 5 of this Article and Article 103(1) only if the information disclosed is subject to guarantees of professional secrecy at least equivalent to those referred to in this Article. Such exchange of information shall be intended for the performance of the supervisory task of those authorities or bodies.
+
+Where the information originates in another Member State, it shall not be disclosed without the express consent of the competent authorities which have disclosed it and, where appropriate, solely for the purposes for which those authorities gave their consent.
+
+4\. The competent authorities receiving confidential information under paragraphs 1 or 2 may use the information only in the course of their duties for the purposes of:
+
+(a) checking that the conditions governing the taking-up of business of UCITS or of undertakings contributing towards their business activity are met and facilitating the monitoring of the conduct of that business, administrative and accounting procedures and internal-control mechanisms;
+
+(b) imposing penalties;
+
+(c) conducting administrative appeals against decisions by the competent authorities; and
+
+(d) pursuing court proceedings initiated under Article 107(2).
+
+5\. Paragraphs 1 and 4 shall not preclude the exchange of information within a Member State or between Member States, where that exchange is to take place between a competent authority and:
+
+(a) authorities with public responsibility for the supervision of credit institutions, investment undertakings, insurance undertakings or other financial organisations, or authorities responsible for the supervision of financial markets;
+
+(b) bodies involved in the liquidation or bankruptcy of UCITS or undertakings contributing towards their business activity, or bodies involved in similar procedures; or
+
+(c) persons responsible for carrying out statutory audits of the accounts of insurance undertakings, credit institutions, investment undertakings or other financial institutions;
+
+(d) ESMA, the European Supervisory Authority (European Banking Authority) established by Regulation (EU) No 1093/2010 of the European Parliament and of the Council ( 29 ), the European Supervisory Authority (European Insurance and Occupational Pensions Authority) established by Regulation (EU) No 1094/2010 of the European Parliament and of the Council ( 30 ) and the ESRB.
+
+In particular, paragraphs 1 and 4 shall not preclude the performance by the competent authorities listed above of their supervisory functions, or the disclosure to bodies which administer compensation schemes of information necessary for the performance of their functions.
+
+Information exchanged pursuant to the first subparagraph shall be subject to the conditions of professional secrecy imposed in paragraph 1.
+
+#### Article 103
+
+1\. Notwithstanding Article 102(1) to (4), Member States may authorise exchanges of information between a competent authority and:
+
+(a) authorities responsible for overseeing bodies involved in the liquidation and bankruptcy of UCITS or undertakings contributing towards their business activity, or bodies involved in similar procedures;
+
+(b) authorities responsible for overseeing persons responsible for carrying out statutory audits of the accounts of insurance undertakings, credit institutions, investment firms or other financial institutions.
+
+2\. Member States which have recourse to the derogation provided for in paragraph 1 shall require that at least the following conditions are met:
+
+(a) the information is used for the purpose of performing the task of overseeing referred to in paragraph 1;
+
+(b) the information received is subject to the conditions of professional secrecy imposed in Article 102(1); and
+
+(c) where the information originates in another Member State, it is not disclosed without the express consent of the competent authorities which have disclosed it and, where appropriate, solely for the purposes for which those authorities gave their consent.
+
+3\. Member States shall communicate to ESMA, to the Commission and to the other Member States the names of the authorities which may receive information pursuant to paragraph 1.
+
+4\. Notwithstanding Article 102(1) to (4), Member States may, with the aim of strengthening the stability, including the integrity, of the financial system, authorise the exchange of information between the competent authorities and the authorities or bodies responsible under the law for the detection and investigation of breaches of company law.
+
+5\. Member States which have recourse to the derogation provided for in paragraph 4 shall require that at least the following conditions are met:
+
+(a) the information is used for the purpose of performing the task referred to in paragraph 4;
+
+(b) the information received is subject to the conditions of professional secrecy provided for in Article 102(1); and
+
+(c) where the information originates in another Member State, it is not disclosed without the express consent of the competent authorities which have disclosed it and, where appropriate, solely for the purposes for which those authorities gave their consent.
+
+For the purposes of point (c), the authorities or bodies referred to in paragraph 4 shall communicate to the competent authorities which have disclosed the information the names and precise responsibilities of the persons to whom it is to be sent.
+
+6\. Where, in a Member State, the authorities or bodies referred to in paragraph 4 perform their task of detection or investigation with the aid, in view of their specific competence, of persons appointed for that purpose and not employed in the public sector the possibility of exchanging information provided for in that paragraph may be extended to such persons under the conditions stipulated in paragraph 5.
+
+7\. Member States shall communicate to ESMA, to the Commission and to the other Member States the names of the authorities or bodies which may receive information pursuant to paragraph 4.
+
+#### Article 104
+
+1\. Articles 102 and 103 shall not prevent a competent authority from transmitting to central banks and other bodies with a similar function in their capacity as monetary authorities information intended for the performance of their tasks, nor shall those articles prevent such authorities or bodies from communicating to the competent authorities such information as they may need for the purposes of Article 102(4). Information received in this context shall be subject to the conditions of professional secrecy imposed in Article 102(1).
+
+2\. Articles 102 and 103 shall not prevent the competent authorities from communicating the information referred to in Article 102(1) to (4) to a clearing house or other similar body recognised under national law for the provision of clearing or settlement services for one of their Member State’s markets if they consider that it is necessary to communicate the information in order to ensure the proper functioning of those bodies in relation to defaults or potential defaults by market participants.
+
+The information received in this context shall be subject to the conditions of professional secrecy imposed in Article 102(1).
+
+Member States shall, however, ensure that information received under Article 102(2) is not disclosed in the circumstances referred to in the first subparagraph of this paragraph without the express consent of the competent authorities which disclosed it.
+
+3\. Notwithstanding Article 102(1) and (4), Member States may, by virtue of provisions laid down by law, authorise the disclosure of certain information to other departments of their central government administrations responsible for legislation on the supervision of UCITS and of undertakings contributing towards their business activity, credit institutions, financial institutions, investment undertakings and insurance undertakings and to inspectors instructed by those departments.
+
+Such disclosures may, however, be made only where necessary for reasons of prudential control.
+
+Member States shall, however, provide that information received under Article 102(2) and (5) is never disclosed in the circumstances referred to in this paragraph except with the express consent of the competent authorities which disclosed the information.
+
+#### Article 104a
+
+1\. Member States shall apply Directive 95/46/EC to the processing of personal data carried out in the Member States pursuant to this Directive.
+
+2\. Regulation (EC) No 45/2001 of the European Parliament and of the Council ( 31 ) shall apply to the processing of personal data carried out by ESMA pursuant to this Directive.
+
+#### Article 105
+
+In order to ensure uniform conditions of application of the provisions in this Directive concerning the exchange of information, ESMA may develop draft implementing technical standards to determine the conditions of application with regard to the procedures for exchange of information between competent authorities and between the competent authorities and ESMA.
+
+Power is conferred on the Commission to adopt the implementing technical standards referred to in the first subparagraph in accordance with Article 15 of Regulation (EU) No 1095/2010.
+
+#### Article 106
+
+1\. Member States shall provide at least that any person approved in accordance with Directive 2006/43/EC, performing in a UCITS, or in an undertaking contributing towards its business activity, the statutory audit referred to in Article 51 of Directive 78/660/EEC, Article 37 of Directive 83/349/EEC or Article 73 of this Directive or any other statutory task, shall have a duty to report promptly to the competent authorities any fact or decision concerning that undertaking of which he has become aware while carrying out that task and which is liable to bring about any of the following:
+
+(a) a material breach of the laws, regulations or administrative provisions which lay down the conditions governing authorisation or which specifically govern pursuit of the activities of UCITS or undertakings contributing towards their business activity;
+
+(b) the impairment of the continuous functioning of the UCITS or an undertaking contributing towards its business activity; or
+
+(c) a refusal to certify the accounts or the expression of reservations.
+
+That person shall have a duty to report any facts and decisions of which he becomes aware in the course of carrying out a task as described in point (a) in an undertaking having close links resulting from a control relationship with the UCITS or an undertaking contributing towards its business activity, within which he is carrying out that task.
+
+2\. The disclosure in good faith to the competent authorities, by persons approved in accordance with Directive 2006/43/EC of any fact or decision referred to in paragraph 1 shall not constitute a breach of any restriction on disclosure of information imposed by contract or by any legislative, regulatory or administrative provision and shall not subject such persons to liability of any kind.
+
+#### Article 107
+
+1\. The competent authorities shall give written reasons for any decision to refuse authorisation, or any negative decision taken in the implementation of the general measures adopted in application of this Directive, and communicate them to applicants.
+
+2\. Member States shall provide that any decision taken under the laws, regulations or administrative provisions adopted in accordance with this Directive is properly reasoned and subject to a right of appeal in the courts, including where no decision is taken within six months of submission of an application for authorisation which provides all the information required.
+
+3\. Member States shall provide that one or more of the following bodies, as determined by national law, may, in the interests of consumers and in accordance with national law, take action before the courts or competent administrative bodies to ensure that the national provisions for the implementation of this Directive are applied:
+
+(a) public bodies or their representatives;
+
+(b) consumer organisations having a legitimate interest in protecting consumers; or
+
+(c) professional organisations having a legitimate interest in protecting their members.
+
+#### Article 108
+
+1\. Only the authorities of the UCITS home Member State shall have the power to take action against that UCITS if it infringes any law, regulation or administrative provision or any regulation laid down in the fund rules or in the instruments of incorporation of the investment company.
+
+However, the authorities of the UCITS host Member State may take action against that UCITS if it infringes the laws, regulations and administrative provisions in force in that Member State that fall outside the scope of this Directive or the requirements set out in Articles 92 and 94.
+
+2\. Any decision to withdraw authorisation, or any other serious measure taken against a UCITS, or any suspension of the issue, repurchase or redemption of its units imposed upon it, shall be communicated without delay by the authorities of the UCITS home Member State to the authorities of the UCITS host Member States and, if the management company of a UCITS is established in another Member State, to the competent authorities of the management company’s home Member State.
+
+3\. The competent authorities of the management company’s home Member State or those of the UCITS home Member State may take action against the management company if it infringes rules under their respective responsibility.
+
+4\. In the event that the competent authorities of the UCITS host Member State have clear and demonstrable grounds for believing that a UCITS, the units of which are marketed within the territory of that Member State is in breach of the obligations arising from the provisions adopted pursuant to this Directive which do not confer powers on the competent authorities of the UCITS host Member State, they shall refer those findings to the competent authorities of the UCITS home Member State, which shall take the appropriate measures.
+
+5\. If, despite the measures taken by the competent authorities of the UCITS home Member State or because such measures prove to be inadequate, or because the UCITS home Member State fails to act within a reasonable timeframe, the UCITS persists in acting in a manner that is clearly prejudicial to the interests of the UCITS host Member State’s investors, the competent authorities of the UCITS host Member State, may, as a consequence, take either of the following actions:
+
+(a) after informing the competent authorities of the UCITS home Member State, take all the appropriate measures needed in order to protect investors, including the possibility of preventing the UCITS concerned from carrying out any further marketing of its units within the territory of the UCITS host Member State; or
+
+(b) if necessary, refer the matter to ESMA, which may act in accordance with the powers conferred on it under Article 19 of Regulation (EU) No 1095/2010.
+
+The Commission and ESMA shall be informed without delay of any measure taken pursuant to point (a) of the first subparagraph.
+
+6\. Member States shall ensure that within their territories it is legally possible to serve the legal documents necessary for the measures which may be taken by the UCITS host Member State in regard to UCITS pursuant to paragraphs 2 to 5.
+
+#### Article 109
+
+1\. Where, through the provision of services or by the establishment of branches, a management company operates in one or more management company’s host Member States, the competent authorities of all the Member States concerned shall collaborate closely.
+
+They shall supply one another on request with all the information concerning the management and ownership of such management companies that is likely to facilitate their supervision and all information likely to facilitate the monitoring of such companies. In particular, the authorities of the management company’s home Member State shall cooperate to ensure that the authorities of the management company’s host Member State collect the particulars referred to in Article 21(2).
+
+2\. In so far as it is necessary for the purpose of exercising the powers of supervision of the home Member State, the competent authorities of the management company’s host Member State shall inform the competent authorities of the management company’s home Member State of any measures taken by the management company’s host Member State pursuant to Article 21(5) which involve measures or penalties imposed on a management company or restrictions on a management company’s activities.
+
+3\. The competent authorities of the management company’s home Member State shall, without delay, notify the competent authorities of the UCITS home Member State of any problem identified at the level of the management company which may materially affect the ability of the management company to perform its duties properly with respect to the UCITS or of any breach of the requirements under Chapter III.
+
+4\. The competent authorities of the UCITS home Member State shall, without delay, notify the competent authorities of the management company’s home Member State of any problem identified at the level of the UCITS which may materially affect the ability of the management company to perform its duties properly or to comply with the requirements of this Directive which fall under the responsibility of the UCITS home Member State.
+
+#### Article 110
+
+1\. Each management company’s host Member State shall ensure that where a management company authorised in another Member State pursues business within its territory through a branch the competent authorities of the management company’s home Member State may, after informing the competent authorities of the management company’s host Member State, themselves or through the intermediary they instruct for the purpose, carry out on-the-spot verification of the information referred to in Article 109.
+
+2\. Paragraph 1 shall not affect the right of the competent authorities of the management company’s host Member State, in discharging their responsibilities under this Directive, to carry out on-the-spot verifications of branches established within the territory of that Member State.
+
+#### Article 110a
+
+By 16 April 2029, and following the report produced by ESMA in accordance with Article 13(6), the Commission shall initiate a review of the functioning of the rules laid down in this Directive and the experience acquired in applying them. That review shall include an assessment of the following aspects:
+
+(a) the effectiveness of the authorisation requirements in Articles 7 and 8 as regards the delegation regime laid down in Article 13 of this Directive, in particular with regard to preventing the creation of letter-box entities in the Union;
+
+(b) the appropriateness and impact on investor protection of the appointment of at least one non-executive or independent director to the management body of the UCITS management companies or investment companies;
+
+(c) the appropriateness of the requirements applicable to management companies managing a UCITS at the initiative of a third party as laid down in Article 14(2a) and the need for additional safeguards to prevent circumvention of those requirements, and, in particular, whether the provisions of this Directive on conflicts of interest are effective and appropriate in order to identify, manage, monitor and, where applicable, disclose conflicts of interest arising from the relationship between the management company and the third-party initiator.
+
+## CHAPTER XIII — DELEGATED ACTS AND POWERS OF EXECUTION
+
+#### Article 111
+
+The Commission may adopt technical amendments to this Directive in the following areas:
+
+(a) clarification of the definitions in order to ensure consistent harmonisation and uniform application of this Directive throughout the Union; or
+
+(b) alignment of terminology and the framing of definitions in accordance with subsequent acts on UCITS and related matters.
+
+The measures referred to in the first subparagraph shall be adopted by means of delegated acts in accordance with Article 112a  .
+
+#### Article 112
+
+The Commission shall be assisted by the European Securities Committee established by Commission Decision 2001/528/EC ( 32 ).
+
+#### Article 112a
+
+1\. The power to adopt delegated acts is conferred on the Commission subject to the conditions laid down in this Article.
+
+2\. The power to adopt the delegated acts referred to in Articles 12, 14, 43, 60, 61, 62, 64, 75, 78, 81, 95 and 111 shall be conferred on the Commission for a period of four years from 4 January 2011.
+
+The power to adopt the delegated acts referred to in Article 13 shall be conferred on the Commission for a period of four years from 15 April 2024.
+
+The power to adopt the delegated acts referred to in Article 26b shall be conferred on the Commission for a period of four years from 17 September 2014.
+
+The power to adopt the delegated acts referred to in Article 50a shall be conferred on the Commission for a period of four years from 21 July 2011.
+
+The power to adopt the delegated acts referred to in Article 51 is conferred on the Commission for a period of four years from 20 June 2013.
+
+The Commission shall draw up a report in respect of delegated power not later than six months before the end of the four-year periods. The delegation of power shall be tacitly extended for periods of an identical duration, unless the European Parliament or the Council opposes such extension not later than three months before the end of each period.
+
+3\. The delegation of power referred to in Articles 12, 13, 14, 26b, 43, 50a, 51, 60, 61, 62, 64, 75, 78, 81, 95 and 111 may be revoked at any time by the European Parliament or by the Council. A decision to revoke shall put an end to the delegation of the power specified in that decision. It shall take effect the day following the publication of the decision in the Official Journal of the European Union or at a later date specified therein. It shall not affect the validity of any delegated acts already in force.
+
+4\. As soon as it adopts a delegated act, the Commission shall notify it simultaneously to the European Parliament and to the Council.
+
+5\. A delegated act adopted pursuant to Articles 12, 13, 14, 26b, 43, 50a, 51, 60, 61, 62, 64, 75, 78, 81, 95 and 111 shall enter into force only if no objection has been expressed either by the European Parliament or the Council within a period of three months of notification of that act to the European Parliament and the Council or if, before the expiry of that period, the European Parliament and the Council have both informed the Commission that they will not object. That period shall be extended by three months at the initiative of the European Parliament or of the Council.
+
+## CHAPTER XIV — DEROGATIONS, TRANSITIONAL AND FINAL PROVISIONS
+
+### SECTION 1 — Derogations
+
+#### Article 113
+
+1\. Solely for the purpose of Danish UCITS, pantebreve issued in Denmark shall be treated as equivalent to the transferable securities referred to in Article 50(1)(b).
+
+2\. By way of derogation from Articles 22(1) and 32(1), the competent authorities may authorise those UCITS which, on 20 December 1985, had two or more depositaries in accordance with their national law to maintain that number of depositaries if those authorities have guarantees that the functions to be performed under Article 22(3) and Article 32(3) will be performed in practice.
+
+3\. By way of derogation from Article 16, the Member States may authorise management companies to issue bearer certificates representing the registered securities of other companies.
+
+#### Article 114
+
+1\. Investment firms, as defined in Article 4(1)(1) of Directive 2004/39/EC, authorised to carry out only the services provided for in Section A(4) and (5) of the Annex to that Directive, may obtain authorisation under this Directive to manage UCITS as management companies. In that case, such investment firms shall give up the authorisation obtained under Directive 2004/39/EC.
+
+2\. Management companies already authorised before 13 February 2004 in their home Member State under Directive 85/611/EEC to manage UCITS shall be deemed to be authorised for the purposes of this Article if the laws of that Member State provide that to take up such activity they must comply with conditions equivalent to those imposed in Articles 7 and 8.
+
+### SECTION 2 — Transitional and final provisions
+
+#### Article 115
+
+By 1 July 2013, the Commission shall submit to the European Parliament and to the Council a report on the application of this Directive.
+
+#### Article 116
+
+1\. Member States shall adopt and publish by 30 June 2011, the laws, regulations and administrative provisions necessary to comply with the second subparagraph of Article 1(2), Article 1(3)(b), points (e), (m), (p), (q) and (r) of Article 2(1), Article 2(5), Article 4, Article 5(1) to (4), (6) and (7), Article 6(1), Article 12(1), the introductory phase of Article 13(1), Article 13(1)(a) and (i), Article 15, Article 16(1), Article 16(3), Article 17(1), Article 17(2)(b), the first and third subparagraphs of Article 17(3), Article 17(4) to (7), the second subparagraph of Article 17(9), the introductory part of Article 18(1), Article 18(1)(b), the third and fourth subparagraphs of Article 18(2), Article 18(3) and (4), Articles 19 and 20, Article 21(2) to (6), (8) and (9), Article 22(1), points (a), (d) and (e) of Article 22(3), Article 23(1), (2), (4), and (5), the third paragraph of Article 27, Article 29(2), Article 33(2), (4), and (5), Articles 37 to 42, Article 43(1) to (5), Articles 44 to 49, the introductory phrase of Article 50(1), Article 50(3), the third subparagraph of Article 51(1), Article 54(3), Article 56(1), the introductory phrase of the first subparagraph of Article 56(2), Articles 58 and 59, Article 60(1) to (5), Article 61(1) and (2), Article 62(1), (2) and (3), Article 63, Article 64(1), (2) and (3), Articles 65, 66 and 67, the introductory phrase and Article 68(1)(a), Article 69(1) and (2), Article 70(2) and (3), Articles 71, 72 and 74, Article 75(1), (2) and (3), Articles 77 to 82, Article 83(1)(b), the second indent of Article 83(2)(a), Article 86, Article 88(1)(b), Article 89(b), Articles 90 to 94, Articles 96 to 100, Article 101(1) to (8), the second subparagraph of Article 102(2), Article 102(5), Articles 107 and 108, Article 109(2), (3) and (4), Article 110 and Annex I. They shall forthwith inform the Commission thereof.
+
+They shall apply those measures from 1 July 2011.
+
+When Member States adopt those measures, they shall contain a reference to this Directive or be accompanied by such a reference on the occasion of their official publication. They shall also include a statement that references in existing laws, regulations and administrative provisions to Directive 85/611/EEC shall be construed as references to this Directive. Member States shall determine how such reference is to be made and how that statement is to be formulated.
+
+2\. Member States shall communicate to the Commission the text of the main provisions of national law which they adopt in the field covered by this Directive.
+
+#### Article 117
+
+Directive 85/611/EEC, as amended by the Directives listed in Annex III, Part A, is repealed with effect from 1 July 2011, without prejudice to the obligations of the Member States relating to the time limits for transposition into national law and application of the Directives set out in Annex III, Part B.
+
+References to the repealed Directive shall be construed as references to this Directive and shall be read in accordance with the correlation table in Annex IV.
+
+References to the simplified prospectus shall be construed as references to the key investor information referred to in Article 78.
+
+#### Article 118
+
+1\. This Directive shall enter into force on the 20th day following its publication in the Official Journal of the European Union.
+
+Article 1(1), the first subparagraph of Article 1(2), Article 1(3)(a), Article 1(4) to (7), points (a) to (d), (f) to (l), (n) and (o) of Article 2(1), Article 2(2), (3) and (4), Article 2(6) and (7), Article 3, Article 5(5), Article 6(2), (3) and (4), Articles 7 to 11, Article 12(2), Article 13(1)(b) to (h), Article 13(2), Article 14(1), Article 16(2), points (a), (c) and (d) of Article 17(2), the second subparagraph of Article 17(3), Article 17(8), the first subparagraph of Article 17(9), Article 18(1) except the introductory phrase and point (a), the first and second subparagraphs of Article 18(2), Article 21(1)and (7), Article 22(2), Article 22(3)(b) and (c), Article 23(3), Article 24, Articles 25 and 26, the first and second paragraphs of Article 27, Article 28, Article 29(1), (3), and (4), Articles 30, 31 and 32, Article 33(1) and (3), Articles 34, 35 and 36, Article 50(1)(a) to (h), Article 50(2), the first and second subparagraphs of Article 51(1), Article 51(2) and (3), Articles 52 and 53, Article 54(1) and (2), Article 55, the first subparagraph of Article 56(2), the second subparagraph of Article 56(2), Article 56(3), Article 57, Article 68(2), Article 69(3) and (4), Article 70(1) and (4), Articles 73 and 76, Article 83(1) except point (b), Article 83(2)(a) except the second indent, Articles 84, 85 and 87, Article 88(1) except point (b), Article 88(2), Article 89 except point (b), Article 102(1), the first subparagraph of Article 102(2), Article 102(3) and (4), Articles 103 to 106, Article 109(1), Articles 111, 112, 113, and 117 and Annexes II, III and IV shall apply from 1 July 2011.
+
+2\. Member States shall ensure that UCITS replace their simplified prospectus drawn up in accordance with the provisions of Directive 85/611/EEC with key investor information drawn up in accordance with Article 78 as soon as possible and in any event no later than 12 months after the deadline for implementing, in national law, all the implementing measures referred to in Article 78(7) has expired. During that period, the competent authorities of the UCITS host Member States shall continue to accept the simplified prospectus for UCITS marketed on the territory of those Member States.
+
+#### Article 119
+
+This Directive is addressed to the Member States.
+
+## ANNEX I
+
+**SCHEDULE A**
+
+<tbody><tr><td>1. Information concerning the common fund</td><td>1. Information concerning the management company including an indication whether the management company is established in a Member State other than the UCITS home Member State</td><td>1. Information concerning the investment company</td></tr>
+<tr><td>1.1. Name</td><td>1.1. Name or style, form in law, registered office and head office if different from the registered office.</td><td>1.1. Name or style, form in law, registered office and head office if different from the registered office.</td></tr>
+<tr><td>1.2. Date of establishment of the common fund. Indication of duration, if limited.</td><td>1.2. Date of incorporation of the company. Indication of duration, if limited.</td><td>1.2. Date of incorporation of the company. Indication of duration, if limited.</td></tr>
+<tr><td>  </td><td>1.3. If the company manages other common funds, indication of those other funds.</td><td>1.3. In the case of investment companies having different investment compartments, the indication of the compartments.</td></tr>
+<tr><td>1.4. Statement of the place where the fund rules, if they are not annexed, and periodic reports may be obtained.</td><td>  </td><td>1.4. Statement of the place where the instruments of incorporation, if they are not annexed, and periodical reports may be obtained.</td></tr>
+<tr><td>1.5. Brief indications relevant to unit-holders of the tax system applicable to the common fund. Details of whether deductions are made at source from the income and capital gains paid by the common fund to unit-holders.</td><td>  </td><td>1.5. Brief indications relevant to unit-holders of the tax system applicable to the company. Details of whether deductions are made at source from the income and capital gains paid by the company to unit-holders.</td></tr>
+<tr><td>1.6. Accounting and distribution dates</td><td>  </td><td>1.6. Accounting and distribution dates.</td></tr>
+<tr><td>1.7. Names of the persons responsible for auditing the accounting information referred to in Article 73.</td><td>  </td><td>1.7. Names of the persons responsible for auditing the accounting information referred to in Article 73.</td></tr>
+<tr><td>  </td><td>1.8. Names and positions in the company of the members of the administrative, management and supervisory bodies. Details of their main activities outside the company where these are of significance with respect to that company.</td><td>1.8. Names and positions in the company of the members of the administrative, management and supervisory bodies. Details of their main activities outside the company where these are of significance with respect to that company.</td></tr>
+<tr><td>  </td><td>1.9. Amount of the subscribed capital with an indication of the capital paid-up</td><td>1.9. Capital</td></tr>
+<tr><td>1.10. Details of the types and main characteristics of the units and in particular: — the nature of the right (real, personal or other) represented by the unit,  — characteristics of the units: registered or bearer. Indication of any denominations which may be provided for,  — original securities or certificates providing evidence of title; entry in a register or in an account,  — indication of unit-holders' voting rights if these exist,  — circumstances in which winding-up of the common fund can be decided on and winding-up procedure, in particular as regards the rights of unit-holders. </td><td>  </td><td>1.10. Details of the types and main characteristics of the units and in particular: — original securities or certificates providing evidence of title; entry in a register or in an account,  — characteristics of the units: registered or bearer. Indication of any denominations which may be provided for,  — indication of unit-holders' voting rights,  — circumstances in which winding-up of the investment company can be decided on and winding-up procedure, in particular as regards the rights of unit-holders. </td></tr>
+<tr><td>1.11. Where applicable, indication of stock exchanges or markets where the units are listed or dealt in.</td><td>  </td><td>1.11. Where applicable, indication of stock exchanges or markets where the units are listed or dealt in.</td></tr>
+<tr><td>1.12. Procedures and conditions of issue and sale of units.</td><td>  </td><td>1.12. Procedures and conditions of issue and sale of units.</td></tr>
+<tr><td colspan="3"></td></tr>
+<tr><td>1.13. Procedures and conditions for repurchase and redemption of units, and circumstances in which subscription, repurchase and redemption may be suspended or other liquidity management tools may be activated.</td><td>  </td><td>1.13. Procedures and conditions for repurchase and redemption of units, and circumstances in which subscription, repurchase and redemption may be suspended or other liquidity management tools may be activated. In the case of investment companies having different investment compartments, information on how a unitholder may pass from one compartment into another and the charges applicable in such cases.</td></tr>
+<tr><td colspan="3"></td></tr>
+<tr><td>1.14. Description of rules for determining and applying income.</td><td>  </td><td>1.14. Description of rules for determining and applying income.</td></tr>
+<tr><td>1.15. Description of the common fund's investment objectives, including its financial objectives (e.g. capital growth or income), investment policy (e.g. specialisation in geographical or industrial sectors), any limitations on that investment policy and an indication of any techniques and instruments or borrowing powers which may be used in the management of the common fund.</td><td>  </td><td>1.15. Description of the company's investment objectives, including its financial objectives (e.g. capital growth or income), investment policy (e.g. specialisation in geographical or industrial sectors), any limitations on that investment policy and an indication of any techniques and instruments or borrowing powers which may be used in the management of the company.</td></tr>
+<tr><td>1.16. Rules for the valuation of assets.</td><td>  </td><td>1.16. Rules for the valuation of assets.</td></tr>
+<tr><td>1.17. Determination of the sale or issue price and the repurchase or redemption price of units, in particular: — the method and frequency of the calculation of those prices,  — information concerning the charges relating to the sale or issue and the repurchase or redemption of units,  — the means, places and frequency of the publication of those prices. </td><td>  </td><td>1.17. Determination of the sale or issue price and the repurchase or redemption price of units, in particular: — the method and frequency of the calculation of those prices,  — information concerning the charges relating to the sale or issue and the repurchase or redemption of units,  — the means, places and frequency of the publication of those prices (1). </td></tr>
+<tr><td>1.18. Information concerning the manner, amount and calculation of remuneration payable by the common fund to the management company, the depositary or third parties, and reimbursement of costs by the common fund to the management company, to the depositary or to third parties.</td><td>  </td><td>1.18. Information concerning the manner, amount and calculation of remuneration payable by the company to its directors, and members of the administrative, management and supervisory bodies, to the depositary, or to third parties, and reimbursement of costs by the company to its directors, to the depositary or to third parties.</td></tr>
+<tr><td colspan="3">(1)  Investment companies within the meaning of Article 32(5) of this Directive shall also indicate: <br> — the method and frequency of calculation of the net asset value of units,  — the means, place and frequency of the publication of that value,  — the stock exchange in the country of marketing the price on which determines the price of transactions effected outwith stock exchanges in that country. </td></tr>
+</tbody>
+
+2\. Information concerning the depositary:
+
+2.1. the identity of the depositary of the UCITS and a description of its duties and of conflicts of interest that may arise;
+
+2.2. a description of any safekeeping functions delegated by the depositary, the list of delegates and sub-delegates and any conflicts of interest that may arise from such a delegation;
+
+2.3. a statement to the effect that up-to-date information regarding points 2.1 and 2.2 will be made available to investors on request.
+
+3\. Information concerning the advisory firms or external investment advisers who give advice under contract which is paid for out of the assets of the UCITS:
+
+3.1. Name or style of the firm or name of the adviser;
+
+3.2. Material provisions of the contract with the management company or the investment company which may be relevant to the unit-holders, excluding those relating to remuneration;
+
+3.3. Other significant activities.
+
+4\. Information concerning the arrangements for making payments to unit-holders, repurchasing or redeeming units and making available information concerning the UCITS. Such information must in any case be given in the Member State in which the UCITS is established. In addition, where units are marketed in another Member State, such information shall be given in respect of that Member State in the prospectus published there.
+
+5\. Other investment information:
+
+5.1. Historical performance of the UCITS (where applicable) — such information may be either included in or attached to the prospectus;
+
+5.2. Profile of the typical investor for whom the UCITS is designed.
+
+6\. Economic information:
+
+6.1. Possible expenses or fees, other than the charges mentioned in point 1.17, distinguishing between those to be paid by the unit-holder and those to be paid out of the assets of the UCITS.
+
+**SCHEDULE B**
+
+**Information to be included in the periodic reports**
+
+**I. Statement of assets and liabilities:**
+
+— transferable securities,
+
+— bank balances,
+
+— other assets,
+
+— total assets,
+
+— liabilities,
+
+— net asset value.
+
+II. Number of units in circulation
+
+III. Net asset value per unit
+
+IV. Portfolio, distinguishing between:
+
+(a) transferable securities admitted to official stock exchange listing;
+
+(b) transferable securities dealt in on another regulated market;
+
+(c) recently issued transferable securities of the type referred to in Article 50(1)(d);
+
+(d) other transferable securities of the type referred to in Article 50(2)(a);
+
+and analysed in accordance with the most appropriate criteria in the light of the investment policy of the UCITS (e.g. in accordance with economic, geographical or currency criteria) as a percentage of net assets; for each of the above investments the proportion it represents of the total assets of the UCITS.
+
+Statement of changes in the composition of the portfolio during the reference period.
+
+V. Statement of the developments concerning the assets of the UCITS during the reference period including the following:
+
+— income from investments,
+
+— other income,
+
+— management charges,
+
+— depositary’s charges,
+
+— other charges and taxes,
+
+— net income,
+
+— distributions and income reinvested,
+
+— changes in capital account,
+
+— appreciation or depreciation of investments,
+
+— any other changes affecting the assets and liabilities of the UCITS,
+
+— transaction costs, which are costs incurred by a UCITS in connection with transactions on its portfolio.
+
+VI. A comparative table covering the last three financial years and including, for each financial year, at the end of the financial year:
+
+— the total net asset value,
+
+— the net asset value per unit.
+
+VII. Details, by category of transaction within the meaning of Article 51 carried out by the UCITS during the reference period, of the resulting amount of commitments.
+
+## ANNEX II — Functions included in the activity of collective portfolio management:
+
+— Investment management.
+
+— Administration:
+
+(a) legal and fund management accounting services;
+
+(b) customer inquiries;
+
+(c) valuation and pricing (including tax returns);
+
+(d) regulatory compliance monitoring;
+
+(e) maintenance of unit-holder register;
+
+(f) distribution of income;
+
+(g) unit issues and redemptions;
+
+(h) contract settlements (including certificate dispatch);
+
+(i) record keeping.
+
+— Marketing.
+
+## ANNEX IIA — LIQUIDITY MANAGEMENT TOOLS AVAILABLE TO UCITS
+
+1\. Suspension of subscriptions, repurchases and redemptions: suspension of subscriptions, repurchases and redemptions means temporarily disallowing the subscription, repurchase and redemption of the fund’s units or shares.
+
+2\. Redemption gate: a redemption gate means a temporary and partial restriction of the right of unit-holders or shareholders to redeem their units or shares, so that investors can only redeem a certain portion of their units or shares.
+
+3\. Extension of notice periods: the extension of notice periods means extending the period of notice that unit-holders or shareholders must give to fund managers, beyond a minimum period which is appropriate to the fund, when redeeming their units or shares.
+
+4\. Redemption fee: redemption fee means a fee, within a predetermined range that takes account of the cost of liquidity, that is paid to the fund by unit-holders or shareholders when redeeming units or shares, and that ensures that unit-holders or shareholders who remain in the fund are not unfairly disadvantaged.
+
+5\. Swing pricing: swing pricing means a pre-determined mechanism by which the net asset value of the units or shares of an investment fund is adjusted by the application of a factor (‘swing factor’) that reflects the cost of liquidity.
+
+6\. Dual pricing: dual pricing means a pre-determined mechanism by which the subscription, repurchase and redemption prices of the units or shares of an investment fund are set by adjusting the net asset value per unit or share by a factor that reflects the cost of liquidity.
+
+7\. Anti-dilution levy: anti-dilution levy means a fee that is paid to the fund by a unit-holder or shareholder at the time of a subscription, repurchase or redemption of units or shares, that compensates the fund for the cost of liquidity incurred because of the size of that transaction, and that ensures that other unit-holders or shareholders are not unfairly disadvantaged.
+
+8\. Redemption in kind: redemption in kind means transferring assets held by the fund, instead of cash, to meet redemption requests of unit-holders or shareholders.
+
+9\. Side pockets: side pockets means separating certain assets, whose economic or legal features have changed significantly or become uncertain due to exceptional circumstances, from the other assets of the fund.
+
+## ANNEX III
+
+**PART A**
+
+**Repealed Directive with list of its successive amendments**
+
+**(referred to in Article 117)**
+
+| Council Directive 85/611/EEC (OJ L 375, 31.12.1985, p. 3) |  |
+| --- | --- |
+| Council Directive 88/220/EEC (OJ L 100, 19.4.1988, p. 31) |  |
+| Directive 95/26/EC of the European Parliament and of the Council (OJ L 168, 18.7.1995, p. 7) | Article 1, fourth indent, Article 4(7) and Article 5, fifth indent only |
+| Directive 2000/64/EC of the European Parliament and of the Council (OJ L 290, 17.11.2000, p. 27) | Article 1 only |
+| Directive 2001/107/EC of the European Parliament and of the Council (OJ L 41, 13.2.2002, p. 20) |  |
+| Directive 2001/108/EC of the European Parliament and of the Council (OJ L 41, 13.2.2002, p. 35) |  |
+| Directive 2004/39/EC of the European Parliament and of the Council (OJ L 145, 30.4.2004, p. 1) | Article 66 only |
+| Directive 2005/1/EC of the European Parliament and of the Council (OJ L 79, 24.3.2005, p. 9) | Article 9 only |
+| Directive 2008/18/EC of the European Parliament and of the Council (OJ L 76, 19.3.2008, p. 42) |  |
+
+**PART B**
+
+**List of time limits for transposition into national law and application**
+
+**(referred to in Article 117)**
+
+| Directive | Time limit for transposition | Date of application |
+| --- | --- | --- |
+| 85/611/EEC | 1 October 1989 | — |
+| 88/220/EEC | 1 October 1989 | — |
+| 95/26/EC | 18 July 1996 | — |
+| 2000/64/EC | 17 November 2002 | — |
+| 2001/107/EC | 13 August 2003 | 13 February 2004 |
+| 2001/108/EC | 13 August 2003 | 13 February 2004 |
+| 2004/39/EC | — | 30 April 2006 |
+| 2005/1/EC | 13 May 2005 | — |
+
+## ANNEX IV — Correlation table
+
+| Directive 85/611/EEC | This Directive |
+| --- | --- |
+| Article 1(1) | Article 1(1) |
+| Article 1(2), introductory phrase | Article 1(2), introductory phrase |
+| Article 1(2), first and second indent | Article 1(2)(a) and (b) |
+| — | Article 1(2), second subparagraph |
+| Article 1(3), first subparagraph | Article 1(3), first subparagraph |
+| Article 1(3), second subparagraph | Article 1(3), second subparagraph, point (a) |
+| — | Article 1(3), second subparagraph, point (b) |
+| Article 1(4) to (7) | Article 1(4) to (7) |
+| Article 1(8), introductory phrase | Article 2(1)(n), introductory phrase |
+| Article 1(8), first, second and third indent | Article 2(1)(n), points (i), (ii) and (iii) |
+| Article 1(8), final phrase | Article 2(7) |
+| Article 1(9) | Article 2(1)(o) |
+| Article 1a, introductory phrase | Article 2(1), introductory phrase |
+| Article 1a, point (1) | Article 2(1)(a) |
+| Article 1a, point (2), first part of the phrase | Article 2(1)(b) |
+| Article 1a, point (2), second part of the phrase | Article 2(2) |
+| Article 1a, points (3) to (5) | Article 2(1)(c) to (e) |
+| Article 1a, point (6) | Article 2(1)(f) |
+| Article 1a, point (7), first part of the phrase | Article 2(1)(g) |
+| Article 1a, point (7), second part of the phrase | Article 2(3) |
+| Article 1a, points (8) to (9) | Article 2(1)(h) to (i) |
+| Article 1a, point (10), first subparagraph | Article 2(1)(j) |
+| Article 1a, point (10), second subparagraph | Article 2(5) |
+| Article 1a, point (11) | — |
+| Article 1a, points (12) and (13), first phrase | Article 2(1)(i)(ii) |
+| Article 1a, point (13), second phrase | Article 2(4)(a) |
+| Article 1a, points (14) and (15), first phrase | Article 2(1)(k) and (l) |
+| Article 1a, point (15), second phrase | Article 2(6) |
+| — | Article 2(1)(m) |
+| Article 2(1), introductory phrase | Article 3, introductory phrase |
+| Article 2(1), first, second, third and fourth indent | Article 3(a), (b), (c) and (d) |
+| Article 2(2) | — |
+| Article 3 | Article 4 |
+| Article 4(1) and (2) | Article 5(1) and (2) |
+| — | Article 5(3) |
+| Article 4(3), first subparagraph | Article 5(4), first subparagraph, points (a) and (b) |
+| — | Article 5(4), second subparagraph |
+| Article 4(3), second subparagraph | Article 5(4), third subparagraph |
+| Article 4(3), third subparagraph | Article 5(4), fourth subparagraph |
+| Article 4(3a) | Article 5(5) |
+| Article 4(4) | Article 5(6) |
+| — | Article 5(7) |
+| Article 5(1) and (2) | Article 6(1) and (2) |
+| Article 5(3), first subparagraph, introductory phrase | Article 6(3), first subparagraph, introductory phrase |
+| Article 5(3), first subparagraph, point (a) | Article 6(3), first subparagraph, point (a) |
+| Article 5(3), first subparagraph, point (b), introductory phrase | Article 6(3), first subparagraph, point (b), introductory phrase |
+| Article 5(3), first subparagraph, point (b), first and second indent | Article 6(3), first subparagraph, point (b)(i) and (ii) |
+| Article 5(3), second subparagraph | Article 6(3), second subparagraph |
+| Article 5(4) | Article 6(4) |
+| Article 5a(1), introductory phrase | Article 7(1), introductory phrase |
+| Article 5a(1)(a), introductory phrase | Article 7(1)(a), introductory phrase |
+| Article 5a(1)(a), first indent | Article 7(1)(a)(i) |
+| Article 5a(1)(a), second indent, introductory phrase | Article 7(1)(a)(ii), introductory phrase |
+| Article 5a(1)(a), second indent, points (i), (ii) and (iii) | Article 7(1)(a)(ii), first, second and third indent |
+| Article 5a(1)(a), third and fourth indent | Article 7(1)(a)(iii) |
+| Article 5a(1)(a), fifth indent | — |
+| Article 5a(1)(b) to (d) | Article 7(1)(b) to (d) |
+| Article 5a(2) to (5) | Article 7(2) to (5) |
+| Article 5b | Article 8 |
+| Article 5c | Article 9 |
+| Article 5d | Article 10 |
+| Article 5e | Article 11 |
+| Article 5f(1), first subparagraph | Article 12(1), first subparagraph |
+| Article 5f(1), second subparagraph, point (a) | Article 12(1), second subparagraph, point (a) |
+| Article 5f(1), second subparagraph, point (b) first sentence | Article 12(1), second subparagraph, point (b) |
+| Article 5f(1), second subparagraph, point (b), last sentence | — |
+| Article 5f(2), introductory phrase | Article 12(2), introductory phrase |
+| Article 5f(2), first and second indent | Article 12(2)(a) and (b) |
+| — | Article 12(3) |
+| Article 5g | Article 13 |
+| Article 5h | Article 14(1) |
+| — | Article 14(2) |
+| — | Article 15 |
+| Article 6(1) | Article 16(1), first subparagraph |
+| — | Article 16(1), second subparagraph |
+| Article 6(2) | Article 16(2) |
+| — | Article 16(3) |
+| Article 6a(1) | Article 17(1) |
+| Article 6a(2) | Article 17(2) |
+| Article 6a(3) | Article 17(3), first and second subparagraph |
+| — | Article 17(3), third subparagraph |
+| — | Article 17(4) to (5) |
+| Article 6a(4) to (6) | Article 17(6) to 8 |
+| Article 6a(7) | Article 17(9), first subparagraph |
+| — | Article 17(9), second subparagraph |
+| Article 6b(1) | Article 18(1) |
+| Article 6b(2) | Article 18(2), first and second subparagraph |
+| — | Article 18(2), third subparagraph |
+| Article 6b(3), first subparagraph | Article 18(2), fourth subparagraph |
+| Article 6b(3), second subparagraph | — |
+| — | Article 18(3) |
+| Article 6b(4) | Article 18(4) |
+| Article 6b(5) | — |
+| — | Article 19 to 20 |
+| Article 6c(1) | Article 21(1) |
+| Article 6c(2), first subparagraph | — |
+| Article 6c(2), second subparagraph | Article 21(2), first and second subparagraph |
+| — | Article 21(2), third subparagraph |
+| Article 6c(3) to (5) | Article 21(3) to (5) |
+| Article 6c(6) | — |
+| Article 6c(7) to 10 | Article 21(6) to (9) |
+| Article 7 | Article 22 |
+| Article 8 | Article 23(1) to (3) |
+| — | Article 23(4) to (6) |
+| Article 9 | Article 24 |
+| Article 10 | Article 25 |
+| Article 11 | Article 26 |
+| Article 12 | Article 27, first and second subparagraph |
+| — | Article 27, third subparagraph |
+| Article 13 | Article 28 |
+| Article 13a(1), first subparagraph | Article 29(1), first subparagraph |
+| Article 13a(1), second subparagraph, introductory phrase | Article 29(1), second subparagraph, introductory phrase |
+| Article 13a(1), second subparagraph, first, second and third indent | Article 29(1), second subparagraph, points (a), (b) and (c) |
+| Article 13a(1), third and fourth subparagraph | Article 29(1), third and fourth subparagraph |
+| Article 13a(2), (3) and (4) | Article 29(2), (3) and (4) |
+| Article 13b | Article 30 |
+| Article 13c | Article 31 |
+| Article 14 | Article 32 |
+| Article 15 | Article 33(1) to (3) |
+| — | Article 33(4) to (6) |
+| Article 16 | Article 34 |
+| Article 17 | Article 35 |
+| Article 18 | Article 36 |
+| — | Article 37 to 49 |
+| Article 19(1), introductory phrase | Article 50(1), introductory phrase |
+| Article 19(1)(a) to (c) | Article 50(1)(a) to (c) |
+| Article 19(1)(d), introductory phrase | Article 50(1)(d), introductory phrase |
+| Article 19(1)(d), first and second indent | Article 50(1)(d)(i) and (ii) |
+| Article 19(1)(e), introductory phrase | Article 50(1)(e), introductory phrase |
+| Article 19(1)(e), first, second, third and fourth indent | Article 50(1)(e)(i), (ii), (iii) and (iv) |
+| Article 19(1)(f) | Article 50(1)(f) |
+| Article 19(1)(g), introductory phrase | Article 50(1)(g), introductory phrase |
+| Article 19(1)(g), first, second and third indent | Article 50(1)(g)(i), (ii) and (iii) |
+| Article 19(1)(h), introductory phrase | Article 50(1)(h), introductory phrase |
+| Article 19(1)(h), first, second, third and fourth indent | Article 50(1)(h)(i), (ii), (iii) and (iv) |
+| Article 19(2), introductory word | Article 50(2), introductory phrase |
+| Article 19(2)(a) | Article 50(2)(a) |
+| Article 19(2)(c) | Article 50(2)(b) |
+| Article 19(2)(d) | Article 50(2), second subparagraph |
+| Article 19(4) | Article 50(3) |
+| Article 21(1) to (3) | Article 51(1) to (3) |
+| Article 21(4) | — |
+| — | Article 51(4) |
+| Article 22(1), first subparagraph | Article 52(1), first subparagraph |
+| Article 22(1), second subparagraph, introductory phrase | Article 52(1), second subparagraph, introductory phrase |
+| Article 22(1), second subparagraph, first and second indent | Article 52(1), second subparagraph, points (a) and (b) |
+| Article 22(2), first subparagraph, | Article 52(2), first subparagraph |
+| Article 22(2), second subparagraph, introductory phrase | Article 52(2), second subparagraph, introductory phrase |
+| Article 22(2), second subparagraph, first second and third indent | Article 52(2), second subparagraph, points (a), (b) and (c) |
+| Article 22(3) to (5) | Article 52(3) to (5) |
+| Article 22a(1), introductory phrase | Article 53(1), introductory phrase |
+| Article 22a(1), first, second and third indent | Article 53(1)(a), (b) and (c) |
+| Article 22a(2) | Article 53(2) |
+| Article 23 | Article 54 |
+| Article 24 | Article 55 |
+| Article 24a | Article 70 |
+| Article 25(1) | Article 56(1) |
+| Article 25(2), first subparagraph, introductory phrase | Article 56(2), first subparagraph, introductory phrase |
+| Article 25(2), first subparagraph, first, second, third and fourth indent | Article 56(2), first subparagraph, points (a), (b), (c) and (d) |
+| Article 25(2), second subparagraph | Article 56(2), second subparagraph |
+| Article 25(3) | Article 56(3) |
+| Article 26 | Article 57 |
+| — | Article 58 to 67 |
+| Article 27(1), introductory phrase | Article 68(1), introductory phrase |
+| Article 27(1), first indent | — |
+| Article 27(1), second, third and fourth indent | Article 68(1)(a), (b), (c) |
+| Article 27(2), introductory phrase | Article 68(2), introductory phrase |
+| Article 27(2), first and second indent | Article 68(2)(a) and (b) |
+| Article 28(1) and (2) | Article 69(1) and 2 |
+| Article 28(3) and (4) | — |
+| Article 28(5) and (6) | Article 69(3) and (4) |
+| Article 29 | Article 71 |
+| Article 30 | Article 72 |
+| Article 31 | Article 73 |
+| Article 32 | Article 74 |
+| Article 33(1), first subparagraph | — |
+| Article 33(1), second subparagraph | Article 75(1) |
+| Article 33(2) | Article 75(1) |
+| Article 33(3) | Article 75(3) |
+| — | Article 75(4) |
+| Article 34 | Article 76 |
+| Article 35 | Article 77 |
+| — | Articles 78 to 82 |
+| Article 36(1), first subparagraph, introductory word | Article 83(1), first subparagraph, introductory phrase |
+| Article 36(1), first subparagraph, first and second indent | Article 83(1) first subparagraph, points (a) and (b) |
+| Article 36(1), first subparagraph, final words | Article 83(1), first subparagraph, introductory phrase |
+| Article 36(1), second subparagraph | Article 83(1), second subparagraph |
+| Article 36(2) | Article 83(2) |
+| Article 37 | Article 84 |
+| Article 38 | Article 85 |
+| Article 39 | Article 86 |
+| Article 40 | Article 87 |
+| Article 41(1), introductory phrase | Article 88(1), introductory phrase |
+| Article 41(1), first and second indent | Article 88(1)(a) and (b) |
+| Article 41(1), final phrase | Article 88(1), introductory phrase |
+| Article 41(2) | Article 88(2) |
+| Article 42, introductory word | Article 89, introductory phrase |
+| Article 42, first and second indent | Article 89, points (a) and (b) |
+| Article 42, final phrase | Article 89, introductory phrase |
+| Article 43 | Article 90 |
+| Article 44(1) to (3) | — |
+| — | Article 91(1) to (4) |
+| Article 45 | Article 92 |
+| Article 46, first paragraph, introductory phrase | Article 93(1), first subparagraph |
+| — | Article 93(1), second subparagraph |
+| Article 46, first paragraph, first indent | — |
+| Article 46, first paragraph second, third and fourth indent, | Article 93(2)(a) |
+| Article 46, first paragraph, fifth indent | — |
+| Article 46, second paragraph | — |
+| — | Article 93(2)(b) |
+| — | Article 93(3) to (8) |
+| Article 47 | Article 94 |
+| — | Article 95 |
+| Article 48 | Article 96 |
+| Article 49(1) to (3) | Article 97(1) to (3) |
+| Article 49(4) | — |
+| — | Articles 98 to 100 |
+| Article 50(1) | Article 101(1) |
+| — | Article 101(2) to (9) |
+| Article 50(2) to (4) | Article 102(1) to (3) |
+| Article 50(5), introductory phrase | Article 102(4), introductory phrase |
+| Article 50(5), first, second, third and fourth indent | Article 102(4)(a), (b), (c) and (d) |
+| Article 50(6) introductory phrase and (a) and (b), | Article 102(5), first subparagraph, introductory phrase |
+| Article 50(6)(b), first, second and third indent | Article 102(5), first subparagraph, points (a), (b) and (c) |
+| Article 50(6)(b), final phrase | Article 102(5), second and third subparagraph |
+| Article 50(7), first subparagraph, introductory phrase | Article 103(1), introductory phrase |
+| Article 50(7), first subparagraph, first and second indent | Article 103(1)(a) and (b) |
+| Article 50(7), second subparagraph, introductory phrase | Article 103(2), introductory phrase |
+| Article 50(7), second subparagraph, first, second and third indent | Article 103(2)(a), (b) and (c) |
+| Article 50(7), third subparagraph | Article 103(3) |
+| Article 50(8), first subparagraph | Article 103(4) |
+| Article 50(8), second subparagraph, introductory phrase | Article 103(5), first subparagraph, introductory phrase |
+| Article 50(8), second subparagraph, first, second and third indent | Article 103(5), first subparagraph, points (a), (b) and (c) |
+| Article 50(8), third subparagraph | Article 103(6) |
+| Article 50(8), fourth subparagraph | Article 103(5), second subparagraph |
+| Article 50(8), fifth subparagraph | Article 103(7) |
+| Article 50(8), sixth subparagraph | — |
+| Article 50(9) to (11) | Article 104(1) to (3) |
+| — | Article 105 |
+| Article 50a(1), introductory phrase | Article 106(1), first subparagraph, introductory phrase |
+| Article 50a(1)(a), introductory phrase | Article 106(1), first subparagraph, introductory phrase |
+| Article 50a(1)(a), first, second and third indent | Article 106(1), first subparagraph, points (a), (b) and (c) |
+| Article 50a(1)(b) | Article 106(1), second subparagraph |
+| Article 50a(2) | Article 106(2) |
+| Article 51(1) and (2) | Article 107(1) and (2) |
+| — | Article 107(3) |
+| Article 52(1) | Article 108(1), first subparagraph |
+| Article 52(2) | Article 108(1), second subparagraph |
+| Article 52(3) | Article 108(2) |
+| — | Article 108(3) to (6) |
+| Article 52a | Article 109(1) and (2) |
+| — | Article 109(3) and (4) |
+| Article 52b(1) | Article 110(1) |
+| Article 52b(2) | — |
+| Article 52b(3) | Article 110(2) |
+| Article 53a | Article 111 |
+| Article 53b(1) | Article 112(1) |
+| Article 53b(2) | Article 112(2) |
+| — | Article 112(3) |
+| Article 54 | Article 113(1) |
+| Article 55 | Article 113(2) |
+| Article 56(1) | Article 113(3) |
+| Article 56(2) | — |
+| Article 57 | — |
+| — | Article 114 |
+| Article 58 | Article 116(2) |
+| — | Article 115 |
+| — | Article 116(1) |
+| — | Articles 117 and 118 |
+| Article 59 | Article 119 |
+| Annex I, schedule A and B | Annex I, schedule A and B |
+| Annex I, schedule C | — |
+| Annex II | Annex II |
+| — | Annex III |
+| — | Annex IV |
+
+( 1 ) OJ L 193, 18.7.1983, p. 1.
+
+( 2 ) Directive 2014/65/EU of the European Parliament and of the Council of 15 May 2014 on markets in financial instruments and amending Directive 2002/92/EC and Directive 2011/61/EU (OJ L 173, 12.6.2014, p. 349).
+
+( 3 ) Regulation (EU) No 648/2012 of the European Parliament and of the Council of 4 July 2012 on OTC derivatives, central counterparties and trade repositories (OJ L 201, 27.7.2012, p. 1).
+
+( 4 ) Regulation (EU) No 909/2014 of the European Parliament and of the Council of 23 July 2014 on improving securities settlement in the European Union and on central securities depositories and amending Directives 98/26/EC and 2014/65/EU and Regulation (EU) No 236/2012 (OJ L 257, 28.8.2014, p. 1).
+
+( 5 ) OJ L 390, 31.12.2004, p. 38.
+
+( 6 ) OJ L 331, 15.12.2010, p. 84.
+
+( 7 ) Regulation (EU) 2019/2033 of the European Parliament and of the Council of 27 November 2019 on the prudential requirements of investment firms and amending Regulations (EU) No 1093/2010, (EU) No 575/2013, (EU) No 600/2014 and (EU) No 806/2014 (OJ L 314, 5.12.2019, p. 1).
+
+( 8 ) Regulation (EU) 2019/2088 of the European Parliament and of the Council of 27 November 2019 on sustainability-related disclosures in the financial services sector (OJ L 317, 9.12.2019, p. 1).
+
+( 9 ) Regulation (EU) 2022/2554 of the European Parliament and of the Council of 14 December 2022 on digital operational resilience for the financial sector and amending Regulations (EC) No 1060/2009, (EU) No 648/2012, (EU) No 600/2014, (EU) No 909/2014 and (EU) 2016/1011 (OJ L333, 27.12.2022, p.1).
+
+( 10 ) OJ L 84, 26.3.1997, p. 22.
+
+( 11 ) Directive (EU) 2016/97 of the European Parliament and of the Council of 20 January 2016 on insurance distribution (OJ L 26, 2.2.2016, p. 19).
+
+( 12 ) Commission Recommendation 2009/384/EC of 30 April 2009 on remuneration policies in the financial services sector (OJ L 120, 15.5.2009, p. 22).
+
+( 13 ) Regulation (EU) No 1093/2010 of the European Parliament and of the Council of 24 November 2010 establishing a European Supervisory Authority (European Banking Authority), amending Decision No 716/2009/EC and repealing Commission Decision 2009/78/EC (OJ L 331, 15.12.2010, p. 12).
+
+( 14 ) Directive 2011/61/EU of the European Parliament and of the Council of 8 June 2011 on Alternative Investment Fund Managers and amending Directives 2003/41/EC and 2009/65/EC and Regulations (EC) No 1060/2009 and (EU) No 1095/2010 (OJ L 174, 1.7.2011, p. 1).
+
+( 15 ) Directive 2013/36/EU of the European Parliament and of the Council of 26 June 2013 on access to the activity of credit institutions and the prudential supervision of credit institutions and investment firms, amending Directive 2002/87/EC and repealing Directives 2006/48/EC and 2006/49/EC (OJ L 176, 27.6.2013, p. 338).
+
+( 16 ) Regulation (EU) 2017/1131 of the European Parliament and of the Council of 14 June 2017 on money market funds (OJ L 169, 30.6.2017, p. 8).
+
+( 17 ) Commission Directive 2006/73/EC of 10 August 2006 implementing Directive 2004/39/EC of the European Parliament and of the Council as regards organisational requirements and operating conditions for investment firms and defined terms for the purposes of that Directive (OJ L 241, 2.9.2006, p. 26).
+
+( 18 ) Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No648/2012 (OJ L 176, 27.6.2013, p. 1).
+
+( 19 ) OJ L 157, 9.6.2006, p. 87.
+
+( 20 ) OJ L 222, 14.8.1978, p. 11.
+
+( 21 ) Regulation (EU) 2017/2402 of the European Parliament and of the Council of 12 December 2017 laying down a general framework for securitisation and creating a specific framework for simple, transparent and standardised securitisation, and amending Directives 2009/65/EC, 2009/138/EC and 2011/61/EU and Regulations (EC) No 1060/2009 and (EU) No 648/2012 (OJ L 347, 28.12.2017, p. 35).
+
+( 22 ) OJ L 302, 17.11.2009, p. 1.
+
+( 23 ) OJ L 331, 15.12.2010, p. 1.
+
+( 24 ) Directive (EU) 2019/2162 of the European Parliament and of the Council of 27 November 2019 on the issue of covered bonds and covered bond public supervision and amending Directives 2009/65/EC and 2014/59/EU (OJ L 328, 18.12.2019, p. 29).
+
+( 25 ) Regulation (EU) No 1286/2014 of the European Parliament and of the Council of 26 November 2014 on key information documents for packaged retail and insurance-based investment products (PRIIPs) (OJ L 352, 9.12.2014, p. 1).
+
+( *1 ) Regulation (EU) 2023/2859 of the European Parliament and of the Council of 13 December 2023 establishing a European single access point providing centralised access to publicly available information of relevance to financial services, capital markets and sustainability (OL L, 2023/2859, 20.12.2023, ELI: http://data.europa.eu/eli/reg/2023/2859/oj).
+
+( 26 ) Regulation (EU) 2019/1156 of the European Parliament and of the Council of 20 June 2019 on facilitating cross-border distribution of collective investment undertakings and amending Regulations (EU) No 345/2013, (EU) No 346/2013 and (EU) No 1286/2014 (OJ L 188, 12.7.2019, p. 55).
+
+( 27 ) Directive 2013/34/EU of the European Parliament and of the Council of 26 June 2013 on the annual financial statements, consolidated financial statements and related reports of certain types of undertakings, amending Directive 2006/43/EC of the European Parliament and of the Council and repealing Council Directives 78/660/EEC and 83/349/EEC (OJ L 182, 29.6.2013, p. 19).
+
+( 28 ) Directive 95/46/EC of the European Parliament and of the Council of 24 October 1995 on the protection of individuals with regard to the processing of personal data and on the free movement of such data (OJ L 281, 23.11.1995, p. 31).
+
+( 29 ) OJ L 331, 15.12.2010, p. 12.
+
+( 30 ) OJ L 331, 15.12.2010, p. 48.
+
+( 31 ) Regulation (EC) No 45/2001 of the European Parliament and of the Council of 18 December 2000 on the protection of individuals with regard to the processing of personal data by the Community institutions and bodies and on the free movement of such data (OJ L 8, 12.1.2001, p. 1).
+
+( 32 ) Commission Decision 2001/528/EC of 6 June 2001 establishing the European Securities Committee (OJ L 191, 13.7.2001, p. 45)

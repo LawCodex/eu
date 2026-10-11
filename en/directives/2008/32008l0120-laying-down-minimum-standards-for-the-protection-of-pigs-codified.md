@@ -1,0 +1,354 @@
+---
+title: "Council Directive 2008/120/EC of 18 December 2008 laying down minimum standards for the protection of pigs (Codified version)"
+identifier: "32008L0120"
+eli: "http://data.europa.eu/eli/dir/2008/120/oj"
+type: directive
+jurisdiction: eu
+language: en
+date: 2008-12-18
+entry_into_force: 2009-03-10
+last_amended: 2019-12-14
+consolidated_version: "02008L0120-20191214"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02008L0120-20191214"
+retrieved: 2026-10-11
+---
+
+# Council Directive 2008/120/EC of 18 December 2008 laying down minimum standards for the protection of pigs (Codified version)
+
+**COUNCIL DIRECTIVE 2008/120/EC**
+
+**of 18 December 2008**
+
+**laying down minimum standards for the protection of pigs**
+
+**(Codified version)**
+
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> REGULATION (EU) 2017/625 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 15 March 2017 </td><td> L 95</td><td>1</td><td>7.4.2017</td></tr>
+
+**COUNCIL DIRECTIVE 2008/120/EC**
+
+**of 18 December 2008**
+
+**laying down minimum standards for the protection of pigs**
+
+**(Codified version)**
+
+## Article 1
+
+This Directive lays down the minimum standards for the protection of pigs confined for rearing and fattening.
+
+## Article 2
+
+For the purposes of this Directive, the following definitions shall apply:
+
+1\. ‘pig’ means an animal of the porcine species, of any age, kept for breeding or fattening;
+
+2\. ‘boar’ means a male pig after puberty, intended for breeding;
+
+3\. ‘gilt’ means a female pig after puberty and before farrowing;
+
+4\. ‘sow’ means a female pig after the first farrowing;
+
+5\. ‘farrowing sow’ means a female pig between the perinatal period and the weaning of the piglets;
+
+6\. ‘dry pregnant sow’ means a sow between weaning her piglets and the perinatal period;
+
+7\. ‘piglet’ means a pig from birth to weaning;
+
+8\. ‘weaner’ means a pig from weaning to the age of 10 weeks;
+
+9\. ‘rearing pig’ means a pig from 10 weeks to slaughter or service;
+
+10\. ‘competent authorities’ means competent authorities as defined in Article 3(3) of Regulation (EU) 2017/625  of the European Parliament and of the Council ( 1 ).
+
+## Article 3
+
+1\. Member States shall ensure that all holdings comply with the following requirements:
+
+(a) the unobstructed floor area available to each weaner or rearing pig kept in a group, excluding gilts after service and sows, must be at least:
+
+| Live weight (kg) | m2 |
+| --- | --- |
+| Not more than 10 | 0,15 |
+| More than 10 but not more than 20 | 0,20 |
+| More than 20 but not more than 30 | 0,30 |
+| More than 30 but not more than 50 | 0,40 |
+| More than 50 but not more than 85 | 0,55 |
+| More than 85 but not more than 110 | 0,65 |
+| More than 110 | 1,00 |
+
+(b) the total unobstructed floor area available to each gilt after service and to each sow when gilts and/or sows are kept in groups must be at least 1,64 m2 and 2,25 m2 respectively. When these animals are kept in groups of fewer than six individuals the unobstructed floor area must be increased by 10 %. When these animals are kept in groups of 40 or more individuals the unobstructed floor area may be decreased by 10 %.
+
+2\. Member States shall ensure that flooring surfaces comply with the following requirements:
+
+(a) for gilts after service and pregnant sows: a part of the area required in paragraph 1(b), equal to at least 0,95 m2 per gilt and at least 1,3 m2 per sow, must be of continuous solid floor of which a maximum of 15 % is reserved for drainage openings;
+
+(b) when concrete slatted floors are used for pigs kept in groups:
+
+(i) the maximum width of the openings must be:
+
+— 11 mm for piglets,
+
+— 14 mm for weaners,
+
+— 18 mm for rearing pigs,
+
+— 20 mm for gilts after service and sows;
+
+(ii) the minimum slat width must be:
+
+— 50 mm for piglets and weaners, and
+
+— 80 mm for rearing pigs, gilts after service and sows.
+
+3\. Member States shall ensure that the construction of or conversion to installations in which sows and gilts are tethered is prohibited. From 1 January 2006 the use of tethers for sows and gilts shall be prohibited.
+
+4\. Member States shall ensure that sows and gilts are kept in groups during a period starting from four weeks after the service to one week before the expected time of farrowing. The pen where the group is kept must have sides greater than 2,8 m in length. When fewer than six individuals are kept in a group the pen where the group is kept must have sides greater than 2,4 m in length.
+
+By way of derogation from the first subparagraph, sows and gilts raised on holdings with fewer than 10 sows may be kept individually during the period mentioned in that subparagraph, provided that they can turn around easily in their boxes.
+
+5\. Member States shall ensure that, without prejudice to the requirements laid down in Annex I, sows and gilts have permanent access to manipulable material at least complying with the relevant requirements of that Annex.
+
+6\. Member States shall ensure that sows and gilts kept in groups are fed using a system which ensures that each individual can obtain sufficient food even when competitors for the food are present.
+
+7\. Member States shall ensure that all dry pregnant sows and gilts, in order to satisfy their hunger and given the need to chew, are given a sufficient quantity of bulky or high-fibre food as well as high-energy food.
+
+8\. Member States shall ensure that pigs that have to be kept in groups, that are particularly aggressive, that have been attacked by other pigs or that are sick or injured may temporarily be kept in individual pens. In this case the individual pen used shall allow the animal to turn around easily if this is not in contradiction with specific veterinary advice.
+
+9\. The provisions laid down in paragraphs 1(b), 2, 4, 5 and the last sentence of paragraph 8 shall apply to all holdings newly built or rebuilt or brought into use for the first time after 1 January 2003. From 1 January 2013 those provisions shall apply to all holdings.
+
+The provisions laid down in the first subparagraph of paragraph 4 shall not apply to holdings with fewer than 10 sows.
+
+## Article 4
+
+Member States shall ensure that the conditions for rearing pigs comply with the general provisions laid down in Annex I.
+
+## Article 5
+
+The provisions of Annex I may be amended in accordance with the procedure referred to in Article 11(2), in order to take account of scientific progress.
+
+## Article 6
+
+Member States shall ensure that:
+
+(a) any person who employs or engages persons to attend to pigs ensures that the person attending to the animals has received instructions and guidance on the relevant provisions of Article 3 and Annex I;
+
+(b) appropriate training courses are available. In particular such training courses must focus on welfare aspects.
+
+## Article 7
+
+1\. Preferably before 1 January 2005 and in any event by 1 July 2005, the Commission shall submit to the Council a report, drawn up on the basis of an opinion from the European Food Safety Authority. The report shall be drawn up taking into account the socioeconomic consequences, the sanitary consequences, the environmental effects and different climatic conditions. It shall also take into account the development of techniques and systems of pig production and meat processing which would be likely to reduce the need to resort to surgical castration. If need be, the report shall be accompanied by appropriate legislative proposals on the effects of different space allowances and floor types applicable to the welfare of weaners and rearing pigs.
+
+2\. Not later than 1 January 2008 the Commission shall submit to the Council a report, drawn up on the basis of an opinion from the European Food Safety Authority.
+
+The report shall cover in particular:
+
+(a) the effects of stocking density, including group size and methods of grouping the animals, in different farming systems on the welfare, including health, of pigs;
+
+(b) the impact of stall design and different flooring types on the welfare, including health, of pigs, taking into account different climatic conditions;
+
+(c) the risk factors associated with tail-biting and recommendations to reduce the need for tail-docking;
+
+(d) further developments of group-housing systems for pregnant sows, taking account both of pathological, zootechnical, physiological and ethological aspects of the various systems and of their health and environmental impact and of the different climatic conditions;
+
+(e) the determination of space requirements, including the service area for individually housed adult breeding boars;
+
+(f) further developments of loose-house systems for sows in the service area and for farrowing sows which meet the needs of the sow without compromising piglet survival;
+
+(g) consumers’ attitudes and behaviour towards pigmeat in the event of different levels of improvement in the welfare of the animals;
+
+(h) socioeconomic implications of the various systems of rearing pigs and their effects on the Community’s economic partners.
+
+The report may, if necessary, be accompanied by appropriate legislative proposals.
+
+## Article 8
+
+3\. Member States shall submit to the Commission by 31 August each year an annual report for the previous year on the inspections carried out by the competent authority to check compliance with the requirements of this Directive. The report shall be accompanied by an analysis of the most serious findings of non–compliance and a national action plan to prevent or decrease their occurrence for the forthcoming years. The Commission shall submit summaries of those reports to the Member States.
+
+## Article 9
+
+In order to be imported into the Community, animals coming from a third country must be accompanied by a certificate issued by the competent authority of that country, certifying that they have received treatment at least equivalent to that granted to animals of Community origin as provided for by this Directive.
+
+## Article 11
+
+1\. The Commission shall be assisted by the Standing Committee on the Food Chain and Animal Health set up pursuant to Article 58 of Regulation (EC) No 178/2002 of the European Parliament and of the Council of 28 January 2002 laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety ( 2 ), hereinafter referred to as ‘the Committee’.
+
+2\. Where reference is made to this paragraph, Articles 5 and 7 of Decision 1999/468/EC shall apply.
+
+The period laid down in Article 5(6) of Decision 1999/468/EC shall be set at three months.
+
+## Article 12
+
+Member States may, in compliance with the general rules of the Treaty, maintain or apply within their territories stricter provisions for the protection of pigs than those laid down in this Directive. They shall inform the Commission of any such measures.
+
+## Article 13
+
+Directive 91/630/EEC, as amended by the Acts listed in Annex II, Part A, is repealed, without prejudice to the obligations of the Member States relating to the time limits for transposition into national law of the Directives set out in Annex II, Part B.
+
+References to the repealed Directive shall be construed as references to this Directive and shall be read in accordance with the correlation table in Annex III.
+
+## Article 14
+
+This Directive shall enter into force on the 20th day following its publication in the Official Journal of the European Union.
+
+## Article 15
+
+This Directive is addressed to the Member States.
+
+## ANNEX I
+
+**CHAPTER I**
+
+**GENERAL CONDITIONS**
+
+In addition to the relevant provisions of the Annex to Directive 98/58/EC, the following requirements apply:
+
+1\. In the part of the building where pigs are kept continuous noise levels as loud as 85 dBA shall be avoided. Constant or sudden noise shall be avoided.
+
+2\. Pigs must be kept in light with an intensity of at least 40 lux for a minimum period of eight hours per day.
+
+3\. The accommodation for pigs must be constructed in such a way as to allow the animals to:
+
+— have access to a lying area physically and thermally comfortable as well as adequately drained and clean which allows all the animals to lie at the same time,
+
+— rest and get up normally,
+
+— see other pigs; however, in the week before the expected farrowing time and during farrowing, sows and gilts can be kept out of the sight of conspecifics.
+
+4\. Notwithstanding Article 3(5), pigs must have permanent access to a sufficient quantity of material to enable proper investigation and manipulation activities, such as straw, hay, wood, sawdust, mushroom compost, peat or a mixture of such, which does not compromise the health of the animals.
+
+5\. Floors must be smooth but not slippery so as to prevent injury to the pigs and so designed, constructed and maintained as not to cause injury or suffering to pigs. They must be suitable for the size and weight of the pigs and, if no litter is provided, form a rigid, even and stable surface.
+
+6\. All pigs must be fed at least once a day. Where pigs are fed in groups and not ad libitum or by an automatic system feeding the animals individually, each pig must have access to the food at the same time as the others in the group.
+
+7\. All pigs over two weeks of age must have permanent access to a sufficient quantity of fresh water.
+
+8\. All procedures intended as an intervention carried out for other than therapeutic or diagnostic purposes or for the identification of the pigs in accordance with relevant legislation and resulting in damage to or the loss of a sensitive part of the body or the alteration of bone structure shall be prohibited with the following exceptions:
+
+— a uniform reduction of corner teeth of piglets by grinding or clipping not later than the seventh day of life of the piglets leaving an intact smooth surface; boars’ tusks may be reduced in length where necessary to prevent injuries to other animals or for safety reasons,
+
+— docking of a part of the tail,
+
+— castration of male pigs by other means than tearing of tissues,
+
+— nose-ringing only when the animals are kept in outdoor husbandry systems and in compliance with national legislation.
+
+Neither tail-docking nor reduction of corner teeth must be carried out routinely but only where there is evidence that injuries to sows’ teats or to other pigs’ ears or tails have occurred. Before carrying out these procedures, other measures shall be taken to prevent tail-biting and other vices, taking into account environment and stocking densities. For this reason inadequate environmental conditions or management systems must be changed.
+
+Any of the procedures described above shall only be carried out by a veterinarian or a person trained as provided in Article 6 and experienced in performing the applied techniques with appropriate means and under hygienic conditions. If castration or docking of tails is practised after the seventh day of life, it shall only be performed under anaesthetic and additional prolonged analgesia by a veterinarian.
+
+**CHAPTER II**
+
+**SPECIFIC PROVISIONS FOR VARIOUS CATEGORIES OF PIGS**
+
+**A. Boars**
+
+Boar pens must be sited and constructed so as to allow the boar to turn round and to hear, smell and see other pigs. The unobstructed floor area available to an adult boar must be at least 6 m2.
+
+Where pens are also used for natural service the floor area available to an adult boar must be at least of 10 m2 and the pen must be free of any obstacles.
+
+**B. Sows and gilts**
+
+1\. Measures shall be taken to minimise aggression in groups.
+
+2\. Pregnant sows and gilts must, if necessary, be treated against external and internal parasites. If they are placed in farrowing crates, pregnant sows and gilts must be thoroughly cleaned.
+
+3\. In the week before the expected farrowing time sows and gilts must be given suitable nesting material in sufficient quantity unless it is not technically feasible for the slurry system used in the establishment.
+
+4\. An unobstructed area behind the sow or gilt must be available for the ease of natural or assisted farrowing.
+
+5\. Farrowing pens where sows are kept loose must have some means of protecting the piglets, such as farrowing rails.
+
+**C. Piglets**
+
+1\. A part of the total floor, sufficient to allow the animals to rest together at the same time, must be solid or covered with a mat, or be littered with straw or any other suitable material.
+
+2\. Where a farrowing crate is used, the piglets must have sufficient space to be able to be suckled without difficulty.
+
+3\. No piglets shall be weaned from the sow at less than 28 days of age unless the welfare or health of the dam or the piglet would otherwise be adversely affected.
+
+However, piglets may be weaned up to seven days earlier if they are moved into specialised housings which are emptied and thoroughly cleaned and disinfected before the introduction of a new group and which are separated from housings where sows are kept, in order to minimise the transmission of diseases to the piglets.
+
+**D. Weaners and rearing pigs**
+
+1\. When pigs are kept in groups, measures must be taken to prevent fighting which goes beyond normal behaviour.
+
+2\. They should be kept in groups with as little mixing as possible. If pigs unfamiliar with one another have to be mixed, this should be done at as young an age as possible, preferably before or up to one week after weaning. When pigs are mixed they shall be provided with adequate opportunities to escape and hide from other pigs.
+
+3\. When signs of severe fighting appear the causes shall be immediately investigated and appropriate measures taken, such as providing plentiful straw to the animals, if possible, or other materials for investigation. Animals at risk or particularly aggressive animals shall be kept separate from the group.
+
+4\. The use of tranquillising medicaments in order to facilitate mixing shall be limited to exceptional conditions and only after consultation with a veterinarian.
+
+## ANNEX II
+
+**PART A**
+
+**Repealed Directive with its successive amendments**
+
+**(referred to in Article 13)**
+
+| Council Directive 91/630/EEC (OJ L 340, 11.12.1991, p. 33) |  |
+| --- | --- |
+| Council Directive 2001/88/EC (OJ L 316, 1.12.2001, p. 1) |  |
+| Commission Directive 2001/93/EC (OJ L 316, 1.12.2001, p. 36) |  |
+| Council Regulation (EC) No 806/2003 (OJ L 122, 16.5.2003, p. 1) | only Annex III, point 26 |
+
+**PART B**
+
+**List of time limits for transposition into national law**
+
+**(referred to in Article 13)**
+
+Directives Time limit for transposition
+
+91/630/EEC 1 January 1994
+
+2001/88/EC 1 January 2003
+
+2001/93/EC 1 January 2003
+
+## ANNEX III
+
+**CORRELATION TABLE**
+
+| Directive 91/630/EEC | This Directive |
+| --- | --- |
+| Articles 1 and 2 | Articles 1 and 2 |
+| Article 3, introductory wording | — |
+| Article 3, point 1 | Article 3(1) |
+| Article 3, point 2 | Article 3(2) |
+| Article 3, point 3 | Article 3(3) |
+| Article 3, point 4(a) | Article 3(4), first subparagraph |
+| Article 3, point 4(b) | Article 3(4), second subparagraph |
+| Article 3, point 5 | Article 3(5) |
+| Article 3, point 6 | Article 3(6) |
+| Article 3, point 7 | Article 3(7) |
+| Article 3, point 8 | Article 3(8) |
+| Article 3, point 9 | Article 3(9) |
+| Article 4(1), first subparagraph | Article 4 |
+| Article 4(1), second subparagraph | — |
+| Article 4(2) | — |
+| Article 5 | Article 5 |
+| Article 5a, introductory wording | Article 6, introductory wording |
+| Article 5a, point 1 | Article 6(a) |
+| Article 5a, point 2 | Article 6(b) |
+| Article 6 | Article 7 |
+| Article 7 | Article 8 |
+| Article 8 | Article 9 |
+| Article 9 | Article 10 |
+| Article 10 | Article 11 |
+| Article 11(1) | — |
+| Article 11(2) | Article 12 |
+| — | Article 13 |
+| — | Article 14 |
+| Article 12 | Article 15 |
+| Annex | Annex I |
+| — | Annex II |
+| — | Annex III |
+
+( 1 ) Regulation (EU) 2017/625  of the European Parliament and of the Council of 15 March 2017 on official controls and other official activities performed to ensure the application of food and feed law, rules on animal health and welfare, plant health and plant protection products, amending Regulations (EC) No 999/2001, (EC) No 396/2005, (EC) No 1069/2009, (EC) No 1107/2009, (EU) No 1151/2012, (EU) No 652/2014, (EU) 2016/429 and (EU) 2016/2031 of the European Parliament and of the Council, Council Regulations (EC) No 1/2005 and (EC) No 1099/2009 and Council Directives 98/58/EC, 1999/74/EC, 2007/43/EC, 2008/119/EC and 2008/120/EC, and repealing Regulations (EC) No 854/2004 and (EC) No 882/2004 of the European Parliament and of the Council, Council Directives 89/608/EEC, 89/662/EEC, 90/425/EEC, 91/496/EEC, 96/23/EC, 96/93/EC and 97/78/EC and Council Decision 92/438/EEC (Official Controls Regulation) ( OJ L 95, 7.4.2017, p. 1  ).
+
+( 2 ) OJ L 31, 1.2.2002, p. 1.

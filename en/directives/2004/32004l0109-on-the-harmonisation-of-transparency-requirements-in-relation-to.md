@@ -1,0 +1,1013 @@
+---
+title: "Directive 2004/109/EC of the European Parliament and of the Council of 15 December 2004 on the harmonisation of transparency requirements in relation to information about issuers whose securities are admitted to trading on a regulated market and amending Directive 2001/34/EC"
+identifier: "32004L0109"
+eli: "http://data.europa.eu/eli/dir/2004/109/oj"
+type: directive
+jurisdiction: eu
+language: en
+date: 2004-12-15
+entry_into_force: 2004-03-11
+last_amended: 2024-01-09
+consolidated_version: "02004L0109-20240109"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02004L0109-20240109"
+retrieved: 2026-10-11
+---
+
+# Directive 2004/109/EC of the European Parliament and of the Council of 15 December 2004 on the harmonisation of transparency requirements in relation to information about issuers whose securities are admitted to trading on a regulated market and amending Directive 2001/34/EC
+
+**DIRECTIVE 2004/109/EC OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 15 December 2004**
+
+**on the harmonisation of transparency requirements in relation to information about issuers whose securities are admitted to trading on a regulated market and amending Directive 2001/34/EC**
+
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> DIRECTIVE 2008/22/EC OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 11 March 2008 </td><td> L 76</td><td>50</td><td>19.3.2008</td></tr>
+<tr><td></td><td> DIRECTIVE 2010/73/EU OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 24 November 2010 </td><td> L 327</td><td>1</td><td>11.12.2010</td></tr>
+<tr><td></td><td> DIRECTIVE 2010/78/EU OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 24 November 2010 </td><td> L 331</td><td>120</td><td>15.12.2010</td></tr>
+<tr><td></td><td> DIRECTIVE 2013/50/EU OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 22 October 2013 </td><td> L 294</td><td>13</td><td>6.11.2013</td></tr>
+<tr><td></td><td> REGULATION (EU) 2021/337 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 16 February 2021 </td><td> L 68</td><td>1</td><td>26.2.2021</td></tr>
+<tr><td></td><td> DIRECTIVE (EU) 2022/2464 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 14 December 2022 </td><td> L 322</td><td>15</td><td>16.12.2022</td></tr>
+<tr><td></td><td> DIRECTIVE (EU) 2023/2864 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 13 December 2023 </td><td> L </td><td>1</td><td>20.12.2023</td></tr>
+
+**DIRECTIVE 2004/109/EC OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 15 December 2004**
+
+**on the harmonisation of transparency requirements in relation to information about issuers whose securities are admitted to trading on a regulated market and amending Directive 2001/34/EC**
+
+## CHAPTER I — GENERAL PROVISIONS
+
+#### Article 1 — Subject matter and scope
+
+1\. This Directive establishes requirements in relation to the disclosure of periodic and ongoing information about issuers whose securities are already admitted to trading on a regulated market situated or operating within a Member State.
+
+2\. This Directive shall not apply to units issued by collective investment undertakings other than the closed-end type, or to units acquired or disposed of in such collective investment undertakings.
+
+3\. Member States may decide not to apply the provisions mentioned in Article 16(3) and in paragraphs 2, 3 and 4 of Article 18 to securities which are admitted to trading on a regulated market issued by them or their regional or local authorities.
+
+4\. Member States may decide not to apply Article 17 to their national central banks in their capacity as issuers of shares admitted to trading on a regulated market if this admission took place before 20 January 2005.
+
+#### Article 2 — Definitions
+
+1\. For the purposes of this Directive the following definitions shall apply:
+
+(a) ‘securities’ means transferable securities as defined in Article 4(1), point 18, of Directive 2004/39/EC of the European Parliament and of the Council of 21 April 2004 on markets in financial instruments ( 1 ) with the exception of money-market instruments, as defined in Article 4(1), point 19, of that Directive having a maturity of less than 12 months, for which national legislation may be applicable;
+
+(b) ‘debt securities’ means bonds or other forms of transferable securitised debts, with the exception of securities which are equivalent to shares in companies or which, if converted or if the rights conferred by them are exercised, give rise to a right to acquire shares or securities equivalent to shares;
+
+(c) ‘regulated market’ means a market as defined in Article 4(1), point 14, of Directive 2004/39/EC;
+
+(d) ‘issuer’ means a natural person, or a legal entity governed by private or public law, including a State, whose securities are admitted to trading on a regulated market.
+
+In the case of depository receipts admitted to trading on a regulated market, the issuer means the issuer of the securities represented, whether or not those securities are admitted to trading on a regulated market;
+
+(e) ‘shareholder’ means any natural person or legal entity governed by private or public law, who holds, directly or indirectly:
+
+(i) shares of the issuer in its own name and on its own account;
+
+(ii) shares of the issuer in its own name, but on behalf of another natural person or legal entity;
+
+(iii) depository receipts, in which case the holder of the depository receipt shall be considered as the shareholder of the underlying shares represented by the depository receipts;
+
+(f) ‘controlled undertaking’ means any undertaking
+
+(i) in which a natural person or legal entity has a majority of the voting rights; or
+
+(ii) of which a natural person or legal entity has the right to appoint or remove a majority of the members of the administrative, management or supervisory body and is at the same time a shareholder in, or member of, the undertaking in question; or
+
+(iii) of which a natural person or legal entity is a shareholder or member and alone controls a majority of the shareholders' or members' voting rights, respectively, pursuant to an agreement entered into with other shareholders or members of the undertaking in question; or
+
+(iv) over which a natural person or legal entity has the power to exercise, or actually exercises, dominant influence or control;
+
+(g) ‘collective investment undertaking other than the closed-end type’ means unit trusts and investment companies:
+
+(i) the object of which is the collective investment of capital provided by the public, and which operate on the principle of risk spreading; and
+
+(ii) the units of which are, at the request of the holder of such units, repurchased or redeemed, directly or indirectly, out of the assets of those undertakings;
+
+(h) ‘units of a collective investment undertaking’ means securities issued by a collective investment undertaking and representing rights of the participants in such an undertaking over its assets;
+
+(i) ‘home Member State’ means
+
+(i) in the case of an issuer of debt securities the denomination per unit of which is less than EUR 1 000 or an issuer of shares:
+
+— where the issuer is incorporated in the Union, the Member State in which it has its registered office,
+
+— where the issuer is incorporated in a third country, the Member State chosen by the issuer from amongst the Member States where its securities are admitted to trading on a regulated market. The choice of home Member State shall remain valid unless the issuer has chosen a new home Member State under point (iii) and has disclosed the choice in accordance with the second paragraph of this point [letter] (i);
+
+The definition of ‘home’ Member State shall be applicable to debt securities in a currency other than euro, provided that the value of such denomination per unit is, at the date of the issue, less than EUR 1 000 , unless it is nearly equivalent to EUR 1 000 ;
+
+(ii) for any issuer not covered by point (i), the Member State chosen by the issuer from among the Member State in which the issuer has its registered office, where applicable, and those Member States where its securities are admitted to trading on a regulated market. The issuer may choose only one Member State as its home Member State. Its choice shall remain valid for at least three years unless its securities are no longer admitted to trading on any regulated market in the Union or unless the issuer becomes covered by points (i) or (iii) during the three-year period;
+
+(iii) for an issuer whose securities are no longer admitted to trading on a regulated market in its home Member State as defined by the second indent of point (i) or (ii) but instead are admitted to trading in one or more other Member States, such new home Member State as the issuer may choose from amongst the Member States where its securities are admitted to trading on a regulated market and, where applicable, the Member State where the issuer has its registered office;
+
+An issuer shall disclose its home Member State as referred to in points (i), (ii) or (iii) in accordance with Articles 20 and 21. In addition, an issuer shall disclose its home Member State to the competent authority of the Member State where it has its registered office, where applicable, to the competent authority of the home Member State and to the competent authorities of all host Member States.
+
+In the absence of disclosure by the issuer of its home Member State as defined by the second indent of point (i) or (ii) within a period of three months from the date the issuers’ securities are first admitted to trading on a regulated market, the home Member State shall be the Member State where the issuer’s securities are admitted to trading on a regulated market. Where the issuer’s securities are admitted to trading on regulated markets situated or operating within more than one Member State, those Member States shall be the issuer’s home Member States until a subsequent choice of a single home Member State has been made and disclosed by the issuer.
+
+For an issuer whose securities are already admitted to trading on a regulated market and whose choice of home Member State as referred to in the second indent of point (i) or in point (ii) has not been disclosed prior to 27 November 2015, the period of three months shall start on 27 November 2015.
+
+An issuer that has made a choice of a home Member State as referred to in the second indent of point (i) or in point (ii) or (iii) and has communicated that choice to the competent authorities of the home Member State prior to 27 November 2015 shall be exempted from the requirement under the second paragraph of this point [letter] (i), unless such issuer chooses another home Member State after 27 November 2015.
+
+(j) ‘host Member State’ means a Member State in which securities are admitted to trading on a regulated market, if different from the home Member State;
+
+(k) ‘regulated information’ means all information which the issuer, or any other person who has applied for the admission of securities to trading on a regulated market without the issuer's consent, is required to disclose under this Directive, under Article 6 of Directive 2003/6/EC of the European Parliament and of the Council of 28 January 2003 on insider dealing and market manipulation (market abuse) ( 2 ), or under the laws, regulations or administrative provisions of a Member State adopted under Article 3(1) of this Directive;
+
+(l) ‘electronic means’ are means of electronic equipment for the processing (including digital compression), storage and transmission of data, employing wires, radio, optical technologies, or any other electromagnetic means;
+
+(m) ‘management company’ means a company as defined in Article 1a(2) of Council Directive 85/611/EEC of 20 December 1985 on the coordination of laws, regulations and administrative provisions relating to undertakings for collective investment in transferable securities (UCITS) ( 3 );
+
+(n) ‘market maker’ means a person who holds himself out on the financial markets on a continuous basis as being willing to deal on own account by buying and selling financial instruments against his proprietary capital at prices defined by him;
+
+(o) ‘credit institution’ means an undertaking as defined in Article 1(1)(a) of Directive 2000/12/EC of the European Parliament and of the Council of 20 March 2000 relating to the taking up and pursuit of the business of credit institutions ( 4 );
+
+(p) ‘securities issued in a continuous or repeated manner’ means debt securities of the same issuer on tap or at least two separate issues of securities of a similar type and/or class;
+
+(q) ‘formal agreement’ means an agreement which is binding under the applicable law;
+
+(r) ‘sustainability reporting’ means sustainability reporting as defined in point (18) of Article 2 of Directive 2013/34/EU of the European Parliament and of the Council ( 5 ).
+
+2\. For the purposes of the definition of ‘controlled undertaking’ in paragraph 1(f)(ii), the holder's rights in relation to voting, appointment and removal shall include the rights of any other undertaking controlled by the shareholder and those of any natural person or legal entity acting, albeit in its own name, on behalf of the shareholder or of any other undertaking controlled by the shareholder.
+
+2a. Any reference to legal entities in this Directive shall be understood as including registered business associations without legal personality and trusts.
+
+3\. In order to take account of technical developments on financial markets, to specify the requirements and to ensure the uniform application of paragraph 1, the Commission shall adopt, in accordance with Article 27(2a), (2b) and (2c), and subject to the conditions of Articles 27a and 27b, measures concerning the definitions set out in paragraph 1.
+
+The Commission shall, in particular:
+
+(a) establish, for the purposes of paragraph 1(i)(ii), the procedural arrangements in accordance with which an issuer may make the choice of the home Member State;
+
+(b) adjust, where appropriate for the purposes of the choice of the home Member State referred to in paragraph 1(i)(ii), the three-year period in relation to the issuer’s track record in the light of any new requirement under Community law concerning admission to trading on a regulated market; and
+
+(c) establish, for the purposes of paragraph 1(l), an indicative list of means which are not to be considered as electronic means, thereby taking into account Annex V to Directive 98/34/EC of the European Parliament and of the Council of 22 June 1998 laying down a procedure for the provision of information in the field of technical standards and regulations and of rules on Information Society services ( 6 ) in accordance with the regulatory procedure referred to in Article 27(2).
+
+The measures referred to in points (a) and (b) of the second subparagraph shall be laid down by means of delegated acts in accordance with Article 27(2a), (2b) and (2c), and subject to the conditions of Articles 27a and 27b.
+
+#### Article 3 — Integration of securities markets
+
+1\. The home Member State may make an issuer subject to requirements more stringent than those laid down in this Directive, except that it may not require issuers to publish periodic financial information on a more frequent basis than the annual financial reports referred to in Article 4 and the half-yearly financial reports referred to in Article 5.
+
+1a. By way of derogation from paragraph 1, the home Member States may require issuers to publish additional periodic financial information on a more frequent basis than the annual financial reports referred to in Article 4 and the half-yearly financial reports referred to in Article 5, where the following conditions are met:
+
+— the additional periodic financial information does not constitute a disproportionate financial burden in the Member State concerned, in particular for the small and medium-sized issuers concerned, and
+
+— the content of the additional periodic financial information required is proportionate to the factors that contribute to investment decisions by the investors in the Member State concerned.
+
+Before taking a decision requiring issuers to publish additional periodic financial information, Member States shall assess both whether such additional requirements may lead to an excessive focus on the issuers’ short-term results and performance and whether they may impact negatively on the ability of small and medium-sized issuers to have access to the regulated markets.
+
+This is without prejudice to the ability of Member States to require the publication of additional periodic financial information by issuers who are financial institutions.
+
+The home Member State may not make a holder of shares, or a natural person or legal entity referred to in Article 10 or 13, subject to requirements more stringent than those laid down in this Directive, except when:
+
+(i) setting lower or additional notification thresholds than those laid down in Article 9(1) and requiring equivalent notifications in relation to thresholds based on capital holdings;
+
+(ii) applying more stringent requirements than those referred to in Article 12; or
+
+(iii) applying laws, regulations or administrative provisions adopted in relation to takeover bids, merger transactions and other transactions affecting the ownership or control of companies, supervised by the authorities appointed by Member States pursuant to Article 4 of Directive 2004/25/EC of the European Parliament and of the Council of 21 April 2004 on takeover bids ( 7 ).
+
+2\. A host Member State may not:
+
+(a) as regards the admission of securities to a regulated market in its territory, impose disclosure requirements more stringent than those laid down in this Directive or in Article 6 of Directive 2003/6/EC;
+
+(b) as regards the notification of information, make a holder of shares, or a natural person or legal entity referred to in Articles 10 or 13, subject to requirements more stringent than those laid down in this Directive.
+
+## CHAPTER II — PERIODIC INFORMATION
+
+#### Article 4 — Annual financial reports
+
+1\. The issuer shall make public its annual financial report at the latest four months after the end of each financial year and shall ensure that it remains publicly available for at least 10 years.
+
+2\. The annual financial report shall comprise:
+
+(a) the audited financial statements;
+
+(b) the management report; and
+
+(c) statements made by the persons responsible within the issuer, whose names and functions shall be clearly indicated, to the effect that, to the best of their knowledge, the financial statements prepared in accordance with the applicable set of accounting standards give a true and fair view of the assets, liabilities, financial position and profit or loss of the issuer and the undertakings included in the consolidation taken as a whole and that the management report includes a fair review of the development and performance of the business and the position of the issuer and the undertakings included in the consolidation taken as a whole, together with a description of the principal risks and uncertainties that they face and, where appropriate, that it is prepared in accordance with sustainability reporting standards referred to in Article 29b of Directive 2013/34/EU and with the specifications adopted pursuant to Article 8(4) of Regulation (EU) 2020/852 of the European Parliament and of the Council ( 8 ).
+
+3\. Where the issuer is required to prepare consolidated accounts according to the Seventh Council Directive 83/349/EEC of 13 June 1983 on consolidated accounts ( 9 ), the audited financial statements shall comprise such consolidated accounts drawn up in accordance with Regulation (EC) No 1606/2002 and the annual accounts of the parent company drawn up in accordance with the national law of the Member State in which the parent company is incorporated.
+
+Where the issuer is not required to prepare consolidated accounts, the audited financial statements shall comprise the accounts prepared in accordance with the national law of the Member State in which the company is incorporated.
+
+4\. The financial statements shall be audited in accordance with the first subparagraph of Article 34(1) and Article 34(2) of Directive 2013/34/EU.
+
+The statutory auditor shall deliver the opinion and statement on the management report referred to in points (a) and (b) of the second subparagraph of Article 34(1) and in Article 34(2) of Directive 2013/34/EU.
+
+The audit report, referred to in Article 28 of Directive 2006/43/EC of the European Parliament and of the Council ( 10 ), signed by the person or persons responsible for carrying out the work set out in Article 34(1) and (2) of Directive 2013/34/EU shall be disclosed in full to the public together with the annual financial report.
+
+Where applicable, an assurance opinion on sustainability reporting shall be provided in accordance with point (aa) of the second subparagraph of Article 34(1) and Article 34(2) to (5) of Directive 2013/34/EU.
+
+The assurance report on sustainability reporting referred to in Article 28a of Directive 2006/43/EC shall be disclosed in full to the public together with the annual financial report.
+
+5\. The management report shall be drawn up in accordance with Articles 19, 19a and 20, and Article 29d(1) of Directive 2013/34/EU, and shall include the specifications adopted pursuant to Article 8(4) of Regulation (EU) 2020/852, when drawn up by undertakings referred to in those provisions.
+
+Where the issuer is required to prepare consolidated accounts, the consolidated management report shall be drawn up in accordance with Articles 29 and 29a and Article 29d(2) of Directive 2013/34/EU and shall include the specifications adopted pursuant to Article 8(4) of Regulation (EU) 2020/852, when drawn up by undertakings referred to in those provisions.
+
+6\. The Commission shall, in accordance with the procedure referred to in Article 27(2), adopt implementing measures in order to take account of technical developments in financial markets and to ensure the uniform application of paragraph 1. The Commission shall in particular specify the technical conditions under which a published annual financial report, including the audit report, is to remain available to the public. Where appropriate, the Commission may also adapt the five-year period referred to in paragraph 1.
+
+7\. For financial years beginning on or after 1 January 2020, all annual financial reports shall be prepared in a single electronic reporting format provided that a cost-benefit analysis has been undertaken by the European Supervisory Authority (European Securities and Markets Authority) (ESMA) established by Regulation (EU) No 1095/2010 of the European Parliament and of the Council ( 11 ). However, a Member State may allow issuers to apply that reporting requirement for financial years beginning on or after 1 January 2021, provided that that Member State notifies the Commission of its intention to allow such a delay by 19 March 2021, and that its intention is duly justified.
+
+ESMA shall develop draft regulatory technical standards to specify the electronic reporting format, with due reference to current and future technological options. Before the adoption of the draft regulatory technical standards, ESMA shall carry out an adequate assessment of possible electronic reporting formats and conduct appropriate field tests. ESMA shall submit those draft regulatory technical standards to the Commission at the latest by 31 December 2016.
+
+Power is delegated to the Commission to adopt the regulatory technical standards referred to in the second subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1095/2010.
+
+#### Article 5 — Half-yearly financial reports
+
+1\. The issuer of shares or debt securities shall make public a half-yearly financial report covering the first six months of the financial year as soon as possible after the end of the relevant period, but at the latest three months thereafter. The issuer shall ensure that the half-yearly financial report remains available to the public for at least 10 years.
+
+2\. The half-yearly financial report shall comprise:
+
+(a) the condensed set of financial statements;
+
+(b) an interim management report; and
+
+(c) statements made by the persons responsible within the issuer, whose names and functions shall be clearly indicated, to the effect that, to the best of their knowledge, the condensed set of financial statements which has been prepared in accordance with the applicable set of accounting standards gives a true and fair view of the assets, liabilities, financial position and profit or loss of the issuer, or the undertakings included in the consolidation as a whole as required under paragraph 3, and that the interim management report includes a fair review of the information required under paragraph 4.
+
+3\. Where the issuer is required to prepare consolidated accounts, the condensed set of financial statements shall be prepared in accordance with the international accounting standard applicable to the interim financial reporting adopted pursuant to the procedure provided for under Article 6 of Regulation (EC) No 1606/2002.
+
+Where the issuer is not required to prepare consolidated accounts, the condensed set of financial statements shall at least contain a condensed balance sheet, a condensed profit and loss account and explanatory notes on these accounts. In preparing the condensed balance sheet and the condensed profit and loss account, the issuer shall follow the same principles for recognising and measuring as when preparing annual financial reports.
+
+4\. The interim management report shall include at least an indication of important events that have occurred during the first six months of the financial year, and their impact on the condensed set of financial statements, together with a description of the principal risks and uncertainties for the remaining six months of the financial year. For issuers of shares, the interim management report shall also include major related parties transactions.
+
+5\. If the half-yearly financial report has been audited, the audit report shall be reproduced in full. The same shall apply in the case of an auditors' review. If the half-yearly financial report has not been audited or reviewed by auditors, the issuer shall make a statement to that effect in its report.
+
+6\. The Commission shall adopt, in accordance with Article 27(2) or Article 27(2a), (2b) and (2c), in order to take account of technical developments on financial markets, measures to specify the requirements and ensure the uniform application of paragraphs 1 to 5 of this Article.
+
+The Commission shall, in particular:
+
+(a) specify the technical conditions under which a published half-yearly financial report, including the auditors' review, is to remain available to the public;
+
+(b) clarify the nature of the auditors' review;
+
+(c) specify the minimum content of the condensed balance sheet and profit and loss accounts and explanatory notes on these accounts, where they are not prepared in accordance with the international accounting standards adopted pursuant to the procedure provided for under Article 6 of Regulation (EC) No 1606/2002.
+
+The measures referred to in point (a) shall be adopted in accordance with the regulatory procedure referred to in Article 27(2). The measures referred to in points (b) and (c) shall be laid down by means of delegated acts in accordance with Article 27(2a), (2b) and (2c), and subject to the conditions of Articles 27a and 27b.
+
+Where appropriate, the Commission may also adapt the five-year period referred to in paragraph 1 by means of a delegated act in accordance with Article 27(2a), (2b) and (2c), and subject to the conditions of Articles 27a and 27b.
+
+#### Article 6 — Report on payments to governments
+
+Member States shall require issuers active in the extractive or logging of primary forest industries, as defined in Article 41(1) and (2) of Directive 2013/34/EU of the European Parliament and of the Council of 26 June 2013 on the annual financial statements, consolidated financial statements and related reports of certain types of undertakings, amending Directive 2006/43/EC of the European Parliament and of the Council and repealing Council Directives 78/660/EEC and 83/349/EEC ( 12 ), to prepare on an annual basis, in accordance with Chapter 10 of that Directive, a report on payments made to governments. The report shall be made public at the latest six months after the end of each financial year and shall remain publicly available for at least 10 years. Payments to governments shall be reported at consolidated level.
+
+#### Article 7 — Responsibility and liability
+
+Member States shall ensure that responsibility for the information to be drawn up and made public in accordance with Articles 4, 5, 6 and 16 lies at least with the issuer or its administrative, management or supervisory bodies and shall ensure that their laws, regulations and administrative provisions on liability apply to the issuers, the bodies referred to in this Article or the persons responsible within the issuers.
+
+#### Article 8 — Exemptions
+
+1\. Articles 4 and 5 shall not apply to the following issuers:
+
+(a) a State, a regional or local authority of a State, a public international body of which at least one Member State is a member, the European Central Bank (ECB), the European Financial Stability Facility (EFSF) established by the EFSF Framework Agreement and any other mechanism established with the objective of preserving the financial stability of European monetary union by providing temporary financial assistance to the Member States whose currency is the euro and Member States’ national central banks whether or not they issue shares or other securities; and
+
+(b) an issuer exclusively of debt securities admitted to trading on a regulated market, the denomination per unit of which is at least EUR 100 000 or, in the case of debt securities denominated in a currency other than euro, the value of such denomination per unit is, at the date of the issue, equivalent to at least EUR 100 000 .
+
+2\. The home Member State may choose not to apply Article 5 to credit institutions whose shares are not admitted to trading on a regulated market and which have, in a continuous or repeated manner, only issued debt securities provided that the total nominal amount of all such debt securities remains below EUR 100 000 000 and that they have not published a prospectus under Directive 2003/71/EC.
+
+3\. The home Member State may choose not to apply Article 5 to issuers already existing at the date of the entry into force of Directive 2003/71/EC which exclusively issue debt securities unconditionally and irrevocably guaranteed by the home Member State or by one of its regional or local authorities, on a regulated market.
+
+4\. By way of derogation from point (b) of paragraph 1 of this Article, Articles 4 and 5 shall not apply to issuers exclusively of debt securities the denomination per unit of which is at least EUR 50 000 or, in the case of debt securities denominated in a currency other than euro, the value of such denomination per unit is, at the date of the issue, equivalent to at least EUR 50 000 , which have already been admitted to trading on a regulated market in the Union before 31 December 2010, for as long as such debt securities are outstanding.
+
+## CHAPTER III — ONGOING INFORMATION
+
+### SECTION I — Information about major holdings
+
+#### Article 9 — Notification of the acquisition or disposal of major holdings
+
+1\. The home Member State shall ensure that, where a shareholder acquires or disposes of shares of an issuer whose shares are admitted to trading on a regulated market and to which voting rights are attached, such shareholder notifies the issuer of the proportion of voting rights of the issuer held by the shareholder as a result of the acquisition or disposal where that proportion reaches, exceeds or falls below the thresholds of 5 %, 10 %, 15 %, 20 %, 25 %, 30 %, 50 % and 75 %.
+
+The voting rights shall be calculated on the basis of all the shares to which voting rights are attached even if the exercise thereof is suspended. Moreover this information shall also be given in respect of all the shares which are in the same class and to which voting rights are attached.
+
+2\. The home Member States shall ensure that the shareholders notify the issuer of the proportion of voting rights, where that proportion reaches, exceeds or falls below the thresholds provided for in paragraph 1, as a result of events changing the breakdown of voting rights, and on the basis of the information disclosed pursuant to Article 15. Where the issuer is incorporated in a third country, the notification shall be made for equivalent events.
+
+3\. The home Member State need not apply:
+
+(a) the 30 % threshold, where it applies a threshold of one-third;
+
+(b) the 75 % threshold, where it applies a threshold of two-thirds.
+
+4\. This Article shall not apply to shares acquired for the sole purpose of clearing and settling within the usual short settlement cycle, or to custodians holding shares in their custodian capacity provided such custodians can only exercise the voting rights attached to such shares under instructions given in writing or by electronic means.
+
+5\. This Article shall not apply to the acquisition or disposal of a major holding reaching or crossing the 5 % threshold by a market maker acting in its capacity of a market maker, provided that:
+
+(a) it is authorised by its home Member State under Directive 2004/39/EC; and
+
+(b) it neither intervenes in the management of the issuer concerned nor exerts any influence on the issuer to buy such shares or back the share price.
+
+6\. This Article shall not apply to voting rights held in the trading book, as defined in Article 11 of Directive 2006/49/EC of the European Parliament and of the Council of 14 June 2006 on the capital adequacy of investment firms and credit institutions ( 13 ), of a credit institution or investment firm provided that:
+
+(a) the voting rights held in the trading book do not exceed 5 %; and
+
+(b) the voting rights attached to shares held in the trading book are not exercised or otherwise used to intervene in the management of the issuer.
+
+6a. This Article shall not apply to voting rights attached to shares acquired for stabilisation purposes in accordance with Commission Regulation (EC) No 2273/2003 of 22 December 2003 implementing Directive 2003/6/EC of the European Parliament and of the Council as regards exemptions for buy-back programmes and stabilisation of financial instruments ( 14 ), provided the voting rights attached to those shares are not exercised or otherwise used to intervene in the management of the issuer.
+
+6b. ESMA shall develop draft regulatory technical standards to specify the method of calculation of the 5 % threshold referred to in paragraphs 5 and 6, including in the case of a group of companies, taking into account Article 12(4) and (5).
+
+ESMA shall submit those draft regulatory technical standards to the Commission by 27 November 2014.
+
+Power is delegated to the Commission to adopt the regulatory technical standards referred to in the first subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1095/2010.
+
+7\. The Commission shall adopt, by means of delegated acts in accordance with Article 27(2a), (2b) and (2c), and subject to the conditions of Articles 27a and 27b, measures in order to take account of technical developments on financial markets and to specify the requirements laid down in paragraphs 2, 4 and 5.
+
+The Commission shall specify, by means of delegated acts in accordance with Article 27(2a), (2b) and (2c), and subject to the conditions of Articles 27a and 27b, the maximum length of the ‘short settlement cycle’ referred to in paragraph 4 of this Article, as well as the appropriate control mechanisms by the competent authority of the home Member State.
+
+In addition, the Commission may draw up a list of the events referred to in paragraph 2 of this Article, in accordance with the regulatory procedure referred to in Article 27(2).
+
+#### Article 10 — Acquisition or disposal of major proportions of voting rights
+
+The notification requirements defined in paragraphs 1 and 2 of Article 9 shall also apply to a natural person or legal entity to the extent it is entitled to acquire, to dispose of, or to exercise voting rights in any of the following cases or a combination of them:
+
+(a) voting rights held by a third party with whom that person or entity has concluded an agreement, which obliges them to adopt, by concerted exercise of the voting rights they hold, a lasting common policy towards the management of the issuer in question;
+
+(b) voting rights held by a third party under an agreement concluded with that person or entity providing for the temporary transfer for consideration of the voting rights in question;
+
+(c) voting rights attaching to shares which are lodged as collateral with that person or entity, provided the person or entity controls the voting rights and declares its intention of exercising them;
+
+(d) voting rights attaching to shares in which that person or entity has the life interest;
+
+(e) voting rights which are held, or may be exercised within the meaning of points (a) to (d), by an undertaking controlled by that person or entity;
+
+(f) voting rights attaching to shares deposited with that person or entity which the person or entity can exercise at its discretion in the absence of specific instructions from the shareholders;
+
+(g) voting rights held by a third party in its own name on behalf of that person or entity;
+
+(h) voting rights which that person or entity may exercise as a proxy where the person or entity can exercise the voting rights at its discretion in the absence of specific instructions from the shareholders.
+
+#### Article 11
+
+1\. Articles 9 and 10(c) shall not apply to shares provided to or by the members of the ESCB in carrying out their functions as monetary authorities, including shares provided to or by members of the ESCB under a pledge or repurchase or similar agreement for liquidity granted for monetary policy purposes or within a payment system.
+
+2\. The exemption shall apply to the above transactions lasting for a short period and provided that the voting rights attaching to such shares are not exercised.
+
+#### Article 12 — Procedures on the notification and disclosure of major holdings
+
+1\. The notification required under Articles 9 and 10 shall include the following information:
+
+(a) the resulting situation in terms of voting rights;
+
+(b) the chain of controlled undertakings through which voting rights are effectively held, if applicable;
+
+(c) the date on which the threshold was reached or crossed; and
+
+(d) the identity of the shareholder, even if that shareholder is not entitled to exercise voting rights under the conditions laid down in Article 10, and of the natural person or legal entity entitled to exercise voting rights on behalf of that shareholder.
+
+2\. The notification to the issuer shall be effected promptly, but not later than four trading days after the date on which the shareholder, or the natural person or legal person referred to in Article 10,
+
+(a) learns of the acquisition or disposal or of the possibility of exercising voting rights, or on which, having regard to the circumstances, should have learned of it, regardless of the date on which the acquisition, disposal or possibility of exercising voting rights takes effect; or
+
+(b) is informed about the event mentioned in Article 9(2).
+
+3\. An undertaking shall be exempted from making the required notification in accordance with paragraph 1 if the notification is made by the parent undertaking or, where the parent undertaking is itself a controlled undertaking, by its own parent undertaking.
+
+4\. The parent undertaking of a management company shall not be required to aggregate its holdings under Articles 9 and 10 with the holdings managed by the management company under the conditions laid down in Directive 85/611/EEC, provided such management company exercises its voting rights independently from the parent undertaking.
+
+However, Articles 9 and 10 shall apply where the parent undertaking, or another controlled undertaking of the parent undertaking, has invested in holdings managed by such management company and the management company has no discretion to exercise the voting rights attached to such holdings and may only exercise such voting rights under direct or indirect instructions from the parent or another controlled undertaking of the parent undertaking.
+
+5\. The parent undertaking of an investment firm authorised under Directive 2004/39/EC shall not be required to aggregate its holdings under Articles 9 and 10 with the holdings which such investment firm manages on a client-by-client basis within the meaning of Article 4(1), point 9, of Directive 2004/39/EC, provided that:
+
+— the investment firm is authorised to provide such portfolio management under point 4 of Section A of Annex I to Directive 2004/39/EC;
+
+— it may only exercise the voting rights attached to such shares under instructions given in writing or by electronic means or it ensures that individual portfolio management services are conducted independently of any other services under conditions equivalent to those provided for under Directive 85/611/EEC by putting into place appropriate mechanisms; and
+
+— the investment firm exercises its voting rights independently from the parent undertaking.
+
+However, Articles 9 and 10 shall apply where the parent undertaking, or another controlled undertaking of the parent undertaking, has invested in holdings managed by such investment firm and the investment firm has no discretion to exercise the voting rights attached to such holdings and may only exercise such voting rights under direct or indirect instructions from the parent or another controlled undertaking of the parent undertaking.
+
+6\. Upon receipt of the notification under paragraph 1, but no later than three trading days thereafter, the issuer shall make public all the information contained in the notification.
+
+7\. A home Member State may exempt issuers from the requirement in paragraph 6 if the information contained in the notification is made public by its competent authority, under the conditions laid down in Article 21, upon receipt of the notification, but no later than three trading days thereafter.
+
+8\. In order to take account of technical developments on financial markets and to specify the requirements laid down in paragraphs 1, 2, 4, 5 and 6 of this Article, the Commission shall adopt, in accordance with Article 27(2a), (2b) and (2c), and subject to the conditions of Articles 27a and 27b, measures:
+
+(b) to determine a calendar of ‘trading days’ for all Member States;
+
+(c) to establish in which cases the shareholder, or the natural person or legal entity referred to in Article 10, or both, shall effect the necessary notification to the issuer;
+
+(d) to clarify the circumstances under which the shareholder, or the natural person or legal entity referred to in Article 10, should have learned of the acquisition or disposal;
+
+(e) to clarify the conditions of independence to be complied with by management companies and their parent undertakings or by investment firms and their parent undertakings to benefit from the exemptions in paragraphs 4 and 5.
+
+9\. In order to ensure the uniform conditions of application of this Article and to take account of technical developments on financial markets, the European Supervisory Authority (European Securities and Markets Authority) (hereinafter ‘ESMA’), established by Regulation (EU) No 1095/2010 of the European Parliament and of the Council ( 15 ) may develop draft implementing technical standards to establish standard forms, templates and procedures to be used when notifying the required information to the issuer under paragraph 1 of this Article or when filing information under Article 19(3).
+
+Power is conferred on the Commission to adopt the implementing technical standards referred to in the first subparagraph in accordance with Article 15 of Regulation (EU) No 1095/2010.
+
+#### Article 13
+
+1\. The notification requirements laid down in Article 9 shall also apply to a natural person or legal entity who holds, directly or indirectly:
+
+(a) financial instruments that, on maturity, give the holder, under a formal agreement, either the unconditional right to acquire or the discretion as to his right to acquire, shares to which voting rights are attached, already issued, of an issuer whose shares are admitted to trading on a regulated market;
+
+(b) financial instruments which are not included in point (a) but which are referenced to shares referred to in that point and with economic effect similar to that of the financial instruments referred to in that point, whether or not they confer a right to a physical settlement.
+
+The notification required shall include the breakdown by type of financial instruments held in accordance with point (a) and financial instruments held in accordance with point (b) of that subparagraph, distinguishing between the financial instruments which confer a right to a physical settlement and the financial instruments which confer a right to a cash settlement.
+
+1a. The number of voting rights shall be calculated by reference to the full notional amount of shares underlying the financial instrument except where the financial instrument provides exclusively for a cash settlement, in which case the number of voting rights shall be calculated on a ‘delta-adjusted’ basis, by multiplying the notional amount of underlying shares by the delta of the instrument. For this purpose, the holder shall aggregate and notify all financial instruments relating to the same underlying issuer. Only long positions shall be taken into account for the calculation of voting rights. Long positions shall not be netted with short positions relating to the same underlying issuer.
+
+ESMA shall develop draft regulatory technical standards to specify:
+
+(a) the method for calculating the number of voting rights referred to in the first subparagraph in the case of financial instruments referenced to a basket of shares or an index; and
+
+(b) the methods for determining delta for the purposes of calculating voting rights relating to financial instruments which provide exclusively for a cash settlement as required by the first subparagraph.
+
+ESMA shall submit those draft regulatory technical standards to the Commission by 27 November 2014.
+
+Power is delegated to the Commission to adopt the regulatory technical standards referred to in the second subparagraph of this paragraph in accordance with Articles 10 to 14 of Regulation (EU) No 1095/2010.
+
+1b. For the purposes of paragraph 1, the following shall be considered to be financial instruments, provided they satisfy any of the conditions set out in points (a) or (b) of the first subparagraph of paragraph 1:
+
+(a) transferable securities;
+
+(b) options;
+
+(c) futures;
+
+(d) swaps;
+
+(e) forward rate agreements;
+
+(f) contracts for differences; and
+
+(g) any other contracts or agreements with similar economic effects which may be settled physically or in cash.
+
+ESMA shall establish and periodically update an indicative list of financial instruments that are subject to notification requirements pursuant to paragraph 1, taking into account technical developments on financial markets.
+
+2\. The Commission shall be empowered to adopt, by means of delegated acts in accordance with Article 27(2a), (2b) and (2c), and subject to the conditions laid down by Articles 27a and 27b, the measures to specify the contents of the notification to be made, the notification period and to whom the notification is to be made as referred to in paragraph 1.
+
+3\. In order to ensure uniform conditions of application of paragraph 1 of this Article and to take account of technical developments on financial markets, ESMA may develop draft implementing technical standards to establish standard forms, templates and procedures to be used when notifying the required information to the issuer under paragraph 1 of this Article or when filing information under Article 19(3).
+
+Power is conferred on the Commission to adopt the implementing technical standards referred to in the first subparagraph in accordance with Article 15 of Regulation (EU) No 1095/2010.
+
+4\. The exemptions laid down in Article 9(4), (5) and (6) and in Article 12(3), (4) and (5) shall apply mutatis mutandis to the notification requirements under this Article.
+
+ESMA shall develop draft regulatory technical standards to specify the cases in which the exemptions referred to in the first subparagraph apply to financial instruments held by a natural person or a legal entity fulfilling orders received from clients or responding to a client’s requests to trade otherwise than on a proprietary basis, or hedging positions arising out of such dealings.
+
+ESMA shall submit those draft regulatory technical standards to the Commission by 27 November 2014.
+
+Power is delegated to the Commission to adopt the regulatory technical standards referred to in the second subparagraph of this paragraph in accordance with Articles 10 to 14 of Regulation (EU) No 1095/2010.
+
+#### Article 13a — Aggregation
+
+1\. The notification requirements laid down in Articles 9, 10 and 13 shall also apply to a natural person or a legal entity when the number of voting rights held directly or indirectly by such person or entity under Articles 9 and 10 aggregated with the number of voting rights relating to financial instruments held directly or indirectly under Article 13 reaches, exceeds or falls below the thresholds set out in Article 9(1).
+
+The notification required under the first subparagraph of this paragraph shall include a breakdown of the number of voting rights attached to shares held in accordance with Articles 9 and 10 and voting rights relating to financial instruments within the meaning of Article 13.
+
+2\. Voting rights relating to financial instruments that have already been notified in accordance with Article 13 shall be notified again when the natural person or the legal entity has acquired the underlying shares and such acquisition results in the total number of voting rights attached to shares issued by the same issuer reaching or exceeding the thresholds laid down by Article 9(1).
+
+#### Article 14
+
+1\. Where an issuer of shares admitted to trading on a regulated market acquires or disposes of its own shares, either itself or through a person acting in his own name but on the issuer's behalf, the home Member State shall ensure that the issuer makes public the proportion of its own shares as soon as possible, but not later than four trading days following such acquisition or disposal where that proportion reaches, exceeds or falls below the thresholds of 5 % or 10 % of the voting rights. The proportion shall be calculated on the basis of the total number of shares to which voting rights are attached.
+
+2\. The Commission shall adopt, by means of delegated acts in accordance with Article 27(2a), (2b) and (2c), and subject to the conditions of Articles 27a and 27b, measures in order to take account of technical developments on financial markets and to specify the requirements laid down in paragraph 1.
+
+#### Article 15
+
+For the purpose of calculating the thresholds provided for in Article 9, the home Member State shall at least require the disclosure to the public by the issuer of the total number of voting rights and capital at the end of each calendar month during which an increase or decrease of such total number has occurred.
+
+#### Article 16 — Additional information
+
+1\. The issuer of shares admitted to trading on a regulated market shall make public without delay any change in the rights attaching to the various classes of shares, including changes in the rights attaching to derivative securities issued by the issuer itself and giving access to the shares of that issuer.
+
+2\. The issuer of securities, other than shares admitted to trading on a regulated market, shall make public without delay any changes in the rights of holders of securities other than shares, including changes in the terms and conditions of these securities which could indirectly affect those rights, resulting in particular from a change in loan terms or in interest rates.
+
+### SECTION II — Information for holders of securities admitted to trading on a regulated market
+
+#### Article 17 — Information requirements for issuers whose shares are admitted to trading on a regulated market
+
+1\. The issuer of shares admitted to trading on a regulated market shall ensure equal treatment for all holders of shares who are in the same position.
+
+2\. The issuer shall ensure that all the facilities and information necessary to enable holders of shares to exercise their rights are available in the home Member State and that the integrity of data is preserved. Shareholders shall not be prevented from exercising their rights by proxy, subject to the law of the country in which the issuer is incorporated. In particular, the issuer shall:
+
+(a) provide information on the place, time and agenda of meetings, the total number of shares and voting rights and the rights of holders to participate in meetings;
+
+(b) make available a proxy form, on paper or, where applicable, by electronic means, to each person entitled to vote at a shareholders' meeting, together with the notice concerning the meeting or, on request, after an announcement of the meeting;
+
+(c) designate as its agent a financial institution through which shareholders may exercise their financial rights; and
+
+(d) publish notices or distribute circulars concerning the allocation and payment of dividends and the issue of new shares, including information on any arrangements for allotment, subscription, cancellation or conversion.
+
+3\. For the purposes of conveying information to shareholders, the home Member State shall allow issuers the use of electronic means, provided such a decision is taken in a general meeting and meets at least the following conditions:
+
+(a) the use of electronic means shall in no way depend upon the location of the seat or residence of the shareholder or, in the cases referred to in Article 10(a) to (h), of the natural persons or legal entities;
+
+(b) identification arrangements shall be put in place so that the shareholders, or the natural persons or legal entities entitled to exercise or to direct the exercise of voting rights, are effectively informed;
+
+(c) shareholders, or in the cases referred to in Article 10(a) to (e) the natural persons or legal entities entitled to acquire, dispose of or exercise voting rights, shall be contacted in writing to request their consent for the use of electronic means for conveying information and, if they do not object within a reasonable period of time, their consent shall be deemed to be given. They shall be able to request, at any time in the future, that information be conveyed in writing, and
+
+(d) any apportionment of the costs entailed in the conveyance of such information by electronic means shall be determined by the issuer in compliance with the principle of equal treatment laid down in paragraph 1.
+
+4\. The Commission shall adopt, by means of delegated acts in accordance with Article 27(2a), (2b) and (2c), and subject to the conditions of Articles 27a and 27b, measures in order to take account of technical developments on financial markets, to take account of developments in information and communication technology and to specify the requirements laid down in paragraphs 1, 2 and 3. The Commission shall, in particular, specify the types of financial institution through which a shareholder may exercise the financial rights provided for in paragraph 2(c).
+
+#### Article 18 — Information requirements for issuers whose debt securities are admitted to trading on a regulated market
+
+1\. The issuer of debt securities admitted to trading on a regulated market shall ensure that all holders of debt securities ranking pari passu are given equal treatment in respect of all the rights attaching to those debt securities.
+
+2\. The issuer shall ensure that all the facilities and information necessary to enable debt securities holders to exercise their rights are publicly available in the home Member State and that the integrity of data is preserved. Debt securities holders shall not be prevented from exercising their rights by proxy, subject to the law of country in which the issuer is incorporated. In particular, the issuer shall:
+
+(a) publish notices, or distribute circulars, concerning the place, time and agenda of meetings of debt securities holders, the payment of interest, the exercise of any conversion, exchange, subscription or cancellation rights, and repayment, as well as the right of those holders to participate therein;
+
+(b) make available a proxy form on paper or, where applicable, by electronic means, to each person entitled to vote at a meeting of debt securities holders, together with the notice concerning the meeting or, on request, after an announcement of the meeting; and
+
+(c) designate as its agent a financial institution through which debt securities holders may exercise their financial rights.
+
+3\. Where only holders of debt securities whose denomination per unit amounts to at least EUR 100 000 or, in the case of debt securities denominated in a currency other than euro whose denomination per unit is, at the date of the issue, equivalent to at least EUR 100 000 , are to be invited to a meeting, the issuer may choose as venue any Member State, provided that all the facilities and information necessary to enable such holders to exercise their rights are made available in that Member State.
+
+The choice referred to in the first subparagraph shall also apply with regard to holders of debt securities whose denomination per unit amounts to at least EUR 50 000 or, in the case of debt securities denominated in a currency other than euro, the value of such denomination per unit is, at the date of the issue, equivalent to at least EUR 50 000 , which have already been admitted to trading on a regulated market in the Union before 31 December 2010, for as long as such debt securities are outstanding, provided that all the facilities and information necessary to enable such holders to exercise their rights are made available in the Member State chosen by the issuer.
+
+4\. For the purposes of conveying information to debt securities holders, the home Member State, or the Member State chosen by the issuer pursuant to paragraph 3, shall allow issuers the use of electronic means, provided such a decision is taken in a general meeting and meets at least the following conditions:
+
+(a) the use of electronic means shall in no way depend upon the location of the seat or residence of the debt security holder or of a proxy representing that holder;
+
+(b) identification arrangements shall be put in place so that debt securities holders are effectively informed;
+
+(c) debt securities holders shall be contacted in writing to request their consent for the use of electronic means for conveying information and if they do not object within a reasonable period of time, their consent shall be deemed to be given. They shall be able to request, at any time in the future, that information be conveyed in writing; and
+
+(d) any apportionment of the costs entailed in the conveyance of information by electronic means shall be determined by the issuer in compliance with the principle of equal treatment laid down in paragraph 1.
+
+5\. The Commission shall adopt, by means of delegated acts in accordance with Article 27(2a), (2b) and (2c), and subject to the conditions of Articles 27a and 27b, measures in order to take account of technical developments on financial markets, to take account of developments in information and communication technology and to specify the requirements laid down in paragraphs 1 to 4. The Commission shall, in particular, specify the types of financial institution through which a debt security holder may exercise the financial rights provided for in paragraph 2(c).
+
+## CHAPTER IV — GENERAL OBLIGATIONS
+
+#### Article 19 — Home Member State control
+
+1\. Whenever the issuer, or any person having requested, without the issuer's consent, the admission of its securities to trading on a regulated market, discloses regulated information, it shall at the same time file that information with the competent authority of its home Member State. That competent authority may decide to publish such filed information on its Internet site.
+
+2\. The home Member State may exempt an issuer from the requirement under paragraph 1 in respect of information disclosed in accordance with Article 6 of Directive 2003/6/EC or Article 12(6) of this Directive.
+
+3\. Information to be notified to the issuer in accordance with Articles 9, 10, 12 and 13 shall at the same time be filed with the competent authority of the home Member State.
+
+4\. The Commission shall adopt, by means of delegated acts in accordance with Article 27(2a), (2b) and (2c), and subject to the conditions of Articles 27a and 27b, measures in order to specify the requirements laid down in paragraphs 1, 2 and 3.
+
+The Commission shall, in particular, specify the procedure in accordance with which an issuer, a holder of shares or other financial instruments, or a person or entity referred to in Article 10, is to file information with the competent authority of the home Member State under paragraph 1 or 3, respectively, in order to enable filing by electronic means in the home Member State.
+
+#### Article 20 — Languages
+
+1\. Where securities are admitted to trading on a regulated market only in the home Member State, regulated information shall be disclosed in a language accepted by the competent authority in the home Member State.
+
+2\. Where securities are admitted to trading on a regulated market both in the home Member State and in one or more host Member States, regulated information shall be disclosed:
+
+(a) in a language accepted by the competent authority in the home Member State; and
+
+(b) depending on the choice of the issuer, either in a language accepted by the competent authorities of those host Member States or in a language customary in the sphere of international finance.
+
+3\. Where securities are admitted to trading on a regulated market in one or more host Member States, but not in the home Member State, regulated information shall, depending on the choice of the issuer, be disclosed either in a language accepted by the competent authorities of those host Member States or in a language customary in the sphere of international finance.
+
+In addition, the home Member State may lay down in its law, regulations or administrative provisions that the regulated information shall, depending on the choice of the issuer, be disclosed either in a language accepted by its competent authority or in a language customary in the sphere of international finance.
+
+4\. Where securities are admitted to trading on a regulated market without the issuer's consent, the obligations under paragraphs 1, 2 and 3 shall be incumbent not upon the issuer, but upon the person who, without the issuer's consent, has requested such admission.
+
+5\. Member States shall allow shareholders and the natural person or legal entity referred to in Articles 9, 10 and 13 to notify information to an issuer under this Directive only in a language customary in the sphere of international finance. If the issuer receives such a notification, Member States may not require the issuer to provide a translation into a language accepted by the competent authorities.
+
+6\. By way of derogation from paragraphs 1 to 4, where securities whose denomination per unit amounts to at least EUR 100 000 or, in the case of debt securities denominated in a currency other than euro equivalent to at least EUR 100 000 at the date of the issue, are admitted to trading on a regulated market in one or more Member States, regulated information shall be disclosed to the public either in a language accepted by the competent authorities of the home and host Member States or in a language customary in the sphere of international finance, at the choice of the issuer or of the person who, without the issuer’s consent, has requested such admission.
+
+The derogation referred to in the first subparagraph shall also apply to debt securities the denomination per unit of which is at least EUR 50 000 or, in the case of debt securities denominated in a currency other than euro, the value of such denomination per unit is, at the date of the issue, equivalent to at least EUR 50 000 , which have already been admitted to trading on a regulated market in one or more Member States before 31 December 2010, for as long as such debt securities are outstanding.
+
+7\. If an action concerning the content of regulated information is brought before a court or tribunal in a Member State, responsibility for the payment of costs incurred in the translation of that information for the purposes of the proceedings shall be decided in accordance with the law of that Member State.
+
+#### Article 21 — Access to regulated information
+
+1\. The home Member State shall ensure that the issuer, or the person who has applied for admission to trading on a regulated market without the issuer's consent, discloses regulated information in a manner ensuring fast access to such information on a non-discriminatory basis and makes it available to the officially appointed mechanism referred to in paragraph 2. The issuer, or the person who has applied for admission to trading on a regulated market without the issuer's consent, may not charge investors any specific cost for providing the information. The home Member State shall require the issuer to use such media as may reasonably be relied upon for the effective dissemination of information to the public throughout the Community. The home Member State may not impose an obligation to use only media whose operators are established on its territory.
+
+2\. The home Member State shall ensure that there is at least one officially appointed mechanism for the central storage of regulated information. These mechanisms should comply with minimum quality standards of security, certainty as to the information source, time recording and easy access by end users and shall be aligned with the filing procedure under Article 19(1).
+
+3\. Where securities are admitted to trading on a regulated market in only one host Member State and not in the home Member State, the host Member State shall ensure disclosure of regulated information in accordance with the requirements referred to in paragraph 1.
+
+4\. The Commission shall be empowered to adopt, by means of delegated acts in accordance with Article 27(2a), (2b) and (2c), and subject to the conditions laid down in Articles 27a and 27b, measures to specify the following:
+
+(a) minimum standards for the dissemination of regulated information, as referred to in paragraph 1;
+
+(b) minimum standards for the central storage mechanisms as referred to in paragraph 2;
+
+(c) rules to ensure the interoperability of the information and communication technologies used by the mechanisms referred to in paragraph 2 and access to regulated information at the Union level, referred to therein.
+
+The Commission may also specify and update a list of media for the dissemination of information to the public.
+
+#### Article 22 — Access to regulated information at Union level
+
+1\. ESMA shall develop draft regulatory technical standards setting technical requirements regarding access to regulated information at Union level in order to specify the following:
+
+(a) the technical requirements regarding communication technologies used by the mechanisms referred to in Article 21(2);
+
+(b) the technical requirements for the operation of the central access point for the search for regulated information at Union level;
+
+(c) the technical requirements regarding the use of a unique identifier for each issuer by the mechanisms referred to in Article 21(2);
+
+(d) the common format for the delivery of regulated information by the mechanisms referred to in Article 21(2);
+
+(e) the common classification of regulated information by the mechanisms referred to in Article 21(2) and the common list of types of regulated information.
+
+2\. In developing the draft regulatory technical standards, ESMA shall take into account the technical requirements for the system of interconnection of business registers established by Directive 2012/17/EU of the European Parliament and of the Council ( 16 ).
+
+ESMA shall submit those draft regulatory technical standards to the Commission by 27 November 2015.
+
+Power is delegated to the Commission to adopt the regulatory technical standards referred to in the first subparagraph of this paragraph in accordance with Articles 10 to 14 of Regulation (EU) No 1095/2010.
+
+#### Article 23 — Third countries
+
+1\. Where the registered office of an issuer is situated in a third country, the competent authority of the home Member State may exempt that issuer from requirements under Articles 4 to 7, Article 12(6) and Articles 14 to 18, provided that the law of the third country in question lays down equivalent requirements or such an issuer complies with requirements of the law of a third country that the competent authority of the home Member State considers as equivalent.
+
+The competent authority shall then inform ESMA of the exemption granted.
+
+The information covered by the requirements laid down in the third country shall be filed in accordance with Article 19 and disclosed in accordance with Articles 20 and 21.
+
+2\. By way of derogation from paragraph 1, an issuer whose registered office is in a third country shall be exempted from preparing its financial statement in accordance with Article 4 or Article 5 prior to the financial year starting on or after 1 January 2007, provided such issuer prepares its financial statements in accordance with internationally accepted standards referred to in Article 9 of Regulation (EC) No 1606/2002.
+
+3\. The competent authority of the home Member State shall ensure that information disclosed in a third country which may be of importance for the public in the Community is disclosed in accordance with Articles 20 and 21, even if such information is not regulated information within the meaning of Article 2(1)(k).
+
+4\. In order to ensure the uniform conditions of application of paragraph 1, the Commission shall adopt, in accordance with the procedure referred to in Article 27(2), implementing measures:
+
+(i) setting up a mechanism ensuring the establishment of equivalence of information required under this Directive, including financial statements and information, required under the law, regulations or administrative provisions of a third country;
+
+(ii) stating that, by reason of its domestic law, regulations, administrative provisions, or of the practices or procedures based on the international standards set by international organisations, the third country where the issuer is registered ensures the equivalence of the information requirements provided for in this Directive.
+
+In the context of point (ii) of the first subparagraph, the Commission shall also adopt, by means of delegated acts in accordance with Article 27(2a), (2b) and (2c), and subject to the conditions of Articles 27a and 27b, measures concerning the assessment of standards relevant to the issuers of more than one country.
+
+The Commission shall, in accordance with the procedure referred to in Article 27(2) of this Directive, take the necessary decisions on the equivalence of accounting standards under the conditions set out in Article 30(3) of this Directive and on the equivalence of sustainability reporting standards as referred to in Article 29b of Directive 2013/34/EU which are used by third-country issuers. If the Commission decides that the accounting standards or the sustainability reporting standards of a third country are not equivalent, it may allow the issuers concerned to continue using such standards during an appropriate transitional period.
+
+In the context of the third subparagraph of this paragraph, the Commission shall also adopt, by means of delegated acts adopted in accordance with Article 27(2a), (2b) and (2c), and subject to the conditions laid down in Articles 27a and 27b, measures that aim to establish general equivalence criteria regarding accounting standards and sustainability reporting standards relevant to issuers of more than one country.
+
+The criteria that the Commission shall use when assessing the equivalence of sustainability reporting standards used by third-country issuers referred to in the third subparagraph shall at least ensure the following:
+
+(a) that the sustainability reporting standards require undertakings to disclose information on environmental, social and governance factors;
+
+(b) that the sustainability reporting standards require undertakings to disclose information necessary to understand their impacts on sustainability matters, and information necessary to understand how sustainability matters affect their development, performance and position.
+
+5\. In order to specify the requirements laid down in paragraph 2, the Commission may adopt, by means of delegated acts in accordance with Article 27(2a), (2b) and (2c), and subject to the conditions of Articles 27a and 27b, measures defining the type of information disclosed in a third country that is of importance to the public in the Union.
+
+6\. Undertakings whose registered office is in a third country which would have required an authorisation in accordance with Article 5(1) of Directive 85/611/EEC or, with regard to portfolio management under point 4 of section A of Annex I to Directive 2004/39/EC if it had its registered office or, only in the case of an investment firm, its head office within the Community, shall also be exempted from aggregating holdings with the holdings of its parent undertaking under the requirements laid down in Article 12(4) and (5) provided that they comply with equivalent conditions of independence as management companies or investment firms.
+
+7\. In order to take account of technical developments in financial markets and to ensure the uniform application of paragraph 6, the Commission shall, in accordance with the procedure referred to in Article 27(2), adopt implementing measures stating that, by reason of its domestic law, regulations, or administrative provisions, a third country ensures the equivalence of the independence requirements provided for under this Directive and its implementing measures.
+
+The Commission shall also adopt, by means of delegated acts in accordance with Article 27(2a), (2b) and (2c), and subject to the conditions of Articles 27a and 27b, measures aimed at establishing general equivalence criteria for the purpose of the first subparagraph.
+
+8\. ESMA shall assist the Commission in carrying out its tasks under this Article in accordance with Article 33 of Regulation (EU) No 1095/2010.
+
+#### Article 23a — Accessibility of information on the European single access point
+
+1\. From 10 July 2026, Member States shall ensure that, when disclosing regulated information referred to in Article 21(1) of this Directive, the issuer or the person who has applied for admission to trading on a regulated market without the issuer’s consent shall submit that regulated information at the same time to the collection body referred to in paragraph 3 of this Article for the purpose of making it accessible on the European single access point (ESAP) established under Regulation (EU) 2023/2859 of the European Parliament and of the Council ( 17 ).
+
+Member States shall ensure that the regulated information complies with the following requirements:
+
+(a) be submitted in a data extractable format as defined in Article 2, point (3), of Regulation (EU) 2023/2859 or, where required by Union or national law, in a machine-readable format, as defined in Article 2, point (4), of that Regulation;
+
+(b) be accompanied by the following metadata:
+
+(i) all the names of the issuer to which the information relates;
+
+(ii) the legal entity identifier of the issuer, as specified pursuant to Article 7(4), point (b), of Regulation (EU) 2023/2859;
+
+(iii) the size of the issuer by category, as specified pursuant to Article 7(4), point (d), of that Regulation;
+
+(iv) the industry sector(s) of the economic activities of the issuer, as specified pursuant to Article 7(4), point (e), of that Regulation;
+
+(v) the type of information, as classified pursuant to Article 7(4), point (c), of that Regulation;
+
+(vi) an indication of whether the information contains personal data.
+
+2\. For the purposes of paragraph 1, point (b)(ii), Member States shall require issuers to obtain a legal entity identifier.
+
+3\. For the purpose of making the information referred to in paragraph 1 of this Article accessible on ESAP, the collection body as defined in Article 2, point (2), of Regulation (EU) 2023/2859 shall be the officially appointed mechanism designated under Article 21(2) of this Directive.
+
+4\. From 10 July 2026, Member States shall ensure that the information referred to in Article 29(1) of this Directive is made accessible on ESAP. For that purpose, the collection body as defined in Article 2, point (2), of Regulation (EU) 2023/2859 shall be the competent authority pursuant to this Directive.
+
+Member States shall ensure that the information complies with the following requirements:
+
+(a) be submitted in a data extractable format as defined in Article 2, point (3), of Regulation (EU) 2023/2859;
+
+(b) be accompanied by the following metadata:
+
+(i) all the names of the natural person or legal entity to which the information relates;
+
+(ii) where available, the legal entity identifier of the legal entity, as specified pursuant to Article 7(4), point (b), of Regulation (EU) 2023/2859;
+
+(iii) the type of information, as classified pursuant to Article 7(4), point (c), of that Regulation;
+
+(iv) an indication of whether the information contains personal data.
+
+5\. For the purpose of ensuring the efficient collection and management of regulated information submitted in accordance with paragraph 1, ESMA shall develop draft implementing technical standards to specify the following:
+
+(a) any other metadata to accompany that information, including the half-yearly financial report referred to in Article 5(1);
+
+(b) the structuring of the data and the machine-readable format applicable to the information referred to in point (a) of this subparagraph.
+
+For the purposes of point (b), ESMA shall assess the advantages and disadvantages of different machine-readable formats and conduct appropriate field tests.
+
+ESMA shall submit those draft implementing technical standards to the Commission.
+
+Power is conferred on the Commission to adopt the implementing technical standards referred to in the first subparagraph of this paragraph in accordance with Article 15 of Regulation (EU) No 1095/2010.
+
+6\. Where necessary, ESMA shall adopt guidelines to ensure that the metadata submitted in accordance with paragraph 5, first subparagraph, point (a), are correct.
+
+## CHAPTER V — COMPETENT AUTHORITIES
+
+#### Article 24 — Competent authorities and their powers
+
+1\. Each Member State shall designate the central authority referred to in Article 21(1) of Directive 2003/71/EC as the central competent administrative authority responsible for carrying out the obligations provided for in this Directive and for ensuring that the provisions adopted pursuant to this Directive are applied. Member States shall inform the Commission and ESMA accordingly.
+
+However, for the purpose of paragraph 4(h) Member States may designate a competent authority other than the central competent authority referred to in the first subparagraph.
+
+2\. Member States may allow their central competent authority to delegate tasks. Except for the tasks referred to in paragraph 4(h), any delegation of tasks relating to the obligations provided for in this Directive and in its implementing measures shall be reviewed five years after the entry into force of this Directive and shall end eight years after the entry into force of this Directive. Any delegation of tasks shall be made in a specific manner stating the tasks to be undertaken and the conditions under which they are to be carried out.
+
+Those conditions shall include a clause requiring the entity in question to be organised in a manner such that conflicts of interest are avoided and information obtained from carrying out the delegated tasks is not used unfairly or to prevent competition. In any case, the final responsibility for supervising compliance with the provisions of this Directive and implementing measures adopted pursuant thereto shall lie with the competent authority designated in accordance with paragraph 1.
+
+3\. Member States shall inform the Commission, ESMA in accordance with Article 28(4) of Regulation (EU) No 1095/2010, and competent authorities of other Member States of any arrangements entered into with regard to the delegation of tasks, including the precise conditions for regulating the delegations.
+
+4\. Each competent authority shall have all the powers necessary for the performance of its functions. It shall at least be empowered to:
+
+(a) require auditors, issuers, holders of shares or other financial instruments, or persons or entities referred to in Articles 10 or 13, and the persons that control them or are controlled by them, to provide information and documents;
+
+(b) require the issuer to disclose the information required under point (a) to the public by the means and within the time limits the authority considers necessary. It may publish such information on its own initiative in the event that the issuer, or the persons that control it or are controlled by it, fail to do so and after having heard the issuer;
+
+(c) require managers of the issuers and of the holders of shares or other financial instruments, or of persons or entities referred to in Articles 10 or 13, to notify the information required under this Directive, or under national law adopted in accordance with this Directive, and, if necessary, to provide further information and documents;
+
+(d) suspend, or request the relevant regulated market to suspend, trading in securities for a maximum of ten days at a time if it has reasonable grounds for suspecting that the provisions of this Directive, or of national law adopted in accordance with this Directive, have been infringed by the issuer;
+
+(e) prohibit trading on a regulated market if it finds that the provisions of this Directive, or of national law adopted in accordance with this Directive, have been infringed, or if it has reasonable grounds for suspecting that the provisions of this Directive have been infringed;
+
+(f) monitor that the issuer discloses timely information with the objective of ensuring effective and equal access to the public in all Member States where the securities are traded and take appropriate action if that is not the case;
+
+(g) make public the fact that an issuer, or a holder of shares or other financial instruments, or a person or entity referred to in Articles 10 or 13, is failing to comply with its obligations;
+
+(h) examine that information referred to in this Directive is drawn up in accordance with the relevant reporting framework and take appropriate measures in case of discovered infringements; and
+
+(i) carry out on-site inspections in its territory in accordance with national law, in order to verify compliance with the provisions of this Directive and its implementing measures. Where necessary under national law, the competent authority or authorities may use this power by applying to the relevant judicial authority and/or in cooperation with other authorities.
+
+4a. Without prejudice to paragraph 4, competent authorities shall be given all investigative powers that are necessary for the exercise of their functions. Those powers shall be exercised in conformity with national law.
+
+4b. Competent authorities shall exercise their sanctioning powers, in accordance with this Directive and national law, in any of the following ways:
+
+— directly,
+
+— in collaboration with other authorities,
+
+— under their responsibility by delegation to such authorities,
+
+— by application to the competent judicial authorities.
+
+5\. Paragraphs 1 to 4 shall be without prejudice to the possibility for a Member State to make separate legal and administrative arrangements for overseas European territories for whose external relations that Member State is responsible.
+
+6\. The disclosure to competent authorities by the auditors of any fact or decision related to the requests made by the competent authority under paragraph (4)(a) shall not constitute a breach of any restriction on disclosure of information imposed by contract or by any law, regulation or administrative provision and shall not involve such auditors in liability of any kind.
+
+#### Article 25 — Professional secrecy and cooperation between Member States
+
+1\. The obligation of professional secrecy shall apply to all persons who work or who have worked for the competent authority and for entities to which competent authorities may have delegated certain tasks. Information covered by professional secrecy may not be disclosed to any other person or authority except by virtue of the laws, regulations or administrative provisions of a Member State.
+
+2\. Competent authorities of the Member States shall cooperate with each other, whenever necessary, for the purpose of carrying out their duties and making use of their powers, whether set out in this Directive or in national law adopted pursuant to this Directive. Competent authorities shall render assistance to competent authorities of other Member States.
+
+In the exercise of their sanctioning and investigative powers, competent authorities shall cooperate to ensure that sanctions or measures produce the desired results, and shall coordinate their action when dealing with cross-border cases.
+
+2a. The competent authorities may refer to ESMA situations where a request for cooperation has been rejected or has not been acted upon within a reasonable time. Without prejudice to the Article 258 of the Treaty on the Functioning of the European Union (TFEU), ESMA may, in situations referred to in the first sentence, act in accordance with the powers conferred on it under Article 19 of Regulation (EU) No 1095/2010.
+
+2b. The competent authorities shall cooperate with ESMA for the purposes of this Directive, in accordance with Regulation (EU) No 1095/2010.
+
+2c. The competent authorities shall without delay provide ESMA with all information necessary to carry out its duties under this Directive and under Regulation (EU) No 1095/2010, in accordance with Article 35 of that Regulation.
+
+3\. Paragraph 1 shall not prevent the competent authorities from exchanging confidential information with, or from transmitting information to, other competent authorities, ESMA and the European Systemic Risk Board (ESRB) established by Regulation (EU) No 1092/2010 of the European Parliament and of the Council of 24 November 2010 on European Union macro-prudential oversight of the financial system and establishing a European Systemic Risk Board ( 18 ).  Information thus exchanged shall be covered by the obligation of professional secrecy to which the persons employed or formerly employed by the competent authorities receiving the information are subject.
+
+4\. Member States and ESMA in accordance with Article 33 of Regulation (EU) No 1095/2010, may conclude cooperation agreements providing for the exchange of information with the competent authorities or bodies of third countries enabled by their respective legislation to carry out any tasks under this Directive in accordance with Article 24. Member States shall notify ESMA when they conclude cooperation agreements. Such an exchange of information is subject to guarantees of professional secrecy at least equivalent to those referred to in this Article. Such an exchange of information shall be intended for the performance of the supervisory task of the authorities or bodies mentioned. Where the information originates in another Member State, it shall not be disclosed without the express agreement of the competent authorities which disclosed it and, where appropriate, solely for the purposes for which those authorities gave their agreement.
+
+#### Article 26 — Precautionary measures
+
+1\. Where the competent authority of a host Member State finds that the issuer or the holder of shares or other financial instruments, or the person or entity referred to in Article 10, has committed irregularities or infringed its obligations, it shall refer its findings to the competent authority of the home Member State and to ESMA.
+
+2\. If, despite the measures taken by the competent authority of the home Member State, or because such measures prove inadequate, the issuer or the security holder persists in infringing the relevant legal or regulatory provisions, the competent authority of the host Member State shall, after informing the competent authority of the home Member State, take, in accordance with Article 3(2), all the appropriate measures in order to protect investors, informing the Commission and ESMA thereof at the earliest opportunity.
+
+## CHAPTER VI — DELEGATED ACTS AND IMPLEMENTING MEASURES
+
+#### Article 27 — Committee procedure
+
+1\. The Commission shall be assisted by the European Securities Committee, instituted by Article 1 of Decision 2001/528/EC.
+
+2\. Where reference is made to this paragraph, Articles 5 and 7 of Decision 1999/468/EC shall apply, having regard to the provisions of Article 8 thereof, provided that the implementing measures adopted in accordance with that procedure do not modify the essential provisions of this Directive.
+
+The period laid down in Article 5(6) of Decision 1999/468/EC shall be set at three months.
+
+2a. The power to adopt the delegated acts referred to in Article 2(3), Article 5(6), Article 9(7), Article 12(8), Article 13(2), Article 14(2), Article 17(4), Article 18(5), Article 19(4), Article 21(4), Article 23(4), Article 23(5) and Article 23(7) shall be conferred on the Commission for a period of 4 years from 4 January 2011. The Commission shall draw up a report in respect of delegated power at the latest 6 months before the end of the four-year period. The delegation of power shall be automatically extended for periods of an identical duration, unless the European Parliament or the Council revokes it in accordance with Article 27a.
+
+2b. As soon as it adopts a delegated act, the Commission shall notify it simultaneously to the European Parliament and to the Council.
+
+2c. The power to adopt delegated acts is conferred on the Commission subject to the conditions laid down in Articles 27a and 27b.
+
+3\. By 31 December 2010, and, thereafter, at least every three years, the Commission shall review the provisions concerning its implementing powers and present a report to the European Parliament and to the Council on the functioning of those powers. The report shall examine, in particular, the need for the Commission to propose amendments to this Directive in order to ensure the appropriate scope of the implementing powers conferred on the Commission. The conclusion as to whether or not amendment is necessary shall be accompanied by a detailed statement of reasons. If necessary, the report shall be accompanied by a legislative proposal to amend the provisions conferring implementing powers on the Commission.
+
+#### Article 27a — Revocation of the delegation
+
+1\. The delegation of power referred to in Article 2(3), Article 5(6), Article 9(7), Article 12(8), Article 13(2), Article 14(2), Article 17(4), Article 18(5), Article 19(4) Article 21(4), Article 23(4), Article 23(5) and Article 23(7) may be revoked at any time by the European Parliament or by the Council.
+
+2\. The institution which has commenced an internal procedure for deciding whether to revoke a delegation of power shall endeavour to inform the other institution and the Commission within a reasonable time before the final decision is taken, indicating the delegated power which could be subject to revocation.
+
+3\. The decision of revocation shall put an end to the delegation of the power specified in that decision. It shall take effect immediately or at a later date specified therein. It shall not affect the validity of the delegated acts already in force. It shall be published in the Official Journal of the European Union.
+
+#### Article 27b — Objections to delegated acts
+
+1\. The European Parliament or the Council may object to a delegated act within a period of 3 months from the date of notification. At the initiative of the European Parliament or the Council that period shall be extended by 3 months.
+
+2\. If, on the expiry of the period referred to in paragraph 1, neither the European Parliament nor the Council has objected to the delegated act, it shall be published in the Official Journal of the European Union and shall enter into force on the date stated therein.
+
+The delegated act may be published in the Official Journal of the European Union and enter into force before the expiry of that period if the European Parliament and the Council have both informed the Commission of their intention not to raise objections.
+
+3\. If either the European Parliament or the Council objects to a delegated act within the period referred to in paragraph 1, it shall not enter into force. In accordance with Article 296 TFEU, the institution which objects shall state the reasons for objecting to the delegated act.
+
+## CHAPTER VIA — SANCTIONS AND MEASURES
+
+#### Article 28 — Administrative measures and sanctions
+
+1\. Without prejudice to the powers of competent authorities in accordance with Article 24 and the right of Member States to provide for and impose criminal sanctions, Member States shall lay down rules on administrative measures and sanctions applicable to breaches of the national provisions adopted in transposition of this Directive and shall take all measures necessary to ensure that they are implemented. Those administrative measures and sanctions shall be effective, proportionate and dissuasive.
+
+2\. Without prejudice to Article 7, Member States shall ensure that where obligations apply to legal entities, in the event of a breach, sanctions can be applied, subject to the conditions laid down in national law, to the members of administrative, management or supervisory bodies of the legal entity concerned, and to other individuals who are responsible for the breach under national law.
+
+#### Article 28a — Breaches
+
+Article 28b shall apply at least to the following breaches:
+
+(a) failure by the issuer to make public, within the required time limit, information required under the national provisions adopted in transposition of Articles 4, 5, 6, 14 and 16;
+
+(b) failure by the natural or the legal person to notify, within the required time limit, the acquisition or disposal of a major holding in accordance with the national provisions adopted in transposition of Articles 9, 10, 12, 13 and 13a.
+
+#### Article 28b — Sanctioning powers
+
+1\. In the case of breaches referred to in Article 28a, competent authorities shall have the power to impose at least the following administrative measures and sanctions:
+
+(a) a public statement indicating the natural person or the legal entity responsible and the nature of the breach;
+
+(b) an order requiring the natural person or the legal entity responsible to cease the conduct constituting the breach and to desist from any repetition of that conduct;
+
+(c) administrative pecuniary sanctions of;
+
+(i) in the case of a legal entity,
+
+— up to EUR 10 000 000 or up to 5 % of the total annual turnover according to the last available annual accounts approved by the management body; where the legal entity is a parent undertaking or a subsidiary of a parent undertaking which has to prepare consolidated financial accounts pursuant to Directive 2013/34/EU, the relevant total turnover shall be the total annual turnover or the corresponding type of income pursuant to the relevant accounting Directives according to the last available consolidated annual accounts approved by the management body of the ultimate parent undertaking, or
+
+— up to twice the amount of the profits gained or losses avoided because of the breach, where those can be determined,
+
+whichever is higher;
+
+(ii) in the case of a natural person:
+
+— up to EUR 2 000 000 , or
+
+— up to twice the amount of the profits gained or losses avoided because of the breach, where those can be determined,
+
+whichever is higher.
+
+In Member States where the euro is not the official currency, the corresponding value to euro in the national currency shall be calculated taking into account the official exchange rate on the date of entry into force of Directive 2013/50/EU of the European Parliament and of the Council of 22 October 2013 amending Directive 2004/109/EC of the European Parliament and of the Council on the harmonisation of transparency requirements in relation to information about issuers whose securities are admitted to trading on a regulated market, Directive 2003/71/EC of the European Parliament and of the Council on the prospectus to be published when securities are offered to the public or admitted to trading and Commission Directive 2007/14/EC laying down detailed rules for the implementation of certain provisions of Directive 2004/109/EC ( 19 ).
+
+2\. Without prejudice to the powers of competent authorities under Article 24 and the right of Member States to impose criminal sanctions, Member States shall ensure that their laws, regulations or administrative provisions provide for the possibility of suspending the exercise of voting rights attached to shares in the event of breaches as referred to in point (b) of Article 28a. Member States may provide that the suspension of voting rights is to apply only to the most serious breaches.
+
+3\. Member States may provide for additional sanctions or measures and for higher levels of administrative pecuniary sanctions than those provided for in this Directive.
+
+#### Article 28c — Exercise of sanctioning powers
+
+1\. Member States shall ensure that, when determining the type and level of administrative sanctions or measures, the competent authorities take into account all relevant circumstances, including where appropriate:
+
+(a) the gravity and the duration of the breach;
+
+(b) the degree of responsibility of the natural person or legal entity responsible;
+
+(c) the financial strength of the natural person or legal entity responsible, for example as indicated by the total turnover of the legal entity responsible or the annual income of the natural person responsible;
+
+(d) the importance of profits gained or losses avoided by the natural person or legal entity responsible, in so far as they can be determined;
+
+(e) the losses sustained by third parties as a result of the breach, in so far as they can be determined;
+
+(f) the level of cooperation of the natural person or legal entity responsible with the competent authority;
+
+(g) previous breaches by the natural person or legal entity responsible.
+
+2\. The processing of personal data collected in or for the exercise of the supervisory and investigatory powers in accordance with this Directive shall be carried out in accordance with Directive 95/46/EC and Regulation (EC) No 45/2001 where relevant.
+
+#### Article 28d — ESMA guidelines
+
+After consulting the European Environment Agency and the European Union Agency for Fundamental Rights, ESMA shall issue guidelines in accordance with Article 16 of Regulation (EU) No 1095/2010 on the supervision of sustainability reporting by national competent authorities.
+
+## CHAPTER VIB — PUBLICATION OF DECISIONS
+
+#### Article 29 — Publication of decisions
+
+1\. Member States shall provide that competent authorities are to publish every decision on sanctions and measures imposed for a breach of this Directive without undue delay, including at least information on the type and nature of the breach and the identity of natural persons or legal entities responsible for it.
+
+However, competent authorities may delay publication of a decision, or may publish the decision on an anonymous basis in a manner which is in conformity with national law, in any of the following circumstances:
+
+(a) where, in the event that the sanction is imposed on a natural person, publication of personal data is found to be disproportionate by an obligatory prior assessment of the proportionality of such publication;
+
+(b) where publication would seriously jeopardise the stability of the financial system or an ongoing official investigation;
+
+(c) where publication would, in so far as can be determined, cause disproportionate and serious damage to the institutions or natural persons involved.
+
+2\. If an appeal is submitted against the decision published under paragraph 1, the competent authority shall be obliged either to include information to that effect in the publication at the time of the publication or to amend the publication if the appeal is submitted after the initial publication.
+
+## CHAPTER VII — TRANSITIONAL AND FINAL PROVISIONS
+
+#### Article 30 — Transitional provisions
+
+1\. By way of derogation from Article 5(3) of this Directive, the home Member State may exempt from disclosing financial statements in accordance with Regulation (EC) No 1606/2002 issuers referred to in Article 9 of that Regulation for the financial year starting on or after 1 January 2006.
+
+2\. Notwithstanding Article 12(2), a shareholder shall notify the issuer at the latest two months after the date in Article 31(1) of the proportion of voting rights and capital it holds, in accordance with Articles 9, 10 and 13, with issuers at that date, unless it has already made a notification containing equivalent information before that date.
+
+Notwithstanding Article 12(6), an issuer shall in turn disclose the information received in those notifications no later than three months after the date in Article 31(1).
+
+3\. Where an issuer is incorporated in a third country, the home Member State may exempt such issuer only in respect of those debt securities which have already been admitted to trading on a regulated market in the Community prior to 1 January 2005 from drawing up its financial statements in accordance with Article 4(3) and its management report in accordance with Article 4(5) as long as
+
+(a) the competent authority of the home Member State acknowledges that annual financial statements prepared by issuers from such a third country give a true and fair view of the issuer's assets and liabilities, financial position and results;
+
+(b) the third country where the issuer is incorporated has not made mandatory the application of international accounting standards referred to in Article 2 of Regulation (EC) No 1606/2002; and
+
+(c) the Commission has not taken any decision in accordance with Article 23(4)(ii) as to whether there is an equivalence between the abovementioned accounting standards and
+
+— the accounting standards laid down in the law, regulations or administrative provisions of the third country where the issuer is incorporated, or
+
+— the accounting standards of a third country such an issuer has elected to comply with.
+
+4\. The home Member State may exempt issuers only in respect of those debt securities which have already been admitted to trading on a regulated market in the Community prior to 1 January 2005 from disclosing half-yearly financial report in accordance with Article 5 for 10 years following 1 January 2005, provided that the home Member State had decided to allow such issuers to benefit from the provisions of Article 27 of Directive 2001/34/EC at the point of admission of those debt securities.
+
+#### Article 31 — Transposition
+
+1\. Member States shall take the necessary measures to comply with this Directive by 20 January 2007. They shall forthwith inform the Commission thereof.
+
+When Member States adopt these measures, they shall contain a reference to this Directive or shall be accompanied by such reference on the occasion of their official publication. The methods of making such reference shall be laid down by Member States.
+
+2\. Where Member States adopt measures pursuant to Article 3(1), 8(2) or 8(3) or Article 30, they shall immediately communicate those measures to the Commission and to the other Member States.
+
+#### Article 32 — Amendments
+
+With effect from the date specified in Article 31(1), Directive 2001/34/EC shall be amended as follows:
+
+(1) In Article 1, points (g) and (h) shall be deleted;
+
+(2) Article 4 shall be deleted;
+
+(3) In Article 6, paragraph 2 shall be deleted;
+
+(4) In Article 8, paragraph 2 shall be replaced by the following:
+
+‘2. Member States may make the issuers of securities admitted to official listing subject to additional obligations, provided that those additional obligations apply generally for all issuers or for individual classes of issuers’;
+
+(5) Articles 65 to 97 shall be deleted;
+
+(6) Articles 102 and 103 shall be deleted;
+
+(7) In Article 107(3), the second subparagraph shall be deleted;
+
+(8) In Article 108, paragraph 2 shall be amended as follows:
+
+(a) in point (a), the words ‘periodic information to be published by the companies of which shares are admitted’ shall be deleted;
+
+(b) point (b) shall be deleted;
+
+(c) point (c)(iii) shall be deleted;
+
+(d) point (d) shall be deleted.
+
+References made to the repealed provisions shall be construed as being made to the provisions of this Directive.
+
+#### Article 33 — Review
+
+The Commission shall by 30 June 2009 report on the operation of this Directive to the European Parliament and to the Council including the appropriateness of ending the exemption for existing debt securities after the 10-year period as provided for by Article 30(4) and its potential impact on the European financial markets.
+
+#### Article 34 — Entry into force
+
+This Directive shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+
+#### Article 35 — Addressees
+
+This Directive is addressed to the Member States.
+
+( 1 ) OJ L 145, 30.4.2004, p. 1.
+
+( 2 ) OJ L 96, 12.4.2003, p. 16.
+
+( 3 ) OJ L 375, 31.12.1985, p. 3. Directive as last amended by Directive 2004/39/EC.
+
+( 4 ) OJ L 126, 26.5.2000, p. 1. Directive as last amended by Commission Directive 2004/69/EC (OJ L 125, 28.4.2004, p. 44).
+
+( 5 ) Directive 2013/34/EU of the European Parliament and of the Council of 26 June 2013 on the annual financial statements, consolidated financial statements and related reports of certain types of undertakings, amending Directive 2006/43/EC of the European Parliament and of the Council and repealing Council Directives 78/660/EEC and 83/349/EEC (OJ L 182, 29.6.2013, p. 19).
+
+( 6 ) OJ L 204, 21.7.1998, p. 37. Directive as last amended by Council Directive 2006/96/EC (OJ L 363, 20.12.2006, p. 81).
+
+( 7 ) OJ L 142, 30.4.2004, p. 12.
+
+( 8 ) Regulation (EU) 2020/852 of the European Parliament and of the Council of 18 June 2020 on the establishment of a framework to facilitate sustainable investment, and amending Regulation (EU) 2019/2088 (OJ L 198, 22.6.2020, p. 13).
+
+( 9 ) OJ L 193, 18.7.1983, p. 1. Directive as last amended by Directive 2003/51/EC of the European Parliament and of the Council (OJ L 178, 17.7.2003, p. 16).
+
+( 10 ) Directive 2006/43/EC of the European Parliament and of the Council of 17 May 2006 on statutory audits of annual accounts and consolidated accounts, amending Council Directives 78/660/EEC and 83/349/EEC and repealing Council Directive 84/253/EEC (OJ L 157, 9.6.2006, p. 87).
+
+( 11 ) Regulation (EU) No 1095/2010 of the European Parliament and of the Council of 24 November 2010 establishing a European Supervisory Authority (European Securities and Markets Authority), amending Decision No 716/2009/EC and repealing Commission Decision 2009/77/EC (OJ L 331, 15.12.2010, p. 84).
+
+( 12 ) OJ L 182, 29.6.2013, p. 19.
+
+( 13 ) OJ L 177, 30.6.2006, p. 201.
+
+( 14 ) OJ L 336, 23.12.2003, p. 33.
+
+( 15 ) OJ L 331, 15.12.2010, p. 84.
+
+( 16 ) OJ L 156, 16.6.2012, p. 1.
+
+( 17 ) Regulation (EU) 2023/2859 of the European Parliament and of the Council of 13 December 2023 establishing a European single access point providing centralised access to publicly available information of relevance to financial services, capital markets and sustainability (OL L, 2023/2859, 20.12.2023, ELI: http://data.europa.eu/eli/reg/2023/2859/oj).
+
+( 18 ) OJ L 331, 15.12.2010, p. 1.
+
+( 19 ) OJ L 294, 6.11.2013, p. 13.

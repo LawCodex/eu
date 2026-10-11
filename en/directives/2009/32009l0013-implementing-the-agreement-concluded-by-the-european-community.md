@@ -1,0 +1,805 @@
+---
+title: "Council Directive 2009/13/EC of 16 February 2009 implementing the Agreement concluded by the European Community Shipowners’ Associations (ECSA) and the European Transport Workers’ Federation (ETF) on the Maritime Labour Convention, 2006, and amending Directive 1999/63/EC"
+identifier: "32009L0013"
+eli: "http://data.europa.eu/eli/dir/2009/13/oj"
+type: directive
+jurisdiction: eu
+language: en
+date: 2009-02-16
+entry_into_force: 2009-11-25
+last_amended: 2018-02-15
+consolidated_version: "02009L0013-20180215"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02009L0013-20180215"
+retrieved: 2026-10-11
+---
+
+# Council Directive 2009/13/EC of 16 February 2009 implementing the Agreement concluded by the European Community Shipowners’ Associations (ECSA) and the European Transport Workers’ Federation (ETF) on the Maritime Labour Convention, 2006, and amending Directive 1999/63/EC
+
+**COUNCIL DIRECTIVE 2009/13/EC**
+
+**of 16 February 2009**
+
+**implementing the Agreement concluded by the European Community Shipowners’ Associations (ECSA) and the European Transport Workers’ Federation (ETF) on the Maritime Labour Convention, 2006, and amending Directive 1999/63/EC**
+
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> COUNCIL DIRECTIVE (EU) 2018/131 of 23 January 2018 </td><td> L 22</td><td>28</td><td>26.1.2018</td></tr>
+
+**COUNCIL DIRECTIVE 2009/13/EC**
+
+**of 16 February 2009**
+
+**implementing the Agreement concluded by the European Community Shipowners’ Associations (ECSA) and the European Transport Workers’ Federation (ETF) on the Maritime Labour Convention, 2006, and amending Directive 1999/63/EC**
+
+### Article 1
+
+This Directive implements the Agreement on Maritime Labour Convention, 2006, concluded on 19 May 2008 between the organisations representing management and labour in the maritime transport sector (European Community Shipowners’ Associations, ECSA and European Transport Workers’ Federation, ETF) as set out in the Annex.
+
+### Article 2
+
+The Annex to Council Directive 1999/63/EC is amended as follows:
+
+1\. in Clause 1, the following point 3 shall be added:
+
+‘3. In the event of doubt as to whether any categories of persons are to be regarded as seafarers for the purpose of this Agreement, the question shall be determined by the competent authority in each Member State after consultation with the shipowners’ and seafarers’ organisations concerned with this question. In this context due account shall be taken of the Resolution of the 94th (Maritime) Session of the General Conference of the International Labour Organisation concerning information on occupational groups.’;
+
+2\. in Clause 2, points (c) and (d) shall be replaced by the following:
+
+‘(c) the term “seafarer” means any person who is employed or engaged or works in any capacity on board a ship to which this Agreement applies;
+
+(d) the term “shipowner” means the owner of the ship or another organisation or person, such as the manager, agent or bareboat charterer, who has assumed the responsibility for the operation of the ship from the owner and who, on assuming such responsibility, has agreed to take over the duties and responsibilities imposed on shipowners in accordance with this Agreement, regardless of whether any other organisation or persons fulfil certain of the duties or responsibilities on behalf of the shipowner.’;
+
+3\. Clause 6 shall be replaced by the following:
+
+‘1. Night work of seafarers under the age of 18 shall be prohibited. For the purposes of this Clause, “night” shall be defined in accordance with national law and practice. It shall cover a period of at least nine hours starting no later than midnight and ending no earlier than 5 a.m.
+
+2\. An exception to strict compliance with the night work restriction may be made by the competent authority when:
+
+(a) the effective training of the seafarers concerned, in accordance with established programmes and schedules, would be impaired; or
+
+(b) the specific nature of the duty or a recognised training programme requires that the seafarers covered by the exception perform duties at night and the authority determines, after consultation with the shipowners’ and seafarers’ organisations concerned, that the work will not be detrimental to their health or well-being.
+
+3\. The employment, engagement or work of seafarers under the age of 18 shall be prohibited where the work is likely to jeopardise their health or safety. The types of such work shall be determined by national laws or regulations or by the competent authority, after consultation with the shipowners’ and seafarers’ organisations concerned, in accordance with relevant international standards.’;
+
+4\. Clause 13 shall be replaced by the following:
+
+‘1. Seafarers shall not work on a ship unless they are certified as medically fit to perform their duties.
+
+2\. Exceptions can only be permitted as prescribed in this Agreement.
+
+3\. The competent authority shall require that, prior to beginning work on a ship, seafarers hold a valid medical certificate attesting that they are medically fit to perform the duties they are to carry out at sea.
+
+4\. In order to ensure that medical certificates genuinely reflect seafarers’ state of health, in light of the duties they are to perform, the competent authority shall, after consultation with the shipowners’ and seafarers’ organisations concerned, and giving due consideration to applicable international guidelines, prescribe the nature of the medical examination and certificate.
+
+5\. This Agreement is without prejudice to the International Convention on Standards of Training, Certification and Watchkeeping for Seafarers, 1978, as amended (STCW). A medical certificate issued in accordance with the requirements of STCW shall be accepted by the competent authority, for the purpose of points 1 and 2 of this Clause. A medical certificate meeting the substance of those requirements, in the case of seafarers not covered by STCW, shall similarly be accepted.
+
+6\. The medical certificate shall be issued by a duly qualified medical practitioner or, in the case of a certificate solely concerning eyesight, by a person recognised by the competent authority as qualified to issue such a certificate. Practitioners must enjoy full professional independence in exercising their medical judgement in undertaking medical examination procedures.
+
+7\. Seafarers that have been refused a certificate or have had a limitation imposed on their ability to work, in particular with respect to time, field of work or trading area, shall be given the opportunity to have a further examination by another independent medical practitioner or by an independent medical referee.
+
+8\. Each medical certificate shall state in particular that:
+
+(a) the hearing and sight of the seafarer concerned, and the colour vision in the case of a seafarer to be employed in capacities where fitness for the work to be performed is liable to be affected by defective colour vision, are all satisfactory; and
+
+(b) the seafarer concerned is not suffering from any medical condition likely to be aggravated by service at sea or to render the seafarer unfit for such service or to endanger the health of other persons on board.
+
+9\. Unless a shorter period is required by reason of the specific duties to be performed by the seafarer concerned or is required under STCW:
+
+(a) a medical certificate shall be valid for a maximum period of two years unless the seafarer is under the age of 18, in which case the maximum period of validity shall be one year;
+
+(b) a certification of colour vision shall be valid for a maximum period of six years.
+
+10\. In urgent cases the competent authority may permit a seafarer to work without a valid medical certificate until the next port of call where the seafarer can obtain a medical certificate from a qualified medical practitioner, provided that:
+
+(a) the period of such permission does not exceed three months; and
+
+(b) the seafarer concerned is in possession of an expired medical certificate of recent date.
+
+11\. If the period of validity of a certificate expires in the course of a voyage, the certificate shall continue in force until the next port of call where the seafarer can obtain a medical certificate from a qualified medical practitioner, provided that the period shall not exceed three months.
+
+12\. The medical certificates for seafarers working on ships ordinarily engaged on international voyages must as a minimum be provided in English.
+
+13\. The nature of the health assessment to be made and the particulars to be included in the medical certificate shall be established after consultation with the shipowners’ and seafarers’ organisations concerned.
+
+14\. All seafarers shall have regular health assessments. Watchkeepers suffering from health problems certified by a medical practitioner as being due to the fact that they perform night work shall be transferred, wherever possible, to day work to which they are suited.
+
+15\. The health assessment referred to in points 13 and 14 shall be free and comply with medical confidentiality. Such health assessments may be conducted within the national health system.’;
+
+5\. Clause 16 shall be replaced by the following:
+
+‘Every seafarer shall be entitled to paid annual leave. The annual leave with pay entitlement shall be calculated on the basis of a minimum of 2,5 calendar days per month of employment and pro rata for incomplete months. The minimum period of paid annual leave may not be replaced by an allowance in lieu, except where the employment relationship is terminated.’.
+
+### Article 3
+
+1\. Member States may maintain or introduce more favourable provisions than those laid down in this Directive.
+
+2\. The implementation of this Directive shall under no circumstances constitute sufficient grounds for justifying a reduction in the general level of protection of workers in the fields covered by this Directive. This shall be without prejudice to the rights of Member States and/or management and labour to lay down, in the light of changing circumstances, different legislative, regulatory or contractual arrangements to those prevailing at the time of the adoption of this Directive, provided always that the minimum requirements laid down in this Directive are complied with.
+
+3\. The application and/or interpretation of this Directive shall be without prejudice to any Community or national provision, custom or practice providing for more favourable conditions for the seafarers concerned.
+
+4\. The provision of Standard A4.2 point 5(b) shall not affect the principle of responsibility of the employer as provided for in Article 5 of Directive 89/391/EEC.
+
+### Article 4
+
+Member States shall determine what penalties are applicable when national provisions enacted pursuant to this Directive are infringed. The penalties shall be effective, proportionate and dissuasive.
+
+### Article 5
+
+1\. Member States shall bring into force the laws, regulations and administrative provisions necessary to comply with this Directive or shall ensure that management and labour have introduced the necessary measures by agreement, not later than 12 months after the date of entry into force of this Directive.
+
+2\. When Member States adopt provisions, they shall contain a reference to this Directive or shall be accompanied by such reference on the occasion of their official publication. The methods of making such reference shall be laid down by Member States. They shall forthwith communicate to the Commission the text of those provisions.
+
+3\. Member States shall communicate to the Commission the text of the main provisions of national law which they adopt in the field covered by this Directive.
+
+### Article 6
+
+The application of the principle of substantial equivalence mentioned in the preamble of the Agreement is without prejudice to the obligations of the Member States emanating from this Directive.
+
+### Article 7
+
+This Directive shall enter into force on the date of entry into force of the Maritime Labour Convention, 2006.
+
+### Article 8
+
+This Directive is addressed to the Member States.
+
+## ANNEX
+
+### AGREEMENT
+
+### concluded by the ECSA and the ETF on the Maritime Labour Convention, 2006
+
+PREAMBLE
+
+THE SIGNATORY PARTIES,
+
+Whereas the ILO Maritime Labour Convention, 2006 (hereinafter referred to as the Convention) requires each Member to satisfy itself that the provisions of its laws and regulations respect, in the context of the Convention, the fundamental rights to freedom of association and the effective recognition of the right to collective bargaining, the elimination of all forms of forced or compulsory labour, the effective abolition of child labour and the elimination of discrimination in respect of employment and occupation;
+
+Whereas the Convention provides that every seafarer has the rights to a safe and secure workplace that complies with safety standards, to fair terms of employment, to decent working and living conditions and to health protection, medical care, welfare measures and other forms of social protection;
+
+Whereas the Convention requires Members to ensure, within the limits of its jurisdiction, that the seafarers’ employment and social rights set out in the preceding paragraph of this preamble are fully implemented in accordance with the requirements of the Convention. Unless specified otherwise in the Convention, such implementation may be achieved through national laws or regulations, through applicable collective bargaining agreements or through other measures or in practice;
+
+Whereas the signatory parties wish to draw particular attention to the ‘Explanatory Note to the Regulations and Code of the Maritime Labour Convention’, which sets out the format and structure of the Convention;
+
+Having regard to the Treaty establishing the European Community (hereinafter referred to as the Treaty) and in particular Articles 137, 138 and 139 thereof;
+
+Whereas Article 139(2) of the Treaty provides that agreements concluded at European level may be implemented at the joint request of the signatory parties by a Council Decision on a proposal from the Commission;
+
+Whereas the signatory parties hereby make such a request;
+
+Whereas the proper instrument for implementing the Agreement is a Directive, within the meaning of Article 249 of the Treaty, which binds Member States as to the result to be achieved, whilst leaving to national authorities the choice of form and methods; Article VI of the Convention permits Members of the ILO to implement measures that are to their satisfaction substantially equivalent to the Standards of the Convention which is aimed both at full achievement of the general objective and purpose of the Convention and at giving effect to the said provisions of the Convention; the implementation of the Agreement by a Directive and the principle of ‘substantial equivalence’ in the Convention are thus aimed at giving Member States the ability to implement the rights and principles in a manner provided by Article VI points 3 and 4 of the Convention,
+
+HAVE AGREED THE FOLLOWING:
+
+**DEFINITIONS AND SCOPE OF APPLICATION**
+
+1\. For the purpose of this Agreement and unless provided otherwise in particular provisions, the term:
+
+(a) ‘competent authority’ means the minister, government department or other authority designated by a Member State having power to issue and enforce regulations, orders or other instructions having the force of law in respect of the subject matter of the provision concerned;
+
+(b) ‘gross tonnage’ means the gross tonnage calculated in accordance with the tonnage measurement regulations contained in Annex I to the International Convention on Tonnage Measurement of Ships, 1969, or any successor Convention; for ships covered by the tonnage measurement interim scheme adopted by the International Maritime Organisation, the gross tonnage is that which is included in the ‘Remarks’ column of the International Tonnage Certificate (1969);
+
+(c) ‘seafarer’ means any person who is employed or engaged or works in any capacity on board a ‘ship’ to which this Agreement applies;
+
+(d) ‘seafarers employment’ agreement includes both a contract of employment and articles of agreement;
+
+(e) ‘ship’ means a ship other than one which navigates exclusively in inland waters or waters within, or closely adjacent to, sheltered waters or areas where port regulations apply;
+
+(f) ‘shipowner’ means the owner of the ship or another organisation or person, such as the manager, agent or bareboat charterer, who has assumed the responsibility for the operation of the ship from the owner and who, on assuming such responsibility, has agreed to take over the duties and responsibilities imposed on shipowners in accordance with this Agreement, regardless of whether any other organisation or persons fulfil certain of the duties or responsibilities on behalf of the shipowner.
+
+2\. Except as expressly provided otherwise, this Agreement applies to all seafarers.
+
+3\. In the event of doubt as to whether any categories of persons are to be regarded as seafarers for the purpose of this Agreement, the question shall be determined by the competent authority in each Member State after consultation with the shipowners’ and seafarers’ organisations concerned with this question. In this context due account shall be taken of the Resolution of the 94th (Maritime) Session of the General Conference of the International Labour Organisation concerning information on occupational groups.
+
+4\. Except as expressly provided otherwise, this Agreement applies to all ships whether publicly or privately owned, ordinarily engaged in commercial activities, other than ships engaged in fishing or in similar pursuits and ships of traditional build such as dhows and junks. This Agreement does not apply to warships or naval auxiliaries.
+
+5\. In the event of doubt as to whether this Agreement applies to a ship or particular category of ships, the question shall be determined by the competent authority in each Member State after consultation with the shipowners’ and seafarers’ organisations concerned.
+
+**THE REGULATIONS AND THE STANDARDS**
+
+**TITLE 1**
+
+**MINIMUM REQUIREMENTS FOR SEAFARERS TO WORK ON A SHIP**
+
+**Regulation 1.1 — Minimum age**
+
+1\. No person below the minimum age shall be employed or engaged or work on a ship.
+
+2\. A higher minimum age shall be required in the circumstances set out in this Agreement.
+
+**Standard A1.1 — Minimum age**
+
+The minimum age is regulated by Council Directive 1999/63/EC of 21 June 1999 (to be amended) concerning the European Agreement on the organisation of working time for seafarers (to be amended in accordance with Annex A to this Agreement).
+
+**Regulation 1.2 — Medical certificate**
+
+Medical certificates are regulated by Council Directive 1999/63/EC of 21 June 1999 (to be amended) concerning the European Agreement on the organisation of working time for seafarers (to be amended in accordance with Annex A to this Agreement).
+
+**Regulation 1.3 — Training and qualifications**
+
+1\. Seafarers shall not work on a ship unless they are trained or certified as competent or otherwise qualified to perform their duties.
+
+2\. Seafarers shall not be permitted to work on a ship unless they have successfully completed training for personal safety on board ship.
+
+3\. Training and certification in accordance with the mandatory instruments adopted by the International Maritime Organisation shall be considered as meeting the requirements of paragraphs 1 and 2 of this Regulation.
+
+**TITLE 2**
+
+**CONDITIONS OF EMPLOYMENT**
+
+**Regulation 2.1 — Seafarers’ employment agreements**
+
+1\. The terms and conditions for employment of a seafarer shall be set out or referred to in a clear written legally enforceable agreement and shall be consistent with the standards set out in this Agreement.
+
+2\. Seafarers’ employment agreements shall be agreed to by the seafarer under conditions which ensure that the seafarer has an opportunity to review and seek advice on the terms and conditions in the agreement and freely accepts them before signing.
+
+3\. To the extent compatible with the Member State’s national law and practice, seafarers’ employment agreements shall be understood to incorporate any applicable collective bargaining agreements.
+
+**Standard A2.1 — Seafarers’ employment agreements**
+
+1\. Each Member State shall adopt laws or regulations requiring that ships that fly its flag comply with the following requirements:
+
+(a) seafarers working on ships that fly its flag shall have a seafarers’ employment agreement signed by both the seafarer and the shipowner or a representative of the shipowner (or, where they are not employees, evidence of contractual or similar arrangements) providing them with decent working and living conditions on board the ship as required by this Agreement;
+
+(b) seafarers signing a seafarers’ employment agreement shall be given an opportunity to examine and seek advice on the agreement before signing, as well as such other facilities as are necessary to ensure that they have freely entered into an agreement with a sufficient understanding of their rights and responsibilities;
+
+(c) the shipowner and seafarer concerned shall each have a signed original of the seafarers’ employment agreement;
+
+(d) measures shall be taken to ensure that clear information as to the conditions of their employment can be easily obtained on board by seafarers, including the ship’s master, and that such information, including a copy of the seafarers’ employment agreement, is also accessible for review by officers of a competent authority, including those in ports to be visited; and
+
+(e) seafarers shall be given a document containing a record of their employment on board the ship.
+
+2\. Where a collective bargaining agreement forms all or part of a seafarers’ employment agreement, a copy of that agreement shall be available on board. Where the language of the seafarers’ employment agreement and any applicable collective bargaining agreement is not in English, the following shall also be available in English (except for ships engaged only in domestic voyages):
+
+(a) a copy of a standard form of the agreement; and
+
+(b) the portions of the collective bargaining agreement that are subject to a port State inspection.
+
+3\. The document referred to in paragraph 1(e) of this Standard shall not contain any statement as to the quality of the seafarers’ work or as to their wages. The form of the document, the particulars to be recorded and the manner in which such particulars are to be entered, shall be determined by national law.
+
+4\. Each Member State shall adopt laws and regulations specifying the matters that are to be included in all seafarers’ employment agreements governed by its national law. Seafarers’ employment agreements shall in all cases contain the following particulars:
+
+(a) the seafarer’s full name, date of birth or age, and birthplace;
+
+(b) the shipowner’s name and address;
+
+(c) the place where and date when the seafarers’ employment agreement is entered into;
+
+(d) the capacity in which the seafarer is to be employed;
+
+(e) the amount of the seafarer’s wages or, where applicable, the formula used for calculating them;
+
+(f) the amount of paid annual leave or, where applicable, the formula used for calculating it;
+
+(g) the termination of the agreement and the conditions thereof, including:
+
+(i) if the agreement has been made for an indefinite period, the conditions entitling either party to terminate it, as well as the required notice period, which shall not be less for the shipowner than for the seafarer;
+
+(ii) if the agreement has been made for a definite period, the date fixed for its expiry; and
+
+(iii) if the agreement has been made for a voyage, the port of destination and the time which has to expire after arrival before the seafarer should be discharged;
+
+(h) the health and social security protection benefits to be provided to the seafarer by the shipowner;
+
+(i) the seafarer’s entitlement to repatriation;
+
+(j) reference to the collective bargaining agreement, if applicable; and
+
+(k) any other particulars which national law may require.
+
+5\. Each Member State shall adopt laws or regulations establishing minimum notice periods to be given by the seafarers and shipowners for the early termination of a seafarers’ employment agreement. The duration of these minimum periods shall be determined after consultation with the shipowners’ and seafarers’ organisations concerned, but shall not be shorter than seven days.
+
+6\. A notice period shorter than the minimum may be given in circumstances which are recognised under national law or regulations or applicable collective bargaining agreements as justifying termination of the employment agreement at shorter notice or without notice. In determining those circumstances, each Member State shall ensure that the need of the seafarer to terminate, without penalty, the employment agreement on shorter notice or without notice for compassionate or other urgent reasons is taken into account.
+
+**Regulation 2.3 — Hours of work and hours of rest**
+
+Seafarers’ hours of work and rest are regulated by Council Directive 1999/63/EC of 21 June 1999 (to be amended) concerning the European Agreement on the organisation of working time for seafarers (to be amended in accordance with Annex A to this Agreement).
+
+**Regulation 2.4 — Entitlement to leave**
+
+1\. Each Member State shall require that seafarers employed on ships that fly its flag are given paid annual leave under appropriate conditions in accordance with this Agreement and Council Directive 1999/63/EC of 21 June 1999 (to be amended) concerning the European Agreement on the organisation of working time for seafarers (to be amended in accordance with Annex A to this Agreement).
+
+2\. Seafarers shall be granted shore leave to benefit their health and well-being and with the operational requirements of their positions.
+
+**Regulation 2.5 — Repatriation**
+
+1\. Seafarers have a right to be repatriated at no cost to themselves.
+
+2\. Each Member State shall require ships that fly its flag to provide financial security to ensure that seafarers are duly repatriated.
+
+**Standard A2.5.1  — Repatriation**
+
+1\. Each Member State shall ensure that seafarers on ships that fly its flag are entitled to repatriation in the following circumstances:
+
+(a) if the seafarers’ employment agreement expires while they are abroad;
+
+(b) when the seafarers’ employment agreement is terminated:
+
+(i) by the shipowner; or
+
+(ii) by the seafarer for justified reasons; and also
+
+(c) when the seafarers are no longer able to carry out their duties under their employment agreement or cannot be expected to carry them out in the specific circumstances.
+
+2\. Each Member State shall ensure that there are appropriate provisions in its laws and regulations or other measures or in collective bargaining agreements, prescribing:
+
+(a) the circumstances in which seafarers are entitled to repatriation in accordance with paragraph 1(b) and (c) of this Standard;
+
+(b) the maximum duration of service periods on board following which a seafarer is entitled to repatriation — such periods to be less than 12 months; and
+
+(c) the precise entitlements to be accorded by shipowners for repatriation, including those relating to the destinations of repatriation, the mode of transport, the items of expense to be covered and other arrangements to be made by shipowners.
+
+3\. Each Member State shall prohibit shipowners from requiring that seafarers make an advance payment towards the cost of repatriation at the beginning of their employment, and also from recovering the cost of repatriation from the seafarers’ wages or other entitlements except where the seafarer has been found, in accordance with national laws or regulations or other measures or applicable collective bargaining agreements, to be in serious default of the seafarer’s employment obligations.
+
+4\. National laws and regulations shall not prejudice any right of the shipowner to recover the cost of repatriation under third-party contractual arrangements.
+
+5\. If a shipowner fails to make arrangements for or to meet the cost of repatriation of seafarers who are entitled to be repatriated:
+
+(a) the competent authority of the Member State whose flag the ship flies shall arrange for repatriation of the seafarers concerned; if it fails to do so, the State from which the seafarers are to be repatriated or the State of which they are a national may arrange for their repatriation and recover the cost from the Member State whose flag the ship flies;
+
+(b) costs incurred in repatriating seafarers shall be recoverable from the shipowner by the Member State whose flag the ship flies;
+
+(c) the expenses of repatriation shall in no case be a charge upon the seafarers, except as provided for in paragraph 3 of this Standard.
+
+6\. Taking into account applicable international instruments, including the International Convention on Arrest of Ships, 1999, a Member State which has paid the cost of repatriation may detain, or request the detention of, the ships of the shipowner concerned until the reimbursement has been made in accordance with paragraph 5 of this Standard.
+
+7\. Each Member State shall facilitate the repatriation of seafarers serving on ships which call at its ports or pass through its territorial or internal waters, as well as their replacement on board.
+
+8\. In particular, a Member State shall not refuse the right of repatriation to any seafarer because of the financial circumstances of a shipowner or because of the shipowner’s inability or unwillingness to replace a seafarer.
+
+9\. Each Member State shall require that ships that fly its flag carry and make available to seafarers a copy of the applicable national provisions regarding repatriation written in an appropriate language.
+
+**Standard A2.5.2 — Financial security**
+
+1\. In implementation of Regulation 2.5, paragraph 2, this Standard establishes requirements to ensure the provision of an expeditious and effective financial security system to assist seafarers in the event of their abandonment.
+
+2\. For the purposes of this Standard, a seafarer shall be deemed to have been abandoned where, in violation of the requirements of this Agreement or the terms of the seafarers' employment agreement, the shipowner:
+
+(a) fails to cover the cost of the seafarer's repatriation; or
+
+(b) has left the seafarer without the necessary maintenance and support; or
+
+(c) has otherwise unilaterally severed their ties with the seafarer including failure to pay contractual wages for a period of at least 2 months.
+
+3\. Each Member State shall ensure that a financial security system meeting the requirements of this Standard is in place for ships flying its flag. The financial security system may be in the form of a social security scheme or insurance or a national fund or other similar arrangements. Its form shall be determined by the Member State after consultation with the shipowners' and seafarers' organisations concerned.
+
+4\. The financial security system shall provide direct access, sufficient coverage and expedited financial assistance, in accordance with this Standard, to any abandoned seafarer on a ship flying the flag of the Member State.
+
+5\. For the purposes of paragraph 2(b) of this Standard, necessary maintenance and support of seafarers shall include: adequate food, accommodation, drinking water supplies, essential fuel for survival on board the ship and necessary medical care.
+
+6\. Each Member State shall require that ships that fly its flag, and which are required under national laws to carry a Maritime Labour Certificate or do so at the request of the shipowner, carry on board a certificate or other documentary evidence of financial security issued by the financial security provider. A copy shall be posted in a conspicuous place on board where it is available to the seafarers. Where more than one financial security provider provides cover, the document provided by each provider shall be carried on board.
+
+7\. The certificate or other documentary evidence of financial security shall be in English or accompanied by an English translation and contain the following information:
+
+(a) name of the ship;
+
+(b) port of registry of the ship;
+
+(c) call sign of the ship;
+
+(d) IMO number of the ship;
+
+(e) name and address of the provider or providers of the financial security;
+
+(f) contact details of the persons or entity responsible for handling seafarers' requests for relief;
+
+(g) name of the shipowner;
+
+(h) period of validity of the financial security; and
+
+(i) an attestation from the financial security provider that the financial security meets the requirements of this Standard A2.5.2.
+
+8\. Assistance provided by the financial security system shall be granted promptly upon request made by the seafarer or the seafarer's nominated representative and supported by the necessary justification of entitlement in accordance with paragraph 2 of this Standard.
+
+9\. Having regard to Regulation 2.5, assistance provided by the financial security system shall be sufficient to cover the following:
+
+(a) outstanding wages and other entitlements due from the shipowner to the seafarer under their employment agreement, the relevant collective bargaining agreement or the national law of the flag State, limited to 4 months of any such outstanding wages and 4 months of any such outstanding entitlements;
+
+(b) all expenses reasonably incurred by the seafarer, including the cost of repatriation referred to in paragraph 10 of this Standard; and
+
+(c) the essential needs of the seafarer including such items as: adequate food, clothing where necessary, accommodation, drinking water supplies, essential fuel for survival on board the ship, necessary medical care and any other reasonable costs or charges from the act or omission constituting the abandonment until the seafarer's arrival at home.
+
+10\. The cost of repatriation shall cover travel by appropriate and expeditious means, normally by air, and include provision for food and accommodation of the seafarer from the time of leaving the ship until arrival at the seafarer's home, necessary medical care, passage and transport of personal effects and any other reasonable costs or charges arising from the abandonment.
+
+11\. The financial security shall not cease before the end of the period of validity of the financial security unless the financial security provider has given prior notification of at least 30 days to the competent authority of the flag State.
+
+12\. If the provider of insurance or other financial security has made any payment to any seafarer in accordance with this Standard, such provider shall, up to the amount it has paid and in accordance with the applicable law, acquire by subrogation, assignment or otherwise, the rights which the seafarer would have enjoyed.
+
+13\. Nothing in this Standard shall prejudice any right of recourse of the insurer or provider of financial security against third parties.
+
+14\. The provisions in this Standard are not intended to be exclusive or to prejudice any other rights, claims or remedies that may also be available to compensate seafarers who are abandoned. National laws and regulations may provide that any amounts payable under this Standard can be offset against amounts received from other sources arising from any rights, claims or remedies that may be the subject of compensation under the present Standard.
+
+**Regulation 2.6 — Seafarer compensation for the ship’s loss or foundering**
+
+Seafarers are entitled to adequate compensation in the case of injury, loss or unemployment arising from the ship’s loss or foundering.
+
+**Standard A2.6 — Seafarer compensation for the ship’s loss or foundering**
+
+1\. Each Member State shall make rules ensuring that, in every case of loss or foundering of any ship, the shipowner shall pay to each seafarer on board an indemnity against unemployment resulting from such loss or foundering.
+
+2\. The rules referred to in paragraph 1 of this Standard shall be without prejudice to any other rights a seafarer may have under the national law of the Member State concerned for losses or injuries arising from a ship’s loss or foundering.
+
+**Regulation 2.7 — Manning levels**
+
+Provisions as to the sufficient, safe and efficient manning of ships are contained in Council Directive 1999/63/EC of 21 June 1999 (to be amended) concerning the European Agreement on the organisation of working time for seafarers (to be amended in accordance with Annex A to this Agreement).
+
+**Regulation 2.8 — Career and skill development and opportunities for seafarers’ employment**
+
+Each Member State shall have national policies to promote employment in the maritime sector and to encourage career and skill development and greater employment opportunities for seafarers domiciled in its territory.
+
+**Standard A2.8 — Career and skill development and employment opportunities for seafarers**
+
+1\. Each Member State shall have national policies that encourage career and skill development and employment opportunities for seafarers, in order to provide the maritime sector with a stable and competent workforce.
+
+2\. The aim of the policies referred to in paragraph 1 of this Standard shall be to help seafarers strengthen their competencies, qualifications and employment opportunities.
+
+3\. Each Member State shall, after consulting the shipowners’ and seafarers’ organisations concerned, establish clear objectives for the vocational guidance, education and training of seafarers whose duties on board ship primarily relate to the safe operation and navigation of the ship, including ongoing training.
+
+**TITLE 3**
+
+**ACCOMMODATION, RECREATIONAL FACILITIES, FOOD AND CATERING**
+
+**Standard A3.1 — Accommodation and recreational facilities**
+
+1\. Ships regularly trading to mosquito-infested ports shall be fitted with appropriate devices as required by the competent authority.
+
+2\. Appropriate seafarers’ recreational facilities, amenities and services, as adapted to meet the special needs of seafarers who must live and work on ships, shall be provided on board for the benefit of all seafarers, taking into account provisions on health and safety protection and accident prevention.
+
+3\. The competent authority shall require frequent inspections to be carried out on board ships, by or under the authority of the master, to ensure that seafarer accommodation is clean, decently habitable and maintained in a good state of repair. The results of each such inspection shall be recorded and be available for review.
+
+4\. In the case of ships where there is need to take account, without discrimination, of the interests of seafarers having differing and distinctive religious and social practices, the competent authority may, after consultation with the shipowners’ and seafarers’ organisations concerned, permit fairly applied variations in respect of this Standard on condition that such variations do not result in overall facilities less favourable than those which would result from the application of this Standard.
+
+**Regulation 3.2 — Food and catering**
+
+1\. Each Member State shall ensure that ships that fly its flag carry on board and serve food and drinking water of appropriate quality, nutritional value and quantity that adequately covers the requirements of the ship and takes into account the differing cultural and religious backgrounds.
+
+2\. Seafarers on board a ship shall be provided with food free of charge during the period of engagement.
+
+3\. Seafarers employed as ships’ cooks with responsibility for food preparation must be trained and qualified for their position on board ship.
+
+**Standard A3.2 — Food and catering**
+
+1\. Each Member State shall adopt laws and regulations or other measures to provide minimum standards for the quantity and quality of food and drinking water and for the catering standards that apply to meals provided to seafarers on ships that fly its flag, and shall undertake educational activities to promote awareness and implementation of the standards referred to in this paragraph.
+
+2\. Each Member State shall ensure that ships that fly its flag meet the following minimum standards:
+
+(a) food and drinking water supplies, having regard to the number of seafarers on board, their religious requirements and cultural practices as they pertain to food, and the duration and nature of the voyage, shall be suitable in respect of quantity, nutritional value, quality and variety;
+
+(b) the organisation and equipment of the catering department shall be such as to permit the provision to the seafarers of adequate, varied and nutritious meals prepared and served in hygienic conditions; and
+
+(c) catering staff shall be properly trained or instructed for their positions.
+
+3\. Shipowners shall ensure that seafarers who are engaged as ships’ cooks are trained, qualified and found competent for the position in accordance with requirements set out in the laws and regulations of the Member State concerned.
+
+4\. The requirements under paragraph 3 of this Standard shall include a completion of a training course approved or recognised by the competent authority, which covers practical cookery, food and personal hygiene, food storage, stock control, and environmental protection and catering health and safety.
+
+5\. On ships operating with a prescribed manning of less than ten which, by virtue of the size of the crew or the trading pattern, may not be required by the competent authority to carry a fully qualified cook, anyone processing food in the galley shall be trained or instructed in areas including food and personal hygiene as well as handling and storage of food on board ship.
+
+6\. In circumstances of exceptional necessity, the competent authority may issue a dispensation permitting a non-fully qualified cook to serve in a specified ship for a specified limited period, until the next convenient port of call or for a period not exceeding one month, provided that the person to whom the dispensation is issued is trained or instructed in areas including food and personal hygiene as well as handling and storage of food on board ship.
+
+7\. The competent authority shall require that frequent documented inspections be carried out on board ships, by or under the authority of the master, with respect to:
+
+(a) supplies of food and drinking water;
+
+(b) all spaces and equipment used for the storage and handling of food and drinking water; and
+
+(c) galley and other equipment for the preparation and service of meals.
+
+8\. No seafarer under the age of 18 shall be employed or engaged or work as a ship’s cook.
+
+**TITLE 4**
+
+**HEALTH PROTECTION, MEDICAL CARE AND WELFARE**
+
+**Regulation 4.1 — Medical care on board ship and ashore**
+
+1\. Each Member State shall ensure that all seafarers on ships that fly its flag are covered by adequate measures for the protection of their health and that they have access to prompt and adequate medical care whilst working on board.
+
+2\. Each Member State shall ensure that seafarers on board ships in its territory who are in need of immediate medical care are given access to the Member State’s medical facilities on shore.
+
+3\. The requirements for on-board health protection and medical care include standards for measures aimed at providing seafarers with health protection and medical care as comparable as possible to that which is generally available to workers ashore.
+
+**Standard A4.1 — Medical care on board ship and ashore**
+
+1\. Each Member State shall ensure that measures providing for health protection and medical care, including essential dental care, for seafarers working on board a ship that flies its flag are adopted which:
+
+(a) ensure the application to seafarers of any general provisions on occupational health protection and medical care relevant to their duties, as well as of special provisions specific to work on board ship;
+
+(b) ensure that seafarers are given health protection and medical care as comparable as possible to that which is generally available to workers ashore, including prompt access to the necessary medicines, medical equipment and facilities for diagnosis and treatment and to medical information and expertise;
+
+(c) give seafarers the right to visit a qualified medical doctor or dentist without delay in ports of call, where practicable;
+
+(d) are not limited to treatment of sick or injured seafarers but include measures of a preventive character such as health promotion and health education programmes.
+
+2\. The competent authority shall adopt a standard medical report form for use by the ships’ masters and relevant onshore and on-board medical personnel. The form, when completed, and its contents shall be kept confidential and shall only be used to facilitate the treatment of seafarers.
+
+3\. Each Member State shall adopt laws and regulations establishing requirements for on-board hospital and medical care facilities and equipment and training on ships that fly its flag.
+
+4\. National laws and regulations shall as a minimum provide for the following requirements:
+
+(a) all ships shall carry a medicine chest, medical equipment and a medical guide, the specifics of which shall be prescribed and subject to regular inspection by the competent authority; the national requirements shall take into account the type of ship, the number of persons on board and the nature, destination and duration of voyages and relevant national and international recommended medical standards;
+
+(b) ships carrying 100 or more persons and ordinarily engaged on international voyages of more than 72 hours duration shall carry a qualified medical doctor who is responsible for providing medical care; national laws or regulations shall also specify which other ships shall be required to carry a medical doctor, taking into account, inter alia, such factors as the duration, nature and conditions of the voyage and the number of seafarers on board;
+
+(c) ships which do not carry a medical doctor shall be required to have either at least one seafarer on board who is in charge of medical care and administering medicine as part of their regular duties or at least one seafarer on board competent to provide medical first aid; persons in charge of medical care on board who are not medical doctors shall have satisfactorily completed training in medical care that meets the requirements of the International Convention on Standards of Training, Certification and Watchkeeping for Seafarers, 1978, as amended (STCW); seafarers designated to provide medical first aid shall have satisfactorily completed training in medical first aid that meets the requirements of STCW; national laws or regulations shall specify the level of approved training required taking into account, inter alia, such factors as the duration, nature and conditions of the voyage and the number of seafarers on board; and
+
+(d) the competent authority shall ensure by a prearranged system that medical advice by radio or satellite communication to ships at sea, including specialist advice, is available 24 hours a day; medical advice, including the onward transmission of medical messages by radio or satellite communication between a ship and those ashore giving the advice, shall be available free of charge to all ships irrespective of the flag that they fly.
+
+**Regulation 4.2 — Shipowners’ liability**
+
+1\. Each Member State shall ensure that measures are in place on ships that fly its flag to provide seafarers employed on the ships with a right to material assistance and support from the shipowner with respect to the financial consequences of sickness, injury or death occurring while they are serving under a seafarers’ employment agreement or arising from their employment under such agreement.
+
+2\. This Regulation does not affect any other legal remedies that a seafarer may seek.
+
+**Standard A4.2.1  — Shipowners’ liability**
+
+1\. Each Member State shall adopt laws and regulations requiring that shipowners of ships that fly its flag are responsible for health protection and medical care of all seafarers working on board the ships in accordance with the following minimum standards:
+
+(a) shipowners shall be liable to bear the costs for seafarers working on their ships in respect of sickness and injury of the seafarers occurring between the date of commencing duty and the date upon which they are deemed duly repatriated, or arising from their employment between those dates;
+
+(b) shipowners shall provide financial security to assure compensation in the event of the death or long-term disability of seafarers due to an occupational injury, illness or hazard, as set out in national law, the seafarers’ employment agreement or collective agreement;
+
+(c) shipowners shall be liable to defray the expense of medical care, including medical treatment and the supply of the necessary medicines and therapeutic appliances, and board and lodging away from home until the sick or injured seafarer has recovered, or until the sickness or incapacity has been declared of a permanent character; and
+
+(d) shipowners shall be liable to pay the cost of burial expenses in the case of death occurring on board or ashore during the period of engagement.
+
+2\. National laws or regulations may limit the liability of the shipowner to defray the expense of medical care and board and lodging to a period which shall not be less than 16 weeks from the day of the injury or the commencement of the sickness.
+
+3\. Where the sickness or injury results in incapacity for work the shipowner shall be liable:
+
+(a) to pay full wages as long as the sick or injured seafarers remain on board or until the seafarers have been repatriated in accordance with this Agreement; and
+
+(b) to pay wages in whole or in part as prescribed by national laws or regulations or as provided for in collective agreements from the time when the seafarers are repatriated or landed until their recovery or, if earlier, until they are entitled to cash benefits under the legislation of the Member State concerned.
+
+4\. National laws or regulations may limit the liability of the shipowner to pay wages in whole or in part in respect of a seafarer no longer on board to a period which shall not be less than 16 weeks from the day of the injury or the commencement of the sickness.
+
+5\. National laws or regulations may exclude the shipowner from liability in respect of:
+
+(a) injury incurred otherwise than in the service of the ship;
+
+(b) injury or sickness due to the wilful misconduct of the sick, injured or deceased seafarer; and
+
+(c) sickness or infirmity intentionally concealed when the engagement is entered into.
+
+6\. National laws or regulations may exempt the shipowner from liability to defray the expense of medical care and board and lodging and burial expenses in so far as such liability is assumed by the public authorities.
+
+7\. Shipowners or their representatives shall take measures for safeguarding property left on board by sick, injured or deceased seafarers and for returning it to them or to their next of kin.
+
+8\. National laws and regulations shall provide that the system of financial security to assure compensation as provided by paragraph 1(b) of this Standard for contractual claims, as defined in Standard A4.2.2, meet the following minimum requirements:
+
+(a) the contractual compensation, where set out in the seafarer's employment agreement and without prejudice to subparagraph (c) of this paragraph, shall be paid in full and without delay;
+
+(b) there shall be no pressure to accept a payment less than the contractual amount;
+
+(c) where the nature of the long-term disability of a seafarer makes it difficult to assess the full compensation to which the seafarer may be entitled, an interim payment or payments shall be made to the seafarer so as to avoid undue hardship;
+
+(d) in accordance with Regulation 4.2, paragraph 2, the seafarer shall receive payment without prejudice to other legal rights, but such payment may be offset by the shipowner against any damages resulting from any other claim made by the seafarer against the shipowner and arising from the same incident; and
+
+(e) the claim for contractual compensation may be brought directly by the seafarer concerned, or their next of kin, or a representative of the seafarer or designated beneficiary.
+
+9\. National laws and regulations shall ensure that seafarers receive prior notification if a shipowner's financial security is to be cancelled or terminated.
+
+10\. National laws and regulations shall ensure that the competent authority of the flag State is notified by the provider of the financial security if a shipowner's financial security is cancelled or terminated.
+
+11\. Each Member State shall require that ships that fly its flag carry on board a certificate or other documentary evidence of financial security issued by the financial security provider. A copy shall be posted in a conspicuous place on board where it is available to the seafarers. Where more than one financial security provider provides cover, the document provided by each provider shall be carried on board.
+
+12\. The financial security shall not cease before the end of the period of validity of the financial security unless the financial security provider has given prior notification of at least 30 days to the competent authority of the flag State.
+
+13\. The financial security shall provide for the payment of all contractual claims covered by it which arise during the period for which the document is valid.
+
+14\. The certificate or other documentary evidence of financial security shall be in English or accompanied by an English translation and contain the following information:
+
+(a) name of the ship;
+
+(b) port of registry of the ship;
+
+(c) call sign of the ship;
+
+(d) IMO number of the ship;
+
+(e) name and address of the provider or providers of the financial security;
+
+(f) contact details of the persons or entity responsible for handling seafarers' contractual claims;
+
+(g) name of the shipowner;
+
+(h) period of validity of the financial security; and
+
+(i) an attestation from the financial security provider that the financial security meets the requirements of Standard A4.2.1.
+
+**Standard A4.2.2 — Treatment of contractual claims**
+
+1\. For the purposes of Standard A4.2.1, paragraph 8, and the present Standard, the term ‘contractual claim’ means any claim which relates to death or long-term disability of seafarers due to an occupational injury, illness or hazard as set out in national law, the seafarers' employment agreement or collective agreement.
+
+2\. The system of financial security, as provided for in Standard A4.2.1, paragraph 1(b), may be in the form of a social security scheme or insurance or fund or other similar arrangements. Its form shall be determined by the Member State after consultation with the shipowners' and seafarers' organisations concerned.
+
+3\. National laws and regulations shall ensure that effective arrangements are in place to receive, deal with and impartially settle contractual claims relating to compensation referred to in Standard A4.2.1, paragraph 8, through expeditious and fair procedures.
+
+**Regulation 4.3 — Health and safety protection and accident prevention**
+
+1\. Each Member State shall ensure that seafarers on ships that fly its flag are provided with occupational health protection and live, work and train on board ship in a safe and hygienic environment.
+
+2\. Each Member State shall develop and promulgate national guidelines for the management of occupational safety and health on board ships that fly its flag, after consultation with representative shipowners’ and seafarers’ organisations and taking into account applicable codes, guidelines and standards recommended by international organisations, national administrations and maritime industry organisations.
+
+3\. Each Member State shall adopt laws and regulations and other measures addressing the matters specified in this Agreement taking into account relevant international instruments, and set standards for occupational safety and health protection and accident prevention on ships that fly its flag.
+
+**Standard A4.3 — Health and safety protection and accident prevention**
+
+1\. The laws and regulations and other measures to be adopted in accordance with Regulation 4.3, paragraph 3, shall include the following subjects:
+
+(a) the adoption and effective implementation and promotion of occupational safety and health policies and programmes on ships that fly the Member State’s flag, including risk evaluation as well as training and instruction of seafarers;
+
+(b) on-board programmes for the prevention of occupational accidents, injuries and diseases and for continuous improvement in occupational safety and health protection, involving seafarers’ representatives and all other persons concerned in their implementation, taking account of preventive measures, including engineering and design control, substitution of processes and procedures for collective and individual tasks, and the use of personal protective equipment; and
+
+(c) requirements for inspecting, reporting and correcting unsafe conditions and for investigating and reporting on-board occupational accidents.
+
+2\. The provisions referred to in paragraph 1 of this Standard shall:
+
+(a) take account of relevant international instruments dealing with occupational safety and health protection in general and with specific risks, and address all matters relevant to the prevention of occupational accidents, injuries and diseases that may be applicable to the work of seafarers and particularly those which are specific to maritime employment;
+
+(b) specify the duties of the master or a person designated by the master, or both, to take specific responsibility for the implementation of and compliance with the ship’s occupational safety and health policy and programme; and
+
+(c) specify the authority of the ship’s seafarers appointed or elected as safety representatives to participate in meetings of the ship’s safety committee; such a committee shall be established on board a ship on which there are five or more seafarers.
+
+3\. The laws and regulations and other measures referred to in Regulation 4.3, paragraph 3, shall be regularly reviewed in consultation with the representatives of the shipowners’ and seafarers’ organisations and, if necessary, revised to take account of changes in technology and research in order to facilitate continuous improvement in occupational safety and health policies and programmes and to provide a safe occupational environment for seafarers on ships that fly the Member State’s flag.
+
+4\. Compliance with the requirements of applicable international instruments on the acceptable levels of exposure to workplace hazards on board ships and on the development and implementation of ships’ occupational safety and health policies and programmes shall be considered as meeting the requirements of this Agreement.
+
+5\. The competent authority shall ensure that:
+
+(a) occupational accidents, injuries and diseases are adequately reported;
+
+(b) comprehensive statistics of such accidents and diseases are kept, analysed and published and, where appropriate, followed up by research into general trends and into the hazards identified; and
+
+(c) occupational accidents are investigated.
+
+6\. Reporting and investigation of occupational safety and health matters shall be designed to ensure the protection of seafarers’ personal data.
+
+7\. The competent authority shall cooperate with shipowners’ and seafarers’ organisations to take measures to bring to the attention of all seafarers information concerning particular hazards on board ships, for instance, by posting official notices containing relevant instructions.
+
+8\. The competent authority shall require that shipowners conducting risk evaluation in relation to management of occupational safety and health refer to appropriate statistical information from their ships and from general statistics provided by the competent authority.
+
+**Regulation 4.4 — Access to shore-based welfare facilities**
+
+Each Member State shall ensure that shore-based welfare facilities, where they exist, are easily accessible. The Member State shall also promote the development of welfare facilities in designated ports to provide seafarers on ships that are in its ports with access to adequate welfare facilities and services.
+
+**Standard A4.4 — Access to shore-based welfare facilities**
+
+1\. Each Member State shall require, where welfare facilities exist on its territory, that they are available for the use of all seafarers, irrespective of nationality, race, colour, sex, religion, political opinion or social origin and irrespective of the flag State of the ship on which they are employed or engaged or work.
+
+2\. Each Member State shall promote the development of welfare facilities in appropriate ports of the country and determine, after consultation with the shipowners’ and seafarers’ organisations concerned, which ports are to be regarded as appropriate.
+
+3\. Each Member State shall encourage the establishment of welfare boards which shall regularly review welfare facilities and services to ensure that they are appropriate in the light of changes in the needs of seafarers resulting from technical, operational and other developments in the shipping industry.
+
+**TITLE 5**
+
+**COMPLIANCE AND ENFORCEMENT**
+
+**Regulation 5.1.5 — On-board complaint procedures**
+
+1\. Each Member State shall require that ships that fly its flag have on-board procedures for the fair, effective and expeditious handling of seafarer complaints alleging breaches of the requirements of the Convention (including seafarers’ rights).
+
+2\. Each Member State shall prohibit and penalise any kind of victimisation of a seafarer for filing a complaint.
+
+3\. The provisions in this Regulation are without prejudice to a seafarer’s right to seek redress through whatever legal means the seafarer considers appropriate.
+
+**Standard A5.1.5 — On-board complaint procedures**
+
+1\. Without prejudice to any wider scope that may be given in national laws or regulations or collective agreements, the on-board procedures may be used by seafarers to lodge complaints relating to any matter that is alleged to constitute a breach of the requirements of the Convention (including seafarers’ rights).
+
+2\. Each Member State shall ensure that, in its laws or regulations, appropriate on-board complaint procedures are in place to meet the requirements of Regulation 5.1.5. Such procedures shall seek to resolve complaints at the lowest level possible. However, in all cases, seafarers shall have a right to complain directly to the master and, where they consider it necessary, to appropriate external authorities.
+
+3\. The on-board complaint procedures shall include the right of the seafarer to be accompanied or represented during the complaints procedure, as well as safeguards against the possibility of victimisation of seafarers for filing complaints. The term ‘victimisation’ covers any adverse action taken by any person with respect to a seafarer for lodging a complaint which is not manifestly vexatious or maliciously made.
+
+4\. In addition to a copy of their seafarers’ employment agreement, all seafarers shall be provided with a copy of the on-board complaint procedures applicable on the ship. This shall include contact information for the competent authority in the flag State and, where different, in the seafarers’ country of residence, and the name of a person or persons on board the ship who can, on a confidential basis, provide seafarers with impartial advice on their complaint and otherwise assist them in following the complaint procedures available to them on board the ship.
+
+**FINAL PROVISIONS**
+
+Subsequent to any amendments to any of the provisions of the Maritime Labour Convention, 2006, and if requested by either one of the Parties to this Agreement, a review of the application of this Agreement shall be carried out.
+
+The social partners make this Agreement on condition that it shall not enter into force until the date when the ILO Maritime Labour Convention, 2006 enters into force, such date being 12 months after the date on which there have been registered with the International Labour Office ratifications by at least 30 Members with a total share in the world gross tonnage of ships of 33 per cent.
+
+Member States and/or the social partners can maintain or introduce more favourable provisions for seafarers than set out in this Agreement.
+
+This Agreement shall be without prejudice to any more stringent and/or specific existing Community legislation.
+
+This Agreement shall not affect any law, custom or agreement which provides for more favourable conditions for the seafarers concerned. For example, the terms of this Agreement are without prejudice to Council Directive 89/391/EEC on the introduction of measures to encourage improvements in the safety and health of workers at work, to Council Directive 92/29/EEC on the minimum safety and health requirements for improved medical treatment on board vessels and to Council Directive 1999/63/EC concerning the Agreement on the organisation of working time of seafarers (to be amended in accordance with Annex A to this Agreement).
+
+Implementation of this Agreement shall not constitute valid grounds for reducing the general level of protection afforded to seafarers in the field of the Agreement.
+
+EUROPEAN TRANSPORT WORKERS’ FEDERATION (ETF)
+
+EUROPEAN COMMUNITY SHIPOWNERS’ ASSOCIATIONS (ECSA)
+
+CHAIRPERSON MARITIME TRANSPORT SECTORAL DIALOGUE COMMITTEE
+
+BRUSSELS, 19 MAY 2008.
+
+## ANNEX A
+
+**AMENDMENTS TO THE AGREEMENT ON THE ORGANISATION OF WORKING TIME OF SEAFARERS CONCLUDED ON 30 SEPTEMBER 1998**
+
+In their discussions leading to the conclusion of their Agreement on the Maritime Labour Convention, 2006, the social partners additionally reviewed the Agreement on the Organisation of Working Time of Seafarers concluded on 30 September 1998, in order to verify that it was consistent with corresponding provisions of the Convention and agree any necessary amendments.
+
+As a result, the social partners have agreed the following amendments to the Agreement on the Organisation of Working Time of Seafarers:
+
+**1\. Clause 1**
+
+Insert new paragraph 3:
+
+‘3. In the event of doubt as to whether any categories of persons are to be regarded as seafarers for the purpose of this Agreement, the question shall be determined by the competent authority in each Member State after consultation with the shipowners’ and seafarers’ organisations concerned with this question. In this context due account shall be taken of the Resolution of the 94th (Maritime) Session of the General Conference of the International Labour Organisation concerning information on occupational groups.’;
+
+**2\. Clause 2(c)**
+
+Replace Clause 2(c) with:
+
+‘(c) the term “seafarer” means any person who is employed or engaged or works in any capacity on board a ship to which this Agreement applies;’;
+
+**3\. Clause 2 (d)**
+
+Replace Clause 2(d) with:
+
+‘(d) the term “shipowner” means the owner of the ship or another organisation or person, such as the manager, agent or bareboat charterer, who has assumed the responsibility for the operation of the ship from the owner and who, on assuming such responsibility, has agreed to take over the duties and responsibilities imposed on shipowners in accordance with this Agreement, regardless of whether any other organisation or persons fulfil certain of the duties or responsibilities on behalf of the shipowner.’;
+
+**4\. Clause 6**
+
+Replace Clause 6 with:
+
+‘1. Night work of seafarers under the age of 18 shall be prohibited. For the purposes of this Clause, “night” shall be defined in accordance with national law and practice. It shall cover a period of at least nine hours starting no later than midnight and ending no earlier than 5 a.m.
+
+2\. An exception to strict compliance with the night work restriction may be made by the competent authority when:
+
+(a) the effective training of the seafarers concerned, in accordance with established programmes and schedules, would be impaired; or
+
+(b) the specific nature of the duty or a recognised training programme requires that the seafarers covered by the exception perform duties at night and the authority determines, after consultation with the shipowners’ and seafarers’ organisations concerned, that the work will not be detrimental to their health or well-being.
+
+3\. The employment, engagement or work of seafarers under the age of 18 shall be prohibited where the work is likely to jeopardise their health or safety. The types of such work shall be determined by national laws or regulations or by the competent authority, after consultation with the shipowners’ and seafarers’ organisations concerned, in accordance with relevant international standards.’;
+
+**5\. Clause 13**
+
+Replace Clause 13(1) first sentence with:
+
+‘1. Seafarers shall not work on a ship unless they are certified as medically fit to perform their duties.
+
+2\. Exceptions can only be permitted as prescribed in this Agreement.
+
+3\. The competent authority shall require that, prior to beginning work on a ship, seafarers hold a valid medical certificate attesting that they are medically fit to perform the duties they are to carry out at sea.
+
+4\. In order to ensure that medical certificates genuinely reflect seafarers’ state of health, in light of the duties they are to perform, the competent authority shall, after consultation with the shipowners’ and seafarers’ organisations concerned, and giving due consideration to applicable international guidelines, prescribe the nature of the medical examination and certificate.
+
+5\. This Agreement is without prejudice to the International Convention on Standards of Training, Certification and Watchkeeping for Seafarers, 1978, as amended (STCW). A medical certificate issued in accordance with the requirements of STCW shall be accepted by the competent authority, for the purpose of paragraphs 1 and 2 of this Clause. A medical certificate meeting the substance of those requirements, in the case of seafarers not covered by STCW, shall similarly be accepted.
+
+6\. The medical certificate shall be issued by a duly qualified medical practitioner or, in the case of a certificate solely concerning eyesight, by a person recognised by the competent authority as qualified to issue such a certificate. Practitioners must enjoy full professional independence in exercising their medical judgement in undertaking medical examination procedures.
+
+7\. Seafarers that have been refused a certificate or have had a limitation imposed on their ability to work, in particular with respect to time, field of work or trading area, shall be given the opportunity to have a further examination by another independent medical practitioner or by an independent medical referee.
+
+8\. Each medical certificate shall state in particular that:
+
+(a) the hearing and sight of the seafarer concerned, and the colour vision in the case of a seafarer to be employed in capacities where fitness for the work to be performed is liable to be affected by defective colour vision, are all satisfactory; and
+
+(b) the seafarer concerned is not suffering from any medical condition likely to be aggravated by service at sea or to render the seafarer unfit for such service or to endanger the health of other persons on board.
+
+9\. Unless a shorter period is required by reason of the specific duties to be performed by the seafarer concerned or is required under STCW:
+
+(a) a medical certificate shall be valid for a maximum period of two years unless the seafarer is under the age of 18, in which case the maximum period of validity shall be one year;
+
+(b) a certification of colour vision shall be valid for a maximum period of six years.
+
+10\. In urgent cases the competent authority may permit a seafarer to work without a valid medical certificate until the next port of call where the seafarer can obtain a medical certificate from a qualified medical practitioner, provided that:
+
+(a) the period of such permission does not exceed three months; and
+
+(b) the seafarer concerned is in possession of an expired medical certificate of recent date.
+
+11\. If the period of validity of a certificate expires in the course of a voyage, the certificate shall continue in force until the next port of call where the seafarer can obtain a medical certificate from a qualified medical practitioner, provided that the period shall not exceed three months.
+
+12\. The medical certificates for seafarers working on ships ordinarily engaged on international voyages must as a minimum be provided in English.’
+
+The subsequent sentences of Clause 13(1) and paragraph 13(2) become paragraphs 13 to 15;
+
+**6\. Clause 16:**
+
+Replace first sentence with:
+
+‘Every seafarer shall be entitled to paid annual leave. The annual leave with pay entitlement shall be calculated on the basis of a minimum of 2,5 calendar days per month of employment and pro rata for incomplete months.’.

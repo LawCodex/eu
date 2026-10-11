@@ -1,0 +1,493 @@
+---
+title: "Directive 2009/38/EC of the European Parliament and of the Council of 6 May 2009 on the establishment of a European Works Council or a procedure in Community-scale undertakings and Community-scale groups of undertakings for the purposes of informing and consulting employees (Recast) (Text with EEA relevance )"
+identifier: "32009L0038"
+eli: "http://data.europa.eu/eli/dir/2009/38/oj"
+type: directive
+jurisdiction: eu
+language: en
+date: 2009-05-06
+entry_into_force: 2009-06-05
+last_amended: 2015-10-09
+consolidated_version: "02009L0038-20151009"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02009L0038-20151009"
+retrieved: 2026-10-11
+---
+
+# Directive 2009/38/EC of the European Parliament and of the Council of 6 May 2009 on the establishment of a European Works Council or a procedure in Community-scale undertakings and Community-scale groups of undertakings for the purposes of informing and consulting employees (Recast) (Text with EEA relevance )
+
+**DIRECTIVE 2009/38/EC OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 6 May 2009**
+
+**on the establishment of a European Works Council or a procedure in Community-scale undertakings and Community-scale groups of undertakings for the purposes of informing and consulting employees**
+
+**(Recast)**
+
+**(Text with EEA relevance)**
+
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> DIRECTIVE (EU) 2015/1794 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 6 October 2015 </td><td> L 263</td><td>1</td><td>8.10.2015</td></tr>
+
+**DIRECTIVE 2009/38/EC OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 6 May 2009**
+
+**on the establishment of a European Works Council or a procedure in Community-scale undertakings and Community-scale groups of undertakings for the purposes of informing and consulting employees**
+
+**(Recast)**
+
+**(Text with EEA relevance)**
+
+## SECTION I — GENERAL
+
+### Article 1 — Objective
+
+1\. The purpose of this Directive is to improve the right to information and to consultation of employees in Community-scale undertakings and Community-scale groups of undertakings.
+
+2\. To that end, a European Works Council or a procedure for informing and consulting employees shall be established in every Community-scale undertaking and every Community-scale group of undertakings, where requested in the manner laid down in Article 5(1), with the purpose of informing and consulting employees. The arrangements for informing and consulting employees shall be defined and implemented in such a way as to ensure their effectiveness and to enable the undertaking or group of undertakings to take decisions effectively.
+
+3\. Information and consultation of employees must occur at the relevant level of management and representation, according to the subject under discussion. To achieve that, the competence of the European Works Council and the scope of the information and consultation procedure for employees governed by this Directive shall be limited to transnational issues.
+
+4\. Matters shall be considered to be transnational where they concern the Community-scale undertaking or Community-scale group of undertakings as a whole, or at least two undertakings or establishments of the undertaking or group situated in two different Member States.
+
+5\. Notwithstanding paragraph 2, where a Community-scale group of undertakings within the meaning of Article 2(1)(c) comprises one or more undertakings or groups of undertakings which are Community-scale undertakings or Community-scale groups of undertakings within the meaning of Article 2(1)(a) or (c), a European Works Council shall be established at the level of the group unless the agreements referred to in Article 6 provide otherwise.
+
+6\. Unless a wider scope is provided for in the agreements referred to in Article 6, the powers and competence of European Works Councils and the scope of information and consultation procedures established to achieve the purpose specified in paragraph 1 shall, in the case of a Community-scale undertaking, cover all the establishments located within the Member States and, in the case of a Community-scale group of undertakings, all group undertakings located within the Member States.
+
+### Article 2 — Definitions
+
+1\. For the purposes of this Directive:
+
+(a) ‘Community-scale undertaking’ means any undertaking with at least 1 000 employees within the Member States and at least 150 employees in each of at least two Member States;
+
+(b) ‘group of undertakings’ means a controlling undertaking and its controlled undertakings;
+
+(c) ‘Community-scale group of undertakings’ means a group of undertakings with the following characteristics:
+
+— at least 1 000 employees within the Member States,
+
+— at least two group undertakings in different Member States,
+
+and
+
+— at least one group undertaking with at least 150 employees in one Member State and at least one other group undertaking with at least 150 employees in another Member State;
+
+(d) ‘employees’ representatives’ means the employees’ representatives provided for by national law and/or practice;
+
+(e) ‘central management’ means the central management of the Community-scale undertaking or, in the case of a Community-scale group of undertakings, of the controlling undertaking;
+
+(f) ‘information’ means transmission of data by the employer to the employees’ representatives in order to enable them to acquaint themselves with the subject matter and to examine it; information shall be given at such time, in such fashion and with such content as are appropriate to enable employees’ representatives to undertake an in-depth assessment of the possible impact and, where appropriate, prepare for consultations with the competent organ of the Community-scale undertaking or Community-scale group of undertakings;
+
+(g) ‘consultation’ means the establishment of dialogue and exchange of views between employees’ representatives and central management or any more appropriate level of management, at such time, in such fashion and with such content as enables employees’ representatives to express an opinion on the basis of the information provided about the proposed measures to which the consultation is related, without prejudice to the responsibilities of the management, and within a reasonable time, which may be taken into account within the Community-scale undertaking or Community-scale group of undertakings;
+
+(h) ‘European Works Council’ means a council established in accordance with Article 1(2) or the provisions of Annex I, with the purpose of informing and consulting employees;
+
+(i) ‘special negotiating body’ means the body established in accordance with Article 5(2) to negotiate with the central management regarding the establishment of a European Works Council or a procedure for informing and consulting employees in accordance with Article 1(2).
+
+2\. For the purposes of this Directive, the prescribed thresholds for the size of the workforce shall be based on the average number of employees, including part-time employees, employed during the previous two years calculated according to national legislation and/or practice.
+
+### Article 3 — Definition of ‘controlling undertaking’
+
+1\. For the purposes of this Directive, ‘controlling undertaking’ means an undertaking which can exercise a dominant influence over another undertaking (the controlled undertaking) by virtue, for example, of ownership, financial participation or the rules which govern it.
+
+2\. The ability to exercise a dominant influence shall be presumed, without prejudice to proof to the contrary, when an undertaking, in relation to another undertaking directly or indirectly:
+
+(a) holds a majority of that undertaking’s subscribed capital;
+
+(b) controls a majority of the votes attached to that undertaking’s issued share capital;
+
+or
+
+(c) can appoint more than half of the members of that undertaking’s administrative, management or supervisory body.
+
+3\. For the purposes of paragraph 2, a controlling undertaking’s rights as regards voting and appointment shall include the rights of any other controlled undertaking and those of any person or body acting in his or its own name but on behalf of the controlling undertaking or of any other controlled undertaking.
+
+4\. Notwithstanding paragraphs 1 and 2, an undertaking shall not be deemed to be a ‘controlling undertaking’ with respect to another undertaking in which it has holdings where the former undertaking is a company referred to in Article 3(5)(a) or (c) of Council Regulation (EC) No 139/2004 of 20 January 2004 on the control of concentrations between undertakings ( 9 ).
+
+5\. A dominant influence shall not be presumed to be exercised solely by virtue of the fact that an office holder is exercising his functions, according to the law of a Member State relating to liquidation, winding up, insolvency, cessation of payments, compositions or analogous proceedings.
+
+6\. The law applicable in order to determine whether an undertaking is a controlling undertaking shall be the law of the Member State which governs that undertaking.
+
+Where the law governing that undertaking is not that of a Member State, the law applicable shall be the law of the Member State within whose territory the representative of the undertaking or, in the absence of such a representative, the central management of the group undertaking which employs the greatest number of employees is situated.
+
+7\. Where, in the case of a conflict of laws in the application of paragraph 2, two or more undertakings from a group satisfy one or more of the criteria laid down in that paragraph, the undertaking which satisfies the criterion laid down in point (c) thereof shall be regarded as the controlling undertaking, without prejudice to proof that another undertaking is able to exercise a dominant influence.
+
+## SECTION II — ESTABLISHMENT OF A EUROPEAN WORKS COUNCIL OR AN EMPLOYEE INFORMATION AND CONSULTATION PROCEDURE
+
+### Article 4 — Responsibility for the establishment of a European Works Council or an employee information and consultation procedure
+
+1\. The central management shall be responsible for creating the conditions and means necessary for the setting-up of a European Works Council or an information and consultation procedure, as provided for in Article 1(2), in a Community-scale undertaking and a Community-scale group of undertakings.
+
+2\. Where the central management is not situated in a Member State, the central management’s representative agent in a Member State, to be designated if necessary, shall take on the responsibility referred to in paragraph 1.
+
+In the absence of such a representative, the management of the establishment or group undertaking employing the greatest number of employees in any one Member State shall take on the responsibility referred to in paragraph 1.
+
+3\. For the purposes of this Directive, the representative or representatives or, in the absence of any such representatives, the management referred to in the second subparagraph of paragraph 2, shall be regarded as the central management.
+
+4\. The management of every undertaking belonging to the Community-scale group of undertakings and the central management or the deemed central management within the meaning of the second subparagraph of paragraph 2 of the Community-scale undertaking or group of undertakings shall be responsible for obtaining and transmitting to the parties concerned by the application of this Directive the information required for commencing the negotiations referred to in Article 5, and in particular the information concerning the structure of the undertaking or the group and its workforce. This obligation shall relate in particular to the information on the number of employees referred to in Article 2(1)(a) and (c).
+
+### Article 5 — Special negotiating body
+
+1\. In order to achieve the objective set out in Article 1(1), the central management shall initiate negotiations for the establishment of a European Works Council or an information and consultation procedure on its own initiative or at the written request of at least 100 employees or their representatives in at least two undertakings or establishments in at least two different Member States.
+
+2\. For this purpose, a special negotiating body shall be established in accordance with the following guidelines:
+
+(a) The Member States shall determine the method to be used for the election or appointment of the members of the special negotiating body who are to be elected or appointed in their territories.
+
+Member States shall provide that employees in undertakings and/or establishments in which there are no employees’ representatives through no fault of their own, have the right to elect or appoint members of the special negotiating body.
+
+The second subparagraph shall be without prejudice to national legislation and/or practice laying down thresholds for the establishment of employee representation bodies.
+
+(b) The members of the special negotiating body shall be elected or appointed in proportion to the number of employees employed in each Member State by the Community-scale undertaking or Community-scale group of undertakings, by allocating in respect of each Member State one seat per portion of employees employed in that Member State amounting to 10 %, or a fraction thereof, of the number of employees employed in all the Member States taken together;
+
+(c) The central management and local management and the competent European workers’ and employers’ organisations shall be informed of the composition of the special negotiating body and of the start of the negotiations.
+
+3\. The special negotiating body shall have the task of determining, with the central management, by written agreement, the scope, composition, functions, and term of office of the European Works Council(s) or the arrangements for implementing a procedure for the information and consultation of employees.
+
+4\. With a view to the conclusion of an agreement in accordance with Article 6, the central management shall convene a meeting with the special negotiating body. It shall inform the local managements accordingly.
+
+Before and after any meeting with the central management, the special negotiating body shall be entitled to meet without representatives of the central management being present, using any necessary means for communication.
+
+For the purpose of the negotiations, the special negotiating body may request assistance from experts of its choice which can include representatives of competent recognised Community-level trade union organisations. Such experts and such trade union representatives may be present at negotiation meetings in an advisory capacity at the request of the special negotiating body.
+
+5\. The special negotiating body may decide, by at least two-thirds of the votes, not to open negotiations in accordance with paragraph 4, or to terminate the negotiations already opened.
+
+Such a decision shall stop the procedure to conclude the agreement referred to in Article 6. Where such a decision has been taken, the provisions in Annex I shall not apply.
+
+A new request to convene the special negotiating body may be made at the earliest two years after the abovementioned decision unless the parties concerned lay down a shorter period.
+
+6\. Any expenses relating to the negotiations referred to in paragraphs 3 and 4 shall be borne by the central management so as to enable the special negotiating body to carry out its task in an appropriate manner.
+
+In compliance with this principle, Member States may lay down budgetary rules regarding the operation of the special negotiating body. They may in particular limit the funding to cover one expert only.
+
+### Article 6 — Content of the agreement
+
+1\. The central management and the special negotiating body must negotiate in a spirit of cooperation with a view to reaching an agreement on the detailed arrangements for implementing the information and consultation of employees provided for in Article 1(1).
+
+2\. Without prejudice to the autonomy of the parties, the agreement referred to in paragraph 1 and effected in writing between the central management and the special negotiating body shall determine:
+
+(a) the undertakings of the Community-scale group of undertakings or the establishments of the Community-scale undertaking which are covered by the agreement;
+
+(b) the composition of the European Works Council, the number of members, the allocation of seats, taking into account where possible the need for balanced representation of employees with regard to their activities, category and gender, and the term of office;
+
+(c) the functions and the procedure for information and consultation of the European Works Council and the arrangements for linking information and consultation of the European Works Council and national employee representation bodies, in accordance with the principles set out in Article 1(3);
+
+(d) the venue, frequency and duration of meetings of the European Works Council;
+
+(e) where necessary, the composition, the appointment procedure, the functions and the procedural rules of the select committee set up within the European Works Council;
+
+(f) the financial and material resources to be allocated to the European Works Council;
+
+(g) the date of entry into force of the agreement and its duration, the arrangements for amending or terminating the agreement and the cases in which the agreement shall be renegotiated and the procedure for its renegotiation, including, where necessary, where the structure of the Community-scale undertaking or Community-scale group of undertakings changes.
+
+3\. The central management and the special negotiating body may decide, in writing, to establish one or more information and consultation procedures instead of a European Works Council.
+
+The agreement must stipulate by what method the employees’ representatives shall have the right to meet to discuss the information conveyed to them.
+
+This information shall relate in particular to transnational questions which significantly affect workers’ interests.
+
+4\. The agreements referred to in paragraphs 2 and 3 shall not, unless provision is made otherwise therein, be subject to the subsidiary requirements of Annex I.
+
+5\. For the purposes of concluding the agreements referred to in paragraphs 2 and 3, the special negotiating body shall act by a majority of its members.
+
+### Article 7 — Subsidiary requirements
+
+1\. In order to achieve the objective set out in Article 1(1), the subsidiary requirements laid down by the legislation of the Member State in which the central management is situated shall apply:
+
+— where the central management and the special negotiating body so decide,
+
+— where the central management refuses to commence negotiations within six months of the request referred to in Article 5(1),
+
+or
+
+— where, after three years from the date of this request, they are unable to conclude an agreement as laid down in Article 6 and the special negotiating body has not taken the decision provided for in Article 5(5).
+
+2\. The subsidiary requirements referred to in paragraph 1 as adopted in the legislation of the Member States must satisfy the provisions set out in Annex I.
+
+## SECTION III — MISCELLANEOUS PROVISIONS
+
+### Article 8 — Confidential information
+
+1\. Member States shall provide that members of special negotiating bodies or of European Works Councils and any experts who assist them are not authorised to reveal any information which has expressly been provided to them in confidence.
+
+The same shall apply to employees’ representatives in the framework of an information and consultation procedure.
+
+That obligation shall continue to apply, wherever the persons referred to in the first and second subparagraphs are, even after the expiry of their terms of office.
+
+2\. Each Member State shall provide, in specific cases and under the conditions and limits laid down by national legislation, that the central management situated in its territory is not obliged to transmit information when its nature is such that, according to objective criteria, it would seriously harm the functioning of the undertakings concerned or would be prejudicial to them.
+
+A Member State may make such dispensation subject to prior administrative or judicial authorisation.
+
+3\. Each Member State may lay down particular provisions for the central management of undertakings in its territory which pursue directly and essentially the aim of ideological guidance with respect to information and the expression of opinions, on condition that, at the date of adoption of this Directive such particular provisions already exist in the national legislation.
+
+### Article 9 — Operation of the European Works Council and the information and consultation procedure for workers
+
+The central management and the European Works Council shall work in a spirit of cooperation with due regard to their reciprocal rights and obligations.
+
+The same shall apply to cooperation between the central management and employees’ representatives in the framework of an information and consultation procedure for workers.
+
+### Article 10 — Role and protection of employees’ representatives
+
+1\. Without prejudice to the competence of other bodies or organisations in this respect, the members of the European Works Council shall have the means required to apply the rights arising from this Directive, to represent collectively the interests of the employees of the Community-scale undertaking or Community-scale group of undertakings.
+
+2\. Without prejudice to Article 8, the members of the European Works Council shall inform the representatives of the employees of the establishments or of the undertakings of a Community-scale group of undertakings or, in the absence of representatives, the workforce as a whole, of the content and outcome of the information and consultation procedure carried out in accordance with this Directive.
+
+3\. Members of special negotiating bodies, members of European Works Councils and employees’ representatives exercising their functions under the procedure referred to in Article 6(3) shall, in the exercise of their functions, enjoy protection and guarantees similar to those provided for employees’ representatives by the national legislation and/or practice in force in their country of employment.
+
+This shall apply in particular to attendance at meetings of special negotiating bodies or European Works Councils or any other meetings within the framework of the agreement referred to in Article 6(3), and the payment of wages for members who are on the staff of the Community-scale undertaking or the Community-scale group of undertakings for the period of absence necessary for the performance of their duties.
+
+A member of a special negotiating body or of a European Works Council, or such a member's alternate, who is a member of the crew of a seagoing vessel, shall be entitled to participate in a meeting of the special negotiating body or of the European Works Council, or in any other meeting under any procedures established pursuant to Article 6(3), where that member or alternate is not at sea or in a port in a country other than that in which the shipping company is domiciled, when the meeting takes place.
+
+Meetings shall, where practicable, be scheduled to facilitate the participation of members or alternates, who are members of the crews of seagoing vessels.
+
+In cases where a member of a special negotiating body or of a European Works Council, or such a member's alternate, who is a member of the crew of a seagoing vessel, is unable to attend a meeting, the possibility of using, where possible, new information and communication technologies shall be considered.
+
+4\. In so far as this is necessary for the exercise of their representative duties in an international environment, the members of the special negotiating body and of the European Works Council shall be provided with training without loss of wages.
+
+### Article 11 — Compliance with this Directive
+
+1\. Each Member State shall ensure that the management of establishments of a Community-scale undertaking and the management of undertakings which form part of a Community-scale group of undertakings which are situated within its territory and their employees’ representatives or, as the case may be, employees abide by the obligations laid down by this Directive, regardless of whether or not the central management is situated within its territory.
+
+2\. Member States shall provide for appropriate measures in the event of failure to comply with this Directive; in particular, they shall ensure that adequate administrative or judicial procedures are available to enable the obligations deriving from this Directive to be enforced.
+
+3\. Where Member States apply Article 8, they shall make provision for administrative or judicial appeal procedures which the employees’ representatives may initiate when the central management requires confidentiality or does not give information in accordance with that Article.
+
+Such procedures may include procedures designed to protect the confidentiality of the information in question.
+
+### Article 12 — Relationship with other Community and national provisions
+
+1\. Information and consultation of the European Works Council shall be linked to those of the national employee representation bodies, with due regard to the competences and areas of action of each and to the principles set out in Article 1(3).
+
+2\. The arrangements for the links between the information and consultation of the European Works Council and national employee representation bodies shall be established by the agreement referred to in Article 6. That agreement shall be without prejudice to the provisions of national law and/or practice on the information and consultation of employees.
+
+3\. Where no such arrangements have been defined by agreement, the Member States shall ensure that the processes of informing and consulting are conducted in the European Works Council as well as in the national employee representation bodies in cases where decisions likely to lead to substantial changes in work organisation or contractual relations are envisaged.
+
+4\. This Directive shall be without prejudice to the information and consultation procedures referred to in Directive 2002/14/EC and to the specific procedures referred to in Article 2 of Directive 98/59/EC and Article 7 of Directive 2001/23/EC.
+
+5\. Implementation of this Directive shall not be sufficient grounds for any regression in relation to the situation which already prevails in each Member State and in relation to the general level of protection of workers in the areas to which it applies.
+
+### Article 13 — Adaptation
+
+Where the structure of the Community-scale undertaking or Community-scale group of undertakings changes significantly, and either in the absence of provisions established by the agreements in force or in the event of conflicts between the relevant provisions of two or more applicable agreements, the central management shall initiate the negotiations referred to in Article 5 on its own initiative or at the written request of at least 100 employees or their representatives in at least two undertakings or establishments in at least two different Member States.
+
+At least three members of the existing European Works Council or of each of the existing European Works Councils shall be members of the special negotiating body, in addition to the members elected or appointed pursuant to Article 5(2).
+
+During the negotiations, the existing European Works Council(s) shall continue to operate in accordance with any arrangements adapted by agreement between the members of the European Works Council(s) and the central management.
+
+### Article 14 — Agreements in force
+
+1\. Without prejudice to Article 13, the obligations arising from this Directive shall not apply to Community-scale undertakings or Community-scale groups of undertakings in which, either
+
+(a) an agreement or agreements covering the entire workforce, providing for the transnational information and consultation of employees have been concluded pursuant to Article 13(1) of Directive 94/45/EC or Article 3(1) of Directive 97/74/EC, or where such agreements are adjusted because of changes in the structure of the undertakings or groups of undertakings;
+
+or
+
+(b) an agreement concluded pursuant to Article 6 of Directive 94/45/EC is signed or revised between 5 June 2009 and 5 June 2011.
+
+The national law applicable when the agreement is signed or revised shall continue to apply to the undertakings or groups of undertakings referred to in point (b) of the first subparagraph.
+
+2\. Upon expiry of the agreements referred to in paragraph 1, the parties to those agreements may decide jointly to renew or revise them. Where this is not the case, the provisions of this Directive shall apply.
+
+### Article 15 — Report
+
+No later than 5 June 2016, the Commission shall report to the European Parliament, the Council and the European Economic and Social Committee on the implementation of this Directive, making appropriate proposals where necessary.
+
+### Article 16 — Transposition
+
+1\. Member States shall bring into force the laws, regulations and administrative provisions necessary to comply with Article 1(2), (3) and (4), Article 2(1), points (f) and (g), Articles 3(4), Article 4(4), Article 5(2), points (b) and (c), Article 5(4), Article 6(2), points (b), (c), (e) and (g), and Articles 10, 12, 13 and 14, as well as Annex I, point 1(a), (c) and (d) and points 2 and 3, no later than 5 June 2011 or shall ensure that management and labour introduce on that date the required provisions by way of agreement, the Member States being obliged to take all necessary steps enabling them at all times to guarantee the results imposed by this Directive.
+
+When Member States adopt those provisions, they shall contain a reference to this Directive or be accompanied by such a reference on the occasion of their official publication. They shall also include a statement that references in existing laws, regulations and administrative provisions to the directive repealed by this Directive shall be construed as references to this Directive. Member States shall determine how such reference is to be made and how that statement is to be formulated.
+
+2\. Member States shall communicate to the Commission the text of the main provisions of national law which they adopt in the field covered by this Directive.
+
+### Article 17 — Repeal
+
+Directive 94/45/EC, as amended by the Directives listed in Annex II, Part A, is repealed with effect from 6 June 2011 without prejudice to the obligations of the Member States relating to the time limit for transposition into national law of the Directives set out in Annex II, Part B.
+
+References to the repealed Directive shall be construed as references to this Directive and shall be read in accordance with the correlation table in Annex III.
+
+### Article 18 — Entry into force
+
+This Directive shall enter into force on the 20th day following its publication in the Official Journal of the European Union.
+
+Article 1(1), (5), (6) and (7), Article 2(1), points (a) to (e), (h) and (i), Article 2(2), Articles 3(1), (2), (3), (5), (6) and (7), Article 4(1), (2) and (3), Article 5(1), (3), (5) and (6), Article 5(2), point (a), Article 6(1), Article 6(2), points (a), (d) and (f), and Article 6(3), (4) and (5), and Articles 7, 8, 9 and 11, as well as Annex I, point 1(b), (e) and (f), and points 4, 5 and 6, shall apply from 6 June 2011.
+
+### Article 19 — Addressees
+
+This Directive is addressed to the Member States.
+
+## ANNEX I
+
+**SUBSIDIARY REQUIREMENTS**
+
+**(referred to in Article 7)**
+
+1\. In order to achieve the objective set out in Article 1(1) and in the cases provided for in Article 7(1), the establishment, composition and competence of a European Works Council shall be governed by the following rules:
+
+(a) The competence of the European Works Council shall be determined in accordance with Article 1(3).
+
+The information of the European Works Council shall relate in particular to the structure, economic and financial situation, probable development and production and sales of the Community-scale undertaking or group of undertakings. The information and consultation of the European Works Council shall relate in particular to the situation and probable trend of employment, investments, and substantial changes concerning organisation, introduction of new working methods or production processes, transfers of production, mergers, cut-backs or closures of undertakings, establishments or important parts thereof, and collective redundancies.
+
+The consultation shall be conducted in such a way that the employees’ representatives can meet with the central management and obtain a response, and the reasons for that response, to any opinion they might express;
+
+(b) The European Works Council shall be composed of employees of the Community-scale undertaking or Community-scale group of undertakings elected or appointed from their number by the employees’ representatives or, in the absence thereof, by the entire body of employees.
+
+The election or appointment of members of the European Works Council shall be carried out in accordance with national legislation and/or practice;
+
+(c) The members of the European Works Council shall be elected or appointed in proportion to the number of employees employed in each Member State by the Community-scale undertaking or Community-scale group of undertakings, by allocating in respect of each Member State one seat per portion of employees employed in that Member State amounting to 10 %, or a fraction thereof, of the number of employees employed in all the Member States taken together;
+
+(d) To ensure that it can coordinate its activities, the European Works Council shall elect a select committee from among its members, comprising at most five members, which must benefit from conditions enabling it to exercise its activities on a regular basis.
+
+It shall adopt its own rules of procedure;
+
+(e) The central management and any other more appropriate level of management shall be informed of the composition of the European Works Council;
+
+(f) Four years after the European Works Council is established it shall examine whether to open negotiations for the conclusion of the agreement referred to in Article 6 or to continue to apply the subsidiary requirements adopted in accordance with this Annex.
+
+Articles 6 and 7 shall apply, mutatis mutandis, if a decision has been taken to negotiate an agreement according to Article 6, in which case ‘special negotiating body’ shall be replaced by ‘European Works Council’.
+
+2\. The European Works Council shall have the right to meet with the central management once a year, to be informed and consulted, on the basis of a report drawn up by the central management, on the progress of the business of the Community-scale undertaking or Community-scale group of undertakings and its prospects. The local managements shall be informed accordingly.
+
+3\. Where there are exceptional circumstances or decisions affecting the employees’ interests to a considerable extent, particularly in the event of relocations, the closure of establishments or undertakings or collective redundancies, the select committee or, where no such committee exists, the European Works Council shall have the right to be informed. It shall have the right to meet, at its request, the central management, or any other more appropriate level of management within the Community-scale undertaking or group of undertakings having its own powers of decision, so as to be informed and consulted.
+
+Those members of the European Works Council who have been elected or appointed by the establishments and/or undertakings which are directly concerned by the circumstances or decisions in question shall also have the right to participate where a meeting is organised with the select committee.
+
+This information and consultation meeting shall take place as soon as possible on the basis of a report drawn up by the central management or any other appropriate level of management of the Community-scale undertaking or group of undertakings, on which an opinion may be delivered at the end of the meeting or within a reasonable time.
+
+This meeting shall not affect the prerogatives of the central management.
+
+The information and consultation procedures provided for in the above circumstances shall be carried out without prejudice to Article 1(2) and Article 8.
+
+4\. The Member States may lay down rules on the chairing of information and consultation meetings.
+
+Before any meeting with the central management, the European Works Council or the select committee, where necessary enlarged in accordance with the second paragraph of point 3, shall be entitled to meet without the management concerned being present.
+
+5\. The European Works Council or the select committee may be assisted by experts of its choice, in so far as this is necessary for it to carry out its tasks.
+
+6\. The operating expenses of the European Works Council shall be borne by the central management.
+
+The central management concerned shall provide the members of the European Works Council with such financial and material resources as enable them to perform their duties in an appropriate manner.
+
+In particular, the cost of organising meetings and arranging for interpretation facilities and the accommodation and travelling expenses of members of the European Works Council and its select committee shall be met by the central management unless otherwise agreed.
+
+In compliance with these principles, the Member States may lay down budgetary rules regarding the operation of the European Works Council. They may in particular limit funding to cover one expert only.
+
+## ANNEX II
+
+**PART A**
+
+**Repealed Directive with its successive amendments**
+
+**(referred to in Article 17)**
+
+| Council Directive 94/45/EC | (OJ L 254, 30.9.1994, p. 64) |
+| --- | --- |
+| Council Directive 97/74/EC | (OJ L 10, 16.1.1998, p. 22) |
+| Council Directive 2006/109/EC | (OJ L 363, 20.12.2006, p. 416) |
+
+**PART B**
+
+**Time limits for transposition into national law**
+
+**(referred to in Article 17)**
+
+Directive Time limit for transposition
+
+94/45/EC 22.9.1996
+
+97/74/EC 15.12.1999
+
+2006/109/EC 1.1.2007
+
+## ANNEX III
+
+**Correlation table**
+
+| Directive 94/45/EC | This Directive |
+| --- | --- |
+| Article 1(1) | Article 1(1) |
+| Article 1(2) | Article 1(2), first sentence |
+| — | Article 1(2), second sentence |
+| — | Article 1(3) and (4) |
+| Article 1(3) | Article 1(5) |
+| Article 1(4) | Article 1(6) |
+| Article 1(5) | Article 1(7) |
+| Article 2(1)(a) to (e) | Article 2(1)(a) to (e) |
+| — | Article 2(1)(f) |
+| Article 2(1)(f) | Article 2(1)(g) |
+| Article 2(1)(g) and (h) | Article 2(1)(h) and (i) |
+| Article 2(2) | Article 2(2) |
+| Article 3 | Article 3 |
+| Article 4(1)(2) and (3) | Article 4(1)(2) and (3) |
+| Article 11(2) | Article 4(4) |
+| Article 5(1) and (2)(a) | Article 5(1) and (2)(a) |
+| Article 5(2)(b) and (c) | Article 5(2)(b) |
+| Article 5(2)(d) | Article 5(2)(c) |
+| Article 5(3) | Article 5(3) |
+| Article 5(4), first subparagraph | Article 5(4), first subparagraph |
+| — | Article 5(4), second subparagraph |
+| Article 5(4), second subparagraph | Article 5(4), third subparagraph |
+| Article 5(5) and (6) | Article 5(5) and (6) |
+| Article 6(1) and (2)(a) | Article 6(1) and (2)(a) |
+| Article 6(2)(b) | Article 6(2)(b) |
+| Article 6(2)(c) | Article 6(2)(c) |
+| Article 6(2)(d) | Article 6(2)(d) |
+| — | Article 6(2)(e) |
+| Article 6(2)(e) | Article 6(2)(f) |
+| Article 6(2)(f) | Article 6(2)(g) |
+| Article 6(3)(4) and (5) | Article 6(3)(4) and (5) |
+| Article 7 | Article 7 |
+| Article 8 | Article 8 |
+| Article 9 | Article 9 |
+| — | Article 10(1) and (2) |
+| Article 10 | Article 10(3) |
+| — | Article 10(4) |
+| Article 11(1) | Article 11(1) |
+| Article 11(2) | Article 4(4) |
+| Article 11(3) | Article 11(2) |
+| Article 11(4) | Article 11(3) |
+| Article 12(1) and (2) | — |
+| — | Article 12(1) to (5) |
+| — | Article 13 |
+| Article 13(1) | Article 14(1) |
+| Article 13(2) | Article 14(2) |
+| — | Article 15 |
+| Article 14 | Article 16 |
+| — | Article 17 |
+| — | Article 18 |
+| Article 16 | Article 19 |
+| Annex | Annex I |
+| Point 1, introductory wording | Point 1, introductory wording |
+| Point 1(a) (partly) and point 2, second paragraph (partly) | Point 1(a) (partly) |
+| Point 1(b) | Point 1(b) |
+| Point 1(c) (partly) and point 1(d) | Point 1(c) |
+| Point 1(c) (partly) | Point 1(d) |
+| Point 1(e) | Point 1(e) |
+| Point 1(f) | Point 1(f) |
+| Point 2, first paragraph | Point 2 |
+| Point 3 | Point 3 |
+| Point 4 | Point 4 |
+| Point 5 | — |
+| Point 6 | Point 5 |
+| Point 7 | Point 6 |
+| — | Annexes II and III |
+
+( 1 ) Opinion of 4 December 2008 (not yet published in the Official Journal).
+
+( 2 ) Opinion of the European Parliament of 16 December 2008 (not yet published in the Official Journal) and Council Decision of 17 December 2008.
+
+( 3 ) OJ L 254, 30.9.1994, p. 64.
+
+( 4 ) OJ L 80, 23.3.2002, p. 29.
+
+( 5 ) OJ L 225, 12.8.1998, p. 16.
+
+( 6 ) OJ L 82, 22.3.2001, p. 16.
+
+( 7 ) Council Directive 97/74/EC of 15 December 1997 extending, to the United Kingdom of Great Britain and Northern Ireland, Directive 94/45/EC on the establishment of a European Works Council or a procedure in Community-scale undertakings and Community-scale groups of undertakings for the purposes of informing and consulting employees (OJ L 10, 16.1.1998, p. 22).
+
+( 8 ) OJ C 321, 31.12.2003, p. 1.
+
+( 9 ) OJ L 24, 29.1.2004, p. 1.

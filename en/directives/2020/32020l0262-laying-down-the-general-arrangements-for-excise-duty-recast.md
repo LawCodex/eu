@@ -1,0 +1,1105 @@
+---
+title: "Council Directive (EU) 2020/262 of 19 December 2019 laying down the general arrangements for excise duty (recast)"
+identifier: "32020L0262"
+eli: "http://data.europa.eu/eli/dir/2020/262/oj"
+type: directive
+jurisdiction: eu
+language: en
+date: 2019-12-19
+entry_into_force: 2020-12-12
+last_amended: 2022-04-26
+consolidated_version: "02020L0262-20220426"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02020L0262-20220426"
+retrieved: 2026-10-11
+---
+
+# Council Directive (EU) 2020/262 of 19 December 2019 laying down the general arrangements for excise duty (recast)
+
+**COUNCIL DIRECTIVE (EU) 2020/262**
+
+**of 19 December 2019**
+
+**laying down the general arrangements for excise duty**
+
+**(recast)**
+
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> COUNCIL DIRECTIVE (EU) 2022/543 of 5 April 2022 </td><td> L 107</td><td>13</td><td>6.4.2022</td></tr>
+
+**COUNCIL DIRECTIVE (EU) 2020/262**
+
+**of 19 December 2019**
+
+**laying down the general arrangements for excise duty**
+
+**(recast)**
+
+## CHAPTER I — General provisions
+
+#### Article 1 — Subject matter
+
+1\. This Directive lays down general arrangements for excise duty which is levied directly or indirectly on the consumption of the following goods (‘excise goods’):
+
+(a) energy products and electricity covered by Directive 2003/96/EC;
+
+(b) alcohol and alcoholic beverages covered by Directives 92/83/EEC and 92/84/EEC;
+
+(c) manufactured tobacco covered by Directive 2011/64/EU.
+
+2\. Member States may levy other indirect taxes on excise goods for specific purposes, provided that those taxes comply with the Union tax rules applicable to excise duty or value added tax as far as determination of the tax base, calculation of the tax, chargeability and monitoring of the tax are concerned, but not including the provisions on exemptions.
+
+3\. Member States may levy taxes on:
+
+(a) products other than excise goods;
+
+(b) the supply of services, including those relating to excise goods, which cannot be characterised as turnover taxes.
+
+However, the levying of such taxes may not, in trade between Member States, give rise to formalities connected with the crossing of frontiers.
+
+#### Article 2 — Application of the Union Customs Code to excise goods
+
+1\. The formalities laid down by the Union customs provisions for the entry of goods into the customs territory of the Union shall apply mutatis mutandis to the entry of excise goods into the territory of the Union from one of the territories referred to in Article 4(2).
+
+2\. The formalities laid down by the Union customs provisions for the exit of goods from the customs territory of the Union shall apply mutatis mutandis to the exit of excise goods from the territory of the Union to one of the territories referred to in Article 4(2).
+
+3\. By way of derogation from paragraphs 1 and 2, Finland shall be authorised, for movements of excise goods between the territory of that Member State and the territories referred to in point (c) of Article 4(2), to apply the same procedures as those applied for such movements within the territory of that Member State.
+
+4\. Articles 14 to 46 shall not apply to excise goods that have the customs status of non‐Union goods as defined in point (24) of Article 5 of Regulation (EU) No 952/2013 of the European Parliament and of the Council ( 1 ).
+
+#### Article 3 — Definitions
+
+For the purpose of this Directive, the following definitions apply:
+
+(1) ‘authorised warehousekeeper’ means a natural or legal person authorised by the competent authorities of a Member State, in the course of the business of that person, to produce, process, hold, store, receive or dispatch excise goods under a duty suspension arrangement in a tax warehouse;
+
+(2) ‘territory of a Member State’ means the territory of a Member State to which the Treaties are applicable, in accordance with Articles 349 and 355 of the TFEU, with the exception of third territories;
+
+(3) ‘territory of the Union’ means the territories of the Member States;
+
+(4) ‘third territories’ means the territories referred to in Article 4(2) and (3);
+
+(5) ‘third countries’ means any State or territory to which the Treaties are not applicable;
+
+(6) ‘duty suspension arrangement’ means a tax arrangement applied to the production, processing, holding, storage or movement of excise goods whereby excise duty is suspended;
+
+(7) ‘importation’ means the release of goods for free circulation in accordance with Article 201 of Regulation (EU) No 952/2013;
+
+(8) ‘irregular entry’ means an entry of goods into the territory of the Union, which have not been placed under release for free circulation in accordance with Article 201 of Regulation (EU) No 952/2013 and for which a customs debt under Article 79(1) of that Regulation has been incurred, or would have been incurred if the goods had been subject to customs duty;
+
+(9) ‘registered consignee’ means a natural or legal person authorised by the competent authorities of the Member State of destination to receive, in the course of the business of that person and under the conditions fixed by those authorities, excise goods moving under a duty suspension arrangement from the territory of another Member State;
+
+(10) ‘registered consignor’ means a natural or legal person authorised by the competent authorities of the Member State of importation, to only dispatch excise goods under a duty suspension arrangement upon their release for free circulation in accordance with Article 201 of Regulation (EU) No 952/2013 in the course of the business of that person and under the conditions fixed by those authorities;
+
+(11) ‘tax warehouse’ means a place where excise goods are produced, processed, held, stored, received or dispatched under duty suspension arrangements by an authorised warehousekeeper in the course of the business of that person, subject to certain conditions laid down by the competent authorities of the Member State where the tax warehouse is located;
+
+(12) ‘certified consignor’ means a natural or legal person registered with the competent authorities of the Member State of dispatch in order to dispatch excise goods, in the course of the business of that person, that have been released for consumption in the territory of one Member State and then moved to the territory of another Member State;
+
+(13) ‘certified consignee’ means a natural or legal person registered with the competent authorities of the Member State of destination in order to receive excise goods, in the course of the business of that person, that have been released for consumption in the territory of one Member State and then moved to the territory of another Member State;
+
+(14) ‘Member State of destination’ means the Member State to which excise goods are to be delivered or used in accordance with the provisions of this Directive;
+
+(15) ‘remission’ means the waiving of the obligation to pay an amount of excise duty that has not been paid;
+
+(16) ‘reimbursement’ means the refunding of an amount of excise duty that has been paid.
+
+#### Article 4 — Territorial application
+
+1\. This Directive and Directives 92/83/EEC, 92/84/EEC, 2003/96/EC and 2011/64/EU shall apply to the territory of the Union.
+
+2\. This Directive and Directives 92/83/EEC, 92/84/EEC, 2003/96/EC and 2011/64/EU shall not apply to the following territories forming part of the customs territory of the Union:
+
+(a) the Canary Islands;
+
+(b) the French territories referred to in Article 349 and Article 355(1) of the TFEU;
+
+(c) the Åland Islands;
+
+(d) the Channel Islands.
+
+3\. This Directive and Directives 92/83/EEC, 92/84/EEC, 2003/96/EC and 2011/64/EU shall not apply to the territories within the scope of Article 355(3) of the TFEU, nor to the following other territories not forming part of the customs territory of the Union:
+
+(a) the Island of Heligoland;
+
+(b) the territory of Büsingen;
+
+(c) Ceuta;
+
+(d) Melilla;
+
+(e) Livigno.
+
+4\. Spain may give notice, by means of a declaration, that this Directive and Directives 92/83/EEC, 92/84/EEC, 2003/96/EC and 2011/64/EU shall apply to the Canary Islands — subject to measures to adapt to their extreme remoteness — in respect of all or some of the excise goods referred to in Article 1, from the first day of the second month following deposit of such declaration.
+
+5\. France may give notice, by means of a declaration, that this Directive and Directives 92/83/EEC, 92/84/EEC, 2003/96/EC and 2011/64/EU apply to the territories referred to in point (b) of paragraph 2, subject to measures to adapt to their extreme remoteness, in respect of all or some of the excise goods referred to in Article 1, from the first day of the second month following the deposit of such declaration.
+
+6\. The provisions of this Directive shall not prevent Greece from maintaining the specific status granted to Mount Athos as guaranteed by Article 105 of the Greek Constitution.
+
+#### Article 5 — Special territorial status
+
+1\. In view of the conventions and treaties concluded with France, Italy, Cyprus and the United Kingdom respectively, the Principality of Monaco, San Marino, the United Kingdom Sovereign Base Areas of Akrotiri and Dhekelia, and the Isle of Man shall not be regarded, for the purposes of this Directive, as third countries.
+
+2\. Member States shall take the measures necessary to ensure that movements of excise goods originating in or intended for:
+
+(a) the Principality of Monaco are treated as movements originating in or intended for France;
+
+(b) San Marino are treated as movements originating in or intended for Italy;
+
+(c) United Kingdom Sovereign Base Areas of Akrotiri and Dhekelia are treated as movements originating in or intended for Cyprus;
+
+(d) the Isle of Man are treated as movements originating in or intended for the United Kingdom.
+
+3\. Member States shall take the measures necessary to ensure that movements of excise goods originating in or intended for Jungholz and Mittelberg (Kleines Walsertal) are treated as movements originating in or intended for Germany.
+
+## CHAPTER II — General procedural provisions
+
+### Section 1 — Taxable event, chargeability, irregularities during a movement under duty suspension
+
+#### Article 6 — Taxable event, time and place of chargeability, destruction and irretrievable losses
+
+1\. Excise goods shall be subject to excise duty at the time of:
+
+(a) their production, including, where applicable, their extraction, within the territory of the Union;
+
+(b) their importation or their irregular entry into the territory of the Union.
+
+2\. Excise duty shall become chargeable at the time, and in the Member State, of release for consumption.
+
+3\. For the purposes of this Directive, ‘release for consumption’ means any of the following:
+
+(a) the departure of excise goods, including irregular departure, from a duty suspension arrangement;
+
+(b) the holding or storage of excise goods, including cases of irregularity, outside a duty suspension arrangement where excise duty has not been levied pursuant to the applicable provisions of Union law and national legislation;
+
+(c) the production, including processing, of excise goods and irregular production or processing, outside a duty suspension arrangement;
+
+(d) the importation of excise goods, unless the excise goods are placed, immediately upon importation, under a duty suspension arrangement, or the irregular entry of excise goods, unless the customs debt was extinguished under points (e), (f), (g) or (k) of Article 124(1) of Regulation (EU) No 952/2013. If the customs debt was extinguished according to the point (e) of Article 124(1) of Regulation (EU) No 952/2013, Member States may provide in their national law for a penalty taking into account the amount of excise debt which would have been incurred.
+
+4\. The time of departure from a duty suspension arrangement as referred to in point (a) of paragraph 3 shall be deemed to be:
+
+(a) the time of receipt of the excise goods by the registered consignee in the situations referred to in point (a)(ii) of Article 16(1);
+
+(b) the time of receipt of the excise goods by the consignee in the situations referred to in point (a)(iv) of Article 16(1);
+
+(c) the time of receipt of the excise goods at the place of direct delivery in the situations referred to in Article 16(4).
+
+5\. The total destruction or irretrievable loss, total or partial, of excise goods under a duty suspension arrangement, as a result of unforeseeable circumstances or force majeure, or as a consequence of an authorisation to destroy the goods by the competent authorities of the Member State, shall not be considered a release for consumption.
+
+6\. For the purposes of this Directive, goods shall be considered totally destroyed or irretrievably lost when they are rendered unusable as excise goods.
+
+7\. Partial loss due to the nature of the goods that occurs during a duty suspension movement between the Member States shall not be considered a release for consumption in so far as the amount of loss falls below the common partial loss threshold for those excise goods, unless a Member State has reasonable cause to suspect fraud or irregularity. That part of a partial loss which exceeds the common partial loss threshold for those excise goods shall be treated as a release for consumption.
+
+8\. A Member State may lay down its own rules for the treatment of partial losses under duty suspension arrangement not covered by paragraph 7.
+
+9\. The total destruction or irretrievable loss, total or partial, of the excise goods as referred to in paragraph 5 shall be proven to the satisfaction of the competent authorities of the Member State where the total destruction or irretrievable loss, total or partial, occurred or, when it is not possible to determine where the loss occurred, where it was detected.
+
+Where total destruction or irretrievable loss, total or partial, of the excise goods is established, the guarantee lodged in accordance with Article 17 shall be released, fully or partially, as appropriate, upon the production of satisfactory proof.
+
+10\. The Commission shall adopt delegated acts in accordance with Article 51 establishing the common partial loss thresholds referred to in paragraph 7 of this Article and in Article 45(2) having regard, inter alia, to the nature of the goods, the physical and chemical characteristics of the goods, the ambient temperature during the movement, the distance of the movement or time consumed during movement, specifying the excise goods, the corresponding common partial loss threshold as a percentage of the total quantity and other relevant aspects related to transport of the goods.
+
+In the absence of common partial loss thresholds, Member States shall continue to apply the national provisions.
+
+#### Article 7 — Person liable to pay excise duty
+
+1\. The person liable to pay the excise duty that has become chargeable shall be:
+
+(a) in relation to the departure of excise goods from a duty suspension arrangement as referred to in point (a) of Article 6(3):
+
+(i) the authorised warehousekeeper, the registered consignee or any other person releasing the excise goods or on whose behalf the excise goods are released from the duty suspension arrangement and, in the case of irregular departure from the tax warehouse, any other person involved in that departure;
+
+(ii) in the case of an irregularity during a movement of excise goods under a duty suspension arrangement as defined in Article 9(1), (2) and (4): the authorised warehousekeeper, the registered consignor or any other person who guaranteed the payment in accordance with Article 17(1) and (3) and any person who participated in the irregular departure and who was aware or who should reasonably have been aware of the irregular nature of the departure;
+
+(b) in relation to the holding or storage of excise goods as referred to in point (b) of Article 6(3): the person holding or storing the excise goods, or any other person involved in the holding or storage of the excise goods, or any combination of such persons in accordance with the principle of joint and several liability;
+
+(c) in relation to the production, including processing, of excise goods as referred to in point (c) of Article 6(3): the person producing the excise goods and, in the case of irregular production, any other person involved in their production;
+
+(d) in relation to the importation or irregular entry of excise goods as referred to in point (d) of Article 6(3): the declarant as defined in point (15) of Article 5 of Regulation (EU) No 952/2013 (the ‘declarant’) or any other person as referred to in Article 77(3) of that Regulation and, in the case of irregular entry, any other person involved in that irregular entry.
+
+2\. Where several persons are liable for payment of the same excise duty, they shall be jointly and severally liable for such debt.
+
+#### Article 8 — Chargeability conditions and rates of excise duty to be used
+
+The chargeability conditions and rate of excise duty to be applied shall be those in force on the date on which the duty becomes chargeable in the Member State where release for consumption takes place.
+
+Excise duty shall be levied and collected and, where appropriate, reimbursed or remitted, according to the procedure laid down by each Member State. Member States shall apply the same procedures to national goods and to those from other Member States.
+
+By way of derogation from the first paragraph, when excise duty rates are changed, stocks of excise goods already released for consumption may be subject, where appropriate, to an increase in, or a reduction of, the excise duty.
+
+#### Article 9 — Irregularities during movements of excise goods under duty suspension
+
+1\. Where an irregularity has occurred during a movement of excise goods under a duty suspension arrangement, giving rise to their release for consumption in accordance with point (a) of Article 6(3), the release for consumption shall take place in the territory of the Member State where the irregularity occurred.
+
+2\. Where an irregularity has been detected during a movement of excise goods under a duty suspension arrangement, giving rise to their release for consumption in accordance with point (a) of Article 6(3), and it is not possible to determine where the irregularity occurred, it shall be deemed to have occurred on the territory of the Member State in which and at the time when the irregularity was detected.
+
+3\. In the situations referred to in paragraphs 1 and 2, the competent authorities of the Member States where the goods have been or are deemed to have been released for consumption shall inform the competent authorities of the Member State of dispatch.
+
+4\. Where excise goods moving under a duty suspension arrangement have not arrived at their destination and no irregularity giving rise to their release for consumption in accordance with point (a) of Article 6(3) has been detected during the movement, an irregularity shall be deemed to have occurred in the Member State of dispatch at the time when the movement began, unless, within a period of four months from the start of the movement in accordance with Article 19(1), evidence is provided to the satisfaction of the competent authorities of the Member State of dispatch of the end of the movement in accordance with Article 19(2), or of the place where the irregularity occurred.
+
+Where the person who guaranteed the payment in accordance with Article 17 has not been, or could not have been, informed that the goods have not arrived at their destination, a period of one month from the date of communication of this information by the competent authorities of the Member State of dispatch shall be granted to enable that person to provide evidence of the end of the movement in accordance with Article 19(2), or of the place where the irregularity occurred.
+
+5\. In the situations referred to in paragraphs 2 and 4, if, before the expiry of a period of three years from the date on which the movement began, in accordance with Article 19(1), it is ascertained in which Member State the irregularity actually occurred, paragraph 1 shall apply.
+
+The competent authorities of the Member State where the irregularity occurred shall inform the competent authorities of the Member State where the excise duty was levied, which shall reimburse or remit it as soon as evidence of the levying of the excise duty in the other Member State has been provided.
+
+6\. For the purposes of this Article, ‘irregularity’ means a situation occurring during a movement of excise goods under a duty suspension arrangement, other than the one referred to in Article 6(5) and (6), due to which a movement, or a part of a movement of excise goods, has not ended in accordance with Article 19(2).
+
+### Section 2 — Reimbursement and remission
+
+#### Article 10 — Reimbursement and remission
+
+In addition to the cases referred to in Article 37(4), Article 44(5), and Article 46(3), as well as those provided for by Directives 92/83/EEC, 92/84/EEC, 2003/96/EC and 2011/64/EU, excise duty on excise goods which have been released for consumption may, at the request of a person concerned, be reimbursed or remitted by the competent authorities of the Member State where those goods were released for consumption in the situations fixed by the Member State and in accordance with the conditions that the Member State shall lay down for the purpose of preventing any possible evasion or abuse.
+
+Such reimbursement or remission may not give rise to exemptions other than those provided for in Article 11 or by Directives 92/83/EEC, 92/84/EEC, 2003/96/EC or 2011/64/EU.
+
+### Section 3 — Exemptions
+
+#### Article 11 — Exemptions from payment of excise duty
+
+1\. Excise goods shall be exempted from payment of excise duty where they are intended to be used:
+
+(a) in the context of diplomatic or consular relations;
+
+(b) by international organisations recognised as such by the public authorities of the host Member State, and by members of such organisations, within the limits and under the conditions laid down by the international conventions establishing such organisations or by headquarters agreements;
+
+(c) by the armed forces of any Member State other than the Member State within which the excise duty is chargeable, for the use of those forces, for the civilian staff accompanying them or for supplying their messes or canteens when such forces take part in a defence effort carried out for the implementation of a Union activity under the common security and defence policy;
+
+(d) by the armed forces of any State party to the North Atlantic Treaty other than the Member State within which the excise duty is chargeable, for the use of those forces, for the civilian staff accompanying them or for supplying their messes or canteens;
+
+(e) by the armed forces of the United Kingdom stationed in Cyprus pursuant to the Treaty of Establishment concerning the Republic of Cyprus dated 16 August 1960, for the use of those forces, for the civilian staff accompanying them or for supplying their messes or canteens;
+
+(f) for consumption under an agreement concluded with third countries or international organisations provided that such an agreement is allowed or authorised with regard to exemption from value added tax.
+
+2\. Exemptions shall be subject to conditions and limitations laid down by the host Member State. Member States may grant the exemption by means of a refund of excise duty.
+
+#### Article 12 — Exemption certificate
+
+1\. Excise goods moving from the territory of one Member State to the territory of another Member State under a duty suspension arrangement and subject to the exemption referred to in Article 11(1) shall be accompanied by an exemption certificate. The exemption certificate shall specify the nature and quantity of the excise goods to be delivered, the value of the goods and the identity of the exempt consignee and the host Member State certifying the exemption.
+
+2\. Member States may use the exemption certificate referred to in paragraph 1 to cover other fields of indirect taxation and to ensure that the exemption certificate is compatible with conditions and limitations for the grant of exemptions in their national law.
+
+3\. The Commission shall adopt implementing acts establishing the form to be used for the exemption certificate. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 52(2).
+
+4\. The procedure laid down in Articles 20 to 27 shall not apply to the movements of excise goods under a duty suspension arrangement to the armed forces referred to in point (d) of Article 11(1), if they are covered by a procedure which is directly based on the North Atlantic Treaty.
+
+However, Member States may provide that the procedure laid down in Articles 20 to 27 shall be used for such movements taking place entirely within their territory or, by agreement between the Member States concerned, between their territories.
+
+#### Article 13 — Excise duty payment exemptions for passengers travelling to third countries or third territories
+
+1\. Member States may exempt from payment of excise duty excise goods supplied by tax-free shops which are carried away in the personal luggage of travellers to a third territory or to a third country taking a flight or sea-crossing.
+
+1a. The exemption provided for in paragraph 1 shall also apply to excise goods supplied by tax-free shops situated in the French terminal of the Channel Tunnel in Coquelles to passengers holding transport documents which are valid for a journey to the United Kingdom through the Channel Fixed Link.
+
+2\. Goods supplied on board an aircraft or ship during the flight or sea-crossing to a third territory or a third country shall be treated in the same way as goods supplied by tax-free shops.
+
+3\. Member States shall take the measures necessary to ensure that the exemptions provided for in paragraphs 1, 1a and 2 are applied in such a way as to prevent any possible evasion, avoidance or abuse.
+
+4\. For the purposes of this Article, the following definitions apply:
+
+(a) ‘tax-free shop’ means any establishment situated within an airport or port which fulfils the conditions laid down by the competent authorities of the Member States, pursuant in particular to paragraph 3;
+
+(b) ‘traveller to a third territory or to a third country’ means any passenger holding a transport document, for air or sea travel, stating that the final destination is an airport or port situated in a third territory or a third country.
+
+## CHAPTER III — Production, processing, holding and storage
+
+#### Article 14 — General provision
+
+1\. Each Member State shall determine its rules concerning the production, processing, holding and storage of excise goods, subject to this Directive.
+
+2\. The production, processing, holding and storage of excise goods, where the excise duty has not been paid, shall take place in a tax warehouse.
+
+#### Article 15 — Conditions for authorisation as an authorised warehousekeeper
+
+1\. The opening and operation of a tax warehouse by an authorised warehousekeeper shall be subject to authorisation by the competent authorities of the Member State where the tax warehouse is situated.
+
+Such authorisation shall be subject to the conditions that the authorities are entitled to lay down for the purposes of preventing any possible evasion or abuse.
+
+2\. An authorised warehousekeeper shall be required to:
+
+(a) provide, if necessary, a guarantee to cover the risk inherent in the production, processing, holding and storage of excise goods;
+
+(b) comply with the requirements laid down by the Member State within whose territory the tax warehouse is situated;
+
+(c) keep, for each tax warehouse, accounts of stock and movements of excise goods;
+
+(d) enter into his or her tax warehouse and enter in his or her accounts at the end of their movement all excise goods moving under a duty suspension arrangement, except where Article 16(4) applies;
+
+(e) consent to all monitoring and stock checks.
+
+The conditions for the guarantee referred to in point (a) of the first subparagraph shall be set by the competent authorities of the Member State in which the tax warehouse is authorised.
+
+## CHAPTER IV — Movement of excise goods under suspension of excise duty
+
+### Section 1 — General provisions
+
+#### Article 16 — General provisions for the place of dispatch and of destination of the movement
+
+1\. Excise goods may be moved under a duty suspension arrangement between the following places within the territory of the Union, including via a third country or a third territory:
+
+(a) from a tax warehouse to:
+
+(i) another tax warehouse;
+
+(ii) a registered consignee;
+
+(iii) a place where the excise goods leave the territory of the Union, as referred to in Article 25(1);
+
+(iv) the consignee referred to in Article 11(1), where the goods are dispatched from the territory of another Member State;
+
+(v) the customs office of exit where provided for in Article 329(5) of Implementing Regulation (EU) 2015/2447 which is at the same time the customs office of departure for the external transit procedure where provided for in Article 189(4) of Delegated Regulation (EU) 2015/2446;
+
+(b) from the place of importation to any of the destinations referred to in point (a), where the goods are dispatched by a registered consignor.
+
+For the purposes of this Article, ‘place of importation’ means the place where the goods are released for free circulation in accordance with Article 201 of Regulation (EU) No 952/2013.
+
+2\. Save where importation takes place inside a tax warehouse, excise goods may be moved from the place of importation under a duty suspension arrangement only if the following is provided by the declarant or any person directly or indirectly involved in the accomplishment of customs formalities in accordance with Article 15 of Regulation (EU) No 952/2013 to the competent authorities of the Member State of importation:
+
+(a) the unique excise number under point (a) of Article 19(2) of Council Regulation (EU) No 389/2012 ( 2 ) identifying the registered consignor for the movement;
+
+(b) the unique excise number under point (a) of Article 19(2) of Regulation (EU) No 389/2012 identifying the consignee to whom the goods are dispatched;
+
+(c) if applicable, the evidence that the imported goods are intended to be dispatched from the territory of the Member State of importation to the territory of another Member State.
+
+3\. Member States may provide that the evidence referred to in point (c) of paragraph 2 be indicated to the competent authorities only upon request.
+
+4\. By way of derogation from point (a)(i) and (ii) and point (b) of paragraph 1 of this Article, the Member State of destination may, under the conditions which it lays down, allow excise goods to be moved under a duty suspension arrangement to a place of direct delivery situated in its territory, where that place has been designated by the authorised warehousekeeper in the Member State of destination or by the registered consignee other than a registered consignee with an authorisation limited in accordance with Article 18(3).
+
+That authorised warehousekeeper or that registered consignee shall remain responsible for submitting the report of receipt referred to in Article 24(1).
+
+5\. Paragraphs 1, 2 and 4 shall also apply to movements of excise goods at a zero rate, which have not been released for consumption.
+
+#### Article 17 — Guarantee
+
+1\. The competent authorities of the Member State of dispatch, under the conditions fixed by them, shall require that the risks inherent in the movement under suspension of excise duty be covered by a guarantee provided by the authorised warehousekeeper of dispatch or the registered consignor.
+
+2\. No guarantee shall be required for movements of energy products by fixed pipeline, except under duly justified circumstances.
+
+3\. By way of derogation from paragraph 1, the competent authorities of the Member State of dispatch, under the conditions fixed by them, may allow the guarantee referred to in paragraph 1 to be provided by the transporter or carrier, the owner of the excise goods, the consignee, or jointly by two or more of those persons and the persons mentioned in paragraph 1.
+
+4\. The guarantee shall be valid throughout the Union.
+
+5\. The Member State of dispatch may waive the obligation to provide the guarantee in respect of the following movements of excise goods under a duty suspension arrangement:
+
+(a) movements which take place entirely in its territory;
+
+(b) where the other Member States concerned so agree, movements of energy products within the Union by sea.
+
+6\. Member States shall lay down detailed rules governing the provision and the validity of a guarantee.
+
+#### Article 18 — Registered consignee
+
+1\. A registered consignee may not produce, process, hold, store or dispatch excise goods under a duty suspension arrangement.
+
+2\. A registered consignee shall comply with the following requirements:
+
+(a) before dispatch of the excise goods, guarantee payment of excise duty under the conditions fixed by the competent authorities of the Member State of destination;
+
+(b) at the end of the movement, enter in his or her accounts excise goods received under a duty suspension arrangement;
+
+(c) consent to any check enabling the competent authorities of the Member State of destination to satisfy themselves that the goods have actually been received.
+
+3\. For a registered consignee receiving excise goods only occasionally, the authorisation referred to in point (9) of Article 3 shall be limited to a specified quantity of excise goods, a single consignor and a specified period of time. Member States may limit the authorisation to a single movement.
+
+#### Article 19 — Beginning and end of movements of excise goods under duty suspension
+
+1\. The movement of excise goods under a duty suspension arrangement shall begin:
+
+(a) in the cases referred to in point (a) of Article 16(1), when the excise goods leave the tax warehouse of dispatch;
+
+(b) in the cases referred to in point (b) of Article 16(1) upon their release for free circulation in accordance with Article 201 of Regulation (EU) No 952/2013.
+
+2\. The movement of excise goods under a duty suspension arrangement shall end:
+
+(a) in the cases referred to in points (a)(i), (ii) and (iv) of Article 16(1) and point (b) of Article 16(1), when the consignee has taken delivery of the excise goods;
+
+(b) in the cases referred to in point (a)(iii) of Article 16(1), when the goods have left the territory of the Union;
+
+(c) in the cases referred to in point (a)(v) of Article 16(1), when the goods are placed under the external transit procedure.
+
+### Section 2 — Procedure to be followed for movements of excise goods under suspension of excise duty
+
+#### Article 20 — Electronic administrative document
+
+1\. A movement of excise goods shall be considered to take place under a duty suspension arrangement only if it takes place under cover of an electronic administrative document processed in accordance with paragraphs 2 and 3.
+
+2\. For the purposes of paragraph 1 of this Article, the consignor shall submit a draft electronic administrative document to the competent authorities of the Member State of dispatch using the computerised system referred to in Article 1 of Decision (EU) 2020/263 (‘the computerised system’).
+
+3\. The competent authorities of the Member State of dispatch shall carry out an electronic verification of the data provided in the draft electronic administrative document.
+
+Where those data are not valid, the consignor shall be informed thereof without delay.
+
+Where those data are valid, the competent authorities of the Member State of dispatch shall assign to the document a unique administrative reference code and shall communicate it to the consignor.
+
+4\. In the cases referred to in points (a)(i), (ii) and (iv) of Article 16(1), point (b) of Article 16(1) and Article 16(4), the competent authorities of the Member State of dispatch shall forward the electronic administrative document without delay to the competent authorities of the Member State of destination, which shall forward it to the consignee where the consignee is an authorised warehousekeeper or a registered consignee.
+
+Where the excise goods are intended for an authorised warehousekeeper in the Member State of dispatch, the competent authorities of that Member State shall forward the electronic administrative document directly to the authorised warehousekeeper.
+
+5\. The consignor shall provide the person accompanying the excise goods, or where there is no person accompanying the goods, the transporter or carrier, with the unique administrative reference code. The person accompanying the excise goods, the transporter or the carrier shall provide that code to the competent authorities upon request throughout the movement under an excise duty suspension arrangement. However, where appropriate, the competent authorities may request a printed copy of the electronic administrative document or any other commercial document.
+
+6\. The consignor may cancel the electronic administrative document, using the computerised system, so long as the movement has not begun under Article 19(1).
+
+7\. During a movement under a duty suspension arrangement, the consignor may, using the computerised system, change the destination or the consignee of the excise goods to one of the destinations referred to in points (a)(i), (ii), (iii) or (v) of Article 16(1) or, where applicable, in Article 16(4). For that purpose, the consignor shall submit a draft electronic change of destination document to the competent authorities of the Member State of dispatch using the computerised system.
+
+#### Article 21 — Handling of the electronic administrative document for goods being exported
+
+1\. In the cases referred to in points (a)(iii) and (v) of Article 16(1), the competent authorities of the Member State of dispatch shall forward the electronic administrative document to the competent authorities of the Member State where the export declaration is lodged under Article 221(2) of Implementing Regulation (EU) 2015/2447 (‘Member State of export’), if that Member State is different from the Member State of dispatch.
+
+2\. The declarant shall provide the competent authorities of the Member State of export with the unique administrative reference code indicating the excise goods referred to in the export declaration.
+
+3\. The competent authorities in the Member State of export shall verify, before the release for export of the goods, whether the data of the electronic administrative document correspond to those contained in the export declaration.
+
+4\. Where there are any inconsistencies between the electronic administrative document and the export declaration, the competent authorities in the Member State of export shall notify the competent authorities in the Member State of dispatch using the computerised system.
+
+5\. Where the goods are no longer to be taken out of the customs territory of the Union, the competent authorities in the Member State of export shall notify the competent authorities in the Member State of dispatch thereof by means of the computerised system as soon as they become aware that the goods will no longer be taken out of the customs territory of the Union. The competent authorities in the Member State of dispatch shall forward the notification to the consignor without delay. On receipt of the notification, the consignor shall cancel the electronic administrative document as provided for in Article 20(6) or change the destination of the goods as provided for in Article 20(7), as appropriate.
+
+#### Article 22 — Special arrangements for movements of energy products
+
+1\. In the case of movements of energy products under a duty suspension arrangement by sea or inland waterways to a consignee who is not definitely known at the time when the consignor submits the draft electronic administrative document referred to in Article 20(2), the competent authorities of the Member State of dispatch may authorise the consignor to omit the data concerning the consignee in that document.
+
+2\. As soon as the data concerning the consignee are known, and at the latest at the end of the movement, the consignor shall, using the procedure referred to in Article 20(7), transmit them to the competent authorities of the Member State of dispatch.
+
+3\. This Article shall not apply to the movements referred to in points (a)(iii) and (v) of Article 16(1).
+
+#### Article 23 — Splitting of consignments
+
+1\. The competent authorities of the Member State of dispatch may allow, under the conditions fixed by that Member State, that the consignor splits a movement of energy products under suspension of excise duty into two or more movements provided that the following conditions are fulfilled:
+
+(a) the total quantity of excise goods does not change;
+
+(b) the splitting is carried out in the territory of a Member State which permits such a procedure;
+
+(c) the competent authorities of that Member State are informed of the place where the splitting is carried out.
+
+2\. Member States shall inform the Commission if they allow movements to be split in their territory and under what conditions. The Commission shall transmit this information to the other Member States.
+
+#### Article 24 — Formalities at destination
+
+1\. On receipt of excise goods at any of the destinations referred to in points (a)(i), (ii) or (iv) of Article 16(1) or in Article 16(4), the consignee shall, without delay and no later than five working days after the end of the movement, except in cases duly justified to the satisfaction of the competent authorities, submit a report of their receipt to the competent authorities of the Member State of destination using the computerised system.
+
+2\. The competent authorities of the Member State of destination shall determine the procedures for presentation of the report of receipt of the goods by the consignees referred to in Article 11(1).
+
+3\. The competent authorities of the Member State of destination shall carry out an electronic verification of the data provided in the report of receipt.
+
+Where these data are not valid, the consignee shall be notified without delay.
+
+Where these data are valid, the competent authorities of the Member State of destination shall provide the consignee with a confirmation of the registration of the report of receipt and send the confirmation to the competent authorities of the Member State of dispatch.
+
+4\. The competent authorities of the Member State of dispatch shall forward the report of receipt to the consignor. Where the places of dispatch and of destination are situated in the same Member State, the competent authorities of that Member State shall forward the report of receipt directly to the consignor.
+
+#### Article 25 — Formalities at the end of a movement of goods being exported
+
+1\. In the cases referred to in point (a)(iii) of Article 16(1) and, where applicable, point (b) of Article 16(1) of this Directive, a report of export shall be completed by the competent authorities of the Member State of export on the basis of the information on the exit of the goods which it has received from the customs office of exit under Article 329 of Implementing Regulation (EU) 2015/2447 or by the office where the formalities for the exit of goods from the customs territory, as referred to in Article 2(2) of this Directive, are accomplished, certifying that the excise goods have left the territory of the Union, using the computerised system.
+
+2\. In the cases referred to in point (a)(v) of Article 16(1), a report of export shall be completed by the competent authorities of the Member State of export on the basis of the information which they have received from the customs office of exit under Article 329(5) of Implementing Regulation (EU) 2015/2447.
+
+3\. The competent authorities of the Member State of export shall carry out an electronic verification of the data on the basis of which the report of export is to be completed in accordance with paragraphs 1 and 2. Once those data have been verified, and where the Member State of dispatch is different from the Member State of export, the competent authorities of the Member State of export shall send the report of export to the competent authorities of the Member State of dispatch.
+
+The competent authorities of the Member State of dispatch shall forward the report of export to the consignor.
+
+#### Article 26 — Unavailability of the computerised system
+
+1\. By way of derogation from Article 20(1), where the computerised system is unavailable in the Member State of dispatch, the consignor may start a movement of excise goods under a duty suspension arrangement provided that:
+
+(a) the goods are accompanied by a fallback document containing the same data as the draft electronic administrative document referred to in Article 20(2);
+
+(b) the consignor informs the competent authorities of the Member State of dispatch before the beginning of the movement.
+
+The Member State of dispatch may also require from the consignor a copy of the document referred to in point (a) of the first subparagraph, the verification by the Member State of dispatch of the data contained in that copy and, where the consignor is responsible for the unavailability of the computerised system, appropriate information on the reasons for that unavailability before the beginning of the movement.
+
+2\. As soon as the availability of the computerised system is restored, the consignor shall submit a draft electronic administrative document in accordance with Article 20(2).
+
+As soon as the data in the draft electronic administrative document have been verified in accordance with Article 20(3) if those data are valid, that document shall replace the fallback document referred to in point (a) of the first subparagraph of paragraph 1 of this Article. Article 20(4), Article 21(1) and Articles 24 and 25 shall apply mutatis mutandis.
+
+3\. A copy of the fallback document referred to in point (a) of the first subparagraph of paragraph 1 shall be kept by the consignor in his or her records.
+
+4\. Where the computerised system is unavailable in the Member State of dispatch, the consignor may amend the destination of the goods as referred to in Article 20(7) or split the movement of energy products as referred to in Article 23 and shall communicate that information to the competent authorities of the Member State of dispatch using alternative means of communication. To that end, the consignor shall inform the competent authorities of the Member State of dispatch before the change of destination or the splitting of the movement is initiated. Paragraphs 2 and 3 shall apply mutatis mutandis.
+
+5\. Where the computerised system is unavailable in the Member State of dispatch in the cases referred to in points (a)(iii) and (v) of Article 16(1), the consignor shall provide a copy of the fallback document referred to in point (a) of the first subparagraph of paragraph 1, to the declarant.
+
+The declarant shall provide the competent authorities of the Member State of export with a copy of that fallback document, the contents of which corresponds to the excise goods declared in the export declaration, or the unique identifier of the fallback document.
+
+#### Article 27 — Fallback documents at destination or in cases of export
+
+1\. When, in the cases referred to in points (a)(i), (ii) and (iv) of Article 16(1), point (b) of Article 16(1) and Article 16(4), the report of receipt provided for in Article 24(1) cannot be submitted at the end of a movement of excise goods within the deadline provided for in that Article, either because the computerised system is unavailable in the Member State of destination or because, in the situation referred to in Article 26(1), the procedures referred to in Article 26(2) have not yet been carried out, the consignee shall submit to the competent authorities of the Member State of destination, except in duly justified cases, a fallback document containing the same data as the report of receipt and stating that the movement has ended.
+
+Except where the report of receipt can be submitted promptly by the consignee via the computerised system as provided for in Article 24(1), or except in duly justified cases, the competent authorities of the Member State of destination shall send a copy of the fallback document referred to in the first subparagraph to the competent authorities of the Member State of dispatch, which shall forward it to the consignor or keep it available for the consignor. As soon as availability of the computerised system is restored in the Member State of destination or the procedures referred to in Article 26(2) have been carried out, the consignee shall submit a report of receipt, in accordance with Article 24(1). Paragraphs 3 and 4 of Article 24 shall apply mutatis mutandis.
+
+2\. When, in the case referred to in points (a)(iii) or (v) of Article 16(1), the report of export provided for in Article 25(1) and (2) or the notification that the goods will no longer be taken out of the territory of the Union provided for in Article 21(5) cannot be completed at the end of a movement of excise goods either because the computerised system is unavailable in the Member State of export or because, in the situation referred to in Article 26(1), the procedures referred to in Article 26(2) have not yet been carried out, the competent authorities of the Member State of export shall send to the competent authorities of the Member State of dispatch a document containing the same data as the report of export or as the notification and certifying that the movement has ended or that the goods will not be taken out of the territory of the Union, except where the report of export or the notification can be completed promptly via the computerised system, or in duly justified cases.
+
+The competent authorities of the Member State of dispatch shall forward a copy of the document referred to in the first subparagraph to the consignor or keep it available for the consignor.
+
+As soon as availability of the computerised system is restored in the Member State of export or the procedures referred to in Article 26(2) have been carried out, the competent authorities of the Member State of export shall send a report of export in accordance with Article 25(1) and (2) or the notification provided for in Article 21(5). Article 25(3) shall apply mutatis mutandis.
+
+#### Article 28 — Alternative proofs of receipt and evidence of exit
+
+1\. Notwithstanding Article 27, the report of receipt provided for in Article 24(1) or the report of export provided for in Article 25(1) and (2) shall constitute proof that a movement of excise goods has ended in accordance with Article 19(2).
+
+2\. By way of derogation from paragraph 1, in the absence of the report of receipt or the report of export for reasons other than those mentioned in Article 27, alternative proof of the end of a movement of excise goods under a duty suspension arrangement may be provided, in accordance with paragraphs 3 and 4.
+
+3\. In the cases referred to in points (a)(i), (ii) and (iv) of Article 16(1), point (b) of Article 16(1) and Article 16(4), alternative proof of the end of the movement may be provided by means of an endorsement by the competent authorities of the Member State of destination, based on appropriate evidence, that the excise goods have reached their destination.
+
+A fallback document as referred to in point (a) of Article 26(1) shall constitute appropriate evidence.
+
+4\. In the cases referred to in points (a)(iii) or (v) of Article 16(1), in order to determine whether the excise goods in the circumstances set out in paragraph 2 have been taken out of the territory of the Union, the competent authorities of the Member State of dispatch:
+
+(a) shall accept an endorsement by the competent authorities of the Member State in which the customs office of exit is located, certifying that the excise goods have left the territory of the Union, or certifying that the excise goods have been placed under the external transit procedure in accordance with point (a)(v) of Article 16(1) as appropriate evidence that the goods have been taken out of the territory of the Union.
+
+(b) may take into account any combination of the following pieces of evidence:
+
+(i) a delivery note;
+
+(ii) a document signed or authenticated by the economic operator who has taken the excise goods out of the customs territory of the Union certifying the exit of the goods;
+
+(iii) a document in which the customs authority of a Member State or a third country certify the delivery in accordance with the rules and procedures applicable to that certification in that State or country;
+
+(iv) records of goods supplied to ships, aircraft or offshore installations kept by economic operators;
+
+(v) other evidence acceptable to the authorities of the Member State of dispatch.
+
+5\. Where appropriate evidence has been accepted by the competent authorities of the Member State of dispatch, it shall end the movement in the computerised system.
+
+#### Article 29 — Delegation of power and conferral of implementing powers with respect to the documents to be exchanged under the duty suspension arrangement
+
+1\. The Commission shall adopt delegated acts in accordance with Article 51 establishing the structure and content of the electronic administrative documents exchanged through the computerised system for the purposes of Articles 20 to 25 and of the fallback documents referred to in Articles 26 and 27 in the context of movement of excise goods under a duty suspension arrangement.
+
+2\. The Commission shall adopt implementing acts establishing the rules and procedures for the exchanges of the electronic administrative documents through the computerised system in the context of movement of excise goods under suspension of excise duty and the rules and procedures for the use of the fallback documents referred to in Articles 26 and 27. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 52(2).
+
+3\. Each Member State shall determine the situations where the computerised system may be considered unavailable and shall lay down the rules and procedures to be followed in those situations, for the purposes of and in accordance with Articles 26 and 27.
+
+### Section 3 — Simplified procedures
+
+#### Article 30 — Simplified procedures in a single Member State
+
+Member States may establish simplified procedures in respect of movements of excise goods under a duty suspension arrangement which take place entirely on their territory, including the possibility to waive the requirement of electronic supervision of such movements.
+
+#### Article 31 — Simplified procedures in two or more Member States
+
+By agreement and under conditions fixed by all the Member States concerned, simplified procedures may be established for the purposes of frequent and regular movements of excise goods under a duty suspension arrangement which occur between the territories of two or more Member States.
+
+This provision includes movements via fixed pipelines.
+
+## CHAPTER V — Movement and taxation of excise goods after release for consumption
+
+### Section 1 — Acquisition by private individuals
+
+#### Article 32 — Acquisition by a private individual
+
+1\. Excise duty on excise goods acquired by a private individual for his or her own use, and transported from the territory of one Member State to the territory of another Member State by this private individual, shall be charged only in the Member State in which the excise goods are acquired.
+
+2\. To determine whether the excise goods referred to in paragraph 1 are intended for the own use of a private individual, Member States shall take account at least of the following:
+
+(a) the commercial status of the holder of the excise goods and the reasons for holding them;
+
+(b) the place where the excise goods are located or, if appropriate, the mode of transport used;
+
+(c) any document relating to the excise goods;
+
+(d) the nature of the excise goods;
+
+(e) the quantity of the excise goods.
+
+3\. For the purposes of applying point (e) of paragraph 2, Member States may lay down guide levels, solely as a form of evidence. These guide levels may not be lower than:
+
+(a) for tobacco products:
+
+— cigarettes: 800 items,
+
+— cigarillos (cigars weighing not more than 3 g each): 400 items,
+
+— cigars: 200 items,
+
+— smoking tobacco: 1,0 kg;
+
+(b) for alcoholic beverages:
+
+— spirit drinks: 10 l,
+
+— intermediate products: 20 l,
+
+— wines: 90 l (including a maximum of 60 l of sparkling wines),
+
+— beers: 110 l.
+
+4\. Member States may also provide that excise duty shall become due in the Member State of consumption on the acquisition of mineral oils already released for consumption in another Member State if such products are transported using atypical modes of transport by a private individual or on behalf of a private individual.
+
+For the purposes of this paragraph, ‘atypical mode of transport’ means the transport of fuels other than in the tanks of vehicles or in appropriate reserve fuel canisters and the transport of liquid heating products other than by means of tankers used on behalf of economic operators.
+
+### Section 2 — Procedure to be followed for movements of excise goods which have been released for consumption in the territory of one Member State and are moved to the territory of another Member State in order to be delivered there for commercial purposes
+
+#### Article 33 — General
+
+1\. Where excise goods that have been released for consumption in the territory of one Member State are moved to the territory of another Member State to be delivered there for commercial purposes or used there, they shall be subject to excise duty in the Member State of destination.
+
+Within the scope of the arrangements in this Section, excise goods shall only be moved from a certified consignor to a certified consignee.
+
+2\. For the purposes of this Article, excise goods shall be regarded as ‘delivered for commercial purposes’ where they have been released for consumption in the territory of one Member State, have been moved from that Member State to the territory of another Member State and are delivered either to a person other than a private individual or to a private individual if the movement is not covered by Article 32 or Article 44. However, excise goods shall not be regarded as delivered for commercial purposes where they are transported by that private individual for his or her own use, when moved from the territory of the other Member State.
+
+3\. The movement of excise goods under this Article shall begin when the excise goods leave the certified consignor’s premises or any location in the Member State of dispatch, which shall be notified before the start of the movement to the competent authorities of the Member State of dispatch.
+
+4\. The movement of excise goods under this Article shall end when the certified consignee has taken delivery of the excise goods at his or her premises or any location in the Member State of destination, which shall be notified before the start of the movement to the competent authorities of the Member State of destination.
+
+5\. The chargeability conditions and rate of excise duty to be applied shall be those in force on the date on which duty becomes chargeable in the Member State of destination.
+
+#### Article 34 — Chargeable event
+
+1\. The certified consignee shall be liable to pay the excise duty, which shall be chargeable when the goods have been delivered to the Member State of destination, except where an irregularity under Article 46 occurs during the movement.
+
+2\. In case of lack of registration or certification of one or all persons involved in the movement, these persons shall also become liable to pay the excise duty.
+
+3\. Excise goods which are held on board a boat or aircraft making sea-crossings or flights between the territories of two Member States but which are not available for sale when the boat or aircraft is in the territory of one of the Member States shall not be subject to excise duty in that Member State.
+
+#### Article 35 — Conditions for movement of excise goods under this Section
+
+1\. A movement of excise goods shall be considered to comply with the requirements under this Section only if it takes place under cover of an electronic simplified administrative document processed in accordance with Article 36.
+
+2\. The certified consignee under Article 34(1) shall comply with all of the following requirements:
+
+(a) before the goods are dispatched provide a guarantee covering the inherent risks of non-payment of excise duties that can occur during the movement via the territories of the transited Member States and in the Member State of destination;
+
+(b) pay the excise duty due in the Member State of destination in accordance with the procedure laid down by that Member State at the end of the movement of the goods;
+
+(c) consent to any checks enabling the competent authorities of the Member State of destination to satisfy themselves that the excise goods have actually been received and that the excise duty chargeable on them has been paid.
+
+3\. By way of derogation from point (a) of paragraph 2, the competent authorities of the Member State of destination may, under the conditions fixed by them, allow the guarantee to be provided by the transporter or carrier, the owner of the excise goods, the certified consignor, or jointly by any combination of two or more of those persons with or without the certified consignee.
+
+4\. The guarantee referred to in point (a) of paragraph 2 shall be valid throughout the Union.
+
+5\. Member States shall lay down detailed rules governing the provision and the validity of a guarantee.
+
+6\. An authorised warehousekeeper or a registered consignor may act as a certified consignor for the purposes of this Section after having notified the competent authorities of the Member State of dispatch.
+
+7\. An authorised warehousekeeper or a registered consignee may act as a certified consignee for the purposes of this Section after having notified the competent authorities of the Member State of destination.
+
+8\. For a certified consignor or certified consignee sending or receiving excise goods only occasionally, the certification referred to in points (12) and (13) of Article 3 shall be limited to a specified quantity of excise goods, a single consignee or consignor and a specified period of time. Member States may limit the certification to a single movement. Such a temporary certification may also, notwithstanding the requirements of points (12) and (13) of Article 3, be given to private individuals acting as consignors or consignees when excise goods are delivered for commercial purposes under Article 33(2).
+
+#### Article 36 — Electronic simplified administrative document
+
+1\. Where excise goods are to be moved under this Section, the certified consignor shall submit a draft electronic simplified administrative document to the competent authorities of the Member State of dispatch using the computerised system.
+
+2\. The competent authorities of the Member State of dispatch shall carry out an electronic verification of the data provided in the draft electronic simplified administrative document.
+
+Where those data are not valid, the certified consignor shall be informed thereof without delay.
+
+Where those data are valid, the competent authorities of the Member State of dispatch shall assign to the document a unique simplified administrative reference code and shall communicate it to the certified consignor.
+
+3\. The competent authorities of the Member State of dispatch shall forward the electronic simplified administrative document without delay to the competent authorities of the Member State of destination, which shall forward it to the certified consignee.
+
+4\. The certified consignor shall provide the person accompanying the excise goods, or where there is no person accompanying the goods, the transporter or carrier, with the unique simplified administrative reference code. The person accompanying the excise goods, the transporter or the carrier shall provide that code to the competent authorities upon request through the movement.
+
+5\. During a movement of excise goods under this Section, the certified consignor may, using the computerised system, change the destination to another place of delivery in the same Member State operated by the same certified consignee, or to the place of dispatch. For that purpose, the certified consignor shall submit a draft electronic change of destination document to the competent authorities of the Member State of dispatch using the computerised system.
+
+#### Article 37 — Report of receipt
+
+1\. On receipt of the excise goods, the certified consignee shall, without delay and no later than five working days after the end of the movement, except in cases duly justified to the satisfaction of the competent authorities, submit a report of their receipt to the competent authorities of the Member State of destination, using the computerised system.
+
+2\. The competent authorities of the Member State of destination shall carry out an electronic verification of the data provided in the report of receipt.
+
+Where those data are not valid the certified consignee shall be informed thereof without delay.
+
+Where those data are valid, the competent authorities of the Member State of destination shall provide the certified consignee with a confirmation of the registration of the report of receipt and send it to the competent authorities of the Member State of dispatch.
+
+The report of receipt shall be deemed to be sufficient proof that the certified consignee has fulfilled all of the necessary formalities and has made, if applicable and unless the excise goods are exempted from payment of excise duty, any payments of excise duty due to the Member State of destination or a duty suspension arrangement in accordance with Chapter III.
+
+3\. The competent authorities of the Member State of dispatch shall forward the report of receipt to the certified consignor.
+
+4\. The excise duty paid in the Member State of dispatch shall be reimbursed, upon request and on the basis of the report of receipt referred to in paragraph 1.
+
+#### Article 38 — Fallback procedure and recovery at dispatch
+
+1\. By way of derogation from Article 36, where the computerised system is unavailable in the Member State of dispatch, the certified consignor may start a movement of excise goods provided that:
+
+(a) the goods are accompanied by a fallback document containing the same data as the draft electronic simplified administrative document referred to in Article 35(1);
+
+(b) the certified consignor informs the competent authorities of the Member State of dispatch before the beginning of the movement.
+
+The Member State of dispatch may require from the certified consignor a copy of the document referred to in point (a) of the first subparagraph, the verification by the Member State of dispatch of the data contained in that copy and, where the certified consignor is responsible for the unavailability of the computerised system, appropriate information on the reasons for that unavailability before the beginning of the movement.
+
+2\. As soon as the availability of the computerised system is restored, the certified consignor shall submit a draft electronic simplified administrative document in accordance with Article 36(1).
+
+As soon as the data in the draft electronic simplified administrative document have been verified in accordance with Article 36(2), if those data are valid, that document shall replace the fallback document referred to in point (a) of the first subparagraph of paragraph 1 of this Article. Article 36(3) and Article 37 shall apply mutatis mutandis.
+
+3\. A copy of the fallback document referred to in point (a) of the first subparagraph of paragraph 1 shall be kept by the certified consignor in his or her records.
+
+4\. Where the computerised system is unavailable in the Member State of dispatch, the certified consignor may amend the destination of the goods as referred to in Article 36(5) and shall communicate that information to the competent authorities of the Member State of dispatch using alternative means of communication. The certified consignor shall inform the competent authorities of the Member State of dispatch before the change of destination is initiated. Paragraphs 2 and 3 of this Article shall apply mutatis mutandis.
+
+#### Article 39 — Fallback documents and recovery of data — report of receipt
+
+Where excise goods are to be moved under this Section and the report of receipt cannot be submitted at the end of the movement of the excise goods in accordance with Article 37(1), either because the computerised system is unavailable in the Member State of destination or because the procedures referred to in Article 38(2) have not yet been carried out, the certified consignee shall, except in duly justified cases, submit a fallback document containing the same data as the report of receipt and stating that the movement has ended to the competent authorities of the Member State of destination.
+
+Except where the report of receipt can be submitted promptly by the certified consignee via the computerised system as provided for in Article 37(1), or except in duly justified cases, the competent authorities of the Member State of destination shall send a copy of the fallback document referred to in the first subparagraph to the competent authorities of the Member State of dispatch. The competent authorities of the Member State of dispatch shall forward the copy to the certified consignor or keep it available for the certified consignor.
+
+As soon as availability of the computerised system is restored in the Member State of destination or the procedures referred to in Article 38(2) have been carried out, the certified consignee shall submit a report of receipt in accordance with Article 37(1). Article 37(2) and (3) shall apply mutatis mutandis.
+
+#### Article 40 — Alternative proofs of receipt
+
+1\. Notwithstanding Article 39, the report of receipt required by Article 37(1) shall constitute proof that the excise goods have been delivered to the certified consignee.
+
+2\. By way of derogation from paragraph 1, in the absence of the report of receipt for reasons other than those mentioned in Article 39, alternative proof of delivery of excise goods may be provided by means of an endorsement by the competent authorities of the Member State of destination, based on appropriate evidence, that the excise goods dispatched have reached their destination.
+
+The fallback document referred to in the first paragraph of Article 39 shall constitute appropriate evidence for the purposes of the first subparagraph of this paragraph.
+
+3\. Where the endorsement by the competent authorities of the Member State of destination has been accepted by the competent authorities of the Member State of dispatch, it shall be deemed to be sufficient proof that the certified consignee has fulfilled all of the necessary formalities and has made any payments of excise duty due to the Member State of destination.
+
+#### Article 41 — Derogation from the obligation to use the computerised system — simplified procedures in two or more Member States
+
+By agreement and under conditions fixed by all the Member States concerned, simplified procedures may be established for movements of excise goods under this Section which occur between the territories of two or more Member States.
+
+#### Article 42 — Movement of goods released for consumption between two places in the territory of the same Member State via the territory of another Member State
+
+1\. Where excise goods already released for consumption in the territory of a Member State are moved to a place of destination in the territory of that Member State via the territory of another Member State, the following requirements shall apply:
+
+(a) such a movement shall take place under cover of the electronic simplified administrative document referred to in Article 35(1) following an appropriate itinerary;
+
+(b) the certified consignee shall attest to having received the goods in accordance with the rules laid down by the competent authorities of the place of destination;
+
+(c) the certified consignor and the certified consignee shall consent to any checks enabling their respective competent authorities to satisfy themselves that the goods have actually been received.
+
+2\. Where excise goods are moved frequently and regularly under the conditions specified in paragraph 1, the Member States concerned may, by agreement, under conditions determined by them, simplify the requirements specified in paragraph 1.
+
+#### Article 43 — Delegation of power and conferral of implementing power for the movement of goods to be delivered for commercial purposes
+
+1\. The Commission shall adopt delegated acts in accordance with Article 51 establishing the structure and content of the electronic administrative documents exchanged through the computerised system for the purposes of Articles 36 and 37, and of fallback documents referred to in Articles 38, 39 and 40  in the context of movement of excise goods under this Section.
+
+2\. The Commission shall adopt implementing acts establishing the rules and procedures to be followed for the exchange of the electronic administrative documents through the computerised system for the purposes of Articles 36 and 37 and the rules and procedures for the use of the fallback documents referred to in Articles 38, 39 and 40 in the context of movement of excise goods under this Section. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 52.
+
+### Section 3 — Distance selling
+
+#### Article 44 — Distance selling
+
+1\. Excise goods already released for consumption in the territory of one Member State, that are purchased by a person, other than an authorised warehousekeeper, a registered consignee or a certified consignee, who is established in another Member State and who does not carry out an independent economic activity, and that are dispatched or transported to the territory of another Member State directly or indirectly by a consignor who carries out an independent economic activity or on his or her behalf shall be subject to excise duty in the Member State of destination.
+
+2\. In the case referred to in paragraph 1, the excise duty shall become chargeable in the Member State of destination at the time of delivery of the excise goods. The chargeability conditions and rate of excise duty to be applied shall be those in force on the date on which duty becomes chargeable.
+
+The excise duty shall be paid in accordance with the procedure laid down by the Member State of destination.
+
+3\. The person liable to pay the excise duty in the Member State of destination shall be the consignor.
+
+However, the Member State of destination may allow the consignor to appoint a tax representative, established in the Member State of destination, as the person liable to pay excise duty. The tax representative shall be approved by the competent authorities of that Member State. Member States may provide that, in cases where the consignor or the tax representative has not respected the provision of point (a) of paragraph 4, the person liable to pay the excise duty shall be the consignee of the excise goods.
+
+4\. The consignor or tax representative shall comply with the following requirements:
+
+(a) before dispatching the excise goods, register his or her identity and guarantee payment of the excise duty with the competent office specifically designated and under the conditions laid down by the Member State of destination;
+
+(b) pay the excise duty at the office referred to in point (a) after the excise goods have been delivered;
+
+(c) keep accounts of deliveries of excise goods.
+
+The Member States concerned may, under conditions determined by them, simplify these requirements on the basis of bilateral or multilateral agreements.
+
+5\. In the case referred to in paragraph 1, the excise duty levied in the first Member State shall be reimbursed, at the request of the consignor, where the consignor or tax representative has followed the procedures laid down in paragraph 4.
+
+6\. Member States may lay down specific rules for applying paragraphs 1 to 5 to excise goods that are covered by special national distribution arrangements.
+
+### Section 4 — Destruction and loss
+
+#### Article 45 — Destruction and loss
+
+1\. In the situations referred to in Article 33(1) and Article 44(1), in the event of the total destruction or irretrievable loss of the excise goods during their transport in the territory of a Member State other than the Member State in which they were released for consumption, as a result of unforeseeable circumstances, or force majeure, or as a consequence of an authorisation to destroy the goods by the competent authorities of that Member State, the excise duty shall not be chargeable in that Member State.
+
+For the purposes of this Directive goods shall be considered totally destroyed or irretrievably lost when they are rendered unusable as excise goods.
+
+2\. In the event of partial loss due to the nature of the goods that occurs during their transport in the territory of a Member State other than the Member State in which they were released for consumption, excise duty shall not be chargeable in that Member State where the amount of loss falls within the common partial loss threshold for those excise goods set out in accordance with Article 6(10), unless a Member State has reasonable cause to suspect fraud or irregularity.
+
+3\. The total destruction or irretrievable loss, total or partial, of the excise goods as referred to in paragraph 1 shall be proven to the satisfaction of the competent authorities of the Member State where the total destruction or irretrievable loss, total or partial, occurred or, when it is not possible to determine where the loss occurred, where it was detected.
+
+Where the total destruction or irretrievable loss, total or partial, of the excise goods is established, the guarantee lodged in accordance with point (a) of Article 35(2) or point (a) of Article 44(4) shall be released, fully or partially, as appropriate, upon the production of satisfactory proof.
+
+### Section 5 — Irregularities during the movement of excise goods
+
+#### Article 46 — Irregularities during the movement of excise goods
+
+1\. Where an irregularity has occurred during a movement of excise goods under Article 33(1) or Article 44(1), in the territory of a Member State other than the territory of the Member State in which they were released for consumption, they shall be subject to excise duty and excise duty shall be chargeable in the Member State where the irregularity occurred.
+
+2\. Where an irregularity has been detected during a movement of excise goods under Article 33(1) or Article 44(1), in the territory of a Member State other than the territory of the Member State in which they were released for consumption, and it is not possible to determine where the irregularity occurred, the irregularity shall be deemed to have occurred and the excise duty shall be chargeable in the Member State where the irregularity was detected.
+
+However, if, before the expiry of a period of three years from the date on which the excise goods were acquired, it is ascertained in the territory of which Member State the irregularity actually occurred, the provisions of paragraph 1 shall apply.
+
+3\. The excise duty shall be due from the person who guaranteed payment thereof in accordance with point (a) of Article 35(2) or point (a) of Article 44(4) and from any person who participated in the irregularity. Where several persons are liable for payment of the same excise duty, they shall be jointly and severally liable for such debt.
+
+The competent authorities of the Member State in which the excise goods were released for consumption shall, upon request, reimburse or remit the excise duty where it was levied in the Member State where the irregularity occurred or was detected. The competent authorities of the Member State of destination shall release the guarantee lodged pursuant to point (a) of Article 35(2) or point (a) of Article 44(4).
+
+4\. For the purposes of this Article, ‘irregularity’ means a situation occurring during a movement of excise goods under Article 33(1) or Article 44(1), not covered by Article 45 due to which a movement, or a part of a movement, of excise goods has not duly ended.
+
+5\. Any lack of registration or certification of one or all persons involved in the movement contrary to Article 33(1) or point (a) of Article 44(4) or any lack of respect of the provisions under Article 35(1) shall be deemed to be an irregularity. Paragraphs 1 to 4 shall apply accordingly, unless the consignee is liable to pay the excise duty according to the last sentence of Article 44(3).
+
+## CHAPTER VI — Miscellaneous
+
+### Section 1 — Marking
+
+#### Article 47 — Marking
+
+1\. Without prejudice to Article 6(2), Member States may require that excise goods carry tax markings or national identification marks used for fiscal purposes at the time when they are released for consumption in their territory, or, in the cases provided for in Article 33(1) and Article 44(1), when they enter their territory.
+
+2\. Any Member State which requires the use of tax markings or national identification marks as set out in paragraph 1 shall be required to make them available to authorised warehousekeepers of the other Member States. However, each Member State may require that these markings or marks be made available to a tax representative authorised by the competent authorities of that Member State.
+
+3\. Without prejudice to any provisions they may lay down in order to ensure that this Article is implemented properly and to prevent any evasion, avoidance or abuse, Member States shall ensure that tax markings or national identification marks as set out in paragraph 1 do not create obstacles to the free movement of excise goods.
+
+Where such markings or marks are affixed to excise goods, any amount paid or guaranteed to obtain such markings or marks, apart from the fees for issuing them, shall be reimbursed, remitted or released by the Member State which issued them if excise duty has become chargeable and has been collected in another Member State.
+
+The Member State which issued these markings or marks may nevertheless subject the reimbursement, remission or release of the amount paid or guaranteed to the presentation of evidence, to the satisfaction of its competent authorities, that they have been removed or destroyed.
+
+4\. Tax markings or national identification marks as set out in paragraph 1 shall be valid in the Member State which issued them. However, there may be mutual recognition of these markings or marks between Member States.
+
+### Section 2 — Small wine producers
+
+#### Article 48 — Small wine producers
+
+1\. Member States may exempt small wine producers from the requirements of Articles 14 to 31 and from the other requirements relating to movement and monitoring. Where these small producers themselves carry out intra-Union transactions, they shall inform their relevant authorities and comply with the requirements laid down by Commission Delegated Regulation (EU) 2018/273 ( 3 ).
+
+2\. Where small wine producers are exempt from requirements in accordance with paragraph 1, the consignee shall, by means of the document required by Delegated Regulation (EU) 2018/273 or by a reference to it, inform the competent authorities of the Member State of destination of the wine deliveries received.
+
+3\. For the purposes of this Article, ‘small producer’ means a producer who produces on average less than 1 000 hl of wine per wine year, based on the average annual production over at least three consecutive wine years, in accordance with Article 2(3) of the Delegated Regulation (EU) 2018/273.
+
+### Section 3 — Stores for boats and aircraft
+
+#### Article 49 — Stores for boats and aircraft
+
+Until the Council has adopted Union provisions on stores for boats and aircraft, Member States may maintain their national provisions concerning exemptions for such stores.
+
+### Section 4 — Special arrangements
+
+#### Article 50 — Special arrangements
+
+Member States which have concluded an Agreement on the responsibility for the construction or maintenance of a trans-border bridge may adopt measures derogating from the provisions of this Directive in order to simplify the procedure for collecting excise duty on the excise goods used for the construction and the maintenance of that bridge.
+
+For the purposes of those measures, the bridge and the construction sites referred to in the Agreement shall be deemed to be part of the territory of the Member State which is responsible for the construction or maintenance of the bridge in accordance with the Agreement.
+
+The Member States concerned shall notify those measures to the Commission, which shall inform the other Member States.
+
+## CHAPTER VII — Exercise of the delegation and committee procedure
+
+#### Article 51 — Exercise of the delegation
+
+1\. The power to adopt delegated acts is conferred on the Commission subject to the conditions laid down in this Article.
+
+2\. The power to adopt the delegated acts referred to in Article 6(10), Article 29(1) and Article 43(1) shall be conferred on the Commission for an indeterminate period of time from 20 February 2020.
+
+3\. The delegation of power referred to in Article 6(10), Article 29(1) and Article 43(1) may be revoked at any time by the Council. A decision to revoke shall put an end to the delegation of the power specified in that decision. It shall take effect the day following the publication of the decision in the Official Journal of the European Union or at a later date specified therein. It shall not affect the validity of any delegated acts already in force.
+
+4\. Before adopting a delegated act, the Commission shall consult experts designated by each Member State in accordance with the principles laid down in the Interinstitutional Agreement of 13 April 2016 on Better Law-Making.
+
+5\. As soon as it adopts a delegated act, the Commission shall notify it simultaneously to the European Parliament and to the Council.
+
+6\. A delegated act adopted pursuant to Article 6(10), Article 29(1) and Article 43(1) shall enter into force only if no objection has been expressed by the Council within a period of two months of notification of that act to the Council or if, before the expiry of that period, the Council have informed the Commission that it will not object. That period shall be extended by two months at the initiative of the Council.
+
+#### Article 52 — Committee procedure
+
+1\. The Commission shall be assisted by the Committee on Excise Duty. That committee shall be a committee within the meaning of Regulation (EU) No 182/2011.
+
+2\. Where reference is made to this paragraph, Article 5 of Regulation (EU) No 182/2011 shall apply.
+
+## CHAPTER VIII — Reporting and transitional and final provisions
+
+#### Article 53 — Reporting on the implementation of this Directive
+
+Every five years the Commission shall submit a report on the implementation of this Directive to the European Parliament and the Council. The first report shall be submitted three years after the application date of this Directive at the latest.
+
+In particular, the first report shall assess the application and impact of national provisions adopted and applied pursuant to Article 32, taking into account relevant evidence of impact of these provisions as regards cross-border effects, fraud, avoidance, evasion or abuse, impact on smooth functioning of internal market and public health.
+
+Member States shall, upon request, submit to the Commission available relevant information required to establish the report.
+
+The report shall be accompanied by a legislative proposal, if appropriate.
+
+#### Article 54 — Transitional provisions
+
+Member States shall allow the receipt of excise goods under the formalities set out in Articles 33, 34 and 35 of Directive 2008/118/EC until 31 December 2023.
+
+The notifications referred to in Articles 21(5) of this Directive may be made by means other than the computerised system until 13 February 2024.
+
+#### Article 55 — Transposition
+
+1\. Member States shall adopt and publish, by 31 December 2021, the laws, regulations and administrative provisions necessary to comply with Articles 2, 3, 6, 12, 16, 17, Articles 19 to 22, Articles 25 to 29, Articles 33 to 46, and Articles 54 and 55 and Article 57. They shall immediately communicate the text of those measures to the Commission.
+
+Subject to Article 54, they shall apply those measures as from 13 February 2023.
+
+When Member States adopt those measures, they shall contain a reference to this Directive or shall be accompanied by such a reference on the occasion of their official publication. They shall also include a statement that references in existing laws, regulations and administrative provisions to the Directive repealed by this Directive shall be construed as references to this Directive. Member States shall determine how such reference is to be made and how that statement is to be formulated.
+
+2\. Member States shall communicate to the Commission the text of the main provisions of national law which they adopt in the field covered by this Directive.
+
+#### Article 56 — Repeal
+
+Directive 2008/118/EC, as amended by the acts listed in Annex I, Part A, is repealed with effect from 13 February 2023, without prejudice to the obligations of the Member States relating to the time limits for the transposition into national law and the dates of application of the Directives set out in Annex I, Part B.
+
+References to the repealed Directive shall be construed as references to this Directive and shall be read in accordance with the correlation table in Annex II.
+
+#### Article 57 — Entry into force and application
+
+This Directive shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+
+Articles 1, 4, 5, Articles 7 to 11, Articles 13 to 15, Articles 18, 23, 24, Articles 30 to 32, Articles 47 to 53, Article 56 and Article 58 shall apply from 13 February 2023.
+
+#### Article 58 — Addressees
+
+This Directive is addressed to the Member States.
+
+## ANNEX I
+
+**PART A**
+
+**REPEALED DIRECTIVE WITH LIST OF THE SUCCESSIVE AMENDMENTS THERETO**
+
+(referred to in Article 56)
+
+| Council Directive 2008/118/EC | (OJ L 9, 14.1.2009, p. 12) |
+| --- | --- |
+| Council Directive 2010/12/EU | (OJ L 50, 27.2.2010, p. 1) |
+| Treaty of Accession of Croatia | (OJ L 112, 24.4.2012, p. 10) |
+| Council Directive 2013/61/EU | (OJ L 353, 28.12.2013, p. 5) |
+| Council Directive (EU) 2019/2235 | (OJ L 336, 30.12.2019, p. 10) |
+
+**PART B**
+
+**TIME-LIMITS FOR TRANSPOSITION INTO NATIONAL LAW AND DATE OF APPLICATION**
+
+(referred to in Article 56)
+
+| Directive | Time-limit for transposition | Date of application |
+| --- | --- | --- |
+| 2008/118/EC | 1 January 2010 | 1 April 2010 |
+| 2010/12/EU | 1 January 2011 |  |
+| 2013/61/EU | 1 January 2014 |  |
+| (EU) 2019/2235 | 30 June 2022 | 1 July 2022 |
+
+## ANNEX II — CORRELATION TABLE
+
+| Directive 2008/118/EC | This Directive |
+| --- | --- |
+| Article 1 | Article 1 |
+| Article 2 | Article 6(1) |
+| Article 3(1), (2) and (3) | Article 2(1), (2) and (3) |
+| Article 3(4) | – |
+| – | Article 2(4) |
+| Article 4, introductory wording | Article 3, introductory wording |
+| Article 4, points (1) to (5) | Article 3, points (1) to (5) |
+| Article 4, point (6) | – |
+| Article 4, point (7) | Article 3, point (6) |
+| Article 4, point (8) | Article 3, point (7) |
+| – | Article 3, point (8) |
+| Article 4, points (9) to (11) | Article 3, points (9) to (11) |
+| – | Article 3, points (12) and (13) |
+| Article 36(1), second subparagraph | Article 3, point (14) |
+| – | Article 3, points (15) and (16) |
+| Article 5(1) and (2) | Article 4(1) and (2) |
+| Article 5(3), introductory wording | Article 4(3), introductory wording |
+| Article 5(3)(a) to (e) | Article 4(3)(a) to (e) |
+| Article 5(3)(f) and (g) | – |
+| Article 5(4), (5) and (6) | Article 4(4), (5) and (6) |
+| Article 6 | Article 5 |
+| Article 7(1) to (3) | Article 6(2) to (4) |
+| Article 7(4), first subparagraph | Article 6(5) |
+| Article 7(4), second subparagraph | Article 6(6) |
+| Article 7(4), third subparagraph | Article 6(9), first subparagraph |
+| Article 7(5) | – |
+| – | Article 6(7) |
+| – | Article 6(8) |
+| – | Article 6(9), second subparagraph |
+| – | Article 6(10) |
+| Article 8 | Article 7 |
+| Article 9 | Article 8, first and second subparagraph |
+| – | Article 8, third subparagraph |
+| Articles 10 to 12 | Articles 9 to 11 |
+| Article 13(1) | Article 12(1) |
+| Article 13(2) | – |
+| – | Article 12(2) and (3) |
+| Article 13(3) | Article 12(4) |
+| Article 14(1), (2) and (3) | Article 13(1), (2) and (3) |
+| Article 14(4) | – |
+| Article 14(5) | Article 13(4) |
+| Articles 15 and 16 | Articles 14 and 15 |
+| Article 17(1), introductory wording | Article 16(1), introductory wording |
+| Article 17(1)(a), introductory wording | Article 16(1)(a), introductory wording |
+| Article 17(1)(a)(i) to (iv) | Article 16(1)(a)(i) to (iv) |
+| – | Article 16(1)(a)(v) |
+| Article 17(1)(b) | Article 16(1)(b) |
+| – | Article 16(2) and (3) |
+| Article 17(2) | Article 16(4) |
+| Article 17(3) | Article 16(5) |
+| Article 18(1) | Article 17(1) |
+| – | Article 17(2) |
+| Article 18(2) | Article 17(3) |
+| Article 18(3), first sentence | Article 17(4) |
+| Article 18(4) | Article 17(5) |
+| Article 18(3), second sentence | Article 17(6) |
+| Article 19 | Article 18 |
+| Article 20(1) | Article 19(1) |
+| Article 20(2) | Article 19(2)(a) and (b) |
+| – | Article 19(2)(c) |
+| Article 21(1) to (4) | Article 20(1) to (4) |
+| Article 21(5) | Article 21(1) |
+| Article 21(6) | Article 20(5) |
+| Article 21(7) | Article 20(6) |
+| Article 21(8) | Article 20(7), first sentence |
+| – | Article 20(7), second sentence |
+| – | Article 21(2) to (5) |
+| Article 22 | Article 22(1) and (2) |
+| – | Article 22(3) |
+| Article 23, first paragraph, introductory wording | Article 23(1), introductory wording |
+| Article 23, first paragraph, point 1 | Article 23(1)(a) |
+| Article 23, first paragraph, point 2 | Article 23(1)(b) |
+| Article 23, first paragraph, point 3 | Article 23(1)(c) |
+| Article 23, second paragraph | Article 23(2) |
+| Article 24 | Article 24 |
+| Article 25(1) | Article 25(1) |
+| – | Article 25(2) |
+| Article 25(2) | Article 25(3), first subparagraph |
+| Article 25(3) | Article 25(3), second subparagraph |
+| Article 26(1) and (2) | Article 26(1) and (2) |
+| Article 26(3) | – |
+| Article 26(4) and (5) | Article 26(3) and (4) |
+| – | Article 26(5) |
+| Article 27 | Article 27 |
+| Article 28(1) | Article 28(1) |
+| Article 28(2), first and second subparagraph | Article 28(2) and (3) |
+| – | Article 28(4) |
+| Article 28(2), third subparagraph | Article 28(5) |
+| Article 29 | Article 29 |
+| Article 30 | Article 30 |
+| Article 31 | Article 31 |
+| Article 32 | Article 32 |
+| Article 33(1) | Article 33(1) and (2) |
+| – | Article 33(3) and (4) |
+| Article 33(2) | Article 33(5) |
+| Article 33(3) and (4) | – |
+| – | Article 34(1) and (2) |
+| Article 33(5) | Article 34(3) |
+| Article 33(6) | Article 37(4) |
+| Article 34(1) | Article 35(1) |
+| Article 34(2)(a), (b) and (c) | Article 35(2)(a), (b) and (c) |
+| Article 34(2), second subparagraph | – |
+| – | Article 35(3) to (8) |
+| – | Articles 36 to 41 |
+| Article 35 | Article 42 |
+| – | Article 43 |
+| Article 36(1), first subparagraph | Article 44(1) |
+| Article 36(1), second subparagraph | Article 3, point (14) |
+| Article 36(2) to (6) | Article 44(2) to (6) |
+| Article 37(1), first subparagraph | Article 45(1) first subparagraph |
+| – | Article 45(1), second subparagraph |
+| – | Article 45(2) |
+| Article 37(1), second subparagraph | Article 45(3), first subparagraph |
+| Article 37(1), third subparagraph | Article 45(3), second subparagraph |
+| Article 37(2) | – |
+| Article 38 | Article 46(1) to (4) |
+| – | Article 46(3), first subparagraph, second sentence |
+| – | Article 46(5) |
+| Article 39 | Article 47 |
+| Article 40 | Article 48 |
+| Article 41 | Article 49 |
+| Article 42 | Article 50 |
+| – | Article 51 |
+| Article 43 | Article 52 |
+| Article 44 | – |
+| – | Articles 53 and 54 |
+| Articles 45 and 46 | – |
+| Article 47 | Article 56 |
+| Article 48 | Article 55 |
+| Article 49 | Article 57 |
+| Article 50 | Article 58 |
+| – | Annex I |
+| – | Annex II |
+
+( 1 ) Regulation (EU) No 952/2013 of the European Parliament and of the Council of 9 October 2013 laying down the Union Customs Code (OJ L 269, 10.10.2013, p. 1), as amended by Regulation (EU) 2016/2339 of the European Parliament and of the Council of 14 December 2016 amending Regulation (EU) No 952/2013 laying down the Union Customs Code, as regards goods that have temporarily left the customs territory of the Union by sea or air (OJ L 354, 23.12.2016, p. 32).
+
+( 2 ) Council Regulation (EU) No 389/2012 of 2 May 2012 on administrative cooperation in the field of excise duties and repealing Regulation (EC) No 2073/2004 (OJ L 121, 8.5.2012, p. 1).
+
+( 3 ) Commission Delegated Regulation (EU) 2018/273 of 11 December 2017 supplementing Regulation (EU) No 1308/2013 of the European Parliament and of the Council as regards the scheme of authorisations for vine plantings, the vineyard register, accompanying documents and certification, the inward and outward register, compulsory declarations, notifications and publication of notified information, and supplementing Regulation (EU) No 1306/2013 of the European Parliament and of the Council as regards the relevant checks and penalties, amending Commission Regulations (EC) No 555/2008, (EC) No 606/2009 and (EC) No 607/2009 and repealing Commission Regulation (EC) No 436/2009 and Commission Delegated Regulation (EU) 2015/560 (OJ L 58, 28.2.2018, p. 1).

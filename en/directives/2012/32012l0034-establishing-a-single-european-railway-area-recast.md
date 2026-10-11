@@ -1,0 +1,1904 @@
+---
+title: "Directive 2012/34/EU of the European Parliament and of the Council of 21 November 2012 establishing a single European railway area (recast) Text with EEA relevance"
+identifier: "32012L0034"
+eli: "http://data.europa.eu/eli/dir/2012/34/oj"
+type: directive
+jurisdiction: eu
+language: en
+date: 2012-11-21
+entry_into_force: 2012-12-15
+last_amended: 2019-01-01
+consolidated_version: "02012L0034-20190101"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02012L0034-20190101"
+retrieved: 2026-10-11
+---
+
+# Directive 2012/34/EU of the European Parliament and of the Council of 21 November 2012 establishing a single European railway area (recast) Text with EEA relevance
+
+**DIRECTIVE 2012/34/EU OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 21 November 2012**
+
+**establishing a single European railway area**
+
+**(recast)**
+
+**(Text with EEA relevance)**
+
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> DIRECTIVE (EU) 2016/2370 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 14 December 2016 </td><td> L 352</td><td>1</td><td>23.12.2016</td></tr>
+<tr><td></td><td> COMMISSION DELEGATED DECISION (EU) 2017/2075 of 4 September 2017 </td><td> L 295</td><td>69</td><td>14.11.2017</td></tr>
+
+**DIRECTIVE 2012/34/EU OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 21 November 2012**
+
+**establishing a single European railway area**
+
+**(recast)**
+
+**(Text with EEA relevance)**
+
+## CHAPTER I — GENERAL PROVISIONS
+
+#### Article 1 — Subject-matter and scope
+
+1\. This Directive lays down:
+
+(a) the rules applicable to the management of railway infrastructure and to rail transport activities of the railway undertakings established or to be established in a Member State as set out in Chapter II;
+
+(b) the criteria applicable to the issuing, renewal or amendment of licences by a Member State intended for railway undertakings which are or will be established in the Union as set out in Chapter III;
+
+(c) the principles and procedures applicable to the setting and collecting of railway infrastructure charges and the allocation of railway infrastructure capacity as set out in Chapter IV.
+
+2\. This Directive applies to the use of railway infrastructure for domestic and international rail services.
+
+#### Article 2 — Exclusions from the scope
+
+1\. Chapter II shall not apply to railway undertakings which only operate urban, suburban or regional services on local and regional stand-alone networks for transport services on railway infrastructure or on networks intended only for the operation of urban or suburban rail services.
+
+Notwithstanding the first subparagraph, when such a railway undertaking is under the direct or indirect control of an undertaking or another entity performing or integrating rail transport services other than urban, suburban or regional services, Articles 4 and 5 shall apply. Article 6 shall also apply to such a railway undertaking with regard to the relationship between the railway undertaking and the undertaking or entity which controls it directly or indirectly.
+
+2\. Member States may exclude the following from the application of Chapter III:
+
+(a) undertakings which only operate rail passenger services on local and regional stand-alone railway infrastructure;
+
+(b) undertakings which only operate urban or suburban rail passenger services;
+
+(c) undertakings which only operate regional rail freight services;
+
+(d) undertakings which only operate freight services on privately owned railway infrastructure that exists solely for use by the infrastructure owner for its own freight operations.
+
+3\. Member States may exclude the following from the application of Articles 7, 7a, 7b, 7c, 7d, 8 and 13 and Chapter IV:
+
+(a) local and regional stand-alone networks for passenger services on railway infrastructure;
+
+(b) networks intended only for the operation of urban or suburban rail passenger services;
+
+(c) regional networks which are used for regional freight services solely by a railway undertaking that is not covered under paragraph 1 until capacity on that network is requested by another applicant;
+
+(d) privately owned railway infrastructure that exists solely for use by the infrastructure owner for its own freight operations.
+
+3a. Member States may exclude the following from the application of Articles 7, 7a, 7b, 7c, 7d and 8:
+
+Local, low-traffic lines of a length not exceeding 100 km that are used for freight traffic between a mainline and points of origin and destination of shipments along those lines, provided that those lines are managed by entities other than the main infrastructure manager and that either (a) those lines are used by a single freight operator or (b) the essential functions in relation to those lines are performed by a body which is not controlled by any railway undertaking. Where there is only a single freight operator, Member States may also exempt it from the application of Chapter IV until capacity is requested by another applicant. This paragraph can equally be applied where the line is used also, to a limited extent, for passenger services. Member States shall inform the Commission of their intention to exclude such lines from the application of Articles 7, 7a, 7b, 7c, 7d and 8.
+
+3b. Member States may exclude the following from the application of Article 7, 7a, 7b, 7c and 7d:
+
+Regional low-traffic networks managed by an entity other than the main infrastructure manager and used for the operation of regional passenger services provided by a single railway undertaking other than the incumbent railway undertaking of the Member State, until capacity for passenger services on that network is requested, and provided that the undertaking is independent of any railway undertaking operating freight services. This paragraph can equally be applied where the line is used also, to a limited extent, for freight services. Member States shall inform the Commission of their intention to exclude such lines from the application of Articles 7, 7a, 7b, 7c and 7d.
+
+4\. Without prejudice to paragraph 3, Member States may exclude local and regional railway infrastructures which do not have any strategic importance for the functioning of the railway market from the application of Article 8(3) and local railway infrastructures which do not have any strategic importance for the functioning of the railway market from the application of Articles 7, 7a, 7c and Chapter IV. Member States shall notify the Commission of their intention to exclude such railway infrastructures. The Commission shall adopt implementing acts setting out its decision whether such railway infrastructure may be considered to be without strategic importance. In doing so, the Commission shall take into account the length of railway lines concerned, their level of use and the traffic volume potentially impacted. Those implementing acts shall be adopted in accordance with the advisory procedure referred to in Article 62(2).
+
+5\. Member States may exclude from the application of Article 31(5) vehicles operated or intended to be operated from and to third countries, running on a network whose track gauge is different from the main rail network within the Union.
+
+6\. Member States may decide time periods and deadlines for the schedule for capacity allocation which are different from those referred to in Article 43(2), point 2(b) of Annex VI and points 3, 4 and 5 of Annex VII if the establishment of international train paths in cooperation with infrastructure managers of third countries on a network whose track gauge is different from the main rail network within the Union has a significant impact on the schedule for capacity allocation in general.
+
+7\. Member States may decide to publish the charging framework and charging rules applicable specifically to international freight services from and to third countries operated on a network whose track gauge is different from the main rail network within the Union with different instruments and deadlines than those provided under Article 29(1) where this is required to ensure fair competition.
+
+8\. Member States may exclude from the application of Chapter IV railway infrastructure, whose track gauge is different from the main rail network within the Union, and which connects cross-border stations of a Member State to the territory of a third country.
+
+8a. For a period of 10 years after 24 December 2016, Member States may exclude from the application of Chapters II and IV of this Directive, with the exception of Articles 10, 13 and 56, isolated railway lines of less than 500 km, with a different track gauge to that of the main domestic network, that connect with a third country to which Union rail legislation does not apply and that are managed by a different infrastructure manager than the main domestic network. Railway undertakings operating exclusively on such lines may be exempted from the application of Chapter II.
+
+Such exemptions may be renewed for periods not exceeding 5 years. No later than 12 months before the expiry date of the exemption, a Member State that intends to renew an exemption shall notify the Commission of its intention to do so. The Commission shall examine whether the conditions for an exemption set out in the first subparagraph are still met. If that is not the case, the Commission shall adopt implementing acts setting out its decision on the termination of the exemption. Those implementing acts shall be adopted in accordance with the advisory procedure referred to in Article 62(2).
+
+9\. This Directive shall not apply to undertakings the business of which is limited to providing solely shuttle services for road vehicles through undersea tunnels or to transport operations in the form of shuttle services for road vehicles through such tunnels except Article 6(1) and (4) and Articles 10, 11, 12 and 28.
+
+10\. Member States may exclude from the application of Chapter II, with the exception of Article 14, and Chapter IV, any railway service carried out in transit through the Union.
+
+11\. Member States may exclude from the application of Article 32(4) trains not equipped with the European Train Control System (ETCS) and used for regional passenger services which have been placed into service for the first time before 1985.
+
+12\. Where there is an existing public-private partnership concluded before 16 June 2015 and the private party to that partnership is also a railway undertaking responsible for providing passenger railway services on the infrastructure, Member States may continue to exempt such a private party from the application of Articles 7, 7a and 7d and to limit the right to pick up and set down passengers for services operated by railway undertakings on the same infrastructure as the passenger services provided by the private party under the public-private partnership.
+
+13\. Private infrastructure managers that are party to a public-private partnership concluded before 24 December 2016 and that do not receive public funds shall be excluded from the application of Article 7d provided that loans and financial guarantees operated by the infrastructure manager do not benefit directly or indirectly specific railway undertakings.
+
+#### Article 3 — Definitions
+
+For the purpose of this Directive, the following definitions apply:
+
+(1) 'railway undertaking' means any public or private undertaking licensed according to this Directive, the principal business of which is to provide services for the transport of goods and/or passengers by rail with a requirement that the undertaking ensure traction; this also includes undertakings which provide traction only;
+
+(2) ‘infrastructure manager’ means any body or firm responsible for the operation, maintenance and renewal of railway infrastructure on a network, as well as responsible for participating in its development as determined by the Member State within the framework of its general policy on development and financing of infrastructure;
+
+(2a) ‘development of the railway infrastructure’ means network planning, financial and investment planning as well as the building and upgrading of the infrastructure;
+
+(2b) ‘operation of the railway infrastructure’ means train path allocation, traffic management and infrastructure charging;
+
+(2c) ‘maintenance of the railway infrastructure’ means works intended to maintain the condition and capability of existing infrastructure;
+
+(2d) ‘renewal of the railway infrastructure’ means major substitution works on the existing infrastructure which do not change its overall performance;
+
+(2e) ‘upgrade of the railway infrastructure’ means major modification works to the infrastructure which improve its overall performance;
+
+(2f) ‘essential functions’ of infrastructure management means decision-making concerning train path allocation, including both the definition and the assessment of availability and the allocation of individual train paths, and decision-making concerning infrastructure charging, including determination and collection of charges, in accordance with the charging framework and the capacity allocation framework established by the Member States pursuant to Articles 29 and 39;
+
+(3) 'railway infrastructure' means the items listed in Annex I;
+
+(4) 'international freight service' means a transport service where the train crosses at least one border of a Member State; the train may be joined and/or split and the different sections may have different origins and destinations, provided that all wagons cross at least one border;
+
+(5) 'international passenger service' means a passenger service where the train crosses at least one border of a Member State and where the principal purpose of the service is to carry passengers between stations located in different Member States; the train may be joined and/or split, and the different sections may have different origins and destinations, provided that all carriages cross at least one border;
+
+(6) 'urban and suburban services' means transport services whose principal purpose is to meet the transport needs of an urban centre or conurbation, including a cross-border conurbation, together with transport needs between such a centre or conurbation and surrounding areas;
+
+(7) 'regional services' means transport services whose principal purpose is to meet the transport needs of a region, including a cross-border region;
+
+(8) 'transit' means crossing territory of the Union without loading or unloading goods, and/or without picking up passengers or setting them down in territory of the Union;
+
+(9) 'alternative route' means another route between the same origin and destination where there is substitutability between the two routes for the operation of the freight or passenger service concerned by the railway undertaking;
+
+(10) 'viable alternative' means access to another service facility which is economically acceptable to the railway undertaking, and allows it to operate the freight or passenger service concerned;
+
+(11) 'service facility' means the installation, including ground area, building and equipment, which has been specially arranged, as a whole or in part, to allow the supply of one or more services referred to in points 2 to 4 of Annex II;
+
+(12) 'operator of service facility' means any public or private entity responsible for managing one or more service facilities or supplying one or more services to railway undertakings referred to in points 2 to 4 of Annex II;
+
+(13) 'cross-border agreement' means any agreement between two or more Member States or between Member States and third countries intended to facilitate the provision of cross-border rail services;
+
+(14) 'licence' means an authorisation issued by a licensing authority to an undertaking, by which its capacity to provide rail transport services as a railway undertaking is recognised; that capacity may be limited to the provision of specific types of services;
+
+(15) 'licensing authority' means the body responsible for granting licences within a Member State;
+
+(16) 'contractual agreement' means an agreement or, mutatis mutandis, an arrangement within the framework of administrative measures;
+
+(17) 'reasonable profit' means a rate of return on own capital that takes account of the risk, including that to revenue, or the absence of such risk, incurred by the operator of the service facility and is in line with the average rate for the sector concerned in recent years;
+
+(18) 'allocation' means the allocation of railway infrastructure capacity by an infrastructure manager;
+
+(19) 'applicant' means a railway undertaking or an international grouping of railway undertakings or other persons or legal entities, such as competent authorities under Regulation (EC) No 1370/2007 and shippers, freight forwarders and combined transport operators, with a public-service or commercial interest in procuring infrastructure capacity;
+
+(20) 'congested infrastructure' means an element of infrastructure for which demand for infrastructure capacity cannot be fully satisfied during certain periods even after coordination of the different requests for capacity;
+
+(21) 'capacity-enhancement plan' means a measure or series of measures with a calendar for their implementation which aim to alleviate the capacity constraints which led to the declaration of an element of infrastructure as 'congested infrastructure';
+
+(22) 'coordination' means the process through which the infrastructure manager and applicants will attempt to resolve situations in which there are conflicting applications for infrastructure capacity;
+
+(23) 'framework agreement' means a legally binding general agreement under public or private law, setting out the rights and obligations of an applicant and the infrastructure manager in relation to the infrastructure capacity to be allocated and the charges to be levied over a period longer than one working timetable period;
+
+(24) 'infrastructure capacity' means the potential to schedule train paths requested for an element of infrastructure for a certain period;
+
+(25) 'network' means the entire railway infrastructure managed by an infrastructure manager;
+
+(26) 'network statement' means the statement which sets out in detail the general rules, deadlines, procedures and criteria for charging and capacity-allocation schemes, including such other information as is required to enable applications for infrastructure capacity;
+
+(27) 'train path' means the infrastructure capacity needed to run a train between two places over a given period;
+
+(28) 'working timetable' means the data defining all planned train and rolling-stock movements which will take place on the relevant infrastructure during the period for which it is in force;
+
+(29) 'storage siding' means sidings specifically dedicated to temporary parking of railway vehicles between two assignments;
+
+(30) 'heavy maintenance' means work that is not carried out routinely as part of day-to-day operations and requires the vehicle to be removed from service;
+
+(31) ‘vertically integrated undertaking’ means an undertaking where, within the meaning of Council Regulation (EC) No 139/2004 ( 1 ):
+
+(a) an infrastructure manager is controlled by an undertaking which at the same time controls one or several railway undertakings that operate rail services on the infrastructure manager's network;
+
+(b) an infrastructure manager is controlled by one or several railway undertakings that operate rail services on the infrastructure manager's network; or
+
+(c) one or several railway undertakings that operate rail services on the infrastructure manager's network are controlled by an infrastructure manager.
+
+It also means an undertaking consisting of distinct divisions, including an infrastructure manager and one or several divisions providing transport services that do not have a distinct legal personality.
+
+Where an infrastructure manager and a railway undertaking are fully independent of each other, but both are controlled directly by a Member State without an intermediary entity, they are not considered to constitute a vertically integrated undertaking for the purposes of this Directive;
+
+(32) ‘public private partnership’ means a binding arrangement between public bodies and one or more undertakings other than the main infrastructure manager of a Member State, under which the undertakings partially or totally construct and/or fund railway infrastructure, and/or acquire the right to exercise any of the functions listed in point (2) for a predefined period of time. The arrangement may take any appropriate legally binding form foreseen in national legislation;
+
+(33) ‘management board’ means the senior body of an undertaking performing executive and administrative functions, which is responsible and accountable for day-to-day management of the undertaking;
+
+(34) ‘supervisory board’ means the most senior body of an undertaking that fulfils supervisory tasks, including the exercise of control over the management board and general strategic decisions regarding the undertaking;
+
+(35) ‘through ticket’ means a ticket or tickets representing a transport contract for successive railway services operated by one or more railway undertakings;
+
+(36) ‘high speed passenger services’ means passenger rail services operated without intermediate stops between two places separated at least by a distance of more than 200 km on specially-built high-speed lines equipped for speeds generally equal or greater than 250 km/h and running on average at those speeds.
+
+## CHAPTER II — DEVELOPMENT OF THE UNION RAILWAYS
+
+### SECTION 1 — Management independence
+
+#### Article 4 — Independence of railway undertakings and infrastructure managers
+
+1\. Member States shall ensure that, as regards management, administration and internal control over administrative, economic and accounting matters, railway undertakings directly or indirectly owned or controlled by Member States have independent status in accordance with which they will hold, in particular, assets, budgets and accounts which are separate from those of the State.
+
+2\. While respecting the charging and allocation framework and the specific rules established by the Member States, the infrastructure manager shall be responsible for its own management, administration and internal control.
+
+#### Article 5 — Management of the railway undertakings according to commercial principles
+
+1\. Member States shall enable railway undertakings to adjust their activities to the market and to manage those activities under the responsibility of their management bodies, in the interests of providing efficient and appropriate services at the lowest possible cost for the quality of service required.
+
+Railway undertakings shall be managed according to the principles which apply to commercial companies, irrespective of their ownership. This shall also apply to the public service obligations imposed on them by Member States and to public service contracts which they conclude with the competent authorities of the State.
+
+2\. Railway undertakings shall determine their business plans, including their investment and financing programmes. Such plans shall be designed to achieve the undertakings' financial equilibrium and other technical, commercial and financial management objectives; they shall also indicate the means of attaining those objectives.
+
+3\. With reference to the general policy guidelines issued by each Member State and taking into account national plans and contracts (which may be multiannual) including investment and financing plans, railway undertakings shall, in particular, be free to:
+
+(a) establish their internal organisation, without prejudice to the provisions of Articles 7, 29 and 39;
+
+(b) control the supply and marketing of services and fix the pricing thereof;
+
+(c) take decisions on staff, assets and own procurement;
+
+(d) expand their market share, develop new technologies and new services and adopt any innovative management techniques;
+
+(e) establish new activities in fields associated with the railway business.
+
+This paragraph is without prejudice to Regulation (EC) No 1370/2007.
+
+4\. Notwithstanding paragraph 3, shareholders of publicly owned or controlled railway undertakings shall be able to require their own prior approval for major business management decisions in the same way as shareholders of private joint-stock companies under the rules of the company law of Member States. The provisions of this Article shall be without prejudice to the powers of supervisory bodies under the company law of Member States relating to the appointment of board members.
+
+### SECTION 2 — Separation of infrastructure management and transport operations and of different types of transport operations
+
+#### Article 6 — Separation of accounts
+
+1\. Member States shall ensure that separate profit and loss accounts and balance sheets are kept and published, on the one hand, for business relating to the provision of transport services by railway undertakings and, on the other, for business relating to the management of railway infrastructure. Public funds paid to one of these two areas of activity shall not be transferred to the other.
+
+2\. For the purpose of this Article, Member States which apply Article 7a(3) shall require the undertaking to be organised in distinct divisions that do not have a distinct legal personality within a single undertaking.
+
+3\. Member States shall ensure that separate profit and loss accounts and balance sheets are kept and published, on the one hand, for business relating to the provision of rail freight transport services and, on the other, for activities relating to the provision of passenger transport services. Public funds paid for activities relating to the provision of transport services as public-service remits shall be shown separately in accordance with Article 7 of Regulation (EC) No 1370/2007 in the relevant accounts and shall not be transferred to activities relating to the provision of other transport services or any other business.
+
+4\. The accounts for the different areas of activity referred to in paragraphs 1 and 3 shall be kept in a way that allows for monitoring of the prohibition on transferring public funds paid to one area of activity to another and the monitoring of the use of income from infrastructure charges and surpluses from other commercial activities.
+
+#### Article 7 — Independence of the infrastructure manager
+
+1\. Member States shall ensure that the infrastructure manager is responsible for operation, maintenance and renewal on a network and is entrusted with the development of the railway infrastructure of that network in accordance with national law.
+
+Member States shall ensure that none of the other legal entities within the vertically integrated undertaking has a decisive influence on the decisions taken by the infrastructure manager in relation to the essential functions.
+
+Member States shall ensure that the members of the supervisory board and of the management board of the infrastructure manager and the managers directly reporting to them act in a non-discriminatory manner and that their impartiality is not affected by any conflict of interest.
+
+2\. Member States shall ensure that the infrastructure manager is organised as an entity that is legally distinct from any railway undertaking and, in vertically integrated undertakings, from any other legal entities within the undertaking.
+
+3\. Member States shall ensure that the same individuals cannot be concurrently appointed or employed:
+
+(a) as members of the management board of an infrastructure manager and as members of the management board of a railway undertaking;
+
+(b) as persons in charge of taking decisions on the essential functions and as members of the management board of a railway undertaking;
+
+(c) where a supervisory board exists, as members of the supervisory board of an infrastructure manager and as members of the supervisory board of a railway undertaking;
+
+(d) as members of the supervisory board of an undertaking which is part of a vertically integrated undertaking and which exercises control over both a railway undertaking and an infrastructure manager and as members of the management board of that infrastructure manager.
+
+4\. In vertically integrated undertakings, the members of the management board of the infrastructure manager and the persons in charge of taking decisions on the essential functions shall not receive any performance-based remuneration from any other legal entities within the vertically integrated undertaking, nor shall they receive any bonuses principally related to the financial performance of particular railway undertakings. They may however be offered incentives related to the overall performance of the railway system.
+
+5\. Where information systems are common to different entities within a vertically integrated undertaking, access to sensitive information relating to essential functions shall be restricted to authorised staff of the infrastructure manager. Sensitive information shall not be passed on to other entities within a vertically integrated undertaking.
+
+6\. The provisions of paragraph 1 of this Article shall be without prejudice to the decision-making rights of Member States as regards the development and funding of railway infrastructure and the competences of Member States as regards infrastructure financing and charging, as well as capacity allocation, as defined in Article 4(2), and Articles 8, 29 and 39.
+
+#### Article 7a — Independence of the essential functions
+
+1\. Member States shall ensure that the infrastructure manager has organisational and decision-making independence within the limits set out in Article 4(2), and Articles 29 and 39, as regards the essential functions.
+
+2\. For the application of paragraph 1, Member States shall ensure in particular that:
+
+(a) a railway undertaking or any other legal entity does not exercise a decisive influence on the infrastructure manager in relation to the essential functions, without prejudice to the role of the Member States as regards the determination of the charging framework and the capacity allocation framework and specific charging rules in accordance with Articles 29 and 39;
+
+(b) a railway undertaking or any other legal entity within the vertically integrated undertaking has no decisive influence on appointments and dismissals of persons in charge of taking decisions on the essential functions;
+
+(c) the mobility of persons in charge of the essential functions does not create conflicts of interest.
+
+3\. Member States may decide that infrastructure charging and path allocation shall be performed by a charging body and/or by an allocation body that are independent in their legal form, organisation and decision-making from any railway undertaking. In such a case, Member States may decide not to apply the provisions of Article 7(2) and points (c) and (d) of Article 7(3).
+
+Point (a) of Article 7(3) and Article 7(4) shall apply mutatis mutandis to the heads of divisions in charge of management of the infrastructure and provision of railway services.
+
+4\. The provisions of this Directive referring to the essential functions of an infrastructure manager shall apply to the independent charging and/or allocation body.
+
+#### Article 7b — Impartiality of the infrastructure manager in respect of traffic management and maintenance planning
+
+1\. Member States shall ensure that the functions of traffic management and maintenance planning are exercised in a transparent and non-discriminatory manner and that the persons in charge of taking decisions in respect of those functions are not affected by any conflict of interest.
+
+2\. As regards traffic management, Member States shall ensure that railway undertakings, in cases of disruption concerning them, have full and timely access to relevant information. Where the infrastructure manager grants further access to the traffic management process, it shall do so for the railway undertakings concerned in a transparent and non-discriminatory way.
+
+3\. As regards the long-term planning of major maintenance and/or renewal of the railway infrastructure, the infrastructure manager shall consult applicants and, to the best possible extent, take into account the concerns expressed.
+
+The scheduling of maintenance works shall be carried out by the infrastructure manager in a non-discriminatory way.
+
+#### Article 7c — Outsourcing and sharing the infrastructure manager's functions
+
+1\. Provided that no conflicts of interest arise and that the confidentiality of commercially sensitive information is guaranteed, the infrastructure manager may:
+
+(a) outsource functions to a different entity, provided the latter is not a railway undertaking, does not control a railway undertaking, or is not controlled by a railway undertaking. Within a vertically integrated undertaking, essential functions shall not be outsourced to any other entity of the vertically integrated undertaking, unless such entity exclusively performs essential functions;
+
+(b) outsource the execution of works and related tasks on development, maintenance and renewal of the railway infrastructure to railway undertakings or companies which control the railway undertaking, or are controlled by the railway undertaking.
+
+The infrastructure manager shall retain the supervisory power over, and bear ultimate responsibility for, the exercise of the functions described in Article 3(2). Any entity carrying out essential functions shall comply with Articles 7, 7a, 7b and 7d.
+
+2\. By way of derogation from Article 7(1), infrastructure management functions may be performed by different infrastructure managers, including parties to public-private partnership arrangements provided that they all fulfil the requirements of Article 7(2) to (6) and Articles 7a, 7b and 7d and assume full responsibility for the exercise of the functions concerned.
+
+3\. Where essential functions are not assigned to a power supply operator, it shall be exempted from the rules applicable to infrastructure managers, provided that compliance with the relevant provisions concerning development of the network, in particular Article 8, is ensured.
+
+4\. Subject to supervision by the regulatory body or any other independent competent body determined by the Member States, an infrastructure manager may conclude cooperation agreements with one or more railway undertakings in a non-discriminatory way and with a view to delivering benefits to customers such as reduced costs or improved performance on the part of the network covered by the agreement.
+
+That body shall monitor the execution of such agreements and may, where justified, advise that they should be terminated.
+
+#### Article 7d — Financial transparency
+
+1\. While respecting national procedures applicable in each Member State, income from infrastructure network management activities, including public funds, may be used by the infrastructure manager only to finance its own business, including the servicing of its loans. The infrastructure manager may also use such income to pay dividends to owners of the company, which may include any private shareholders, but excludes undertakings which are part of a vertically integrated undertaking and which exercise control over both a railway undertaking and that infrastructure manager.
+
+2\. Infrastructure managers shall not grant loans to railway undertakings, either directly or indirectly.
+
+3\. Railway undertakings shall not grant loans to infrastructure managers, either directly or indirectly.
+
+4\. Loans between legal entities of a vertically integrated undertaking, shall only be granted, disbursed and serviced at market rates and conditions which reflect the individual risk profile of the entity concerned.
+
+5\. Loans between legal entities of a vertically integrated undertaking granted before 24 December 2016 shall continue until their maturity, provided that they were contracted at market rates and that they are actually disbursed and serviced.
+
+6\. Any services offered by other legal entities of a vertically integrated undertaking to the infrastructure manager shall be provided on the basis of contracts and be paid either at market prices or at prices which reflect the cost of production, plus a reasonable margin of profit.
+
+7\. Debts attributed to the infrastructure manager shall be clearly separated from debts attributed to other legal entities within vertically integrated undertakings. Such debts shall be serviced separately. This does not prevent the final payment of debts being made via an undertaking which is part of a vertically integrated undertaking and which exercises control over both a railway undertaking and an infrastructure manager, or via another entity within the undertaking.
+
+8\. The accounts of the infrastructure manager and of the other legal entities within a vertically integrated undertaking shall be kept in a way that ensures the fulfilment of this Article and allows for separate accounting and transparent financial circuits within the undertaking.
+
+9\. Within vertically integrated undertakings, the infrastructure manager shall keep detailed records of any commercial and financial relations with the other legal entities within that undertaking.
+
+10\. Where essential functions are performed by an independent charging and/or allocation body in accordance with Article 7a(3) and Member States are not applying Article 7(2), the provisions of this Article shall apply mutatis mutandis. References to infrastructure manager, railway undertaking and other legal entities of a vertically integrated undertaking in this Article shall be understood as referring to the respective divisions of the undertaking. Compliance with the requirements set out in this Article shall be demonstrated in the separate accounts of the respective divisions of the undertaking.
+
+#### Article 7e — Coordination mechanisms
+
+Member States shall ensure that appropriate coordination mechanisms are put in place to ensure coordination between their main infrastructure managers and all interested railway undertakings as well as applicants referred to in Article 8(3). Where relevant, representatives of users of the rail freight and passenger transport services, and national, local or regional authorities, shall be invited to participate. The regulatory body concerned may participate as an observer. The coordination shall concern inter alia:
+
+(a) the needs of applicants related to the maintenance and development of the infrastructure capacity;
+
+(b) the content of the user-oriented performance targets contained in the contractual agreements referred to in Article 30 and of the incentives referred to in Article 30(1) and their implementation;
+
+(c) the content and implementation of the network statement referred to in Article 27;
+
+(d) issues of intermodality and interoperability;
+
+(e) any other issue related to the conditions for access, the use of the infrastructure and the quality of the services of the infrastructure manager.
+
+The infrastructure manager shall draw up and publish guidelines for coordination, in consultation with interested parties. Coordination shall take place at least annually and the infrastructure manager shall publish on its website an overview of the activities undertaken pursuant to this article.
+
+Coordination under this Article shall be without prejudice to the right of applicants to appeal to the regulatory body and the powers of the regulatory body as set out in Article 56.
+
+#### Article 7f — European Network of Infrastructure Managers
+
+1\. With the view to facilitating the provision of efficient and effective rail services within the Union, Member States shall ensure that their main infrastructure managers participate and cooperate in a network, that meets at regular intervals to:
+
+(a) develop Union rail infrastructure;
+
+(b) support the timely and efficient implementation of the single European railway area;
+
+(c) exchange best practices;
+
+(d) monitor and benchmark performance;
+
+(e) contribute to the market monitoring activities referred to in Article 15;
+
+(f) tackle cross-border bottlenecks; and
+
+(g) discuss the application of Articles 37 and 40.
+
+For the purpose of point (d), the network shall identify common principles and practices for the monitoring and benchmarking of performance in a consistent manner.
+
+Coordination under this paragraph shall be without prejudice to the right of applicants to appeal to the regulatory body and the powers of the regulatory body as set out in Article 56.
+
+2\. The Commission shall be a member of the network. It shall support the work of the network and facilitate coordination.
+
+### SECTION 3 — Improvement of the financial situation
+
+#### Article 8 — Financing of the infrastructure manager
+
+1\. Member States shall develop their national railway infrastructure by taking into account, where necessary, the general needs of the Union, including the need to cooperate with neighbouring third countries. For that purpose, they shall publish by 16 December 2014, after consultation with the interested parties, an indicative rail infrastructure development strategy with a view to meeting future mobility needs in terms of maintenance, renewal and development of the infrastructure based on sustainable financing of the railway system. That strategy shall cover a period of at least five years and be renewable.
+
+2\. Having due regard to Articles 93, 107 and 108 TFEU, Member States may also provide the infrastructure manager with financing consistent with its functions as referred to in point (2) of Article 3, the size of the infrastructure and financial requirements, in particular in order to cover new investments. Member States may decide to finance those investments through means other than direct State funding. In any case, Member States shall comply with the requirements referred to in paragraph 4 of this Article.
+
+3\. Within the framework of general policy determined by the Member State concerned and taking into account the strategy referred to in paragraph 1 and the financing provided by the Member States referred to in paragraph 2, the infrastructure manager shall adopt a business plan including investment and financial programmes. The plan shall be designed to ensure optimal and efficient use, provision and development of the infrastructure while ensuring financial balance and providing means for these objectives to be achieved. The infrastructure manager shall ensure that known applicants and, upon their request, potential applicants have access to the relevant information and are given the opportunity to express their views on the content of the business plan regarding the conditions for access and use and the nature, provision and development of the infrastructure before its approval by the infrastructure manager.
+
+4\. Member States shall ensure that, under normal business conditions and over a reasonable period which shall not exceed a period of five years, the profit and loss account of an infrastructure manager shall at least balance income from infrastructure charges, surpluses from other commercial activities, non-refundable incomes from private sources and State funding, on the one hand, including advance payments from the State, where appropriate, and infrastructure expenditure, on the other hand.
+
+Without prejudice to the possible long-term aim of user cover of infrastructure costs for all modes of transport on the basis of fair, non-discriminatory competition between the various modes, where rail transport is able to compete with other modes of transport, within the charging framework of Articles 31 and 32, a Member State may require the infrastructure manager to balance his accounts without State funding.
+
+#### Article 9 — Transparent debt relief
+
+1\. Without prejudice to Union rules on State aid and in accordance with Articles 93, 107 and 108 TFEU, Member States shall set up appropriate mechanisms to help reduce the indebtedness of publicly owned or controlled railway undertakings to a level which does not impede sound financial management and which improves their financial situation.
+
+2\. For the purposes referred to in paragraph 1, Member States may require a separate debt amortisation unit to be set up within the accounting departments of such railway undertakings.
+
+The balance sheet of the unit may be charged with all the loans raised by the railway undertaking, both to finance investment and to cover excess operating expenditure resulting from the business of rail transport or from railway infrastructure management, until such time as these loans are extinguished. Debts arising from subsidiaries' operations shall not be taken into account.
+
+3\. Paragraphs 1 and 2 shall apply only to debts or interest due on such debts incurred by publicly owned or controlled railway undertakings by the date of market opening for all or part of rail transport services in the Member State concerned and in any case by 15 March 2001 or the date of accession to the Union for the Member States which joined the Union after that date.
+
+### SECTION 4 — Access to railway infrastructure and services
+
+#### Article 10 — Conditions of access to railway infrastructure
+
+1\. Railway undertakings shall be granted, under equitable, non-discriminatory and transparent conditions, the right to access to the railway infrastructure in all Member States for the purpose of operating all types of rail freight services. That right shall include access to infrastructure connecting maritime and inland ports and other service facilities referred to in point 2 of Annex II, and to infrastructure serving or potentially serving more than one final customer.
+
+1a. Without prejudice to the international obligations of the Union and the Member States, Member States having a border to a third country may limit the right of access provided for in this Article for services operated from and to that third country running on a network the track gauge of which is different from the main railway network within the Union if distortions of competition arise in cross-border railway transport between Member States and that third country. Such distortions may result, inter alia, from lack of non-discriminatory access to rail infrastructure and related services in the third country concerned.
+
+If a Member State, in accordance with this paragraph, intends to adopt a decision to limit the right of access, it shall submit the draft decision to the Commission and consult the other Member States.
+
+If, within a period of 3 months after submitting that draft decision, neither the Commission nor another Member State objects to it, the Member State may adopt the decision.
+
+The Commission may adopt implementing acts setting out the details of the procedure to be followed for the application of this paragraph. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 62(3).
+
+2\. Without prejudice to Regulation (EC) No 1370/2007, railway undertakings shall be granted, under equitable, non-discriminatory and transparent conditions, the right of access to railway infrastructure in all Member States for the purpose of operating rail passenger services. Railway undertakings shall have the right to pick up passengers at any station and set them down at another. That right shall include access to infrastructure connecting service facilities referred to in point 2 of Annex II to this Directive.
+
+#### Article 11 — Limitation of the right of access and of the right to pick up and set down passengers
+
+1\. Member States may limit the right of access provided for in Article 10(2) to passenger services between a given place of departure and a given destination when one or more public service contracts cover the same route or an alternative route if the exercise of this right would compromise the economic equilibrium of the public service contract or contracts in question.
+
+2\. In order to determine whether the economic equilibrium of a public service contract would be compromised, the relevant regulatory body or bodies referred to in Article 55 shall make an objective economic analysis and base their decision on pre-determined criteria. They shall determine this after a request from any of the following, submitted within 1 month from the receipt of the information on the intended passenger service referred to in Article 38(4):
+
+(a) the competent authority or competent authorities that awarded the public service contract;
+
+(b) any other interested competent authority with the right to limit access under this Article;
+
+(c) the infrastructure manager;
+
+(d) the railway undertaking performing the public service contract.
+
+The competent authorities and the railway undertakings providing the public services shall provide the relevant regulatory body or bodies with the information reasonably required to reach a decision. The regulatory body shall consider the information provided by these parties, and, as appropriate, shall ask for relevant information from, and initiate consultation with, all relevant parties, within one month of receipt of the request. The regulatory body shall consult all the relevant parties as appropriate, and shall inform the relevant parties of its reasoned decision within a pre-determined, reasonable time, and, in any case, within six weeks of receipt of all relevant information.
+
+3\. The regulatory body shall give the grounds for its decision and the conditions under which a reconsideration of the decision may be requested, within 1 month of its notification, by one of the following:
+
+(a) the relevant competent authority or competent authorities;
+
+(b) the infrastructure manager;
+
+(c) the railway undertaking performing the public service contract;
+
+(d) the railway undertaking seeking access.
+
+Where the regulatory body decides that the economic equilibrium of a public contract would be compromised by the intended passenger service referred to in Article 38(4), it shall indicate possible changes to that service which would ensure that the conditions to grant the right of access provided for in Article 10(2) are met.
+
+4\. Based on the experience of regulatory bodies, competent authorities and railway undertakings and based on the activities of the network referred to in Article 57(1), the Commission shall adopt by 16 December 2016 measures setting out the details of the procedure and criteria to be followed for the application of paragraphs 1, 2 and 3 of this Article. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 62(3).
+
+Based on the experience of regulatory bodies, competent authorities and railway undertakings, and based on the activities of the network referred to in Article 57(1), the Commission shall by 16 December 2018 adopt implementing acts setting out the details of the procedure and criteria to be followed for the application of paragraphs 1, 2 and 3 of this Article as regards domestic passenger services. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 62(3).
+
+5\. Member States may also limit the right of access to railway infrastructure for the purpose of operating domestic passenger services between a given place of departure and a given destination within the same Member State where:
+
+(a) exclusive rights to convey passengers between these stations have been granted under a public service contract awarded before 16 June 2015; or
+
+(b) an additional right/authorisation to operate commercial passenger services in competition with another operator between these stations has been awarded by 25 December 2018 on the basis of a fair competitive tendering procedure;
+
+and where these operators receive no compensation to operate these services.
+
+Such a limitation may continue for the original duration of the contract or authorisation, or until 25 December 2026, whichever is shorter.
+
+6\. Member States shall ensure that the decisions referred to in paragraphs 1, 2, 3 and 5 are subject to judicial review.
+
+#### Article 11a — High-speed passenger services
+
+1\. With a view to developing the market for high-speed passenger services, promoting optimal use of available infrastructure, and in order to encourage the competitiveness of high-speed passenger services resulting in beneficial effects for passengers, without prejudice to Article 11(5), the exercise of the right of access provided for in Article 10 as regards high speed passenger services may only be subject to the requirements established by the regulatory body in accordance with this Article.
+
+2\. Where the regulatory body, following the analysis foreseen in Article 11(2), (3) and (4), determines that the intended high speed passenger service between a given place of departure and a given destination compromises the economic equilibrium of a public service contract that covers the same route or an alternative route, the regulatory body shall indicate possible changes to the service which would ensure that the conditions to grant the right of access provided for in Article 10(2) are met. Such changes may include a modification of the intended service.
+
+#### Article 12 — Levy on railway undertakings providing passenger services
+
+1\. Without prejudice to Article 11(2), Member States may, under the conditions laid down in this Article, authorise the authority responsible for rail passenger transport to impose a levy on railway undertakings providing passenger services for the operation of routes which fall within the jurisdiction of that authority and which are operated between two stations in that Member State.
+
+In that case, railway undertakings providing domestic or international rail passenger transport services shall be subject to the same levy on the operation of routes which fall within the jurisdiction of that authority.
+
+2\. The levy is intended to compensate the authority for public service obligations laid down in public service contracts awarded in accordance with Union law. The revenue raised from such a levy and paid as compensation shall not exceed what is necessary to cover all or part of the cost incurred in the relevant public service obligations taking into account the relevant receipts and a reasonable profit for discharging those obligations.
+
+3\. The levy shall be imposed in accordance with Union law, and shall respect in particular the principles of fairness, transparency, non-discrimination and proportionality, in particular between the average price of the service to the passenger and the level of the levy. The total levies imposed pursuant to this paragraph shall not endanger the economic viability of the rail passenger transport service on which they are imposed.
+
+4\. The relevant authorities shall keep the information necessary to ensure that the origin of the levies and their use can be traced. Member States shall provide the Commission with this information.
+
+5\. Based on the experience of regulatory bodies, competent authorities and railway undertakings and based on the activities of the network referred to in Article 57(1), the Commission shall adopt measures setting out the details of the procedure and criteria to be followed for the application of this Article. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 62(3).
+
+#### Article 13 — Conditions of access to services
+
+1\. Infrastructure managers shall supply to all railway undertakings, in a non-discriminatory manner, the minimum access package laid down in point 1 of Annex II.
+
+2\. Operators of service facilities shall supply in a non-discriminatory manner to all railway undertakings access, including track access, to the facilities referred to in point 2 of Annex II, and to the services supplied in these facilities.
+
+3\. To guarantee full transparency and non-discrimination of access to the service facilities referred to in points 2(a), (b), (c), (d), (g) and (i) of Annex II, and the supply of services in these facilities where the operator of such a service facility is under direct or indirect control of a body or firm which is also active and holds a dominant position in national railway transport services markets for which the facility is used, the operators of these service facilities shall be organised in such a way that they are independent of this body or firm in organisational and decision-making terms. Such independence shall not imply the requirement of the establishment of a separate legal entity for service facilities and may be fulfilled with the organisation of distinct divisions within a single legal entity.
+
+For all service facilities referred to in point 2 of Annex II, the operator and the body or firm shall have separate accounts, including separate balance sheets and profit and loss accounts.
+
+Where operation of the service facility is ensured by an infrastructure manager or the operator of the service facility is under the direct or indirect control of an infrastructure manager compliance with the requirements set out in this paragraph shall be deemed to be demonstrated by the fulfilment of the requirements set out in Article 7.
+
+4\. Requests by railway undertakings for access to, and supply of services in the service facility referred to in point 2 of Annex II shall be answered within a reasonable time limit set by the regulatory body referred to in Article 55. Such requests may only be refused if there are viable alternatives allowing them to operate the freight or passenger service concerned on the same or alternative routes under economically acceptable conditions. This shall not oblige the operator of the service facility to make investments in resources or facilities in order to accommodate all requests by railway undertakings.
+
+Where requests by railway undertakings concern access to, and supply of services in a service facility managed by an operator of the service facility referred to in paragraph 3, the operator of the service facility shall justify in writing any decision of refusal and indicate viable alternatives in other facilities.
+
+5\. Where an operator of the service facility referred to in point 2 of Annex II encounters conflicts between different requests, it shall attempt to meet all requests in so far as possible. If no viable alternative is available, and it is not possible to accommodate all requests for capacity for the relevant facility on the basis of demonstrated needs, the applicant may complain to the regulatory body referred to in Article 55 which shall examine the case and take action, where appropriate, to ensure that an appropriate part of the capacity is granted to that applicant.
+
+6\. Where a service facility referred to in point 2 of Annex II has not been in use for at least two consecutive years and interest by railway undertakings for access to this facility has been expressed to the operator of that service facility on the basis of demonstrated needs, its owner shall publicise the operation of the facility as being for lease or rent as a rail service facility, as a whole or in part, unless the operator of that service facility demonstrates that an ongoing process of reconversion prevents its use by any railway undertaking.
+
+7\. Where the operator of the service facility provides any of the services referred to in point 3 of Annex II as additional services, it shall supply them upon request to railway undertakings in a non-discriminatory manner.
+
+8\. Railway undertakings may request, as ancillary services, further services referred to in point 4 of Annex II from the infrastructure manager or from other operators of the service facility. The operator of the service facility is not obliged to supply these services. Where the operator of the service facility decides to offer to others any of these services, it shall supply them upon request to railway undertakings in a non-discriminatory manner.
+
+9\. Based on the experience of regulatory bodies and operators of service facilities and based on the activities of the network referred to in Article 57(1), the Commission may adopt measures setting out the details of the procedure and criteria to be followed for access to the services to be supplied in the service facilities referred to in points 2 to 4 of Annex II. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 62(3).
+
+#### Article 13a — Common information and through-ticketing schemes
+
+1\. Without prejudice to Regulation (EC) No 1371/2007 of the European Parliament and of the Council ( 2 ) and Directive 2010/40/EU of the European Parliament and of the Council ( 3 ), Member States may require railway undertakings operating domestic passenger services to participate in a common information and integrated ticketing scheme for the supply of tickets, through-tickets and reservations or give the power to competent authorities to establish such a scheme. If such a scheme is established, Member States shall ensure that it does not create market distortion or discriminate between railway undertakings and that it is managed by a public or private legal entity or an association of all railway undertakings operating passenger services.
+
+2\. The Commission shall monitor rail market developments concerning the introduction and use of common information and through-ticketing systems and shall assess the need for action at Union level, taking into account market initiatives. It shall in particular consider non-discriminatory access for rail passengers to data necessary to plan journeys and book tickets. By 31 December 2022, it shall present a report to the European Parliament and the Council on the availability of such common information and through-ticketing systems, to be accompanied, if appropriate, by legislative proposals.
+
+3\. Member States shall require railway undertakings operating passenger services to put in place contingency plans and shall ensure that these contingency plans are properly coordinated to provide assistance to passengers, in the sense of Article 18 of Regulation (EC) No 1371/2007, in the event of a major disruption to services.
+
+### SECTION 5 — Cross-border agreements
+
+#### Article 14 — General principles for cross-border agreements
+
+1\. Member States shall ensure that the provisions contained in cross-border agreements do not discriminate between railway undertakings, or restrict the freedom of railway undertakings to operate cross-border services.
+
+2\. Member States shall notify the Commission of any cross-border agreement by 16 June 2013, for the agreements concluded before that date, and before their conclusion for new or revised agreements between Member States. The Commission shall decide whether such agreements are in compliance with Union law within nine months of notification for agreements concluded before 15 December 2012 and within four months of notification for new or revised agreements between Member States. Those implementing acts shall be adopted in accordance with the advisory procedure referred to in Article 62(2).
+
+3\. Without prejudice to the division of competence between the Union and the Member States, in accordance with Union law, Member States shall notify the Commission of their intention to enter into negotiations on, and to conclude, new or revised cross-border agreements between Member States and third countries.
+
+4\. If, within two months of the receipt of the notification of a Member State's intention to enter into the negotiations referred to in paragraph 2, the Commission concludes that the negotiations are likely to undermine the objectives of Union negotiations underway with the third countries concerned and/or to lead to an agreement which is incompatible with Union law, it shall inform the Member State accordingly.
+
+Member States shall keep the Commission regularly informed of any such negotiations and, where appropriate, invite the Commission to participate as an observer.
+
+5\. Member States shall be authorised to provisionally apply and/or to conclude new or revised cross-border agreements with third countries, provided that they are compatible with Union law and do not harm the object and purpose of the transport policy of the Union. The Commission shall adopt such authorisation decisions. Those implementing acts shall be adopted in accordance with the advisory procedure referred to in Article 62(2).
+
+### SECTION 6 — Monitoring tasks of the Commission
+
+#### Article 15 — Scope of market monitoring
+
+1\. The Commission shall make the necessary arrangements to monitor technical and economic conditions and market developments in Union rail transport.
+
+2\. In this context, the Commission shall closely involve representatives of the Member States, including representatives of the regulatory bodies referred to in Article 55, and representatives of the sectors concerned in its work, including, where appropriate, the railway sector's social partners, users and representatives of local and regional authorities, so that they are better able to monitor the development of the railway sector and the evolution of the market, to assess the effect of the measures adopted and to analyse the impact of the measures planned by the Commission. Where appropriate, the Commission shall also involve the European Railway Agency, in accordance with its functions as provided for in Regulation (EC) No 881/2004 of the European Parliament and of the Council of 29 April 2004 establishing a European Railway Agency (Agency Regulation) ( 4 ).
+
+3\. The Commission shall monitor the use of the networks and the evolution of framework conditions in the rail sector, in particular infrastructure charging, capacity allocation, investments made in railway infrastructure, developments as regards prices and the quality of rail transport services, rail transport services covered by public service contracts, licensing and the degree of market opening and harmonisation between Member States, development of employment and the related social conditions in the rail sector. These monitoring activities are without prejudice to similar activities in Member States and to the role of social partners.
+
+4\. The Commission shall report every two years to the European Parliament and the Council on:
+
+(a) the evolution of the internal market in rail services and services to be supplied to railway undertakings, as referred to in Annex II;
+
+(b) the framework conditions referred to in paragraph 3, including for public passenger transport services by rail;
+
+(c) the state of the Union railway network;
+
+(d) the utilisation of access rights;
+
+(e) barriers to more effective rail services;
+
+(f) infrastructure limitations;
+
+(g) the need for legislation.
+
+5\. For the purposes of market monitoring by the Commission, Member States shall, while respecting the role of the social partners, supply to the Commission on an annual basis the necessary information on the use of the networks and the evolution of framework conditions in the rail sector.
+
+6\. The Commission may adopt measures to ensure consistency in the reporting obligations of Member States. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 62(3).
+
+## CHAPTER III — LICENSING OF RAILWAY UNDERTAKINGS
+
+### SECTION 1 — Licensing authority
+
+#### Article 16 — Licensing authority
+
+Each Member State shall designate a licensing authority that shall be responsible for issuing licences and for carrying out the obligations imposed by this Chapter.
+
+The licensing authority shall not provide rail transport services itself and shall be independent of firms or entities that do so.
+
+### SECTION 2 — Conditions for obtaining a licence
+
+#### Article 17 — General requirements
+
+1\. An undertaking shall be entitled to apply for a licence in the Member State in which it is established.
+
+2\. Member States shall not issue licences or extend their validity where the requirements of this Chapter are not complied with.
+
+3\. An undertaking which fulfils the requirements set out in this Chapter shall be authorised to receive a licence.
+
+4\. No undertaking shall be permitted to provide the rail transport services covered by this Chapter unless it has been granted the appropriate licence for the services to be provided.
+
+However, such a licence shall not, in itself, entitle the holder to access the railway infrastructure.
+
+5\. The Commission shall adopt measures setting out the details for the use of a common template for the licence and, if needed to ensure fair and efficient competition in rail transport markets, details on the procedure to be followed for the application of this Article. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 62(3).
+
+#### Article 18 — Conditions for obtaining a licence
+
+An undertaking applying for a licence shall be required to be able to demonstrate to the licensing authorities of the Member State concerned before the start of its activities that it will at any time be able to meet the requirements relating to good repute, financial fitness, professional competence and cover for its civil liability as listed in Articles 19 to 22.
+
+For those purposes, each undertaking applying for a licence shall provide all relevant information.
+
+#### Article 19 — Requirements relating to good repute
+
+Member States shall define the conditions under which the requirement of good repute is met to ensure that an undertaking applying for a licence or the persons in charge of its management:
+
+(a) have not been convicted of serious criminal offences, including offences of a commercial nature;
+
+(b) have not been declared bankrupt;
+
+(c) have not been convicted of serious offences set out in specific legislation applicable to transport;
+
+(d) have not been convicted of serious or repeated failure to fulfil social or labour law obligations, including obligations under occupational safety and health legislation, and customs law obligations in the case of a company seeking to operate cross-border freight transport subject to customs procedures;
+
+(e) have not been convicted of serious offences resulting from obligations arising in accordance with national law from binding collective agreements, where applicable.
+
+#### Article 20 — Requirements relating to financial fitness
+
+1\. The requirements relating to financial fitness shall be met when an undertaking applying for a licence can demonstrate that it will be able to meet its actual and potential obligations, established under realistic assumptions, for a period of 12 months.
+
+2\. The licensing authority shall verify financial fitness especially by means of a railway undertaking's annual accounts or, in the case of undertakings applying for a licence which are unable to present annual accounts, a balance sheet. Each undertaking applying for a licence shall provide at least the information listed in Annex III.
+
+3\. The licensing authority shall not consider an undertaking applying for a licence to be financially fit if considerable or recurrent arrears of taxes or social security are owed as a result of that undertaking's activity.
+
+4\. The licensing authority may require the submission of an audit report and suitable documents from a bank, public savings bank, accountant or auditor. Those documents shall include the information listed in Annex III.
+
+5\. The Commission shall be empowered to adopt delegated acts in accordance with Article 60 concerning certain amendments to Annex III. Thus, Annex III may be amended to specify the information to be provided by undertakings applying for a licence or supplemented in the light of the experience gained by licensing authorities or the evolution of the rail transport market.
+
+#### Article 21 — Requirements relating to professional competence
+
+The requirements relating to professional competence shall be met when an undertaking applying for a licence can demonstrate that it has or will have a management organisation which possesses the knowledge or experience necessary to exercise safe and reliable operational control and supervision of the type of operations specified in the licence.
+
+#### Article 22 — Requirements relating to cover for civil liability
+
+Without prejudice to Union rules on State aid and in accordance with Articles 93, 107 and 108 TFEU, a railway undertaking shall be adequately insured or have adequate guarantees under market conditions for cover, in accordance with national and international law, of its liabilities in the event of accidents, in particular in respect of passengers, luggage, freight, mail and third parties. Notwithstanding this obligation, the specificities and the risk-profile of different types of services, in particular of railway operations for cultural or heritage purposes, may be taken into account.
+
+### SECTION 3 — Validity of the licence
+
+#### Article 23 — Spatial and temporal validity
+
+1\. A licence shall be valid throughout the territory of the Union.
+
+2\. A licence shall be valid as long as the railway undertaking fulfils the obligations laid down in this Chapter. A licensing authority may, however, make provision for a regular review. If so, the review shall be carried out at least every five years.
+
+3\. Specific provisions governing the suspension or revocation of a licence may be incorporated in the licence itself.
+
+#### Article 24 — Temporary licence, approval, suspension and revocation
+
+1\. If there is serious doubt that a railway undertaking which it has licensed complies with the requirements of this Chapter, and in particular those of Article 18, the licensing authority may, at any time, check whether that railway undertaking does in fact comply with those requirements.
+
+Where a licensing authority is satisfied that a railway undertaking can no longer meet the requirements, it shall suspend or revoke the licence.
+
+2\. Where the licensing authority of a Member State is satisfied that there is serious doubt regarding compliance with the requirements laid down in this Chapter on the part of a railway undertaking to which a licence has been issued by the licensing authority of another Member State, it shall inform the latter authority without delay.
+
+3\. Notwithstanding paragraph 1, where a licence is suspended or revoked on grounds of non-compliance with the requirement for financial fitness, the licensing authority may grant a temporary licence pending the reorganisation of the railway undertaking, provided that safety is not jeopardised. A temporary licence shall not, however, be valid for more than six months after its date of issue.
+
+4\. Where a railway undertaking has ceased operations for six months or has not started operations within six months of the grant of a licence, the licensing authority may decide that the licence shall be required to be resubmitted for approval or be suspended.
+
+As regards the start of activities, the railway undertaking may ask for a longer period to be fixed, taking account of the specific nature of the services to be provided.
+
+5\. In the event of a change affecting the legal situation of an undertaking and, in particular, in the event of a merger or takeover, the licensing authority may decide that the licence shall be resubmitted for approval. The railway undertaking in question may continue operations, unless the licensing authority decides that safety is jeopardised. In that event, the grounds for such a decision shall be given.
+
+6\. Where a railway undertaking intends to significantly change or extend its activities, its licence shall be resubmitted to the licensing authority for review.
+
+7\. A licensing authority shall not permit a railway undertaking against which bankruptcy or similar proceedings have commenced to retain its licence if that authority is convinced that there is no realistic prospect of satisfactory financial restructuring within a reasonable period of time.
+
+8\. Where a licensing authority issues, suspends, revokes or amends a licence, it shall immediately inform the European Railway Agency accordingly. The European Railway Agency shall inform the licensing authorities of other Member States forthwith.
+
+#### Article 25 — Procedure for granting licences
+
+1\. The procedures for granting licences shall be made public by the Member State concerned, which shall inform the Commission thereof.
+
+2\. The licensing authority shall take a decision on an application as soon as possible, but not more than three months after all relevant information, notably the particulars referred to in Annex III, has been submitted. The licensing authority shall take into account all the available information. The decision shall be communicated to the undertaking applying for a licence without delay. A refusal shall state the grounds on which it is based.
+
+3\. Member States shall ensure that the licensing authority's decisions are subject to judicial review.
+
+## CHAPTER IV — LEVYING OF CHARGES FOR THE USE OF RAILWAY INFRASTRUCTURE AND ALLOCATION OF RAILWAY INFRASTRUCTURE CAPACITY
+
+### SECTION 1 — General principles
+
+#### Article 26 — Effective use of infrastructure capacity
+
+Member States shall ensure that charging and capacity-allocation schemes for railway infrastructure follow the principles set down in this Directive and thus allow the infrastructure manager to market and make optimum effective use of the available infrastructure capacity.
+
+#### Article 27 — Network statement
+
+1\. The infrastructure manager shall, after consultation with the interested parties, develop and publish a network statement which shall be obtainable against payment of a fee which shall not exceed the cost of publication of that statement. The network statement shall be published in at least two official languages of the Union. The content of the network statement shall be made available free of charge in electronic format on the web portal of the infrastructure manager and accessible through a common web portal. That web portal shall be set up by the infrastructure managers in the framework of their cooperation in accordance with Articles 37 and 40.
+
+2\. The network statement shall set out the nature of the infrastructure which is available to railway undertakings, and contain information setting out the conditions for access to the relevant railway infrastructure. The network statement shall also contain information setting out the conditions for access to service facilities connected to the network of the infrastructure manager and for supply of services in these facilities or indicate a website where such information is made available free of charge in electronic format. The content of the network statement is laid down in Annex IV.
+
+3\. The network statement shall be kept up to date and amended as necessary.
+
+4\. The network statement shall be published no less than four months in advance of the deadline for requests for infrastructure capacity.
+
+#### Article 28 — Agreements between railway undertakings and infrastructure managers
+
+Any railway undertaking engaged in rail transport services shall conclude the necessary agreements under public or private law with the infrastructure managers of the railway infrastructure used. The conditions governing such agreements shall be non-discriminatory and transparent, in accordance with this Directive.
+
+### SECTION 2 — Infrastructure and services charges
+
+#### Article 29 — Establishing, determining and collecting charges
+
+1\. Member States shall establish a charging framework while respecting the management independence laid down in Article 4.
+
+Subject to that condition, Member States shall also establish specific charging rules or delegate such powers to the infrastructure manager.
+
+Member States shall ensure that the network statement contains the charging framework and charging rules or indicates a website where the charging framework and charging rules are published.
+
+The infrastructure manager shall determine and collect the charge for the use of infrastructure in accordance with the established charging framework and charging rules.
+
+Without prejudice to the management independence laid down in Article 4 and provided that the right has been directly conferred by constitutional law before 15 December 2010, the national parliament may have the right to scrutinise and, where appropriate, review the level of charges determined by the infrastructure manager. Any such review shall ensure that charges comply with this Directive, the established charging framework and charging rules.
+
+2\. Except where specific arrangements are made under Article 32(3), infrastructure managers shall ensure that the charging scheme in use is based on the same principles over the whole of their network.
+
+3\. Infrastructure managers shall ensure that the application of the charging scheme results in equivalent and non-discriminatory charges for different railway undertakings that perform services of an equivalent nature in a similar part of the market and that the charges actually applied comply with the rules laid down in the network statement.
+
+4\. An infrastructure manager shall respect the commercial confidentiality of information provided to it by applicants.
+
+#### Article 30 — Infrastructure cost and accounts
+
+1\. Infrastructure managers shall, with due regard to safety and to maintaining and improving the quality of the infrastructure service, be given incentives to reduce the costs of providing infrastructure and the level of access charges.
+
+2\. Without prejudice to their competence regarding railway infrastructure planning and financing, and to the budgetary principle of annuality, where applicable, Member States shall ensure that a contractual agreement, fulfilling the basic principles and parameters set out in Annex V, is concluded between the competent authority and the infrastructure manager covering a period of not less than five years.
+
+Member States shall ensure that contractual agreements in force on 15 December 2012 are modified, if necessary, to align them with this Directive upon their renewal, or at the latest by 16 June 2015.
+
+3\. Member States shall implement the incentives referred to in paragraph 1 through the contractual agreement referred to in paragraph 2 or through regulatory measures or through a combination of incentives to reduce costs in the contractual agreement and the level of charges through regulatory measures.
+
+4\. If a Member State decides to implement the incentives referred to in paragraph 1 through regulatory measures, this shall be based on an analysis of the achievable cost reductions. This shall be without prejudice to the powers of the regulatory body to review the charges referred to in Article 56.
+
+5\. The terms of the contractual agreement referred to in paragraph 2 and the structure of the payments agreed to provide funding to the infrastructure manager shall be agreed in advance to cover the whole of the contractual period.
+
+6\. Member States shall ensure that applicants and, upon their request, potential applicants are informed by the competent authority and the infrastructure manager and are given the opportunity to express their views on the content of the contractual agreement before it is signed. The contractual agreement shall be published within one month of concluding it.
+
+The infrastructure manager shall ensure consistency between the provisions of the contractual agreement and the business plan.
+
+7\. Infrastructure managers shall develop and maintain a register of their assets and the assets they are responsible for managing which would be used to assess the financing needed to repair or replace them. This shall be accompanied by details of expenditure on renewal and upgrading of the infrastructure.
+
+8\. Infrastructure managers shall establish a method for apportioning costs to the different categories of services offered to railway undertakings. Member States may require prior approval. That method shall be updated from time to time on the basis of the best international practice.
+
+#### Article 31 — Principles of charging
+
+1\. Charges for the use of railway infrastructure and of service facilities shall be paid to the infrastructure manager and to the operator of service facility respectively and used to fund their business.
+
+2\. Member States shall require the infrastructure manager and the operator of service facility to provide the regulatory body with all necessary information on the charges imposed in order to allow the regulatory body to perform its functions as referred to in Article 56. The infrastructure manager and the operator of service facility shall, in this regard, be able to demonstrate to railway undertakings that infrastructure and service charges actually invoiced to the railway undertaking pursuant to Articles 30 to 37 comply with the methodology, rules and, where applicable, scales laid down in the network statement.
+
+3\. Without prejudice to paragraph 4 or 5 of this Article or to Article 32, the charges for the minimum access package and for access to infrastructure connecting service facilities shall be set at the cost that is directly incurred as a result of operating the train service.
+
+Before 16 June 2015, the Commission shall adopt measures setting out the modalities for the calculation of the cost that is directly incurred as a result of operating the train. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 62(3).
+
+The infrastructure manager may decide to gradually adapt to those modalities during a period of no more than four years after the entry into force of those implementing acts.
+
+4\. The infrastructure charges referred to in paragraph 3 may include a charge which reflects the scarcity of capacity of the identifiable section of the infrastructure during periods of congestion.
+
+5\. The infrastructure charges referred to in paragraph 3 may be modified to take account of the cost of environmental effects caused by the operation of the train. Any such modification shall be differentiated according to the magnitude of the effect caused.
+
+Based on the experience gained by infrastructure managers, railway undertakings, regulatory bodies and competent authorities, and recognising existing schemes on noise differentiation, the Commission shall adopt implementing measures setting out the modalities to be followed for the application of the charging for the cost of noise effects including its duration of application and enabling the differentiation of infrastructure charges to take into account, where appropriate, the sensitivity of the area affected, in particular in terms of the size of population affected and the train composition with an impact on the level of noise emissions. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 62(3). They shall not result in the undue distortion of competition between railway undertakings or affect the overall competitiveness of the rail sector.
+
+Any such modification of infrastructure charges to take account of the cost of noise effects shall support the retrofitting of wagons with the most economically viable low-noise braking technology available.
+
+Charging of environmental costs which results in an increase in the overall revenue accruing to the infrastructure manager shall however be allowed only if such charging is applied to road freight transport in accordance with Union law.
+
+If charging for environmental costs generates additional revenue, it shall be for Member States to decide how the revenue is to be used.
+
+Member States shall ensure that the necessary information is kept and that the origin of the charging of environmental costs and its application can be traced. Member States shall provide the Commission with this information upon request.
+
+6\. To avoid undesirable disproportionate fluctuations, the charges referred to in paragraphs 3, 4 and 5 may be averaged over a reasonable spread of train services and times. Nevertheless, the relative magnitude of the infrastructure charge shall be related to the costs attributable to the services.
+
+7\. The charge imposed for track access within service facilities referred to in point 2 of Annex II, and the supply of services in such facilities, shall not exceed the cost of providing it, plus a reasonable profit.
+
+8\. Where services listed in points 3 and 4 of Annex II, as additional and ancillary services are offered by only one supplier, the charge imposed for such a service shall not exceed the cost of providing it, plus a reasonable profit.
+
+9\. Charges may be levied for capacity used for the purpose of infrastructure maintenance. Such charges shall not exceed the net revenue loss to the infrastructure manager caused by the maintenance.
+
+10\. The operator of the facility for supply of the services referred to in points 2, 3 and 4 of Annex II shall provide the infrastructure manager with the information on charges to be included in the network statement or shall indicate a website where such information is made available free of charge in electronic format in accordance with Article 27.
+
+#### Article 32 — Exceptions to charging principles
+
+1\. In order to obtain full recovery of the costs incurred by the infrastructure manager a Member State may, if the market can bear this, levy mark-ups on the basis of efficient, transparent and non-discriminatory principles, while guaranteeing optimal competitiveness of rail market segments. The charging system shall respect the productivity increases achieved by railway undertakings.
+
+The level of charges shall not, however, exclude the use of infrastructure by market segments which can pay at least the cost that is directly incurred as a result of operating the railway service, plus a rate of return which the market can bear.
+
+Before approving the levy of such mark-ups, Member States shall ensure that the infrastructure managers evaluate their relevance for specific market segments, considering at least the pairs listed in point 1 of Annex VI and retaining the relevant ones. The list of market segments defined by infrastructure managers shall contain at least the three following segments: freight services, passenger services within the framework of a public service contract and other passenger services.
+
+Infrastructure managers may further distinguish market segments according to commodity or passengers transported.
+
+Market segments in which railway undertakings are not currently operating but may provide services during the period of validity of the charging system shall also be defined. The infrastructure manager shall not include a mark-up in the charging system for those market segments.
+
+The list of market segments shall be published in the network statement and shall be reviewed at least every five years. The regulatory body referred to in Article 55 shall control that list in accordance with Article 56.
+
+2\. For the carriage of goods from and to third countries operated on a network whose track gauge is different from the main rail network within the Union, infrastructure managers may set higher charges in order to obtain full costs recovery of the costs incurred.
+
+3\. For specific future investment projects, or specific investment projects that have been completed after 1988, the infrastructure manager may set or continue to set higher charges on the basis of the long-term costs of such projects if they increase efficiency or cost-effectiveness or both and could not otherwise be or have been undertaken. Such a charging arrangement may also incorporate agreements on the sharing of the risk associated with new investments.
+
+4\. The infrastructure charges for the use of railway corridors which are specified in Commission Regulation (EU) 2016/919 ( 5 ) may be differentiated to give incentives to equip trains with the ETCS that is compliant with the version adopted by the Commission Decision 2008/386/EC ( 6 ) and with successive versions. Such differentiation shall not result in any overall increase in revenue for the infrastructure manager.
+
+Member States may decide that this differentiation of infrastructure charges does not apply to railway lines specified in Regulation (EU) 2016/919 on which only ETCS equipped trains run.
+
+Member States may decide to extend this differentiation to railway lines not specified in Regulation (EU) 2016/919.
+
+5\. To prevent discrimination, Member States shall ensure that any given infrastructure manager's average and marginal charges for equivalent use of its infrastructure are comparable and that comparable services in the same market segment are subject to the same charges. The infrastructure manager shall show in the network statement that the charging system meets these requirements in so far as this can be done without disclosing confidential business information.
+
+6\. If an infrastructure manager intends to modify the essential elements of the charging system referred to in paragraph 1 of this Article, it shall make them public at least three months in advance of the deadline for the publication of the network statement according to Article 27(4).
+
+#### Article 33 — Discounts
+
+1\. Without prejudice to Articles 101, 102, 106 and 107 TFEU and notwithstanding the direct cost principle laid down in Article 31(3) of this Directive, any discount on the charges levied on a railway undertaking by the infrastructure manager, for any service, shall comply with the criteria set out in this Article.
+
+2\. With the exception of paragraph 3, discounts shall be limited to the actual saving of the administrative cost to the infrastructure manager. In determining the level of discount, no account may be taken of cost savings already internalised in the charge levied.
+
+3\. Infrastructure managers may introduce schemes available to all users of the infrastructure, for specified traffic flows, granting time-limited discounts to encourage the development of new rail services, or discounts encouraging the use of considerably underutilised lines.
+
+4\. Discounts may relate only to charges levied for a specified infrastructure section.
+
+5\. Similar discount schemes shall apply for similar services. Discount schemes shall be applied in a non-discriminatory manner to any railway undertaking.
+
+#### Article 34 — Compensation schemes for unpaid environmental, accident and infrastructure costs
+
+1\. Member States may put in place a time-limited compensation scheme for the use of railway infrastructure for the demonstrably unpaid environmental, accident and infrastructure costs of competing transport modes in so far as these costs exceed the equivalent costs of rail.
+
+2\. Where a railway undertaking receiving compensation enjoys an exclusive right, the compensation shall be accompanied by comparable benefits to users.
+
+3\. The methodology used and calculations performed shall be publicly available. It shall in particular be possible to demonstrate the specific uncharged costs of the competing transport infrastructure that are avoided and to ensure that the scheme is granted on non-discriminatory terms to undertakings.
+
+4\. Member States shall ensure that the scheme is compatible with Articles 93, 107 and 108 TFEU.
+
+#### Article 35 — Performance scheme
+
+1\. Infrastructure charging schemes shall encourage railway undertakings and the infrastructure manager to minimise disruption and improve the performance of the railway network through a performance scheme. This scheme may include penalties for actions which disrupt the operation of the network, compensation for undertakings which suffer from disruption and bonuses that reward better-than-planned performance.
+
+2\. The basic principles of the performance scheme as listed in point 2 of Annex VI shall apply throughout the network.
+
+3\. The Commission shall be empowered to adopt delegated acts in accordance with Article 60 concerning amendments to point 2(c) of Annex VI. Thus point 2(c) of Annex VI, may be amended in the light of the evolution of the rail market and experience gained by regulatory bodies referred to in Article 55, infrastructure managers and railway undertakings. Such amendments shall adapt the classes of delay to the best practices developed by industry.
+
+#### Article 36 — Reservation charges
+
+Infrastructure managers may levy an appropriate charge for capacity that is allocated but not used. That non-usage charge shall provide incentives for efficient use of capacity. The levy of such a charge on applicants that were allocated a train path shall be mandatory in the event of their regular failure to use allocated paths or part of them. For the imposition of this charge, the infrastructure managers shall publish in their network statement the criteria to determine such failure to use. The regulatory body referred to in Article 55 shall control such criteria in accordance with Article 56. Payments for this charge shall be made by either the applicant or the railway undertaking appointed in accordance with Article 41(1). The infrastructure manager shall always be able to inform any interested party of the infrastructure capacity which has already been allocated to user railway undertakings.
+
+#### Article 37 — Cooperation in relation to charging systems on more than one network
+
+1\. Member States shall ensure that infrastructure managers cooperate to enable the application of efficient charging schemes, and associate to coordinate the charging or to charge for the operation of train services which cross more than one infrastructure network of the rail system within the Union. Infrastructure managers shall, in particular, aim to guarantee the optimal competitiveness of international rail services and ensure the efficient use of the railway networks. To this end they shall establish appropriate procedures, subject to the rules set out in this Directive.
+
+2\. For the purpose of paragraph 1 of this Article, Member States shall ensure that infrastructure managers cooperate to enable mark-ups, as referred to in Article 32, and performance schemes, as referred to in Article 35, to be efficiently applied, for traffic crossing more than one network of the rail system within the Union.
+
+### SECTION 3 — Allocation of infrastructure capacity
+
+#### Article 38 — Capacity rights
+
+1\. Infrastructure capacity shall be allocated by an infrastructure manager. Once allocated to an applicant, it shall not be transferred by the recipient to another undertaking or service.
+
+Any trading in infrastructure capacity shall be prohibited and shall lead to exclusion from the further allocation of capacity.
+
+The use of capacity by a railway undertaking when carrying out the business of an applicant which is not a railway undertaking shall not be considered as a transfer.
+
+2\. The right to use specific infrastructure capacity in the form of a train path may be granted to applicants for a maximum duration of one working timetable period.
+
+An infrastructure manager and an applicant may enter into a framework agreement as laid down in Article 42 for the use of capacity on the relevant railway infrastructure for a longer term than one working timetable period.
+
+3\. The respective rights and obligations of infrastructure managers and applicants in respect of any allocation of capacity shall be laid down in contracts or in Member States' legislation.
+
+4\. Where an applicant intends to request infrastructure capacity with a view to operating a passenger service, in a Member State where the right of access to railway infrastructure is limited in accordance with Article 11, it shall inform the infrastructure managers and the regulatory bodies concerned no less than 18 months before the entry into force of the working timetable to which the request for capacity relates. In order to enable the regulatory bodies concerned to assess the potential economic impact on existing public service contracts, regulatory bodies shall ensure that any competent authority that has awarded a rail passenger service on that route defined in a public service contract, any other interested competent authority with the right to limit access under Article 11 and any railway undertaking performing the public service contract on the route of that passenger service is informed without undue delay and at the latest within 10 days.
+
+#### Article 39 — Capacity allocation
+
+1\. Member States may lay down a framework for the allocation of infrastructure capacity subject to the condition of management independence laid down in Article 4. Specific capacity-allocation rules shall be laid down. The infrastructure manager shall perform the capacity-allocation processes. In particular, the infrastructure manager shall ensure that infrastructure capacity is allocated in a fair and non-discriminatory manner and in accordance with Union law.
+
+2\. Infrastructure managers shall respect the commercial confidentiality of information provided to them.
+
+#### Article 40 — Cooperation in the allocation of infrastructure capacity on more than one network
+
+1\. Member States shall ensure that infrastructure managers cooperate to enable the efficient creation and allocation of infrastructure capacity which crosses more than one network of the rail system within the Union, including under framework agreements referred to in Article 42. Infrastructure managers shall establish appropriate procedures, subject to the rules set out in this Directive, and organise train paths crossing more than one network accordingly.
+
+Member States shall ensure that representatives of infrastructure managers whose allocation decisions have an impact on other infrastructure managers associate in order to coordinate the allocation of or to allocate all relevant infrastructure capacity at an international level, without prejudice to the specific rules contained in Union law on rail freight oriented networks. The principles and criteria for capacity allocation established under this cooperation shall be published by infrastructure managers in their network statement in accordance with paragraph 3 of Annex IV. Appropriate representatives of infrastructure managers from third countries may be associated with these procedures.
+
+2\. The Commission shall be informed of and invited to attend as an observer at the main meetings at which common principles and practices for the allocation of infrastructure are developed. Regulatory bodies shall receive sufficient information about the development of common principles and practices for the allocation of infrastructure and from IT-based allocation systems, to allow them to perform their regulatory supervision in accordance with Article 56.
+
+3\. At any meeting or other activity undertaken to permit the allocation of infrastructure capacity for trans-network train services, decisions shall only be taken by representatives of infrastructure managers.
+
+4\. The participants in the cooperation referred to paragraph 1 shall ensure that its membership, methods of operation and all relevant criteria which are used for assessing and allocating infrastructure capacity be made publicly available.
+
+5\. Working in cooperation, as referred to in paragraph 1, infrastructure managers shall assess the need for, and may where necessary propose and organise international train paths to facilitate the operation of freight trains which are subject to an ad hoc request as referred to in Article 48.
+
+Such prearranged international train paths shall be made available to applicants through any of the participating infrastructure managers.
+
+#### Article 41 — Applicants
+
+1\. Requests for infrastructure capacity may be made by applicants. In order to use such infrastructure capacity, applicants shall appoint a railway undertaking to conclude an agreement with the infrastructure manager in accordance with Article 28. This is without prejudice to the right of applicants to conclude agreements with infrastructure managers under Article 44(1).
+
+2\. The infrastructure manager may set requirements with regard to applicants to ensure that its legitimate expectations about future revenues and utilisation of the infrastructure are safeguarded. Such requirements shall be appropriate, transparent and non-discriminatory. They shall be specified in the network statement as referred to in point 3(b) of Annex IV. They may only include the provision of a financial guarantee that shall not exceed an appropriate level which shall be proportional to the contemplated level of activity of the applicant, and assurance of the capability to prepare compliant bids for infrastructure capacity.
+
+3\. Before 16 June 2015, the Commission shall adopt implementing measures setting out the details of the criteria to be followed for the application of paragraph 2. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 62(3).
+
+#### Article 42 — Framework agreements
+
+1\. Without prejudice to Articles 101, 102 and 106 TFEU, a framework agreement may be concluded between an infrastructure manager and an applicant. Such a framework agreement shall specify the characteristics of the infrastructure capacity required by and offered to the applicant over a period of time exceeding one working timetable period.
+
+The framework agreement shall not specify a train path in detail, but shall be such as to meet the legitimate commercial needs of the applicant. A Member State may require prior approval of such a framework agreement by the regulatory body referred to in Article 55 of this Directive.
+
+2\. Framework agreements shall not be such as to preclude the use of the relevant infrastructure by other applicants or services.
+
+3\. Framework agreements shall allow for the amendment or limitation of its terms to enable better use to be made of the railway infrastructure.
+
+4\. Framework agreements may contain penalties should it be necessary to modify or terminate the agreement.
+
+5\. Framework agreements shall, in principle, cover a period of five years, renewable for periods equal to their original duration. The infrastructure manager may agree to a shorter or longer period in specific cases. Any period longer than five years shall be justified by the existence of commercial contracts, specialised investments or risks.
+
+6\. For services using specialised infrastructure referred to in Article 49 which requires substantial and long-term investment, duly justified by the applicant, framework agreements may be for a period of 15 years. Any period longer than 15 years shall be permissible only in exceptional cases, in particular where there is large-scale, long-term investment, and particularly where such investment is covered by contractual commitments including a multiannual amortisation plan.
+
+In such exceptional cases, the framework agreement may set out the detailed characteristics of the capacity which is to be provided to the applicant for the duration of the framework agreement. Those characteristics may include the frequency, volume and quality of train paths. The infrastructure manager may reduce reserved capacity which, over a period of at least one month, has been used less than the threshold quota provided for in Article 52.
+
+As from 1 January 2010, an initial framework agreement may be drawn up for a period of five years, renewable once, on the basis of the capacity characteristics used by applicants operating services before 1 January 2010, in order to take account of specialised investments or the existence of commercial contracts. The regulatory body referred to in Article 55 shall be responsible for authorising the entry into force of such an agreement.
+
+7\. While respecting commercial confidentiality, the general nature of each framework agreement shall be made available to any interested party.
+
+8\. Based on the experience of regulatory bodies, competent authorities and railway undertakings and based on the activities of the network referred to in Article 57(1), the Commission may adopt measures setting out the details of the procedure and criteria to be followed for the application of this Article. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 62(3).
+
+#### Article 43 — Schedule for the allocation process
+
+1\. The infrastructure manager shall adhere to the schedule for capacity allocation set out in Annex VII.
+
+2\. The Commission shall be empowered to adopt delegated acts in accordance with Article 60 concerning certain amendments to Annex VII. Thus, after consultation of all infrastructure managers, Annex VII may be amended to take into account operational considerations of the allocation process. Those amendments shall be based on what is necessary in the light of experience in order to ensure an efficient allocation process and to reflect the operational concerns of the infrastructure managers.
+
+3\. Infrastructure managers shall agree with the other relevant infrastructure managers concerned which international train paths are to be included in the working timetable, before commencing consultation on the draft working timetable. Adjustments shall only be made if absolutely necessary.
+
+#### Article 44 — Applications
+
+1\. Applicants may apply under public or private law to the infrastructure manager to request an agreement granting rights to use railway infrastructure against a charge as provided for in Section 2 of Chapter IV.
+
+2\. Requests relating to the regular working timetable shall comply with the deadlines set out in Annex VII.
+
+3\. An applicant who is a party to a framework agreement shall apply in accordance with that agreement.
+
+4\. For train paths crossing more than one network, infrastructure managers shall ensure that applicants may apply to a one-stop shop that is either a joint body established by the infrastructure managers or one single infrastructure manager involved in the train path. That infrastructure manager shall be permitted to act on behalf of the applicant to seek capacity with other relevant infrastructure managers. This requirement is without prejudice to Regulation (EU) No 913/2010 of the European Parliament and of the Council of 22 September 2010 concerning a European rail network for competitive freight ( 7 ).
+
+#### Article 45 — Scheduling
+
+1\. The infrastructure manager shall, as far as possible, meet all requests for infrastructure capacity including requests for train paths crossing more than one network, and shall, as far as possible, take account of all constraints on applicants, including the economic effect on their business.
+
+2\. The infrastructure manager may give priority to specific services within the scheduling and coordination process but only as set out in Articles 47 and 49.
+
+3\. The infrastructure manager shall consult interested parties about the draft working timetable and allow them at least one month to present their views. Interested parties shall include all those who have requested infrastructure capacity and other parties who wish to have the opportunity to comment on how the working timetable may affect their ability to procure rail services during the working timetable period.
+
+4\. The infrastructure manager shall take appropriate measures to deal with any concerns that are expressed.
+
+#### Article 46 — Coordination process
+
+1\. During the scheduling process referred to in Article 45, where the infrastructure manager encounters conflicts between different requests, it shall attempt, through coordination of the requests, to ensure the best possible matching of all requirements.
+
+2\. Where a situation requiring coordination arises, the infrastructure manager shall have the right, within reasonable limits, to propose infrastructure capacity that differs from that which was requested.
+
+3\. The infrastructure manager shall attempt, through consultation with the appropriate applicants, to resolve any conflicts. Such consultation shall be based on the disclosure of the following information within a reasonable time, free of charge and in written or electronic form:
+
+(a) train paths requested by all other applicants on the same routes;
+
+(b) train paths allocated on a preliminary basis to all other applicants on the same routes;
+
+(c) alternative train paths proposed on the relevant routes in accordance with paragraph 2;
+
+(d) full details of the criteria being used in the capacity-allocation process.
+
+In accordance with Article 39(2), that information shall be provided without disclosing the identity of other applicants, unless applicants concerned have agreed to such disclosure.
+
+4\. The principles governing the coordination process shall be set out in the network statement. These shall, in particular, reflect the difficulty of arranging international train paths and the effect that modification may have on other infrastructure managers.
+
+5\. Where requests for infrastructure capacity cannot be satisfied without coordination, the infrastructure manager shall attempt to accommodate all requests through coordination.
+
+6\. Without prejudice to the current appeal procedures and to Article 56, in the event of disputes relating to the allocation of infrastructure capacity, a dispute resolution system shall be made available in order to resolve such disputes promptly. This system shall be set out in the network statement. If this system is applied, a decision shall be reached within a time limit of 10 working days.
+
+#### Article 47 — Congested infrastructure
+
+1\. Where, after coordination of the requested train paths and consultation with applicants, it is not possible to satisfy requests for infrastructure capacity adequately, the infrastructure manager shall immediately declare that section of infrastructure on which this has occurred to be congested. This shall also be done for infrastructure which can be expected to suffer from insufficient capacity in the near future.
+
+2\. Where infrastructure has been declared to be congested, the infrastructure manager shall carry out a capacity analysis as provided for in Article 50, unless a capacity-enhancement plan, as provided for in Article 51, is already being implemented.
+
+3\. Where charges in accordance with Article 31(4) have not been levied or have not achieved a satisfactory result and the infrastructure has been declared to be congested, the infrastructure manager may, in addition, employ priority criteria to allocate infrastructure capacity.
+
+4\. The priority criteria shall take account of the importance of a service to society relative to any other service which will consequently be excluded.
+
+In order to guarantee the development of adequate transport services within this framework, in particular to comply with public-service requirements or to promote the development of national and international rail freight, Member States may take any measures necessary, under non-discriminatory conditions, to ensure that such services are given priority when infrastructure capacity is allocated.
+
+Member States may, where appropriate, grant the infrastructure manager compensation corresponding to any loss of revenue related to the need to allocate a given capacity to certain services pursuant to the second subparagraph.
+
+Those measures and that compensation shall include taking account of the effect of this exclusion in other Member States.
+
+5\. The importance of freight services, and in particular international freight services, shall be given adequate consideration in determining priority criteria.
+
+6\. The procedures to be followed and the criteria to be used where infrastructure is congested shall be set out in the network statement.
+
+#### Article 48 — Ad hoc requests
+
+1\. The infrastructure manager shall respond to ad hoc requests for individual train paths as quickly as possible, and in any event within five working days. Information supplied on available spare capacity shall be made available to all applicants who may wish to use this capacity.
+
+2\. Infrastructure managers shall, where necessary, undertake an evaluation of the need for reserve capacity to be kept available within the final scheduled working timetable to enable them to respond rapidly to foreseeable ad hoc requests for capacity. This shall also apply in cases of congested infrastructure.
+
+#### Article 49 — Specialised infrastructure
+
+1\. Without prejudice to paragraph 2, infrastructure capacity shall be considered to be available for the use of all types of service which conform to the characteristics necessary for operation on the train path.
+
+2\. Where there are suitable alternative routes, the infrastructure manager may, after consultation with interested parties, designate particular infrastructure for use by specified types of traffic. Without prejudice to Articles 101, 102 and 106 TFEU, where such designation has occurred, the infrastructure manager may give priority to this type of traffic when allocating infrastructure capacity.
+
+Such designation shall not prevent the use of such infrastructure by other types of traffic when capacity is available.
+
+3\. Where infrastructure has been designated pursuant to paragraph 2, this shall be described in the network statement.
+
+#### Article 50 — Capacity analysis
+
+1\. The objective of capacity analysis is to determine the constraints on infrastructure capacity which prevent requests for capacity from being adequately met, and to propose methods of enabling additional requests to be satisfied. The capacity analysis shall identify the reasons for the congestion and what measures might be taken in the short and medium term to ease the congestion.
+
+2\. The capacity analysis shall consider the infrastructure, the operating procedures, the nature of the different services operating and the effect of all these factors on infrastructure capacity. Measures to be considered shall include in particular rerouting services, retiming services, speed alterations and infrastructure improvements.
+
+3\. A capacity analysis shall be completed within six months of the identification of infrastructure as congested.
+
+#### Article 51 — Capacity-enhancement plan
+
+1\. Within six months of the completion of a capacity analysis, the infrastructure manager shall produce a capacity-enhancement plan.
+
+2\. A capacity-enhancement plan shall be developed after consultation with users of the relevant congested infrastructure.
+
+It shall identify:
+
+(a) the reasons for the congestion;
+
+(b) the likely future development of traffic;
+
+(c) the constraints on infrastructure development;
+
+(d) the options and costs for capacity enhancement, including likely changes to access charges.
+
+On the basis of a cost benefit analysis of the possible measures identified, it shall also determine the action to be taken to enhance infrastructure capacity, including a timetable for implementing the measures.
+
+The plan may be subject to prior approval by the Member State.
+
+3\. The infrastructure manager shall cease to levy any charges for the relevant infrastructure under Article 31(4) in cases where:
+
+(a) it does not produce a capacity-enhancement plan; or
+
+(b) it does not make progress with the actions identified in the capacity enhancement plan.
+
+4\. Notwithstanding paragraph 3 of this Article, the infrastructure manager may, subject to the approval of the regulatory body referred to in Article 55, continue to levy the charges if:
+
+(a) the capacity-enhancement plan cannot be realised for reasons beyond its control; or
+
+(b) the options available are not economically or financially viable.
+
+#### Article 52 — Use of train paths
+
+1\. In the network statement, the infrastructure manager shall specify conditions whereby it will take account of previous levels of utilisation of train paths in determining priorities for the allocation process.
+
+2\. For congested infrastructure in particular, the infrastructure manager shall require the surrender of a train path which, over a period of at least one month, has been used less than a threshold quota to be laid down in the network statement, unless this was due to non-economic reasons beyond the applicant's control.
+
+#### Article 53 — Infrastructure capacity for maintenance work
+
+1\. Requests for infrastructure capacity to enable maintenance work to be performed shall be submitted during the scheduling process.
+
+2\. Adequate account shall be taken by the infrastructure manager of the effect of infrastructure capacity reserved for scheduled track maintenance work on applicants.
+
+3\. The infrastructure manager shall inform, as soon as possible, interested parties about the unavailability of infrastructure capacity due to unscheduled maintenance work.
+
+The regulatory body may require the infrastructure manager to make such information available to it, if it deems that this is necessary.
+
+#### Article 54 — Special measures to be taken in the event of disturbance
+
+1\. In the event of disturbance to train movements caused by technical failure or accident, the infrastructure manager shall take all necessary steps to restore the situation to normal. To that end, it shall draw up a contingency plan listing the various bodies to be informed in the event of serious incidents or serious disturbances to train movements. In the event of a disturbance which has a potential impact on cross-border traffic, the infrastructure manager shall share any relevant information with other infrastructure managers the network and traffic of which may be affected by that disturbance. The infrastructure managers concerned shall cooperate to restore the cross-border traffic to normal.
+
+2\. In an emergency and, where absolutely necessary, on account of a breakdown making the infrastructure temporarily unusable, the train paths allocated may be withdrawn without warning for as long as is necessary to repair the system.
+
+The infrastructure manager may, if it deems this necessary, require railway undertakings to make available to it the resources which it feels are the most appropriate to restore the situation to normal as soon as possible.
+
+3\. Member States may require railway undertakings to be involved in assuring the enforcement and monitoring of their own compliance with the safety standards and rules.
+
+### SECTION 4 — Regulatory body
+
+#### Article 55 — Regulatory body
+
+1\. Each Member State shall establish a single national regulatory body for the railway sector. Without prejudice to paragraph 2, this body shall be a stand-alone authority which is, in organisational, functional, hierarchical and decision-making terms, legally distinct and independent from any other public or private entity. It shall also be independent in its organisation, funding decisions, legal structure and decision-making from any infrastructure manager, charging body, allocation body or applicant. It shall furthermore be functionally independent from any competent authority involved in the award of a public service contract.
+
+2\. Member States may set up regulatory bodies which are competent for several regulated sectors, if these integrated regulatory authorities fulfil the independence requirements set out in paragraph 1 of this Article. The regulatory body for the rail sector may also be joined in organisational term with the national competition authority referred to in Article 11 of Council Regulation (EC) No 1/2003 of 16 December 2002 on the implementation of the rules on competition laid down in Articles 101 and 102 of the Treaty ( 8 ), the safety authority established under Directive 2004/49/EC of the European Parliament and of the Council of 29 April 2004 on safety on the Community's railways ( 9 ) or the licensing authority referred to in Chapter III of this Directive, if the joint body fulfils the independence requirements set out in paragraph 1 of this Article.
+
+3\. Member States shall ensure that the regulatory body is staffed and managed in a way that guarantees its independence. They shall, in particular, ensure that the persons in charge of decisions to be taken by the regulatory body in accordance with Article 56, such as members of its executive board, where relevant, be appointed, under clear and transparent rules which guarantee their independence, by the national cabinet or council of ministers or by any other public authority which does not directly exert ownership rights over regulated undertakings.
+
+Member States shall decide whether these persons are appointed for a fixed and renewable term, or on a permanent basis which only allows dismissal for disciplinary reasons not related to their decision-making. They shall be selected in a transparent procedure on the basis of their merit, including appropriate competence and relevant experience, preferably in the field of railways or other network industries.
+
+Member States shall ensure that these persons act independently from any market interest related to the railway sector, and shall therefore not have any interest or business relationship with any of the regulated undertakings or entities. To this effect, these persons shall make annually a declaration of commitment and a declaration of interests, indicating any direct or indirect interests that may be considered prejudicial to their independence and which might influence their performance of any function. These persons shall withdraw from decision-making in cases which concern an undertaking with which they had a direct or indirect connection during the year before the launch of a procedure.
+
+They shall not seek or take instructions from any government or other public or private entity when carrying out the functions of the regulatory body, and have full authority over the recruitment and management of the staff of the regulatory body.
+
+After their term in the regulatory body, they shall have no professional position or responsibility with any of the regulated undertakings or entities for a period of not less than one year.
+
+#### Article 56 — Functions of the regulatory body
+
+1\. Without prejudice to Article 46(6), an applicant shall have the right to appeal to the regulatory body if it believes that it has been unfairly treated, discriminated against or is in any other way aggrieved, and in particular against decisions adopted by the infrastructure manager or where appropriate the railway undertaking or the operator of a service facility concerning:
+
+(a) the network statement in its provisional and final versions;
+
+(b) the criteria set out in it;
+
+(c) the allocation process and its result;
+
+(d) the charging scheme;
+
+(e) the level or structure of infrastructure charges which it is, or may be, required to pay;
+
+(f) arrangements for access in accordance with Articles 10 to 13;
+
+(g) access to and charging for services in accordance with Article 13;
+
+(h) traffic management;
+
+(i) renewal planning and scheduled or unscheduled maintenance;
+
+(j) compliance with the requirements, including those regarding conflicts of interest, set out in Article 2(13) and Articles 7, 7a, 7b, 7c, and 7d.
+
+2\. Without prejudice to the powers of the national competition authorities to secure competition in the rail services markets, the regulatory body shall have the power to monitor the competitive situation in the rail services markets, including in particular the market for high-speed passenger services, and the activities of infrastructure managers in relation to points (a) to (j) of paragraph 1. In particular, the regulatory body shall verify compliance with points (a) to (j) of paragraph 1 on its own initiative and with a view to preventing discrimination against applicants. It shall, in particular, check whether the network statement contains discriminatory clauses or creates discretionary powers for the infrastructure manager that may be used to discriminate against applicants.
+
+3\. The regulatory body shall also cooperate closely with the national safety authority within the meaning of Directive 2008/57/EC of the European Parliament and of the Council of 17 June 2008 on the interoperability of the rail system within the Community ( 10 ), and the licensing authority within the meaning of this Directive.
+
+Member States shall ensure that these authorities jointly develop a framework for information-sharing and cooperation aimed at preventing adverse effects on competition or safety in the railway market. This framework shall include a mechanism for the regulatory body to provide the national safety and licensing authorities with recommendations on issues that may affect competition in the railway market and for the national safety authority to provide the regulatory body and licensing authority with recommendations on issues that may affect safety. Without prejudice to the independence of each authority within the field of their respective competences, the relevant authority shall examine any such recommendation before adopting its decisions. If the relevant authority decides to deviate from these recommendations, it shall give reasons in its decisions.
+
+4\. Member States may decide that the regulatory body is given the task to adopt non-binding opinions on the provisional versions of the business plan referred to in Article 8(3), the contractual agreement and the capacity-enhancement plan to indicate in particular whether these instruments are consistent with the competitive situation in the rail services markets.
+
+5\. The regulatory body shall have the necessary organisational capacity in terms of human and material resources, which shall be proportionate to the importance of the rail sector in the Member State.
+
+6\. The regulatory body shall ensure that charges set by the infrastructure manager comply with Section 2 of Chapter IV and are non-discriminatory. Negotiations between applicants and an infrastructure manager concerning the level of infrastructure charges shall only be permitted if these are carried out under the supervision of the regulatory body. The regulatory body shall intervene if negotiations are likely to contravene the requirements of this Chapter.
+
+7\. The regulatory body shall, regularly and, in any case, at least every two years, consult representatives of users of the rail freight and passenger transport services, to take into account their views on the rail market.
+
+8\. The regulatory body shall have the power to request relevant information from the infrastructure manager, applicants and any third party involved within the Member State concerned.
+
+Information requested shall be supplied within a reasonable period set by the regulatory body that shall not exceed one month, unless, in exceptional circumstances, the regulatory body agrees to, and authorises, a time-limited extension, which shall not exceed two additional weeks. The regulatory body shall be able to enforce such requests with appropriate penalties, including fines. Information to be supplied to the regulatory body includes all data which the regulatory body requires in the framework of its appeal function and in its function of monitoring the competition in the rail services markets in accordance with paragraph 2. This includes data which are necessary for statistical and market observation purposes.
+
+9\. The regulatory body shall consider any complaints and, as appropriate, shall ask for relevant information and initiate consultations with all relevant parties, within 1 month from the receipt of the complaint. It shall decide on any complaints, take action to remedy the situation and inform the relevant parties of its reasoned decision within a pre- determined, reasonable time, and, in any case, within 6 weeks from receipt of all relevant information. Without prejudice to the powers of the national competition authorities for securing competition in the rail service markets, the regulatory body shall, where appropriate, decide on its own initiative on appropriate measures to correct discrimination against applicants, market distortion and any other undesirable developments in these markets, in particular with reference to points (a) to (j) of paragraph 1.
+
+A decision of the regulatory body shall be binding on all parties covered by that decision, and shall not be subject to the control of another administrative instance. The regulatory body shall be able to enforce its decisions with the appropriate penalties, including fines.
+
+In the event of an appeal against a refusal to grant infrastructure capacity, or against the terms of an offer of capacity, the regulatory body shall either confirm that no modification of the infrastructure manager's decision is required, or it shall require modification of that decision in accordance with directions specified by the regulatory body.
+
+10\. Member States shall ensure that decisions taken by the regulatory body are subject to judicial review. The appeal may have suspensive effect on the decision of the regulatory body only when the immediate effect of the regulatory body's decision may cause irretrievable or manifestly excessive damages for the appellant. This provision is without prejudice to the powers of the court hearing the appeal as conferred by constitutional law, where applicable.
+
+11\. Member States shall ensure that decisions taken by the regulatory body are published.
+
+12\. In order to verify compliance with accounting separation provisions laid down in Article 6 and provisions on financial transparency laid down in Article 7d, the regulatory body shall have the power to carry out audits or initiate external audits with infrastructure managers, operators of service facilities and, where relevant, railway undertakings. In the case of vertically integrated undertakings, those powers shall extend to all legal entities. The regulatory body shall be entitled to request any relevant information. In particular the regulatory body shall have the power to request infrastructure manager, operators of service facilities and all undertakings or other entities performing or integrating different types of rail transport or infrastructure management as referred to in Article 6(1) and (2) and Article 13 to provide all or part of the accounting information listed in Annex VIII with a sufficient level of detail as deemed necessary and proportionate.
+
+Without prejudice to the powers of the national authorities responsible for State aid issues, the regulatory body may also draw conclusions from the accounts concerning State aid issues which it shall report to those authorities.
+
+Financial flows referred to in Article 7d(1), loans referred to in Article 7d(4) and (5), and debts referred to in Article 7d(7) shall be subject to monitoring by the regulatory body.
+
+Where a Member State has designated the regulatory body as the independent competent body referred to in Article 7c(4), the regulatory body shall assess the cooperation agreements referred to in that Article.
+
+13\. The Commission shall be empowered to adopt delegated acts in accordance with Article 60 concerning certain amendments to Annex VIII. Thus, Annex VIII may be amended to adapt it to the evolution of accounting and control practices and/or to supplement it with additional elements necessary to verify separation of accounts.
+
+#### Article 57 — Cooperation between regulatory bodies
+
+1\. The regulatory bodies shall exchange information about their work and decision-making principles and practice and, in particular, exchange information on the main issues of their procedures and on the problems of interpreting transposed Union railway law. They shall otherwise cooperate for the purpose of coordinating their decision-making across the Union. For this purpose, they shall participate and work together in a network that convenes at regular intervals. The Commission shall be a member, coordinate and support the work of the network and make recommendations to the network, as appropriate. It shall ensure active cooperation of the appropriate regulatory bodies.
+
+Subject to the rules on data protection provided for in Directive 95/46/EC of the European Parliament and of the Council of 24 October 1995 on the protection of individuals with regard to the processing of personal data and on the free movement of such data ( 11 ) and Regulation (EC) No 45/2001 of the European Parliament and of the Council of 18 December 2000 on the protection of individuals with regard to the processing of personal data by the Community institutions and bodies and on the free movement of such data ( 12 ), the Commission shall support the exchange of the information referred above among the members of the network, possibly through electronic tools, respecting the confidentiality of business secrets supplied by the relevant undertakings.
+
+2\. The regulatory bodies shall cooperate closely, including through working arrangements, for the purposes of mutual assistance in their market monitoring tasks and handling complaints or investigations.
+
+3\. In the case of a complaint or an own-initiative investigation on issues of access or charging relating to an international train path, as well as in the framework of monitoring competition on the market related to international rail transport services, the regulatory body concerned shall consult the regulatory bodies of all other Member States through which the international train path concerned runs and, where appropriate, the Commission, and shall request all necessary information from them before taking its decision.
+
+3a. Where matters concerning an international service require decisions of two or more regulatory bodies, the regulatory bodies concerned shall cooperate in preparing their respective decisions in order to bring about a resolution of the matter. For that purpose, the regulatory bodies concerned shall carry out their functions in accordance with Article 56.
+
+4\. The regulatory bodies consulted in accordance with paragraph 3 shall provide all the information that they themselves have the right to request under their national law. This information may only be used for the purpose of handling the complaint or investigation referred to in paragraph 3.
+
+5\. The regulatory body receiving the complaint or conducting an investigation on its own initiative shall transfer relevant information to the regulatory body responsible in order for that body to take measures regarding the parties concerned.
+
+6\. Member States shall ensure that any associated representatives of infrastructure managers as referred to in Article 40(1) provide, without delay, all the information necessary for the purpose of handling the complaint or investigation referred to in paragraph 3 of this Article and requested by the regulatory body of the Member State in which the associated representative is located. That regulatory body shall be entitled to transfer such information regarding the international train path concerned to the regulatory bodies referred to in paragraph 3.
+
+7\. At the request of a regulatory body, the Commission may participate in the activities listed under paragraphs 2 to 6 for the purpose of facilitating the cooperation of regulatory bodies as outlined in those paragraphs.
+
+8\. Regulatory bodies shall develop common principles and practices for making the decisions for which they are empowered under this Directive. Such common principles and practices shall include arrangements for the resolution of disputes that arise within the framework of paragraph 3a. Based on the experience of regulatory bodies and on the activities of the network referred to in paragraph 1, and, if needed, to ensure efficient cooperation of regulatory bodies, the Commission may adopt implementing acts setting out such common principles and practices. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 62(3).
+
+9\. Regulatory bodies shall review decisions and practices of associations of infrastructure managers as referred to in Article 37 and Article 40(1) that implement provisions of this Directive or otherwise facilitate international rail transport.
+
+10\. For decisions concerning a bi-national infrastructure, both Member States concerned may at any time after 24 December 2016 agree to require coordination between the regulatory bodies concerned in order to align the impact of their decisions.
+
+## CHAPTER V — FINAL PROVISIONS
+
+#### Article 58 — Public procurement rules
+
+The provisions of this Directive shall be without prejudice to Directive 2004/17/EC of the European Parliament and of the Council of 31 March 2004 coordinating the procurement procedures of entities operating in the water, energy, transport and postal services sectors ( 13 ).
+
+#### Article 59 — Derogations
+
+1\. Until 15 March 2013, Ireland, as a Member State located on an island, with a rail link to only one other Member State, and the United Kingdom, in respect of Northern Ireland, on the same basis:
+
+(a) do not need to entrust to an independent body the functions determining equitable and non-discriminatory access to infrastructure, as provided for in the first subparagraph of Article 7(1) in so far as that Article obliges Member States to establish independent bodies performing the tasks referred to in Article 7(2);
+
+(b) do not need to apply the requirements set out in Article 27, Article 29(2), Articles 38, 39 and 42, Article 46(4) and (6), Article 47, Article 49(3), and Articles 50 to 53, 55 and 56 on condition that decisions on the allocation of infrastructure capacity or the charging of fees are open to appeal, if so requested in writing by a railway undertaking, before an independent body which shall take its decision within two months of the submission of all relevant information and whose decision shall be subject to judicial review.
+
+2\. Where more than one railway undertaking licensed in accordance with Article 17, or, in the case of Ireland and Northern Ireland, a railway company so licensed elsewhere, submits an official application to operate competing railway services in, to or from Ireland or Northern Ireland, the continued applicability of this derogation shall be decided upon in accordance with the advisory procedure referred to in Article 62(2).
+
+The derogations referred to in paragraph 1 shall not apply where a railway undertaking operating railway services in Ireland or Northern Ireland submits an official application to operate railway services on, to or from the territory of another Member State, with the exceptions of Ireland for railway undertakings operating in Northern Ireland and the United Kingdom for railway undertakings operating in Ireland.
+
+Within one year from the receipt of either the decision referred to in the first subparagraph of this paragraph or notification of the official application referred to in the second subparagraph of this paragraph, the Member State or States concerned (Ireland or the United Kingdom with respect to Northern Ireland) shall put in place legislation to implement the Articles referred to in paragraph 1.
+
+3\. A derogation referred to in paragraph 1 may be renewed for periods not longer than five years. Not later than 12 months before the expiry date of the derogation a Member State availing itself of that derogation may address a request to the Commission for a renewed derogation. Any such request shall be justified. The Commission shall examine such a request and adopt a decision in accordance with the advisory procedure referred to in Article 62(2). That procedure shall apply to any decision related to the request.
+
+When adopting its decision, the Commission shall take into account any development in the geopolitical situation and the development of the rail market in, from and to the Member State that requested the renewed derogation.
+
+#### Article 60 — Exercise of the delegation
+
+1\. The power to adopt delegated acts is conferred on the Commission subject to the conditions laid down in this Article.
+
+2\. The power to adopt delegated acts referred to in Article 20(5), Article 35(3), Article 43(2) and Article 56(13) shall be conferred on the Commission for a period of five years from 15 December 2012. The Commission shall draw up a report in respect of the delegation of power not later than nine months before the end of the five-year period. The delegation of power shall be tacitly extended for periods of an identical duration, unless the European Parliament or the Council opposes such extension not later than three months before the end of each period.
+
+3\. The delegation of powers referred to in Article 20(5), Article 35(3), Article 43(2) and Article 56(13) may be revoked at any time by the European Parliament or by the Council. A decision to revoke shall put an end to the delegation of the power specified in that decision. It shall take effect the day following the publication of the decision in the Official Journal of the European Union or at a later date specified therein. It shall not affect the validity of any delegated acts already in force.
+
+4\. As soon as it adopts a delegated act, the Commission shall notify it simultaneously to the European Parliament and to the Council.
+
+5\. A delegated act adopted pursuant to Article 20(5), Article 35(3), Article 43(2) and Article 56(13) shall enter into force only if no objection has been expressed either by the European Parliament or by the Council within a period of two months of notification of that act to the European Parliament and the Council or if, before the expiry of that period, the European Parliament and the Council have both informed the Commission that they will not object. That period shall be extended by two months at the initiative of the European Parliament or of the Council.
+
+#### Article 61 — Measures of application
+
+At the request of a Member State, of a regulatory body or on its own initiative, the Commission shall examine specific measures adopted by national authorities in relation to the application of this Directive, concerning the conditions of access to railway infrastructure and services, the licensing of railway undertakings, infrastructure charging and capacity allocation within 12 months after adoption of those measures. The Commission shall decide in accordance with the procedure referred to in Article 62(2) whether the related measure may continue to be applied within four months of receipt of such a request.
+
+#### Article 62 — Committee procedure
+
+1\. The Commission shall be assisted by a committee. That committee shall be a committee within the meaning of Regulation (EU) No 182/2011.
+
+2\. Where reference is made to this paragraph, Article 4 of Regulation (EU) No 182/2011 shall apply.
+
+3\. Where reference is made to this paragraph, Article 5 of Regulation (EU) No 182/2011 shall apply. When the committee delivers no opinion on a draft implementing act to be adopted pursuant to Article 10(4), Article 11(4), Article 12(5), Article 13(9) and Article 17(5), Article 31(3) and (5), Article 32(4) and Article 57(8), the Commission shall not adopt the draft implementing act and the third subparagraph of Article 5(4) of Regulation (EU) No 182/2011 shall apply.
+
+#### Article 63 — Report
+
+1\. By 31 December 2024, the Commission shall evaluate the impact of this Directive on the rail sector and shall submit to the European Parliament, the Council, the European Economic and Social Committee and the Committee of the Regions a report on its implementation.
+
+In particular, the report shall evaluate the development of high-speed rail services and assess the existence of discriminatory practices regarding access to high-speed lines. The Commission shall consider whether it is necessary to submit legislative proposals.
+
+By the same date, the Commission shall assess whether discriminatory practices or other types of distortion of competition persist in relation to infrastructure managers which are part of a vertically integrated undertaking. The Commission shall, if appropriate, submit legislative proposals.
+
+2\. In light of the experience acquired through the network of regulatory bodies, the Commission shall, by 16 December 2014, submit to the European Parliament, the Council, the European Economic and Social Committee and the Committee of Regions a report on cooperation between regulatory bodies. The Commission shall, if appropriate, propose complementary measures to ensure a more integrated regulatory oversight of the European rail market, in particular for international services. To that end, legislative measures shall also be considered, if appropriate.
+
+#### Article 64 — Transposition
+
+1\. Member States shall bring into force the laws, regulations and administrative provisions necessary to comply with this Directive including as regards compliance by undertakings, operators, applicants, authorities and other entities concerned by 16 June 2015. They shall forthwith communicate to the Commission the text of those provisions.
+
+When Member States adopt those provisions, they shall contain a reference to this Directive or be accompanied by such a reference on the occasion of their official publication. They shall also include a statement that references in existing laws, regulations and administrative provisions to the Directives repealed by this Directive shall be construed as references to this Directive. Member States shall determine how such reference is to be made and how that statement is to be formulated.
+
+2\. Member States shall communicate to the Commission the text of the main provisions of national law which they adopt in the field covered by this Directive.
+
+The obligations for transposition and implementation of Chapters II and IV of this Directive shall not apply to Cyprus and Malta for as long as no railway system is established within their territory.
+
+#### Article 65 — Repeal
+
+Directives 91/440/EEC, 95/18/EC and 2001/14/EC, as amended by the Directives listed in Annex IX, Part A, are repealed with effect from 17 June 2015,  without prejudice to the obligations of the Member States relating to the time limits for transposition into national law of the Directives set out in Part B of Annex IX.
+
+References to the repealed Directives shall be construed as references to this Directive and shall be read in accordance with the correlation table in Annex X.
+
+#### Article 66 — Entry into force
+
+This Directive shall enter into force on the day following that of its publication in the Official Journal of the European Union.
+
+#### Article 67 — Addressees
+
+This Directive is addressed to the Member States.
+
+## ANNEX I
+
+**LIST OF RAILWAY INFRASTRUCTURE ITEMS**
+
+Railway infrastructure consists of the following items, provided they form part of the permanent way, including sidings, but excluding lines situated within railway repair workshops, depots or locomotive sheds, and private branch lines or sidings:
+
+— Ground area,
+
+— Track and track bed, in particular embankments, cuttings, drainage channels and trenches, masonry trenches, culverts, lining walls, planting for protecting side slopes, etc.; passenger and goods platforms, including in passenger stations and freight terminals; four-foot way and walkways; enclosure walls, hedges, fencing; fire protection strips; apparatus for heating points; crossings etc.; snow protection screens,
+
+— Engineering structures: bridges, culverts and other overpasses, tunnels, covered cuttings and other underpasses; retaining walls, structures for protection against avalanches, falling stones, etc.,
+
+— Level crossings, including appliances to ensure the safety of road traffic,
+
+— Superstructure, in particular: rails, grooved rails and check rails; sleepers and longitudinal ties, small fittings for the permanent way, ballast including stone chippings and sand; points, crossings, etc.; turntables and traverses (except those reserved exclusively for locomotives),
+
+— Access way for passengers and goods, including access by road and access for passengers arriving or departing on foot,
+
+— Safety, signalling and telecommunications installations on the open track, in stations and in marshalling yards, including plant for generating, transforming and distributing electric current for signalling and telecommunications; buildings for such installations or plant; track brakes,
+
+— Lighting installations for traffic and safety purposes,
+
+— Plant for transforming and carrying electric power for train haulage: substations, supply cables between substations and contact wires, catenaries and supports; third rail with supports,
+
+— Buildings used by the infrastructure department, including a proportion of installations for the collection of transport charges.
+
+## ANNEX II
+
+**SERVICES TO BE SUPPLIED TO THE RAILWAY UNDERTAKINGS**
+
+**(referred to in Article 13)**
+
+1\. The minimum access package shall comprise:
+
+(a) handling of requests for railway infrastructure capacity;
+
+(b) the right to utilise capacity which is granted;
+
+(c) use of the railway infrastructure, including track points and junctions;
+
+(d) train control including signalling, regulation, dispatching and the communication and provision of information on train movement;
+
+(e) use of electrical supply equipment for traction current, where available;
+
+(f) all other information required to implement or operate the service for which capacity has been granted.
+
+2\. Access, including track access, shall be given to the following services facilities, when they exist, and to the services supplied in these facilities:
+
+(a) passenger stations, their buildings and other facilities, including travel information display and suitable location for ticketing services;
+
+(b) freight terminals;
+
+(c) marshalling yards and train formation facilities, including shunting facilities;
+
+(d) storage sidings;
+
+(e) maintenance facilities, with the exception of heavy maintenance facilities dedicated to high-speed trains or to other types of rolling stock requiring specific facilities;
+
+(f) other technical facilities, including cleaning and washing facilities;
+
+(g) maritime and inland port facilities which are linked to rail activities;
+
+(h) relief facilities;
+
+(i) refuelling facilities and supply of fuel in these facilities, charges for which shall be shown on the invoices separately.
+
+3\. Additional services may comprise:
+
+(a) traction current, charges for which shall be shown on the invoices separately from charges for using the electrical supply equipment, without prejudice to the application of Directive 2009/72/EC;
+
+(b) pre-heating of passenger trains;
+
+(c) tailor-made contracts for:
+
+— control of transport of dangerous goods,
+
+— assistance in running abnormal trains.
+
+4\. Ancillary services may comprise:
+
+(a) access to telecommunication networks;
+
+(b) provision of supplementary information;
+
+(c) technical inspection of rolling stock;
+
+(d) ticketing services in passenger stations;
+
+(e) heavy maintenance services supplied in maintenance facilities dedicated to high-speed trains or to other types of rolling stock requiring specific facilities.
+
+## ANNEX III
+
+**FINANCIAL FITNESS**
+
+**(referred to in Article 20)**
+
+The information to be provided by undertakings applying for a licence in accordance with Article 20 covers the following aspects:
+
+(a) available funds, including the bank balance, pledged overdraft provisions and loans;
+
+(b) funds and assets available as security;
+
+(c) working capital;
+
+(d) relevant costs, including purchase costs of payments to account for vehicles, land, buildings, installations and rolling stock;
+
+(e) charges on an undertaking's assets;
+
+(f) taxes and social security contributions.
+
+## ANNEX IV
+
+**CONTENTS OF THE NETWORK STATEMENT**
+
+**(referred to in Article 27)**
+
+The network statement referred to in Article 27 shall contain the following information:
+
+1\. A section setting out the nature of the infrastructure which is available to railway undertakings and the conditions of access to it. The information in this section shall be made consistent, on an annual basis with, or shall refer to, the rail infrastructure registers to be published in accordance with Article 35 of Directive 2008/57/EC.
+
+2\. A section on charging principles and tariffs. This shall contain appropriate details of the charging scheme as well as sufficient information on charges as well as other relevant information on access applying to the services listed in Annex II which are provided by only one supplier. It shall detail the methodology, rules and, where applicable, scales used for the application of Articles 31 to 36, as regards both costs and charges. It shall contain information on changes in charges already decided upon or foreseen in the next five years, if available.
+
+3\. A section on the principles and criteria for capacity allocation. This shall set out the general capacity characteristics of the infrastructure which is available to railway undertakings and any restrictions relating to its use, including likely capacity requirements for maintenance. It shall also specify the procedures and deadlines which relate to the capacity-allocation process. It shall contain specific criteria which are employed during that process, in particular:
+
+(a) the procedures according to which applicants may request capacity from the infrastructure manager;
+
+(b) the requirements governing applicants;
+
+(c) the schedule for the application and allocation processes and the procedures which shall be followed to request information on the scheduling and the procedures for scheduling planned and unforeseen maintenance work;
+
+(d) the principles governing the coordination process and the dispute resolution system made available as part of this process;
+
+(e) the procedures which shall be followed and criteria used where infrastructure is congested;
+
+(f) details of restrictions on the use of infrastructure;
+
+(g) conditions by which account is taken of previous levels of utilisation of capacity in determining priorities for the allocation process.
+
+It shall detail the measures taken to ensure adequate treatment of freight services, international services and requests subject to the ad hoc procedure. It shall contain a template form for capacity requests. The infrastructure manager shall also publish detailed information about the allocation procedures for international train paths.
+
+4\. A section on information relating to the application for a licence referred to in Article 25 of this Directive and rail safety certificates issued in accordance with Directive 2004/49/EC or indicating a website where such information is made available free of charge in electronic format.
+
+5\. A section on information about procedures for dispute resolution and appeal relating to matters of access to rail infrastructure and services and to the performance scheme referred to in Article 35.
+
+6\. A section on information on access to and charging for service facilities referred to in Annex II. Operators of service facilities which are not controlled by the infrastructure manager shall supply information on charges for gaining access to the facility and for the provision of services, and information on technical access conditions for inclusion in the network statement or shall indicate a website where such information is made available free of charge in electronic format.
+
+7\. A model agreement for the conclusion of framework agreements between an infrastructure manager and an applicant in accordance with Article 42.
+
+## ANNEX V
+
+**BASIC PRINCIPLES AND PARAMETERS OF CONTRACTUAL AGREEMENTS BETWEEN COMPETENT AUTHORITIES AND INFRASTRUCTURE MANAGERS**
+
+**(referred to in Article 30)**
+
+The contractual agreement shall specify the provisions of Article 30 and include at least the following elements:
+
+(1) the scope of the agreement as regards infrastructure and service facilities, structured in accordance with Annex II. It shall cover all aspects of infrastructure management, including maintenance and renewal of the infrastructure already in operation. Where appropriate, construction of new infrastructure may also be covered;
+
+(2) the structure of payments or funds allocated to the infrastructure services listed in Annex II, to maintenance and renewal and to dealing with existing maintenance and renewal backlogs. Where appropriate, the structure of payments or funds allocated to new infrastructure may be covered;
+
+(3) user-oriented performance targets, in the form of indicators and quality criteria covering elements such as:
+
+(a) train performance, such as in terms of line speed and reliability, and customer satisfaction,
+
+(b) network capacity,
+
+(c) asset management,
+
+(d) activity volumes,
+
+(e) safety levels, and
+
+(f) environmental protection;
+
+(4) the amount of possible maintenance backlog and the assets which will be phased out of use and therefore trigger different financial flows;
+
+(5) the incentives referred to in Article 30(1), with the exception of those incentives implemented through regulatory measures in accordance with Article 30(3);
+
+(6) minimum reporting obligations for the infrastructure manager in terms of content and frequency of reporting, including information to be published annually;
+
+(7) the agreed duration of the agreement, which shall be synchronised and consistent with the duration of the infrastructure manager's business plan, concession or licence, where appropriate, and the charging framework and rules set by the State;
+
+(8) rules for dealing with major disruptions of operations and emergency situations, including contingency plans and early termination of the contractual agreement, and timely information to users;
+
+(9) remedial measures to be taken if either of the parties is in breach of its contractual obligations, or in exceptional circumstances affecting the availability of public funding; this includes conditions and procedures for renegotiation and early termination.
+
+## ANNEX VI
+
+**REQUIREMENTS FOR COSTS AND CHARGES RELATED TO RAILWAY INFRASTRUCTURE**
+
+**(referred to in Article 32(1) and Article 35)**
+
+1\. The pairs to be considered by infrastructure managers when they define a list of market segments with a view to introducing mark-ups in the charging system according to Article 32(1) include at least the following:
+
+(a) passenger versus freight services;
+
+(b) trains carrying dangerous goods versus other freight trains;
+
+(c) domestic versus international services;
+
+(d) combined transport versus direct trains;
+
+(e) urban or regional versus interurban passenger services;
+
+(f) block trains versus single wagon load trains;
+
+(g) regular versus occasional train services.
+
+2\. The performance scheme as referred to in Article 35 shall be based on the following basic principles:
+
+(a) In order to achieve an agreed level of performance and not to endanger the economic viability of a service, the infrastructure manager shall agree with applicants the main parameters of the performance scheme, in particular the value of delays, the thresholds for payments due under the performance scheme relative both to individual train runs and to all train runs of a railway undertaking in a given period of time;
+
+(b) The infrastructure manager shall communicate to the railway undertakings the working timetable, on the basis of which delays will be calculated, at least five days before the train run. The infrastructure manager may apply a shorter notice period in case of force majeure or late alterations of the working timetable;
+
+(c) All delays shall be attributable to one of the following delay classes and sub-classes:
+
+1\. Operation/planning management attributable to the infrastructure manager
+
+1.1. Timetable compilation
+
+1.2. Formation of train
+
+1.3. Mistakes in operations procedure
+
+1.4. Wrong application of priority rules
+
+1.5. Staff
+
+1.6. Other causes
+
+2\. Infrastructure installations attributable to the infrastructure manager
+
+2.1. Signalling installations
+
+2.2. Signalling installations at level crossings
+
+2.3. Telecommunications installations
+
+2.4. Power supply equipment
+
+2.5. Track
+
+2.6. Structures
+
+2.7. Staff
+
+2.8. Other causes
+
+3\. Civil engineering causes attributable to the infrastructure manager
+
+3.1. Planned construction work
+
+3.2. Irregularities in execution of construction work
+
+3.3. Speed restriction due to defective track
+
+3.4. Other causes
+
+4\. Causes attributable to other infrastructure managers
+
+4.1. Caused by previous infrastructure manager
+
+4.2. Caused by next infrastructure manager
+
+5\. Commercial causes attributable to the railway undertaking
+
+5.1. Exceeding the stop time
+
+5.2. Request of the railway undertaking
+
+5.3. Loading operations
+
+5.4. Loading irregularities
+
+5.5. Commercial preparation of train
+
+5.6. Staff
+
+5.7. Other causes
+
+6\. Rolling stock attributable to the railway undertaking
+
+6.1. Roster planning/rerostering
+
+6.2. Formation of train by railway undertaking
+
+6.3. Problems affecting coaches (passenger transport)
+
+6.4. Problems affecting wagons (freight transport)
+
+6.5. Problems affecting cars, locomotives and rail cars
+
+6.6. Staff
+
+6.7. Other causes
+
+7\. Causes attributable to other railway undertakings
+
+7.1. Caused by next railway undertaking
+
+7.2. Caused by previous railway undertaking
+
+8\. External causes attributable to neither infrastructure manager nor railway undertaking
+
+8.1. Strike
+
+8.2. Administrative formalities
+
+8.3. Outside influence
+
+8.4. Effects of weather and natural causes
+
+8.5. Delay due to external reasons on the next network
+
+8.6. Other causes
+
+9\. Secondary causes attributable to neither infrastructure manager nor railway undertaking
+
+9.1. Dangerous incidents, accidents and hazards
+
+9.2. Track occupation caused by the lateness of the same train
+
+9.3. Track occupation caused by the lateness of another train
+
+9.4. Turn-around
+
+9.5. Connection
+
+9.6. Further investigation needed;
+
+(d) Wherever possible, delays shall be attributed to a single organisation, considering both the responsibility for causing the disruption and the ability to re-establish normal traffic conditions;
+
+(e) The calculation of payments shall take into account the average delay of train services of similar punctuality requirements;
+
+(f) The infrastructure manager shall, as soon as possible, communicate to the railway undertakings a calculation of payments due under the performance scheme. This calculation shall encompass all delayed train runs within a period of at most one month;
+
+(g) Without prejudice to the existing appeal procedures and to the provisions of Article 56, in the case of disputes relating to the performance scheme, a dispute resolution system shall be made available in order to settle such matters promptly. This dispute resolution system shall be impartial towards the parties involved. If this system is applied, a decision shall be reached within a time limit of 10 working days;
+
+(h) Once a year, the infrastructure manager shall publish the annual average level of performance achieved by the railway undertakings on the basis of the main parameters agreed in the performance scheme.
+
+## ANNEX VII
+
+**SCHEDULE FOR THE ALLOCATION PROCESS**
+
+**(referred to in Article 43)**
+
+(1) The working timetable shall be established once per calendar year.
+
+(2) The change of working timetable shall take place at midnight on the second Saturday in December. Where an adjustment is carried out after the winter, in particular to take account, where appropriate, of changes in regional passenger traffic timetables, it shall take place at midnight on the second Saturday in June and at such other intervals between these dates as are required. Infrastructure managers may agree on different dates and in this case they shall inform the Commission if international traffic may be affected.
+
+(3) The deadline for receipt of requests for capacity to be incorporated into the working timetable shall be no more than 12 months in advance of the change of the working timetable. Requests received after the deadline shall also be considered by the infrastructure manager.
+
+(4) No later than 11 months before the change of the working timetable, the infrastructure managers shall ensure that provisional international train paths have been established in cooperation with other relevant infrastructure managers. Infrastructure managers shall ensure that as far as possible these are adhered to during the subsequent processes.
+
+(5) The infrastructure manager shall prepare and publish a draft working timetable at the latest four months after the deadline referred to in point (3).
+
+(6) The infrastructure manager shall decide on the requests it receives after the deadline referred to in point (3) in accordance with a process published in the network statement.
+
+The infrastructure manager may reschedule an allocated train path if it is necessary to ensure the best possible matching of all path requests and if it is approved by the applicant to which the path had been allocated. The infrastructure manager shall update the draft working timetable no later than one month before the change of the working timetable in order to include all train paths allocated after the deadline referred to in point (3).
+
+(7) In the case of trains crossing from one network to another which arrive with a presumed delay of not more than 10 hours and, from 14 December 2019, 18 hours, the infrastructure manager of the other network shall not consider the train path cancelled or request application for another train path, including if it decides to allocate a different train path, unless the applicant informs the infrastructure manager that the train will not cross to the other network. The infrastructure manager shall communicate to the applicant the updated or new train path without delay, including, if different, the link between that train path number and the train path number of the cancelled train path.
+
+(8) As regards temporary restrictions of the capacity of railway lines, for reasons such as infrastructure works, including associated speed restrictions, axle load, train length, traction, or structure gauge (‘capacity restrictions’), of a duration of more than seven consecutive days and for which more than 30 % of the estimated traffic volume on a railway line per day is cancelled, re-routed or replaced by other modes of transport, the infrastructure managers concerned shall publish all capacity restrictions and the preliminary results of a consultation with the applicants for a first time at least 24 months, to the extent they are known, and, in an updated form, for a second time at least 12 months before the change of the working timetable concerned.
+
+(9) The infrastructure managers concerned shall also create a mechanism whereby they jointly discuss those capacity restrictions, if the impact of the capacity restrictions is not limited to one network, with interested applicants, the associations of infrastructure managers referred to in Article 40(1) and the main operators of service facilities concerned when they are published for the first time, unless the infrastructure managers and the applicants agree that such a mechanism is not needed. The joint discussions shall help prepare timetables, including the provision of diversionary routes.
+
+(10) When publishing capacity restrictions in accordance with point (8) for a first time, the infrastructure manager shall launch a consultation with the applicants and the main operators of services facilities concerned on the capacity restrictions. Where a coordination in accordance with point (11) is required between the first and second publication of capacity restrictions, infrastructure managers shall consult with applicants and the main operators of service facilities concerned a second time between the end of that coordination and the second publication of the capacity restriction.
+
+(11) Before publishing capacity restrictions in accordance with point (8), if the impact of the capacity restrictions is not limited to one network, the infrastructure managers concerned, including infrastructure managers that might be impacted by the rerouting of trains, shall coordinate between themselves capacity restrictions that could involve a cancellation, re-routing of a train path or a replacement by other modes.
+
+The coordination before the second publication shall be completed:
+
+(a) no later than 18 months before the change of the working timetable if more than 50 % of the estimated traffic volume on a railway line per day is cancelled, re-routed or replaced by other modes of transport for a duration of more than 30 consecutive days
+
+(b) no later than 13 months and 15 days before the change of the working timetable period if more than 30 % of the estimated traffic volume on a railway line per day is cancelled, re-routed or replaced by other modes of transport for a duration of more than seven consecutive days
+
+(c) no later than 13 months and 15 days before the change of the working timetable period if more than 50 % of the estimated traffic volume on a railway line per day is cancelled, re-routed or replaced by other modes of transport for a duration of seven consecutive days or less.
+
+The infrastructure managers shall, if necessary, invite the applicants active on the lines concerned and the main operators of service facilities concerned to get involved in that coordination.
+
+(12) As regards capacity restrictions of a duration of seven consecutive days or less that need not be published in accordance with point (8) and for which more than 10 % of the estimated traffic volume on a railway line per day is cancelled, re-routed or replaced by other modes, that occur during the following timetable period and that the infrastructure manager becomes aware of no later than 6 months and 15 days before the change of the working timetable, the infrastructure manager shall consult the applicants concerned on the envisaged capacity restrictions and communicate the updated capacity restrictions at least four months before the change of the working timetable. The infrastructure manager shall provide details on the offered train paths for passenger trains no later than four months and for freight trains no later than one month before the beginning of the capacity restriction, unless the infrastructure manager and the concerned applicants agree on a shorter lead time.
+
+(13) Infrastructure managers may decide to apply more stringent thresholds for capacity restrictions based on lower percentages of estimated traffic volumes or shorter durations than indicated in this Annex or to apply criteria in addition to the ones mentioned in this Annex, pursuant to a consultation with applicants and facility operators. They shall publish the thresholds and criteria for clustering capacity restrictions in their network statements under point 3 of Annex IV.
+
+(14) The infrastructure manager may decide not to apply the periods laid down in points (8) to (12), if the capacity restriction is necessary to re-establish safe train operations, the timing of the restrictions is beyond the control of the infrastructure manager, the application of those periods would be cost ineffective or unnecessarily damaging in respect of asset life or condition, or if all concerned applicants agree. In those cases and in case of any other capacity restrictions that are not subject to consultation in accordance with other provisions of this Annex, the infrastructure manager shall consult the applicants and the main operators of service facilities concerned forthwith.
+
+(15) The information to be provided by the infrastructure manager when acting in accordance with points (8), (12) or (14) shall include:
+
+(a) the planned day,
+
+(b) time of day, and, as soon as it can be set, the hour of the beginning and of the end of the capacity restriction,
+
+(c) the section of line affected by the restriction, and
+
+(d) where applicable, the capacity of diversionary lines.
+
+The infrastructure manager shall publish that information, or a link where it can be found, in its network statement as referred to in point (3) of Annex IV. The infrastructure manager shall keep this information updated.
+
+(16) As regards the capacity restrictions of a duration of at least 30 consecutive days and affecting more than 50 % of the estimated traffic volume on a railway line, the infrastructure manager shall provide the applicants upon their request during the first round of consultation with a comparison of the conditions to be encountered under at least two alternatives of capacity restrictions. The infrastructure manager shall design those alternatives on the basis of the input provided by the applicants at the time of their requests and jointly with them.
+
+The comparison shall, for each alternative, include at least:
+
+(a) the duration of the capacity restriction,
+
+(b) the expected indicative infrastructure charges due,
+
+(c) the capacity available on diversionary lines,
+
+(d) the available alternative routes, and
+
+(e) the indicative travel times.
+
+Before making a choice between the alternatives of capacity restrictions, the infrastructure manager shall consult the interested applicants and take into account the impacts of the different alternatives on those applicants and on the users of the services.
+
+(17) As regards the capacity restrictions of a duration of more than 30 consecutive days and affecting more than 50 % of the estimated traffic volume on a railway line, the infrastructure manager shall establish criteria for which trains of each type of service should be re-routed, taking into account the applicant's commercial and operational constraints, unless those operational constraints result from managerial or organisational decisions of the applicant, and without prejudice to the aim of reducing costs of the infrastructure manager in accordance with Article 30(1). The infrastructure manager shall publish in the network statement those criteria together with a preliminary allocation of the remaining capacity to the different types of train services when it acts in accordance with point (8). After the end of the consultation and without prejudice to the obligations of the infrastructure manager as referred to in point (3) of Annex IV, the infrastructure manager, based on the feed-back it received from the applicants, shall provide the railway undertakings concerned with an indicative break-down by type of service of the remaining capacity.
+
+## ANNEX VIII
+
+**ACCOUNTING INFORMATION TO BE SUPPLIED TO THE REGULATORY BODY UPON REQUEST**
+
+**(referred to in Article 56(12))**
+
+1\. Account separation
+
+(a) separate profit and loss accounts and balance sheets for freight, passenger and infrastructure management activities;
+
+(b) detailed information on individual sources and uses of public funds and other forms of compensation in a transparent and detailed manner, including a detailed review of the businesses' cash flows in order to determine in what way these public funds and other forms of compensation have been used;
+
+(c) cost and profit categories making it possible to determine whether cross-subsidies between these different activities occurred, according to the requirements of the regulatory body;
+
+(d) methodology used to allocate costs between different activities;
+
+(e) where the regulated firm is part of a group structure, full details of inter-company payments.
+
+2\. Monitoring of track access charges
+
+(a) different cost categories, in particular providing sufficient information on marginal/direct costs of the different services or groups of services so that infrastructure charges can be monitored;
+
+(b) sufficient information to allow monitoring of the individual charges paid for services (or groups of services); if required by the regulatory body, this information shall contain data on volumes of individual services, prices for individual services and total revenues for individual services paid by internal and external customers;
+
+(c) costs and revenues for individual services (or groups of services) using the relevant cost methodology, as required by the regulatory body, to identify potentially anti-competitive pricing (cross-subsidies, predatory pricing and excessive pricing).
+
+3\. Indication of financial performance
+
+(a) a statement of financial performance;
+
+(b) a summary expenditure statement;
+
+(c) a maintenance expenditure statement;
+
+(d) an operating expenditure statement;
+
+(e) an income statement;
+
+(f) supporting notes that amplify and explain the statements, where appropriate.
+
+## ANNEX IX
+
+**PART A**
+
+**REPEALED DIRECTIVES WITH LIST OF SUCCESSIVE AMENDMENTS**
+
+**(referred to in Article 65)**
+
+| Council Directive 91/440/EEC (OJ L 237, 24.8.1991, p. 25) |  |
+| --- | --- |
+| Directive 2001/12/EC of the European Parliament and of the Council (OJ L 75, 15.3.2001, p. 1) |  |
+| Directive 2004/51/EC of the European Parliament and of the Council (OJ L 164, 30.4.2004, p. 164) |  |
+| Council Directive 2006/103/EC (OJ L 363, 20.12.2006, p. 344) | only Point B of the Annex |
+| Directive 2007/58/EC of the European Parliament and of the Council (OJ L 315, 3.12.2007, p. 44) | only Article 1 |
+| Council Directive 95/18/EC (OJ L 143, 27.6.1995, p. 70) |  |
+| Directive 2001/13/EC of the European Parliament and of the Council (OJ L 75, 15.3.2001, p. 26) |  |
+| Directive 2004/49/EC of the European Parliament and of the Council (OJ L 164, 30.4.2004, p. 44) | only Article 29 |
+| Directive 2001/14/EC of the European Parliament and of the Council (OJ L 75, 15.3.2001, p. 29) |  |
+| Commission Decision 2002/844/EC (OJ L 289, 26.10.2002, p. 30) |  |
+| Directive 2004/49/EC of the European Parliament and of the Council (OJ L 164, 30.4.2004, p. 44) | only Article 30 |
+| Directive 2007/58/EC of the European Parliament and of the Council (OJ L 315, 3.12.2007, p. 44) | only Article 2 |
+
+**PART B**
+
+**LIST OF TIME LIMITS FOR TRANSPOSITION INTO NATIONAL LAW**
+
+**(referred to in Article 65)**
+
+Directive Time limit for transposition
+
+91/440/EEC 1 January 1993
+
+95/18/EC 27 June 1997
+
+2001/12/EC 15 March 2003
+
+2001/13/EC 15 March 2003
+
+2001/14/EC 15 March 2003
+
+2004/49/EC 30 April 2006
+
+2004/51/EC 31 December 2005
+
+2006/103/EC 1 January 2007
+
+2007/58/EC 4 June 2009
+
+## ANNEX X
+
+**CORRELATION TABLE**
+
+| Directive 91/440/EEC | Directive 95/18/EC | Directive 2001/14/EC | This Directive |
+| --- | --- | --- | --- |
+| Article 2(1) | Article 1(1) | Article 1(1), first subparagraph | Article 1(1) |
+|  |  | Article 1(2) | Article 1(2) |
+| Article 2(2) |  |  | Article 2(1) |
+|  | Article 1(2) |  | Article 2(2) |
+|  |  | Article 1(3) | Article 2(3) |
+|  |  |  | Article 2(4) to (9) |
+| Article 2(4) |  |  | Article 2(10) |
+|  |  |  | Article 2(11) |
+| Article 3 |  |  | Article 3(1) to (8) |
+|  |  |  | Article 3(9) to (13) |
+|  | Article 2(b) and (c) |  | Article 3(14) and (15) |
+|  |  |  | Article 3(16) and (17) |
+|  |  | Article 2 | Article 3(18) to (28) |
+|  |  |  | Article 3(29) and (30) |
+| Article 4 |  |  | Article 4 |
+| Article 5 |  |  | Article 5(1) to (3) |
+|  |  |  | Article 5(4) |
+| Article 6(1) and (2) |  |  | Article 6(1) and (2) |
+| Article 9(4) |  |  | Article 6(3) |
+| Article 6(1) second subparagraph |  |  | Article 6(4) |
+| Article 6(3) and Annex II |  |  | Article 7(1) |
+|  |  | Article 4(2) and Article 14(2) | Article 7(2) |
+| Article 7(1), (3) and (4) |  |  | Article 8(1), (2) and (3) |
+|  |  | Article 6(1) | Article 8(4) |
+| Article 9(1) and (2) |  |  | Article 9(1) and (2) |
+| Article 10(3) and (3a) |  |  | Article 10(1) and (2) |
+| Article 10(3b) |  |  | Article 11(1), (2) and (3) |
+|  |  |  | Article 11(4) |
+| Article 10(3c) and (3e) |  |  | Article 11(5) and (6) |
+| Article 10(3f) |  |  | Article 12(1) to (4) |
+|  |  |  | Article 12(5) |
+|  |  | Article 5 | Article 13 |
+|  |  |  | Article 14 |
+| Article 10b |  |  | Article 15 |
+|  | Article 3 |  | Article 16 |
+|  | Article 4(1) to (4) |  | Article 17(1) to (4) |
+|  | Article 5 |  | Article 18 |
+|  | Article 6 |  | Article 19 |
+|  | Article 7(1) |  | Article 20(1) |
+|  | Annex, Part I, point (1) |  | Article 20(2) |
+|  |  |  | Article 20(3) |
+|  | Article 8 |  | Article 21 |
+|  | Article 9 |  | Article 22 |
+|  | Article 4(5) |  | Article 23(1) |
+|  | Article 10 |  | Article 23(2) and (3) |
+|  | Article 11 |  | Article 24 |
+|  | Article 15 |  | Article 25 |
+|  |  | Article 1(1), second subparagraph | Article 26 |
+|  |  | Article 3 | Article 27 |
+| Article 10(5) |  |  | Article 28 |
+|  |  | Article 4(1) and (3) to (6) | Article 29 |
+|  |  | Article 6(2) to (5) | Article 30 |
+|  |  | Article 7 | Article 31 |
+|  |  | Article 8 | Article 32 |
+|  |  | Article 9 | Article 33 |
+|  |  | Article 10 | Article 34 |
+|  |  | Article 11 | Article 35 |
+|  |  | Article 12 | Article 36 |
+|  |  |  | Article 37 |
+|  |  | Article 13 | Article 38 |
+|  |  | Article 14(1) and (3) | Article 39 |
+|  |  | Article 15 | Article 40 |
+|  |  | Article 16 | Article 41 |
+|  |  | Article 17 | Article 42 |
+|  |  | Article 18 | Article 43 |
+|  |  | Article 19 | Article 44 |
+|  |  | Article 20(1), (2) and (3) | Article 45(1), (2) and (3) |
+|  |  |  | Article 45(4) |
+|  |  | Article 20(4) | Article 45(5) |
+|  |  | Article 21 | Article 46 |
+|  |  | Article 22 | Article 47 |
+|  |  | Article 23 | Article 48 |
+|  |  | Article 24 | Article 49 |
+|  |  | Article 25 | Article 50 |
+|  |  | Article 26 | Article 51 |
+|  |  | Article 27 | Article 52 |
+|  |  | Article 28 | Article 53 |
+|  |  | Article 29 | Article 54 |
+|  |  | Article 30(1) | Article 55 |
+|  |  | Article 30(2) | Article 56(1) |
+|  |  | Article 31 | Article 57 |
+| Article 12 |  |  | Article 58 |
+| Article 14a |  | Article 33(1), (2) and (3) | Article 59 |
+|  |  |  | Article 60 |
+|  |  | Article 34(2) | Article 61 |
+| Article 11a |  | Article 35(1), (2) and (3) | Article 62 |
+| Article 10(9) |  |  | Article 63 |
+|  |  | Article 38 | Article 64 |
+|  |  |  | Article 65 |
+|  | Article 17 | Article 39 | Article 66 |
+| Article 16 | Article 18 | Article 40 | Article 67 |
+|  |  |  | Annex I |
+|  |  | Annex II | Annex II |
+|  | Annex |  | Annex III |
+|  |  | Annex I | Annex IV |
+|  |  |  | Annex V |
+|  |  |  | Annex VI |
+|  |  | Annex III | Annex VII |
+|  |  |  | Annex VIII |
+
+( 1 ) Council Regulation (EC) No 139/2004 of 20 January 2004 on the control of concentrations between undertakings (the EC Merger Regulation) (OJ L 24, 29.1.2004, p. 1).
+
+( 2 ) Regulation (EC) No 1371/2007 of the European Parliament and of the Council of 23 October 2007 on rail passengers' rights and obligations (OJ L 315, 3.12.2007, p. 14).
+
+( 3 ) Directive 2010/40/EU of the European Parliament and of the Council of 7 July 2010 on the framework for the deployment of Intelligent Transport Systems in the field of road transport and for interfaces with other modes of transport (OJ L 207, 6.8.2010, p. 1).
+
+( 4 ) OJ L 164, 30.4.2004, p. 1.
+
+( 5 ) Commission Regulation (EU) 2016/919 of 27 May 2016 on the technical specification for interoperability relating to the ‘control-command and signalling’ subsystems of the rail system in the European Union (OJ L 158, 15.6.2016, p. 1).
+
+( 6 ) Commission Decision 2008/386/EC of 23 April 2008 modifying Annex A to Decision 2006/679/EC concerning the technical specification for interoperability relating to the control-command and signalling subsystem of the trans-European conventional rail system and Annex A to Decision 2006/860/EC concerning the technical specification for interoperability relating to the control-command and signalling subsystem of the trans-European high-speed rail system (OJ L 136, 24.5.2008, p. 11).
+
+( 7 ) OJ L 276, 20.10.2010, p. 22.
+
+( 8 ) OJ L 1, 4.1.2003, p. 1.
+
+Editorial note: The title of Council Regulation (EC) No 1/2003 has been adjusted to take account of the renumbering of the articles of the Treaty establishing the European Community, in accordance with Article 5 of the Treaty of Lisbon; the original reference was: Articles 81 and 82 of the Treaty.
+
+( 9 ) OJ L 164, 30.4.2004, p. 44.
+
+( 10 ) OJ L 191, 18.7.2008, p. 1.
+
+( 11 ) OJ L 281, 23.11.1995, p. 31.
+
+( 12 ) OJ L 8, 12.1.2001, p. 1.
+
+( 13 ) OJ L 134, 30.4.2004, p. 1.

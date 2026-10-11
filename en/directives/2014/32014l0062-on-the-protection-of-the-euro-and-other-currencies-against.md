@@ -1,0 +1,161 @@
+---
+title: "Directive 2014/62/EU of the European Parliament and of the Council of 15 May 2014 on the protection of the euro and other currencies against counterfeiting by criminal law, and replacing Council Framework Decision 2000/383/JHA"
+identifier: "32014L0062"
+eli: "http://data.europa.eu/eli/dir/2014/62/oj"
+type: directive
+jurisdiction: eu
+language: en
+date: 2014-05-15
+entry_into_force: 2014-01-29
+last_amended: 2024-11-04
+consolidated_version: "02014L0062-20241104"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02014L0062-20241104"
+retrieved: 2026-10-11
+---
+
+# Directive 2014/62/EU of the European Parliament and of the Council of 15 May 2014 on the protection of the euro and other currencies against counterfeiting by criminal law, and replacing Council Framework Decision 2000/383/JHA
+
+**DIRECTIVE 2014/62/EU OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 15 May 2014**
+
+**on the protection of the euro and other currencies against counterfeiting by criminal law, and replacing Council Framework Decision 2000/383/JHA**
+
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> DIRECTIVE (EU) 2024/2808 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 23 October 2024 </td><td> L 2808</td><td>1</td><td>4.11.2024</td></tr>
+
+**DIRECTIVE 2014/62/EU OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 15 May 2014**
+
+**on the protection of the euro and other currencies against counterfeiting by criminal law, and replacing Council Framework Decision 2000/383/JHA**
+
+## Article 1 — Subject matter
+
+This Directive establishes minimum rules concerning the definition of criminal offences and sanctions in the area of counterfeiting of the euro and other currencies. It also introduces common provisions to strengthen the fight against those offences and to improve investigation of them and to ensure better cooperation against counterfeiting.
+
+## Article 2 — Definitions
+
+For the purposes of this Directive the following definitions apply:
+
+(a) ‘currency’ means notes and coins, the circulation of which is legally authorised, including euro notes and coins, the circulation of which is legally authorised pursuant to Regulation (EC) No 974/98;
+
+(b) ‘legal person’ means any entity having legal personality under the applicable law, except for States or public bodies in the exercise of State authority and for public international organisations.
+
+## Article 3 — Offences
+
+1\. Member States shall take the necessary measures to ensure that the following conduct is punishable as a criminal offence, when committed intentionally:
+
+(a) any fraudulent making or altering of currency, whatever means are employed;
+
+(b) the fraudulent uttering of counterfeit currency;
+
+(c) the import, export, transport, receiving or obtaining of counterfeit currency with a view to uttering the same and with knowledge that it is counterfeit;
+
+(d) the fraudulent making, receiving, obtaining or possession of
+
+(i) instruments, articles, computer programs and data, and any other means peculiarly adapted for the counterfeiting or altering of currency; or
+
+(ii) security features, such as holograms, watermarks or other components of currency which serve to protect against counterfeiting.
+
+2\. Member States shall take the necessary measures to ensure that the conduct referred to in points (a), (b) and (c) of paragraph 1 is punishable also with respect to notes or coins being manufactured or having been manufactured by use of legal facilities or materials in violation of the rights or the conditions under which competent authorities may issue notes or coins.
+
+3\. Member States shall take the necessary measures to ensure that the conduct referred to in paragraphs 1 and 2 is punishable also in relation to notes and coins which are not yet issued, but are designated for circulation as legal tender.
+
+## Article 4 — Incitement, aiding and abetting, and attempt
+
+1\. Member States shall take the necessary measures to ensure that inciting or aiding and abetting an offence referred to in Article 3 is punishable as a criminal offence.
+
+2\. Member States shall take the necessary measures to ensure that an attempt to commit an offence referred to in points (a), (b) or (c) of Article 3(1), Article 3(2), or Article 3(3) in relation to conduct referred to in points (a), (b) and (c) of Article 3(1) is punishable as a criminal offence.
+
+## Article 5 — Sanctions for natural persons
+
+1\. Member States shall take the necessary measures to ensure that the conduct referred to in Articles 3 and 4 is punishable by effective, proportionate and dissuasive criminal sanctions.
+
+2\. Member States shall take the necessary measures to ensure that the offences referred to in point (d) of Article 3(1), the offences referred to in Article 3(2), and the offences referred to in Article 3(3) in relation to conduct referred to in point (d) of Article 3(1) shall be punishable by a maximum sanction which provides for imprisonment.
+
+3\. Member States shall take the necessary measures to ensure that the offences referred to in point (a) of Article 3(1) and in Article 3(3) in relation to conduct referred to in point (a) of Article 3(1) shall be punishable by a maximum term of imprisonment of at least eight years.
+
+4\. Member States shall take the necessary measures to ensure that the offences referred to in points (b) and (c) of Article 3(1) and in Article 3(3) in relation to conduct referred to in points (b) and (c) of Article 3(1) shall be punishable by a maximum term of imprisonment of at least five years.
+
+5\. In relation to the offence referred to in point (b) of Article 3(1), Member States may provide for effective, proportionate and dissuasive criminal sanctions other than that referred to in paragraph 4 of this Article, including fines and imprisonment, if the counterfeit currency was received without knowledge but passed on with the knowledge that it is counterfeit.
+
+## Article 6 — Liability of legal persons
+
+1\. Member States shall take the necessary measures to ensure that legal persons can be held liable for the offences referred to in Articles 3 and 4 committed for their benefit by any person acting either individually or as part of an organ of the legal person who has a leading position within the legal person based on
+
+(a) a power of representation of the legal person;
+
+(b) an authority to take decisions on behalf of the legal person; or
+
+(c) an authority to exercise control within the legal person.
+
+2\. Member States shall ensure that a legal person can be held liable where the lack of supervision or control by a person referred to in paragraph 1 of this Article has made possible the commission of an offence referred to in Articles 3 and 4 for the benefit of that legal person by a person under its authority.
+
+3\. Liability of a legal person under paragraphs 1 and 2 of this Article shall not exclude criminal proceedings against natural persons who are perpetrators, instigators or accessories in the offences referred to in Articles 3 and 4.
+
+## Article 7 — Sanctions for legal persons
+
+Member States shall take the necessary measures to ensure that a legal person held liable pursuant to Article 6 is subject to effective, proportionate and dissuasive sanctions, which shall include criminal or non-criminal fines and may include other sanctions such as
+
+(a) exclusion from entitlement to public benefits or aid;
+
+(b) temporary or permanent disqualification from the practice of commercial activities;
+
+(c) placing under judicial supervision;
+
+(d) judicial winding-up;
+
+(e) temporary or permanent closure of establishments which have been used for committing the offence.
+
+## Article 8 — Jurisdiction
+
+1\. Each Member State shall take the necessary measures to establish its jurisdiction over the offences referred to in Articles 3 and 4, where
+
+(a) the offence is committed in whole or in part within its territory; or
+
+(b) the offender is one of its nationals.
+
+2\. Each Member State whose currency is the euro shall take the necessary measures to establish its jurisdiction over the offences referred to in Articles 3 and 4 committed outside its territory, at least where they relate to the euro and where
+
+(a) the offender is in the territory of that Member State and is not extradited; or
+
+(b) counterfeit euro notes or coins related to the offence have been detected in the territory of that Member State.
+
+For the prosecution of the offences referred to in point (a) of Article 3(1), Article 3(2) and (3), where they relate to point (a) of Article 3(1), as well as incitement, aiding and abetting, and attempt to commit those offences, each Member State shall take the necessary measures to ensure that its jurisdiction is not subordinated to the condition that the acts are a criminal offence at the place where they were committed.
+
+## Article 9 — Investigative tools
+
+Member States shall take the necessary measures to ensure that effective investigative tools, such as those which are used in organised crime or other serious crime cases, are available to persons, units or services responsible for investigating or prosecuting the offences referred to in Articles 3 and 4.
+
+## Article 10 — Obligation to transmit counterfeit euro notes and coins for analysis and detection of counterfeits
+
+Member States shall ensure that during criminal proceedings the examination by the National Analysis Centre and Coin National Analysis Centre of suspected counterfeit euro notes and coins for analysis, identification and detection of further counterfeits is permitted without delay. The competent authorities shall transmit the necessary samples without any delay, and at the latest once a final decision concerning the criminal proceedings has been reached.
+
+## Article 12 — Reporting by the Commission and review
+
+By 23 May 2019, the Commission shall submit a report on the application of this Directive to the European Parliament and to the Council. The report shall assess the extent to which the Member States have taken the necessary measures to comply with this Directive. The report shall be accompanied, if necessary, by a legislative proposal.
+
+## Article 13 — Replacement of Framework Decision 2000/383/JHA
+
+Framework Decision 2000/383/JHA is hereby replaced in respect of the Member States bound by this Directive, without prejudice to the obligations of those Member States relating to the time-limit for transposition into national law of Framework Decision 2000/383/JHA.
+
+For the Member States bound by this Directive, references to Framework Decision 2000/383/JHA shall be construed as references to this Directive.
+
+## Article 14 — Transposition
+
+1\. Member States shall bring into force the laws, regulations and administrative provisions necessary to comply with this Directive by 23 May 2016. They shall immediately inform the Commission thereof.
+
+When Member States adopt those measures, they shall contain a reference to this Directive or shall be accompanied by such reference on the occasion of their official publication. The methods of making such a reference shall be laid down by the Member States.
+
+2\. Member States shall communicate to the Commission the text of the main measures of national law which they adopt in the field covered by this Directive.
+
+## Article 15 — Entry into force
+
+This Directive shall enter into force on the day following its publication in the Official Journal of the European Union.
+
+## Article 16 — Addressees
+
+This Directive is addressed to the Member States in accordance with the Treaties.

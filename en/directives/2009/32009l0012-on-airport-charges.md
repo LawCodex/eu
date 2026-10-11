@@ -1,0 +1,189 @@
+---
+title: "Directive 2009/12/EC of the European Parliament and of the Council of 11 March 2009 on airport charges (Text with EEA relevance)"
+identifier: "32009L0012"
+eli: "http://data.europa.eu/eli/dir/2009/12/oj"
+type: directive
+jurisdiction: eu
+language: en
+date: 2009-03-11
+entry_into_force: 2009-10-27
+last_amended: 2024-05-20
+consolidated_version: "02009L0012-20240520"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02009L0012-20240520"
+retrieved: 2026-10-11
+---
+
+# Directive 2009/12/EC of the European Parliament and of the Council of 11 March 2009 on airport charges (Text with EEA relevance)
+
+**DIRECTIVE 2009/12/EC OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 11 March 2009**
+
+**on airport charges**
+
+**(Text with EEA relevance)**
+
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> DECISION (EU) 2024/1254 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 24 April 2024 </td><td> L 1254</td><td>1</td><td>30.4.2024</td></tr>
+
+**DIRECTIVE 2009/12/EC OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 11 March 2009**
+
+**on airport charges**
+
+**(Text with EEA relevance)**
+
+## Article 1 — Subject matter
+
+1\. This Directive sets common principles for the levying of airport charges at Community airports.
+
+2\. This Directive shall apply to any airport located in a territory subject to the Treaty and open to commercial traffic whose annual traffic is over five million passenger movements and to the airport with the highest passenger movement in each Member State.
+
+4\. This Directive shall not apply to the charges collected for the remuneration of en route and terminal air navigation services in accordance with Regulation (EC) No 1794/2006, or to the charges collected for the remuneration of groundhandling services referred to in the Annex to Directive 96/67/EC, or to the charges levied for the funding of assistance to disabled passengers and passengers with reduced mobility referred to in Regulation (EC) No 1107/2006.
+
+5\. This Directive shall be without prejudice to the right of each Member State to apply additional regulatory measures that are not incompatible with this Directive or other relevant provisions of Community law with regard to any airport managing body located in its territory. This may include economic oversight measures, such as the approval of charging systems and/or the level of charges, including incentive-based charging methods or price cap regulation.
+
+## Article 2 — Definitions
+
+For the purposes of this Directive:
+
+1\. ‘airport’ means any land area specifically adapted for the landing, taking-off and manoeuvring of aircraft, including the ancillary installations which these operations may involve for the requirements of aircraft traffic and services, including the installations needed to assist commercial air services;
+
+2\. ‘airport managing body’ means a body which, in conjunction with other activities or not as the case may be, has as its objective under national laws, regulations or contracts the administration and management of the airport or airport network infrastructures and the coordination and control of the activities of the different operators present in the airports or airport network concerned;
+
+3\. ‘airport user’ means any natural or legal person responsible for the carriage of passengers, mail and/or freight by air to or from the airport concerned;
+
+4\. ‘airport charge’ means a levy collected for the benefit of the airport managing body and paid by the airport users for the use of facilities and services, which are exclusively provided by the airport managing body and which are related to landing, take-off, lighting and parking of aircraft, and processing of passengers and freight;
+
+5\. ‘airport network’ means a group of airports duly designated as such by the Member State and operated by the same airport managing body.
+
+## Article 3 — Non-discrimination
+
+Member States shall ensure that airport charges do not discriminate among airport users, in accordance with Community law. This does not prevent the modulation of airport charges for issues of public and general interest, including environmental issues. The criteria used for such a modulation shall be relevant, objective and transparent.
+
+## Article 4 — Airport network
+
+Member States may allow the airport managing body of an airport network to introduce a common and transparent airport charging system to cover the airport network.
+
+## Article 5 — Common charging systems
+
+After having informed the Commission and in accordance with Community law, Member States may allow an airport managing body to apply a common and transparent charging system at airports serving the same city or conurbation, provided that each airport fully complies with the requirements on transparency set out in Article 7.
+
+## Article 6 — Consultation and remedy
+
+1\. Member States shall ensure that a compulsory procedure for regular consultation between the airport managing body and airport users or the representatives or associations of airport users is established with respect to the operation of the system of airport charges, the level of airport charges and, as appropriate, the quality of service provided. Such consultation shall take place at least once a year, unless agreed otherwise in the latest consultation. Where a multi-annual agreement between the airport managing body and the airport users exists, the consultations shall take place as foreseen in such agreement. Member States shall retain the right to request more frequent consultations.
+
+2\. Member States shall ensure that, wherever possible, changes to the system or the level of airport charges are made in agreement between the airport managing body and the airport users. To that end, the airport managing body shall submit any proposal to modify the system or the level of airport charges to the airport users, together with the reasons for the proposed changes, no later than four months before they enter into force, unless there are exceptional circumstances which need to be justified to airport users. The airport managing body shall hold consultations on the proposed changes with the airport users and take their views into account before a decision is taken. The airport managing body shall normally publish its decision or recommendation no later than two months before its entry into force. The airport managing body shall justify its decision with regard to the views of the airport users in the event that no agreement on the proposed changes is reached between the airport managing body and the airport users.
+
+3\. Member States shall ensure that in the event of a disagreement over a decision on airport charges taken by the airport managing body, either party may seek the intervention of the independent supervisory authority referred to in Article 11 which shall examine the justifications for the modification of the system or the level of airport charges.
+
+4\. A modification of the system or the level of airport charges decided upon by the airport managing body shall, if brought before the independent supervisory authority, not take effect until that authority has examined the matter. The independent supervisory authority shall, within four weeks of the matter being brought before it, take an interim decision on the entry into force of the modification of airport charges, unless the final decision can be taken within the same deadline.
+
+5\. A Member State may decide not to apply paragraphs 3 and 4 in relation to changes to the level or the structure of the airport charges at those airports for which:
+
+(a) there is a mandatory procedure under national law whereby airport charges, or their maximum level, shall be determined or approved by the independent supervisory authority; or
+
+(b) there is a mandatory procedure under national law whereby the independent supervisory authority examines, on a regular basis or in response to requests from interested parties, whether such airports are subject to effective competition. Whenever warranted on the basis of such an examination, the Member State shall decide that the airport charges, or their maximum level, shall be determined or approved by the independent supervisory authority. This decision shall apply for as long as is necessary on the basis of the examination conducted by that authority.
+
+The procedures, conditions and criteria applied for the purpose of this paragraph by the Member State shall be relevant, objective, non-discriminatory and transparent.
+
+## Article 7 — Transparency
+
+1\. Member States shall ensure that the airport managing body provides each airport user, or the representatives or associations of airport users, every time consultations referred to in Article 6(1) are to be held with information on the components serving as a basis for determining the system or the level of all charges levied at each airport by the airport managing body. The information shall include at least:
+
+(a) a list of the various services and infrastructure provided in return for the airport charge levied;
+
+(b) the methodology used for setting airport charges;
+
+(c) the overall cost structure with regard to the facilities and services which airport charges relate to;
+
+(d) the revenue of the different charges and the total cost of the services covered by them;
+
+(e) any financing from public authorities of the facilities and services which airport charges relate to;
+
+(f) forecasts of the situation at the airport as regards the charges, traffic growth and proposed investments;
+
+(g) the actual use of airport infrastructure and equipment over a given period; and
+
+(h) the predicted outcome of any major proposed investments in terms of their effects on airport capacity.
+
+2\. Member States shall ensure that airport users submit information to the airport managing body before every consultation, as provided for in Article 6(1), concerning in particular:
+
+(a) forecasts as regards traffic;
+
+(b) forecasts as to the composition and envisaged use of their fleet;
+
+(c) their development projects at the airport concerned; and
+
+(d) their requirements at the airport concerned.
+
+3\. Subject to national legislation, the information provided on the basis of this Article shall be considered as confidential or economically sensitive and handled accordingly. In the case of airport managing bodies that are quoted on the stock exchange, stock exchange regulations in particular shall be complied with.
+
+## Article 8 — New infrastructure
+
+Member States shall ensure that the airport managing body consults with airport users before plans for new infrastructure projects are finalised.
+
+## Article 9 — Quality standards
+
+1\. In order to ensure smooth and efficient operations at an airport, Member States shall take the necessary measures to allow the airport managing body and the representatives or associations of airport users at the airport to enter into negotiations with a view to concluding a service level agreement with regard to the quality of service provided at the airport. These negotiations on service quality may take place as part of the consultations referred to in Article 6(1).
+
+2\. Any such service level agreement shall determine the level of the service to be provided by the airport managing body which takes into account the actual system or the level of airport charges and the level of service to which airport users are entitled in return for airport charges.
+
+## Article 10 — Differentiation of services
+
+1\. Member States shall take the necessary measures to allow the airport managing body to vary the quality and scope of particular airport services, terminals or parts of terminals, with the aim of providing tailored services or a dedicated terminal or part of a terminal. The level of airport charges may be differentiated according to the quality and scope of such services and their costs or any other objective and transparent justification. Without prejudice to Article 3, airport managing bodies shall remain free to set any such differentiated airport charges.
+
+2\. Member States shall take the necessary measures to allow any airport user wishing to use the tailored services or dedicated terminal or part of a terminal, to have access to these services and terminal or part of a terminal.
+
+In the event that more airport users wish to have access to the tailored services and/or a dedicated terminal or part of a terminal than is possible due to capacity constraints, access shall be determined on the basis of relevant, objective, transparent and non-discriminatory criteria. These criteria may be set by the airport managing body and Member States may require these criteria to be endorsed by the independent supervisory authority.
+
+## Article 11 — Independent supervisory authority
+
+1\. Member States shall nominate or establish an independent authority as their national independent supervisory authority in order to ensure the correct application of the measures taken to comply with this Directive and to assume, at least, the tasks assigned under Article 6. Such an authority may be the same as the entity entrusted by a Member State with the application of the additional regulatory measures referred to in Article 1(5), including with the approval of the charging system and/or the level of airport charges, provided that it meets the requirements of paragraph 3 of this Article.
+
+2\. In compliance with national law, this Directive shall not prevent the independent supervisory authority from delegating, under its supervision and full responsibility, the implementation of this Directive to other independent supervisory authorities, provided that implementation takes place in accordance with the same standards.
+
+3\. Member States shall guarantee the independence of the independent supervisory authority by ensuring that it is legally distinct from and functionally independent of any airport managing body and air carrier. Member States that retain ownership of airports, airport managing bodies or air carriers or control of airport managing bodies or air carriers shall ensure that the functions relating to such ownership or control are not vested in the independent supervisory authority. Member States shall ensure that the independent supervisory authority exercises its powers impartially and transparently.
+
+4\. Member States shall notify the Commission of the name and address of the independent supervisory authority, its assigned tasks and responsibilities, and of the measures taken to ensure compliance with paragraph 3.
+
+5\. Member States may establish a funding mechanism for the independent supervisory authority, which may include levying a charge on airport users and airport managing bodies.
+
+6\. Member States shall ensure, in respect of disagreements referred to in Article 6(3), that measures are taken to:
+
+(a) establish a procedure for resolving disagreements between the airport managing body and the airport users;
+
+(b) determine the conditions under which a disagreement may be brought to the independent supervisory authority. The authority shall, in particular, dismiss complaints which it deems are not properly justified or adequately documented; and
+
+(c) determine the criteria against which disagreements will be assessed for resolution.
+
+These procedures, conditions and criteria shall be non-discriminatory, transparent and objective.
+
+7\. When undertaking an investigation into the justification for the modification of the system or the level of airport charges as set out in Article 6, the independent supervisory authority shall have access to necessary information from the parties concerned and shall be required to consult the parties concerned in order to reach its decision. Without prejudice to Article 6(4), it shall issue a final decision as soon as possible, and in any case within four months of the matter being brought before it. This period may be extended by two months in exceptional and duly justified cases. The decisions of the independent supervisory authority shall have binding effect, without prejudice to parliamentary or judicial review, as applicable in the Member States.
+
+8\. The independent supervisory authority shall publish an annual report concerning its activities.
+
+## Article 12 — Report and revision
+
+1\. The Commission shall submit to the European Parliament and the Council, by 15 March 2013, a report on the application of this Directive assessing progress made in attaining its objective as well as, where appropriate, any suitable proposal.
+
+2\. Member States and the Commission shall cooperate in the application of this Directive, particularly as regards the collection of information for the report referred to in paragraph 1.
+
+## Article 13 — Transposition
+
+1\. Member States shall bring into force the laws, regulations and administrative provisions necessary to comply with this Directive by 15 March 2011. They shall forthwith inform the Commission thereof.
+
+When Member States adopt those measures, they shall contain a reference to this Directive or shall be accompanied by such reference on the occasion of their official publication. The methods of making such reference shall be laid down by Member States.
+
+2\. Member States shall communicate to the Commission the text of the main provisions of national law which they adopt in the field covered by this Directive.
+
+## Article 14 — Entry into force
+
+This Directive shall enter into force on the day following its publication in the Official Journal of the European Union.
+
+## Article 15 — Addressees
+
+This Directive is addressed to the Member States.

@@ -1,0 +1,810 @@
+---
+title: "Directive 2002/59/EC of the European Parliament and of the Council of 27 June 2002 establishing a Community vessel traffic monitoring and information system and repealing Council Directive 93/75/EEC"
+identifier: "32002L0059"
+eli: "http://data.europa.eu/eli/dir/2002/59/oj"
+type: directive
+jurisdiction: eu
+language: en
+date: 2002-06-27
+entry_into_force: 2002-12-05
+last_amended: 2025-05-18
+consolidated_version: "02002L0059-20250518"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02002L0059-20250518"
+retrieved: 2026-10-11
+---
+
+# Directive 2002/59/EC of the European Parliament and of the Council of 27 June 2002 establishing a Community vessel traffic monitoring and information system and repealing Council Directive 93/75/EEC
+
+**DIRECTIVE 2002/59/EC OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 27 June 2002**
+
+**establishing a Community vessel traffic monitoring and information system and repealing Council Directive 93/75/EEC**
+
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> DIRECTIVE 2009/17/EC OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 23 April 2009 </td><td> L 131</td><td>101</td><td>28.5.2009</td></tr>
+<tr><td></td><td> DIRECTIVE 2009/18/EC OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 23 April 2009 </td><td> L 131</td><td>114</td><td>28.5.2009</td></tr>
+<tr><td></td><td> COMMISSION DIRECTIVE 2011/15/EU of 23 February 2011 </td><td> L 49</td><td>33</td><td>24.2.2011</td></tr>
+<tr><td></td><td> COMMISSION DIRECTIVE 2014/100/EU of 28 October 2014 </td><td> L 308</td><td>82</td><td>29.10.2014</td></tr>
+<tr><td></td><td> REGULATION (EU) 2019/1243 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 20 June 2019 </td><td> L 198</td><td>241</td><td>25.7.2019</td></tr>
+<tr><td></td><td> COMMISSION DELEGATED DIRECTIVE (EU) 2025/811 of 19 February 2025 </td><td> L 811</td><td>1</td><td>28.4.2025</td></tr>
+
+**DIRECTIVE 2002/59/EC OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 27 June 2002**
+
+**establishing a Community vessel traffic monitoring and information system and repealing Council Directive 93/75/EEC**
+
+#### Article 1 — Purpose
+
+The purpose of this Directive is to establish in the Community a vessel traffic monitoring and information system with a view to enhancing the safety and efficiency of maritime traffic, improving the response of authorities to incidents, accidents or potentially dangerous situations at sea, including search and rescue operations, and contributing to a better prevention and detection of pollution by ships.
+
+Member States shall monitor and take all necessary and appropriate measures to ensure that the masters, operators or agents of ships, as well as shippers or owners of dangerous or polluting goods carried on board such ships, comply with the requirements under this Directive.
+
+#### Article 2 — Scope
+
+1\. This Directive applies to ships of 300 gross tonnage and upwards, unless stated otherwise.
+
+2\. Unless otherwise provided, this Directive shall not apply to:
+
+(a) warships, naval auxiliaries and other ships owned or operated by a Member State and used for non-commercial public service;
+
+(b) fishing vessels, traditional ships and recreational craft with a length of less than 45 metres;
+
+(c) bunkers on ships below 1 000 gross tonnage and ships' stores and equipment for use on board all ships.
+
+#### Article 3 — Definitions
+
+For the purpose of this Directive
+
+(a) ‘Relevant international instruments' means the following instruments, in their up-to-date version:’
+
+— MARPOL means the International Convention for the Prevention of Pollution from Ships, 1973 and the 1978 Protocol thereto;
+
+— SOLAS means the International Convention for the Safety of Life at Sea, together with the protocols and amendments thereto;
+
+— the International Convention on Tonnage Measurement of Ships, 1969;
+
+— the International Convention relating to Intervention on the High Seas in Cases of Oil Pollution Casualties, 1969 and its 1973 Protocol relating to Intervention on the High Seas in Cases of Pollution by Substances other than Oil;
+
+— SAR Convention means the International Convention on Maritime Search and Rescue, 1979;
+
+— ISM Code means the International Safety Management Code;
+
+— IMDG Code means the International Maritime Dangerous Goods Code;
+
+— IBC Code means the IMO International Code for the construction and equipment of ships carrying dangerous chemicals in bulk;
+
+— IGC Code means the IMO International Code for the construction and equipment of ships carrying liquefied gases in bulk;
+
+— BC Code means the IMO Code of Safe Practice for Solid Bulk Cargoes;
+
+— INF Code means the IMO Code for the Safe Carriage of Irradiated Nuclear Fuel, Plutonium and High-Level Radioactive Wastes in Flasks on board Ships;
+
+— IMO Resolution A.851(20) means International Maritime Organisation Resolution 851(20) entitled ‘General principles for ship reporting systems and ship reporting requirements, including guidelines for reporting incidents involving dangerous goods, harmful substances and/or marine pollutants’;
+
+— IMO Resolution A.917(22) means International Maritime Organisation Resolution 917(22) entitled Guidelines for the onboard use of AIS, as amended by IMO Resolution A.956(23);
+
+— IMO Resolution A.949(23) means International Maritime Organisation Resolution 949(23) entitled Guidelines on places of refuge for ships in need of assistance;
+
+— IMO Resolution A.950(23) means International Maritime Organisation Resolution 950(23) entitled Maritime assistance services (MAS);
+
+— IMO guidelines on the fair treatment of seafarers in the event of a maritime accident means the guidelines as annexed to resolution LEG. 3(91) of the IMO Legal Committee of 27 April 2006 and as approved by the Governing Body of the ILO in its 296th session of 12 to 16 June 2006;
+
+(b) ‘operator’ means the owner or manager of a ship;
+
+(c) ‘agent’ means any person mandated or authorised to supply information on behalf of the operator of the ship;
+
+(d) ‘shipper’ means any person by whom or in whose name or on whose behalf a contract of carriage of goods has been concluded with a carrier;
+
+(e) ‘company’ means a company within the meaning of Regulation 1(2) of Chapter IX of the SOLAS Convention;
+
+(f) ‘ship’ means any sea-going vessel or craft;
+
+(g) ‘dangerous goods’ means:
+
+— goods classified in the IMDG Code,
+
+— dangerous liquid substances listed in Chapter 17 of the IBC Code,
+
+— liquefied gases listed in Chapter 19 of the IGC Code,
+
+— solids referred to in Appendix B of the BC Code.
+
+Also included are goods for the carriage of which appropriate preconditions have been laid down in accordance with paragraph 1.1.3 of the IBC Code or paragraph 1.1.6 of the IGC Code;
+
+(h) ‘polluting goods’ means:
+
+— oils as defined in Annex I to the MARPOL Convention,
+
+— noxious liquid substances as defined in Annex II to the MARPOL Convention,
+
+— harmful substances as defined in Annex III to the MARPOL Convention;
+
+(i) ‘cargo transport unit’ means a road freight vehicle, a railway freight wagon, a freight container, a road tank vehicle, a railway wagon, or portable tank;
+
+(j) ‘address’ means the name and the communication links whereby contact may, where necessary, be made with the operator, agent, port authority, competent authority or any other authorised person or body in possession of detailed information regarding the ship's cargo;
+
+(k) ‘competent authorities’ means the authorities and organisations designated by Member States to perform functions under this Directive;
+
+(l) ‘port authority’ means the competent authority or body designated by Member States for each port to receive and pass on information reported pursuant to this Directive;
+
+(m) ‘place of refuge’ means a port, the part of a port or another protective berth or anchorage or any other sheltered area identified by a Member State for accommodating ships in distress;
+
+(n) ‘coastal station’ means any of the following, designated by Member States pursuant to this Directive: a vessel traffic service; a shore-based installation responsible for a mandatory reporting system approved by the IMO; or a body responsible for coordinating search and rescue operations or operations to tackle pollution at sea;
+
+(o) ‘vessel traffic service (VTS)’ means a service designed to improve the safety and efficiency of vessel traffic and to protect the environment, which has the capability to interact with the traffic and to respond to traffic situations developing in the VTS area;
+
+(p) ‘ship's routing system’ means any system of one or more routes or routing measures aimed at reducing the risk of casualties; it includes traffic separation schemes, two-way routes, recommended tracks, areas to be avoided, inshore traffic zones, roundabouts, precautionary areas and deep-water routes;
+
+(q) ‘traditional ships’ means all kinds of historical ships and their replicas including those designed to encourage and promote traditional skills and seamanship, that together serve as living cultural monuments, operated according to traditional principles of seamanship and technique;
+
+(r) ‘casualty’ means a casualty within the meaning of the IMO Code for the investigation of marine casualties and incidents;
+
+(s) ‘SafeSeaNet’ means the Community maritime information exchange system developed by the Commission in cooperation with the Member States to ensure the implementation of Community legislation;
+
+(t) ‘scheduled service’ means a series of ship crossings operated so as to serve traffic between the same two or more ports, either according to a published timetable or with crossings so regular or frequent that they constitute a recognisable systematic series;
+
+(u) ‘fishing vessel’ means any vessel equipped for commercial exploitation of living aquatic resources;
+
+(v) ‘ship in need of assistance’ means, without prejudice to the provisions of the SAR Convention concerning the rescue of persons, a ship in a situation that could give rise to its loss or an environmental or navigational hazard;
+
+(w) ‘LRIT’ means a system for the long-range identification and tracking of ships in accordance with SOLAS regulation V/19-1.
+
+## TITLE I
+
+### SHIP REPORTING AND MONITORING
+
+#### Article 4 — Notification prior to entry into ports of the Member States
+
+1\. The operator, agent or master of a ship bound for a port of a Member State shall notify the information in Annex I(1) to the port authority:
+
+(a) at least twenty-four hours in advance; or
+
+(b) at the latest, at the time the ship leaves the previous port, if the voyage time is less than twenty-four hours; or
+
+(c) if the port of call is not known or it is changed during the voyage, as soon as this information is available.
+
+2\. Ships coming from a port outside the Community and bound for a port of a Member State carrying dangerous or polluting goods, shall comply with the notification obligations of Article 13.
+
+#### Article 5 — Monitoring of ships entering the area of mandatory ship reporting systems
+
+1\. The Member State concerned shall monitor and take all necessary and appropriate measures to ensure that all ships entering the area of a mandatory ship reporting system, adopted by the IMO according to Regulation 11 Chapter V of the SOLAS Convention and operated by one or more States, of which at least one is a Member State, in accordance with the relevant guidelines and criteria developed by the IMO, comply with that system in reporting the information required without prejudice to additional information required by a Member State in accordance with IMO Resolution A.851(20).
+
+2\. When submitting a new mandatory ship reporting system to the IMO for adoption or a proposal to amend an existing reporting system, a Member State shall include in its proposal at least the information referred to in Annex I(4).
+
+#### Article 6 — Use of automatic identification systems
+
+1\. Any ship calling at a port of a Member State must, in accordance with the timetable set out in Annex II(I), be fitted with an AIS which meets the performance standards drawn up by the IMO.
+
+2\. Ships fitted with an AIS, shall maintain it in operation at all times except where international agreements, rules or standards provide for the protection of navigational information.
+
+#### Article 6a — Use of automatic identification systems (AIS) by fishing vessels
+
+Any fishing vessel with an overall length of more than 15 metres and flying the flag of a Member State and registered in the Community, or operating in the internal waters or territorial sea of a Member State, or landing its catch in the port of a Member State shall, in accordance with the timetable set out in Annex II, part I(3), be fitted with an AIS (Class A) which meets the performance standards drawn up by the IMO.
+
+Fishing vessels equipped with AIS shall maintain it in operation at all times. In exceptional circumstances, AIS may be switched off where the master considers this necessary in the interest of the safety or security of his vessel.
+
+#### Article 6b — Use of systems for the long-range identification and tracking of ships (LRIT)
+
+1\. Ships to which SOLAS regulation V/19-1 and the performance standards and functional requirements adopted by the IMO apply shall carry LRIT equipment complying with that regulation, when calling at a port of a Member State.
+
+Member States and the Commission shall cooperate to determine the requirements concerning the fitting of equipment for transmitting LRIT information on board ships sailing in waters within the coverage of AIS fixed-based stations of Member States, and shall submit to the IMO any appropriate measures.
+
+2\. The Commission shall cooperate with Member States to establish an LRIT European Data Centre in charge of processing long-range identification and tracking information.
+
+#### Article 7 — Use of ship's routing systems
+
+1\. Member States shall monitor and take all necessary and appropriate measures to ensure that all ships entering the area of a mandatory ships' routing system adopted by the IMO according to Regulation 10 Chapter V of the SOLAS Convention and operated by one or more States, of which at least one is a Member State, use the system in accordance with the relevant guidelines and criteria developed by the IMO.
+
+2\. When implementing a ship's routing system, which has not been adopted by the IMO, under their responsibility, Member States shall take into account, wherever possible, the guidelines and criteria developed by the IMO and promulgate all information necessary for the safe and effective use of the ship's routing system.
+
+#### Article 8 — Monitoring of the compliance of ships with vessel traffic services
+
+Member States shall monitor and take all necessary and appropriate measures to ensure that:
+
+(a) ships entering the area of applicability of a VTS operated by one or more States, of which at least one is a Member State, within their territorial sea and based on the guidelines developed by the IMO, participate in, and comply with, the rules of that VTS;
+
+(b) ships flying the flag of a Member State or ships bound for a port of a Member State and entering the area of applicability of such a VTS outside the territorial sea of a Member State and based on the guidelines developed by the IMO, comply with the rules of that VTS;
+
+(c) ships flying the flag of a third State and not bound for a port in a Member State entering a VTS area outside the territorial sea of a Member State, follow the rules of that VTS wherever possible. Member States should report to the flag State concerned any apparent serious breach of those rules in such a VTS area.
+
+#### Article 9 — Infrastructure for ship reporting systems, ships' routing systems and vessel traffic services
+
+1\. Member States shall take all necessary and appropriate measures to provide themselves gradually, on a time-schedule compatible with the timetable set out in Annex II(I), with appropriate equipment and shore-based installations for receiving and utilising the AIS information taking into account a necessary range for transmission of the reports.
+
+2\. The process of building up all necessary equipment and shore-based installations for implementing this Directive shall be completed by the end of 2007. Member States shall ensure that the appropriate equipment for relaying the information to, and exchanging it between, the national systems of Member States shall be operational at the latest one year thereafter.
+
+3\. Member States shall ensure that the coastal stations in charge of monitoring the compliance with vessel traffic services and ships' routing systems have sufficient and properly qualified staff available, as well as appropriate means of communication and ship monitoring and that they operate in accordance with the relevant IMO guidelines.
+
+#### Article 10 — Voyage data recorder systems
+
+1\. Member States shall monitor and take all necessary and appropriate measures to ensure that ships calling at a port of a Member State are fitted with a voyage data recorder (VDR) system in accordance with the rules laid down in Annex II(II). Any exemptions granted to ro-ro ferries or high-speed passenger craft under Article 4(1)(d) of Council Directive 1999/35/EC of 29 April 1999 on a system of mandatory surveys for the safe operation of regular ro-ro ferry and high-speed passenger craft services ( 1 ) shall terminate on 5 August 2002.
+
+2\. Data which have been collected from a VDR system shall be made available to the Member State concerned in the event of an investigation following a casualty occurring within the waters under the jurisdiction of a Member State. Member States shall ensure that such data are used in the investigation and are properly analysed. Member States shall ensure that the findings of the investigation are published as soon as possible after its conclusion.
+
+## TITLE II
+
+### NOTIFICATION OF DANGEROUS OR POLLUTING GOODS ON BOARD SHIPS (HAZMAT)
+
+#### Article 12 — Information requirements concerning the transport of dangerous goods
+
+1\. No dangerous or polluting goods shall be offered for carriage or taken on board any ship, irrespective of its size, in the port of a Member State unless a declaration has been delivered to the master or operator before the goods are taken on board containing the following information:
+
+(a) the information listed in Annex I(2);
+
+(b) for the substances referred to in Annex I to the Marpol Convention, the safety data sheet detailing the physico-chemical characteristics of the products, including, where applicable, their viscosity expressed in cSt at 50 °C and their density at 15 °C and the other data contained in the safety data sheet in accordance with IMO Resolution MSC.286(86);
+
+(c) the emergency numbers of the shipper or any other person or body in possession of information on the physico-chemical characteristics of the products and on the action to be taken in an emergency.
+
+2\. Vessels coming from a port outside the Community and calling at a port of a Member State which have dangerous or polluting goods on board shall be in possession of a declaration, as provided for by the shipper, containing the information required under paragraph 1(a), (b) and (c).
+
+3\. It shall be the duty and responsibility of the shipper to deliver to the master or operator such a declaration, and to ensure that the shipment offered for carriage is indeed the one declared in accordance with paragraph 1.
+
+#### Article 13 — Notification of dangerous or polluting goods carried on board
+
+1\. The operator, agent or master of a ship, irrespective of its size, carrying dangerous or polluting goods and leaving a port of a Member State shall, at the latest at the moment of departure, notify the information indicated in Annex I(3) to the competent authority designated by that Member State.
+
+2\. The operator, agent or master of a ship, irrespective of its size, carrying dangerous or polluting goods coming from a port located outside the Community and bound for a port of a Member State or an anchorage located in a Member State's territorial waters shall, at the latest upon departure from the loading port or as soon as the port of destination or the location of the anchorage is known, if this information is unavailable at the moment of departure, notify the information indicated in Annex I(3) to the competent authority of the Member State in which the first port of destination or anchorage is located.
+
+3\. Member States may put in place a procedure authorising the operator, agent or master of a ship referred to in paragraphs 1 and 2 to notify the information listed in Annex I(3) to the port authority of the port of departure or destination in the Community, as appropriate.
+
+The procedure put in place must ensure that the competent authority has access to the information indicated in Annex I(3) at all times should it be needed. To this end, the port authority concerned shall retain the information listed in Annex I(3) long enough for it to be usable in the event of an incident or accident at sea. The port authority shall take the necessary measures to provide this information electronically and without delay to the competent authority, 24 hours a day upon request.
+
+4\. The operator, agent or master of the ship must communicate the cargo information indicated in Annex I(3) to the port authority or the competent authority.
+
+The information must be transferred electronically whenever practicable. The electronic message exchange must use the syntax and procedures set out in Annex III.
+
+#### Article 14 — Computerised exchange of data between Member States
+
+Member States shall cooperate to ensure the interconnection and interoperability of the national systems used to manage the information indicated in Annex I.
+
+Communication systems set up pursuant to the first subparagraph must display the following features:
+
+(a) data exchange must be electronic and enable messages notified in accordance with Article 13 to be received and processed;
+
+(b) the system must allow information to be transmitted 24 hours a day;
+
+(c) upon request, through SafeSeaNet, and if needed for the purpose of maritime safety or security or the protection of the maritime environment, Member States shall be able to send information on the ship and the dangerous or polluting goods on board to the national and local competent authorities of another Member State without delay.
+
+#### Article 15 — Exemptions
+
+1\. Member States may exempt scheduled services performed between ports located on their territory from the requirements of Articles 4 and 13 provided the following conditions are met:
+
+(a) the company operating those scheduled services keeps and updates a list of the ships concerned and sends that list to the competent authority concerned;
+
+(b) for each voyage performed, the information listed in Parts 1 or 3, as appropriate, of Annex I is kept available for the competent authority upon request. The company shall establish an internal system to ensure that, upon request 24 hours a day and without delay, such information can be sent to the competent authority electronically, in accordance with Article 4(1) or Article 13(4), as appropriate;
+
+(c) any deviations from the estimated time of arrival at the port of destination or pilot station of three hours or more are notified to the port of arrival or to the competent authority in accordance with Article 4 or Article 13, as appropriate;
+
+(d) exemptions are only granted to individual vessels as regards a specific service.
+
+For the purposes of the first subparagraph, the service shall not be regarded as a scheduled service unless it is intended to be operated for a minimum of one month.
+
+Exemptions from the requirements of Articles 4 and 13 shall be limited to voyages of a scheduled duration of up to 12 hours.
+
+2\. When an international scheduled service is operated between two or more States, of which at least one is a Member State, any of the Member States involved may request the other Member States to grant an exemption for that service. All Member States involved, including the coastal States concerned, shall collaborate in granting an exemption to the service concerned in accordance with the conditions set out in paragraph 1.
+
+3\. Member States shall periodically check that the conditions set out in paragraphs 1 and 2 are being met. Where at least one of these conditions is no longer being met, Member States shall immediately withdraw the benefit of the exemption from the company concerned.
+
+4\. Member States shall communicate to the Commission a list of companies and ships to which an exemption has been granted under this Article, as well as any updates to that list.
+
+## TITLE III
+
+### MONITORING OF HAZARDOUS SHIPS AND INTERVENTION IN THE EVENT OF INCIDENTS AND ACCIDENTS AT SEA
+
+#### Article 16 — Transmission of information concerning certain ships
+
+1\. Ships meeting the criteria set out below shall be considered to be ships posing a potential hazard to shipping or a threat to maritime safety, the safety of individuals or the environment:
+
+(a) ships which, in the course of their voyage:
+
+— have been involved in incidents or accidents at sea as referred to in Article 17; or
+
+— have failed to comply with the notification and reporting requirements imposed by this Directive; or
+
+— have failed to comply with the applicable rules in ships' routing systems and VTS placed under the responsibility of a Member State;
+
+(b) ships in respect of which there is proof or presumptive evidence of deliberate discharges of oil or other infringements of the MARPOL Convention in waters under the jurisdiction of a Member State;
+
+(c) ships which have been refused access to ports of the Member States or which have been the subject of a report or notification by a Member State in accordance with Annex I-1 to Council Directive 95/21/EC of 19 June 1995 on port State control of shipping ( 2 );
+
+(d) ships which have failed to notify, or do not have, insurance certificates or financial guarantees pursuant to any Community legislation and international rules;
+
+(e) ships which have been reported by pilots or port authorities as having apparent anomalies which may prejudice their safe navigation or create a risk for the environment.
+
+2\. Coastal stations holding relevant information on the ships referred to in paragraph 1 shall communicate it to the coastal stations concerned in the other Member States located along the planned route of the ship.
+
+3\. Member States shall ensure that the information communicated to them under paragraph 2 is transmitted to the relevant port authorities and/or any other authority designated by the Member State. Within the limits of their available staff capacity, Member States shall carry out any appropriate inspection or verification in their ports either on their own initiative or at the request of another Member State, without prejudice to any port State control obligation. They shall inform all Member States concerned of the results of the action they take.
+
+#### Article 17 — Reporting of incidents and accidents at sea
+
+1\. Without prejudice to international law and with a view to preventing or mitigating any significant threat to maritime safety, the safety of individuals or the environment, Member States shall monitor and take all appropriate measures to ensure that the master of a ship sailing within their search and rescue region/exclusive economic zone or equivalent, immediately reports to the coastal station responsible for that geographical area:
+
+(a) any incident or accident affecting the safety of the ship, such as collision, running aground, damage, malfunction or breakdown, flooding or shifting of cargo, any defects in the hull or structural failure;
+
+(b) any incident or accident which compromises shipping safety, such as failures likely to affect the ship's manoeuvrability or seaworthiness, or any defects affecting the propulsion system or steering gear, the electrical generating system, navigation equipment or communications equipment;
+
+(c) any situation liable to lead to pollution of the waters or shore of a Member State, such as the discharge or threat of discharge of polluting products into the sea;
+
+(d) any slick of polluting materials and containers or packages seen drifting at sea.
+
+2\. The report message sent in application of paragraph 1 shall include at least the ship's identity, its position, the port of departure, the port of destination, the address from which information may be obtained on the dangerous and polluting goods carried on board, the number of persons aboard, details of the incident and any relevant information referred to in IMO Resolution A.851(20).
+
+#### Article 18 — Measures in the event of exceptionally bad weather
+
+1\. Where the competent authorities designated by Member States consider, in the event of exceptionally bad weather or sea conditions, that there is a serious threat of pollution of their shipping areas or coastal zones, or of the shipping areas or coastal zones of other States, or that the safety of human life is in danger:
+
+(a) they should, where possible, fully inform the master of a ship which is in the port area concerned, and intends to enter or leave that port, of the sea state and weather conditions and, when relevant and possible, of the danger they may present to his/her ship, the cargo, the crew and the passengers;
+
+(b) they may take, without prejudice to the duty of assistance to ships in distress and in accordance with Article 20, any other appropriate measures, which may include a recommendation or a prohibition either for a particular ship or for ships in general to enter or leave the port in the areas affected, until it has been established that there is no longer a risk to human life and/or to the environment;
+
+(c) they shall take appropriate measures to limit as much as possible or, if necessary, prohibit the bunkering of ships in their territorial waters.
+
+2\. The master shall inform the company of the appropriate measures or recommendations referred to under paragraph 1. These do not however prejudice the decision of the master on the basis of his/her professional judgement corresponding to the SOLAS Convention. Where the decision taken by the master of the ship is not in accordance with the measures referred to under paragraph 1, he/she shall inform the competent authorities of the reasons for his/her decision.
+
+3\. The appropriate measures or recommendations, referred to under paragraph 1, shall be based upon a sea state and weather forecast provided by a qualified meteorological information service recognised by the Member State.
+
+#### Article 18a — Measures in the event of risks posed by the presence of ice
+
+1\. Where the competent authorities consider, in view of ice conditions, that there is a serious threat to the safety of human life at sea or to the protection of their shipping areas or coastal zones, or of the shipping areas or coastal zones of other States:
+
+(a) they shall supply the master of a ship which is in their area of competence, or intends to enter or leave one of their ports, with appropriate information on the ice conditions, the recommended routes and the icebreaking services in their area of competence;
+
+(b) they may, without prejudice to the duty of assistance to ships in need of assistance and other obligations flowing from relevant international rules, request that a ship which is in the area concerned and intends to enter or leave a port or terminal or to leave an anchorage area document that it satisfies the strength and power requirements commensurate with the ice situation in the area concerned.
+
+2\. The measures taken pursuant to paragraph 1 shall be based, as regards the data concerning the ice conditions, upon ice and weather forecasts provided by a qualified meteorological information service recognised by the Member State.
+
+#### Article 19 — Measures relating to incidents or accidents at sea
+
+1\. In the event of incidents or accidents at sea as referred to in Article 17, Member States shall take all appropriate measures consistent with international law, where necessary to ensure the safety of shipping and of persons and to protect the marine and coastal environment.
+
+Annex IV sets out a non-exhaustive list of measures available to Member States pursuant to this Article.
+
+2\. The operator, the master of the ship and the owner of the dangerous or polluting goods carried on board must, in accordance with national and international law, cooperate fully with the competent national authorities, at the latter's request, with a view to minimising the consequences of an incident or accident at sea.
+
+To this end they shall communicate to the competent national authorities, on request, the information referred to in Article 12.
+
+3\. The master of a ship to which the provisions of the ISM Code are applicable shall, in accordance with that Code, inform the company of any incident or accident, as referred to in Article 17(1), which occurs at sea. As soon as it has been informed of such a situation, the company must contact the competent coastal station and place itself at its disposal as necessary.
+
+4\. In accordance with their national law, Member States shall take into account the relevant provisions of the IMO guidelines on the fair treatment of seafarers in the event of a maritime accident in the waters under their jurisdiction.
+
+#### Article 20 — Competent authority for the accommodation of ships in need of assistance
+
+1\. Member States shall designate one or more competent authorities which have the required expertise and the power, at the time of the operation, to take independent decisions on their own initiative concerning the accommodation of ships in need of assistance.
+
+2\. The authority or authorities referred to in paragraph 1 may, as appropriate and in particular in the event of a threat to maritime safety and protection of the environment, take any of the measures included in the list set out in Annex IV, which is non-exhaustive.
+
+3\. The authority or authorities referred to in paragraph 1 shall meet regularly to exchange expertise and improve measures taken pursuant to this Article. They may meet at any time on account of specific circumstances.
+
+#### Article 20a — Plans for the accommodation of ships in need of assistance
+
+1\. Member States shall draw up plans for the accommodation of ships in order to respond to threats presented by ships in need of assistance in the waters under their jurisdiction, including, where applicable, threats to human life and the environment. The authority or authorities referred to in Article 20(1) shall participate in drawing up and carrying out those plans.
+
+2\. The plans referred to in paragraph 1 shall be prepared after consultation of the parties concerned, on the basis of IMO Resolutions A.949(23) and A.950(23), and shall contain at least the following:
+
+(a) the identity of the authority or authorities responsible for receiving and handling alerts;
+
+(b) the identity of the competent authority for assessing the situation and taking a decision on acceptance or refusal of a ship in need of assistance in the place of refuge selected;
+
+(c) information on the coastline of Member States and all elements facilitating a prior assessment and rapid decision regarding the place of refuge for a ship, including a description of environmental, economic and social factors and natural conditions;
+
+(d) the assessment procedures for acceptance or refusal of a ship in need of assistance in a place of refuge;
+
+(e) the resources and installations suitable for assistance, rescue and combating pollution;
+
+(f) procedures for international coordination and decision-making;
+
+(g) the financial guarantee and liability procedures in place for ships accommodated in a place of refuge.
+
+3\. Member States shall publish the name and contact address of the authority or authorities referred to in Article 20(1) and of the authorities appointed for receiving and handling alerts.
+
+Member States shall communicate on request the relevant information concerning plans to neighbouring Member States.
+
+In implementing the procedures provided for in the plans for accommodating ships in need of assistance, Member States shall ensure that relevant information is made available to the parties involved in the operations.
+
+If requested by Member States, those receiving information in accordance with the second and third subparagraphs shall be bound by an obligation of confidentiality.
+
+4\. Member States shall inform the Commission by 30 November 2010 of the measures taken in application of this Article.
+
+#### Article 20b — Decision on the accommodation of ships
+
+The authority or authorities referred to in Article 20(1) shall decide on the acceptance of a ship in a place of refuge following a prior assessment of the situation carried out on the basis of the plans referred to in Article 20a. The authority or authorities shall ensure that ships are admitted to a place of refuge if they consider such an accommodation the best course of action for the purposes of the protection of human life or the environment.
+
+#### Article 20c — Financial security and compensation
+
+1\. The absence of an insurance certificate within the meaning of Article 6 of Directive 2009/20/EC of the European Parliament and of the Council of 23 April 2009 on the insurance of shipowners for maritime claims ( 3 ) shall not exonerate a Member State from the preliminary assessment and decision referred to in Article 20b, and shall not in itself be considered sufficient reason for a Member State to refuse to accommodate a ship in a place of refuge.
+
+2\. Without prejudice to paragraph 1, when accommodating a ship in a place of refuge, a Member State may request the ship's operator, agent or master to present a insurance certificate within the meaning of Article 6 of Directive 2009/20/EC. The act of requesting the certificate shall not lead to a delay in accommodating the ship.
+
+#### Article 20d — Examination by the Commission
+
+The Commission shall examine existing mechanisms within Member States for the compensation of potential economic loss suffered by a port or a body as a result of a decision taken pursuant to Article 20(1). It shall, on the basis of that examination, put forward and evaluate different policy options. By 31 December 2011, the Commission shall report to the European Parliament and to the Council on the results of the examination.
+
+#### Article 21 — Information of the parties concerned
+
+1\. The competent coastal station of the Member State concerned shall, as necessary, broadcast within the relevant areas any incident or accident notified under Article 17(1) and information with regard to any ship that poses a threat to maritime safety, the safety of individuals or the environment.
+
+2\. Competent authorities holding information notified in accordance with Articles 13 and 17 shall make adequate arrangements to provide such information at any time upon request for safety reasons by the competent authority of another Member State.
+
+3\. Any Member State the competent authorities of which have been informed, pursuant to this Directive or in some other way, of facts which involve or increase the risk for another Member State of a hazard being posed to certain shipping areas and coastal zones, shall take the appropriate measures to inform any interested Member State thereof as soon as possible and consult it regarding the action being envisaged. Where appropriate, Member States shall cooperate with a view to pooling the arrangements for joint action.
+
+Each Member State shall make the necessary arrangements to use fully the reports which ships are required to transmit to them pursuant to Article 17.
+
+## TITLE IV
+
+### ACCOMPANYING MEASURES
+
+#### Article 22 — Designation and publication of a list of competent bodies
+
+1\. Each Member State shall designate the competent authorities, port authorities and coastal stations to which the notifications required by this Directive must be made.
+
+2\. Each Member State shall ensure that the shipping industry is properly informed and regularly updated, notably via nautical publications, regarding the authorities and stations designated pursuant to paragraph 1, including where appropriate the geographical area for which they are competent, and the procedures laid down for notifying the information required by this Directive.
+
+3\. Member States shall send the Commission a list of the authorities and stations they designate pursuant to paragraph 1, as well as any updating thereof.
+
+#### Article 22a — SafeSeaNet
+
+1\. Member States shall establish maritime information management systems, at national or local level, to process the information referred to in this Directive.
+
+2\. The systems set up pursuant to paragraph 1 shall allow the information gathered to be used operationally and shall satisfy, in particular, the conditions laid down in Article 14.
+
+3\. To guarantee an effective exchange of the information referred to in this Directive, Member States shall ensure that national or local systems set up to gather, process and preserve that information can be interconnected with SafeSeaNet. The Commission shall ensure that SafeSeaNet is operational on a 24 hour-a-day basis. The description and principles of SafeSeaNet are laid down in Annex III.
+
+4\. Without prejudice to paragraph 3, where operating under intra-Community agreements or in the framework of cross-border interregional or transnational projects within the Community, Member States shall ensure that information systems or networks comply with the requirements of this Directive and are compatible with and connected to SafeSeaNet.
+
+#### Article 23 — Cooperation between Member States and the Commission
+
+Member States and the Commission shall cooperate in attaining the following objectives:
+
+(a) making optimum use of the information notified pursuant to this Directive, notably by developing appropriate telematic links between coastal stations and port authorities with a view to exchanging data relating to ships' movements, their estimated times of arrival in ports and their cargo;
+
+(b) developing and enhancing the effectiveness of telematic links between the coastal stations of the Member States with a view to obtaining a clearer picture of traffic, improving the monitoring of ships in transit, and harmonising and, as far as possible, streamlining the reports required from ships en route;
+
+(c) extending the cover of the Community vessel traffic monitoring and information system, and/or updating it, with a view to enhanced identification and monitoring of ships, taking into account developments in information and communication technologies. To this end, Member States and the Commission shall work together to put in place, where necessary, mandatory reporting systems, mandatory maritime traffic services and appropriate ship's routing systems, with a view to submitting them to the IMO for approval. They shall also collaborate, within the regional or international bodies concerned, on developing long-range identification and tracking systems;
+
+(d) drawing up, if appropriate, concerted plans to accommodate ships in distress;
+
+(e) ensuring the interconnection and interoperability of the national systems used for managing the information referred to in Annex I, and developing and updating SafeSeaNet.
+
+#### Article 23a — Processing and management of maritime safety information
+
+1\. The Commission shall ensure, where necessary, the processing, use and dissemination to the authorities designated by the Member States, of the information gathered under this Directive.
+
+2\. Where appropriate, the Commission shall contribute to the development and operation of systems for collecting and disseminating data relating to maritime safety, in particular through the ‘Equasis’ system or any other equivalent public system.
+
+#### Article 24 — Confidentiality of information
+
+1\. Member States shall, in accordance with Community or national legislation, take the necessary measures to ensure the confidentiality of information sent to them pursuant to this Directive, and shall only use such information in compliance with this Directive.
+
+2\. The Commission shall investigate possible network and information security problems and propose appropriate amendments to Annex III for improving the security of the network.
+
+#### Article 25 — Monitoring the implementation of this Directive and sanctions
+
+1\. Member States shall carry out regular inspections and any other action required to check the functioning of the shore-based telematic systems set up to meet the requirements of this Directive, and in particular their capacity to meet the requirements of receiving or sending without delay, 24 hours a day, information notified pursuant to Articles 13 and 15.
+
+2\. Member States shall lay down a system of sanctions for the breach of national provisions adopted pursuant to this Directive and shall take all the measures necessary to ensure that those sanctions are applied. The sanctions thus provided shall be effective, proportionate and dissuasive.
+
+3\. Member States shall, without delay, inform the flag State and any other State concerned of measures taken in respect of ships not flying their flag pursuant to Articles 16 and 19 and to paragraph 2 of this Article.
+
+4\. Where a Member State finds, on the occasion of an incident or accident at sea referred to in Article 19, that the company has not been able to establish and maintain a link with the ship or with the coastal stations concerned, it shall so inform the State which issued the ISM document of compliance and associated safety management certificate, or on whose behalf it was issued.
+
+Where the seriousness of the failure shows the existence of a major incidence of non-compliance in the functioning of the safety management system of a company established in a Member State, the Member State which issued the document of compliance or safety management certificate to the ship shall immediately take the necessary measures against the company concerned with the view to having the document of compliance and the associated safety management certificate withdrawn.
+
+#### Article 26 — Evaluation
+
+1\. Member States must report to the Commission by 5 February 2007 on the progress in implementing this Directive and, in particular, the provisions of Articles 9, 10, 18, 20, 22, 23 and 25. Member States must report to the Commission by 31 December 2009 on the full implementation of the Directive.
+
+2\. On the basis of the reports referred to in paragraph 1, the Commission shall report to the European Parliament and to the Council six months thereafter on the implementation of this Directive. In its reports, the Commission shall ascertain whether and to what extent the provisions of this Directive as implemented by the Member States are helping to increase the safety and efficiency of maritime transport and prevent pollution by ships.
+
+3\. The Commission shall examine the need for, and feasibility of, measures at Community level aimed at facilitating the recovery of, or compensation for, costs and damage incurred for the accommodation of ships in distress, including appropriate requirements for insurance or other financial security
+
+The Commission shall report to the European Parliament and to the Council by 5 February 2007 the results of such examination.
+
+### FINAL PROVISIONS
+
+#### Article 27 — Amendments
+
+1\. Within the scope of this Directive as defined in Article 2, the Commission is empowered to adopt delegated acts in accordance with Article 27a amending references to Union and IMO instruments in this Directive and the definitions in Article 3 and the Annexes in order to bring them into line with provisions of Union or international law which have been adopted or amended or which have entered into force.
+
+2\. Within the scope of this Directive as defined in Article 2, the Commission is empowered to adopt delegated acts in accordance with Article 27a amending Annexes I, III and IV in the light of technical progress and experience gained with this Directive.
+
+#### Article 27a — Exercise of the delegation
+
+1\. The power to adopt delegated acts is conferred on the Commission subject to the conditions laid down in this Article.
+
+2\. The power to adopt delegated acts referred to in Article 27 shall be conferred on the Commission for a period of five years from 26 July 2019. The Commission shall draw up a report in respect of the delegation of power not later than nine months before the end of the five-year period. The delegation of power shall be tacitly extended for periods of an identical duration, unless the European Parliament or the Council opposes such extension not later than three months before the end of each period.
+
+3\. The delegation of power referred to in Article 27 may be revoked at any time by the European Parliament or by the Council. A decision to revoke shall put an end to the delegation of the power specified in that decision. It shall take effect the day following the publication of the decision in the Official Journal of the European Union or at a later date specified therein. It shall not affect the validity of any delegated acts already in force.
+
+4\. Before adopting a delegated act, the Commission shall consult experts designated by each Member State in accordance with the principles laid down in the Interinstitutional Agreement of 13 April 2016 on Better Law-Making ( 4 ).
+
+5\. As soon as it adopts a delegated act, the Commission shall notify it simultaneously to the European Parliament and to the Council.
+
+6\. A delegated act adopted pursuant to Article 27 shall enter into force only if no objection has been expressed either by the European Parliament or by the Council within a period of two months of notification of that act to the European Parliament and the Council or if, before the expiry of that period, the European Parliament and the Council have both informed the Commission that they will not object. That period shall be extended by two months at the initiative of the European Parliament or of the Council.
+
+#### Article 29
+
+1\. Member States shall adopt the laws, regulations and administrative provisions necessary to comply with this Directive by 5 February 2004 at the latest. They shall forthwith inform the Commission thereof.
+
+When Member States adopt these measures, they shall contain a reference to this Directive or shall be accompanied by such reference on the occasion of their official publication. The methods of making such a reference shall be laid down by Member States.
+
+2\. Member States shall notify to the Commission the provisions of their national legislation which they adopted in the field governed by this Directive.
+
+#### Article 30
+
+Council Directive 93/75/EEC is hereby repealed as from 5 February 2004.
+
+#### Article 31
+
+This Directive shall enter into force on the day of its publication in the Official Journal of the European Communities.
+
+#### Article 32
+
+This Directive is addressed to the Member States.
+
+## ANNEX I — LIST OF INFORMATION TO BE NOTIFIED
+
+**1\. Information to be notified in accordance with Article 4 — General information:**
+
+(a) ship identification (name, call sign, IMO identification number or MMSI number),
+
+(b) port of destination;
+
+(c) estimated time of arrival at the port of destination or pilot station, as required by the competent authority, and estimated time of departure from that port;
+
+(d) total number of persons on board.
+
+**2\. Information to be notified in accordance with Article 12 — Cargo information:**
+
+(a) the correct technical names of the dangerous or polluting goods, the United Nations (UN) numbers where they exist, the IMO hazard classes in accordance with the IMDG, IBC and IGC Codes and, where appropriate, the class of the ship needed for INF cargoes as defined in Regulation VII/14.2, the quantities of such goods and, if they are being carried in cargo transport units other than tanks, the identification number thereof;
+
+(b) address from which detailed information on the cargo may be obtained.
+
+**3\. Information to be notified in accordance with Article 13:**
+
+**A. General information:**
+
+(a) ship identification (name, call sign, IMO identification number or MMSI number);
+
+(b) port of destination;
+
+(c) for a ship leaving a port in a Member State: estimated time of departure from the port of departure or pilot station, as required by the competent authority, and estimated time of arrival at the port of destination;
+
+(d) for a ship coming from a port located outside the Community and bound for a port in a Member State: estimated time of arrival at the port of destination or pilot station, as required by the competent authority;
+
+(e) total number of persons on board.
+
+**B. Cargo information:**
+
+(a) the correct technical names of the dangerous or polluting goods, the United Nations (UN) numbers where they exist, the IMO hazard classes in accordance with the IMDG, IBC and IGC Codes and, where appropriate, the class of the ship as defined by the INF Code, the quantities of such goods and their location on board and, if they are being carried in cargo transport units other than tanks, the identification number thereof;
+
+(b) confirmation that a list or manifest or appropriate loading plan giving details of the dangerous or polluting goods carried and of their location on the ship is on board;
+
+(c) address from which detailed information on the cargo may be obtained.
+
+**4\. Information referred to in Article 5:**
+
+A. ship identification (name, call sign, IMO identification number or MMSI number),
+
+B. date and time,
+
+C or D. position in latitude and longitude or true bearing and distance in nautical miles from a clearly identified landmark,
+
+E. course,
+
+F. speed,
+
+I. port destination and estimated time of arrival,
+
+P. cargo and, if dangerous goods present on board, quantity and IMO class,
+
+T. address for the communication of cargo information,
+
+W. total number of persons on board,
+
+X. Miscellaneous:
+
+— characteristics and estimated quantity of bunker fuel, for ships of more than 1 000 gross tonnage,
+
+— navigational status,
+
+— one or more insurance certificates issued by its provider and carried on board the ship, providing evidence of existence of insurance for maritime claims in accordance with Article 4 of Directive 2009/20/EC, as well as civil liability certificates issued in accordance with:
+
+— the International Convention on Civil Liability for Oil Pollution Damage, 1992, as amended (1992 Civil Liability Convention);
+
+— the International Convention on Civil Liability for Bunker Oil Pollution Damage, 2001 (2001 Bunkers Convention); and
+
+— the Nairobi International Convention on the Removal of Wrecks, 2007 (2007 Nairobi WRC).
+
+5\. The master of the ship must forthwith inform the competent authority or port authority concerned of any change to the information notified pursuant to this Annex.
+
+## ANNEX II
+
+**Requirements applicable to on-board equipment**
+
+**I. FISHING VESSELS**
+
+Fishing vessels with a length of more than 15 metres overall shall be fitted with an automatic identification system (AIS) as provided for in Article 6a according to the following timetable:
+
+— fishing vessels of overall length 24 metres and upwards but less than 45 metres: not later than 31 May 2012,
+
+— fishing vessels of overall length 18 metres and upwards but less than 24 metres: not later than 31 May 2013,
+
+— fishing vessels of overall length exceeding 15 metres but less than 18 metres: not later than 31 May 2014,
+
+— new-built fishing vessels of overall length exceeding 15 metres are subject to the carrying requirement laid down in Article 6a as from 30 November 2010.
+
+**II. SHIPS ENGAGED ON INTERNATIONAL VOYAGES**
+
+Passenger ships, irrespective of size, and all ships, other than passenger ships, of 300 gross tonnage and upwards engaged on international voyages, which call at a port of a Member State shall be fitted with an automatic identification system (AIS) in accordance with the technical and performance standards laid down in Chapter V of SOLAS. Passenger ships, irrespective of size, and all ships other than passenger ships, of 3 000 gross tonnage and upwards engaged on international voyages, which call at a port of a Member State shall be fitted with a voyage data recorder (VDR) in accordance with the technical and performance standards laid down in Chapter V of SOLAS. In case of cargo ships constructed before 1 July 2002 the VDR may be a simplified voyage data recorder (S-VDR), which shall comply with the technical and performance standards developed in accordance with Chapter V of SOLAS.
+
+**III. SHIPS ENGAGED ON NON-INTERNATIONAL VOYAGES**
+
+**1\. Automatic identification systems (AIS)**
+
+Passenger ships, irrespective of size, and all other ships of 300 gross tonnage and upwards engaged on a non-international voyage shall be fitted with an automatic identification system (AIS) which complies with the technical and performance standards laid down in Chapter V of SOLAS.
+
+**2\. Voyage data recorder (VDR) systems**
+
+(a) Passenger ships, irrespective of size, and ships other than passenger ships, of 3 000 gross tonnage and upwards and constructed on or after 1 July 2002 engaged on a non-international voyage shall be fitted with a voyage data recorder (VDR) which complies with the technical and performance standards developed in accordance with Chapter V of SOLAS.
+
+(b) Cargo ships of 3 000 gross tonnage and upwards constructed before 1 July 2002 engaged on a non-international voyage shall be fitted with a voyage data recorder (VDR) or with a simplified voyage data recorder (S-VDR) which complies with the technical and performance standards developed in accordance with Chapter V of SOLAS.
+
+**IV. EXEMPTIONS**
+
+**1\. Exemptions from the requirement to carry AIS on board**
+
+(a) Member States may exempt passenger ships below 15 metres in length or 300 gross tonnage engaged on non-international voyages from the application of the requirements concerning AIS laid down in this Annex.
+
+(b) Member States may exempt ships, other than passenger ships, of 300 gross tonnage and upwards but less than 500 gross tonnage sailing exclusively within the internal waters of a Member State and outside routes normally used by other ships fitted with AIS, from the carriage requirements for AIS laid down in this Annex.
+
+**2\. Exemptions from the requirement to carry a VDR or S-VDR on board**
+
+Member States may grant exemptions from the requirement to be fitted with a VDR or an S-VDR as follows:
+
+(a) Passenger ships only on voyages in sea areas other than those covered by Class A, as referred to in Article 4 of Directive 2009/45/EC of the European Parliament and of the Council ( 5 ), may be exempted from the requirement to be fitted with a VDR.
+
+(b) Ships, other than ro-ro passenger ships, constructed before 1 July 2002 may be exempted from the requirement to be fitted with a VDR where it can be demonstrated that interfacing a VDR with the existing equipment on the ship is unreasonable and impracticable.
+
+(c) Cargo ships constructed before 1 July 2002, engaged on international or non-international voyages, may be exempted from the requirement to be fitted with an S-VDR if such ships are to be taken permanently out of service within two years of the implementation date specified in Chapter V of SOLAS.
+
+## ANNEX III — ELECTRONIC MESSAGES AND THE UNION MARITIME INFORMATION AND EXCHANGE SYSTEM (SAFESEANET)
+
+**1\. General concept and architecture**
+
+The Union maritime information and exchange system, SafeSeaNet, shall enable the receipt, storage, retrieval and exchange of information for the purpose of maritime safety, port and maritime security, marine environment protection and the efficiency of maritime traffic and maritime transport.
+
+SafeSeaNet is a specialised system established to facilitate the exchange of information in an electronic format between Member States and to provide the Commission and Member States with the relevant information in accordance with Union legislation. It is composed of a network of national SafeSeaNet systems in Member States and a SafeSeaNet central system acting as a nodal point.
+
+The Union Maritime Information and Exchange network shall link all national SafeSeaNet systems, established in accordance with this Directive, and include the SafeSeaNet central system.
+
+**2\. Management, operation, development and maintenance**
+
+**2.1. Responsibilities**
+
+**2.1.1. National SafeSeaNet systems**
+
+Member States shall establish and maintain a national SafeSeaNet system allowing for the exchange of maritime information between authorised users under the responsibility of a national competent authority (NCA).
+
+The NCA shall be responsible for the management of the national system, which shall include the national coordination of data users and data providers as well as ensuring that UN LOCODES are designated and that the necessary national IT infrastructure and the procedures described in the interface and functionalities control document referred to in point 2.3 are established and maintained.
+
+The national SafeSeaNet system shall enable the inter-connection of users authorised under the responsibility of an NCA and may be made accessible to identified shipping actors (shipowners, agents, masters, shippers and others) when authorised by the NCA, in particular in order to facilitate the electronic submission and reception of reports in accordance with Union legislation.
+
+**2.1.2. Central SafeSeaNet system**
+
+The Commission is responsible for the management and development at policy level of the central SafeSeaNet system and for the oversight of the SafeSeaNet system, in cooperation with Member States, while, in accordance with Regulation (EC) No 1406/2002 of the European Parliament and of the Council ( 6 ), the European Maritime Safety Agency, in cooperation with the Member States and the Commission, is responsible for:
+
+— the technical implementation and documentation of SafeSeaNet,
+
+— development, operation and integration of the electronic messages and data as well as maintenance of the interfaces with the central SafeSeaNet system, including AIS data collected by satellite, and the different information systems in this Directive and as referred to in point 3.
+
+The central SafeSeaNet system, acting as a nodal point, shall interconnect all national SafeSeaNet systems and shall establish the necessary IT infrastructure and procedures as described in the interface and functionalities control document referred to in point 2.3.
+
+**2.2. Principles of management**
+
+The Commission shall establish a high-level steering group, which shall adopt its rules of procedure, composed of representatives of the Member States and of the Commission to:
+
+— make recommendations to improve the effectiveness and security of the system,
+
+— provide appropriate guidance for the development of the system,
+
+— assist the Commission in reviewing the performance of the system,
+
+— provide appropriate guidance for the development of the interoperable data exchange platform combining information from SafeSeaNet with information from the other information systems as referred to in point 3,
+
+— approve the interface and functionalities control document referred to in point 2.3, and any amendments thereto,
+
+— adopt guidelines for the collection and distribution of information through SafeSeaNet related to competent authorities designated by Member States to perform relevant functions under this Directive,
+
+— liaise with other relevant working forums, in particular the group on maritime administrative simplification and electronic information services.
+
+**2.3. Interface and functionalities control document and technical documentation**
+
+The Commission shall develop and maintain, in close cooperation with the Member States, an interface and functionalities control document (IFCD).
+
+The IFCD shall describe in detail the performance requirements and procedures applicable to the national and central elements of the SafeSeaNet system designed to ensure compliance with the relevant Union legislation.
+
+The IFCD shall include rules for:
+
+— access rights guidance for data quality management,
+
+— integration of data, as referred to in point 3, and their distribution through the SafeSeaNet system,
+
+— operational procedures for the Agency and the Member States defining the control mechanisms for the SafeSeaNet data quality,
+
+— security specifications for data transmission and exchange, and
+
+— the archiving of information at national and central level.
+
+The IFCD shall indicate the means of storage and the availability of the information on dangerous or polluting goods concerning scheduled services to which an exemption has been granted in accordance with Article 15.
+
+Technical documentation related to SafeSeaNet, such as standards for data exchange format, interoperability with other systems and applications, users' manuals, network security specifications and reference databases used to support reporting obligations, shall be developed and maintained by the Agency in cooperation with the Member States.
+
+**3\. Exchange and sharing of data**
+
+The system shall use industry standards and be able to interact with public and private systems used to create, provide or receive information within SafeSeaNet.
+
+The Commission and the Member States shall cooperate in order to examine the feasibility and development of functionalities that as far as possible will ensure that the data providers, including masters, owners, agents, operators, shippers and relevant authorities, need to submit information only once, taking due account of the obligations in Directive 2010/65/EU ( 7 ) and other relevant Union legislation. Member States shall ensure that the information submitted is available for use in all relevant reporting, notification, information sharing and VTMIS systems.
+
+Member States shall develop and maintain the necessary interfaces for automatic transmission of data by electronic means to SafeSeaNet.
+
+The central SafeSeaNet shall be used for the distribution of electronic messages and data exchanged or shared in accordance with this Directive and relevant Union legislation, inter alia:
+
+— Directive 2000/59/EC of the European Parliament and of the Council ( 8 ) of 27 November 2000 on port reception facilities for ship-generated waste and cargo residues, as regards Article 12(3) thereof,
+
+— Directive 2005/35/EC of the European Parliament and of the Council ( 9 ) of 7 September 2005 on ship-source pollution and on the introduction of penalties, including criminal penalties, for pollution offences, as regards Article 10 thereof,
+
+— Directive 2009/16/EC of the European Parliament and of the Council ( 10 ) of 23 April 2009 on port State control, as regards Article 24 thereof,
+
+— Directive 2010/65/EU of the European Parliament and of the Council of 20 October 2010 on reporting formalities for ships arriving in and/or departing from ports of the Member States in so far as Article 6 thereof applies.
+
+The operation of the SafeSeaNet system should support the facilitation and establishment of the European Maritime Transport Space without Barriers.
+
+Where internationally-adopted rules allow routing of LRIT information concerning third country vessels, SafeSeaNet networks shall be used to distribute amongst Member States, with an appropriate level of security, the LRIT information received in accordance with Article 6b of this Directive.
+
+**4\. Security and access rights**
+
+The central and the national SafeSeaNet systems shall comply with the requirements of this Directive concerning confidentiality of information, as well as with the security principles and specifications described in the IFCD, in particular as regards access rights.
+
+Member States shall identify all users to which a role and a set of access rights is attributed in compliance with the IFCD.
+
+## ANNEX IV
+
+**Measures available to Member States in the event of a threat to maritime safety and the protection of the environment**
+
+**(pursuant to Article 19(1))**
+
+Where, following an incident or circumstance of the type described in Article 17 affecting a ship, the competent authority of the Member State concerned deems, within the framework of international law, that it is necessary to avert, lessen or remove a serious and imminent threat to its coastline or related interests, the safety of other ships and their crews and passengers or of persons on shore or to protect the marine environment, that authority may, in particular:
+
+(a) restrict the movement of the ship or direct it to follow a specific course. This requirement does not affect the master’s responsibility for the safe handling of his ship;
+
+(b) give official notice to the master of the ship to put an end to the threat to the environment or maritime safety;
+
+(c) send an evaluation team aboard the ship to assess the degree of risk, help the master to remedy the situation and keep the competent coastal station informed thereof;
+
+(d) instruct the master to put in at a place of refuge in the event of imminent peril, or cause the ship to be piloted or towed.
+
+In the case of a ship which is towed under a towage or salvage agreement, the measures taken by the competent authority of a Member State under points (a) and (d) may be also addressed to the assistance, salvage and towage companies involved.
+
+( 1 ) OJ L 138, 1.6.1999, p. 1.
+
+( 2 ) OJ L 157, 7.7.1995, p. 1. Directive as last amended by Directive 2001/106/EC of the European Parliament and of the Council (OJ L 19, 22.1.2002, p. 17).
+
+( 3 ) OJ L 131, 28.5.2009, p. 128
+
+( 4 ) OJ L 123, 12.5.2016, p. 1.
+
+( 5 ) OJ L 163, 25.6.2009, p. 1.
+
+( 6 ) Regulation (EC) No 1406/2002 of the European Parliament and of the Council of 27 June 2002 establishing a European Maritime Safety Agency (OJ L 208, 5.8.2002, p. 1).
+
+( 7 ) Directive 2010/65/EU of the European Parliament and of the Council of 20 October 2010 on reporting formalities for ships arriving in and/or departing from ports of the Member States and repealing Directive 2002/6/EC (OJ L 283, 29.10.2010, p. 1).
+
+( 8 ) Directive 2000/59/EC of the European Parliament and of the Council of 27 November 2000 on port reception facilities for ship-generated waste and cargo residues (OJ L 332, 28.12.2000, p. 81).
+
+( 9 ) Directive 2005/35/EC of the European Parliament and of the Council of 7 September 2005 on ship-source pollution and on the introduction of penalties, including criminal penalties, for pollution offences (OJ L 255, 30.9.2005, p. 11).
+
+( 10 ) Directive 2009/16/EC of the European Parliament and of the Council of 23 April 2009 on port State control (OJ L 131, 28.5.2009, p. 57).

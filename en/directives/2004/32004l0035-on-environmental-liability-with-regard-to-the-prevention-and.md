@@ -1,0 +1,552 @@
+---
+title: "Directive 2004/35/EC of the European Parliament and of the Council of 21 April 2004 on environmental liability with regard to the prevention and remedying of environmental damage"
+identifier: "32004L0035"
+eli: "http://data.europa.eu/eli/dir/2004/35/oj"
+type: directive
+jurisdiction: eu
+language: en
+date: 2004-04-21
+entry_into_force: 2004-08-26
+last_amended: 2019-06-26
+consolidated_version: "02004L0035-20190626"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02004L0035-20190626"
+retrieved: 2026-10-11
+---
+
+# Directive 2004/35/EC of the European Parliament and of the Council of 21 April 2004 on environmental liability with regard to the prevention and remedying of environmental damage
+
+**DIRECTIVE 2004/35/EC OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 21 April 2004**
+
+**on environmental liability with regard to the prevention and remedying of environmental damage**
+
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> DIRECTIVE 2006/21/EC OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 15 March 2006 </td><td> L 102</td><td>15</td><td>11.4.2006</td></tr>
+<tr><td></td><td> DIRECTIVE 2009/31/EC OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 23 April 2009 </td><td> L 140</td><td>114</td><td>5.6.2009</td></tr>
+<tr><td></td><td> DIRECTIVE 2013/30/EU OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 12 June 2013 </td><td> L 178</td><td>66</td><td>28.6.2013</td></tr>
+<tr><td></td><td> REGULATION (EU) 2019/1010 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 5 June 2019 </td><td> L 170</td><td>115</td><td>25.6.2019</td></tr>
+
+**DIRECTIVE 2004/35/EC OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 21 April 2004**
+
+**on environmental liability with regard to the prevention and remedying of environmental damage**
+
+## Article 1 — Subject matter
+
+The purpose of this Directive is to establish a framework of environmental liability based on the ‘polluter-pays’ principle, to prevent and remedy environmental damage.
+
+## Article 2 — Definitions
+
+For the purpose of this Directive the following definitions shall apply:
+
+1\. ‘environmental damage’ means:
+
+(a) damage to protected species and natural habitats, which is any damage that has significant adverse effects on reaching or maintaining the favourable conservation status of such habitats or species. The significance of such effects is to be assessed with reference to the baseline condition, taking account of the criteria set out in Annex I;
+
+Damage to protected species and natural habitats does not include previously identified adverse effects which result from an act by an operator which was expressly authorised by the relevant authorities in accordance with provisions implementing Article 6(3) and (4) or Article 16 of Directive 92/43/EEC or Article 9 of Directive 79/409/EEC or, in the case of habitats and species not covered by Community law, in accordance with equivalent provisions of national law on nature conservation.
+
+(b) ‘water damage’, which is any damage that significantly adversely affects:
+
+(i) the ecological, chemical or quantitative status or the ecological potential, as defined in Directive 2000/60/EC, of the waters concerned, with the exception of adverse effects where Article 4(7) of that Directive applies; or
+
+(ii) the environmental status of the marine waters concerned, as defined in Directive 2008/56/EC, in so far as particular aspects of the environmental status of the marine environment are not already addressed through Directive 2000/60/EC;
+
+(c) land damage, which is any land contamination that creates a significant risk of human health being adversely affected as a result of the direct or indirect introduction, in, on or under land, of substances, preparations, organisms or micro-organisms;
+
+2\. ‘damage’ means a measurable adverse change in a natural resource or measurable impairment of a natural resource service which may occur directly or indirectly;
+
+3\. ‘protected species and natural habitats’ means:
+
+(a) the species mentioned in Article 4(2) of Directive 79/409/EEC or listed in Annex I thereto or listed in Annexes II and IV to Directive 92/43/EEC;
+
+(b) the habitats of species mentioned in Article 4(2) of Directive 79/409/EEC or listed in Annex I thereto or listed in Annex II to Directive 92/43/EEC, and the natural habitats listed in Annex I to Directive 92/43/EEC and the breeding sites or resting places of the species listed in Annex IV to Directive 92/43/EEC; and
+
+(c) where a Member State so deTXTines, any habitat or species, not listed in those Annexes which the Member State designates for equivalent purposes as those laid down in these two Directives;
+
+4\. ‘conservation status’ means:
+
+(a) in respect of a natural habitat, the sum of the influences acting on a natural habitat and its typical species that may affect its long-term natural distribution, structure and functions as well as the long-term survival of its typical species within, as the case may be, the European territory of the Member States to which the Treaty applies or the territory of a Member State or the natural range of that habitat;
+
+The conservation status of a natural habitat will be taken as ‘favourable’ when:
+
+— its natural range and areas it covers within that range are stable or increasing,
+
+— the specific structure and functions which are necessary for its long-term maintenance exist and are likely to continue to exist for the foreseeable future, and
+
+— the conservation status of its typical species is favourable, as defined in (b);
+
+(b) in respect of a species, the sum of the influences acting on the species concerned that may affect the long-term distribution and abundance of its populations within, as the case may be, the European territory of the Member States to which the Treaty applies or the territory of a Member State or the natural range of that species;
+
+The conservation status of a species will be taken as ‘favourable’ when:
+
+— population dynamics data on the species concerned indicate that it is maintaining itself on a long-term basis as a viable component of its natural habitats,
+
+— the natural range of the species is neither being reduced nor is likely to be reduced for the foreseeable future, and
+
+— there is, and will probably continue to be, a sufficiently large habitat to maintain its populations on a long-term basis;
+
+5\. ‘waters’ mean all waters covered by Directive 2000/60/EC;
+
+6\. ‘operator’ means any natural or legal, private or public person who operates or controls the occupational activity or, where this is provided for in national legislation, to whom decisive economic power over the technical functioning of such an activity has been delegated, including the holder of a permit or authorisation for such an activity or the person registering or notifying such an activity;
+
+7\. ‘occupational activity’ means any activity carried out in the course of an economic activity, a business or an undertaking, irrespectively of its private or public, profit or non-profit character;
+
+8\. ‘emission’ means the release in the environment, as a result of human activities, of substances, preparations, organisms or micro-organisms;
+
+9\. ‘imminent threat of damage’ means a sufficient likelihood that environmental damage will occur in the near future;
+
+10\. ‘preventive measures’ means any measures taken in response to an event, act or omission that has created an imminent threat of environmental damage, with a view to preventing or minimising that damage;
+
+11\. ‘remedial measures’ means any action, or combination of actions, including mitigating or interim measures to restore, rehabilitate or replace damaged natural resources and/or impaired services, or to provide an equivalent alternative to those resources or services as foreseen in Annex II;
+
+12\. ‘natural resource’ means protected species and natural habitats, water and land;
+
+13\. ‘services’ and ‘natural resources services’ mean the functions performed by a natural resource for the benefit of another natural resource or the public;
+
+14\. ‘baseline condition’ means the condition at the time of the damage of the natural resources and services that would have existed had the environmental damage not occurred, estimated on the basis of the best information available;
+
+15\. ‘recovery’, including ‘natural recovery’, means, in the case of water, protected species and natural habitats the return of damaged natural resources and/or impaired services to baseline condition and in the case of land damage, the elimination of any significant risk of adversely affecting human health;
+
+16\. ‘costs’ means costs which are justified by the need to ensure the proper and effective implementation of this Directive including the costs of assessing environmental damage, an imminent threat of such damage, alternatives for action as well as the administrative, legal, and enforcement costs, the costs of data collection and other general costs, monitoring and supervision costs.
+
+## Article 3 — Scope
+
+1\. This Directive shall apply to:
+
+(a) environmental damage caused by any of the occupational activities listed in Annex III, and to any imminent threat of such damage occurring by reason of any of those activities;
+
+(b) damage to protected species and natural habitats caused by any occupational activities other than those listed in Annex III, and to any imminent threat of such damage occurring by reason of any of those activities, whenever the operator has been at fault or negligent.
+
+2\. This Directive shall apply without prejudice to more stringent Community legislation regulating the operation of any of the activities falling within the scope of this Directive and without prejudice to Community legislation containing rules on conflicts of jurisdiction.
+
+3\. Without prejudice to relevant national legislation, this Directive shall not give private parties a right of compensation as a consequence of environmental damage or of an imminent threat of such damage.
+
+## Article 4 — Exceptions
+
+1\. This Directive shall not cover environmental damage or an imminent threat of such damage caused by:
+
+(a) an act of armed conflict, hostilities, civil war or insurrection;
+
+(b) a natural phenomenon of exceptional, inevitable and irresistible character.
+
+2\. This Directive shall not apply to environmental damage or to any imminent threat of such damage arising from an incident in respect of which liability or compensation falls within the scope of any of the International Conventions listed in Annex IV, including any future amendments thereof, which is in force in the Member State concerned.
+
+3\. This Directive shall be without prejudice to the right of the operator to limit his liability in accordance with national legislation implementing the Convention on Limitation of Liability for Maritime Claims (LLMC), 1976, including any future amendment to the Convention, or the Strasbourg Convention on Limitation of Liability in Inland Navigation (CLNI), 1988, including any future amendment to the Convention.
+
+4\. This Directive shall not apply to such nuclear risks or environmental damage or imminent threat of such damage as may be caused by the activities covered by the Treaty establishing the European Atomic Energy Community or caused by an incident or activity in respect of which liability or compensation falls within the scope of any of the international instruments listed in Annex V, including any future amendments thereof.
+
+5\. This Directive shall only apply to environmental damage or to an imminent threat of such damage caused by pollution of a diffuse character, where it is possible to establish a causal link between the damage and the activities of individual operators.
+
+6\. This Directive shall not apply to activities the main purpose of which is to serve national defence or international security nor to activities the sole purpose of which is to protect from natural disasters.
+
+## Article 5 — Preventive action
+
+1\. Where environmental damage has not yet occurred but there is an imminent threat of such damage occurring, the operator shall, without delay, take the necessary preventive measures.
+
+2\. Member States shall provide that, where appropriate, and in any case whenever an imminent threat of environmental damage is not dispelled despite the preventive measures taken by the operator, operators are to inform the competent authority of all relevant aspects of the situation, as soon as possible.
+
+3\. The competent authority may, at any time:
+
+(a) require the operator to provide information on any imminent threat of environmental damage or in suspected cases of such an imminent threat;
+
+(b) require the operator to take the necessary preventive measures;
+
+(c) give instructions to the operator to be followed on the necessary preventive measures to be taken; or
+
+(d) itself take the necessary preventive measures.
+
+4\. The competent authority shall require that the preventive measures are taken by the operator. If the operator fails to comply with the obligations laid down in paragraph 1 or 3(b) or (c), cannot be identified or is not required to bear the costs under this Directive, the competent authority may take these measures itself.
+
+## Article 6 — Remedial action
+
+1\. Where environmental damage has occurred the operator shall, without delay, inform the competent authority of all relevant aspects of the situation and take:
+
+(a) all practicable steps to immediately control, contain, remove or otherwise manage the relevant contaminants and/or any other damage factors in order to limit or to prevent further environmental damage and adverse effects on human health or further impairment of services and
+
+(b) the necessary remedial measures, in accordance with Article 7.
+
+2\. The competent authority may, at any time:
+
+(a) require the operator to provide supplementary information on any damage that has occurred;
+
+(b) take, require the operator to take or give instructions to the operator concerning, all practicable steps to immediately control, contain, remove or otherwise manage the relevant contaminants and/or any other damage factors in order to limit or to prevent further environmental damage and adverse effect on human health, or further impairment of services;
+
+(c) require the operator to take the necessary remedial measures;
+
+(d) give instructions to the operator to be followed on the necessary remedial measures to be taken; or
+
+(e) itself take the necessary remedial measures.
+
+3\. The competent authority shall require that the remedial measures are taken by the operator. If the operator fails to comply with the obligations laid down in paragraph 1 or 2(b), (c) or (d), cannot be identified or is not required to bear the costs under this Directive, the competent authority may take these measures itself, as a means of last resort.
+
+## Article 7 — Determination of remedial measures
+
+1\. Operators shall identify, in accordance with Annex II, potential remedial measures and submit them to the competent authority for its approval, unless the competent authority has taken action under Article 6(2)(e) and (3).
+
+2\. The competent authority shall decide which remedial measures shall be implemented in accordance with Annex II, and with the cooperation of the relevant operator, as required.
+
+3\. Where several instances of environmental damage have occurred in such a manner that the competent authority cannot ensure that the necessary remedial measures are taken at the same time, the competent authority shall be entitled to decide which instance of environmental damage must be remedied first.
+
+In making that decision, the competent authority shall have regard, inter alia, to the nature, extent and gravity of the various instances of environmental damage concerned, and to the possibility of natural recovery. Risks to human health shall also be taken into account.
+
+4\. The competent authority shall invite the persons referred to in Article 12(1) and in any case the persons on whose land remedial measures would be carried out to submit their observations and shall take them into account.
+
+## Article 8 — Prevention and remediation costs
+
+1\. The operator shall bear the costs for the preventive and remedial actions taken pursuant to this Directive.
+
+2\. Subject to paragraphs 3 and 4, the competent authority shall recover, inter alia, via security over property or other appropriate guarantees from the operator who has caused the damage or the imminent threat of damage, the costs it has incurred in relation to the preventive or remedial actions taken under this Directive.
+
+However, the competent authority may decide not to recover the full costs where the expenditure required to do so would be greater than the recoverable sum or where the operator cannot be identified.
+
+3\. An operator shall not be required to bear the cost of preventive or remedial actions taken pursuant to this Directive when he can prove that the environmental damage or imminent threat of such damage:
+
+(a) was caused by a third party and occured despite the fact that appropriate safety measures were in place; or
+
+(b) resulted from compliance with a compulsory order or instruction emanating from a public authority other than an order or instruction consequent upon an emission or incident caused by the operator's own activities.
+
+In such cases Member States shall take the appropriate measures to enable the operator to recover the costs incurred.
+
+4\. The Member States may allow the operator not to bear the cost of remedial actions taken pursuant to this Directive where he demonstrates that he was not at fault or negligent and that the environmental damage was caused by:
+
+(a) an emission or event expressly authorised by, and fully in accordance with the conditions of, an authorisation conferred by or given under applicable national laws and regulations which implement those legislative measures adopted by the Community specified in Annex III, as applied at the date of the emission or event;
+
+(b) an emission or activity or any manner of using a product in the course of an activity which the operator demonstrates was not considered likely to cause environmental damage according to the state of scientific and technical knowledge at the time when the emission was released or the activity took place.
+
+5\. Measures taken by the competent authority in pursuance of Article 5(3) and (4) and Article 6(2) and (3) shall be without prejudice to the liability of the relevant operator under this Directive and without prejudice to Articles 87 and 88 of the Treaty.
+
+## Article 9 — Cost allocation in cases of multiple party causation
+
+This Directive is without prejudice to any provisions of national regulations concerning cost allocation in cases of multiple party causation especially concerning the apportionment of liability between the producer and the user of a product.
+
+## Article 10 — Limitation period for recovery of costs
+
+The competent authority shall be entitled to initiate cost recovery proceedings against the operator, or if appropriate, a third party who has caused the damage or the imminent threat of damage in relation to any measures taken in pursuance of this Directive within five years from the date on which those measures have been completed or the liable operator, or third party, has been identified, whichever is the later.
+
+## Article 11 — Competent authority
+
+1\. Member States shall designate the competent authority(ies) responsible for fulfilling the duties provided for in this Directive.
+
+2\. The duty to establish which operator has caused the damage or the imminent threat of damage, to assess the significance of the damage and to determine which remedial measures should be taken with reference to Annex II shall rest with the competent authority. To that effect, the competent authority shall be entitled to require the relevant operator to carry out his own assessment and to supply any information and data necessary.
+
+3\. Member States shall ensure that the competent authority may empower or require third parties to carry out the necessary preventive or remedial measures.
+
+4\. Any decision taken pursuant to this Directive which imposes preventive or remedial measures shall state the exact grounds on which it is based. Such decision shall be notified forthwith to the operator concerned, who shall at the same time be informed of the legal remedies available to him under the laws in force in the Member State concerned and of the time-limits to which such remedies are subject.
+
+## Article 12 — Request for action
+
+1\. Natural or legal persons:
+
+(a) affected or likely to be affected by environmental damage or
+
+(b) having a sufficient interest in environmental decision making relating to the damage or, alternatively,
+
+(c) alleging the impairment of a right, where administrative procedural law of a Member State requires this as a precondition,
+
+shall be entitled to submit to the competent authority any observations relating to instances of environmental damage or an imminent threat of such damage of which they are aware and shall be entitled to request the competent authority to take action under this Directive.
+
+What constitutes a ‘sufficient interest’ and ‘impairment of a right’ shall be determined by the Member States.
+
+To this end, the interest of any non-governmental organisation promoting environmental protection and meeting any requirements under national law shall be deemed sufficient for the purpose of subparagraph (b). Such organisations shall also be deemed to have rights capable of being impaired for the purpose of subparagraph (c).
+
+2\. The request for action shall be accompanied by the relevant information and data supporting the observations submitted in relation to the environmental damage in question.
+
+3\. Where the request for action and the accompanying observations show in a plausible manner that environmental damage exists, the competent authority shall consider any such observations and requests for action. In such circumstances the competent authority shall give the relevant operator an opportunity to make his views known with respect to the request for action and the accompanying observations.
+
+4\. The competent authority shall, as soon as possible and in any case in accordance with the relevant provisions of national law, inform the persons referred to in paragraph 1, which submitted observations to the authority, of its decision to accede to or refuse the request for action and shall provide the reasons for it.
+
+5\. Member States may decide not to apply paragraphs 1 and 4 to cases of imminent threat of damage.
+
+## Article 13 — Review procedures
+
+1\. The persons referred to in Article 12(1) shall have access to a court or other independent and impartial public body competent to review the procedural and substantive legality of the decisions, acts or failure to act of the competent authority under this Directive.
+
+2\. This Directive shall be without prejudice to any provisions of national law which regulate access to justice and those which require that administrative review procedures be exhausted prior to recourse to judicial proceedings.
+
+## Article 14 — Financial security
+
+1\. Member States shall take measures to encourage the development of financial security instruments and markets by the appropriate economic and financial operators, including financial mechanisms in case of insolvency, with the aim of enabling operators to use financial guarantees to cover their responsibilities under this Directive.
+
+## Article 15 — Cooperation between Member States
+
+1\. Where environmental damage affects or is likely to affect several Member States, those Member States shall cooperate, including through the appropriate exchange of information, with a view to ensuring that preventive action and, where necessary, remedial action is taken in respect of any such environmental damage.
+
+2\. Where environmental damage has occurred, the Member State in whose territory the damage originates shall provide sufficient information to the potentially affected Member States.
+
+3\. Where a Member State identifies damage within its borders which has not been caused within them it may report the issue to the Commission and any other Member State concerned; it may make recommendations for the adoption of preventive or remedial measures and it may seek, in accordance with this Directive, to recover the costs it has incurred in relation to the adoption of preventive or remedial measures.
+
+## Article 16 — Relationship with national law
+
+1\. This Directive shall not prevent Member States from maintaining or adopting more stringent provisions in relation to the prevention and remedying of environmental damage, including the identification of additional activities to be subject to the prevention and remediation requirements of this Directive and the identification of additional responsible parties.
+
+2\. This Directive shall not prevent Member States from adopting appropriate measures, such as the prohibition of double recovery of costs, in relation to situations where double recovery could occur as a result of concurrent action by a competent authority under this Directive and by a person whose property is affected by environmental damage.
+
+## Article 17 — Temporal application
+
+This Directive shall not apply to:
+
+— damage caused by an emission, event or incident that took place before the date referred to in Article 19(1),
+
+— damage caused by an emission, event or incident which takes place subsequent to the date referred to in Article 19(1) when it derives from a specific activity that took place and finished before the said date,
+
+— damage, if more than 30 years have passed since the emission, event or incident, resulting in the damage, occurred.
+
+## Article 18 — Information on implementation and evidence base
+
+1\. The Commission shall collect information from Member States, that has been disseminated in accordance with Directive 2003/4/EC of the European Parliament and of the Council ( 1 ), and as far as available, on the experience gained in the application of this Directive. That information shall cover the data set out in Annex VI to this Directive and be collected by 30 April 2022 and every five years thereafter.
+
+2\. On the basis of the information referred to in paragraph 1, the Commission shall carry out an evaluation of this Directive and publish it before 30 April 2023 and every five years thereafter.
+
+3\. By 31 December 2020, the Commission shall develop guidelines providing a common understanding of the term ‘environmental damage’ as defined in Article 2.
+
+## Article 19 — Implementation
+
+1\. Member States shall bring into force the laws, regulations and administrative provisions necessary to comply with this Directive by 30 April 2007. They shall forthwith inform the Commission thereof.
+
+When Member States adopt those measures, they shall contain a reference to this Directive or shall be accompanied by such a reference on the occasion of their official publication. The methods of making such reference shall be laid down by Member States.
+
+2\. Member States shall communicate to the Commission the text of the main provisions of national law which they adopt in the field covered by this Directive together with a table showing how the provisions of this Directive correspond to the national provisions adopted.
+
+## Article 20 — Entry into force
+
+This Directive shall enter into force on the day of its publication in the Official Journal of the European Union.
+
+## Article 21 — Addressees
+
+This Directive is addressed to the Member States.
+
+## ANNEX I — CRITERIA REFERRED TO IN ARTICLE 2(1)(A)
+
+The significance of any damage that has adverse effects on reaching or maintaining the favourable conservation status of habitats or species has to be assessed by reference to the conservation status at the time of the damage, the services provided by the amenities they produce and their capacity for natural regeneration. Significant adverse changes to the baseline condition should be determined by means of measurable data such as:
+
+— the number of individuals, their density or the area covered,
+
+— the role of the particular individuals or of the damaged area in relation to the species or to the habitat conservation, the rarity of the species or habitat (assessed at local, regional and higher level including at Community level),
+
+— the species' capacity for propagation (according to the dynamics specific to that species or to that population), its viability or the habitat's capacity for natural regeneration (according to the dynamics specific to its characteristic species or to their populations),
+
+— the species' or habitat's capacity, after damage has occurred, to recover within a short time, without any intervention other than increased protection measures, to a condition which leads, solely by virtue of the dynamics of the species or habitat, to a condition deemed equivalent or superior to the baseline condition.
+
+Damage with a proven effect on human health must be classified as significant damage.
+
+The following does not have to be classified as significant damage:
+
+— negative variations that are smaller than natural fluctuations regarded as normal for the species or habitat in question,
+
+— negative variations due to natural causes or resulting from intervention relating to the normal management of sites, as defined in habitat records or target documents or as carried on previously by owners or operators,
+
+— damage to species or habitats for which it is established that they will recover, within a short time and without intervention, either to the baseline condition or to a condition which leads, solely by virtue of the dynamics of the species or habitat, to a condition deemed equivalent or superior to the baseline condition.
+
+## ANNEX II
+
+**REMEDYING OF ENVIRONMENTAL DAMAGE**
+
+This Annex sets out a common framework to be followed in order to choose the most appropriate measures to ensure the remedying of environmental damage.
+
+**1\. Remediation of damage to water or protected species or natural habitats**
+
+Remedying of environmental damage, in relation to water or protected species or natural habitats, is achieved through the restoration of the environment to its baseline condition by way of primary, complementary and compensatory remediation, where:
+
+(a) ‘Primary’ remediation is any remedial measure which returns the damaged natural resources and/or impaired services to, or towards, baseline condition;
+
+(b) ‘Complementary’ remediation is any remedial measure taken in relation to natural resources and/or services to compensate for the fact that primary remediation does not result in fully restoring the damaged natural resources and/or services;
+
+(c) ‘Compensatory’ remediation is any action taken to compensate for interim losses of natural resources and/or services that occur from the date of damage occurring until primary remediation has achieved its full effect;
+
+(d) ‘interim losses’ means losses which result from the fact that the damaged natural resources and/or services are not able to perform their ecological functions or provide services to other natural resources or to the public until the primary or complementary measures have taken effect. It does not consist of financial compensation to members of the public.
+
+Where primary remediation does not result in the restoration of the environment to its baseline condition, then complementary remediation will be undertaken. In addition, compensatory remediation will be undertaken to compensate for the interim losses.
+
+Remedying of environmental damage, in terms of damage to water or protected species or natural habitats, also implies that any significant risk of human health being adversely affected be removed.
+
+**1.1. Remediation objectives**
+
+Purpose of primary remediation
+
+1.1.1. The purpose of primary remediation is to restore the damaged natural resources and/or services to, or towards, baseline condition.
+
+Purpose of complementary remediation
+
+1.1.2. Where the damaged natural resources and/or services do not return to their baseline condition, then complementary remediation will be undertaken. The purpose of complementary remediation is to provide a similar level of natural resources and/or services, including, as appropriate, at an alternative site, as would have been provided if the damaged site had been returned to its baseline condition. Where possible and appropriate the alternative site should be geographically linked to the damaged site, taking into account the interests of the affected population.
+
+Purpose of compensatory remediation
+
+1.1.3. Compensatory remediation shall be undertaken to compensate for the interim loss of natural resources and services pending recovery. This compensation consists of additional improvements to protected natural habitats and species or water at either the damaged site or at an alternative site. It does not consist of financial compensation to members of the public.
+
+**1.2. Identification of remedial measures**
+
+Identification of primary remedial measures
+
+1.2.1. Options comprised of actions to directly restore the natural resources and services towards baseline condition on an accelerated time frame, or through natural recovery, shall be considered.
+
+Identification of complementary and compensatory remedial measures
+
+1.2.2. When determining the scale of complementary and compensatory remedial measures, the use of resource-to-resource or service-to-service equivalence approaches shall be considered first. Under these approaches, actions that provide natural resources and/or services of the same type, quality and quantity as those damaged shall be considered first. Where this is not possible, then alternative natural resources and/or services shall be provided. For example, a reduction in quality could be offset by an increase in the quantity of remedial measures.
+
+1.2.3. If it is not possible to use the first choice resource-to-resource or service-to-service equivalence approaches, then alternative valuation techniques shall be used. The competent authority may prescribe the method, for example monetary valuation, to determine the extent of the necessary complementary and compensatory remedial measures. If valuation of the lost resources and/or services is practicable, but valuation of the replacement natural resources and/or services cannot be performed within a reasonable time-frame or at a reasonable cost, then the competent authority may choose remedial measures whose cost is equivalent to the estimated monetary value of the lost natural resources and/or services.
+
+The complementary and compensatory remedial measures should be so designed that they provide for additional natural resources and/or services to reflect time preferences and the time profile of the remedial measures. For example, the longer the period of time before the baseline condition is reached, the greater the amount of compensatory remedial measures that will be undertaken (other things being equal).
+
+**1.3. Choice of the remedial options**
+
+1.3.1. The reasonable remedial options should be evaluated, using best available technologies, based on the following criteria:
+
+— The effect of each option on public health and safety,
+
+— The cost of implementing the option,
+
+— The likelihood of success of each option,
+
+— The extent to which each option will prevent future damage, and avoid collateral damage as a result of implementing the option,
+
+— The extent to which each option benefits to each component of the natural resource and/or service,
+
+— The extent to which each option takes account of relevant social, economic and cultural concerns and other relevant factors specific to the locality,
+
+— The length of time it will take for the restoration of the environmental damage to be effective,
+
+— The extent to which each option achieves the restoration of site of the environmental damage,
+
+— The geographical linkage to the damaged site.
+
+1.3.2. When evaluating the different identified remedial options, primary remedial measures that do not fully restore the damaged water or protected species or natural habitat to baseline or that restore it more slowly can be chosen. This decision can be taken only if the natural resources and/or services foregone at the primary site as a result of the decision are compensated for by increasing complementary or compensatory actions to provide a similar level of natural resources and/or services as were foregone. This will be the case, for example, when the equivalent natural resources and/or services could be provided elsewhere at a lower cost. These additional remedial measures shall be determined in accordance with the rules set out in section 1.2.2.
+
+1.3.3. Notwithstanding the rules set out in section 1.3.2. and in accordance with Article 7(3), the competent authority is entitled to decide that no further remedial measures should be taken if:
+
+(a) the remedial measures already taken secure that there is no longer any significant risk of adversely affecting human health, water or protected species and natural habitats, and
+
+(b) the cost of the remedial measures that should be taken to reach baseline condition or similar level would be disproportionate to the environmental benefits to be obtained.
+
+**2\. Remediation of land damage**
+
+The necessary measures shall be taken to ensure, as a minimum, that the relevant contaminants are removed, controlled, contained or diminished so that the contaminated land, taking account of its current use or approved future use at the time of the damage, no longer poses any significant risk of adversely affecting human health. The presence of such risks shall be assessed through risk-assessment procedures taking into account the characteristic and function of the soil, the type and concentration of the harmful substances, preparations, organisms or micro-organisms, their risk and the possibility of their dispersion. Use shall be ascertained on the basis of the land use regulations, or other relevant regulations, in force, if any, when the damage occurred.
+
+If the use of the land is changed, all necessary measures shall be taken to prevent any adverse effects on human health.
+
+If land use regulations, or other relevant regulations, are lacking, the nature of the relevant area where the damage occurred, taking into account its expected development, shall determine the use of the specific area.
+
+A natural recovery option, that is to say an option in which no direct human intervention in the recovery process would be taken, shall be considered.
+
+## ANNEX III — ACTIVITIES REFERRED TO IN ARTICLE 3(1)
+
+1\. The operation of installations subject to permit in pursuance of Council Directive 96/61/EC of 24 September 1996 concerning integrated pollution prevention and control ( 2 ). That means all activities listed in Annex I of Directive 96/61/EC with the exception of installations or parts of installations used for research, development and testing of new products and processes.
+
+2\. Waste management operations, including the collection, transport, recovery and disposal of waste and hazardous waste, including the supervision of such operations and after-care of disposal sites, subject to permit or registration in pursuance of Council Directive 75/442/EEC of 15 July 1975 on waste ( 3 ) and Council Directive 91/689/EEC of 12 December 1991 on hazardous waste ( 4 ).
+
+Those operations include, inter alia, the operation of landfill sites under Council Directive 1999/31/EC of 26 April 1999 on the landfill of waste ( 5 ) and the operation of incineration plants under Directive 2000/76/EC of the European Parliament and of the Council of 4 December 2000 on the incineration of waste ( 6 ).
+
+For the purpose of this Directive, Member States may decide that those operations shall not include the spreading of sewage sludge from urban waste water treatment plants, treated to an approved standard, for agricultural purposes.
+
+3\. All discharges into the inland surface water, which require prior authorisation in pursuance of Council Directive 76/464/EEC of 4 May 1976 on pollution caused by certain dangerous substances, discharged into the aquatic environment of the Community ( 7 ).
+
+4\. All discharges of substances into groundwater which require prior authorisation in pursuance of Council Directive 80/68/EEC of 17 December 1979 on the protection of groundwater against pollution caused by certain dangerous substances ( 8 ).
+
+5\. The discharge or injection of pollutants into surface water or groundwater which require a permit, authorisation or registration in pursuance of Directive 2000/60/EC.
+
+6\. Water abstraction and impoundment of water subject to prior authorisation in pursuance of Directive 2000/60/EC.
+
+7\. Manufacture, use, storage, processing, filling, release into the environment and onsite transport of
+
+(a) dangerous substances as defined in Article 2(2) of Council Directive 67/548/EEC of 27 June 1967 on the approximation of the laws, regulations and administrative provisions of the Member States relating to the classification, packaging and labelling of dangerous substances ( 9 );
+
+(b) dangerous preparations as defined in Article 2(2) of Directive 1999/45/EC of the European Parliament and of the Council of 31 May 1999 concerning the approximation of the laws, regulations and administrative provisions of the Member States relating to the classification, packaging and labelling of dangerous preparations ( 10 );
+
+(c) plant protection products as defined in Article2(1) of Council Directive 91/414/EEC of 15 July 1991 concerning the placing of plant protection products on the market ( 11 );
+
+(d) biocidal products as defined in Article 2(1)(a) of Directive 98/8/EC of the European Parliament and of the Council of 16 February 1998 concerning the placing of biocidal products on the market ( 12 ).
+
+8\. Transport by road, rail, inland waterways, sea or air of dangerous goods or polluting goods as defined either in Annex A to Council Directive 94/55/EC of 21 November 1994 on the approximation of the laws of the Member States with regard to the transport of dangerous goods by road ( 13 ) or in the Annex to Council Directive 96/49/EC of 23 July 1996 on the approximation of the laws of the Member States with regard to the transport of dangerous goods by rail ( 14 ) or as defined in Council Directive 93/75/EEC of 13 September 1993 concerning minimum requirements for vessels bound for or leaving Community ports and carrying dangerous or polluting goods ( 15 ).
+
+9\. The operation of installations subject to authorisation in pursuance of Council Directive 84/360/EEC of 28 June 1984 on the combating of air pollution from industrial plants ( 16 ) in relation to the release into air of any of the polluting substances covered by the aforementioned Directive.
+
+10\. Any contained use, including transport, involving genetically modified micro-organisms as defined by Council Directive 90/219/EEC of 23 April 1990 on the contained use of genetically modified micro-organisms ( 17 ).
+
+11\. Any deliberate release into the environment, transport and placing on the market of genetically modified organisms as defined by Directive 2001/18/EC of the European Parliament and of the Council ( 18 ).
+
+12\. Transboundary shipment of waste within, into or out of the European Union, requiring an authorisation or prohibited in the meaning of Council Regulation (EEC) No 259/93 of 1 February 1993 on the supervision and control of shipments of waste within, into and out of the European Community ( 19 ).
+
+13\. The management of extractive waste pursuant to Directive 2006/21/EC of the European Parliament and of the Council of 15 March 2006 on the management of waste from extractive industries ( 20 ).
+
+14\. The operation of storage sites pursuant to Directive 2009/31/EC of the European Parliament and of the Council of 23 April 2009 on the geological storage of carbon dioxide ( 21 ).
+
+## ANNEX IV — INTERNATIONAL CONVENTIONS REFERRED TO IN ARTICLE 4(2)
+
+(a) the International Convention of 27 November 1992 on Civil Liability for Oil Pollution Damage;
+
+(b) the International Convention of 27 November 1992 on the Establishment of an International Fund for Compensation for Oil Pollution Damage;
+
+(c) the International Convention of 23 March 2001 on Civil Liability for Bunker Oil Pollution Damage;
+
+(d) the International Convention of 3 May 1996 on Liability and Compensation for Damage in Connection with the Carriage of Hazardous and Noxious Substances by Sea;
+
+(e) the Convention of 10 October 1989 on Civil Liability for Damage Caused during Carriage of Dangerous Goods by Road, Rail and Inland Navigation Vessels.
+
+## ANNEX V — INTERNATIONAL INSTRUMENTS REFERRED TO IN ARTICLE 4(4)
+
+(a) the Paris Convention of 29 July 1960 on Third Party Liability in the Field of Nuclear Energy and the Brussels Supplementary Convention of 31 January 1963;
+
+(b) the Vienna Convention of 21 May 1963 on Civil Liability for Nuclear Damage;
+
+(c) the Convention of 12 September 1997 on Supplementary Compensation for Nuclear Damage;
+
+(d) the Joint Protocol of 21 September 1988 relating to the Application of the Vienna Convention and the Paris Convention;
+
+(e) the Brussels Convention of 17 December 1971 relating to Civil Liability in the Field of Maritime Carriage of Nuclear Material.
+
+## ANNEX VI
+
+**INFORMATION AND DATA REFERRED TO IN ARTICLE 18(1)**
+
+The information referred to in Article 18(1) shall cover cases of environmental damage under this Directive, with the following information and data for each instance:
+
+1\. Type of environmental damage, date of occurrence and/or discovery of the damage. The type of environmental damage shall be classified as damage to protected species and natural habitats, water and land as referred to in point 1 of Article 2.
+
+2\. Description of the activity in accordance with Annex III.
+
+Member States shall include any other relevant information on the experience gained from the implementation of this Directive.
+
+( 1 ) Directive 2003/4/EC of the European Parliament and of the Council of 28 January 2003 on public access to environmental information and repealing Council Directive 90/313/EEC (OJ L 41, 14.2.2003, p. 26).
+
+( 2 ) OJ L 257, 10.10.1996, p. 26. Directive as last amended by Regulation (EC) No 1882/2003.
+
+( 3 ) OJ L 194, 25.7.1975, p. 39. Directive as last amended by Regulation (EC) No 1882/2003.
+
+( 4 ) OJ L 377, 31.12.1991, p. 20. Directive as amended by Directive 94/31/EC (OJ L 168, 2.7.1994, p. 28).
+
+( 5 ) OJ L 182, 16.7.1999, p. 1 Directive as amended by Regulation (EC) No 1882/2003.
+
+( 6 ) OJ L 332, 28.12.2000, p. 91.
+
+( 7 ) OJ L 129, 18.5.1976, p. 23. Directive as last amended by Directive 2000/60/EC.
+
+( 8 ) OJ L 20, 26.1.1980, p. 43. Directive as amended by Directive 91/692/EEC (OJ L 377, 31.12.1991, p. 48).
+
+( 9 ) OJ 196, 16.8.1967, p. 1. Directive as last amended by Regulation (EC) No 807/2003.
+
+( 10 ) OJ L 200, 30.7.1999, p. 1. Directive as last amended by Regulation (EC) No 1882/2003.
+
+( 11 ) OJ L 230, 19.8.1991, p. 1. Directive as last amended by Regulation (EC) No 806/2003 (OJ L 122, 16.5.2003, p. 1).
+
+( 12 ) OJ L 123, 24.4.1998, p. 1. Directive as amended by Regulation (EC) No 1882/2003.
+
+( 13 ) OJ L 319, 12.12.1994, p. 7. Directive as last amended by Commission Directive 2003/28/EC (OJ L 90, 8.4.2003, p. 45).
+
+( 14 ) OJ L 235, 17.9.1996, p. 25. Directive as last amended by Commission Directive 2003/29/EC (OJ L 90, 8.4.2003, p. 47).
+
+( 15 ) OJ L 247, 5.10.1993, p. 19. Directive as last amended by Directive 2002/84/EC of the European Parliament and of the Council (OJ L 324, 29.11.2002, p. 53).
+
+( 16 ) OJ L 188, 16.7.1984, p. 20. Directive as amended by Directive 91/692/EEC (OJ L 377, 31.12.1991, p. 48).
+
+( 17 ) OJ L 117, 8.5.1990, p. 1. Directive as last amended by Regulation (EC) No 1882/2003.
+
+( 18 ) OJ L 106, 17.4.2001, p. 1. Directive as last amended by Regulation (EC) No 1830/2003 (OJ L 268, 18.10.2003, p. 24).
+
+( 19 ) OJ L 30, 6.2.1993, p. 1. Regulation as last amended by Commission Regulation (EC) No 2557/2001 (OJ L 349, 31.12.2001, p. 1).
+
+( 20 ) OJ L 102, 11.4.2006, p. 15.
+
+( 21 ) OJ L 140, 5.6.2009, p. 114.

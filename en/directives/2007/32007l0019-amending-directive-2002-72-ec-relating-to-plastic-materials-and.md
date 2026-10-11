@@ -1,0 +1,636 @@
+---
+title: "Commission Directive 2007/19/EC of 30 March 2007 amending Directive 2002/72/EC relating to plastic materials and articles intended to come into contact with food and Council Directive 85/572/EEC laying down the list of simulants to be used for testing migration of constituents of plastic materials and articles intended to come into contact with foodstuffs (Text with EEA relevance )"
+identifier: "32007L0019"
+eli: "http://data.europa.eu/eli/dir/2007/19/oj"
+type: directive
+jurisdiction: eu
+language: en
+date: 2007-03-30
+entry_into_force: 2007-07-05
+last_amended: 2007-04-20
+consolidated_version: "02007L0019-20070420"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02007L0019-20070420"
+retrieved: 2026-10-11
+---
+
+# Commission Directive 2007/19/EC of 30 March 2007 amending Directive 2002/72/EC relating to plastic materials and articles intended to come into contact with food and Council Directive 85/572/EEC laying down the list of simulants to be used for testing migration of constituents of plastic materials and articles intended to come into contact with foodstuffs (Text with EEA relevance )
+
+**COMMISSION DIRECTIVE 2007/19/EC**
+
+**of 2 April 2007**
+
+**amending Directive 2002/72/EC relating to plastic materials and articles intended to come into contact with food and Council Directive 85/572/EEC laying down the list of simulants to be used for testing migration of constituents of plastic materials and articles intended to come into contact with foodstuffs**
+
+**(Text with EEA relevance)**
+
+C1
+
+**COMMISSION DIRECTIVE 2007/19/EC**
+
+**of 2 April 2007**
+
+**amending Directive 2002/72/EC relating to plastic materials and articles intended to come into contact with food and Council Directive 85/572/EEC laying down the list of simulants to be used for testing migration of constituents of plastic materials and articles intended to come into contact with foodstuffs**
+
+**(Text with EEA relevance)**
+
+THE COMMISSION OF THE EUROPEAN COMMUNITIES,
+
+Having regard to the Treaty establishing the European Community,
+
+Having regard to Regulation (EC) No 1935/2004 of the European Parliament and of the Council of 27 October 2004 on materials and articles intended to come into contact with food and repealing Directives 80/590/EEC and 89/109/EEC ( 1 ), and in particular Article 5(2) thereof,
+
+After consulting the European Food Safety Authority (the Authority),
+
+Whereas:
+
+(1) Commission Directive 2002/72/EC ( 2 ) is a specific Directive within the meaning of the framework Regulation (EC) No 1935/2004, harmonising the rules for the plastics materials and articles intended to come into contact with food.
+
+(2) Directive 2002/72/EC establishes a list of authorised substances for the manufacture of those materials and articles, in particular additives and monomers, the restrictions on their use, rules on labelling as well as the information to be given to consumers or to food business operators concerning correct use of those materials and articles.
+
+(3) Information provided to the Commission demonstrates that the plasticizers used e.g. in polyvinyl chloride (PVC) gaskets in lids may migrate into fatty foods in quantities that could endanger human health or bring about an unacceptable change in the composition of the foods. It should therefore be made clear that, even if they are part of e.g. metal lids, gaskets fall under the scope of Directive 2002/72/EC. At the same time, specific rules should be laid down as regard the use of additives for the manufacture of those gaskets. It is appropriate to take account of the need of lid manufacturers to have sufficient time to adapt to some of the provisions of Directive 2002/72/EC. In particular, taking into account the time needed to prepare an application for the evaluation of specific additives used for the manufacture of gaskets of lids, it is not yet possible to establish a timetable for their evaluation. Therefore, in a first stage, the positive list of authorised additives that will be adopted in the future for plastic materials and articles should not apply for the manufacture of gaskets in lids, so that the use of other additives will remain possible, subject to national law. This situation should be reassessed at a later stage.
+
+(4) On the basis of new information related to the risk assessment of substances evaluated by the Authority and the need to adapt to technical progress the existing rules for calculating migration, Directive 2002/72/EC should be updated. For reasons of clarity definitions of technical terms used should be introduced.
+
+(5) The rules for overall migration and specific migration should be based on the same principle and should therefore, be aligned.
+
+(6) Specific rules should be introduced to improve the protection of infants, since infants ingest more food in proportion to their body weight than adults.
+
+(7) The verification of compliance with the specific migration limits (SML) in simulant D for additives listed in Annex III, Section B, to Directive 2002/72/EC should be applied at the same time as the other provisions for calculating migration introduced in this Directive for better estimation of the real exposure of the consumer to those additives. Therefore, the deadline for application of the abovementioned verification of compliance should be extended.
+
+(8) The status of additives acting as polymerisation production aids (PPA) should be clarified. The PPA which also function as additives are to be evaluated and included in the future positive list of additives. Some of them are already included in the current incomplete list of additives. As regards additives which exclusively act as PPA and are therefore not intended to remain in the finished article, it should be made clear that their use will remain possible, subject to national law, even after the adoption of the future positive list of additives. That situation should be reassessed at a later stage.
+
+(9) Studies have shown that azodicarbonamide decomposes into semicarbazide during high temperature processing. In 2003 the Authority was asked to gather data and to assess the possible risks posed by semicarbazide in food. Until that information was obtained and in accordance to Article 7 of Regulation (EC) No 178/2002 of the European Parliament and of the Council of 28 January 2002 laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety ( 3 ), the use of azodicarbonamide in plastic materials and articles was suspended by Commission Directive 2004/1/EC ( 4 ). In its opinion of 21 June 2005, the Authority ( 5 ) concluded that carcinogenicity of semicarbazide is not of concern for human health at the concentrations encountered in food, if the source of semicarbazide related to azodicarbonamide is eliminated. Therefore it is appropriate to maintain the prohibition of use of azodicarbonamide in plastic materials and article.
+
+(10) The concept of the plastic functional barrier, that is a barrier within plastic materials or articles preventing or reducing the migration from behind this barrier into the food should be introduced. Only glass and some metals may ensure complete blockage of migration. Plastics may be partial functional barriers with properties and effectiveness to be assessed and may help reducing the migration of a substance below a SML or a limit of detection. Behind a plastic functional barrier, non-authorised substances may be used, provided they fulfil certain criteria and their migration remains below a given detection limit. Taking into account foods for infants and other particularly susceptible persons as well as the difficulties of this type of analysis affected by a large analytical tolerance, a maximum level of 0,01 mg/kg in food or a food simulant should be established for the migration of a non-authorised substance through a plastic functional barrier.
+
+(11) Article 9 of Directive 2002/72/EC provides that materials and articles must be accompanied by a written declaration of compliance attesting that they comply with the rules applicable to them. In accordance with Article 5(1)(h) and (i) of Regulation (EC) No 1935/2004, to strengthen the co-ordination and responsibility of the suppliers at each stage of manufacture, including that of the starting substances, the responsible persons should document the compliance with the relevant rules in a declaration of compliance which is made available to his customer. Further, at each stage of manufacture, supporting documentation, substantiating the declaration of compliance, should be kept available for the enforcement authorities.
+
+(12) Article 17(1) of Regulation (EC) No 178/2002 requires the food business operator to verify that foods are compliant with the rules applicable to them. To this end subject to the requirement of confidentiality, food business operators should be given access to the relevant information to enable them to ensure that the migration from the materials and articles to food complies with the specifications and restrictions laid down in food legislation.
+
+(13) Compliance with Article 3 of Regulation (EC) No 1935/2004 for substances non-listed in Annexes II and III of Directive 2002/72/EC such as impurities or reaction products referred to in point 3 of Annex II and point 3 of Annex III to Directive 2002/72/EC should be assessed by the relevant business operator in accordance with internationally recognised scientific principles.
+
+(14) For a more adequate estimation of exposure of the consumer, a new reduction factor should be introduced in migration testing, called Fat Reduction Factor (FRF). Until now, the exposure to substances migrating predominantly into fatty food (lipophilic substances) was based on the general assumption that a person ingests daily 1 kg of food. However, a person ingests at most 200 g of fat on a daily basis. This should be taken into consideration through the correction of the specific migration by the FRF applicable to lipophilic substances in accordance with the opinion of the Scientific Committee on Food (SCF) ( 6 ) and the opinion of the Authority ( 7 ).
+
+(15) On the basis of new information related to the risk assessment of monomers and other starting substances evaluated by the Authority ( 8 ), certain monomers provisionally admitted at national level as well as new monomers should be included in the Community list of authorised substances. For others, the restrictions and/or specifications already established at Community level should be amended on the basis of the new information available.
+
+(16) The incomplete list of additives which may be used in the manufacture of plastic materials and articles should be amended so as to include other additives evaluated by the Authority. For certain additives, the restrictions and/or specifications already established at Community level should be amended on the basis of those new evaluations available.
+
+(17) Commission Directive 2005/79/EC ( 9 ) introduced the changes in the restrictions and/or specifications for substance Ref. No 35760 in section A instead of section B of Annex III to Directive 2002/72/EC and for substance Ref. No 67180 the changes were introduced in section B instead of section A of that Annex. In addition, for substances Ref. No 43480, 45200, 81760 and 88640 the indication to the restrictions and/or specifications in Annex III to Directive 2002/72/EC is ambiguous. Therefore, for legal certainty, there is a need to place substances Ref. No 35760 and 67180 in the appropriate section of the list of additives and re-introduce the restrictions and specifications for substances Ref. No 43480, 45200, 81760 and 88640.
+
+(18) It has been shown that distilled water, which is used at present is not an adequate simulant for some milk products. It should be replaced by 50 % ethanol, which better simulates their fatty character.
+
+(19) Epoxidised soybean oil (ESBO) is used as plasticizer in gaskets. Taking into account the opinion of the Authority adopted on 16 March 2006 ( 10 ) concerning exposure of adults to ESBO used in food contact materials, it is appropriate to set a shorter deadline for the compliance of gaskets of lids with the restrictions of ESBO and its substitutes set out in Directive 2002/72/EC. The same deadline should apply as regards the prohibition of use of azodicarbonamide.
+
+(20) Certain phthalates are used as plasticizers in gaskets and in other plastic applications. In its opinions on certain phthalates ( 11 ) published in September 2005 the Authority set tolerable daily intakes (TDI) for certain phthalates and estimated that the exposure of humans to certain phthalates is in the same range as the TDI. Therefore, it is appropriate to set a shorter deadline for the compliance of plastic materials and articles with the restrictions set in Directive 2002/72/EC for those substances.
+
+(21) Council Directive 85/572/EEC ( 12 ) and Directive 2002/72/EC should therefore be amended accordingly.
+
+(22) The measures provided for in this Directive are in accordance with the opinion of the Standing Committee on the Food Chain and Animal Health,
+
+HAS ADOPTED THIS DIRECTIVE:
+
+### Article 1
+
+Directive 2002/72/EC is amended as follows:
+
+1\. Article 1 is amended as follows:
+
+(a) paragraph 2 is replaced by the following:
+
+‘2. This Directive shall apply to the following materials and articles which, in the finished product state, are intended to come into contact or are brought into contact with foodstuffs and are intended for that purpose (hereafter referred to as “plastic materials and articles”):
+
+(a) materials and articles and parts thereof consisting exclusively of plastics;
+
+(b) plastic multi-layer materials and articles;
+
+(c) plastic layers or plastic coatings, forming gaskets in lids that together are composed of two or more layers of different types of materials.’
+
+(b) paragraph 4 is replaced by the following:
+
+‘4. Without prejudice to paragraph 2(c), this Directive shall not apply to materials and articles composed of two or more layers, one or more of which does not consist exclusively of plastics, even if the one intended to come into direct contact with foodstuffs does consist exclusively of plastics.’
+
+2\. The following Article 1a is inserted:
+
+‘Article 1a
+
+For the purpose of this Directive the following definitions shall apply:
+
+(a) “plastic multi-layer material or article” means a plastic material or article composed of two or more layers of materials, each consisting exclusively of plastics, which are bound together by means of adhesives or by other means;
+
+(b) “plastic functional barrier” means a barrier consisting of one or more layers of plastics which ensures that the finished material or article complies with Article 3 of Regulation (EC) No 1935/2004 of the European Parliament and of the Council ( 13 ) and with this Directive;
+
+(c) “non-fatty foods” means foods for which in migration testing simulants other than simulant D are laid down in Directive 85/572/EEC.
+
+3\. Article 2 is replaced by the following:
+
+‘Article 2
+
+1\. Plastic materials and articles shall not transfer their constituents to foodstuffs in quantities exceeding 60 milligrams of the constituents released per kilogram of foodstuff or food simulant (mg/kg) (overall migration limit).
+
+However, this limit shall be 10 milligrams per square decimetre of surface area of material or article (mg/dm2) in the case of the following:
+
+(a) articles which are containers or are comparable to containers or which can be filled, with a capacity of less than 500 millilitres (ml) or more than 10 litres (l);
+
+(b) sheet, film or other material or articles which cannot be filled or for which it is impracticable to estimate the relationship between the surface area of such material or article and the quantity of food in contact therewith.
+
+2\. For plastic materials and articles intended to be brought into contact with or already in contact with food intended for infants and young children, as defined by Commission Directives 91/321/EEC ( 14 ) and 96/5/EC ( 15 ), the overall migration limit shall always be 60 mg/kg.
+
+4\. In Article 4(2), the date of ‘1 July 2006’ is replaced by ‘1 May 2008’.
+
+5\. The following Articles 4c, 4d and 4e are inserted:
+
+‘Article 4c
+
+For the use of additives for the manufacture of plastic layers or plastic coatings in lids referred to in Article 1(2)(c), the following rules shall apply:
+
+(a) for the additives listed in Annex III, the restrictions and/or specifications on their use set out in that Annex shall apply, without prejudice to Article 4(2);
+
+(b) by way of derogation from Article 4(1) and Article 4a(1) and (5), additives not listed in Annex III may continue to be used, until further review, subject to national law;
+
+(c) by way of derogation from Article 4b Member States may continue to authorise additives for the manufacture of plastic layers or plastic coatings in lids referred to in Article 1(2)(c) at national level.
+
+Article 4d
+
+For the use of additives exclusively acting as polymerisation production aids which are not intended to remain in the finished article (hereinafter PPAs), for the manufacture of plastic materials and articles, the following rules shall apply:
+
+(a) for the PPAs listed in Annex III, the restrictions and/or specifications on their use set out in Annex III shall apply, without prejudice to Article 4(2);
+
+(b) by way of derogation from Article 4(1) and Article 4a(1) and (5), the PPAs not listed in Annex III may continue to be used, until further review, subject to national law;
+
+(c) by way of derogation from Article 4b, Member States may continue to authorise PPAs at national level.
+
+Article 4e
+
+The use of azodicarbonamide, Ref. No 36640 (CAS No 000123-77-3) in the manufacture of plastic materials and articles is prohibited.’
+
+6\. In Article 5a paragraph 2 is replaced by the following:
+
+‘2. At the marketing stages other than the retail stages, plastic materials and articles which are intended to be placed in contact with foodstuffs and which contain additives referred to in paragraph 1 shall be accompanied by a written declaration containing the information referred to in Article 9.’
+
+7\. In Article 7 the following paragraph is added:
+
+‘For plastic materials and articles intended to be brought into contact with or already in contact with food for infants and young children, as defined by Directives 91/321/EEC and 96/5/EC, the SMLs shall always be applied as mg/kg.’
+
+8\. The following Article 7a is inserted:
+
+‘Article 7a
+
+1\. In a plastic multi-layer material or article, the composition of each plastic layer shall comply with this Directive.
+
+2\. By way of derogation from paragraph 1, a layer which is not in direct contact with food and is separated from the food by a plastic functional barrier, may, provided that the finished material or article complies with the specific and overall migration limits specified in this Directive:
+
+(a) not comply with the restrictions and specifications set in this Directive,
+
+(b) be manufactured with substances other than those included in this Directive or in the national lists concerning the plastic materials and articles intended to come into contact with food.
+
+3\. The migration of the substances referred to in paragraph 2(b) into food or simulant shall not exceed 0,01 mg/kg, measured with statistical certainty by a method of analysis in accordance with Article 11 of Regulation (EC) No 882/2004 of the European Parliament and of the Council ( 16 ). This limit shall always be expressed as concentration in foods or simulants. It shall apply to a group of compounds, if they are structurally and toxicologically related, in particular isomers or compounds with the same relevant functional group, and shall include possible set-off transfer.
+
+4\. The substances referred to in paragraph 2(b) shall not belong to either of the following categories:
+
+(a) substances classified as proved or suspect “carcinogenic”, “mutagenic” or “toxic to reproduction” substances in Annex I to Council Directive 67/548/EEC ( 17 );
+
+(b) substances classified under the self-responsibility criteria as ‘carcinogenic’, ‘mutagenic’ or ‘toxic to reproduction’ according to the rules of Annex VI to Directive 67/548/EEC.
+
+9\. In Article 8 the following paragraph 5 is added:
+
+‘5. Notwithstanding paragraph 1, for phthalates (Ref. No 74640, 74880, 74560, 75100, 75105) referred to in Annex III Section B, the verification of the SML shall only be performed in food simulants. However, verification of the SML may be performed in food where the food has not already been in contact with the material or article and is pre-tested for the phthalate and the level is not statistically significant or greater than or equal to the limit of quantification.’
+
+10\. Article 9 is replaced by the following:
+
+‘Article 9
+
+1\. At the marketing stages other than the retail stage, plastic materials and articles as well as the substances intended for the manufacturing of those materials and articles, shall be accompanied by a written declaration in accordance with Article 16 of Regulation (EC) No 1935/2004.
+
+2\. The declaration referred to in paragraph 1 shall be issued by the business operator and shall contain the information laid down in Annex VIa.
+
+3\. Appropriate documentation to demonstrate that the materials and articles as well as the substances intended for the manufacturing of those materials and articles comply with the requirements of this Directive shall be made available by the business operator to the national competent authorities on request. That documentation shall contain the conditions and results of testing, calculations, other analysis, and evidence on the safety or reasoning demonstrating compliance.’
+
+11\. Annexes I, II and III are amended in accordance with Annexes I, II and III to this Directive.
+
+12\. The text in Annex IV to this Directive is inserted as Annex IVa.
+
+13\. Annexes V and VI are amended in accordance with Annexes V and VI to this Directive.
+
+14\. The text in Annex VII to this Directive is inserted as Annex VIa.
+
+### Article 2
+
+The Annex to Directive 85/572/EEC is amended in accordance with Annex VIII to this Directive.
+
+### Article 3
+
+1\. Member States shall adopt and publish, by 1 May 2008 at the latest, the laws, regulations and administrative provisions necessary to comply with this Directive. They shall forthwith communicate to the Commission the text of those provisions and a correlation table between those provisions and this Directive.
+
+When Member States adopt those provisions, they shall contain a reference to this Directive or be accompanied by such a reference on the occasion of their official publication. Member States shall determine how such reference is to be made.
+
+They shall apply those provisions in such a way as to:
+
+(a) permit the trade in and use of plastic materials and articles intended to come into contact with food and complying with Directive 2002/72/EC, as amended by this Directive, from 1 May 2008;
+
+(b) prohibit the manufacture and importation into the Community of lids containing a gasket which do not comply with restrictions and specifications for Ref. No 30340; 30401; 36640; 56800; 76815; 76866; 88640 and 93760 laid down in Directive 2002/72/EC as amended by this Directive from 1 July 2008;
+
+(c) prohibit the manufacture and importation into the Community of plastic materials and articles intended to come into contact with food which do not comply with restrictions and specifications for phthalates Ref. No 74560; 74640; 74880; 75100; 75105 laid down in Directive 2002/72/EC as amended by this Directive from 1 July 2008;
+
+(d) without prejudice to point (b) and (c), prohibit the manufacture and importation into the Community of plastic materials and articles intended to come into contact with food which do not comply with Directive 2002/72/EC as amended by this Directive from 1 May 2009.
+
+2\. Member States shall communicate to the Commission the text of the main provisions of national law which they adopt in the field covered by this Directive.
+
+### Article 4
+
+This Directive shall enter into force on the 20th day following its publication in the Official Journal of the European Union.
+
+### Article 5
+
+This Directive is addressed to the Member States.
+
+## ANNEX I
+
+Annex I to Directive 2002/72/EC is amended as follows:
+
+(1) The following points 2a and 2b are inserted:
+
+‘2a. Correction of specific migration in foods containing more than 20 % fat by the Fat Reduction Factor (FRF):
+
+“Fat Reduction Factor” (FRF) is a factor between 1 and 5 by which measured migration of lipophilic substances into a fatty food or simulant D and its substitutes shall be divided before comparison with the specific migration limits.
+
+**General rules**
+
+Substances considered “lipophilic” for the application of the FRF are listed in Annex IVa. The specific migration of lipophilic substances in mg/kg (M) shall be corrected by the FRF variable between 1 and 5 (MFRF). The following equations shall be applied before comparison with the legal limit:
+
+MFRF = M/FRF
+
+and
+
+FRF = (g fat in food/kg of food)/200 = (% fat × 5)/100
+
+This correction by the FRF is not applicable in the following cases:
+
+(a) when the material or article is or is intended to be brought in contact with food containing less than 20 % fat;
+
+(b) when the material or article is or is intended to be brought in contact with food intended for infants and young children as defined by Directives 91/321/EEC and 96/5/EC;
+
+(c) for substances in the Community lists in Annexes II and III having a restriction in column (4) SML= ND or non-listed substances used behind a plastic functional barrier with a migration limit of 0,01 mg/kg;
+
+(d) for materials and articles for which it is impracticable to estimate the relationship between the surface area and the quantity of food in contact therewith, for example due to their shape or use, and the migration is calculated using the conventional surface area/volume conversion factor of 6 dm2/kg.
+
+This correction by the FRF is applicable under certain conditions in the following case:
+
+For containers and other fillable articles with a capacity of less than 500 millilitres or more than 10 litres and for sheets and films in contact with foods containing more than 20 % fat, either the migration is calculated as concentration in the food or food simulant (mg/kg) and corrected by the FRF, or it is re-calculated as mg/dm2 without applying the FRF. If one of the two values is below the SML, the material or article shall be considered in compliance.
+
+The application of the FRF shall not lead to a specific migration exceeding the overall migration limit.
+
+2b. Correction of specific migration in food simulant D:
+
+The specific migration of lipophilic substances into simulant D and its substitutes shall be corrected by the following factors:
+
+(a) the reduction factor referred to in point 3 of the Annex to Directive 85/572/EEC, hereinafter termed simulant D Reduction Factor (DRF).
+
+The DRF may not be applicable when the specific migration into simulant D is higher than 80 % of the content of the substance in the finished material or article (for example thin films). Scientific or experimental evidence (for example testing with the most critical foods) is required to determine whether the DRF is applicable. It is also not applicable for substances in the Community lists having a restriction in column (4) SML = ND or non-listed substances used behind a plastic functional barrier with a migration limit of 0,01 mg/kg.
+
+(b) the FRF is applicable to migration into simulants, provided the fat content of the food to be packed is known and the requirements mentioned in point 2a are fulfilled.
+
+(c) the Total Reduction Factor (TRF) is the factor, with a maximum value of 5, by which a measured specific migration into simulant D or a substitute shall be divided before comparison with the legal limit. It is obtained by multiplying the DRF by the FRF, when both factors are applicable.’
+
+(2) The following point 5a is inserted:
+
+‘5a. Caps, lids, gaskets, stoppers and similar sealing articles:
+
+(a) If the intended use is known, such articles shall be tested by applying them to the containers for which they are intended under conditions of closure corresponding to the normal or foreseeable use. It is assumed that these articles are in contact with a quantity of food filling the container. The results shall be expressed in mg/kg or mg/dm2 in accordance to the rules of Articles 2 and 7 taking into account the whole contact surface of sealing article and container.
+
+(b) If the intended use of these articles is unknown, such articles shall be tested in a separate test and the result be expressed in mg/article. The value obtained shall be added, if appropriate, to the quantity migrated from the container for which it is intended to be used.’
+
+## ANNEX II
+
+Annex II to Directive 2002/72/EC is amended as follows:
+
+(1) Section A is amended as follows:
+
+(a) the following monomers and other starting substances are inserted, in the appropriate numerical order:
+
+| Ref. No | CAS No | Name | Restrictions and/or specifications |
+| --- | --- | --- | --- |
+| (1) | (2) | (3) | (4) |
+| ‘15267 | 000080-08-0 | 4,4′-Diaminodiphenyl sulphone | SML = 5 mg/kg |
+| 21970 | 000923-02-4 | N-Methylolmethacrylamide | SML = 0,05 mg/kg |
+| 24886 | 046728-75-0 | 5-Sulphoisophthalic acid, monolithium salt | SML = 5 mg/kg and for lithium SML(T) = 0,6 mg/kg (8) (expressed as lithium)’ |
+
+(b) for the following monomers and other starting substances, the content of the column 4 ‘Restrictions and/or specifications’ is replaced by the following:
+
+| Ref. No | CAS No | Name | Restrictions and/or specifications |
+| --- | --- | --- | --- |
+| (1) | (2) | (3) | (4) |
+| ‘12786 | 000919-30-2 | 3-Aminopropyltriethoxysilane | Residual extractable content of 3-aminopropyltriethoxysilane to be less than 3 mg/kg filler when used for the reactive surface treatment of inorganic fillers and SML = 0,05 mg/kg when used for the surface treatment of materials and articles. |
+| 16450 | 000646-06-0 | 1,3-Dioxolane | SML = 5 mg/kg |
+| 25900 | 000110-88-3 | Trioxane | SML = 5 mg/kg’ |
+
+(2) In section B, the following monomers and other starting substances are deleted:
+
+| Ref. No | CAS No | Name | Restrictions and/or specifications |
+| --- | --- | --- | --- |
+| (1) | (2) | (3) | (4) |
+| ‘21970 | 000923-02-4 | N-Methylolmethacrylamide’ |  |
+
+## ANNEX III
+
+Annex III to Directive 2002/72/EC is amended as follows:
+
+(1) Section A is amended as follows:
+
+(a) the following additives are inserted in the appropriate numerical order:
+
+| Ref. No | CAS No | Name | Restrictions and/or specifications |
+| --- | --- | --- | --- |
+| (1) | (2) | (3) | (4) |
+| ‘38885 | 002725-22-6 | 2,4-Bis(2,4-dimethylphenyl)-6-(2-hydroxy-4-n-octyloxyphenyl)-1,3,5-triazine | SML = 0,05 mg/kg. For aqueous foods only. |
+| 42080 | 001333-86-4 | Carbon black | In compliance with the specifications laid down in Annex V. |
+| 45705 | 166412-78-8 | 1,2-cyclohexanedicarboxylic acid, diisononyl ester |  |
+| 62020 | 007620-77-1 | 12-Hydroxystearic acid, lithium salt | SML(T) = 0,6 mg/kg (8) (expressed as lithium) |
+| 67180 | — | Mixture of (50 % w/w) phthalic acid n-decyl n-octyl ester, (25 % w/w) phthalic acid di-n-decyl ester, (25 % w/w) phthalic acid di-n- octyl ester. | SML = 5 mg/kg (1) |
+| 71960 | 003825-26-1 | Perfluorooctanoic acid, ammonium salt | Only to be used in repeated use articles, sintered at high temperatures. |
+| 74560 | 000085-68-7 | Phthalic acid, benzyl butyl ester | To be used only as: (a) plasticizer in repeated use materials and articles; (b) plasticizer in single-use materials and articles contacting non-fatty foods except for infant formulae and follow-on formulae as defined by Directive 91/321/EEC and products according to Directive 96/5/EC; (c) technical support agent in concentrations up to 0,1 % in the final product. SML = 30 mg/kg food simulant. |
+| 74640 | 000117-81-7 | Phthalic acid, bis (2-ethylhexyl) ester | To be used only as: (a) plasticizer in repeated use materials and articles contacting non-fatty foods; (b) technical support agent in concentrations up to 0,1 % in the final product. SML = 1,5 mg/kg food simulant. |
+| 74880 | 000084-74-2 | Phthalic acid, dibutyl ester | To be used only as: (a) plasticizer in repeated use materials and articles contacting non-fatty foods; (b) technical support agent in polyolefines in concentrations up to 0,05 % in the final product. SML = 0,3 mg/kg food simulant. |
+| 75100 | 068515-48-0 028553-12-0 | Phthalic acid, diesters with primary, saturated C8-C10 branched alcohols, more than 60 % C9. | To be used only as: (a) plasticizer in repeated use materials and articles; (b) plasticizer in single-use materials and articles contacting non-fatty foods except for infant formulae and follow-on formulae as defined by Directive 91/321/EEC and products according to Directive 96/5/EC; (c) technical support agent in concentrations up to 0,1 % in the final product. SML(T) = 9 mg/kg food simulant (42). |
+| 75105 | 068515-49-1 026761-40-0 | Phthalic acid, diesters with primary, saturated C9-C11 alcohols more than 90 % C10 | To be used only as: (a) plasticizer in repeated use materials and articles; (b) plasticizer in single-use materials and articles contacting non-fatty foods except for infant formulae and follow-on formulae as defined by Directive 91/321/EEC and products according to Directive 96/5/EC; (c) technical support agent in concentrations up to 0,1 % in the final product. SML(T) = 9 mg/kg food simulant (42). |
+| 79920 | 009003-11-6 106392-12-5 | Poly(ethylene propylene) glycol |  |
+| 81500 | 9003-39-8 | Polyvinylpyrrolidone | In compliance with the specifications laid down in Annex V. |
+| 93760 | 000077-90-7 | Tri-n-butyl acetyl citrate |  |
+| 95020 | 6846-50-0 | 2,2,4-Trimethyl-1,3-pentanediol diisobutyrate | SML = 5 mg/kg food. To be used in single-use gloves only. |
+| 95420 | 745070-61-5 | 1,3,5-tris (2,2-dimethylpropanamido)benzene | SML = 0,05 mg/kg food.’ |
+
+(b) for the following additives, the entries in columns 3 ‘Name’ and 4 ‘Restrictions and/or specifications’ are replaced by the following:
+
+| Ref. No | CAS No | Name | Restrictions and/or specifications |
+| --- | --- | --- | --- |
+| (1) | (2) | (3) | (4) |
+| ‘43480 | 064365-11-3 | Charcoal, activated | In compliance with the specifications laid down in Annex V. |
+| 45200 | 001335-23-5 | Copper iodide | SML(T) = 5 mg/kg (7) (expressed as copper) and SML = 1 mg/kg (11) (expressed as iodine) |
+| 76845 | 031831-53-5 | Polyester of 1,4-butanediol with caprolactone | The restriction for Ref. No 14260 and Ref. No 13720 shall be respected. In compliance with the specifications laid down in Annex V. |
+| 81760 | — | Powders, flakes and fibres of brass, bronze, copper, stainless steel, tin and alloys of copper, tin and iron | SML(T) = 5 mg/kg (7) (expressed as copper); SML = 48 mg/kg (expressed as iron) |
+| 88640 | 008013-07-8 | Soybean oil, epoxidised | SML = 60 mg/kg. However in the case of PVC gaskets used to seal glass jars containing infant formulae and follow-on formulae as defined by Directive 91/321/EEC or containing processed cereal-based foods and baby foods for infants and young children as defined by Directive 96/5/EC, the SML is lowered to 30 mg/kg. In compliance with the specifications laid down in Annex V.’ |
+
+(c) the following additive is deleted:
+
+| Ref. No | CAS No | Name | Restrictions and/or specifications |
+| --- | --- | --- | --- |
+| (1) | (2) | (3) | (4) |
+| ‘35760 | 001309-64-4 | Antimony trioxide | SML = 0,04 mg/kg (39) (expressed as antimony).’ |
+
+(2) Section B is amended as follows:
+
+(a) the following additives are inserted, in the appropriate numerical order:
+
+| Ref. No | CAS No | Name | Restrictions and/or specifications |
+| --- | --- | --- | --- |
+| (1) | (2) | (3) | (4) |
+| ‘35760 | 001309-64-4 | antimony trioxide | SML = 0,04 mg/kg (39) (expressed as antimony) |
+| 47500 | 153250-52-3 | N,N′-Dicyclohexyl-2,6-naphthalene dicarboxamide | SML = 5 mg/kg. |
+| 72081/10 | — | Petroleum hydrocarbon resins (hydrogenated) | SML = 5 mg/kg (1) and in compliance with the specifications laid down in Annex V |
+| 93970 | — | Tricyclodecanedimethanol bis(hexahydrophthalate) | SML = 0,05 mg/kg.’ |
+
+(b) for the following additives, the entries in columns 3 ‘Name’ and 4 ‘Restrictions and/or specifications’ are replaced by the following:
+
+| Ref. No | CAS No | Name | Restrictions and/or specifications |
+| --- | --- | --- | --- |
+| (1) | (2) | (3) | (4) |
+| ‘47600 | 084030-61-5 | Di-n-dodecyltin bis(isooctyl mercaptoacetate) | SML(T) = 0,05 mg/kg food (41) (as sum of mono-n-dodecyltin tris(isooctyl mercaptoacetate), di-n- dodecyltin bis(isooctyl mercaptoacetate), mono-dodecyltin trichloride and di-dodecyltin dichloride) expressed as the sum of mono- and di-dodecyltin chloride |
+| 67360 | 067649-65-4 | Mono-n-dodecyltin tris(isooctyl mercaptoacetate) | SML(T) = 0,05 mg/kg food (41) (as sum of mono-n-dodecyltin tris(isooctyl mercaptoacetate), di-n- dodecyltin bis(isooctyl mercaptoacetate), mono-dodecyltin trichloride and di-dodecyltin dichloride) expressed as the sum of mono- and di-dodecyltin chloride’ |
+
+(c) The following additives are deleted:
+
+| Ref. No | CAS No | Name | Restrictions and/or specifications |
+| --- | --- | --- | --- |
+| (1) | (2) | (3) | (4) |
+| ‘67180 | — | Mixture of (50 % w/w) phthalic acid n-decyl n-octyl ester, (25 % w/w) phthalic acid di-n-decyl ester, (25 % w/w) phthalic acid di-n- octyl ester. | SML = 5 mg/kg (1) |
+| 76681 | — | Polycyclopentadiene, hydrogenated | SML = 5 mg/kg (1)’ |
+
+## ANNEX IV
+
+### ‘ANNEX IVa
+
+**LIPOPHILIC SUBSTANCES FOR WHICH THE FRF APPLIES**
+
+| Ref. No | CAS No | Name |
+| --- | --- | --- |
+| 31520 | 061167-58-6 | Acrylic acid, 2-tert-butyl-6-(3-tert-butyl-2-hydroxy-5-methylbenzyl)-4-methylphenyl ester |
+| 31530 | 123968-25-2 | Acrylic acid, 2,4-di-tert-pentyl-6-[1-(3,5-di-tert-pentyl-2-hydroxyphenyl)ethyl]phenyl ester |
+| 31920 | 000103-23-1 | Adipic acid, bis(2-ethylhexyl) ester |
+| 38240 | 000119-61-9 | Benzophenone |
+| 38515 | 001533-45-5 | 4,4′-Bis(2-benzoxazolyl)stilbene |
+| 38560 | 007128-64-5 | 2,5-Bis(5-tert-butyl-2-benzoxazolyl)thiophene |
+| 38700 | 063397-60-4 | Bis(2-carbobutoxyethyl)tin-bis(isooctyl mercaptoacetate) |
+| 38800 | 032687-78-8 | N,N′-Bis(3-(3,5-di-tert-butyl-4-hydroxyphenyl)propionyl)hydrazide |
+| 38810 | 080693-00-1 | Bis(2,6-di-tert-butyl-4-methylphenyl)pentaerythritol diphosphite |
+| 38820 | 026741-53-7 | Bis(2,4-di-tert-butylphenyl)pentaerythritol diphosphite |
+| 38840 | 154862-43-8 | Bis(2,4-dicumylphenyl)pentaerythritoldiphosphite |
+| 39060 | 035958-30-6 | 1,1-Bis(2-hydroxy-3,5-di-tert-butylphenyl)ethane |
+| 39925 | 129228-21-3 | 3,3-Bis(methoxymethyl)-2,5-dimethylhexane |
+| 40000 | 000991-84-4 | 2,4-Bis(octylmercapto)-6-(4-hydroxy-3,5-di-tert-butylanilino)-1,3,5-triazine |
+| 40020 | 110553-27-0 | 2,4-Bis(octylthiomethyl)-6-methylphenol |
+| 40800 | 013003-12-8 | 4,4′-Butylidene-bis(6-tert-butyl-3-methylphenyl-ditridecyl phosphite) |
+| 42000 | 063438-80-2 | (2-Carbobutoxyethyl)tin-tris(isooctyl mercaptoacetate) |
+| 45450 | 068610-51-5 | p-Cresol-dicyclopentadiene-isobutylene, copolymer |
+| 45705 | 166412-78-8 | 1,2-cyclohexanedicarboxylic acid, diisononyl ester |
+| 46720 | 004130-42-1 | 2,6-Di-tert-butyl-4-ethylphenol |
+| 47540 | 027458-90-8 | Di-tert-dodecyl disulphide |
+| 47600 | 084030-61-5 | Di-n-dodecyltin bis(isooctyl mercaptoacetate) |
+| 48800 | 000097-23-4 | 2,2′-Dihydroxy-5,5′-dichlorodiphenylmethane |
+| 48880 | 000131-53-3 | 2,2′-Dihydroxy-4-methoxybenzophenone |
+| 49485 | 134701-20-5 | 2,4-Dimethyl-6-(1-methylpentadecyl)-phenol |
+| 49840 | 002500-88-1 | Dioctadecyl disulphide |
+| 51680 | 000102-08-9 | N,N′-Diphenylthiourea |
+| 52320 | 052047-59-3 | 2-(4-Dodecylphenyl)indole |
+| 53200 | 023949-66-8 | 2-Ethoxy-2′-ethyloxanilide |
+| 54300 | 118337-09-0 | 2,2′-Ethylidenebis(4,6-di-tert-butyl phenyl) fluorophosphonite |
+| 59120 | 023128-74-7 | 1,6-Hexamethylene-bis(3-(3,5-di-tert-butyl-4-hydroxyphenyl)propionamide) |
+| 59200 | 035074-77-2 | 1,6-Hexamethylene-bis(3-(3,5-di-tert-butyl–4-hydroxyphenyl)propionate) |
+| 60320 | 070321-86-7 | 2-[2-Hydroxy-3,5-bis(1,1-dimethylbenzyl)phenyl]benzotriazole |
+| 60400 | 003896-11-5 | 2-(2′-Hydroxy-3′-tert-butyl-5′-methylphenyl)-5-chlorobenzotriazole |
+| 60480 | 003864-99-1 | 2-(2′-Hydroxy-3,5′-di-tert-butylphenyl)-5-chlorobenzotriazole |
+| 61280 | 003293-97-8 | 2-Hydroxy-4-n-hexyloxybenzophenone |
+| 61360 | 000131-57-7 | 2-Hydroxy-4-methoxybenzophenone |
+| 61600 | 001843-05-6 | 2-Hydroxy-4-n-octyloxybenzophenone |
+| 66360 | 085209-91-2 | 2,2′-Methylene bis(4,6-di-tert-butylphenyl) sodium phosphate |
+| 66400 | 000088-24-4 | 2,2′-Methylene bis(4-ethyl-6-tert-butylphenol) |
+| 66480 | 000119-47-1 | 2,2′-Methylene bis(4-methyl-6-tert-butylphenol) |
+| 66560 | 004066-02-8 | 2,2′-Methylene bis(4-methyl-6-cyclohexylphenol) |
+| 66580 | 000077-62-3 | 2,2′-Methylene bis(4-methyl-6-(1-methyl-cyclohexyl) phenol) |
+| 68145 | 080410-33-9 | 2,2′,2′-Nitrilo[triethyl tris(3,3′,5,5′-tetra-tert-butyl-1,1′-bi-phenyl-2,2′-diyl)phosphite] |
+| 68320 | 002082-79-3 | Octadecyl 3-(3,5-di-tert-butyl-4-hydroxyphenyl)propionate |
+| 68400 | 010094-45-8 | Octadecylerucamide |
+| 69840 | 016260-09-6 | Oleylpalmitamide |
+| 71670 | 178671-58-4 | Pentaerythritol tetrakis (2-cyano-3,3-diphenylacrylate) |
+| 72081/10 | — | Petroleum Hydrocarbon Resins (hydrogenated) |
+| 72160 | 000948-65-2 | 2-Phenylindole |
+| 72800 | 001241-94-7 | Phosphoric acid, diphenyl 2-ethylhexyl ester |
+| 73160 | — | Phosphoric acid, mono- and di-n-alkyl (C16 and C18) esters |
+| 74010 | 145650-60-8 | Phosphorous acid, bis(2,4-di-tert-butyl-6-methylphenyl) ethyl ester |
+| 74400 | — | Phosphorous acid, tris(nonyl- and/or dinonylphenyl) ester |
+| 76866 | — | Polyesters of 1,2-propanediol and/or 1,3- and/or 1,4-butanediol and/or polypropyleneglycol with adipic acid, also end-capped with acetic acid or fatty acids C12-C18 or n-octanol and/or n-decanol |
+| 77440 | — | Polyethyleneglycol diricinoleate |
+| 78320 | 009004-97-1 | Polyethyleneglycol monoricinoleate |
+| 81200 | 071878-19-8 | Poly[6-[(1,1,3,3-tetramethylbutyl)amino]-1,3,5-triazine-2,4-diyl]-[(2,2,6,6-tetramethyl-4-piperidyl)-imino]hexamethylene[(2,2,6,6-tetramethyl-4-piperidyl)imino] |
+| 83599 | 068442-12-6 | Reaction products of oleic acid, 2-mercaptoethyl ester, with dichlorodimethyltin, sodium sulphide and trichloromethyltin |
+| 83700 | 000141-22-0 | Ricinoleic acid |
+| 84800 | 000087-18-3 | Salicylic acid, 4-tert-butylphenyl ester |
+| 92320 | — | Tetradecyl-polyethyleneglycol(EO=3-8) ether of glycolic acid |
+| 92560 | 038613-77-3 | Tetrakis(2,4-di-tert-butyl-phenyl)-4,4′-biphenylylene diphosphonite |
+| 92700 | 078301-43-6 | 2,2,4,4-Tetramethyl-20-(2,3-epoxypropyl)-7-oxa-3,20-diazadispiro[5.1.11.2]-heneicosan-21-one, polymer |
+| 92800 | 000096-69-5 | 4,4′-Thiobis(6-tert-butyl-3-methylphenol) |
+| 92880 | 041484-35-9 | Thiodiethanol bis(3-(3,5-di-tert-butyl-4-hydroxy phenyl) propionate) |
+| 93120 | 000123-28-4 | Thiodipropionic acid, didodecyl ester |
+| 93280 | 000693-36-7 | Thiodipropionic acid, dioctadecyl ester |
+| 95270 | 161717-32-4 | 2,4,6-Tris(tert-butyl)phenyl-2-butyl-2-ethyl-1,3-propanediol phosphite |
+| 95280 | 040601-76-1 | 1,3,5-Tris(4-tert-butyl-3-hydroxy-2,6-dimethylbenzyl)-1,3,5-triazine-2,4,6(1H,3H,5H)-trione |
+| 95360 | 027676-62-6 | 1,3,5-Tris(3,5-di-tert-butyl-4-hydroxybenzyl)-1,3,5-triazine-2,4,6(1H,3H,5H)-trione |
+| 95600 | 001843-03-4 | 1,1,3-Tris(2-methyl-4-hydroxy-5-tert-butylphenyl) butane’ |
+
+## ANNEX V
+
+Annex V to Directive 2002/72/EC is amended as follows:
+
+(1) Part A is replaced by the following:
+
+**‘Part A: General specifications**
+
+Plastic material and articles shall not release primary aromatic amines in a detectable quantity (DL = 0,01 mg/kg of food or food simulant). The migration of the primary aromatic amines appearing in the lists in Annex II and III is excluded from this restriction.’
+
+(2) In Part B, the following new specifications are inserted, in the appropriate numerical order:
+
+<tbody><tr><td>Ref. No</td><td>OTHER SPECIFICATIONS</td></tr>
+<tr><td>‘42080</td><td>Carbon black Specifications:  — Toluene extractables: maximum 0,1 %, determined according to ISO method 6209.  — UV absorption of cyclohexane extract at 386 nm: &lt; 0,02 AU for a 1 cm cell or &lt; 0,1 AU for a 5 cm cell, determined according to a generally recognised method of analysis.  — Benzo(a)pyrene content: max 0,25 mg/kg carbon black.  — Maximum use level of carbon black in the polymer: 2,5 % w/w </td></tr>
+<tr><td>72081/10</td><td>Petroleum hydrocarbon resins (hydrogenated) Specifications:  Petroleum hydrocarbon resins, hydrogenated are produced by the catalytic or thermal polymerisation of dienes and olefins of the aliphatic, alicyclic and/or monobenzenoid arylalkene types from distillates of cracked petroleum stocks with a boiling range not greater than 220 °C, as well as the pure monomers found in these distillation streams, subsequently followed by distillation, hydrogenation and additional processing.  Properties:  Viscosity: &gt; 3 Pa.s at 120 °C.  Softening point: &gt; 95 °C as determined by ASTM Method E 28-67.  Bromine number: &lt; 40 (ASTM D1159)  The colour of a 50 % solution in toluene &lt; 11 on the Gardner scale  Residual aromatic monomer ≤ 50 ppm </td></tr>
+<tr><td>76845</td><td>Polyester of 1,4-butanediol with caprolactone MW fraction &lt; 1 000 is less than 0,5 % (w/w) </td></tr>
+<tr><td>81500</td><td>Polyvinylpyrrolidone The substance shall meet the purity criteria established in Commission Directive 96/77/EC (1) </td></tr>
+<tr><td>88640</td><td>Soybean oil, epoxidized Oxirane &lt; 8 %, iodine number &lt; 6 </td></tr>
+<tr><td colspan="2">(1) OJ L 339, 30.12.1996, p. 1.’</td></tr>
+</tbody>
+
+## ANNEX VI
+
+Annex VI to Directive 2002/72/EC is amended as follows:
+
+(1) Note (8) is replaced by the following:
+
+‘(8) SML(T) in this specific case means that the restriction shall not be exceeded by the sum of the migration levels of the following substances mentioned as Ref. Nos: 24886, 38000, 42400, 62020, 64320, 66350, 67896, 73040, 85760, 85840, 85920 and 95725.’
+
+(2) The following notes 41 and 42 are added:
+
+‘(41) SML(T) in this specific case means that the restriction shall not be exceeded by the sum of the migration levels of the following substances mentioned as Ref. Nos: 47600, 67360.
+
+(42) SML(T) in this specific case means that the restriction shall not be exceeded by the sum of the migration levels of the following substances mentioned as Ref. Nos: 75100 and 75105.’
+
+## ANNEX VII
+
+### ‘ANNEX VIa
+
+**DECLARATION OF COMPLIANCE**
+
+The written declaration referred to in Article 9 shall contain the following information:
+
+(1) the identity and address of the business operator which manufactures or imports the plastic materials or articles or the substances intended for the manufacturing of those materials and articles;
+
+(2) the identity of the materials, the articles or the substances intended for the manufacturing of those materials and articles;
+
+(3) the date of the declaration;
+
+(4) confirmation that the plastic materials or articles meet relevant requirements laid down in this Directive and Regulation (EC) No 1935/2004;
+
+(5) adequate information relative to the substances used for which restrictions and/or specifications are in place under this Directive to allow the downstream business operators to ensure compliance with those restrictions;
+
+(6) adequate information relative to the substances which are subject to a restriction in food, obtained by experimental data or theoretical calculation about the level of their specific migration and, where appropriate, purity criteria in accordance with Directives 95/31/EC, 95/45/EC and 96/77/EC to enable the user of these materials or articles to comply with the relevant Community provisions or, in their absence, with national provisions applicable to food;
+
+(7) specifications on the use of the material or article, such as:
+
+(i) type or types of food with which it is intended to be put in contact;
+
+(ii) time and temperature of treatment and storage in contact with the food;
+
+(iii) ratio of food contact surface area to volume used to establish the compliance of the material or article;
+
+(8) when a plastic functional barrier is used in a plastic multi-layer material or article, the confirmation that the material or article complies with the requirements of Article 7a(2), (3) and 4 of this Directive.
+
+The written declaration shall permit an easy identification of the materials, articles or substances for which it is issued and shall be renewed when substantial changes in the production bring about changes in the migration or when new scientific data are available.’
+
+## ANNEX VIII
+
+The Annex to Directive 85/572/EEC is amended as follows:
+
+(1) Point 3 is replaced by the following:
+
+‘3. When “X” is followed by an oblique stroke and a figure, the result of the migration tests should be divided by the figure indicated. In the case of certain types of fatty food, this conventional figure, known as “Simulant D Reduction Factor” (DRF), is used to take account of the greater extractive capacity of the simulant compared to the food.’
+
+(2) The following point 4a is inserted:
+
+‘4a. Where the letter (b) is shown in brackets after the “X”, the indicated test shall be carried out with ethanol 50 % (v/v).’
+
+(3) In the table, Section 07 is replaced by the following:
+
+| ‘07 | Milk products |  |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+| 07.01 | Milk: |  |  |  |  |
+|  | A. Whole |  |  |  | X(b) |
+|  | B. Partly dried |  |  |  | X(b) |
+|  | C. Skimmed or partly skimmed |  |  |  | X(b) |
+|  | D. Dried |  |  |  |  |
+| 07.02 | Fermented milk such as yoghurt, buttermilk and similar products |  | X |  | X(b) |
+| 07.03 | Cream and sour cream |  | X(a) |  | X(b) |
+| 07.04 | Cheeses: |  |  |  |  |
+|  | A. Whole, with non-edible rind |  |  |  |  |
+|  | B. All others | X(a) | X(a) |  | X/3* |
+| 07.05 | Rennet |  |  |  |  |
+|  | A. In liquid or viscous form | X(a) | X(a) |  |  |
+|  | B. Powdered or dried’ |  |  |  |  |
+
+( 1 ) OJ L 338, 13.11.2004, p. 4.
+
+( 2 ) OJ L 220, 15.8.2002, p. 18. Directive as last amended by Directive 2005/79/EC (OJ L 302, 19.11.2005, p. 35).
+
+( 3 ) OJ L 31, 1.2.2002, p. 1. Regulation as last amended by Commission Regulation (EC) No 575/2006 (OJ L 100, 8.4.2006, p. 3).
+
+( 4 ) OJ L 7, 13.1.2004, p. 45.
+
+( 5 ) The EFSA Journal (2005) 219, 1-36.
+
+( 6 ) SCF opinion of 4 December 2002 on the introduction of a Fat (Consumption) Reduction Factor (FRF) in the estimation of the exposure to a migrant from food contact materials.
+
+http://ec.europa.eu/food/fs/sc/scf/out149_en.pdf
+
+( 7 ) Opinion of the Scientific Panel on Food Additives, Flavourings, Processing Aids and Materials in Contact with Food (AFC) on a request from the Commission related to the introduction of a Fat (consumption) Reduction Factor for infants and children, The EFSA Journal (2004) 103, 1-8.
+
+( 8 ) The EFSA Journal (2005) 218, 1-9.
+
+The EFSA Journal (2005) 248, 1-16.
+
+The EFSA Journal (2005) 273, 1-26.
+
+The EFSA Journal (2006) 316 to 318, 1-10.
+
+The EFSA Journal (2006) 395 to 401, 1-21.
+
+( 9 ) OJ L 302, 19.11.2005, p. 35.
+
+( 10 ) The EFSA Journal (2006) 332, 1-9.
+
+( 11 ) The EFSA Journal (2005) 244, 1-18.
+
+The EFSA Journal (2005) 245, 1-14.
+
+The EFSA Journal (2005) 243, 1-20.
+
+The EFSA Journal (2005) 242, 1-17.
+
+The EFSA Journal (2005) 241, 1-14.
+
+( 12 ) OJ L 372, 31.12.1985, p. 14.
+
+( 13 ) OJ L 338, 13.11.2004, p. 4.’
+
+( 14 ) OJ L 175, 4.7.1991, p. 35.
+
+( 15 ) OJ L 49, 28.2.1996, p. 17.’
+
+( 16 ) OJ L 165, 30.4.2004, p. 1, as corrected by OJ L 191, 28.5.2004, p. 1.
+
+( 17 ) OJ 196, 16.8.1967, p. 1.’

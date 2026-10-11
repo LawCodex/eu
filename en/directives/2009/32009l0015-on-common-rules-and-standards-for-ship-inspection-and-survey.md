@@ -1,0 +1,319 @@
+---
+title: "Directive 2009/15/EC of the European Parliament and of the Council of 23 April 2009 on common rules and standards for ship inspection and survey organisations and for the relevant activities of maritime administrations (recast) (Text with EEA relevance)"
+identifier: "32009L0015"
+eli: "http://data.europa.eu/eli/dir/2009/15/oj"
+type: directive
+jurisdiction: eu
+language: en
+date: 2009-04-23
+entry_into_force: 2009-06-17
+last_amended: 2019-07-26
+consolidated_version: "02009L0015-20190726"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02009L0015-20190726"
+retrieved: 2026-10-11
+---
+
+# Directive 2009/15/EC of the European Parliament and of the Council of 23 April 2009 on common rules and standards for ship inspection and survey organisations and for the relevant activities of maritime administrations (recast) (Text with EEA relevance)
+
+**DIRECTIVE 2009/15/EC OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 23 April 2009**
+
+**on common rules and standards for ship inspection and survey organisations and for the relevant activities of maritime administrations**
+
+**(Recast)**
+
+**(Text with EEA relevance)**
+
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING DIRECTIVE 2014/111/EU of 17 December 2014 </td><td> L 366</td><td>83</td><td>20.12.2014</td></tr>
+<tr><td></td><td> REGULATION (EU) 2019/1243 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 20 June 2019 </td><td> L 198</td><td>241</td><td>25.7.2019</td></tr>
+
+**DIRECTIVE 2009/15/EC OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 23 April 2009**
+
+**on common rules and standards for ship inspection and survey organisations and for the relevant activities of maritime administrations**
+
+**(Recast)**
+
+**(Text with EEA relevance)**
+
+## Article 1
+
+This Directive establishes measures to be followed by the Member States in their relationship with organisations entrusted with the inspection, survey and certification of ships for compliance with the international conventions on safety at sea and prevention of marine pollution, while furthering the objective of freedom to provide services. This includes the development and implementation of safety requirements for hull, machinery and electrical and control installations of ships falling under the scope of the international conventions.
+
+## Article 2
+
+For the purpose of this Directive the following definitions shall apply:
+
+(a) ‘ship’ means a ship falling within the scope of the international conventions;
+
+(b) ‘ship flying the flag of a Member State’ means a ship registered in and flying the flag of a Member State in accordance with its legislation. Ships not corresponding to this definition are assimilated to ships flying the flag of a third country;
+
+(c) ‘inspections and surveys’ means inspections and surveys that are mandatory under the international conventions;
+
+(d) ‘international conventions’ means the International Convention for the Safety of Life at Sea of 1 November 1974 (SOLAS 74) with the exception of chapter XI-2 of the Annex thereto, the International Convention on Load Lines of 5 April 1966 and the International Convention for the Prevention of Pollution from Ships of 2 November 1973 (MARPOL), together with the protocols and amendments thereto, and the related codes of mandatory status in all Member States, with the exception of paragraphs 16.1, 18.1 and 19 of part 2 of the IMO Instruments Implementation Code, and of sections 1.1, 1.3, 3.9.3.1, 3.9.3.2 and 3.9.3.3 of part 2 of the IMO Code for Recognized Organizations, in their up-to-date version;
+
+(e) ‘organisation’ means a legal entity, its subsidiaries and any other entities under its control, which jointly or separately carry out tasks falling under the scope of this Directive;
+
+(f) ‘control’means, for the purpose of point (e), rights, contracts or any other means, in law or in fact, which, either separately or in combination confer the possibility of exercising decisive influence on a legal entity or enable that entity to carry out tasks falling under the scope of this Directive;
+
+(g) ‘recognised organisation’ means an organisation recognised in accordance with Regulation (EC) No 391/2009;
+
+(h) ‘authorisation’ means an act whereby a Member State grants an authorisation or delegates powers to a recognised organisation;
+
+(i) ‘statutory certificate’ means a certificate issued by or on behalf of a flag State in accordance with the international conventions;
+
+(j) ‘rules and procedures’ means a recognised organisation’s requirements for the design, construction, equipment, maintenance and survey of ships;
+
+(k) ‘class certificate’ means a document issued by a recognised organisation certifying the fitness of a ship for a particular use or service in accordance with the rules and procedures laid down and made public by that recognised organisation;
+
+(l) ‘cargo ship safety radio certificate’ means the certificate introduced by the 1988 Protocol amending SOLAS, adopted by the International Maritime Organisation (IMO).
+
+## Article 3
+
+1\. In assuming their responsibilities and obligations under the international conventions, Member States shall ensure that their competent administrations can ensure appropriate enforcement of the provisions thereof, in particular with regard to the inspection and survey of ships and the issue of statutory certificates and exemption certificates as provided for by the international conventions. Member States shall act in accordance with the relevant provisions of the Annex and the Appendix to IMO Resolution A.847(20) on guidelines to assist flag States in the implementation of IMO instruments.
+
+2\. Where for the purpose of paragraph 1 a Member State decides with respect to ships flying its flag:
+
+(i) to authorise organisations to undertake fully or in part inspections and surveys related to statutory certificates including those for the assessment of compliance with the rules referred to in Article 11(2) and, where appropriate, to issue or renew the related certificates; or
+
+(ii) to rely upon organisations to undertake fully or in part the inspections and surveys referred to in point (i);
+
+it shall entrust these duties only to recognised organisations.
+
+The competent administration shall in all cases approve the first issue of the exemption certificates.
+
+However, for the cargo ship safety radio certificate these duties may be entrusted to a private body recognised by a competent administration and having sufficient expertise and qualified personnel to carry out specified safety assessment work on radio-communication on its behalf.
+
+3\. This Article does not concern the certification of specific items of marine equipment.
+
+## Article 4
+
+1\. In applying Article 3(2), Member States shall in principle not refuse to authorise any of the recognised organisations to undertake such functions, subject to the provisions of paragraph 2 of this Article and Articles 5 and 9. However, they may restrict the number of organisations they authorise in accordance with their needs provided there are transparent and objective grounds for so doing.
+
+At the request of a Member State, the Commission shall, in accordance with the regulatory procedure referred to in Article 6(2), adopt appropriate measures to ensure the correct application of the first subparagraph of this paragraph as regards refusal of authorisation and of Article 8 as regards those cases where authorisation is suspended or withdrawn.
+
+2\. In order for a Member State to accept that a recognised organisation located in a third State is to carry out fully or in part the duties mentioned in Article 3 it may request the third State in question to grant reciprocal treatment to those recognised organisations which are located in the Community.
+
+In addition, the Community may request the third State where a recognised organisation is located to grant reciprocal treatment to those recognised organisations which are located in the Community.
+
+## Article 5
+
+1\. Member States which take a decision as described in Article 3(2) shall set out a ‘working relationship’ between their competent administration and the organisations acting on their behalf.
+
+2\. The working relationship shall be regulated by a formalised written and non-discriminatory agreement or equivalent legal arrangements setting out the specific duties and functions assumed by the organisations and including at least:
+
+(a) the provisions set out in Appendix II of IMO Resolution A.739(18) on guidelines for the authorisation of organisations acting on behalf of the administration, while drawing inspiration from the Annex, Appendices and Attachment to IMO MSC/Circular 710 and MEPC/Circular 307 on a model agreement for the authorisation of recognised organisations acting on behalf of the administration;
+
+(b) the following provisions concerning financial liability:
+
+(i) if liability arising out of any marine casualty is finally and definitely imposed on the administration by a court of law or as part of the settlement of a dispute through arbitration procedures, together with a requirement to compensate the injured parties for loss of or damage to property or personal injury or death, which is proved in that court of law to have been caused by a wilful act or omission or gross negligence of the recognised organisation, its bodies, employees, agents or others who act on behalf of the recognised organisation, the administration shall be entitled to financial compensation from the recognised organisation to the extent that that loss, damage, injury or death was, as decided by that court, caused by the recognised organisation;
+
+(ii) if liability arising out of any marine casualty is finally and definitely imposed on the administration by a court of law or as part of the settlement of a dispute through arbitration procedures, together with a requirement to compensate the injured parties for personal injury or death, which is proved in that court of law to have been caused by any negligent or reckless act or omission of the recognised organisation, its employees, agents or others who act on behalf of the recognised organisation, the administration shall be entitled to financial compensation from the recognised organisation to the extent that that personal injury or death was, as decided by that court, caused by the recognised organisation; the Member States may limit the maximum amount payable by the recognised organisation, which must, however, be at least equal to EUR 4 million;
+
+(iii) if liability arising out of any marine casualty is finally and definitely imposed on the administration by a court of law or as part of the settlement of a dispute through arbitration procedures, together with a requirement to compensate the injured parties for loss of or damage to property, which is proved in that court of law to have been caused by any negligent or reckless act or omission of the recognised organisation, its employees, agents or others who act on behalf of the recognised organisation, the administration shall be entitled to financial compensation from the recognised organisation, to the extent that that loss or damage was, as decided by that court, caused by the recognised organisation; the Member States may limit the maximum amount payable by the recognised organisation, which must, however, be at least equal to EUR 2 million;
+
+(c) provisions for a periodical audit by the administration or by an impartial external body appointed by the administration into the duties the organisations are undertaking on its behalf, as referred to in Article 9(1);
+
+(d) the possibility for random and detailed inspections of ships;
+
+(e) provisions for compulsory reporting of essential information about their classed fleet, and changes, suspensions and withdrawals of class.
+
+3\. The agreement or equivalent legal arrangement may require the recognised organisation to have a local representation on the territory of the Member State on behalf of which it performs the duties referred to in Article 3. A local representation with legal personality under the law of the Member State and subject to the jurisdiction of its national courts may satisfy such a requirement.
+
+4\. Each Member State shall provide the Commission with precise information on the working relationship established in accordance with this Article. The Commission shall subsequently inform the other Member States thereof.
+
+## Article 5a
+
+1\. The power to adopt delegated acts is conferred on the Commission subject to the conditions laid down in this Article.
+
+2\. The power to adopt delegated acts referred to in Article 7(1) shall be conferred on the Commission for a period of five years from 26 July 2019. The Commission shall draw up a report in respect of the delegation of power not later than nine months before the end of the five-year period. The delegation of power shall be tacitly extended for periods of an identical duration, unless the European Parliament or the Council opposes such extension not later than three months before the end of each period.
+
+3\. The delegation of power referred to in Article 7(1) may be revoked at any time by the European Parliament or by the Council. A decision to revoke shall put an end to the delegation of the power specified in that decision. It shall take effect the day following the publication of the decision in the Official Journal of the European Union or at a later date specified therein. It shall not affect the validity of any delegated acts already in force.
+
+4\. Before adopting a delegated act, the Commission shall consult experts designated by each Member State in accordance with the principles laid down in the Interinstitutional Agreement of 13 April 2016 on Better Law-Making ( 1 ).
+
+5\. As soon as it adopts a delegated act, the Commission shall notify it simultaneously to the European Parliament and to the Council.
+
+6\. A delegated act adopted pursuant to Article 7(1) shall enter into force only if no objection has been expressed either by the European Parliament or by the Council within a period of two months of notification of that act to the European Parliament and the Council or if, before the expiry of that period, the European Parliament and the Council have both informed the Commission that they will not object. That period shall be extended by two months at the initiative of the European Parliament or of the Council.
+
+## Article 6
+
+1\. The Commission shall be assisted by the Committee on Safe Seas and the Prevention of Pollution from Ships (COSS) established by Regulation (EC) No 2099/2002 of the European Parliament and of the Council ( 2 ).
+
+2\. Where reference is made to this paragraph, Articles 5 and 7 of Decision 1999/468/EC shall apply, having regard to the provisions of Article 8 thereof.
+
+The period laid down in Article 5(6) of Decision 1999/468/EC shall be set at three months.
+
+## Article 7
+
+1\. The Commission is empowered to adopt delegated acts in accordance with Article 5a amending this Directive, without broadening its scope, in order to:
+
+(a) incorporate, for the purposes of this Directive, subsequent amendments to the international conventions, protocols, codes and resolutions related thereto referred to in point (d) of Article 2, Article 3(1) and Article 5(2), which have entered into force;
+
+(b) alter the amounts specified in point (b)(ii) and (iii) of Article 5(2).
+
+2\. Following the adoption of new instruments or protocols to the international conventions referred to in Article 2(d), the Council, acting on a proposal from the Commission, shall decide, taking into account the Member States’ parliamentary procedures as well as the relevant procedures within the IMO, on the detailed arrangements for ratifying those new instruments or protocols, while ensuring that they are applied uniformly and simultaneously in the Member States.
+
+The amendments to the international instruments referred to in Article 2(d) and Article 5 may be excluded from the scope of this Directive, pursuant to Article 5 of Regulation (EC) No 2099/2002.
+
+## Article 8
+
+Notwithstanding the minimum criteria specified in the Annex I of Regulation (EC) No 391/2009, where a Member State considers that a recognised organisation can no longer be authorised to carry out on its behalf the tasks specified in Article 3 it may suspend or withdraw such authorisation. In such case the Member State shall inform the Commission and the other Member States of its decision without delay and shall give substantiated reasons therefor.
+
+## Article 9
+
+1\. Each Member State shall satisfy itself that the recognised organisations acting on its behalf for the purpose of Article 3(2) effectively carry out the functions referred to in that Article to the satisfaction of its competent administration.
+
+2\. In order to carry out the task referred to in paragraph 1, each Member State shall, at least on a biennial basis, monitor every recognised organisation acting on its behalf and shall provide the other Member States and the Commission with a report on the results of such monitoring activities at the latest by 31 March of the year following the year in which the monitoring was carried out.
+
+## Article 10
+
+In exercising their inspection rights and obligations as port States, Member States shall report to the Commission and to other Member States, and inform the flag State concerned, if they find that valid statutory certificates have been issued by recognised organisations acting on behalf of a flag State to a ship which does not fulfil the relevant requirements of the international conventions, or in the event of any failure of a ship carrying a valid class certificate and relating to items covered by that certificate. Only cases of ships representing a serious threat to safety and the environment or showing evidence of particularly negligent behaviour of the recognised organisations shall be reported for the purposes of this Article. The recognised organisation concerned shall be advised of the case at the time of the initial inspection so that it can take appropriate follow-up action immediately.
+
+## Article 11
+
+1\. Each Member State shall ensure that ships flying its flag are designed, constructed, equipped and maintained in accordance with the rules and procedures relating to hull, machinery and electrical and control installation requirements of a recognised organisation.
+
+2\. A Member State may decide to use rules it considers equivalent to the rules and procedures of a recognised organisation only on the proviso that it immediately notifies them to the Commission in conformity with the procedure under Directive 98/34/EC and to the other Member States and they are not objected to by another Member State or the Commission and are held, through the regulatory procedure referred to in Article 6(2) of this Directive, not to be equivalent.
+
+3\. Member States shall cooperate with the recognised organisations they authorise in the development of the rules and procedures of those organisations. They shall confer with the recognised organisations with a view to achieving consistent interpretation of the international conventions.
+
+## Article 12
+
+The Commission shall, on a biennial basis, inform the European Parliament and the Council of progress in the implementation of this Directive in the Member States.
+
+## Article 13
+
+1\. Member States shall bring into force the laws, regulations and administrative provisions necessary to comply with this Directive by 17 June 2011. They shall forthwith inform the Commission thereof.
+
+When they are adopted by Member States, these measures shall contain a reference to this Directive or shall be accompanied by such reference on the occasion of their official publication. They shall also include a statement that references in existing laws, regulations and administrative provisions to the directives repealed by this Directive shall be construed as references to this Directive. The methods of making such references shall be laid down by Member States.
+
+2\. Member States shall communicate to the Commission the text of the main provisions of national law which they adopt in the field covered by this Directive.
+
+## Article 14
+
+Directive 94/57/EC, as amended by the Directives listed in Annex I, Part A, shall be repealed with effect from 17 June 2009, without prejudice to the obligations of the Member States relating to the time limits for transposition into national law of the Directives set out in Annex I, Part B.
+
+References to the repealed Directives shall be construed as references to this Directive and shall be read in accordance with the correlation table in Annex II.
+
+## Article 15
+
+This Directive shall enter into force on the 20th day following its publication in the Official Journal of the European Union.
+
+## Article 16
+
+This Directive is addressed to the Member States.
+
+## ANNEX I
+
+**PART A**
+
+**Repealed Directive with its successive amendments**
+
+**(referred to in Article 14)**
+
+| Council Directive 94/57/EC | OJ L 319, 12.12.1994, p. 20 |
+| --- | --- |
+| Commission Directive 97/58/EC | OJ L 274, 7.10.1997, p. 8 |
+| Directive 2001/105/EC of the European Parliament and of the Council | OJ L 19, 22.1.2002, p. 9 |
+| Directive 2002/84/EC of the European Parliament and of the Council | OJ L 324, 29.11.2002, p. 53 |
+
+**PART B**
+
+**List of time limits for transposition into national law**
+
+**(referred to in Article 14)**
+
+Directive Time limit for transposition
+
+94/57/EC 31 December 1995
+
+97/58/EC 30 September 1998
+
+2001/105/EC 22 July 2003
+
+2002/84/EC 23 November 2003
+
+## ANNEX II
+
+**Correlation table**
+
+| Directive 94/57/EC | This Directive | Regulation (EC) No 391/2009 |
+| --- | --- | --- |
+| Article 1 | Article 1 | Article 1 |
+| Article 2(a) | Article 2(a) | Article 2(a) |
+| Article 2(b) | Article 2(b) | — |
+| Article 2(c) | Article 2(c) | — |
+| Article 2(d) | Article 2(d) | Article 2(b) |
+| Article 2(e) | Article 2(e) | Article 2(c) |
+| — | Article 2(f) | Article 2(d) |
+| Article 2(f) | Article 2(g) | Article 2(e) |
+| Article 2(g) | Article 2(h) | Article 2(f) |
+| Article 2(h) | Article 2(i) | Article 2(g) |
+| Article 2(i) | Article 2(k) | Article 2(i) |
+| — | Article 2(j) | Article 2(h) |
+| Article 2(j) | Article 2(l) | — |
+| Article 2(k) | — | Article 2(j) |
+| Article 3 | Article 3 | — |
+| Article 4(1) first phrase | — | Article 3(1) |
+| Article 4(1) second phrase | — | Article 3(2) |
+| Article 4(1) third phrase | — | — |
+| Article 4(1) fourth phrase | — | Article 4(1) |
+| — | — | Article 3(3) |
+| — | — | Article 4(2), (3), (4) |
+| — | — | Article 5 |
+| — | — | Article 6 |
+| — | — | Article 7 |
+| Article 5(1) | Article 4(1) | — |
+| Article 5(3) | Article 4(2) | — |
+| Article 6(1), (2), (3), (4) | Article 5 (1), (2), (3), (4) | — |
+| Article 6(5) | — | — |
+| Article 7 | Article 6 | Article 12 |
+| Article 8(1) first indent | Article 7(1), point (a) of first subparagraph | — |
+| Article 8(1) second indent | — | Article 13(1) |
+| Article 8(1) third indent | Article 7(1), point (b) of first subparagraph | — |
+| — | Article 7(1) second subparagraph | Article 13(1) (second subparagraph) |
+| Article 8(2) | Article 7(2) | — |
+| Article 8(2) second subparagraph | — | Article 13(2) |
+| Article 9(1) | — | — |
+| Article 9(2) | — | — |
+| Article 10(1) introductory wording | Article 8 | — |
+| Article 10(1)(a), (b), (c), (2), (3), (4) | — | — |
+| Article 11(1),(2) | Article 9(1), (2) | — |
+| Article 11(3), (4) | — | Article 8(1), (2) |
+| Article 12 | Article 10 | — |
+| Article 13 | — | — |
+| Article 14 | Article 11(1), (2) | — |
+| — | Article 11(3) | — |
+| — | Article 12 | — |
+| — | — | Article 9 |
+| Article 15(1) | — | — |
+| — | — | Article 10(1), (2) |
+| Article 15(2) | — | Article 10(3) |
+| Article 15(3) | — | Article 10(4) |
+| Article 15(4) | — | Article 10(5) |
+| Article 15(5) | — | Article 10(6) first, second, third, fifth subparagraphs |
+| — |  | Article 10(6) fourth subparagraph |
+| Article 16 | Article 13 | — |
+| Article 17 | Article 16 | — |
+| — | Article 14 | — |
+| — | Article 15 | — |
+| — | — | Article 11 |
+| — | — | Article 14 |
+| — | — | Article 15 |
+| — | — | Article 16 |
+| — | — | Article 17 |
+| — | — | Article 18 |
+| — | — | Article 19 |
+| Annex | — | Annex I |
+| — | Annex I | — |
+| — | Annex II | Annex II |
+
+( 1 ) OJ L 123, 12.5.2016, p. 1.
+
+( 2 ) OJ L 324, 29.11.2002, p. 1.

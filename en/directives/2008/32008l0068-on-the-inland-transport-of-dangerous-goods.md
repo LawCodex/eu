@@ -1,0 +1,1757 @@
+---
+title: "Directive 2008/68/EC of the European Parliament and of the Council of 24 September 2008 on the inland transport of dangerous goods (Text with EEA relevance)"
+identifier: "32008L0068"
+eli: "http://data.europa.eu/eli/dir/2008/68/oj"
+type: directive
+jurisdiction: eu
+language: en
+date: 2008-09-24
+entry_into_force: 2008-03-21
+last_amended: 2026-05-12
+consolidated_version: "02008L0068-20260512"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02008L0068-20260512"
+retrieved: 2026-10-11
+---
+
+# Directive 2008/68/EC of the European Parliament and of the Council of 24 September 2008 on the inland transport of dangerous goods (Text with EEA relevance)
+
+**DIRECTIVE 2008/68/EC OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 24 September 2008**
+
+**on the inland transport of dangerous goods**
+
+**(Text with EEA relevance)**
+
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td> M1</td><td> COMMISSION DECISION of 4 March 2009 </td><td> L 71</td><td>23</td><td>17.3.2009</td></tr>
+<tr><td> M2</td><td> COMMISSION DECISION of 25 March 2010 </td><td> L 83</td><td>24</td><td>30.3.2010</td></tr>
+<tr><td> M3</td><td> COMMISSION DIRECTIVE 2010/61/EU of 2 September 2010 </td><td> L 233</td><td>27</td><td>3.9.2010</td></tr>
+<tr><td> M4</td><td> COMMISSION DECISION of 14 January 2011 </td><td> L 13</td><td>64</td><td>18.1.2011</td></tr>
+<tr><td> M5</td><td> COMMISSION IMPLEMENTING DECISION of 4 April 2012 </td><td> L 101</td><td>18</td><td>11.4.2012</td></tr>
+<tr><td> M6</td><td> COMMISSION DIRECTIVE 2012/45/EU of 3 December 2012 </td><td> L 332</td><td>18</td><td>4.12.2012</td></tr>
+<tr><td> M7</td><td> COMMISSION IMPLEMENTING DECISION of 6 May 2013 </td><td> L 130</td><td>26</td><td>15.5.2013</td></tr>
+<tr><td> M8</td><td> COMMISSION DIRECTIVE 2014/103/EU of 21 November 2014 </td><td> L 335</td><td>15</td><td>22.11.2014</td></tr>
+<tr><td> M9</td><td> COMMISSION IMPLEMENTING DECISION (EU) 2015/217 of 10 April 2014 </td><td> L 44</td><td>1</td><td>18.2.2015</td></tr>
+<tr><td> M10</td><td> COMMISSION IMPLEMENTING DECISION (EU) 2015/974 of 17 June 2015 </td><td> L 157</td><td>53</td><td>23.6.2015</td></tr>
+<tr><td> M11</td><td> COMMISSION IMPLEMENTING DECISION (EU) 2016/629 of 20 April 2016 </td><td> L 106</td><td>26</td><td>22.4.2016</td></tr>
+<tr><td> M12</td><td> COMMISSION DIRECTIVE (EU) 2016/2309 of 16 December 2016 </td><td> L 345</td><td>48</td><td>20.12.2016</td></tr>
+<tr><td> M13</td><td> COMMISSION IMPLEMENTING DECISION (EU) 2017/695 of 7 April 2017 </td><td> L 101</td><td>37</td><td>13.4.2017</td></tr>
+<tr><td> M14</td><td> COMMISSION DIRECTIVE (EU) 2018/217 of 31 January 2018 </td><td> L 42</td><td>52</td><td>15.2.2018</td></tr>
+<tr><td> M15</td><td> COMMISSION IMPLEMENTING DECISION (EU) 2018/936 of 29 June 2018 </td><td> L 165</td><td>42</td><td>2.7.2018</td></tr>
+<tr><td> M16</td><td> COMMISSION DIRECTIVE (EU) 2018/1846 of 23 November 2018 </td><td> L 299</td><td>58</td><td>26.11.2018</td></tr>
+<tr><td> M17</td><td> COMMISSION IMPLEMENTING DECISION (EU) 2019/1094 of 17 June 2019 </td><td> L 173</td><td>52</td><td>27.6.2019</td></tr>
+<tr><td></td><td> REGULATION (EU) 2019/1243 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 20 June 2019 </td><td> L 198</td><td>241</td><td>25.7.2019</td></tr>
+<tr><td> M19</td><td> COMMISSION IMPLEMENTING DECISION (EU) 2020/1241 of 28 August 2020 </td><td> L 284</td><td>9</td><td>1.9.2020</td></tr>
+<tr><td> M20</td><td> COMMISSION DELEGATED DIRECTIVE (EU) 2020/1833 of 2 October 2020 </td><td> L 408</td><td>1</td><td>4.12.2020</td></tr>
+<tr><td> M21</td><td> COMMISSION IMPLEMENTING DECISION (EU) 2021/1436 of 31 August 2021 </td><td> L 312</td><td>3</td><td>3.9.2021</td></tr>
+<tr><td> M22</td><td> COMMISSION IMPLEMENTING DECISION (EU) 2022/1095 of 29 June 2022 </td><td> L 176</td><td>33</td><td>1.7.2022</td></tr>
+<tr><td> M23</td><td> COMMISSION DELEGATED DIRECTIVE (EU) 2022/2407 of 20 September 2022 </td><td> L 317</td><td>64</td><td>9.12.2022</td></tr>
+<tr><td> M24</td><td> COMMISSION IMPLEMENTING DECISION (EU) 2023/1198 of 21 June 2023 </td><td> L 158</td><td>73</td><td>21.6.2023</td></tr>
+<tr><td> M25</td><td> COMMISSION IMPLEMENTING DECISION (EU) 2024/1762 of 5 June 2024 </td><td> L 1762</td><td>1</td><td>28.6.2024</td></tr>
+<tr><td></td><td> COMMISSION DELEGATED DIRECTIVE (EU) 2025/149 of 15 November 2024 </td><td> L 149</td><td>1</td><td>24.1.2025</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING DECISION (EU) 2026/1041 of 5 May 2026 </td><td> L 1041</td><td>1</td><td>12.5.2026</td></tr>
+
+**DIRECTIVE 2008/68/EC OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 24 September 2008**
+
+**on the inland transport of dangerous goods**
+
+**(Text with EEA relevance)**
+
+## Article 1 — Scope
+
+1\. This Directive shall apply to the transport of dangerous goods by road, by rail or by inland waterway within or between Member States, including the activities of loading and unloading, the transfer to or from another mode of transport and the stops necessitated by the circumstances of the transport.
+
+It shall not apply to the transport of dangerous goods:
+
+(a) by vehicles, wagons or vessels belonging to or under the responsibility of the armed forces;
+
+(b) by seagoing vessels on maritime waterways forming part of inland waterways;
+
+(c) by ferries only crossing an inland waterway or harbour; or
+
+(d) wholly performed within the perimeter of an enclosed area.
+
+2\. Annex II, Section II.1, shall not apply to Member States that do not have a railway system, for as long as no such system is established within their territory.
+
+3\. Within one year of the entry into force of this Directive, Member States may decide not to apply Annex III, Section III.1, for one of the following reasons:
+
+(a) they have no inland waterways;
+
+(b) their inland waterways are not linked, by inland waterway, to the waterways of other Member States; or
+
+(c) no dangerous goods are transported on their inland waterways.
+
+If a Member State decides not to apply the provisions of Annex III, Section III.1, it shall notify that decision to the Commission, which shall inform the other Member States.
+
+4\. Member States may lay down specific safety requirements for the national and international transport of dangerous goods within their territory as regards:
+
+(a) the transport of dangerous goods by vehicles, wagons or inland waterway vessels not covered by this Directive;
+
+(b) where justified, the use of prescribed routes including the use of prescribed modes of transport;
+
+(c) special rules for the transport of dangerous goods in passenger trains.
+
+They shall inform the Commission of such provisions and their justifications.
+
+The Commission shall inform the other Member States accordingly.
+
+5\. Member States may regulate or prohibit, strictly for reasons other than safety during transport, the transport of dangerous goods within their territory.
+
+## Article 2 — Definitions
+
+For the purposes of this Directive:
+
+1\. ‘ADR’ shall mean the European Agreement concerning the International Carriage of Dangerous Goods by Road, concluded at Geneva on 30 September 1957, as amended;
+
+2\. ‘RID’ shall mean the Regulations concerning the International Carriage of Dangerous Goods by Rail, appearing as Appendix C to the Convention concerning International Carriage by Rail (COTIF) concluded at Vilnius on 3 June 1999, as amended;
+
+3\. ‘ADN’ shall mean the European Agreement concerning the International Carriage of Dangerous Goods by Inland Waterways, concluded at Geneva on 26 May 2000, as amended;
+
+4\. ‘vehicle’ shall mean any motor vehicle intended for use on the road, having at least four wheels and a maximum design speed exceeding 25 km/h, and any trailer, with the exception of vehicles which run on rails, mobile machinery and agricultural and forestry tractors that do not travel at a speed exceeding 40 km/h when transporting dangerous goods;
+
+5\. ‘wagon’ shall mean any rail vehicle without its own means of propulsion that runs on its own wheels on railway tracks and is used for the carriage of goods;
+
+6\. ‘vessel’ shall mean any inland waterway or seagoing vessel.
+
+## Article 3 — General provisions
+
+1\. Without prejudice to Article 6, dangerous goods shall not be transported in so far as this is prohibited by Annex I, Section I.1, Annex II, Section II.1, or Annex III, Section III.1.
+
+2\. Without prejudice to the general rules on market access or the rules generally applicable to the transport of goods, the transport of dangerous goods shall be authorised, subject to compliance with the conditions laid down in Annex I, Section I.1, Annex II, Section II.1, and Annex III, Section III.1.
+
+## Article 4 — Third countries
+
+The transport of dangerous goods between Member States and third countries shall be authorised in so far as it complies with the requirements of the ADR, RID or ADN, unless otherwise indicated in the Annexes.
+
+## Article 5 — Restrictions on grounds of transport safety
+
+1\. Member States may on grounds of transport safety apply more stringent provisions, with the exception of construction requirements, concerning the national transport of dangerous goods by vehicles, wagons and inland waterway vessels registered or put into circulation within their territory.
+
+2\. If, in the event of an accident or incident within its territory, a Member State considers that the safety provisions applicable have been found to be insufficient to limit the hazards involved in transport operations and if there is an urgent need to take action, that Member State shall, at the planning stage, notify the Commission of the measures which it proposes to take.
+
+Acting in accordance with the procedure referred to in Article 9(2), the Commission shall decide whether to authorise the implementation of the measures in question and the duration of that authorisation.
+
+## Article 6 — Derogations
+
+1\. Member States may authorise the use of languages other than those provided for in the Annexes for transport operations performed within their territories.
+
+2.
+
+(a) Provided that safety is not compromised, Member States may request derogations from Annex I, Section I.1, Annex II, Section II.1, and Annex III, Section III.1, for the transport within their territories of small quantities of certain dangerous goods, with the exception of substances having a medium or high level of radioactivity, provided that the conditions for such transport are no more stringent than the conditions set out in those Annexes.
+
+(b) Provided that safety is not compromised, Member States may also request derogations from Annex I, Section I.1, Annex II, Section II.1, and Annex III, Section III.1, for the transport of dangerous goods within their territory in the case of:
+
+(i) local transport over short distances; or
+
+(ii) local transport by rail on particular designated routes, forming part of a defined industrial process and being closely controlled under clearly specified conditions.
+
+The Commission shall examine in each case whether the conditions laid down in subparagraphs (a) and (b) have been met and shall decide, in accordance with the procedure referred to in Article 9(2), whether to authorise the derogation and to add it to the list of national derogations set out in Annex I, Section I.3, Annex II, Section II.3, or Annex III, Section III.3.
+
+3\. Derogations under paragraph 2 shall be valid for a period not exceeding six years from the date of authorisation, such period to be fixed in the authorisation decision. As regards the existing derogations set out in Annex I, Section I.3, Annex II, Section II.3, and Annex III, Section III.3, the date of authorisation shall be deemed to be 30 June 2009. Unless indicated otherwise, derogations shall be valid for a period of six years.
+
+Derogations shall be applied without discrimination.
+
+4\. If a Member State requests the extension of an authorisation for a derogation, the Commission shall review the derogation in question.
+
+If no amendment to Annex I, Section I.1, Annex II, Section II.1, or Annex III, Section III.1, affecting the subject matter of the derogation has been adopted, the Commission, acting in accordance with the procedure referred to in Article 9(2), shall renew the authorisation for a further period not exceeding six years from the date of authorisation, such period to be fixed in the authorisation decision.
+
+If an amendment to Annex I, Section I.1, Annex II, Section II.1, or Annex III, Section III.1, affecting the subject matter of the derogation has been adopted, the Commission, acting in accordance with the procedure referred to in Article 9(2), may:
+
+(a) declare the derogation obsolete and remove it from the relevant Annex;
+
+(b) limit the scope of the authorisation and amend the relevant Annex accordingly;
+
+(c) renew the authorisation for a further period not exceeding six years from the date of authorisation, such period to be fixed in the authorisation decision.
+
+5\. Every Member State may, exceptionally and provided that safety is not compromised, issue individual authorisations to carry out transport operations of dangerous goods within its territory which are prohibited by this Directive or to carry out such operations under conditions different from those laid down in this Directive, provided that those transport operations are clearly defined and limited in time.
+
+## Article 7 — Transitional provisions
+
+1\. Within their respective territories, Member States may maintain the provisions listed in Annex I, Section I.2, Annex II, Section II.2, and Annex III, Section III.2.
+
+Member States which maintain such provisions shall inform the Commission thereof. The Commission shall inform the other Member States.
+
+2\. Without prejudice to Article 1(3), Member States may choose not to apply the provisions of Annex III, Section III.1, until, at the latest, 30 June 2011. In such a case, the Member State concerned shall, in respect of inland waterways, continue to apply the provisions of Directives 96/35/EC and 2000/18/EC applicable on 30 June 2009.
+
+## Article 8 — Adaptations
+
+1\. The Commission is empowered to adopt delegated acts in accordance with Article 8a amending the Annexes in order to take account of amendments to the ADR, RID and ADN, in particular those relating to scientific and technical progress, including the use of technologies for tracking and tracing.
+
+2\. The Commission shall provide financial support, as appropriate, to the Member States for the translation of the ADR, RID and ADN and their modifications into their official language.
+
+## Article 8a — Exercise of the delegation
+
+1\. The power to adopt delegated acts is conferred on the Commission subject to the conditions laid down in this Article.
+
+2\. The power to adopt delegated acts referred to in Article 8(1) shall be conferred on the Commission for a period of five years from 26 July 2019. The Commission shall draw up a report in respect of the delegation of power not later than nine months before the end of the five-year period. The delegation of power shall be tacitly extended for periods of an identical duration, unless the European Parliament or the Council opposes such extension not later than three months before the end of each period.
+
+3\. The delegation of power referred to in Article 8(1) may be revoked at any time by the European Parliament or by the Council. A decision to revoke shall put an end to the delegation of the power specified in that decision. It shall take effect the day following the publication of the decision in the Official Journal of the European Union or at a later date specified therein. It shall not affect the validity of any delegated acts already in force.
+
+4\. Before adopting a delegated act, the Commission shall consult experts designated by each Member State in accordance with the principles laid down in the Interinstitutional Agreement of 13 April 2016 on Better Law-Making ( 1 ).
+
+5\. As soon as it adopts a delegated act, the Commission shall notify it simultaneously to the European Parliament and to the Council.
+
+6\. A delegated act adopted pursuant to Article 8(1) shall enter into force only if no objection has been expressed either by the European Parliament or by the Council within a period of two months of notification of that act to the European Parliament and the Council or if, before the expiry of that period, the European Parliament and the Council have both informed the Commission that they will not object. That period shall be extended by two months at the initiative of the European Parliament or of the Council.
+
+## Article 9 — Committee procedure
+
+1\. The Commission shall be assisted by a committee on the transport of dangerous goods.
+
+2\. Where reference is made to this paragraph, Articles 5 and 7 of Decision 1999/468/EC shall apply, having regard to the provisions of Article 8 thereof.
+
+The period referred to in Article 5(6) of Decision 1999/468/EC shall be set at three months.
+
+## Article 10 — Transposition
+
+1\. Member States shall bring into force the laws, regulations and administrative provisions necessary to comply with this Directive by 30 June 2009 at the latest. They shall forthwith inform the Commission thereof.
+
+When Member States adopt those measures, they shall contain a reference to this Directive or be accompanied by such a reference on the occasion of their official publication. The methods of making such reference shall be laid down by Member States.
+
+2\. Member States shall communicate to the Commission the text of the main provisions of national law which they adopt in the field covered by this Directive.
+
+## Article 11 — Amendment
+
+Article 6 of Directive 2006/87/EC is hereby deleted.
+
+## Article 12 — Repeals
+
+1\. Directives 94/55/EC, 96/49/EC, 96/35/EC and 2000/18/EC are hereby repealed as from 30 June 2009.
+
+Certificates issued pursuant to the provisions of the repealed Directives shall remain valid until their expiry dates.
+
+2\. Decisions 2005/263/EC and 2005/180/EC are hereby repealed.
+
+## Article 13 — Entry into force
+
+This Directive shall enter into force on the 20th day following its publication in the Official Journal of the European Union.
+
+## Article 14 — Addressees
+
+This Directive is addressed to the Member States.
+
+## ANNEX I
+
+**TRANSPORT BY ROAD**
+
+**I.1. ADR**
+
+Annexes A and B to the ADR, as applicable with effect from 1 January 2025, it being understood that ‘contracting party’ is replaced by ‘Member State’ as appropriate.
+
+**I.2. Additional transitional provisions**
+
+1\. Member States may maintain derogations adopted on the basis of Article 4 of Directive 94/55/EC until 31 December 2010 or until Annex I, Section I.1, is amended to reflect the UN Recommendations on the Transport of Dangerous Goods referred to in that Article if this occurs earlier.
+
+2\. Within its territory each Member State may authorise the use of tanks and vehicles constructed before 1 January 1997 which do not comply with this Directive but were constructed in accordance with the national requirements in force on 31 December 1996, provided that such tanks and vehicles are maintained to the required safety levels.
+
+Tanks and vehicles constructed on or after 1 January 1997 which do not comply with this Directive but were constructed in accordance with the requirements of Directive 94/55/EC in force on the date of their construction may continue to be used for national transport.
+
+3\. Within its territory each Member State in which the ambient temperature is regularly lower than – 20 °C may impose more stringent standards as regards the operating temperature of materials used for plastic packaging, tanks and their equipment intended for use in the national transport of dangerous goods by road until provisions on the appropriate reference temperatures for given climatic zones are incorporated into Annex I, Section I.1, to this Directive.
+
+4\. Within its territory each Member State may maintain national provisions other than those laid down in this Directive with regard to the reference temperature for the transport of liquefied gases or mixtures of liquefied gases, until provisions relating to appropriate reference temperatures for designated climatic areas are incorporated into European standards and referred to in Annex I, Section I.1, to this Directive.
+
+5\. Each Member State may, for transport operations performed by vehicles registered within its territory, maintain the provisions of its national legislation in force on 31 December 1996 relating to the display or placement of an emergency action code or hazard card in place of the hazard identification number laid down in Annex I, Section I.1, to this Directive.
+
+6\. Member States may maintain national restrictions on the transport of substances containing dioxins and furans applicable on 31 December 1996.
+
+**I.3. National derogations**
+
+Derogations for Member States for the transport of dangerous goods within their territory on the basis of Article 6(2) of Directive 2008/68/EC.
+
+Numbering of derogations: RO-a/bi/bii-MS-nn
+
+RO= Road
+
+a/bi/bii= Article 6(2) a/bi/bii
+
+MS= Abbreviation of Member State
+
+nn= order number
+
+**Based on Article 6(2)(a) of Directive 2008/68/EC**
+
+BE Belgium
+
+RO-a-BE-2
+
+Subject: Transport of uncleaned empty containers having contained products of different classes.
+
+Reference to Annex I, Section I.1, to Directive 2008/68/EC: 5.4.1.1.6
+
+Content of the national legislation: Indication on the transport document ‘uncleaned empty packages having contained products of different classes’.
+
+Initial reference to the national legislation: Derogation 6-97
+
+Expiry date: 31 December 2028
+
+RO-a-BE-3
+
+Subject: Adoption of RO-a-HU-2.
+
+Initial reference to the national legislation: derogation 4-2004
+
+Expiry date: 31 December 2028
+
+RO-a-BE-4
+
+Subject: exemption of all ADR requirements for the national transport of maximum 1 000 used ionic smoke detectors from private households to the treatment facility in Belgium via the collection points provided for in the scenario for the selective collection of smoke detectors.
+
+Reference to Annex I, Section I.1, to Directive 2008/68/EC: all requirements
+
+Content of the national legislation: The domestic use of ionic smoke detectors is not submitted to regulatory control from a radiological point of view once the smoke detector is of an approved type. The transport of these smoke detectors to the end-user is also exempted from ADR requirements. (See 1.7.1.4. (e).)
+
+Directive 2002/96/EC (on waste electric and electronic equipment) requires the selective collection of used smoke detectors for treatment of the circuit boards and, for the ionic smoke detectors, to take out the radioactive substances. To make this selective collection possible a scenario has been developed to stimulate private households to bring their used smoke detectors to a collection point from which these detectors can be carried to a treatment facility sometimes via a second collection point or an intermediate storage place.
+
+At the collection points metal packaging will be made available wherein a maximum of 1 000 smoke detectors can be packed. From these points one such package with the smoke detectors can be transported together with other wastes to an intermediate storage or the treatment facility. The package will be labelled with the word ‘smoke detector’.
+
+Initial reference to the national legislation: scenario for the selective collection of smoke detectors makes part of the conditions for removal of approved instruments set out in Article 3.1.d.2 of the royal decree of 20 July 2001: the general radiation protection regulation.
+
+Comments: This derogation is necessary to make the selective collection of used ionic smoke detectors possible.
+
+Expiry date: 30 June 2027
+
+DK Denmark
+
+RO-a-DK-2
+
+Subject: Road transport of packaging containing explosive substances and packaging containing detonators on the same vehicle.
+
+Reference to Annex I, Section I.1, to Directive 2008/68/EC: 7.5.2.2
+
+Content of the Annex to the Directive: Mixed packing provisions.
+
+Content of the national legislation: The rules in the ADR must be observed when transporting dangerous goods by road.
+
+Initial reference to the national legislation: Bekendtgørelse nr. 729 of 15. august 2001 om vejtransport af farligt gods § 4, stk. l
+
+Comments: There is a practical need for being able to pack explosive substances together with detonators on the same vehicle when transporting such goods from where they are stored to the workplace and back again.
+
+When the Danish legislation concerning the transport of dangerous goods is amended, the Danish authorities will allow such transport under the following conditions:
+
+1\. Not more than 25 kg explosive substances under group D are being transported.
+
+2\. Not more than 200 pieces of detonators under group B are being transported.
+
+3\. Detonators and explosive substances must be packed separately in UN-certified packaging in accordance with the rules set out in Directive 2000/61/EC amending Directive 94/55/EC.
+
+4\. The distance between packaging that contains detonators and packaging that contains explosive substances must be at least 1 metre. This distance has to be observed even after a sudden application of the brakes. Packaging containing explosive substances and packaging containing detonators must be placed in a way that makes it possible quickly to remove them from the vehicle.
+
+5\. All other rules concerning the transport of dangerous goods by road must be observed.
+
+Expiry date: 30 June 2027
+
+RO-a-DK-3
+
+Subject: Road transport of packaging and articles containing wastes or residues of dangerous goods of certain classes from households and enterprises for the purpose of disposal.
+
+Reference to Annex I, Section I.1, to Directive 2008/68/EC: Parts and chapters 2, 3, 4.1, 5.1, 5.2, 5.4, 6, 8.1 and 8.2.
+
+Content of the Annex to the Directive: Classification provisions, special provisions, packing provisions, consignment procedures, requirements for the construction and testing of packagings, general requirements concerning transport units and equipment on board and training requirements.
+
+Content of the national legislation: Inner packaging and articles containing waste or residues of dangerous goods of certain classes collected from private households or enterprises for the purpose of disposal may be packed together in certain outer packaging and/or overpacks and carried under special consignment procedures including special packing and marking restrictions. The quantity of dangerous goods per inner packaging, per outer packaging and/or per transport unit is restricted.
+
+Initial reference to the national legislation: Bekendtgørelse nr. 818 af 28. juni 2011 om vejtransport af farligt gods § 4, stk. 3
+
+Comments: It is not possible for waste managers to apply all provisions of Annex I, Section I.1 to Directive 2008/68/EC when wastes with residual amounts of dangerous goods have been collected from private households and enterprises to be carried for disposal. The waste is usually contained in packagings that have been sold in retail.
+
+Expiry date: 30 June 2027
+
+DE Germany
+
+RO-a-DE-1
+
+Subject: Mixed packing and mixed loading of car parts with classification 1.4G together with certain dangerous goods (n4).
+
+Reference to Annex I, Section I.1, to Directive 2008/68/EC: 4.1.10 and 7.5.2.1
+
+Content of the Annex to the Directive: Provisions on mixed packing and mixed loading.
+
+Content of the national legislation: UN 0431 and UN 0503 may be loaded together with certain dangerous goods (products related to car manufacturing) in certain amounts, listed in the exemption. The value 1 000 (comparable with 1.1.3.6.4) shall not be exceeded.
+
+Initial reference to the national legislation: Gefahrgut-Ausnahmeverordnung – GGAV 2002 vom 6.11.2002 (BGBl. IS. 4350); Ausnahme 28.
+
+Comments: The exemption is needed to provide fast delivery of safety car parts depending on local demand. Due to the wide product range, storage of these products using local garages is not common.
+
+Expiry date: 30 June 2027
+
+RO-a-DE-2
+
+Subject: Exemption from the requirement to carry a transport document and a shippers’ declaration for certain quantities of dangerous goods as defined in 1.1.3.6 (n1).
+
+Reference to Annex I, Section I.1, to Directive 2008/68/EC: 5.4.1.1.1 and 5.4.1.1.6
+
+Content of the Annex to the Directive: contents of the transport document.
+
+Content of the national legislation: For all classes except Class 7: no transport document is needed if the quantity of the goods transported does not exceed the quantities given in 1.1.3.6.
+
+Initial reference to the national legislation: Gefahrgut-Ausnahmeverordnung – GGAV 2002 vom 6.11.2002 (BGBl. IS. 4350); Ausnahme 18.
+
+Comments: The information provided by the marking and labelling of packages is considered sufficient for national transport, as a transport document is not always appropriate where local distribution is involved.
+
+Derogation registered by the Commission as No 22 (under Article 6(10) of Directive 94/55/EC).
+
+Expiry date: 30 June 2027
+
+RO-a-DE-3
+
+Subject: Transportation of measurement standards and fuel pumps (empty, non-cleaned).
+
+Reference to Annex I, Section I.1, to Directive 2008/68/EC: Provisions for UN numbers 1202, 1203 and 1223.
+
+Content of the Annex to the Directive: Packaging, marking, documents, transport and handling instructions, instructions for vehicle crews.
+
+Content of the national legislation: Specification of applicable regulations and ancillary provisions for applying the derogation; up to 1 000 l: comparable with empty, non-cleaned packaging; above 1 000 l: compliance with certain regulations for tanks; transportation empty and non-cleaned only.
+
+Initial reference to the national legislation: Gefahrgut-Ausnahmeverordnung – GGAV 2002 vom 6.11.2002 (BGBl. IS. 4350); Ausnahme 24.
+
+Comments: List No 7, 38, 38a.
+
+Expiry date: 30 June 2027
+
+RO-a-DE-5
+
+Subject: Combined packaging authorisation.
+
+Reference to Annex I, Section I.1, to Directive 2008/68/EC: 4.1.10.4 MP2
+
+Content of the Annex to the Directive: Prohibition of combined packaging.
+
+Content of the national legislation: Classes 1.4S, 2, 3 and 6.1; authorisation of combined packaging of objects in Class 1.4S (cartridges for small weapons), aerosols (Class 2) and cleaning and treatment materials in Classes 3 and 6.1 (UN numbers listed) as sets to be sold in combined packaging in packaging group II and in small quantities.
+
+Initial reference to the national legislation: Gefahrgut-Ausnahmeverordnung – GGAV 2002 vom 6.11.2002 (BGBl. I S. 4350); Ausnahme 21.
+
+Comments: List No 30*, 30a, 30b, 30c, 30d, 30e, 30f, 30g.
+
+Expiry date: 30 June 2027
+
+IE Ireland
+
+RO-a-IE-1
+
+Subject: Exemption from the requirement of 5.4.0 of the ADR for a transport document for the carriage of pesticides of ADR Class 3, listed under 2.2.3.3 as FT2 pesticides (f.p. &lt; 23 °C) and ADR Class 6.1, listed under 2.2.61.3 as T6 pesticides, liquid (flash point not less than 23 °C), where the quantities of dangerous goods being carried do not exceed the quantities set out in 1.1.3.6 of the ADR.
+
+Reference to Annex I, Section I.1, to Directive 2008/68/EC: 5.4
+
+Content of the Annex to the Directive: Requirement for transport document.
+
+Content of the national legislation: A transport document is not required for the carriage of pesticides of ADR Classes 3 and 6.1, where the quantity of dangerous goods being carried does not exceed the quantities set out in 1.1.3.6 of the ADR.
+
+Initial reference to the national legislation: Regulation 82(9) of the ‘Carriage of Dangerous Goods by Road Regulations 2004’
+
+Comments: Unnecessary, onerous requirement for local transport and delivery of such pesticides.
+
+Expiry date: 30 June 2027
+
+RO-a-IE-4
+
+Subject: Exemption from the requirements of 5.3, 5.4, 7 and Annex B of the ADR, in relation to the carriage of gas cylinders of dispensing agents (for beverages) where they are carried on the same vehicle as the beverages (for which they are to be used).
+
+Reference to Annex I, Section I.1, to Directive 2008/68/EC: 5.3, 5.4, 7 and Annex B.
+
+Content of the Annex to the Directive: The marking of the vehicles, the documentation to be carried and the provisions concerning transport equipment and transport operations.
+
+Content of the national legislation: Exemption from the requirements of 5.3, 5.4, 7 and Annex B of the ADR for cylinders of gases, used as dispensing agents for beverages, where these cylinders of gases are carried on the same vehicle as the beverages (for which they are to be used).
+
+Initial reference to the national legislation: Proposed amendment to ‘Carriage of Dangerous Goods by Road Regulations, 2004’
+
+Comments: The main activity consists of the distribution of packages of beverages, which are not substances according to the ADR, together with small quantities of small cylinders of associated dispensing gases.
+
+Previously under Article 6(10) of Directive 94/55/EC.
+
+Expiry date: 30 June 2027
+
+RO-a-IE-6
+
+Subject: Exemption from some of the provisions of Annex I, Section I.1, to Directive 2008/68/EC on the packaging, marking and labelling of small quantities (below the limits in 1.1.3.6) of time expired pyrotechnic articles of classification codes 1.3G, 1.4G and 1.4S of Class 1 of Annex I, Section I.1, to Directive 2008/68/EC, bearing the respective substance identification numbers UN 0092, UN 0093, UN 0191, UN 0195, UN 0197, UN 0240, UN 0312, UN 0403, UN 0404, UN 0453, UN 0505, UN 0506 or UN 0507 for carriage to a military barracks or range for disposal.
+
+Reference to Annex I, Section I.1, to Directive 2008/68/EC: Parts 1, 2, 4, 5 and 6
+
+Content of the Annex to the Directive: General provisions. Classification. Packaging provisions. Consignment provisions. Construction and testing of packages.
+
+Content of the national legislation: The provisions of Annex I, Section I.1, to Directive 2008/68/EC on the packaging, marking and labelling of time expired pyrotechnic articles bearing the respective UN numbers UN 0092, UN 0093, UN 0191, UN 0195, UN 0197, UN 0240, UN 0312, UN 0403, UN 0404, UN 0453, UN 0505, UN 0506 or UN 0507 for carriage to a military barracks or range do not apply provided the general packaging provisions of Annex I, Section I.1, to Directive 2008/68/EC are complied with and additional information is included in the transport document. The derogation applies only to the local transport, to a military barracks or range, of small quantities of these time-expired pyrotechnics for safe disposal.
+
+Initial reference to the national legislation: S.I. 349 of 2011 Regulation 57(f) and (g)
+
+Comments: The carriage of small quantities of ‘time expired’ marine pyrotechnics, especially from pleasure boat owners and ship chandlers, to a military barracks or range for their safe disposal has created difficulties, particularly in relation to packaging requirements. The derogation is for small quantities (below those specified in 1.1.3.6) for local transport, encompassing all UN numbers assigned to maritime pyrotechnics.
+
+Expiry date: 30 June 2027
+
+RO-a-IE-7
+
+Subject: Adoption of RO-a-HU-2.
+
+Initial reference to the national legislation: -
+
+Expiry date: 30 June 2027
+
+ES Spain
+
+RO-a-ES-1
+
+Subject: Placarding of containers
+
+Legal basis: Directive 2008/68/EC, Article 6(2)(a).
+
+Reference to Annex I, Section I.1, to Directive 2008/68/EC: 5.3.1.2.
+
+Content of the Annex to the Directive: The placards shall be affixed to both sides and at each end of the container, MEGC, tank-container or portable tank.
+
+Content of the national legislation: The placard doesn’t have to be fixed to the containers carrying packages when used exclusively in road transport operations. This exemption does not apply to classes 1 or 7.
+
+Initial reference to the national legislation: Real Decreto 97/2014. Anejo 1. Apartado 8
+
+Comments: When a container, other than a tank container, is used only for road transport, and is not related to an intermodal transport operation, it is fulfilling the functions of a swap body. Swap bodies for packaged goods carriage do not require any type of danger placards, except for classes 1 and 7.
+
+Therefore, it has been considered convenient to exempt containers used as swap bodies in road transport operations exclusively from the requirement of placarding, excluding the container carrying goods of classes 1 or 7.
+
+In this exemption containers are assimilated to swap bodies in relation to security conditions, there are no reasons to call for more requirements for containers than for swap bodies since these comply with more security requirements due to their specific design and construction. The rest of placarding and marking required for vehicles carrying dangerous goods shall comply with the provisions of Chapter 5.3 of Annex I, Section I.1 to Directive 2008/68/EC.
+
+Expiry date: 30 June 2027
+
+FR France
+
+RO-a-FR-2
+
+Subject: Transport of waste arising from care activities involving a risk of infection covered by UN 3291 with a mass less than or equal to 15 kg.
+
+Reference to Annex I, Section I.1, to Directive 2008/68/EC: Annexes A and B.
+
+Content of the national legislation: Exemption from the requirements of the ADR for the transport of waste arising from care activities presenting a risk of infection covered by UN 3291 with a mass less than or equal to 15 kg.
+
+Initial reference to the national legislation: Arrêté du 1er juin 2001 relatif au transport des marchandises dangereuses par route – Article 12
+
+Expiry date: 30 June 2027
+
+RO-a-FR-5
+
+Subject: Transport of dangerous goods in public passenger transport vehicles (18).
+
+Reference to Annex I, Section I.1, to Directive 2008/68/EC: 8.3.1.
+
+Content of the Annex to the Directive: Transport of passengers and dangerous goods.
+
+Content of the national legislation: Transport of dangerous goods other than those of class 7, authorised in public transport vehicles as hand luggage: only the provisions relating to the packaging, marking and labelling of parcels set out in 4.1, 5.2 and 3.4 apply.
+
+Initial reference to the national legislation: Arrêté du 29 mai 2009 relatif au transport des marchandises dangereuses par voies terrestres, annexe I paragraphe 3.1
+
+Comments: Only dangerous goods for personal or own professional use are permitted to be carried in hand luggage. Portable gas receptacles are allowed for patients with respiratory problems in the necessary amount for one journey.
+
+Expiry date: 30 June 2027
+
+RO-a-FR-6
+
+Subject: Own-account transport of small quantities of dangerous goods (18).
+
+Reference to Annex I, Section I.1, to Directive 2008/68/EC: 5.4.1.
+
+Content of the Annex to the Directive: Obligation to have a transport document.
+
+Content of the national legislation: Own-account transport of small quantities of dangerous goods other than class 7, not exceeding the limits set in 1.1.3.6 is not subject to the obligation to have a transport document provided for in 5.4.1.
+
+Initial reference to the national legislation: Arrêté du 29 mai 2009 relatif au transport des marchandises dangereuses par voies terrestres annexe I, paragraphe 3.2.1
+
+Expiry date: 30 June 2027
+
+RO-a-FR-7
+
+Subject: Road transport of samples of chemical substances, mixtures and articles containing dangerous goods for the purpose of market surveillance.
+
+Reference to Annex I, Section I.1, to Directive 2008/68/EC: Parts 1 to 9
+
+Content of the Annex to the Directive: General provisions, classification, special provisions and exemptions concerning the carriage of dangerous goods packed in limited quantities, provisions concerning the use of packaging and tanks, consignment procedures, packaging construction requirements, provisions concerning transport conditions, handling, loading and unloading, requirements concerning transport equipment and transport operations, requirements concerning the construction and approval of vehicles.
+
+Content of the national legislation: Samples of chemical substances, mixtures and articles containing dangerous goods and carried for analysis as a part of market surveillance activity shall be packed in combination packagings. They shall comply with the rules concerning maximum quantities for inner packaging depending on the type of the dangerous good involved. The outer packaging shall comply with the requirements for solid plastic boxes (4H2, Chapter 6.1 of Annex I, Section I.1 to Directive 2008/68/EC). The outer packaging must bear the marking of Section 3.4.7, Annex I, Section I.1 to Directive 2008/68/EC and the text ‘Samples for analysis’ (in French: ‘Echantillons destinés à l’analyse’). Provided that these provisions are complied with, the carriage is not subject to the provisions of Annex I, Section I.1 to Directive 2008/68/EC.
+
+Initial reference to the national legislation: Arrêté du 12 décembre 2012 modifiant l’arrêté du 29 mai 2009 relatif aux transports de marchandises dangereuses par voies terrestres
+
+Comments: The exemption of Section 1.1.3, Annex I, Section I.1 to Directive 2008/68/EC does not provide for the transport of samples of dangerous goods for analysis taken by or on behalf of the competent authorities. To ensure effective market surveillance, France has introduced a procedure based on the system applicable to limited quantities for ensuring the safety of transport of samples containing dangerous goods. As it is not always feasible to apply the provisions of table A, the quantity limit for the inner packaging has been defined in a more operational way.
+
+Expiry date: 30 June 2027
+
+RO-a-FR-8
+
+Subject: Adoption of RO-a-HU-2. Transport of non-medicinal pharmaceutical products intended for pharmacies and hospitals
+
+Reference to Annex I, Section I.1, to Directive 2008/68/EC: Annexes A and B
+
+Content of the national legislation: Packaging is not required to have marks affixed in accordance with point 6.1.3 of Annex I, Section I.1, to Directive 2008/68/EC or to be identified if it contains dangerous goods in small quantities.
+
+Initial reference to the national legislation: Arrêté du 29 mai 2009 modifié relatif au transport des marchandises dangereuses par voies terrestres, annexe I, paragraphe 3.10
+
+Comments: This derogation is strictly limited to companies delivering pharmaceutical products to pharmacies and hospitals. As part of their activities, the companies unpack goods packaged mainly in limited quantities. These products are then placed in sealed outer packaging (plastic or cardboard boxes).
+
+Expiry date: 30 June 2027
+
+HU Hungary
+
+RO-a-HU-1
+
+Subject: Adoption of RO-a-DE-2
+
+Initial reference to the national legislation: A nemzeti fejlesztési miniszter rendelete az ADR Megállapodás A és B Mellékletének belföldi alkalmazásáról
+
+Expiry date: 30 June 2027
+
+RO-a-HU-2
+
+Subject: Distribution of goods in inner packagings to retailers or from local distribution depots to retailers or users and from retailers to end-users.
+
+Reference to Annex I, Section I.1 to Directive 2008/68/EC: 6.1.
+
+Content of the Annex to the Directive: Requirements for the construction and testing of packaging.
+
+Content of national legislation: The inner packaging is not required to have been allocated a mark according to Section 6.1.3 of Annex I, Section I.1 to Directive 2008/68/EC or to be otherwise marked if it contains dangerous goods originally packed according to Chapter 3.4 of Annex I, Section I.1 to Directive 2008/68/EC and carried in a quantity as set out in Annex 1. to the national legislation.
+
+Initial reference to the national legislation: A nemzeti fejlesztési miniszter rendelete az ADR Megállapodás A és B Mellékletének belföldi alkalmazásáról
+
+Comments: The requirements of Annex I, Section I.1 to Directive 2008/68/EC are inappropriate for the final stages of carriage from a distribution depot to a retailer or user or from a retailer to an end-user. The purpose of this derogation is to allow the inner receptacles of goods for retail distribution to be carried on the final leg of a local distribution journey without an outer packaging.
+
+Expiry date: 30 June 2027
+
+AT Austria
+
+RO-a-AT-1
+
+Subject: Small quantities of all classes except 1, 6.2 and 7
+
+Reference to Annex I, Section I.1 to Directive 2008/68/EC: 3.4
+
+Content of the Annex to the Directive: Transport of dangerous goods packed in limited quantities.
+
+Content of the national legislation: Up to 30 kg or l of dangerous goods not belonging to transport category 0 or 1 in LQ inner packaging or in packages in line with ADR or being robust articles may be packed together in X tested boxes.
+
+End-users are allowed to fetch them from the shop and to bring them back, retailers to carry them to end-users or between their own shops.
+
+The limit per transport unit is 333 kg or l, the permitted perimeter 100 km.
+
+The boxes have to be marked uniformly and accompanied by a simplified transport document.
+
+Only a few loading and handling provisions apply.
+
+Initial reference to the national legislation: Gefahrgutbeförderungsverordnung Geringe Mengen - GGBV-GMfrom 5.7.2019, BGBl. IINr. 203/2019
+
+Expiry date: 30 June 2028
+
+PT Portugal
+
+RO-a-PT-3
+
+Subject: Adoption of RO-a-HU-2
+
+Initial reference to the national legislation: Deliberação n.° 2053/2015, de 9 de novembro 2015
+
+Expiry date: 30 June 2027
+
+FI Finland
+
+RO-a-FI-1
+
+Subject: Transport of dangerous goods in certain amounts in buses
+
+Legal basis: Directive 2008/68/EC, Article 6(2)(a)
+
+Reference to Annex I, Section I.1, to Directive 2008/68/EC: Part 1, 4 and 5
+
+Content of the Annex to the Directive: Exemptions, Packaging provisions, Marking and Documentations.
+
+Content of the national legislation: In buses with passengers, small amounts of specified dangerous goods may be transported as freight so that the total quantity does not exceed 200 kilos. In a bus, a private individual may transport dangerous goods referred to in section 1.1.3 where the goods in question are packaged for retail sale and are intended for their personal use. The total quantity of flammable liquids filled in refillable receptacles may not exceed 5 litres.
+
+Initial reference to the national legislation: The Finnish Transport and Communications Agency Regulation on the Transport of Dangerous Goods by Road.
+
+Expiry date: 30 June 2027
+
+RO-a-FI-2
+
+Subject: Description of empty tanks in the transport document
+
+Legal basis: Directive 2008/68/EC, Article 6(2)(a)
+
+Reference to Annex I, Section I.1, to Directive 2008/68/EC: Part 5, 5.4.1
+
+Content of the Annex to the Directive: Special provisions for carriage in tank-vehicles or transport units with more than one tank
+
+Content of the national legislation: When transporting empty, uncleaned tank-vehicles or transport units having one or more tanks marked in accordance with 5.3.2.1.3, the last transported substance marked in the transport document may be the substance with the lowest flash-point.
+
+Initial reference to the national legislation: The Finnish Transport and Communications Agency Regulation on the Transport of Dangerous Goods by Road
+
+Expiry date: 30 June 2027
+
+RO-a-FI-3
+
+Subject: Placarding and marking of the transport unit for explosives.
+
+Legal basis: Directive 2008/68/EC, Article 6(2)(a)
+
+Reference to Annex I, Section I.1, to Directive 2008/68/EC: 5.3.2.1.1
+
+Content of the Annex to the Directive: General orange-coloured plate marking provisions
+
+Content of the national legislation: Transport units (normally vans) transporting small amounts of explosives (maximum net mass 1 000 kg) to quarries and working sites may be affixed at the front and the rear with a placard model No 1.
+
+Initial reference to the national legislation: The Finnish Transport and Communications Agency Regulation on the Transport of Dangerous Goods by Road
+
+Expiry date: 30 June 2027
+
+SE Sweden
+
+RO-a-SE-1
+
+Subject: Adoption of RO-a-FR-7
+
+Legal basis: Directive 2008/68/EC, Article 6(2)(a) (Small quantities)
+
+Reference to the Annex I, Section I.1 to Directive 2008/68/EC: Part 1 to 9.
+
+Context of the Directive:
+
+Reference to the national legislation: Särskilda bestämmelser om visa inrikes transporter av farligt gods på väg och i terräng.
+
+Comments:
+
+Expiry date: 30 June 2027
+
+**Based on Article 6(2)(b)(i) of Directive 2008/68/EC**
+
+BE Belgium
+
+RO-bi-BE-5
+
+Subject: Carriage of waste to waste disposal plants.
+
+Reference to Annex I, Section I.1, to Directive 2008/68/EC: 5.2, 5.4, 6.1.
+
+Content of the Annex to the Directive: Classification, marking and requirements concerning the packaging.
+
+Content of the national legislation: Instead of classifying waste according to the ADR, waste is assigned to different groups (flammable solvents, paints, acids, batteries, etc.) to avoid dangerous reactions within one group. The requirements for the manufacture of packaging are less restrictive.
+
+Initial reference to the national legislation: Arrêté royal relatif au transport des marchandises dangereuses par route
+
+Comments: This regulation may be used for the carriage of small quantities of waste to disposal plants.
+
+Expiry date: 31 December 2028
+
+RO-bi-BE-6
+
+Subject: Adoption of RO-bi-SE-5
+
+Initial reference to the national legislation: derogation 01-2004
+
+Expiry date: 31 December 2028
+
+RO-bi-BE-7
+
+Subject: Adoption of RO-bi-SE-6
+
+Initial reference to the national legislation: derogation 02-2003
+
+Expiry date: 31 December 2028
+
+RO-bi-BE-8
+
+Subject: Exemption from prohibition on driver or driver’s assistant opening packages of dangerous goods in a local distribution chain from a local distribution depot to a retailer or end-user and from the retailer to the end-user (except for Class 7).
+
+Reference to Annex I, Section I.1, to Directive 2008/68/EC: 8.3.3.
+
+Content of the Annex to the Directive: Prohibition on driver or driver’s assistant opening packages of dangerous goods.
+
+Content of the national legislation: Prohibition of opening packages is qualified by the proviso ‘Unless authorised to do so by the operator of the vehicle’.
+
+Initial reference to the national legislation: Arrêté royal relatif au transport des marchandises dangereuses par route
+
+Comments: If taken literally, the prohibition in the Annex as worded can create serious problems for retail distribution.
+
+Expiry date: 31 December 2028
+
+RO-bi-BE-10
+
+Subject: Transport in close proximity of industrial sites including transport on public road.
+
+Reference to Annex I, Section I.1, to Directive 2008/68/EC: Annexes A and B.
+
+Content of the Annex to the Directive: Annexes A and B.
+
+Content of the national legislation: The derogations concern the documentation, the driver’s certificate, labelling and/or marking of packages.
+
+Initial reference to the national legislation: derogations 10-2012, 12-2012, 24-2013, 31-2013, 07-2014, 08-2014, 09-2014 and 38-2014.
+
+Expiry date: 31 December 2028
+
+RO-bi-BE-11
+
+Subject: collection of butane-propane cylinders without conforming labelling
+
+Reference to Annex I, Section I.1, to Directive 2008/68/EC: 5.2.2.1.1
+
+Content of the Annex to the Directive: gas cylinders need to have hazard labels affixed.
+
+Content of the national legislation: during the collection of cylinders which contained UN 1965, the missing hazard labels don’t need to be replaced if the vehicle is correctly labelled (model 2.1)
+
+Initial reference to the national legislation: derogation 14-2016.
+
+Expiry date: 31 December 2028
+
+RO-bi-BE-12
+
+Subject: transport of UN 3509 in sheeted bulk containers
+
+Reference to Annex I, Section I.1, to Directive 2008/68/EC: 7.3.2.1
+
+Content of the Annex to the Directive: UN 3509 has to be carried in closed bulk containers
+
+Initial reference to the national legislation: derogation 15-2016
+
+Expiry date: 31 December 2028
+
+RO-bi-BE-13
+
+Subject: transport of DOT cylinders
+
+Reference to Annex I, Section I.1, to Directive 2008/68/EC: 6.2.3.4 to 6.2.3.9
+
+Content of the Annex to the Directive: gas cylinders need to be manufactured and tested according to Chapter 6.2 of ADR
+
+Content of the national legislation: gas cylinders constructed and tested according to the prescriptions of United States Department of Transportation (DOT) can be used for transport of a limited list of gases annexed to the derogation
+
+Initial reference to the national legislation: derogation BWV01-2017
+
+Expiry date: 31 December 2028
+
+DK Denmark
+
+RO-bi-DK-1
+
+Subject: UN 1202, 1203, 1223 and Class 2 – no transport document.
+
+Reference to Annex I, Section I.1, to Directive 2008/68/EC: 5.4.1.
+
+Content of the Annex to the Directive: Transport document needed.
+
+Content of the national legislation: When transporting mineral oil products in Class 3, UN 1202, 1203 and 1223 and gases in Class 2 in connection with distribution (goods to be delivered to two or more recipients and collection of returned goods in similar situations), a transport document is not required provided the written instructions besides the information requested in the ADR, contain information relating to the UN-No, name and class.
+
+Initial reference to the national legislation: Bekendtgørelse nr. 729 af 15.8.2001 om vejtransport af farligt gods.
+
+Comments: The reason for having that national derogation is that the development of electronic equipment makes it possible for e.g. the oil companies using such equipment to transmit continuously to the vehicles information about the customers. As this information is not available at the beginning of the transport operation and will be forwarded to the vehicle during the transport journey, it is not possible – before the transport begins – to draw up the transport documents. These kinds of transport are restricted to limited areas.
+
+Derogation for Denmark for a similar provision under Article 6(10) of Directive 94/55/EC.
+
+Expiry date: 30 June 2027
+
+RO-bi-DK-2
+
+Subject: Adoption of RO-bi-SE-6
+
+Initial reference to the national legislation: Bekendtgørelse nr. 437 af 6. juni 2005 om vejtransport af farligt gods, as amended.
+
+Expiry date: 30 June 2027
+
+RO-bi-DK-3
+
+Subject: Transporting dangerous goods within private premises placed in close proximity of one another.
+
+Reference to Annex I, Section I.1, to Directive 2008/68/EC: Annexes A and B.
+
+Content of the Annex to the Directive: Requirements for the carriage of dangerous goods on public roads.
+
+Content of the national legislation: Regarding transportation of dangerous goods by road between two or more separate private premises placed in close proximity, the transport can happen with a written permit from the competent authority - certain conditions apply.
+
+Initial reference to the national legislation: Bekendtgørelse nr. 828 af 10. juni 2017 om vejtransport af farligt gods.
+
+Comments: A situation can easily occur where goods are transferred between private premises situated nearby each other but where it is still necessary to access public road for a very limited distance (e.g. crossing a road). This does not constitute carriage of dangerous goods on a public road in the normal sense of the term, and only more lenient terms apply.
+
+Expiry date: 30 June 2027
+
+RO-bi-DK-4
+
+Subject: Road transport of dangerous goods of certain classes from private households and enterprises to nearby waste collecting points or intermediate processing facilities for the purpose of disposal.
+
+Reference to Annex I, Section I.1, to Directive 2008/68/EC: Parts 1 to 9
+
+Content of the Annex to the Directive: General provisions, classification provisions, special provisions, packing provisions, consignment procedures, requirements for the construction and testing of packagings, provisions concerning the conditions of carriage, loading, unloading and handling, requirements for vehicle crews, equipment, operation and documentation and requirements concerning the construction and approval of vehicles.
+
+Content of the national legislation: Dangerous goods from private households and enterprises may under certain conditions be carried to nearby waste collecting points or intermediate processing facilities for the purpose of disposal. Different provisions shall be complied with depending on the character and risks related to the transport; such as the quantity of dangerous goods per inner packaging, per outer packaging and/or per transport unit, and whether carriage of dangerous goods is ancillary to the main activity of the enterprises or not.
+
+Initial reference to the national legislation: Bekendtgørelse nr. 818 af 28. juni 2011 om vejtransport af farligt gods § 4, stk. 3.
+
+Comments: It is not possible for waste managers and enterprises to apply all provisions of Annex I, Section I.1 to Directive 2008/68/EC when wastes that may contain residues of dangerous goods are carried from private households and/or enterprises to nearby waste collecting points for the purpose of disposal. The waste is typically packagings that have been originally carried according to the exemption of subsection 1.1.3.1(c) of Annex I, Section I.1 to Directive 2008/68/EC and/or sold in retail. However, exemption 1.1.3.1(c) does not apply to carriage to waste collecting points, and provisions of Chapter 3.4 of Annex I, Section I.1 to Directive 2008/68/EC are not appropriate for carriage of waste inner packagings.
+
+Expiry date: 30 June 2027
+
+RO-bi-DK-5
+
+Subject: Exemption to allow the loading and unloading of dangerous goods, to which the special provision CV1 in 7.5.11 or S1 in 8.5 is assigned, in a public place without special permission from the competent authorities.
+
+Reference to Annex I, section I.1, to this directive: 7.5.11, 8.5
+
+Content of the Annex to the Directive: Additional provisions concerning loading, unloading and handling.
+
+Content of the national legislation: Loading and unloading of dangerous goods in a public place is permitted without special permission from the competent authority, in derogation from the requirements of 7.5.11 or 8.5.
+
+Initial reference to the national legislation: Bekendtgørelse nr. 828 af 10/06/2017 om vejtransport af farligt gods.
+
+Comments: For national transport within the state, this provision places a very onerous burden on the competent Authorities as well as on the business community dealing with the dangerous goods in question.
+
+Expiry date: 30 June 2027
+
+DE Germany
+
+RO-bi-DE-1
+
+Subject: Waiving of certain indications in the transport document (n2).
+
+Reference to Annex I, Section I.1, to Directive 2008/68/EC: 5.4.1.1.1.
+
+Content of the Annex to the Directive: Contents of the transport document.
+
+Content of the national legislation: For all classes except classes 1 (except 1.4S), 5.2 and 7:
+
+No indication needed in the transport document:
+
+(a) for the consignee in case of local distribution (except for full load and for transport with certain routings);
+
+(b) for the amount and types of packaging, if 1.1.3.6 is not applied and if the vehicle is in conformity with all the provisions of Annex A and B;
+
+(c) for empty uncleaned tanks the transport document of the last load is sufficient.
+
+Initial reference to the national legislation: Gefahrgut-Ausnahmeverordnung – GGAV 2002 vom 6.11.2002 (BGBl. IS. 4350); Ausnahme 18.
+
+Comments: Applying all provisions would not be practicable as regards the kind of traffic concerned.
+
+Derogation was registered by the Commission as No 22 (under Article 6(10) of Directive 94/55/EC).
+
+Expiry date: 30 June 2027
+
+RO-bi-DE-3
+
+Subject: Transportation of packaged hazardous waste.
+
+Reference to Annex I, Section I.1, to Directive 2008/68/EC: 1 to 5.
+
+Content of the Annex to the Directive: Classification, packaging and marking.
+
+Content of the national legislation: Classes 2 to 6.1, 8 and 9: Combined packaging and transportation of hazardous waste in packs and IBCs; waste must be packaged in internal packaging (as collected) and categorised in specific waste groups (avoidance of dangerous reactions within a waste group); use of special written instructions relating to the waste groups and as a waybill; collection of domestic and laboratory waste, etc.
+
+Initial reference to the national legislation: Gefahrgut-Ausnahmeverordnung – GGAV 2002 vom 6.11.2002 (BGBl. IS. 4350); Ausnahme 20.
+
+Comments: List No 6*.
+
+Expiry date: 30 June 2027
+
+RO-bi-DE-5
+
+Subject: Local transport of UN 3343 (nitroglycerine mixture, desensitised, liquid, flammable, not otherwise specified, with not more than 30% nitroglycerine by mass) in tank-containers, derogating from subsection 4.3.2.1.1 of Annex I, Section I.1 to Directive 2008/68/EC.
+
+Reference to Annex I, Section I.1 to Directive 2008/68/EC: 3.2, 4.3.2.1.1,
+
+Content of the Annex to the Directive: Provisions on the use of tank-containers.
+
+Content of the national legal provisions: local transport of nitroglycerin (UN 3343) in tankcontainers, over short distances, subject to compliance with the following conditions:
+
+1\. Requirements for the tank-containers
+
+1.1 Only tank-containers specifically authorised for this purpose may be used, which in other respects comply with the provisions on construction, equipment, authorisation of the construction model, tests, labelling and operation in Chapter 6.8 of Annex I, Section I.1 to Directive 2008/68/EC.
+
+1.2 The tank-container’s closing mechanism must have a pressure-release system which yields to an internal pressure of 300 kPa (3 bar) above normal pressure and in so doing frees an upward-facing opening with a pressure-release area of at least 135 cm2 (diameter 132 mm). The opening must not re-close after being activated. As a safety installation, one or more safety elements with the same activation behaviour and a corresponding pressure-release area can be used. The construction type of the safety installation must have successfully undergone type testing and type approval by the authority responsible.
+
+2\. Labelling
+
+Each tank-container is to be labelled on both sides with a danger label in accordance with model 3 in subsection 5.2.2.2.2 of Annex I, Section I.1 to Directive 2008/68/E.
+
+3\. Operating provisions
+
+3.1 It must be ensured that during transport the nitroglycerine is evenly distributed in the phlegmatisation medium and no de-mixing can take place.
+
+3.2 During loading and unloading it is not permitted to remain in or on a vehicle, except in order to operate the loading and unloading equipment.
+
+3.3 At the place of unloading, the tank-containers are to be completely emptied. If they cannot be completely emptied, they are to be closed tight after unloading until they are filled again.
+
+Original reference to national legal provisions: derogation North Rhine-Westphalia
+
+Remarks: This concerns local transport in tank-containers by road over short distances as part of an industrial process between two fixed production locations. In order to manufacture a pharmaceutical product, production location A delivers as part of a rule-compliant transport in 600 l tank-containers a resin solution, flammable (UN 1866), packaging group II, to production location B. Here a nitroglycerine solution is added and mixing takes place, producing a glue mixture containing nitroglycerine, desensitised, liquid, flammable, not otherwise specified, with not more than 30% nitroglycerine by mass (UN 3343) for further use. The return transport of this substance to production location A also takes place in the said tank-containers, which have been specially checked and approved by the relevant authority for this specific transport operation and bear the tank code L10DN.
+
+End of the period of validity: 30 June 2028
+
+RO-bi-DE-6
+
+Subject: Adoption of RO-bi-SE-6 .
+
+Initial reference to the national legislation: ƒ 1 Absatz 3 Nummer 1 der Gefahrgutverordnung Straße, Eisenbahn und Binnenschifffahrt (GGVSEB)
+
+Expiry date: 30 June 2027
+
+RO-bi-DE-7
+
+Subject: Adoption of RO-bi-BE-10
+
+Initial reference to the national legislation:
+
+Expiry date: 31 December 2027
+
+IE Ireland
+
+RO-bi-IE-3
+
+Subject: Exemption to allow the loading and unloading of dangerous goods, to which the special provision CV1 in 7.5.11 or S1 in 8.5 is assigned, in a public place without special permission from the competent authorities.
+
+Reference to Annex I, Section I.1, to Directive 2008/68/EC: 7.5 and 8.5.
+
+Content of the Annex to the Directive: Additional provisions concerning loading, unloading and handling.
+
+Content of the national legislation: Loading and unloading of dangerous goods in a public place is permitted without special permission from the competent authority, in derogation from the requirements of 7.5.11 or 8.5.
+
+Initial reference to the national legislation: Regulation 82(5) of the ‘Carriage of Dangerous Goods by Road Regulations, 2004’.
+
+Comments: For national transport within the state, this provision places a very onerous burden on the competent authorities.
+
+Expiry date: 30 June 2027
+
+RO-bi-IE-6
+
+Subject: Exemption from requirement in 4.3.4.2.2, which requires flexible filling and discharge pipes that are not permanently connected to the shell of a tank-vehicle to be empty during transport.
+
+Reference to Annex I, Section I.1, to Directive 2008/68/EC: 4.3.
+
+Content of the Annex to the Directive: Use of tank-vehicles.
+
+Content of the national legislation: Flexible hose reels (including fixed pipelines associated with them) attached to tank-vehicles engaged in the retail distribution of petroleum products with substance identification numbers UN 1011, UN 1202, UN 1223, UN 1863 and UN 1978 are not required to be empty during carriage by road, provided adequate measures are taken to prevent any loss of contents.
+
+Initial reference to the national legislation: Regulation 82(8) of the ‘Carriage of Dangerous Goods by Road Regulations, 2004’.
+
+Comments: Flexible hoses fitted to home delivery tank-vehicles must remain full at all times even during transport. The discharge system is known as a ‘wet-line’ system that requires the tank-vehicle’s meter and hose to be primed so as to ensure the customer receives the correct quantity of product.
+
+Expiry date: 30 June 2027
+
+RO-bi-IE-7
+
+Subject: Exemption from some requirements of 5.4.0, 5.4.1.1.1 and 7.5.11 of the ADR for the transport in bulk of Ammonium Nitrate Fertiliser UN 2067 from ports to consignees.
+
+Reference to Annex I, Section I.1, to Directive 2008/68/EC: 5.4.0, 5.4.1.1.1 and 7.5.11.
+
+Content of the Annex to the Directive: The requirement for a separate transport document, with the correct total quantity for the particular load included, for each transport journey; and the requirement for the vehicle to be cleaned before and after the journey.
+
+Content of the national legislation: Proposed derogation to allow modifications to the requirements of the ADR on the transport document and vehicle cleaning; to take account of the practicalities of bulk transport from port to consignee.
+
+Initial reference to the national legislation: Proposed amendment to ‘Carriage of Dangerous Goods by Road Regulations, 2004’.
+
+Comments: The provisions of the ADR require (a) a separate transport document, containing the total mass of dangerous goods carried for the particular load; and (b) the Special Provision ‘CV24’ on cleaning for each and every load being transported between the port and the consignee during the unloading of a bulk ship. As the transport is local and as it concerns the unloading of a bulk ship, involving multiple transport loads (on the same or consecutive days) of the same substance between the bulk ship and the consignee, a single transport document, with an approximate total mass of each load, should suffice and it should not be necessary to require the Special Provision ‘CV24’.
+
+Expiry date: 30 June 2027
+
+RO-bi-IE-8
+
+Subject: Transport of dangerous goods between private premises and another vehicle in the immediate vicinity of the premises, or between two parts of private premises situated in the immediate vicinity of each other but separated by a public road.
+
+Reference to the Annex of the Directive: Annex I, Section 1.1, to Directive 2008/68/EC: Annexes A and B.
+
+Content of the Annex to the Directive: Requirements for the carriage of dangerous goods by road.
+
+Content of the national legislation: Disapplication of the regulations where a vehicle is being used to transfer dangerous goods
+
+(a) between private premises and another vehicle in the immediate vicinity of those premises; or
+
+(b) between two parts of private premises in the immediate vicinity of each other but which may be separated by a public road,
+
+provided that the transport is carried out by means of the most direct route.
+
+Initial reference to the national legislation: European Communities (Carriage of Dangerous Goods by Road and Use of Transportable Pressure Equipment) Regulations 2011 and 2013, Regulation 56.
+
+Comments: Various situations can occur where goods are transferred between two parts of private premises or between private premises and an associated vehicle which are separated by a public road. This form of transport does not constitute the carriage of dangerous goods in the usual sense, and thus the regulations pertaining to the carriage of dangerous goods do not need to be applied. See also RO-bi-SE-3 and RO-bi-DK-3.
+
+Expiry date: 30 June 2027
+
+EL Greece
+
+RO-bi-EL-1
+
+Subject: Derogation from the safety requirements for fixed tanks (tank-vehicles) with a gross mass of less than 4 t used for the local transport of gas oil (UN 1202), first registered in Greece between 1 January 1991 and 31 December 2002.
+
+Reference to Annex I, Section I.1, to Directive 2008/68/EC: 1.6.3.6, 6.8.2.4.2, 6.8.2.4.3, 6.8.2.4.4, 6.8.2.4.5, 6.8.2.1.17-6.8.2.1.22, 6.8.2.1.28, 6.8.2.2, 6.8.2.2.1, 6.8.2.2.2.
+
+Content of the Annex to the Directive: Requirements for construction, equipment, type approval, inspections and tests, and marking of fixed tanks (tank-vehicles), removable tanks and tank containers and tank swap bodies, with shells made of metallic materials, and battery vehicles and MEGCs.
+
+Content of the national legislation: Transitional provision: Fixed tanks (tank-vehicles) with a gross mass of less than 4 t used for the local transport of gas oil only (UN 1202), first registered in Greece between 1 January 1991 and 31 December 2002 whose shell thickness is less than 3 mm, may still be used. It is intended to cover local transport for vehicles registered during that period. This transitional provision will be in force for tank vehicles only if they are transformed according to 6.8.2.1.20 and adapted according to:
+
+1\. Paragraphs of the ADR for inspection and tests: 6.8.2.4.2, 6.8.2.4.3, 6.8.2.4.4, 6.8.2.4.5
+
+2\. Tanks shall fulfil the requirements of 6.8.2.1.28, 6.8.2.2.1 and 6.8.2.2.2.
+
+In the field H ‘Duration of validity’ of the vehicle’s registration certificate shall be written ‘ 30.6.2027 ’
+
+Initial reference to the national legislation: Τεχνικές Προδιαγραφές κατασκευής, εξοπλισμού και ελέγχων των δεξαμενών μεταφοράς συγκεκριμένων κατηγοριών επικινδύνων εμπορευμάτων για σταθερές δεξαμενές (οχήματα-δεξαμενές), αποσυναρμολογούμενες δεξαμενές που βρίσκονται σε κυκλοφορία (Requirements for construction, equipment, inspections and tests of fixed tanks (tank-vehicles) and removable tanks in circulation, for some categories of dangerous goods).
+
+Expiry date: 30 June 2027
+
+ES Spain
+
+RO-bi-ES-2
+
+Subject: Special equipment for distribution of anhydrous ammonia.
+
+Reference to Annex I, Section I.1, to Directive 2008/68/EC: 6.8.2.2.2.
+
+Content of the Annex to the Directive: In order to avoid any loss of contents in the event of damage to the external fittings (pipes, lateral shut-off devices), the internal stop valve and its seating must be protected against the danger of being wrenched off by external stresses or be so designed as to resist such stresses. The filling and discharge devices (including flanges or threaded plugs) and protective caps (if any) must be capable of being secured against any unintended opening.
+
+Content of the national legislation: Tanks used for agricultural purposes for the distribution and application of anhydrous ammonia which were brought into service before 1 January 1997 may be equipped with external, instead of internal, safety fittings, provided they offer protection at least equivalent to the protection provided by the wall of the tank.
+
+Initial reference to the national legislation: Real Decreto 97/2014. Anejo 1. Apartado 3.
+
+Comments: Before 1 January 1997 a type of tank equipped with external safety fittings was used exclusively in agriculture to apply anhydrous ammonia directly onto the land. Various tanks of this kind are still in use today. They are rarely driven, laden, on the road, but are used solely for fertiliser on large farms.
+
+Expiry date: 30 June 2027
+
+FR France
+
+RO-bi-FR-1
+
+Subject: Utilisation of maritime document as transport document for short-distance trips following unloading of vessel.
+
+Reference to Annex I, Section I.1, to Directive 2008/68/EC: 5.4.1
+
+Content of the Annex to the Directive: Information to appear in the document used as transport document for hazardous goods.
+
+Content of the national legislation: The maritime document is used as transport document within a radius of 15 km.
+
+Initial reference to the national legislation: Arrêté du 1er juin 2001 relatif au transport des marchandises dangereuses par route – Article 23-4.
+
+Expiry date: 30 June 2027
+
+RO-bi-FR-3
+
+Subject: Transport of fixed LPG storage tanks (18).
+
+Reference to Annex I, Section I.1, to Directive 2008/68/EC: Annexes A and B.
+
+Content of the national legislation: The transport of fixed LPG storage tanks is subject to specific rules. Applicable only to short distances.
+
+Initial reference to the national legislation: Arrêté du 1er juin 2001 relatif au transport des marchandises dangereuses par route – Article 30.
+
+Expiry date: 30 June 2027
+
+RO-bi-FR-4
+
+Subject: Adoption of RO-bi-BE-8
+
+Initial reference to the national legislation: Arrêté du 29 mai 2009 modifié relatif aux transports de marchandises dangereuses par voies terrestres.
+
+Expiry date: 30 June 2027
+
+RO-bi-FR-5
+
+Subject: Adoption of RO-bi-BE-5
+
+Initial reference to the national legislation: -
+
+Expiry date: 30 June 2027
+
+HU Hungary
+
+RO-bi-HU-1
+
+Subject: Adoption of RO-bi-SE-3
+
+Initial reference to the national legislation: A nemzeti fejlesztési miniszter rendelete az ADR Megállapodás A és B Mellékletének belföldi alkalmazásáról
+
+Expiry date: 30 June 2027
+
+NL The Netherlands
+
+RO-bi-NL-13
+
+Subject: Scheme for transport of domestic hazardous waste 2015
+
+Reference to Annex I, Section I.1, to Directive 2008/68/EC: 1.1.3.6, 3.3, 4.1.4, 4.1.6, 4.1.8, 4.1.10, 5.1.2, 5.4.0, 5.4.1, 5.4.3, 6.1, 7.5.4, 7.5.7, 7.5.9, 8 and 9.
+
+Content of the Annex to the Directive: Exemptions for certain quantities; special provisions; use of packaging; use of over-packaging; documentation; construction and testing of packaging; loading, unloading and handling; manning; equipment; operation; vehicles and documentation; construction and approval of vehicles.
+
+Content of the national legislation: provisions relating to the transport of small collected domestic hazardous waste as well as domestic hazardous waste from businesses, which is supplied in appropriate packaging with a maximum capacity of 60 litres. Given the small quantities involved in each instance and given the diverse nature of the various substances, it is not possible to conduct the transport operations in total compliance with ADR rules. Accordingly, a simplified variant deviating from a number of provisions in the ADR is therefore stipulated under the abovementioned scheme.
+
+Initial reference to the national legislation: Scheme for transport of domestic hazardous waste 2015
+
+Comments: The scheme was set up to enable individuals and businesses to deposit small chemical waste at a single location. The substances in question therefore consist of residues such as paint waste. The danger level is minimised by the choice of means of transport, involving, inter alia, the use of special transport elements and ‘no smoking’ notices plus a yellow flashing light clearly visible to members of the public. The crucial point as far as transport is concerned is that safety is guaranteed. This can be achieved by, for instance, having the substances transported in sealed packagings so as to avoid dispersal, or the risk of toxic vapours leaking or accumulating in the vehicle. Incorporated in the vehicle are units suitable for storing the various categories of waste and providing protection against shunting and accidental displacement as well as inadvertent opening. At the same time, notwithstanding the small quantities of waste presented, the transport operator must have a certificate of professional competence, given the diverse nature of the substances involved. Because of the lack of knowledge on the part of private individuals regarding the danger levels associated with these substances, written instructions shall be provided, as stipulated in the Annex to the scheme.
+
+Expiry date: 30 June 2027
+
+RO-bi-NL-14
+
+Subject: Adoption of RO-bi-SE-4
+
+Initial reference to the national legislation: Wet Vervoer Gevaarlijke Stoffen, VLG
+
+Expiry date: 30 June 2027
+
+PT Portugal
+
+RO-bi-PT-1
+
+Subject: Transport documentation for UN 1965
+
+Reference to Annex I, Section I.1, to Directive 2008/68/EC: 5.4.1.
+
+Content of the Annex to the Directive: Requirements for transport documentation.
+
+Content of the national legislation: The proper shipping name to be indicated in the transport document, as provided for in Section 5.4.1 of the RPE (Regulamento Nacional de Transporte de Mercadorias Perigosas por Estrada), for commercial butane and propane gases covered by the collective heading ‘UN No 1965 hydrocarbon gas mixture, liquefied, n.o.s.’, transported in cylinders, may be replaced by other trade names as follows:
+
+‘UN 1965 Butane’ in the case of mixtures A, A01, A02 and A0, as described in subsection 2.2.2.3 of the RPE, transported in cylinders;
+
+‘UN 1965 Propane’ in the case of mixture C, as described in subsection 2.2.2.3 of the RPE, transported in cylinders.
+
+Initial reference to the national legislation: Despacho DGTT 7560/2004, 16 April 2004, under Article 5, No 1, of Decreto-Lei No 267-A/2003 of 27 October
+
+Comments: The importance of making it easier for economic operators to fill in transport documents for dangerous goods is recognised, provided that the safety of these operations is not affected.
+
+Expiry date: 30 June 2027
+
+RO-bi-PT-2
+
+Subject: Transport documentation for empty uncleaned tanks and containers.
+
+Reference to Annex I, Section I.1, to Directive 2008/68/EC: 5.4.1.
+
+Content of the Annex to the Directive: Requirements for transport documentation
+
+Content of the national legislation: For the return journeys of empty tanks and containers that have transported dangerous goods, the transport document referred to in Section 5.4.1 of the RPE may be replaced by the transport document issued for the immediately preceding journey made to deliver the goods.
+
+Initial reference to the national legislation: Despacho DGTT15162/2004, 28 July 2004, under Article 5, No 1, of Decreto-Lei No 267-A/2003, of 27 October
+
+Comments: The obligation that the transport of empty tanks and containers that have contained dangerous goods be accompanied by a transport document in accordance with the RPE causes, in certain cases, practical difficulties, which can be kept to the minimum without prejudice to safety.
+
+Expiry date: 30 June 2027
+
+RO-bi-PT-3
+
+Subject: Adoption of RO-bi-BE-8
+
+Initial reference to the national legislation: Deliberação 12/2021, de 5 Janeiro 2021
+
+Expiry date: 30 June 2027
+
+FI Finland
+
+RO-bi-FI-1
+
+Subject: Modification of information in the transport document for explosive substances.
+
+Legal basis: Directive 2008/68/EC, Article 6(2)(a)
+
+Reference to Annex I, Section I.1, to Directive 2008/68/EC: 5.4.1.2.1(a)
+
+Content of the Annex to the Directive: Special provisions for Class 1.
+
+Content of the national legislation: In the transport document it is permissible to use the number of detonators (1 000 detonators correspond to 1 kg explosives) instead of the actual net mass of explosive substances.
+
+Initial reference to the national legislation: The Finnish Transport and Communications Agency Regulation on the Transport of Dangerous Goods by Road
+
+Comments: The information is considered sufficient for national transport. This derogation is used mainly for the blasting industry in respect of small amounts transported locally.
+
+Expiry date: 30 June 2027
+
+RO-bi-FI-3
+
+Subject: Adoption of RO-bi-DE-1
+
+Initial reference to the national legislation: The Finnish Transport and Communications Agency Regulation on the Transport of Dangerous Goods by Road
+
+Expiry date: 30 June 2027
+
+RO-bi-FI-4
+
+Subject: Adoption of RO-bi-SE-6
+
+Initial reference to the national legislation: Act on the Transport of Dangerous Goods (541/2023)
+
+Expiry date: 30 June 2027
+
+SE Sweden
+
+RO-bi-SE-1
+
+Subject: Carriage of hazardous waste to hazardous waste disposal plants.
+
+Reference to Annex I, Section I.1 to Directive 2008/68/EC: Part 5 and 6.
+
+Content of the Annex to the Directive: Requirements for construction and testing of packages.
+
+Content of the national legislation: Carriage of packagings containing dangerous goods as waste shall be carried out in accordance with the provisions of ADR from which only a few exemptions are allowed. Exemptions are not permitted for all types of substances and articles.
+
+The main exemptions are:
+
+Small packagings (less than 30 kg) of dangerous goods as waste may be packed in packagings, including IBCs and large packagings, without complying with the provisions of subsections 6.1.5.2.1, 6.1.5.8.2, 6.5.6.1.2, 6.5.6.14.2, 6.6.5.2.1 and 6.6.5.4.3 of Annex I, Section I.1 to this Directive. Packagings, including IBCs and large packagings need not be tested as prepared for carriage with a representative sample of small inner packages.
+
+This is permitted provided that:
+
+— packagings, IBCs and large packagings conform to a type which has been tested and approved according to packing group I or II of the applicable provisions of Sections 6.1, 6.5 or 6.6 of Annex I, Section I.1 to this Directive,
+
+— the small packagings are packed with absorbent material that retains any free liquid that might escape into the outer packagings, IBCs or large packagings during carriage, and
+
+— the packagings, IBCs or large packagings as prepared for carriage have a gross mass of no more than the permitted gross mass stated on the UN design type marking for packing groups I or II for the packagings, IBCs or large packagings; and
+
+— the following sentence is included in the transport document ‘Packed according to part 16 of ADR-S’.
+
+Initial reference to the national legislation: Appendix S – Specific regulations for the domestic transport of dangerous goods by road issued in accordance with the Transport of Dangerous Goods Act
+
+Comments: subsections 6.1.5.2.1, 6.1.5.8.2, 6.5.6.1.2, 6.5.6.14.2, 6.6.5.2.1 and 6.6.5.4.3 of Annex I, Section I.1 to this Directive are difficult to apply because the packagings, IBCs and large packagings shall be tested with a representative sample of the waste, which is hard to predict on beforehand.
+
+Expiry date: 30 June 2027
+
+RO-bi-SE-2
+
+Subject: The name and address of the consignor in the transport document.
+
+Reference to Annex I, Section I.1, to Directive 2008/68/EC: 5.4.1.1.
+
+Content of the Annex to the Directive: General information required in the transport document.
+
+Content of the national legislation: National legislation states that the name and address of the consignor is not required if empty, uncleaned packaging is returned as part of a distribution system.
+
+Initial reference to the national legislation: Särskilda bestämmelser om vissa inrikes transporter av farligt gods på väg och i terräng
+
+Comments: Empty uncleaned packaging being returned will in most cases still contain small quantities of dangerous goods.
+
+This derogation is mainly used by industries when returning empty uncleaned gas receptacles in exchange for full ones.
+
+Expiry date: 30 June 2027
+
+RO-bi-SE-3
+
+Subject: Transport of dangerous goods in the close proximity of industrial site(s), including transport on public roads between various parts of the site(s).
+
+Reference to Annex I, Section I.1, to Directive 2008/68/EC: Annexes A and B.
+
+Content of the Annex to the Directive: Requirements for the transport of dangerous goods on public roads.
+
+Content of the national legislation: Transport in the close proximity of industrial site(s), including transport on public roads between various parts of the site(s). The derogations concern the labelling and marking of packages, transport documents, approval of design type packagings, vehicle equipment, driver’s certificate and certificate of approval of vehicles.
+
+Initial reference to the national legislation: Särskilda bestämmelser om vissa inrikes transporter av farligt gods på väg och i terräng
+
+Comments: There are several situations in which dangerous goods are transferred between premises situated on opposite sides of a public road. This form of transport does not constitute carriage of dangerous goods on a private road and shall therefore be associated with the relevant requirements. Compare also with Article 6(14) of Directive 96/49/EC.
+
+Expiry date: 30 June 2027
+
+RO-bi-SE-4
+
+Subject: Transport of dangerous goods that have been seized by the authorities.
+
+Reference to Annex I, Section I.1, to Directive 2008/68/EC: Annex A and B.
+
+Content of the Annex to the Directive: Requirements for the transport of dangerous goods by road.
+
+Content of the national legislation: Deviations from the regulations may be permitted if they are motivated by reasons of labour protection, unloading risks, submission of evidence etc.
+
+Deviations from the regulations are permitted only if satisfactory safety levels are met during normal conditions of carriage.
+
+Initial reference to the national legislation: Särskilda bestämmelser om vissa inrikes transporter av farligt gods på väg och i terräng
+
+Comments: These derogations may be applied only by authorities seizing dangerous goods.
+
+This derogation is intended for local transport e.g. of goods that have been seized by the police, such as explosives or stolen property. The problem with these types of goods is that one can never be sure of classifications. In addition, the goods are often not packed, marked or labelled in accordance with the ADR. There are several hundred such transportations carried out by the police every year. In the case of smuggled liquor, this must be transported from the place where it is seized to a facility where evidence is stored and then on to a facility for destruction; the latter two may be quite far apart from each other. The deviations permitted are: (a) each package does not need to be labelled; and (b) approved packages do not need to be used. However, each pallet containing such packages must be correctly labelled. All other requirements must be fulfilled. There are approximately 20 such transportations each year.
+
+Expiry date: 30 June 2027
+
+RO-bi-SE-5
+
+Subject: Transport of dangerous goods in and in close proximity to ports.
+
+Reference to Annex I, Section I.1, to Directive 2008/68/EC: 8.1.2, 8.1.5, 9.1.2
+
+Content of the Annex to the Directive: Documents to be carried on the transport unit; every transport unit carrying dangerous goods must be equipped with the specified equipment; vehicle approval.
+
+Content of the national legislation: Documents (except for the driver’s certificate) need not be carried on the transport unit.
+
+A transport unit need not be equipped with the equipment specified in 8.1.5.
+
+Tractors need not have a certificate of approval.
+
+Initial reference to the national legislation: Särskilda bestämmelser om vissa inrikes transporter av farligt gods på väg och i terräng
+
+Comments: Compare Directive 96/49/EC, Article 6(14).
+
+Expiry date: 30 June 2027
+
+RO-bi-SE-6
+
+Subject: Inspectors’ ADR training certificate.
+
+Reference to Annex I, Section I.1, to Directive 2008/68/EC: 8.2.1.
+
+Content of the Annex to the Directive: Drivers of vehicles must attend training courses.
+
+Content of the national legislation: Inspectors who perform the yearly technical inspection of the vehicle do not need to attend the training courses mentioned in 8.2 or hold the ADR training certificate.
+
+Initial reference to the national legislation: Särskilda bestämmelser om vissa inrikes transporter av farligt gods på väg och i terräng
+
+Comments: In some cases, vehicles being tested in the technical inspection may be carrying dangerous goods as load, e.g. uncleaned, empty tanks.
+
+The requirements in 1.3 and 8.2.3 are still applicable.
+
+Expiry date: 30 June 2027
+
+RO-bi-SE-7
+
+Subject: Local distribution of UN 1202, 1203, 1223 and 3475 in tankers.
+
+Reference to Annex I, Section I.1, to Directive 2008/68/EC: 5.4.1.1.6, 5.4.1.4.1.
+
+Content of the Annex to the Directive: For empty uncleaned tanks and tank-containers the description shall be in accordance with 5.4.1.1.6. The name and address of multiple consignees may be entered in other documents.
+
+Content of the national legislation: For empty, uncleaned tanks or tank-containers the description in the transport document according to 5.4.1.1.6 is not needed if the amount of the substance in the loading plan is marked with 0. The name and address of the consignees are not required in any document on board the vehicle.
+
+Initial reference to the national legislation: Särskilda bestämmelser om vissa inrikes transporter av farligt gods på väg och i terräng
+
+Expiry date: 30 June 2027
+
+RO-bi-SE-9
+
+Subject: Local transport in relation to agricultural sites or construction sites.
+
+Reference to Annex I, Section I.1, to Directive 2008/68/EC: 5.4, 6.8 and 9.1.2.
+
+Content of the Annex to the Directive: Transport document; Construction of tanks; Certificate of approval.
+
+Content of the national legislation: Local transport in relation to agricultural sites or construction sites need not comply with some regulations:
+
+(a) the dangerous goods declaration is not required;
+
+(b) older tanks/containers not constructed according to 6.8 but according to older national legislation and fitted on crew wagons may still be used;
+
+(c) older tankers, not fulfilling the requirements in 6.7 or 6.8, intended for the transport of substances of UN 1268, 1999, 3256 and 3257, with or without road surface coating equipment, may still be used for local transport and in close proximity to road work places;
+
+(d) certificates of approval for crew wagons and tankers with or without road surface coating equipment are not required.
+
+Initial reference to the national legislation: Särskilda bestämmelser om vissa inrikes transporter av farligt gods på väg och i terräng
+
+Comments: A crew wagon is a kind of caravan for a work crew with a crew room and fitted with a non-approved tank/container for diesel fuel intended for the operation of forestry tractors.
+
+Expiry date: 30 June 2027
+
+RO-bi-SE-10
+
+Subject: Tank transport of explosives.
+
+Reference to Annex I, Section I.1, to Directive 2008/68/EC: 4.1.4.
+
+Content of the Annex to the Directive: Explosives may be packaged only in accordance with 4.1.4.
+
+Content of the national legislation: The competent national authority will approve vehicles intended for tank transport of explosives. Tank transport is permissible only for those explosives listed in the regulation or by special authorisation from the competent authority.
+
+A vehicle loaded with explosives in tanks must be marked and labelled in accordance with 5.3.2.1.1, 5.3.1.1.2 and 5.3.1.4, Only one vehicle in the transport unit may contain dangerous goods.
+
+Initial reference to the national legislation: Appendix S – Specific regulations for the domestic transport of dangerous goods by road issued in accordance with the Transport of Dangerous Goods Act and the Swedish regulation SÄIFS 1993:4.
+
+Comments: This is applicable only to domestic transport and when the transport operation is mostly of a local nature. The regulations in question were in force before Sweden joined the European Union.
+
+Only two companies perform transport operations with explosives in tank-vehicles. In the near future transition to emulsions is expected.
+
+Old derogation No 84.
+
+Expiry date: 30 June 2027
+
+RO-bi-SE-11
+
+Subject: Driver’s licence
+
+Reference to Annex I, Section I.1, to Directive 2008/68/EC: 8.2.
+
+Content of the Annex to the Directive: Requirements concerning the training of the vehicle crew.
+
+Content of the national legislation: Driver training is not permitted with any vehicle referred to in 8.2.1.1.
+
+Initial reference to the national legislation: Appendix S – Specific regulations for the domestic transport of dangerous goods by road issued in accordance with the Transport of Dangerous Goods Act
+
+Comments: Local transport.
+
+Expiry date: 30 June 2027
+
+RO-bi-SE-12
+
+Subject: Carriage of UN 0335 fireworks.
+
+Reference to Annex I, Section I.1, to Directive 2008/68/EC: Annex B, 7.2.4, V2(1)
+
+Content of the Annex to the Directive: Provisions for the use of EX/II and EX/III vehicles.
+
+Content of the national legislation: When carrying UN 0335 fireworks, Special Provision V2(1) in 7.2.4 is applicable only to a net explosive content of more than 3 000 kg (4 000 kg with trailer), provided the fireworks have been assigned to UN 0335 according to the default fireworks classification table in 2.1.3.5.5 of the fourteenth revised edition of the UN Recommendations on the Transport of Dangerous Goods.
+
+Such assignment shall be made with the agreement of the competent authority. A verification of the assignment shall be carried on the transport unit.
+
+Initial reference to the national legislation: Appendix S – Specific regulations for the domestic transport of dangerous goods by road issued in accordance with the Transport of Dangerous Goods Act
+
+Comments: The carriage of fireworks is limited in time to two short periods of the year, the turn of the year and the turn of the month April/May. The carriage from consignors to terminals can be effected by the present fleet of EX-approved vehicles without great problems. However, the distribution both of fireworks from terminals to shopping areas and of the surplus back to the terminal is limited due to a lack of EX-approved vehicles. The carriers are not interested in investing in such approvals because they cannot recover their costs. This places the whole existence of consignors of fireworks in jeopardy because they cannot get their products on the market.
+
+When using this derogation, the classification of the fireworks must be made on the basis of the default list in the UN Recommendations, in order to get the most up-to-date classification possible.
+
+A similar type of exception exists for UN 0336 fireworks incorporated in Special Provision 651, 3.3.1 of the ADR 2005.
+
+Expiry date: 30 June 2027
+
+RO-bi-SE-13
+
+Subject: Adoption of RO-bi-DK-4
+
+Legal basis: Directive 2008/68/EC, Article 6(2)(b)(i) (Local transport over short distances)
+
+Reference to the Annex I, Section n I,1 to Directive 2008/68/EC: Parts 1 to 9.
+
+Content of the Annex to the Directive:
+
+Reference to national legislation: Särskilda bestämmelser om visa inrikes transporter av farligt gods på väg och i terräng
+
+Comments:
+
+Expiry date: 30 June 2027
+
+## ANNEX II
+
+**TRANSPORT BY RAIL**
+
+**II.1 RID**
+
+The Annex to the RID, as applicable with effect from 1 January 2025, it being understood that ‘RID Contracting State’ is replaced by ‘Member State’ as appropriate.
+
+**II.2. Additional transitional provisions**
+
+1\. Member States may maintain derogations adopted on the basis of Article 4 of Directive 96/49/EC until 31 December 2010 or until Annex II, Section II.1 is amended to reflect the UN Recommendations on the Transport of Dangerous Goods referred to in that article if this occurs earlier.
+
+2\. Within its territory each Member State may authorise the use of wagons and tank wagons of gauge 1 520 /1 524 mm constructed before 1 July 2005 which do not comply with this Directive but were constructed in accordance with Annex II to the SMGS or with that Member State's national provisions in force on 30 June 2005, provided that those wagons are maintained to the required safety levels.
+
+3\. Within its territory each Member State may authorise the use of tanks and wagons constructed before 1 January 1997 which do not comply with this Directive but were constructed in accordance with the national requirements in force on 31 December 1996, provided that such tanks and wagons are maintained to the required safety levels.
+
+Tanks and wagons constructed on or after 1 January 1997 which do not comply with this Directive but were constructed in accordance with the requirements of Directive 96/49/EC that were applicable on the date of their construction may continue to be used for national transport.
+
+4\. Within its territory each Member State in which the ambient temperature is regularly lower than – 20 °C may impose more stringent standards as regards the operating temperature of materials used for plastic packaging, tanks and their equipment intended for use in the national transport of dangerous goods by rail until provisions on the appropriate reference temperatures for given climatic zones are incorporated into Annex II, Section II.1, to this Directive.
+
+5\. Within its territory each Member State may maintain national provisions other than those laid down in this Directive with regard to the reference temperature for the transport of liquefied gases or mixtures of liquefied gases, until provisions relating to appropriate reference temperatures for designated climatic areas are incorporated into European standards and referred to in Annex II, Section II.1, to this Directive.
+
+6\. Each Member State may, for transport operations performed by wagons registered within its territory, maintain the provisions of its national legislation in force on 31 December 1996 relating to the display or placement of an emergency action code or hazard card in place of the hazard identification number, provided for in Annex II, Section II.1, to this Directive.
+
+7\. For transport via the Channel Tunnel, France and the United Kingdom may impose provisions more stringent than those laid down in this Directive.
+
+8\. A Member State may maintain and adopt provisions for its territory on the transport of dangerous goods by rail from and to contracting parties of the OSJD. By means of appropriate measures and obligations the Member States concerned shall guarantee the maintenance of a level of safety equivalent to that provided for in Annex II, Section II.1.
+
+The Commission will be informed of such provisions and will inform the other Member States accordingly.
+
+Within 10 years of the entry into force of this Directive, the Commission will assess the consequences of the provisions mentioned in this paragraph. The Commission will, if necessary, submit appropriate proposals together with a report.
+
+9\. Member States may maintain national restrictions on the transport of substances containing dioxins and furans applicable on 31 December 1996.
+
+**II.3. National derogations**
+
+Derogations for Member States for the transport of dangerous goods within their territory on the basis of Article 6(2) of Directive 2008/68/EC.
+
+Numbering of derogations: RA-a/bi/bii-MS-nn
+
+RA=Rail
+
+a/bi/bii=Article 6(2) a/bi/bii
+
+MS= Abbreviation of Member State
+
+nn= order number
+
+Based on Article 6(2)(a) of Directive 2008/68/EC
+
+**DE Germany**
+
+RA-a-DE-2
+
+Subject: Combined packaging authorisation.
+
+Reference to Annex II, Section II.1, to Directive 2008/68/EC: 4.1.10.4 MP2.
+
+Content of the Annex to the Directive: Prohibition of combined packaging.
+
+Content of the national legislation: Class 1.4S, 2, 3 and 6.1; authorisation of combined packaging of objects in Class 1.4S (cartridges for small weapons), aerosols (Class 2) and cleaning and treatment materials in Class 3 and 6.1 (UN numbers listed) as sets to be sold in combined packaging in packaging group II and in small quantities.
+
+Initial reference to the national legislation: Gefahrgut-Ausnahmeverordnung – GGAV 2002 vom 6.11.2002 (BGBl. IS. 4350); Ausnahme 21.
+
+Comments: List No 30*, 30a, 30b, 30c, 30d, 30e, 30f, 30g.
+
+Expiry date: 30 June 2027
+
+**FR France**
+
+RA-a-FR-3
+
+Subject: Transport for the needs of the rail carrier.
+
+Reference to Annex II, Section II.1, to Directive 2008/68/EC: 5.4.1.
+
+Content of the Annex to the Directive: Information concerning hazardous materials to be indicated on the consignment note.
+
+Content of the national legislation: Transport for the needs of the rail carrier of quantities not exceeding the limits set in 1.1.3.6 is not subject to the load declaration obligation.
+
+Initial reference to the national legislation: Arrêté du 5 juin 2001 relatif au transport des marchandises dangereuses par chemin de fer – Article 20.2
+
+Expiry date: 30 June 2027
+
+RA-a-FR-4
+
+Subject: Exemption from the labelling of certain mail wagons.
+
+Reference to Annex II, Section II.1, to Directive 2008/68/EC: 5.3.1.
+
+Content of the Annex to the Directive: Obligation to affix labels on the walls of wagons.
+
+Content of the national legislation: Only mail wagons carrying over 3 tonnes of a material in the same class (other than 1, 6.2 or 7) must be labelled.
+
+Initial reference to the national legislation: Arrêté du 5 juin 2001 relatif au transport des marchandises dangereuses par chemin de fer – Article 21.1
+
+Expiry date: 30 June 2027
+
+**SE Sweden**
+
+RA-a-SE-1
+
+Subject: A railway carriage carrying dangerous goods, as express goods, need not be marked with labels.
+
+Reference to Annex II, Section II.1, to Directive 2008/68/EC: 5.3.1.
+
+Content of the Annex to the Directive: Railway carriages carrying dangerous goods must display labels.
+
+Content of the national legislation: A railway carriage carrying dangerous goods, as express goods, need not be marked with labels.
+
+Initial reference to the national legislation: Särskilda bestämmelser om vissa inrikes transporter av farligt gods på väg och i terräng
+
+Comments: There are quantity limits in the RID for goods designated as express goods. Therefore it is a small quantity issue.
+
+Expiry date: 30 June 2027
+
+**Based on Article 6(2)(b)(i) of Directive 2008/68/EC**
+
+DK Denmark
+
+RA-bi-DK-1
+
+Subject: Carriage of dangerous goods in tunnels
+
+Reference to Annex II, Section II.1, to Directive 2008/68/EC: 7.5
+
+Content of the Annex to the Directive: Loading, unloading and protective distances
+
+Content of the national legislation: The legislation provides for alternative provisions than provided for in Annex II, Section II.1 to Directive 2008/68/EC regarding carriage through the rail tunnel of the fixed link across the Great Belt and Øresund. These alternative provisions relate only to load volume and the distance between dangerous goods loads.
+
+Initial reference to the national legislation: Bestemmelser om transport af Eksplosiver i jernbanetunnellerne på Storebælt og Øresund, 11. maj 2017
+
+Comments:
+
+Expiry date: 30 June 2027
+
+DE Germany
+
+RA-bi-DE-2
+
+Subject: Transportation of packaged hazardous waste.
+
+Reference to Annex II, Section II.1, to Directive 2008/68/EC: 1 to 5.
+
+Content of the Annex to the Directive: Classification, packaging and marking.
+
+Content of the national legislation: Classes 2 to 6.1, 8 and 9: Combined packaging and transportation of hazardous waste in packs and IBCs; waste must be packaged in internal packagings (as collected) and categorised in specific waste groups (avoidance of dangerous reactions within a waste group); use of special written instructions relating to the waste groups and as a waybill; collection of domestic and laboratory waste, etc.
+
+Initial reference to the national legislation: Gefahrgut-Ausnahmeverordnung – GGAV 2002 vom 6.11.2002 (BGBl. IS. 4350); Ausnahme 20.
+
+Comments: List No 6*.
+
+Expiry date: 30 June 2027
+
+SE Sweden
+
+RA-bi-SE-1
+
+Subject: Carriage of hazardous waste to hazardous waste disposal plants.
+
+Reference to the Annex II, Section II.1 to Directive 2008/68/EC: Part 5 and 6.
+
+Content of the Annex to the Directive: Requirements for construction and testing of packages.
+
+Content of the national legislation: Carriage of packagings containing dangerous goods as waste shall be carried out in accordance with the provisions of this Directive from which only a few exemptions are allowed. Exemptions are not permitted for all types of substances and articles.
+
+The main exemptions are:
+
+Small packagings (less than 30 kg) of dangerous goods as waste may be packed in packagings, including IBCs and large packagings, without complying with the provisions of subsections 6.1.5.2.1, 6.1.5.8.2, 6.5.6.1.2, 6.5.6.14.2, 6.6.5.2.1 and 6.6.5.4.3 of Annex II, Section II.1 to this Directive. Packagings, including IBCs and large packagings need not be tested as prepared for carriage with a representative sample of small inner packages.
+
+This is permitted provided that:
+
+— packagings, IBCs and large packagings conform to a type which has been tested and approved according to packing group I or II of the applicable provisions of Sections 6.1, 6.5 or 6.6 of Annex II, Section II.1 to this Directive,
+
+— the small packagings are packed with absorbent material that retains any free liquid that might escape into the outer packagings, IBCs or large packagings during carriage, and
+
+— the packagings, IBCs or large packagings as prepared for carriage has a gross mass of no more than the permitted gross mass stated on the UN design type marking for packing groups I or II for the packagings, IBCs or large packagings, and
+
+— the following sentence is included in the transport document ‘Packed according to part 16 of RID-S’
+
+Initial reference to the national legislation: Appendix S – Specific regulations for the domestic transport of dangerous goods by rail issued in accordance with the Transport of Dangerous Goods Act
+
+Comments: subsections 6.1.5.2.1, 6.1.5.8.2, 6.5.6.1.2, 6.5.6.14.2, 6.6.5.2.1 and 6.6.5.4.3 of Annex II, Section II.1 to this Directive are difficult to apply because the packagings, IBCs and large packagings shall be tested with a representative sample of the waste, which is hard to predict on beforehand.
+
+Expiry date: 30 June 2027
+
+**Based on Article 6(2)(b)(ii) of Directive 2008/68/EC**
+
+DE Germany
+
+RA-bii-DE-2
+
+Subject: local transport on designated routes of UN 1402 (calcium carbide), packaging group I, in containers on wagons.
+
+Reference to Annex II, Section II.1 to Directive 2008/68/EC: 3.2, 7.3.1.1
+
+Content of the Annex to the Directive: General provisions for transport in bulk. Chapter 3.2, Table A, does not allow calcium carbide to be carried in bulk.
+
+Content of the national legislation: Local transport by rail of UN 1402 (calcium carbide), packaging group I, on specifically designated routes, as part of a defined industrial process and closely controlled under clearly specified conditions. The loads are transported in purpose-built containers in wagons. The transport of the goods is subject to additional operational provisions laid down by the competent safety authorities.
+
+Initial reference to the national legislation: Ausnahme Eisenbahn-Bundesamt Nr. E 3/10
+
+Expiry date: 30 June 2027
+
+## ANNEX III
+
+**TRANSPORT BY INLAND WATERWAY**
+
+**III.1. ADN**
+
+The Regulations annexed to the ADN, as applicable with effect from 1 January 2025, as well as Article 3, points (f) and (h) and Article 8(1) and (3) of the ADN, it being understood that ‘contracting party’ is replaced by ‘Member State’ as appropriate.
+
+**III.2. Additional transitional provisions**
+
+1\. Member States may maintain restrictions on the transport of substances containing dioxins and furans applicable on 30 June 2009.
+
+2\. Certificates, in accordance with Annex III, Section III.1 (8.1), issued before or during the transitional period referred to in Article 7(2) shall be valid until 30 June 2016, unless a shorter period of validity is indicated in the certificate itself.
+
+**III.3. National derogations**
+
+Derogations for Member States for the transport of dangerous goods within their territory on the basis of Article 6(2) of Directive 2008/68/EC.
+
+Numbering of derogations: IW-a/bi/bii-MS-nn
+
+IW= Inland Waterways
+
+a/bi/bii= Article 6(2) a/bi/bii
+
+MS= Abbreviation of Member State
+
+nn= order number
+
+**Based on Article 6(2)(bi) of Directive 2008/68/EC**
+
+DE Germany
+
+IW-bi-DE-1
+
+Subject: Transportation of packaged hazardous waste.
+
+Reference to Annex III, Section III.1, to Directive 2008/68/EC: 1 to 5.
+
+Content of the Annex to the Directive: Classification, packaging and marking.
+
+Content of the national legislation: Classes 2 to 6.1, 8 and 9: Combined packaging and transportation of hazardous waste in packs and IBCs; waste must be packaged in internal packaging (as collected) and categorised in specific waste groups (avoidance of dangerous reactions within a waste group); use of special written instructions relating to the waste groups and as a waybill; collection of domestic and laboratory waste, etc.
+
+Initial reference to the national legislation: Gefahrgut-Ausnahmeverordnung - GGAV 2002 vom 6.11.2002 (BGBl. I S. 4350); Ausnahme 20.
+
+Comments: List No 6*.
+
+Expiry date: 30 June 2027.
+
+( 1 ) OJ L 123, 12.5.2016, p. 1.

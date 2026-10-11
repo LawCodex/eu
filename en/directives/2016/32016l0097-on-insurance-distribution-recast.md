@@ -1,0 +1,1141 @@
+---
+title: "Directive (EU) 2016/97 of the European Parliament and of the Council of 20 January 2016 on insurance distribution (recast)Text with EEA relevance"
+identifier: "32016L0097"
+eli: "http://data.europa.eu/eli/dir/2016/97/oj"
+type: directive
+jurisdiction: eu
+language: en
+date: 2016-01-20
+entry_into_force: 2016-08-15
+last_amended: 2024-10-09
+consolidated_version: "02016L0097-20241009"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02016L0097-20241009"
+retrieved: 2026-10-11
+---
+
+# Directive (EU) 2016/97 of the European Parliament and of the Council of 20 January 2016 on insurance distribution (recast)Text with EEA relevance
+
+**DIRECTIVE (EU) 2016/97 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 20 January 2016**
+
+**on insurance distribution (recast)**
+
+**(Text with EEA relevance)**
+
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> DIRECTIVE (EU) 2018/411 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 14 March 2018 </td><td> L 76</td><td>28</td><td>19.3.2018</td></tr>
+<tr><td> M2</td><td> COMMISSION DELEGATED REGULATION (EU) 2019/1935 of 13 May 2019 </td><td> L 301</td><td>3</td><td>22.11.2019</td></tr>
+<tr><td></td><td> DIRECTIVE (EU) 2023/2864 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 13 December 2023 </td><td> L 2864</td><td>1</td><td>20.12.2023</td></tr>
+<tr><td></td><td> COMMISSION DELEGATED REGULATION (EU) 2024/896 of 5 December 2023 </td><td> L 896</td><td>1</td><td>20.3.2024</td></tr>
+
+**DIRECTIVE (EU) 2016/97 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 20 January 2016**
+
+**on insurance distribution (recast)**
+
+**(Text with EEA relevance)**
+
+## CHAPTER I — SCOPE AND DEFINITIONS
+
+### Article 1
+
+Scope
+
+1\. This Directive lays down rules concerning the taking-up and pursuit of the activities of insurance and reinsurance distribution in the Union.
+
+2\. This Directive applies to any natural or legal person who is established in a Member State or who wishes to be established there in order to take up and pursue the distribution of insurance and reinsurance products.
+
+3\. This Directive shall not apply to ancillary insurance intermediaries carrying out insurance distribution activities where all the following conditions are met:
+
+(a) the insurance is complementary to the good or service supplied by a provider, where such insurance covers:
+
+(i) the risk of breakdown, loss of, or damage to, the good or the non-use of the service supplied by that provider; or
+
+(ii) damage to, or loss of, baggage and other risks linked to travel booked with that provider;
+
+(b) the amount of the premium paid for the insurance product does not exceed EUR 600 calculated on a pro rata annual basis;
+
+(c) by way of derogation from point (b), where the insurance is complementary to a service referred to in point (a) and the duration of that service is equal to, or less than, three months, the amount of the premium paid per person does not exceed EUR 200.
+
+4\. Member States shall ensure that, when carrying out a distribution activity through an ancillary insurance intermediary who is exempted from the application of this Directive pursuant to paragraph 3, the insurance undertaking or insurance intermediary ensures that:
+
+(a) information is made available to the customer, prior to the conclusion of the contract, about its identity and address and about the procedures referred to in Article 14 allowing customers and other interested parties to lodge complaints;
+
+(b) appropriate and proportionate arrangements are in place to comply with Articles 17 and 24 and to consider the demands and needs of the customer before the proposal of the contract;
+
+(c) the insurance product information document referred to in Article 20(5) is provided to the customer prior to the conclusion of the contract.
+
+5\. Member States shall ensure that competent authorities monitor the market, including the market for ancillary insurance products which are marketed, distributed or sold in, or from, their Member State. EIOPA may facilitate and coordinate such monitoring.
+
+6\. This Directive shall not apply to insurance and reinsurance distribution activities in relation to risks and commitments located outside the Union.
+
+This Directive shall not affect a Member State’s law in respect of insurance and reinsurance distribution activities pursued by insurance and reinsurance undertakings or intermediaries established in a third country and operating on its territory under the principle of freedom to provide services, provided that equal treatment is guaranteed to all persons carrying out or authorised to carry out insurance and reinsurance distribution activities on that market.
+
+This Directive shall not regulate insurance or reinsurance distribution activities carried out in third countries.
+
+Member States shall inform the Commission of any general difficulties which their insurance or reinsurance distributors encounter in establishing themselves or carrying out insurance or reinsurance distribution activities in any third country.
+
+### Article 2
+
+Definitions
+
+1\. For the purposes of this Directive:
+
+(1) ‘insurance distribution’ means the activities of advising on, proposing, or carrying out other work preparatory to the conclusion of contracts of insurance, of concluding such contracts, or of assisting in the administration and performance of such contracts, in particular in the event of a claim, including the provision of information concerning one or more insurance contracts in accordance with criteria selected by customers through a website or other media and the compilation of an insurance product ranking list, including price and product comparison, or a discount on the price of an insurance contract, when the customer is able to directly or indirectly conclude an insurance contract using a website or other media;
+
+(2) ‘reinsurance distribution’ means the activities of advising on, proposing, or carrying out other work preparatory to the conclusion of contracts of reinsurance, of concluding such contracts, or of assisting in the administration and performance of such contracts, in particular in the event of a claim, including when carried out by a reinsurance undertaking without the intervention of a reinsurance intermediary;
+
+(3) ‘insurance intermediary’ means any natural or legal person, other than an insurance or reinsurance undertaking or their employees and other than an ancillary insurance intermediary, who, for remuneration, takes up or pursues the activity of insurance distribution;
+
+(4) ‘ancillary insurance intermediary’ means any natural or legal person, other than a credit institution or an investment firm as defined in points (1) and (2) of Article 4(1) of Regulation (EU) No 575/2013 of the European Parliament and of the Council ( 1 ), who, for remuneration, takes up or pursues the activity of insurance distribution on an ancillary basis, provided that all the following conditions are met:
+
+(a) the principal professional activity of that natural or legal person is other than insurance distribution;
+
+(b) the natural or legal person only distributes certain insurance products that are complementary to a good or service;
+
+(c) the insurance products concerned do not cover life assurance or liability risks, unless that cover complements the good or service which the intermediary provides as its principal professional activity;
+
+(5) ‘reinsurance intermediary’ means any natural or legal person, other than a reinsurance undertaking or its employees, who, for remuneration, takes up or pursues the activity of reinsurance distribution;
+
+(6) ‘insurance undertaking’ means an undertaking as defined in Article 13 point 1 of Directive 2009/138/EC of the European Parliament and of the Council ( 2 );
+
+(7) ‘reinsurance undertaking’ means a reinsurance undertaking as defined in Article 13 point 4 of Directive 2009/138/EC;
+
+(8) ‘insurance distributor’ means any insurance intermediary, ancillary insurance intermediary or insurance undertaking;
+
+(9) ‘remuneration’ means any commission, fee, charge or other payment, including an economic benefit of any kind or any other financial or non-financial advantage or incentive offered or given in respect of insurance distribution activities;
+
+(10) ‘home Member State’ means:
+
+(a) where the intermediary is a natural person, the Member State in which his or her residence is situated;
+
+(b) where the intermediary is a legal person, the Member State in which its registered office is situated or, if under its national law it has no registered office, the Member State in which its head office is situated;
+
+(11) ‘host Member State’ means the Member State in which an insurance or reinsurance intermediary has a permanent presence or establishment or provides services, and which is not its home Member State;
+
+(12) ‘branch’ means an agency or a branch of an intermediary which is located in the territory of a Member State other than the home Member State;
+
+(13) ‘close links’ means close links as defined in Article 13 point 17 of Directive 2009/138/EC;
+
+(14) ‘primary place of business’ means the location from where the main business is managed;
+
+(15) ‘advice’ means the provision of a personal recommendation to a customer, either upon their request or at the initiative of the insurance distributor, in respect of one or more insurance contracts;
+
+(16) ‘large risks’ means large risks as defined in Article 13 point 27 of Directive 2009/138/EC;
+
+(17) ‘insurance-based investment product’ means an insurance product which offers a maturity or surrender value and where that maturity or surrender value is wholly or partially exposed, directly or indirectly, to market fluctuations, and does not include:
+
+(a) non-life insurance products as listed in Annex I to Directive 2009/138/EC (Classes of non-life insurance);
+
+(b) life insurance contracts where the benefits under the contract are payable only on death or in respect of incapacity due to injury, sickness or disability;
+
+(c) pension products which, under national law, are recognised as having the primary purpose of providing the investor with an income in retirement, and which entitle the investor to certain benefits;
+
+(d) officially recognised occupational pension schemes falling under the scope of Directive 2003/41/EC or Directive 2009/138/EC;
+
+(e) individual pension products for which a financial contribution from the employer is required by national law and where the employer or the employee has no choice as to the pension product or provider;
+
+(18) ‘durable medium’ means any instrument which:
+
+(a) enables a customer to store information addressed personally to that customer in a way accessible for future reference and for a period of time adequate for the purposes of the information; and
+
+(b) allows the unchanged reproduction of the information stored.
+
+2\. For the purposes of points (1) and (2) of paragraph 1, the following shall not be considered to constitute insurance distribution or reinsurance distribution:
+
+(a) the provision of information on an incidental basis in the context of another professional activity where:
+
+(i) the provider does not take any additional steps to assist in concluding or performing an insurance contract;
+
+(ii) the purpose of that activity is not to assist the customer in concluding or performing a reinsurance contract;
+
+(b) the management of claims of an insurance undertaking or of a reinsurance undertaking on a professional basis, and loss adjusting and expert appraisal of claims;
+
+(c) the mere provision of data and information on potential policyholders to insurance intermediaries, reinsurance intermediaries, insurance undertakings or reinsurance undertakings where the provider does not take any additional steps to assist in the conclusion of an insurance or reinsurance contract;
+
+(d) the mere provision of information about insurance or reinsurance products, an insurance intermediary, a reinsurance intermediary, an insurance undertaking or a reinsurance undertaking to potential policyholders where the provider does not take any additional steps to assist in the conclusion of an insurance or reinsurance contract.
+
+## CHAPTER II — REGISTRATION REQUIREMENTS
+
+### Article 3 — Registration
+
+1\. Insurance, reinsurance, and ancillary insurance intermediaries shall be registered with a competent authority in their home Member State.
+
+Insurance and reinsurance undertakings and their employees shall not be required to register under this Directive.
+
+Without prejudice to the first subparagraph, Member States may stipulate that insurance and reinsurance undertakings and intermediaries and other bodies may cooperate with the competent authorities in registering insurance and reinsurance and ancillary insurance intermediaries and in the application of the requirements laid down in Article 10.
+
+In particular, insurance, reinsurance and ancillary insurance intermediaries may be registered by an insurance or reinsurance undertaking, insurance or reinsurance intermediary, or by an association of insurance or reinsurance undertakings, or insurance or reinsurance intermediaries, under the supervision of a competent authority.
+
+An insurance or reinsurance intermediary or an ancillary insurance intermediary may act under the responsibility of an insurance or reinsurance undertaking or another intermediary. In such a case, Member States may stipulate that the insurance or reinsurance undertaking or other intermediary shall be responsible for ensuring that the insurance or reinsurance intermediary or ancillary insurance intermediary meets the conditions for registration, including the conditions set out in point (c) of the first subparagraph of paragraph 6.
+
+Member States may also stipulate that the insurance or reinsurance undertaking or other intermediary which takes responsibility for the insurance or reinsurance intermediary or ancillary insurance intermediary registers that intermediary or ancillary intermediary.
+
+Member States need not apply the requirement referred to in the first subparagraph to all the natural persons who work in an insurance or reinsurance intermediary or ancillary insurance intermediary and who pursue the activity of insurance or reinsurance distribution.
+
+Member States shall ensure that the registers specify the names of the natural persons within the management of the insurance or reinsurance distributor who are responsible for the insurance or reinsurance distribution.
+
+The registers shall further indicate the Member States in which the intermediary conducts business under the rules on the freedom of establishment or on the freedom to provide services.
+
+2\. Member States may establish more than one register for insurance, reinsurance, and ancillary insurance intermediaries provided that they lay down the criteria according to which intermediaries are to be registered.
+
+Member States shall establish an online registration system. That system shall be easily accessible and allow the registration form to be completed directly online.
+
+3\. In the event that there is more than one register in a Member State, that Member State shall establish a single information point allowing quick and easy access to information from those registers, which shall be compiled electronically and kept updated. The information point shall also provide the identification details of the competent authorities of the home Member State.
+
+4\. EIOPA shall establish, publish on its website and keep up-to-date a single electronic register containing records of insurance, reinsurance and ancillary insurance intermediaries which have notified their intention to carry on cross-border business in accordance with Chapter III. Member States shall provide relevant information to EIOPA promptly to enable it to do this. The register shall contain links to, and be accessible from, each of the Member States’ competent authorities’ websites.
+
+EIOPA shall have the right to access the data stored in the register referred to in the first subparagraph. EIOPA and the competent authorities shall have the right to modify such data. Data subjects whose personal details are stored on the register and exchanged shall have the right to access such stored data and the right to be appropriately informed.
+
+EIOPA shall establish a website with hyperlinks to each single information point or, where applicable, register, established by Member States in accordance with paragraph 3.
+
+Home Member States shall ensure that registration of insurance, reinsurance and ancillary insurance intermediaries is made subject to the fulfilment of the relevant requirements laid down in Article 10.
+
+The validity of the registration shall be subject to a regular review by the competent authority.
+
+Home Member States shall ensure that insurance, reinsurance and ancillary insurance intermediaries who cease to fulfil the requirements laid down in Article 10 are removed from the register. Where applicable, the home Member State shall inform the host Member State of such removal.
+
+5\. Member States shall ensure that applications by intermediaries for inclusion in the register are dealt with within three months of the submission of a complete application, and that the applicant shall be notified promptly of the decision.
+
+6\. Member States shall ensure that all of the following information is requested as a condition of registration of insurance, reinsurance and ancillary insurance intermediaries:
+
+(a) the identities of shareholders or members, whether natural or legal persons, that have a holding in the intermediary that exceeds 10 %, and the amounts of those holdings;
+
+(b) the identities of persons who have close links with the intermediary;
+
+(c) information that those holdings or close links do not prevent the effective exercise of the supervisory functions of the competent authority.
+
+Member States shall ensure that intermediaries inform the competent authorities without undue delay of any change in the information provided under this paragraph.
+
+7\. Member States shall ensure that competent authorities refuse registration if the laws, regulations or administrative provisions of a third country governing one or more natural or legal persons with which the intermediary has close links, or difficulties involved in the enforcement of those laws, regulations or administrative provisions, prevent the effective exercise of their supervisory functions.
+
+## CHAPTER III — FREEDOM TO PROVIDE SERVICES AND FREEDOM OF ESTABLISHMENT
+
+### Article 4 — Exercise of the freedom to provide services
+
+1\. Any insurance, reinsurance or ancillary insurance intermediary who intends to carry on business within the territory of another Member State for the first time, under the freedom to provide services, shall communicate the following information to the competent authority of its home Member State:
+
+(a) the name, address and, where applicable, the registration number of the intermediary;
+
+(b) the Member State or Member States in which the intermediary intends to operate;
+
+(c) the category of intermediary and, where applicable, the name of any insurance or reinsurance undertaking represented;
+
+(d) the relevant classes of insurance, if applicable.
+
+2\. The competent authority of the home Member State shall, within one month of receiving the information referred to in paragraph 1, communicate that information to the competent authority of the host Member State, which shall acknowledge its receipt without delay. The competent authority of the home Member State shall inform the insurance, reinsurance or ancillary insurance intermediary in writing that the information has been received by the competent authority of the host Member State and that the intermediary can commence its business in the host Member State. Where applicable, at the same time, the competent authority of the home Member State shall communicate to the intermediary the fact that information concerning the legal provisions referred to in Article 11(1) applicable in the host Member State is available through the means referred to in Article 11(3) and (4) and also that the intermediary must comply with those provisions in order to commence its business in the host Member State.
+
+3\. In the event of a change in any of the particulars communicated in accordance with paragraph 1, the insurance, reinsurance or ancillary insurance intermediary shall notify that change to the competent authority of the home Member State at least one month before implementing the change. The competent authority of the host Member State shall also be informed of that change by the competent authority of the home Member State as soon as is practicable and no later than one month from the date of receipt of the information by the competent authority of the home Member State.
+
+### Article 5 — Breach of obligations when exercising the freedom to provide services
+
+1\. Where the competent authority of the host Member State has reason to consider that an insurance, reinsurance or ancillary insurance intermediary acting within its territory under the freedom to provide services is in breach of any obligation set out in this Directive, it shall communicate those considerations to the competent authority of the home Member State.
+
+After assessing the information received pursuant to the first subparagraph, the competent authority of the home Member State shall, where applicable, and, if so, at the earliest opportunity, take appropriate measures to remedy the situation. It shall inform the competent authority of the host Member State of any such measures taken.
+
+Where, despite the measures taken by the home Member State or because those measures prove to be inadequate or are lacking, the insurance, reinsurance or ancillary insurance intermediary persists in acting in a manner that is clearly detrimental to the interests of host Member State consumers on a large scale, or to the orderly functioning of insurance and reinsurance markets, the competent authority of the host Member State may, after informing the competent authority of the home Member State, take appropriate measures to prevent further irregularities, including, in so far as is strictly necessary, preventing that intermediary from continuing to carry on new business within its territory.
+
+In addition, the competent authority of the home Member State or the host Member State may refer the matter to EIOPA and request its assistance in accordance with Article 19 of Regulation (EU) No 1094/2010. In that case, EIOPA may act in accordance with the powers conferred on it by that Article.
+
+2\. Paragraph 1 shall not affect the power of the host Member State to take appropriate measures to prevent or penalise irregularities committed within its territory, in a situation where immediate action is necessary in order to protect the rights of consumers. This power shall include the possibility of preventing insurance, reinsurance and ancillary insurance intermediaries from carrying out new business within its territory.
+
+3\. Any measure adopted by the competent authorities of the host Member State under this Article shall be communicated to the insurance, reinsurance or ancillary insurance intermediary concerned in a well-reasoned document and notified to the competent authority of the home Member State, to EIOPA and to the Commission without undue delay.
+
+### Article 6 — Exercise of the freedom of establishment
+
+1\. Member States shall ensure that any insurance, reinsurance or ancillary insurance intermediary that intends to exercise its freedom of establishment by establishing a branch or permanent presence within the territory of another Member State communicates that to the competent authority of its home Member State and provides that competent authority with the following information:
+
+(a) the name, address and, where applicable, the registration number of the intermediary;
+
+(b) the Member State within the territory of which the intermediary plans to establish a branch or permanent presence;
+
+(c) the category of intermediary and, if applicable, the name of any insurance or reinsurance undertaking represented;
+
+(d) the relevant classes of insurance, if applicable;
+
+(e) the address in the host Member State from which documents may be obtained;
+
+(f) the name of any person responsible for the management of the branch or permanent presence.
+
+Any permanent presence of an intermediary in the territory of another Member State that is equivalent to a branch shall be treated in the same way as a branch, unless the intermediary lawfully sets up such permanent presence in another legal form.
+
+2\. Unless the competent authority of the home Member State has reason to doubt the adequacy of the organisational structure or the financial situation of the insurance, reinsurance or ancillary insurance intermediary, taking into account the distribution activities envisaged, it shall, within one month of receiving the information referred to in paragraph 1, communicate that information to the competent authority of the host Member State, which shall acknowledge its receipt without delay. The competent authority of the home Member State shall inform the insurance, reinsurance or ancillary insurance intermediary in writing that the information has been received by the competent authority of the host Member State.
+
+Within one month of receipt of the information referred to in the first subparagraph of this paragraph, the competent authority of the host Member State shall communicate the legal provisions referred to in Article 11(1) through the means referred to in Article 11(3) and (4) which are applicable in its territory to the competent authority of the home Member State. The competent authority of the home Member State shall communicate that information to the intermediary and inform the intermediary that it may commence its business in the host Member State provided that it complies with those legal provisions.
+
+Where no communication is received within the period provided for in the second subparagraph, the insurance, reinsurance or ancillary insurance intermediary may establish the branch and commence its business.
+
+3\. Where the competent authority of the home Member State refuses to communicate the information referred to in paragraph 1 to the competent authority of the host Member State, it shall give reasons for its refusal to the insurance, reinsurance or ancillary insurance intermediary within one month of receiving all the information referred to in paragraph 1.
+
+A refusal as referred to in the first subparagraph or any failure by the competent authority of the home Member State to communicate the information referred to in paragraph 1 shall be subject to a right of appeal to the courts of the home Member State.
+
+4\. In the event of a change in any of the particulars communicated in accordance with paragraph 1, an insurance, reinsurance or ancillary insurance intermediary shall notify that change to the competent authority of the home Member State at least one month before implementing the change. The competent authority of the host Member State shall also be informed of that change by the competent authority of the home Member State as soon as is practicable and no later than one month from the date of receipt of the information by the competent authority of the home Member State.
+
+### Article 7 — Division of competence between home and host Member States
+
+1\. If an insurance, reinsurance or ancillary insurance intermediary’s primary place of business is located in a Member State other than the home Member State, the competent authority of that other Member State may agree with the home Member State competent authority to act as if it were the home Member State competent authority with regard to the provisions of Chapters IV, V, VI and VII. In the event of such an agreement, the home Member State competent authority shall notify the insurance, reinsurance or ancillary insurance intermediary and EIOPA without delay.
+
+2\. The competent authority of the host Member State shall have responsibility for ensuring that the services provided by the establishment within its territory comply with the obligations laid down in Chapters V and VI and with measures adopted pursuant thereto.
+
+The competent authority of the host Member State shall have the right to examine establishment arrangements and to request such changes as are needed to enable the competent authority to enforce the obligations under Chapters V and VI and measures adopted pursuant thereto with respect to the services or activities provided by the establishment within its territory.
+
+### Article 8 — Breach of obligations when exercising the freedom of establishment
+
+1\. Where the competent authority of a host Member State ascertains that an insurance, reinsurance or ancillary insurance intermediary is in breach of the legal or regulatory provisions adopted in that Member State pursuant to the provisions of Chapters V and VI, that authority may take appropriate measures.
+
+2\. Where the competent authority of a host Member State has reason to consider that an insurance, reinsurance or ancillary insurance intermediary acting within its territory through an establishment is in breach of any obligation set out in this Directive, and where that competent authority does not have responsibility in accordance with Article 7(2), it shall refer those findings to the competent authority of the home Member State. After assessing the information received, the competent authority of the home Member State shall, where applicable and, if so, at the earliest opportunity take appropriate measures to remedy the situation. It shall inform the competent authority of the host Member State of any such measures taken.
+
+3\. Where, despite the measures taken by the home Member State or because those measures prove to be inadequate or are lacking, the insurance, reinsurance or ancillary insurance intermediary persists in acting in a manner that is clearly detrimental to the interests of host Member State consumers on a large scale, or to the orderly functioning of insurance and reinsurance markets, the competent authority of the host Member State may, after informing the competent authority of the home Member State, take appropriate measures to prevent further irregularities, including, in so far as is strictly necessary, preventing that intermediary from continuing to carry on new business within its territory.
+
+In addition, the competent authority of the home Member State or of the host Member State may refer the matter to EIOPA and request its assistance in accordance with Article 19 of Regulation (EU) No 1094/2010. In that case, EIOPA may act in accordance with the powers conferred on it by that Article.
+
+4\. Paragraphs 2 and 3 shall not affect the power of the host Member State to take appropriate and non-discriminatory measures to prevent or penalise irregularities committed within its territory, in situations where immediate action is strictly necessary, in order to protect the rights of consumers of the host Member State, and where equivalent measures of the home Member State are inadequate or lacking. In such situations, the host Member State shall have the possibility of preventing the insurance, reinsurance or ancillary insurance intermediary concerned from carrying out new business within its territory.
+
+5\. Any measure adopted by the competent authorities of the host Member State under this Article shall be communicated to the insurance, reinsurance or ancillary insurance intermediary concerned in a well-reasoned document and notified to the competent authority of the home Member State, to EIOPA and to the Commission without undue delay.
+
+### Article 9 — Powers in relation to national provisions adopted in the interest of the general good
+
+1\. This Directive shall not affect the power of the host Member States to take appropriate and non-discriminatory measures to penalise irregularities committed within their territories which are contrary to their legal provisions referred to in Article 11(1), in so far as is strictly necessary. In such situations, host Member States shall have the possibility of preventing the insurance, reinsurance or ancillary insurance intermediary concerned from carrying out new business within its territory.
+
+2\. Moreover, this Directive shall not affect the power of the competent authority of the host Member State to take appropriate measures to prevent an insurance distributor established in another Member State from carrying out activity within its territory under the freedom to provide services or, where applicable, the freedom of establishment, where the relevant activity is entirely or principally directed towards the territory of the host Member State with the sole purpose of avoiding the legal provisions which would be applicable if that insurance distributor had its residence or registered office in that host Member State and, in addition, where its activity seriously endangers the proper functioning of insurance and reinsurance markets in the host Member State with respect to the protection of consumers. In such a case the competent authority of the host Member State, after informing the competent authority of the home Member State, may take, in respect of that insurance distributor, all the appropriate measures needed in order to protect the rights of consumers in the host Member State. The competent authorities involved may refer the matter to EIOPA and request its assistance in accordance with Article 19 of Regulation (EU) No 1094/2010, and in such a case, EIOPA may act in accordance with the powers conferred on it by that Article in the event of a disagreement between the competent authorities of the host and home Member States.
+
+## CHAPTER IV — ORGANISATIONAL REQUIREMENTS
+
+### Article 10 — Professional and organisational requirements
+
+1\. Home Member States shall ensure that insurance and reinsurance distributors and employees of insurance and reinsurance undertakings carrying out insurance or reinsurance distribution activities possess appropriate knowledge and ability in order to complete their tasks and perform their duties adequately.
+
+2\. Home Member States shall ensure that insurance and reinsurance intermediaries and employees of insurance and reinsurance undertakings and employees of insurance and reinsurance intermediaries comply with continuing professional training and development requirements in order to maintain an adequate level of performance corresponding to the role they perform and the relevant market.
+
+To that end, home Member States shall have in place and publish mechanisms to control effectively and assess the knowledge and competence of insurance and reinsurance intermediaries and employees of insurance and reinsurance undertakings and employees of insurance and reinsurance intermediaries, based on at least 15 hours of professional training or development per year, taking into account the nature of the products sold, the type of distributor, the role they perform, and the activity carried out within the insurance or reinsurance distributor.
+
+Home Member States may require that the successful completion of the training and development requirements is proven by obtaining a certificate.
+
+Member States shall adjust the required conditions with regard to knowledge and ability in line with the particular activity of insurance or reinsurance distributors and the products distributed, particularly in the case of ancillary insurance intermediaries. Member States may require that in the cases referred to in the third subparagraph of Article 3(1), and with regard to the employees of insurance or reinsurance undertakings who are engaged in insurance or reinsurance distribution, the insurance or reinsurance undertaking or intermediary is to verify that the knowledge and ability of the intermediaries are in conformity with the obligations set out in paragraph 1 and, if need be, is to provide such intermediaries with training or professional development means which correspond to the requirements concerning the products sold by the intermediaries.
+
+Member States need not apply the requirements referred to in paragraph 1 and in the first subparagraph of this paragraph to all the natural persons working in an insurance or reinsurance undertaking, or insurance or reinsurance intermediary, who pursue the activity of insurance or reinsurance distribution, but Member States shall ensure that the relevant persons within the management structure of such undertakings who are responsible for distribution in respect of insurance and reinsurance products and all other persons directly involved in insurance or reinsurance distribution demonstrate the knowledge and ability necessary for the performance of their duties.
+
+Insurance and reinsurance intermediaries shall demonstrate compliance with the relevant professional knowledge and competence requirements laid down in Annex I.
+
+3\. Natural persons working in an insurance or reinsurance undertaking, or insurance or reinsurance intermediary, who pursue insurance or reinsurance distribution shall be of good repute. As a minimum, they shall have a clean criminal record or any other national equivalent in relation to serious criminal offences linked to crimes against property or other crimes related to financial activities and they shall not have previously been declared bankrupt, unless they have been rehabilitated in accordance with national law.
+
+Member States may, in accordance with the third subparagraph of Article 3(1), allow the insurance or reinsurance distributor to check the good repute of its employees and, where appropriate, of its insurance or reinsurance intermediaries.
+
+Member States need not apply the requirement referred to in the first subparagraph of this paragraph to all the natural persons who work in an insurance or reinsurance undertaking, or insurance or reinsurance intermediary provided that those natural persons are not directly involved in insurance or reinsurance distribution. Member States shall ensure that the persons within the management structure responsible for, and any staff directly involved in, insurance or reinsurance distribution fulfil that requirement.
+
+As regards ancillary insurance intermediaries, Member States shall ensure that the persons responsible for ancillary insurance distribution fulfil the requirement referred to in the first subparagraph.
+
+4\. Insurance and reinsurance intermediaries shall hold professional indemnity insurance covering the whole territory of the Union or some other comparable guarantee against liability arising from professional negligence, for at least EUR 1 564 610 applying to each claim and in aggregate EUR 2 315 610 per year for all claims, unless such insurance or comparable guarantee is already provided by an insurance undertaking, reinsurance undertaking or other undertaking on whose behalf the insurance or reinsurance intermediary is acting or for which the insurance or reinsurance intermediary is empowered to act or such undertaking has taken on full responsibility for the intermediary’s actions.
+
+5\. Member States shall require that ancillary insurance intermediaries hold professional indemnity insurance or comparable guarantees at a level established by Member States taking into account the nature of the products sold and the activity carried out.
+
+6\. Member States shall take all necessary measures to protect customers against the inability of the insurance, reinsurance or ancillary insurance intermediary to transfer the premium to the insurance undertaking or to transfer the amount of claim or return premium to the insured.
+
+Such measures shall take any one or more of the following forms:
+
+(a) provisions laid down by law or contract whereby monies paid by the customer to the intermediary are treated as having been paid to the undertaking, whereas monies paid by the undertaking to the intermediary are not treated as having been paid to the customer until the customer actually receives them;
+
+(b) a requirement for the intermediary to have financial capacity amounting, on a permanent basis, to 4 % of the sum of annual premiums received, subject to a minimum of EUR 23 480 ;
+
+(c) a requirement that customers’ monies be transferred via strictly segregated customer accounts and that those accounts not be used to reimburse other creditors in the event of bankruptcy;
+
+(d) a requirement that a guarantee fund be set up.
+
+7\. EIOPA shall regularly review the amounts referred to in paragraphs 4 and 6 in order to take account of changes in the European index of consumer prices as published by Eurostat. The first review shall take place by 31 December 2017 and successive reviews shall take place every five years thereafter.
+
+EIOPA shall develop draft regulatory technical standards which adapt the base amount in euro referred to in paragraphs 4 and 6 by the percentage change in the index referred to in the first subparagraph of this paragraph over the period between 1 January 2013 and 31 December 2017 or between the last review date and the new review date and rounded up to the nearest multiple of EUR 10.
+
+EIOPA shall submit those draft regulatory technical standards to the Commission by 30 June 2018 and the successive draft regulatory technical standards every five years thereafter.
+
+Power is conferred on the Commission to adopt the regulatory technical standards referred to in the second and third subparagraphs of this paragraph in accordance with Articles 10 to 14 of Regulation (EU) No 1094/2010.
+
+8\. To ensure compliance with the requirements in paragraphs 1, 2 and 3, insurance and reinsurance undertakings shall approve, implement and regularly review their internal policies and appropriate internal procedures.
+
+Insurance and reinsurance undertakings shall identify a function to ensure the proper implementation of the endorsed policies and procedures.
+
+Insurance and reinsurance undertakings shall establish, maintain and keep up-to-date records of all the relevant documentation regarding the application of paragraphs 1, 2 and 3. Insurance and reinsurance undertakings shall, upon request, make available the name of the person responsible for that function to the home Member State competent authority.
+
+### Article 11 — Publication of ‘general good’ rules
+
+1\. Member States shall ensure appropriate publication by their competent authorities of the relevant national legal provisions protecting the general good, including information about whether and how the Member State has chosen to apply the stricter provisions provided for in Article 29(3), which are applicable to the carrying on of insurance and reinsurance distribution in their territories.
+
+2\. A Member State which proposes to apply and applies provisions regulating insurance distribution in addition to those set out in this Directive shall ensure that the administrative burden stemming from those provisions is proportionate with regard to consumer protection. The Member State shall continue to monitor those provisions to ensure they remain in conformity with this paragraph.
+
+3\. EIOPA shall include on its website the hyperlinks to the websites of competent authorities where information on ‘general good’ rules is published. Such information shall be updated by the national competent authorities on a regular basis and EIOPA shall make the information available on its website, with all national ‘general good’ rules categorised into different relevant areas of law.
+
+4\. Member States shall establish a single point of contact responsible for providing information on ‘general good’ rules in their respective Member State. Such a point of contact should be an appropriate competent authority.
+
+5\. EIOPA shall examine in a report, and inform the Commission about, the ‘general good’ rules published by Member States as referred to in this Article in the context of the proper functioning of this Directive and of the internal market before 23 February 2019.
+
+### Article 12 — Competent authorities
+
+1\. Member States shall designate the competent authorities empowered to ensure implementation of this Directive. They shall inform the Commission thereof, indicating any division of those duties.
+
+2\. The authorities referred to in paragraph 1 of this Article shall be either public authorities or bodies recognised by national law or by public authorities expressly empowered for that purpose by national law. They shall not be insurance or reinsurance undertakings or associations whose members directly or indirectly include insurance or reinsurance undertakings, or insurance or reinsurance intermediaries, without prejudice to the possibility of cooperation between competent authorities and other bodies where that is expressly provided for in Article 3(1).
+
+3\. The competent authorities shall possess all the powers necessary for the performance of their duties under this Directive. Where there is more than one competent authority on its territory, a Member State shall ensure that those authorities collaborate closely so that they can discharge their respective duties effectively.
+
+### Article 13 — Cooperation and exchange of information between the competent authorities of Member States
+
+1\. The competent authorities of different Member States shall cooperate among themselves and exchange any relevant information on insurance and reinsurance distributors in order to ensure the proper application of this Directive.
+
+2\. In particular, in the process of registration and on an ongoing basis, the competent authorities shall share relevant information concerning the good repute, the professional knowledge and the competence of insurance and reinsurance distributors.
+
+3\. The competent authorities shall also exchange information on insurance and reinsurance distributors who have been subject to a sanction or other measure referred to in Chapter VII and such information is likely to lead to removal from the register of any such distributors.
+
+4\. All persons required to receive or divulge information in connection with this Directive shall be bound by professional secrecy, in the same manner as is laid down in Article 64 of Directive 2009/138/EC.
+
+### Article 14 — Complaints
+
+Member States shall ensure that procedures are set up which allow customers and other interested parties, especially consumer associations, to register complaints about insurance and reinsurance distributors. In all cases, complainants shall receive replies.
+
+### Article 15 — Out-of-court redress
+
+1\. Member States shall ensure that adequate and effective, impartial and independent out-of-court complaint and redress procedures for the settlement of disputes between customers and insurance distributors concerning the rights and obligations arising under this Directive are established in accordance with the relevant Union legislative acts and national law, using existing bodies where appropriate. Member States shall ensure that such procedures are applicable, and the relevant body’s competence effectively extends, to insurance distributors against whom the procedures are initiated.
+
+2\. Member States shall ensure that the bodies referred to in paragraph 1 cooperate in the resolution of cross-border disputes concerning rights and obligations arising under this Directive.
+
+### Article 16 — Restriction on use of intermediaries
+
+Member States shall ensure that, when using the services of the insurance, reinsurance or ancillary insurance intermediaries, insurance and reinsurance undertakings and intermediaries use the insurance and reinsurance distribution services only of registered insurance and reinsurance intermediaries or ancillary insurance intermediaries including those referred to in Article 1(3).
+
+## CHAPTER V — INFORMATION REQUIREMENTS AND CONDUCT OF BUSINESS RULES
+
+### Article 17 — General principle
+
+1\. Member States shall ensure that, when carrying out insurance distribution, insurance distributors always act honestly, fairly and professionally in accordance with the best interests of their customers.
+
+2\. Without prejudice to Directive 2005/29/EC of the European Parliament and of the Council ( 3 ), Member States shall ensure that all information related to the subject of this Directive, including marketing communications, addressed by the insurance distributor to customers or potential customers shall be fair, clear and not misleading. Marketing communications shall always be clearly identifiable as such.
+
+3\. Member States shall ensure that insurance distributors are not remunerated or do not remunerate or assess the performance of their employees in a way that conflicts with their duty to act in accordance with the best interests of their customers. In particular, an insurance distributor shall not make any arrangement by way of remuneration, sales targets or otherwise that could provide an incentive to itself or its employees to recommend a particular insurance product to a customer when the insurance distributor could offer a different insurance product which would better meet the customer’s needs.
+
+### Article 18 — General information provided by the insurance intermediary or insurance undertaking
+
+Member States shall ensure that:
+
+(a) in good time before the conclusion of an insurance contract, an insurance intermediary makes the following disclosures to customers:
+
+(i) its identity and address and that it is an insurance intermediary;
+
+(ii) whether it provides advice about the insurance products sold;
+
+(iii) the procedures referred to in Article 14 enabling customers and other interested parties to register complaints about insurance intermediaries and about the out-of-court complaint and redress procedures referred to in Article 15;
+
+(iv) the register in which it has been included and the means for verifying that it has been registered; and
+
+(v) whether the intermediary is representing the customer or is acting for and on behalf of the insurance undertaking;
+
+(b) in good time before the conclusion of an insurance contract, an insurance undertaking makes the following disclosures to customers:
+
+(i) its identity and address and that it is an insurance undertaking;
+
+(ii) whether it provides advice about the insurance products sold;
+
+(iii) the procedures referred to in Article 14 enabling customers and other interested parties to register complaints about insurance undertakings and about the out-of-court complaint and redress procedures referred to in Article 15.
+
+### Article 19 — Conflicts of interest and transparency
+
+1\. Member States shall ensure that in good time before the conclusion of an insurance contract, an insurance intermediary provides the customer with at least the following information:
+
+(a) whether it has a holding, direct or indirect, representing 10 % or more of the voting rights or of the capital in a given insurance undertaking;
+
+(b) whether a given insurance undertaking or parent undertaking of a given insurance undertaking has a holding, direct or indirect, representing 10 % or more of the voting rights or of the capital in the insurance intermediary;
+
+(c) in relation to the contracts proposed or advised upon, whether:
+
+(i) it gives advice on the basis of a fair and personal analysis;
+
+(ii) it is under a contractual obligation to conduct insurance distribution business exclusively with one or more insurance undertakings, in which case it is to provide the names of those insurance undertakings; or
+
+(iii) it is not under a contractual obligation to conduct insurance distribution business exclusively with one or more insurance undertakings and does not give advice on the basis of a fair and personal analysis, in which case it is to provide the names of the insurance undertakings with which it may and does conduct business;
+
+(d) the nature of the remuneration received in relation to the insurance contract;
+
+(e) whether in relation to the insurance contract, it works:
+
+(i) on the basis of a fee, that is the remuneration paid directly by the customer;
+
+(ii) on the basis of a commission of any kind, that is the remuneration included in the insurance premium;
+
+(iii) on the basis of any other type of remuneration, including an economic benefit of any kind offered or given in connection with the insurance contract; or
+
+(iv) on the basis of a combination of any type of remuneration set out at points (i), (ii) and (iii).
+
+2\. Where the fee is payable directly by the customer, the insurance intermediary shall inform the customer of the amount of the fee or, where that is not possible, of the method for calculating the fee.
+
+3\. If any payments, other than the ongoing premiums and scheduled payments, are made by the customer under the insurance contract after its conclusion, the insurance intermediary shall also make the disclosures in accordance with this Article for each such payment.
+
+4\. Member States shall ensure that in good time before the conclusion of an insurance contract, an insurance undertaking communicates to its customer the nature of the remuneration received by its employees in relation to the insurance contract.
+
+5\. If any payments, other than the ongoing premiums and scheduled payments, are made by the customer under the insurance contract after its conclusion, the insurance undertaking shall also make the disclosures in accordance with this Article for each such payment.
+
+### Article 20 — Advice, and standards for sales where no advice is given
+
+1\. Prior to the conclusion of an insurance contract, the insurance distributor shall specify, on the basis of information obtained from the customer, the demands and the needs of that customer and shall provide the customer with objective information about the insurance product in a comprehensible form to allow that customer to make an informed decision.
+
+Any contract proposed shall be consistent with the customer’s insurance demands and needs.
+
+Where advice is provided prior to the conclusion of any specific contract, the insurance distributor shall provide the customer with a personalised recommendation explaining why a particular product would best meet the customer’s demands and needs.
+
+2\. The details referred to in paragraph 1 shall be modulated according to the complexity of the insurance product being proposed and the type of customer.
+
+3\. Where an insurance intermediary informs the customer that it gives its advice on the basis of a fair and personal analysis, it shall give that advice on the basis of an analysis of a sufficiently large number of insurance contracts available on the market to enable it to make a personal recommendation, in accordance with professional criteria, regarding which insurance contract would be adequate to meet the customer’s needs.
+
+4\. Without prejudice to Articles 183 and 184 of Directive 2009/138/EC, prior to the conclusion of a contract, whether or not advice is given and irrespective of whether the insurance product is part of a package pursuant to Article 24 of this Directive, the insurance distributor shall provide the customer with the relevant information about the insurance product in a comprehensible form to allow the customer to make an informed decision, while taking into account the complexity of the insurance product and the type of customer.
+
+5\. In relation to the distribution of non-life insurance products as listed in Annex I to Directive 2009/138/EC, the information referred to in paragraph 4 of this Article shall be provided by way of a standardised insurance product information document on paper or on another durable medium.
+
+6\. The insurance product information document referred to in paragraph 5 shall be drawn up by the manufacturer of the non-life insurance product.
+
+7\. The insurance product information document shall:
+
+(a) be a short and stand-alone document;
+
+(b) be presented and laid out in a way that is clear and easy to read, using characters of a readable size;
+
+(c) be no less comprehensible in the event that, having been originally produced in colour, it is printed or photocopied in black and white;
+
+(d) be written in the official languages, or in one of the official languages, used in the part of the Member State where the insurance product is offered or, if agreed by the consumer and the distributor, in another language;
+
+(e) be accurate and not misleading;
+
+(f) contain the title ‘insurance product information document’ at the top of the first page;
+
+(g) include a statement that complete pre-contractual and contractual information on the product is provided in other documents.
+
+Member States may stipulate that the insurance product information document is to be provided together with information required pursuant to other relevant Union legislative acts or national law on the condition that all the requirements set out in the first subparagraph are met.
+
+8\. The insurance product information document shall contain the following information:
+
+(a) information about the type of insurance;
+
+(b) a summary of the insurance cover, including the main risks insured, the insured sum and, where applicable, the geographical scope and a summary of the excluded risks;
+
+(c) the means of payment of premiums and the duration of payments;
+
+(d) main exclusions where claims cannot be made;
+
+(e) obligations at the start of the contract;
+
+(f) obligations during the term of the contract;
+
+(g) obligations in the event that a claim is made;
+
+(h) the term of the contract including the start and end dates of the contract;
+
+(i) the means of terminating the contract.
+
+9\. EIOPA, after consulting national authorities and after consumer testing, shall develop draft implementing technical standards regarding a standardised presentation format of the insurance product information document specifying the details of the presentation of the information referred to in paragraph 8.
+
+EIOPA shall submit those draft implementing technical standards to the Commission by 23 February 2017.
+
+Power is conferred on the Commission to adopt the implementing technical standards referred to in the first subparagraph of this paragraph in accordance with Article 15 of Regulation (EU) No 1094/2010.
+
+### Article 21 — Information provided by ancillary insurance intermediaries
+
+Member States shall ensure that ancillary insurance intermediaries comply with points (i), (iii) and (iv) of Article 18(a) and point (d) of Article 19(1).
+
+### Article 22 — Information exemptions and flexibility clause
+
+1\. The information referred to in Articles 18, 19 and 20 need not be provided when the insurance distributor carries out distribution activities in relation to the insurance of large risks.
+
+Member States may provide that the information referred to in Articles 29 and 30 of this Directive need not be provided to a professional client as defined in point (10) of Article 4(1) of Directive 2014/65/EU.
+
+2\. Member States may maintain or adopt stricter provisions regarding the information requirements referred to in this Chapter provided that such provisions comply with Union law. Member States shall communicate to EIOPA and the Commission such national provisions.
+
+Member States shall also take the necessary steps to ensure appropriate publication by their competent authorities of the information about whether and how the Member State has chosen to apply stricter provisions under this paragraph.
+
+In particular, Member States may make the provision of advice referred to in the third subparagraph of Article 20(1) mandatory for the sales of any insurance product, or for certain types of insurance products. In such a case, such stricter national provisions shall be complied with by insurance distributors, including those operating under the freedom to provide services or the freedom of establishment, when concluding insurance contracts with customers having their habitual residence or establishment in that Member State.
+
+3\. Member States may limit or prohibit the acceptance or receipt of fees, commissions or other monetary or non-monetary benefits paid or provided to insurance distributors by any third party, or a person acting on behalf of a third party, in relation to the distribution of insurance products.
+
+4\. In order to establish a high level of transparency by all appropriate means, EIOPA shall ensure that the information it receives relating to national provisions is also communicated to customers, and to insurance and reinsurance distributors.
+
+5\. Member States shall ensure that where the insurance distributor is responsible for the provision of mandatory occupational pension arrangements and an employee becomes a member of such an arrangement without having taken an individual decision to join it, the information referred to in this Chapter shall be provided to the employee promptly after their enrolment in the arrangement concerned.
+
+### Article 23 — Information conditions
+
+1\. All information to be provided in accordance with Articles 18, 19, 20 and 29 shall be communicated to the customer:
+
+(a) on paper;
+
+(b) in a clear and accurate manner, comprehensible to the customer;
+
+(c) in an official language of the Member State in which the risk is situated or of the Member State of the commitment or in any other language agreed upon by the parties; and
+
+(d) free of charge.
+
+2\. By way of derogation from point (a) of paragraph 1 of this Article, the information referred to in Articles 18, 19, 20 and 29 may be provided to the customer on one of the following media:
+
+(a) a durable medium other than paper, where the conditions laid down in paragraph 4 of this Article are met; or
+
+(b) a website where the conditions laid down in paragraph 5 of this Article are met.
+
+3\. However, where the information referred to in Articles 18, 19, 20 and 29 is provided using a durable medium other than paper or by means of a website, a paper copy shall be provided to the customer upon request and free of charge.
+
+4\. The information referred to in Articles 18, 19, 20 and 29 may be provided using a durable medium other than paper if the following conditions are met:
+
+(a) the use of the durable medium is appropriate in the context of the business conducted between the insurance distributor and the customer; and
+
+(b) the customer has been given the choice between information on paper and on a durable medium, and has chosen the latter medium.
+
+5\. The information referred to in Articles 18, 19, 20 and 29 may be provided by means of a website if it is addressed personally to the customer or if the following conditions are met:
+
+(a) the provision of that information by means of a website is appropriate in the context of the business conducted between the insurance distributor and the customer;
+
+(b) the customer has consented to the provision of that information by means of a website;
+
+(c) the customer has been notified electronically of the address of the website, and the place on the website where that information can be accessed;
+
+(d) it is ensured that that information remains accessible on the website for such period of time as the customer may reasonably need to consult it.
+
+6\. For the purposes of paragraphs 4 and 5, the provision of information using a durable medium other than paper or by means of a website shall be regarded as appropriate in the context of the business conducted between the insurance distributor and the customer if there is evidence that the customer has regular access to the internet. The provision by the customer of an e-mail address for the purposes of that business shall be regarded as such evidence.
+
+7\. In the case of telephone selling, the information given to the customer by the insurance distributor prior to the conclusion of the contract, including the insurance product information document, shall be provided in accordance with Union rules applicable to the distance marketing of consumer financial services. Moreover, even if the customer has chosen to obtain prior information on a durable medium other than paper in accordance with paragraph 4, information shall be provided by the insurance distributor to the customer in accordance with paragraph 1 or paragraph 2 immediately after the conclusion of the insurance contract.
+
+### Article 24 — Cross-selling
+
+1\. When an insurance product is offered together with an ancillary product or service which is not insurance, as part of a package or the same agreement, the insurance distributor shall inform the customer whether it is possible to buy the different components separately and, if so, shall provide an adequate description of the different components of the agreement or package as well as separate evidence of the costs and charges of each component.
+
+2\. In the circumstances referred to in paragraph 1, and where the risk or the insurance coverage resulting from such an agreement or package offered to a customer is different from that associated with the components taken separately, the insurance distributor shall provide an adequate description of the different components of the agreement or package and the way in which their interaction modifies the risk or the insurance coverage.
+
+3\. Where an insurance product is ancillary to a good or a service which is not insurance, as part of a package or the same agreement, the insurance distributor shall offer the customer the possibility of buying the good or service separately. This paragraph shall not apply where an insurance product is ancillary to an investment service or activity as defined in point 2 of Article 4(1) of Directive 2014/65/EU, a credit agreement as defined in point 3 of Article 4 of Directive 2014/17/EU of the European Parliament and of the Council ( 4 ), or a payment account as defined in point 3 of Article 2 of Directive 2014/92/EU of the European Parliament and of the Council ( 5 ).
+
+4\. EIOPA may develop guidelines for the assessment and the supervision of cross-selling practices indicating situations in which cross-selling practices are not compliant with the obligations laid down in Article 17.
+
+5\. This Article shall not prevent the distribution of insurance products which provide coverage for various types of risks (multi-risk insurance policies).
+
+6\. In the cases referred to in paragraphs 1 and 3, Member States shall ensure that an insurance distributor specifies the demands and needs of the customer in relation to the insurance products that form part of the overall package or the same agreement.
+
+7\. Member States may maintain or adopt additional stricter measures or intervene on a case-by-case basis to prohibit the sale of insurance together with an ancillary service or product which is not insurance, as part of a package or the same agreement, when they can demonstrate that such practices are detrimental to consumers.
+
+### Article 25 — Product oversight and governance requirements
+
+1\. Insurance undertakings, as well as intermediaries which manufacture any insurance product for sale to customers, shall maintain, operate and review a process for the approval of each insurance product, or significant adaptations of an existing insurance product, before it is marketed or distributed to customers.
+
+The product approval process shall be proportionate and appropriate to the nature of the insurance product.
+
+The product approval process shall specify an identified target market for each product, ensure that all relevant risks to such identified target market are assessed and that the intended distribution strategy is consistent with the identified target market, and take reasonable steps to ensure that the insurance product is distributed to the identified target market.
+
+The insurance undertaking shall understand and regularly review the insurance products it offers or markets, taking into account any event that could materially affect the potential risk to the identified target market, to assess at least whether the product remains consistent with the needs of the identified target market and whether the intended distribution strategy remains appropriate.
+
+Insurance undertakings, as well as intermediaries which manufacture insurance products, shall make available to distributors all appropriate information on the insurance product and the product approval process, including the identified target market of the insurance product.
+
+Where an insurance distributor advises on, or proposes, insurance products which it does not manufacture, it shall have in place adequate arrangements to obtain the information referred to in the fifth subparagraph and to understand the characteristics and identified target market of each insurance product.
+
+2\. The Commission shall be empowered to adopt delegated acts in accordance with Article 38 to further specify the principles set out in this Article, taking into account in a proportionate way the activities performed, the nature of the insurance products sold and the nature of the distributor.
+
+3\. The policies, processes and arrangements referred to in this Article shall be without prejudice to all other requirements under this Directive including those relating to disclosure, suitability or appropriateness, identification and management of conflicts of interest, and inducements.
+
+4\. This Article shall not apply to insurance products which consist of the insurance of large risks.
+
+## CHAPTER VI — ADDITIONAL REQUIREMENTS IN RELATION TO INSURANCE-BASED INVESTMENT PRODUCTS
+
+### Article 26 — Scope of additional requirements
+
+This Chapter establishes requirements additional to those applicable to insurance distribution in accordance with Articles 17, 18, 19 and 20, where the insurance distribution is carried out in relation to the sale of insurance-based investment products by any of the following:
+
+(a) an insurance intermediary;
+
+(b) an insurance undertaking.
+
+### Article 27 — Prevention of conflicts of interest
+
+Without prejudice to Article 17, an insurance intermediary or an insurance undertaking carrying on the distribution of insurance-based investment products shall maintain and operate effective organisational and administrative arrangements with a view to taking all reasonable steps designed to prevent conflicts of interest as determined under Article 28 from adversely affecting the interests of its customers. Those arrangements shall be proportionate to the activities performed, the insurance products sold and the type of the distributor.
+
+### Article 28 — Conflicts of interest
+
+1\. Member States shall ensure that insurance intermediaries and insurance undertakings take all appropriate steps to identify conflicts of interest between themselves, including their managers and employees, or any person directly or indirectly linked to them by control, and their customers or between one customer and another, that arise in the course of carrying out any insurance distribution activities.
+
+2\. Where organisational or administrative arrangements made by the insurance intermediary or insurance undertaking in accordance with Article 27 to manage conflicts of interest are not sufficient to ensure, with reasonable confidence, that risks of damage to customer interests will be prevented, the insurance intermediary or insurance undertaking shall clearly disclose to the customer the general nature or sources of the conflicts of interest, in good time before the conclusion of an insurance contract.
+
+3\. By way of derogation from Article 23(1), the disclosure referred to in paragraph 2 of this Article shall:
+
+(a) be made on a durable medium; and
+
+(b) include sufficient detail, taking into account the nature of the customer, to enable that customer to take an informed decision with respect to the insurance distribution activities in the context of which the conflict of interest arises.
+
+4\. The Commission shall be empowered to adopt delegated acts in accordance with Article 38 in order to:
+
+(a) define the steps that insurance intermediaries and insurance undertakings might reasonably be expected to take to identify, prevent, manage and disclose conflicts of interest when carrying out insurance distribution activities;
+
+(b) establish appropriate criteria for determining the types of conflict of interest whose existence may damage the interests of the customers or potential customers of the insurance intermediary or insurance undertaking.
+
+### Article 29 — Information to customers
+
+1\. Without prejudice to Article 18 and Article 19(1) and (2), appropriate information shall be provided in good time, prior to the conclusion of a contract, to customers or potential customers with regard to the distribution of insurance-based investment products, and with regard to all costs and related charges. That information shall include at least the following:
+
+(a) when advice is provided, whether the insurance intermediary or insurance undertaking will provide the customer with a periodic assessment of the suitability of the insurance-based investment products recommended to that customer, referred to in Article 30;
+
+(b) as regards the information on insurance-based investment products and proposed investment strategies, appropriate guidance on, and warnings of, the risks associated with the insurance-based investment products or in respect of particular investment strategies proposed;
+
+(c) as regards the information on all costs and related charges to be disclosed, information relating to the distribution of the insurance-based investment product, including the cost of advice, where relevant, the cost of the insurance-based investment product recommended or marketed to the customer and how the customer may pay for it, also encompassing any third party payments.
+
+The information about all costs and charges, including costs and charges in connection with the distribution of the insurance-based investment product, which are not caused by the occurrence of underlying market risk, shall be in aggregated form to allow the customer to understand the overall cost as well as the cumulative effect on the return of the investment, and, where the customer so requests, an itemised breakdown of the costs and charges shall be provided. Where applicable, such information shall be provided to the customer on a regular basis, at least annually, during the life cycle of the investment.
+
+The information referred to in this paragraph shall be provided in a comprehensible form in such a manner that customers or potential customers are reasonably able to understand the nature and risks concerning the insurance-based investment product offered and, consequently, to take investment decisions on an informed basis. Member States may allow that information to be provided in a standardised format.
+
+2\. Without prejudice to points (d) and (e) of Article 19(1), Article 19(3) and Article 22(3), Member States shall ensure that insurance intermediaries or insurance undertakings are regarded as fulfilling their obligations under Article 17(1), Article 27 or Article 28 where they pay or are paid any fee or commission, or provide or are provided with any non-monetary benefit in connection with the distribution of an insurance-based investment product or an ancillary service, to or by any party except the customer or a person on behalf of the customer only where the payment or benefit:
+
+(a) does not have a detrimental impact on the quality of the relevant service to the customer; and
+
+(b) does not impair compliance with the insurance intermediary’s or insurance undertaking’s duty to act honestly, fairly and professionally in accordance with the best interests of its customers.
+
+3\. Member States may impose stricter requirements on distributors in respect of the matters covered by this Article. In particular, Member States may additionally prohibit or further restrict the offer or acceptance of fees, commissions or non-monetary benefits from third parties in relation to the provision of insurance advice.
+
+Stricter requirements may include requiring any such fees, commissions or non-monetary benefits to be returned to the clients or offset against fees paid by the client.
+
+Member States may make the provision of advice referred to in Article 30 mandatory for the sales of any insurance-based investment products, or for certain types of them.
+
+Member States may require that, where an insurance intermediary informs the client that advice is given independently, the intermediary shall assess a sufficiently large number of insurance products available on the market which are sufficiently diversified with regard to their type and product providers to ensure that the client’s objectives can be suitably met and shall not be limited to insurance products issued or provided by entities having close links with the intermediary.
+
+The stricter requirements of a Member State referred to in this paragraph have to be complied with by all insurance intermediaries or insurance undertakings, including those operating under the freedom to provide services or the freedom of establishment, when concluding insurance contracts with customers having their habitual residence or establishment in that Member State.
+
+4\. Without prejudice to paragraph 3 of this Article, the Commission shall be empowered to adopt delegated acts in accordance with Article 38 to specify:
+
+(a) the criteria for assessing whether inducements paid or received by an insurance intermediary or an insurance undertaking have a detrimental impact on the quality of the relevant service to the customer;
+
+(b) the criteria for assessing compliance of insurance intermediaries and insurance undertakings paying or receiving inducements with the obligation to act honestly, fairly and professionally in accordance with the best interests of the customer.
+
+5\. The delegated acts referred to in paragraph 4 shall take into account:
+
+(a) the nature of the services offered or provided to the customer or potential customer, taking into account the type, object, size and frequency of the transactions;
+
+(b) the nature of the products being offered or considered, including different types of insurance-based investment products.
+
+### Article 30 — Assessment of suitability and appropriateness and reporting to customers
+
+1\. Without prejudice to Article 20(1), when providing advice on an insurance-based investment product, the insurance intermediary or insurance undertaking shall also obtain the necessary information regarding the customer’s or potential customer’s knowledge and experience in the investment field relevant to the specific type of product or service, that person’s financial situation including that person’s ability to bear losses, and that person’s investment objectives, including that person’s risk tolerance, so as to enable the insurance intermediary or the insurance undertaking to recommend to the customer or potential customer the insurance-based investment products that are suitable for that person and that, in particular, are in accordance with that person’s risk tolerance and ability to bear losses.
+
+Member States shall ensure that where an insurance intermediary or insurance undertaking provides investment advice recommending a package of services or products bundled pursuant to Article 24, the overall bundled package is suitable.
+
+2\. Without prejudice to Article 20(1), Member States shall ensure that an insurance intermediary or insurance undertaking, when carrying out insurance distribution activities other than those referred to in paragraph 1 of this Article, in relation to sales where no advice is given, asks the customer or potential customer to provide information regarding that person’s knowledge and experience in the investment field relevant to the specific type of product or service offered or demanded so as to enable the insurance intermediary or the insurance undertaking to assess whether the insurance service or product envisaged is appropriate for the customer. Where a bundle of services or products is envisaged pursuant to Article 24, the assessment shall consider whether the overall bundled package is appropriate.
+
+Where the insurance intermediary or insurance undertaking considers, on the basis of the information received under the first subparagraph, that the product is not appropriate for the customer or potential customer, the insurance intermediary or insurance undertaking shall warn the customer or potential customer to that effect. That warning may be provided in a standardised format.
+
+Where customers or potential customers do not provide the information referred to in the first subparagraph, or where they provide insufficient information regarding their knowledge and experience, the insurance intermediary or insurance undertaking shall warn them that it is not in a position to determine whether the product envisaged is appropriate for them. That warning may be provided in a standardised format.
+
+3\. Without prejudice to Article 20(1), where no advice is given in relation to insurance-based investment products, Member States may derogate from the obligations referred to in paragraph 2 of this Article, allowing insurance intermediaries or insurance undertakings to carry out insurance distribution activities within their territories without the need to obtain the information or make the determination provided for in paragraph 2 of this Article where all the following conditions are met:
+
+(a) the activities refer to either of the following insurance-based investment products:
+
+(i) contracts which only provide investment exposure to the financial instruments deemed non-complex under Directive 2014/65/EU and do not incorporate a structure which makes it difficult for the customer to understand the risks involved; or
+
+(ii) other non-complex insurance-based investments for the purpose of this paragraph;
+
+(b) the insurance distribution activity is carried out at the initiative of the customer or potential customer;
+
+(c) the customer or potential customer has been clearly informed that, in the provision of the insurance distribution activity, the insurance intermediary or the insurance undertaking is not required to assess the appropriateness of the insurance-based investment product or insurance distribution activity provided or offered and that the customer or potential customer does not benefit from the corresponding protection of the relevant conduct of business rules. Such a warning may be provided in a standardised format;
+
+(d) the insurance intermediary or insurance undertaking complies with its obligations under Articles 27 and 28.
+
+All insurance intermediaries or insurance undertakings, including those operating under the freedom to provide services or the freedom of establishment, when concluding insurance contracts with customers having their habitual residence or establishment in a Member State which does not make use of the derogation referred to in this paragraph shall comply with the applicable provisions in that Member State.
+
+4\. The insurance intermediary or insurance undertaking shall establish a record that includes the document or documents agreed between the insurance intermediary or insurance undertaking and the customer that set out the rights and obligations of the parties, and the other terms on which the insurance intermediary or insurance undertaking will provide services to the customer. The rights and duties of the parties to the contract may be incorporated by reference to other documents or legal texts.
+
+5\. The insurance intermediary or insurance undertaking shall provide the customer with adequate reports on the service provided on a durable medium. Those reports shall include periodic communications to customers, taking into account the type and the complexity of insurance-based investment products involved and the nature of the service provided to the customer and shall include, where applicable, the costs associated with the transactions and services undertaken on behalf of the customer.
+
+When providing advice on an insurance-based investment product, the insurance intermediary or the insurance undertaking shall, prior to the conclusion of the contract, provide the customer with a suitability statement on a durable medium specifying the advice given and how that advice meets the preferences, objectives and other characteristics of the customer. The conditions set out in Article 23(1) to (4) shall apply.
+
+Where the contract is concluded using a means of distance communication which prevents the prior delivery of the suitability statement, the insurance intermediary or the insurance undertaking may provide the suitability statement on a durable medium immediately after the customer is bound by any contract, provided both of the following conditions are met:
+
+(a) the customer has consented to receiving the suitability statement without undue delay after the conclusion of the contract; and
+
+(b) the insurance intermediary or insurance undertaking has given the customer the option of delaying the conclusion of the contract in order to receive the suitability statement in advance of such conclusion.
+
+Where an insurance intermediary or an insurance undertaking has informed the customer that it will carry out a periodic assessment of suitability, the periodic report shall contain an updated statement of how the insurance-based investment product meets the customer’s preferences, objectives and other characteristics of the customer.
+
+6\. The Commission shall be empowered to adopt delegated acts in accordance with Article 38 to further specify how insurance intermediaries and insurance undertakings are to comply with the principles set out in this Article when carrying out insurance distribution activities with their customers, including with regard to the information to be obtained when assessing the suitability and appropriateness of insurance-based investment products for their customers, the criteria to assess non-complex insurance-based investment products for the purposes of point (ii) of point (a) of paragraph 3 of this Article, and the content and format of records and agreements for the provision of services to customers and of periodic reports to customers on the services provided. Those delegated acts shall take into account:
+
+(a) the nature of the services offered or provided to the customer or potential customer, taking into account the type, object, size and frequency of the transactions;
+
+(b) the nature of the products being offered or considered including different types of insurance-based investment products;
+
+(c) the retail or professional nature of the customer or potential customer.
+
+7\. By 23 August 2017, EIOPA shall develop guidelines, and thereafter update them periodically, for the assessment of insurance-based investment products that incorporate a structure which makes it difficult for the customer to understand the risks involved as referred to in point (i) of point (a) of paragraph 3.
+
+8\. EIOPA may develop guidelines, and thereafter update them periodically, for the assessment of insurance-based investment products being classified as non complex for the purpose of point (ii) of point (a) of paragraph 3, taking into account the delegated acts adopted under paragraph 6.
+
+## CHAPTER VII — SANCTIONS AND OTHER MEASURES
+
+### Article 31 — Administrative sanctions and other measures
+
+1\. Without prejudice to the supervisory powers of competent authorities and the right of Member States to provide for and impose criminal sanctions, Member States shall ensure that their competent authorities may impose administrative sanctions and other measures applicable to all infringements of the national provisions implementing this Directive, and shall take all measures necessary to ensure that they are implemented. Member States shall ensure that their administrative sanctions and other measures are effective, proportionate and dissuasive.
+
+2\. Member States may decide not to lay down rules on administrative sanctions under this Directive for infringements which are subject to criminal sanctions under their national law. In that case, Member States shall communicate to the Commission the relevant criminal law provisions.
+
+3\. Competent authorities shall exercise their supervisory powers, including investigatory powers and powers to impose sanctions provided for in this Chapter, in accordance with their national legal frameworks in any of the following ways:
+
+(a) directly;
+
+(b) in collaboration with other authorities;
+
+(c) by application to the competent judicial authorities.
+
+4\. Member States shall ensure that where obligations apply to insurance or reinsurance distributors, in the event of a breach of any such obligation, administrative sanctions against, and other measures with regard to, the members of their management or supervisory body, and any other natural or legal persons who, under national law, are responsible for such breach, can be applied.
+
+5\. Member States shall ensure that administrative sanctions and other measures taken in accordance with this Article are subject to a right of appeal.
+
+6\. The competent authorities shall be given all investigatory powers that are necessary for the exercise of their functions. In the exercise of their powers to impose administrative sanctions and other measures, the competent authorities shall cooperate closely to ensure that those sanctions and measures produce the desired results and coordinate their action when dealing with cross-border cases, while ensuring that the conditions are met for legitimate data processing in accordance with Directive 95/46/EC and Regulation (EC) No 45/2001.
+
+Where Member States have chosen, in accordance with paragraph 2 of this Article, to lay down criminal sanctions for infringements of the provisions referred to in Article 33, they shall ensure that appropriate measures are in place so that competent authorities have all the necessary powers to:
+
+(a) liaise with judicial authorities within their territory to receive specific information relating to criminal investigations or proceedings commenced for possible infringements under this Directive; and
+
+(b) provide such information to other competent authorities and EIOPA to fulfil their obligation to cooperate with each other and with EIOPA for the purposes of this Directive.
+
+### Article 32 — Publication of sanctions and other measures
+
+1\. Member States shall ensure that the competent authorities publish any administrative sanction or other measure that has been imposed for breaches of the national provisions implementing this Directive and against which no appeal was lodged in time, without undue delay, including information on the type and nature of the breach and the identity of persons responsible for it. However, where the publication of the identity of the legal persons, or identity or personal data of natural persons, is considered by the competent authority to be disproportionate following a case-by-case assessment conducted on the proportionality of the publication of such data or where publication jeopardises the stability of financial markets or an ongoing investigation, the competent authority may decide to defer publication, not to publish, or to publish the sanctions on an anonymous basis.
+
+2\. Where national law provides for the publication of a decision to impose a sanction or other measure which is subject to an appeal before the relevant judicial or other authorities, the competent authorities shall publish on their official website, without undue delay, such information and any subsequent information on the outcome of such appeal. Moreover, any decision annulling a previous decision to impose a sanction or other measure which has been published shall also be published.
+
+3\. Competent authorities shall inform EIOPA of all administrative sanctions and other measures imposed, but not published in accordance with paragraph 1, including any appeal in relation thereto and the outcome thereof.
+
+### Article 33 — Breaches, and sanctions and other measures
+
+1\. This Article shall apply to at least the following:
+
+(a) persons who fail to register their distribution activities in accordance with Article 3;
+
+(b) an insurance or reinsurance undertaking or insurance or reinsurance intermediary using the insurance or reinsurance distribution services of persons referred to in point (a);
+
+(c) an insurance, reinsurance or ancillary insurance intermediary who obtained a registration through false statements or any other irregular means in breach of Article 3;
+
+(d) an insurance distributor who fails to meet the provisions of Article 10;
+
+(e) an insurance undertaking or insurance intermediary failing to comply with conduct of business requirements set out in Chapters V and VI, in relation to the distribution of insurance-based investment products;
+
+(f) an insurance distributor who fails to comply with conduct of business requirements set out in Chapter V, in relation to any insurance product other than those referred to in point (e).
+
+2\. In the event of any of the breaches referred to in point (e) of paragraph 1, Member States shall ensure that the competent authorities have the power to impose, in accordance with national law, at least the following administrative sanctions and other measures:
+
+(a) a public statement, which indicates the responsible natural or legal person and the nature of the breach;
+
+(b) an order requiring the responsible natural or legal person to cease the conduct and to desist from a repetition of that conduct;
+
+(c) in the case of an insurance intermediary, withdrawal of the registration referred to in Article 3;
+
+(d) a temporary ban on the exercise of management functions in insurance intermediaries or insurance undertakings imposed against any member of the management body of the insurance intermediary or insurance undertaking who is held responsible;
+
+(e) in the case of a legal person, the following maximum administrative pecuniary sanctions:
+
+(i) at least EUR 5 000 000 or up to 5 % of the total annual turnover according to the last available accounts approved by the management body, or in the Member States whose currency is not the euro, the corresponding value in the national currency on the date of entry into force of this Directive. Where the legal person is a parent undertaking or a subsidiary of a parent undertaking which has to prepare consolidated financial accounts according to Directive 2013/34/EU of the European Parliament and of the Council ( 6 ), the relevant total turnover shall be the total annual turnover according to the last available consolidated accounts approved by the management body of the ultimate parent undertaking; or
+
+(ii) up to twice the amount of the profits gained or losses avoided because of the breach, where those can be determined;
+
+(f) in the case of a natural person, the following maximum administrative pecuniary sanctions:
+
+(i) at least EUR 700 000 or, in the Member States whose currency is not the euro, the corresponding value in the national currency on the date of entry into force of this Directive; or
+
+(ii) up to twice the amount of the profits gained or losses avoided because of the breach, where those can be determined.
+
+3\. In the event of any of the breaches referred to in points (a) to (d) and (f) of paragraph 1, Member States shall ensure that the competent authorities have the power to impose, in accordance with national law, at least the following administrative sanctions and other measures:
+
+(a) an order requiring the responsible natural or legal person to cease the conduct and to desist from a repetition of that conduct;
+
+(b) in the case of an insurance, reinsurance or ancillary insurance intermediary, withdrawal of the registration referred to in Article 3.
+
+4\. Member States may empower competent authorities to provide for additional sanctions or other measures and for levels of administrative pecuniary sanctions which are higher than those provided for in this Article.
+
+### Article 34 — Effective application of sanctions and other measures
+
+Member States shall ensure that when determining the type of administrative sanctions or other measures and the level of administrative pecuniary sanctions, the competent authorities take into account all relevant circumstances, including where appropriate:
+
+(a) the gravity and the duration of the breach;
+
+(b) the degree of responsibility of the responsible natural or legal person;
+
+(c) the financial strength of the responsible natural or legal person, as indicated by either the annual income of the responsible natural person or the total turnover of the responsible legal person;
+
+(d) the importance of profits gained or losses avoided by the responsible natural or legal person, in so far as they can be determined;
+
+(e) the losses for customers and third parties caused by the breach, in so far as they can be determined;
+
+(f) the level of cooperation of the responsible natural or legal person with the competent authority;
+
+(g) measures taken by the responsible natural or legal person to prevent repetition of the breach; and
+
+(h) any previous breaches by the responsible natural or legal person.
+
+### Article 35 — Reporting of breaches
+
+1\. Member States shall ensure that the competent authorities establish effective mechanisms to enable and encourage the reporting to them of possible or actual breaches of national provisions implementing this Directive.
+
+2\. The mechanisms referred to in paragraph 1 shall include at least:
+
+(a) specific procedures for the receipt of reports and their follow-up;
+
+(b) appropriate protection, at least against retaliation, discrimination or other types of unfair treatment, for employees of insurance or reinsurance distributors and, where possible, for other persons, who report infringements committed within those entities; and
+
+(c) protection of the identity of both the person who reports the breach and the natural person who is allegedly responsible for the breach, at all stages of the procedure unless such disclosure is required by national law in the context of further investigation or subsequent administrative or judicial proceedings.
+
+### Article 36 — Submitting information to EIOPA in relation to sanctions and other measures
+
+1\. Competent authorities shall inform EIOPA of all administrative sanctions and other measures imposed but not published in accordance with Article 32(1).
+
+2\. Competent authorities shall provide EIOPA annually with aggregated information regarding all administrative sanctions and other measures imposed in accordance with Article 31.
+
+EIOPA shall publish that information in an annual report.
+
+3\. Where the competent authority has disclosed an administrative sanction or other measure to the public, it shall at the same time report that fact to EIOPA.
+
+## CHAPTER VIII — FINAL PROVISIONS
+
+### Article 37 — Data protection
+
+1\. Member States shall apply Directive 95/46/EC to the processing of personal data carried out in the Member States pursuant to this Directive.
+
+2\. Regulation (EC) No 45/2001 shall apply to the processing of personal data carried out by EIOPA pursuant to this Directive.
+
+### Article 38 — Delegated acts
+
+The Commission shall be empowered to adopt delegated acts in accordance with Article 39 concerning Articles 25, 28, 29 and 30.
+
+### Article 39 — Exercise of the delegation
+
+1\. The power to adopt delegated acts is conferred on the Commission subject to the conditions laid down in this Article.
+
+2\. The power to adopt delegated acts referred to in Articles 25, 28, 29 and 30 shall be conferred on the Commission for an indeterminate period of time from 22 February 2016.
+
+3\. The delegation of powers referred to in Articles 25, 28, 29 and 30 may be revoked at any time by the European Parliament or by the Council. A decision of revocation shall put an end to the delegation of the power specified in that decision. It shall take effect the day following the publication of the decision in the Official Journal of the European Union or at a later date specified therein. It shall not affect the validity of any delegated acts already in force.
+
+4\. As soon as it adopts a delegated act, the Commission shall notify it simultaneously to the European Parliament and to the Council.
+
+5\. A delegated act adopted pursuant to Articles 25, 28, 29 and 30 shall enter into force only if no objection has been expressed either by the European Parliament or the Council within a period of three months of notification of that act to the European Parliament and to the Council or if, before the expiry of that period, the European Parliament and the Council have both informed the Commission that they will not object. That period shall be extended by three months at the initiative of the European Parliament or of the Council.
+
+### Article 40 — Transitional period
+
+Member States shall ensure that intermediaries already registered under Directive 2002/92/EC comply with the relevant provisions of national law implementing Article 10(1) of this Directive by 23 February 2019.
+
+### Article 40a — Accessibility of information on the European single access point
+
+From 10 January 2030, Member States shall ensure that the information referred to in Article 32(1) and (2) of this Directive is made accessible on the European single access point (ESAP) established under Regulation (EU) 2023/2859 of the European Parliament and of the Council ( 7 ). For that purpose, the collection body as defined in Article 2, point (2), of Regulation (EU) 2023/2859 shall be the competent authority.
+
+Members States shall ensure that the information complies with the following requirements:
+
+(a) be submitted in a data extractable format as defined in Article 2, point (3), of Regulation (EU) 2023/2859;
+
+(b) be accompanied by the following metadata:
+
+(i) all the names of the entity to which the information relates;
+
+(ii) where available, the legal entity identifier of the entity, as specified pursuant to Article 7(4), point (b), of Regulation (EU) 2023/2859;
+
+(iii) the type of information, as classified pursuant to Article 7(4), point (c), of that Regulation;
+
+(iv) an indication of whether the information contains personal data.
+
+### Article 41 — Review and evaluation
+
+1\. By 23 February 2021, the Commission shall submit to the European Parliament and to the Council a report on the application of Article 1. Such report shall include an assessment, on the basis of information received from the Member States and EIOPA pursuant to Article 1(5), of whether the scope of this Directive, including the exception in Article 1(3), remains appropriate with regard to the level of consumer protection, the proportionality of treatment between different insurance distributors and the administrative burden imposed on competent authorities and insurance distribution channels.
+
+2\. By 23 February 2021, the Commission shall review this Directive. The review shall include a general survey of the practical application of rules under this Directive taking due account of developments in the retail investment products markets as well as experiences acquired in the practical application of this Directive and of Regulation (EU) No 1286/2014 and Directive 2014/65/EU. The review shall include an evaluation of whether the specific conduct of business rules for the distribution of insurance-based investment products set out in Chapter VI of this Directive deliver appropriate and proportionate results, taking into account the need to ensure a sufficient level of consumer protection consistent with the investor protection standards applicable under Directive 2014/65/EU and the specific characteristics of insurance-based investment products and the specific nature of their distribution channels. The review shall also reflect upon a possible application of the provisions of this Directive to products falling under the scope of Directive 2003/41/EC. Such review shall also include a specific analysis of the impact of Article 19 of this Directive, taking into account the situation of competition in the market of insurance distribution for contracts other than contracts in any of the classes specified in Annex II to Directive 2009/138/EC and the impact of the obligations referred to in Article 19 of this Directive on insurance intermediaries which are small and medium sized enterprises.
+
+3\. After consulting the Joint Committee of European Supervisory Authorities, the Commission shall submit a first report to the European Parliament and the Council.
+
+4\. By 23 February 2020, and at least every two years thereafter, EIOPA shall prepare a further report on the application of this Directive. EIOPA shall consult the European Securities and Markets Authority before making public its report.
+
+5\. In a third report to be prepared by 23 February 2018, EIOPA shall undertake an evaluation of the structure of insurance intermediaries’ markets.
+
+6\. The report to be prepared by EIOPA by 23 February 2020 referred to in paragraph 4 shall examine whether the competent authorities referred to in Article 12(1) are sufficiently empowered and have adequate resources to carry out their tasks.
+
+7\. The report referred to in paragraph 4 shall examine at least the following issues:
+
+(a) any changes in the insurance intermediaries’ market structure;
+
+(b) any changes in the patterns of cross-border activity;
+
+(c) the improvement of quality of advice and selling methods and the impact of this Directive on insurance intermediaries which are small and medium-sized enterprises.
+
+8\. The report referred to in paragraph 4 shall also include an evaluation by EIOPA of the impact of this Directive.
+
+### Article 42 — Transposition
+
+1\. By 1 July 2018, Member States shall adopt and publish the laws, regulations and administrative provisions necessary to comply with this Directive. They shall immediately inform the Commission thereof.
+
+Member States shall apply those measures from 1 October 2018 at the latest.
+
+When Member States adopt those measures, they shall contain a reference to this Directive or be accompanied by such a reference on the occasion of their official publication. They shall also include a statement that references in existing laws, regulations and administrative provisions to the Directive repealed by this Directive shall be construed as references to this Directive. Member States shall determine how such reference is to be made and how that statement is to be formulated.
+
+2\. Member States shall communicate to the Commission the text of the main provisions of national law which they adopt in the field covered by this Directive.
+
+### Article 43 — Amendment of Directive 2002/92/EC
+
+Chapter IIIA of Directive 2002/92/EC is deleted with effect from 23 February 2016.
+
+### Article 44 — Repeal
+
+Directive 2002/92/EC, as amended by the Directives listed in Part A of Annex II to this Directive, is repealed with effect from 1 October 2018, without prejudice to the obligations of the Member States relating to the time limits for the transposition into national law of the Directives set out in Part B of Annex II to this Directive.
+
+References to the repealed Directive shall be construed as references to this Directive and shall be read in accordance with the correlation table set out in Annex III.
+
+### Article 45 — Entry into force
+
+This Directive shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+
+### Article 46 — Addressees
+
+This Directive is addressed to the Member States.
+
+## ANNEX I — MINIMUM PROFESSIONAL KNOWLEDGE AND COMPETENCE REQUIREMENTS — (as referred to in Article 10(2)
+
+I Non-life risks classified under classes 1 to 18 in Part A of Annex I to Directive 2009/138/EC:
+
+(a) minimum necessary knowledge of terms and conditions of policies offered, including ancillary risks if covered by such policies;
+
+(b) minimum necessary knowledge of applicable laws governing the distribution of insurance products, such as consumer protection law, relevant tax law and relevant social and labour law;
+
+(c) minimum necessary knowledge of claims handling;
+
+(d) minimum necessary knowledge of complaints handling;
+
+(e) minimum necessary knowledge of assessing customer needs;
+
+(f) minimum necessary knowledge of the insurance market;
+
+(g) minimum necessary knowledge of business ethics standards; and
+
+(h) minimum necessary financial competency.
+
+II Insurance-based investment products:
+
+(a) minimum necessary knowledge of insurance-based investment products, including terms and conditions and net premiums and, where applicable, guaranteed and non-guaranteed benefits;
+
+(b) minimum necessary knowledge of advantages and disadvantages of different investment options for policyholders;
+
+(c) minimum necessary knowledge of financial risks borne by policyholders;
+
+(d) minimum necessary knowledge of policies covering life risks and other savings products;
+
+(e) minimum necessary knowledge of organisation and benefits guaranteed by the pension system;
+
+(f) minimum necessary knowledge of applicable laws governing the distribution of insurance products, such as consumer protection law and relevant tax law;
+
+(g) minimum necessary knowledge of the insurance market and of the saving products market;
+
+(h) minimum necessary knowledge of complaints handling;
+
+(i) minimum necessary knowledge of assessing customer needs;
+
+(j) conflicts of interest management;
+
+(k) minimum necessary knowledge of business ethics standards; and
+
+(l) minimum necessary financial competency.
+
+III Life risks classified in Annex II to Directive 2009/138/EC:
+
+(a) minimum necessary knowledge of policies including terms, conditions, the guaranteed benefits and, where applicable, ancillary risks;
+
+(b) minimum necessary knowledge of organisation and benefits guaranteed by the pension system of the relevant Member State;
+
+(c) knowledge of applicable insurance contract law, consumer protection law, data protection law, anti-money laundering law and, where applicable, relevant tax law and relevant social and labour law;
+
+(d) minimum necessary knowledge of the insurance and other relevant financial services markets;
+
+(e) minimum necessary knowledge of complaints handling;
+
+(f) minimum necessary knowledge of assessing consumer needs;
+
+(g) conflicts of interest management;
+
+(h) minimum necessary knowledge of business ethics standards; and
+
+(i) minimum necessary financial competency.
+
+## ANNEX II
+
+**PART A**
+
+**Repealed Directive with list of its successive amendments**
+
+Directive 2002/92/EC of the European Parliament and of the Council (OJ L 9, 15.1.2003, p. 3).
+
+Directive 2014/65/EU of the European Parliament and of the Council (OJ L 173, 12.6.2014, p. 349).
+
+Directive (EU) 2016/97 of the European Parliament and of the Council (OJ L 26, 2.2.2016, p. 19).
+
+**PART B**
+
+**Time limits for transposition into national law referred to in Article 44**
+
+| Directive | Time limit for transposition of amending Directives |
+| --- | --- |
+| 2014/65/EU (EU) 2016/97 | 3.7.2016 22.2.2016 (as regards amendment of Directive 2002/92/EC in accordance with Article 43 of this Directive) 23.2.2018 (as regards transposition of this Directive in accordance with Article 42) |
+
+## ANNEX III — Correlation table
+
+| Directive 2002/92/EC | This Directive |
+| --- | --- |
+| Article 1(1) | Article 1(1) and (2) |
+| Article 1(2) | Article 1(3) and (4) |
+| Article 1(3) | Article 1(6) |
+| Article 2 point (1) | Article 2(1) point (6) |
+| Article 2 point (2) | Article 2(1) point (7) |
+| Article 2 point (3) | Article 2(1) point (1) and Article 2(2) |
+| Article 2 point (4) | Article 2(1) point (2) and Article 2(2) |
+| Article 2 point (5) | Article 2(1) point (3) |
+| Article 2 point (6) | Article 2(1) point (5) |
+| Article 2 point (7) | — |
+| Article 2 point (8) | Article 2(1) point (16) |
+| Article 2 point (9) | Article 2(1) point (10) |
+| Article 2 point (10) | Article 2(1) point (11) |
+| Article 2 point (11) | — |
+| Article 2 point (12) | Article 2(1) point (18) |
+| Article 2 point (13) | Article 2(1) point (17) |
+| Article 3(1) | Article 3(1) |
+| Article 3(2) | Article 3(2) and (3) |
+| Article 3(3) | Article 3(4) |
+| Article 3(4) | — |
+| Article 3(5) | — |
+| Article 3(6) | Article 16 |
+| Article 4(1) | Article 10(1) and (2) |
+| Article 4(2) | Article 10(3) |
+| Article 4(3) | Article 10(4) |
+| Article 4(4) | Article 10(6) |
+| Article 4(5) | — |
+| Article 4(6) | — |
+| Article 4(7) | Article 10(7) |
+| Article 5 | Article 40 |
+| Article 6(1) | Articles 4 and 6 |
+| Article 6(2) | — |
+| Article 6(3) | Article 11(1) |
+| Article 7 | Article 12 |
+| Article 8 | Articles 5, 7, 31 to 36 |
+| Article 9 | Article 13 |
+| Article 10 | Article 14 |
+| Article 11 | Article 15 |
+| Article 12(1) point (a) | Article 18 points (a)(i), (b)(i) |
+| Article 12(1) point (b) | Article 18 point (a)(iv) |
+| Article 12(1) point (c) | Article 19(1) point (a) |
+| Article 12(1) point (d) | Article 19(1) point (b) |
+| Article 12(1) point (e) | Articles 18 points (a)(iii), (b)(iii) and 19(1) point (c) |
+| Article 12(2) | Article 20(3) |
+| Article 12(3) | Article 20(1) |
+| Article 12(4) | Article 22(1) |
+| Article 12(5) | Article 22(2) and (4) |
+| Article 13 | Article 23 |
+| Article 14 | — |
+| Article 15 | — |
+| Article 16 | — |
+| Article 17 | — |
+
+( ) Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012 (OJ L 176, 27.6.2013, p. 1).
+
+( ) Directive 2009/138/EC of the European Parliament and of the Council of 25 November 2009 on the taking-up and pursuit of the business of Insurance and Reinsurance (Solvency II) (OJ L 335, 17.12.2009, p. 1).
+
+( ) Directive 2005/29/EC of the European Parliament and of the Council of 11 May 2005 concerning unfair business-to-consumer commercial practices in the internal market and amending Council Directive 84/450/EEC, Directives 97/7/EC, 98/27/EC and 2002/65/EC of the European Parliament and of the Council and Regulation (EC) No 2006/2004 of the European Parliament and of the Council (‘Unfair Commercial Practices Directive’) (OJ L 149, 11.6.2005, p. 22).
+
+( ) Directive 2014/17/EU of the European Parliament and of the Council of 4 February 2014 on credit agreements for consumers relating to residential immovable property and amending Directives 2008/48/EC and 2013/36/EU and Regulation (EU) No 1093/2010 (OJ L 60, 28.2.2014, p. 34).
+
+( ) Directive 2014/92/EU of the European Parliament and of the Council of 23 July 2014 on the comparability of fees related to payment accounts, payment account switching and access to payment accounts with basic features (OJ L 257, 28.8.2014, p. 214).
+
+( ) Directive 2013/34/EU of the European Parliament and of the Council of 26 June 2013 on the annual financial statements, consolidated financial statements and related reports of certain types of undertakings, amending Directive 2006/43/EC of the European Parliament and of the Council and repealing Council Directives 78/660/EEC and 83/349/EEC (OJ L 182, 29.6.2013, p. 19).
+
+( 1 ) Regulation (EU) 2023/2859 of the European Parliament and of the Council of 13 December 2023 establishing a European single access point providing centralised access to information that is publicly available in relation to financial services, capital markets and sustainability (OL L, 2023/2859, 20.12.2023, ELI: http://data.europa.eu/eli/reg/2023/2859/oj).

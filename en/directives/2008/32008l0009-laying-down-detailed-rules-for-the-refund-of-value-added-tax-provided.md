@@ -1,0 +1,321 @@
+---
+title: "Council Directive 2008/9/EC of 12 February 2008 laying down detailed rules for the refund of value added tax, provided for in Directive 2006/112/EC, to taxable persons not established in the Member State of refund but established in another Member State"
+identifier: "32008L0009"
+eli: "http://data.europa.eu/eli/dir/2008/9/oj"
+type: directive
+jurisdiction: eu
+language: en
+date: 2008-02-12
+entry_into_force: 2008-03-21
+last_amended: 2010-10-01
+consolidated_version: "02008L0009-20101001"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02008L0009-20101001"
+retrieved: 2026-10-11
+---
+
+# Council Directive 2008/9/EC of 12 February 2008 laying down detailed rules for the refund of value added tax, provided for in Directive 2006/112/EC, to taxable persons not established in the Member State of refund but established in another Member State
+
+**COUNCIL DIRECTIVE 2008/9/EC**
+
+**of 12 February 2008**
+
+**laying down detailed rules for the refund of value added tax, provided for in Directive 2006/112/EC, to taxable persons not established in the Member State of refund but established in another Member State**
+
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> COUNCIL DIRECTIVE 2010/66/EU of 14 October 2010 </td><td> L 275</td><td>1</td><td>20.10.2010</td></tr>
+
+**COUNCIL DIRECTIVE 2008/9/EC**
+
+**of 12 February 2008**
+
+**laying down detailed rules for the refund of value added tax, provided for in Directive 2006/112/EC, to taxable persons not established in the Member State of refund but established in another Member State**
+
+## Article 1
+
+This Directive lays down the detailed rules for the refund of value added tax (VAT), provided for in Article 170 of Directive 2006/112/EC, to taxable persons not established in the Member State of refund, who meet the conditions laid down in Article 3.
+
+## Article 2
+
+For the purposes of this Directive, the following definitions shall apply:
+
+1\. ‘taxable person not established in the Member State of refund’ means a taxable person within the meaning of Article 9(1) of Directive 2006/112/EC who is not established in the Member State of refund but established in the territory of another Member State;
+
+2\. ‘Member State of refund’ means the Member State in which the VAT was charged to the taxable person not established in the Member State of refund in respect of goods or services supplied to him by other taxable persons in that Member State or in respect of the importation of goods into that Member State;
+
+3\. ‘refund period’ means the period mentioned in Article 16 covered by the refund application;
+
+4\. ‘refund application’ means the application for refund of VAT charged in the Member State of refund to the taxable person not established in the Member State of refund in respect of goods or services supplied to him by other taxable persons in that Member State or in respect of the importation of goods into that Member State;
+
+5\. ‘applicant’ means the taxable person not established in the Member State of refund making the refund application.
+
+## Article 3
+
+This Directive shall apply to any taxable person not established in the Member State of refund who meets the following conditions:
+
+(a) during the refund period, he has not had in the Member State of refund, the seat of his economic activity, or a fixed establishment from which business transactions were effected, or, if no such seat or fixed establishment existed, his domicile or normal place of residence;
+
+(b) during the refund period, he has not supplied any goods or services deemed to have been supplied in the Member State of refund, with the exception of the following transactions:
+
+(i) the supply of transport services and services ancillary thereto, exempted pursuant to Articles 144, 146, 148, 149, 151, 153, 159 or 160 of Directive 2006/112/EC;
+
+(ii) the supply of goods and services to a person who is liable for payment of VAT in accordance with Articles 194 to 197 and Article 199 of Directive 2006/112/EC.
+
+## Article 4
+
+This Directive shall not apply to:
+
+(a) amounts of VAT which, according to the legislation of the Member State of refund, have been incorrectly invoiced;
+
+(b) amounts of VAT which have been invoiced in respect of supplies of goods the supply of which is, or may be, exempt under Article 138 or Article 146(1)(b) of Directive 2006/112/EC.
+
+## Article 5
+
+Each Member State shall refund to any taxable person not established in the Member State of refund any VAT charged in respect of goods or services supplied to him by other taxable persons in that Member State or in respect of the importation of goods into that Member State, insofar as such goods and services are used for the purposes of the following transactions:
+
+(a) transactions referred to in Article 169(a) and (b) of Directive 2006/112/EC;
+
+(b) transactions to a person who is liable for payment of VAT in accordance with Articles 194 to 197 and Article 199 of Directive 2006/112/EC as applied in the Member State of refund.
+
+Without prejudice to Article 6, for the purposes of this Directive, entitlement to an input tax refund shall be determined pursuant to Directive 2006/112/EC as applied in the Member State of refund.
+
+## Article 6
+
+To be eligible for a refund in the Member State of refund, a taxable person not established in the Member State of refund has to carry out transactions giving rise to a right of deduction in the Member State of establishment.
+
+When a taxable person not established in the Member State of refund carries out in the Member State in which he is established both transactions giving rise to a right of deduction and transactions not giving rise to a right of deduction in that Member State, only such proportion of the VAT which is refundable in accordance with Article 5 may be refunded by the Member State of refund as is attributable to the former transactions in accordance with Article 173 of Directive 2006/112/EC as applied by the Member State of establishment.
+
+## Article 7
+
+To obtain a refund of VAT in the Member State of refund, the taxable person not established in the Member State of refund shall address an electronic refund application to that Member State and submit it to the Member State in which he is established via the electronic portal set up by that Member State.
+
+## Article 8
+
+1\. The refund application shall contain the following information:
+
+(a) the applicant's name and full address;
+
+(b) an address for contact by electronic means;
+
+(c) a description of the applicant's business activity for which the goods and services are acquired;
+
+(d) the refund period covered by the application;
+
+(e) a declaration by the applicant that he has supplied no goods and services deemed to have been supplied in the Member State of refund during the refund period, with the exception of transactions referred to in points (i) and (ii) of Article 3(b);
+
+(f) the applicant's VAT identification number or tax reference number;
+
+(g) bank account details including IBAN and BIC codes.
+
+2\. In addition to the information specified in paragraph 1, the refund application shall set out, for each Member State of refund and for each invoice or importation document, the following details:
+
+(a) name and full address of the supplier;
+
+(b) except in the case of importation, the VAT identification number or tax reference number of the supplier, as allocated by the Member State of refund in accordance with the provisions of Articles 239 and 240 of Directive 2006/112/EC;
+
+(c) except in the case of importation, the prefix of the Member State of refund in accordance with Article 215 of Directive 2006/112/EC;
+
+(d) date and number of the invoice or importation document;
+
+(e) taxable amount and amount of VAT expressed in the currency of the Member State of refund;
+
+(f) the amount of deductible VAT calculated in accordance with Article 5 and the second paragraph of Article 6 expressed in the currency of the Member State of refund;
+
+(g) where applicable, the deductible proportion calculated in accordance with Article 6, expressed as a percentage;
+
+(h) nature of the goods and services acquired, described according to the codes in Article 9.
+
+## Article 9
+
+1\. In the refund application, the nature of the goods and services acquired shall be described by the following codes:
+
+| 1 | = | fuel; |
+| --- | --- | --- |
+
+| 2 | = | hiring of means of transport; |
+| --- | --- | --- |
+
+| 3 | = | expenditure relating to means of transport (other than the goods and services referred to under codes 1 and 2); |
+| --- | --- | --- |
+
+| 4 | = | road tolls and road user charge; |
+| --- | --- | --- |
+
+| 5 | = | travel expenses, such as taxi fares, public transport fares; |
+| --- | --- | --- |
+
+| 6 | = | accommodation; |
+| --- | --- | --- |
+
+| 7 | = | food, drink and restaurant services; |
+| --- | --- | --- |
+
+| 8 | = | admissions to fairs and exhibitions; |
+| --- | --- | --- |
+
+| 9 | = | expenditure on luxuries, amusements and entertainment; |
+| --- | --- | --- |
+
+| 10 | = | other. |
+| --- | --- | --- |
+
+If code 10 is used, the nature of the goods and services supplied shall be indicated.
+
+2\. The Member State of refund may require the applicant to provide additional electronic coded information as regards each code set out in paragraph 1 to the extent that such information is necessary because of any restrictions on the right of deduction under Directive 2006/112/EC, as applicable in the Member State of refund or for the implementation of a relevant derogation received by the Member State of refund under Articles 395 or 396 of that Directive.
+
+## Article 10
+
+Without prejudice to requests for information under Article 20, the Member State of refund may require the applicant to submit by electronic means a copy of the invoice or importation document with the refund application where the taxable amount on an invoice or importation document is EUR 1 000 or more or the equivalent in national currency. Where the invoice concerns fuel, the threshold is EUR 250 or the equivalent in national currency.
+
+## Article 11
+
+The Member State of refund may require the applicant to provide a description of his business activity by using the harmonised codes determined in accordance with the second subparagraph of Article 34a(3) of Council Regulation (EC) No 1798/2003 ( 6 ).
+
+## Article 12
+
+The Member State of refund may specify which language or languages shall be used by the applicant for the provision of information in the refund application or of possible additional information.
+
+## Article 13
+
+If subsequent to the submission of the refund application the deductible proportion is adjusted pursuant to Article 175 of Directive 2006/112/EC, the applicant shall make a correction to the amount applied for or already refunded.
+
+The correction shall be made in a refund application during the calendar year following the refund period in question or, if the applicant makes no refund applications during that calendar year, by submitting a separate declaration via the electronic portal established by the Member State of establishment.
+
+## Article 14
+
+1\. The refund application shall relate to the following:
+
+(a) the purchase of goods or services which was invoiced during the refund period, provided that the VAT became chargeable before or at the time of the invoicing, or in respect of which the VAT became chargeable during the refund period, provided that the purchase was invoiced before the tax became chargeable;
+
+(b) the importation of goods during the refund period.
+
+2\. In addition to the transactions referred to in paragraph 1, the refund application may relate to invoices or import documents not covered by previous refund applications and concerning transactions completed during the calendar year in question.
+
+## Article 15
+
+1\. The refund application shall be submitted to the Member State of establishment at the latest on 30 September of the calendar year following the refund period. The application shall be considered submitted only if the applicant has filled in all the information required under Articles 8, 9 and 11.
+
+Refund applications which relate to refund periods in 2009 shall be submitted to the Member State of establishment on 31 March 2011 at the latest.
+
+2\. The Member State of establishment shall send the applicant an electronic confirmation of receipt without delay.
+
+## Article 16
+
+The refund period shall not be more than one calendar year or less than three calendar months. Refund applications may, however, relate to a period of less than three months where the period represents the remainder of a calendar year.
+
+## Article 17
+
+If the refund application relates to a refund period of less than one calendar year but not less than three months, the amount of VAT for which a refund is applied for may not be less than EUR 400 or the equivalent in national currency.
+
+If the refund application relates to a refund period of a calendar year or the remainder of a calendar year, the amount of VAT may not be less than EUR 50 or the equivalent in national currency.
+
+## Article 18
+
+1\. The Member State of establishment shall not forward the application to the Member State of refund where, during the refund period, any of the following circumstances apply to the applicant in the Member State of establishment:
+
+(a) he is not a taxable person for VAT purposes;
+
+(b) he carries out only supplies of goods or of services which are exempt without deductibility of the VAT paid at the preceding stage pursuant to Articles 132, 135, 136, 371, Articles 374 to 377, Article 378(2)(a), Article 379(2) or Articles 380 to 390 of Directive 2006/112/EC or provisions providing for identical exemptions contained in the 2005 Act of Accession;
+
+(c) he is covered by the exemption for small enterprises provided for in Articles 284, 285, 286 and 287 of Directive 2006/112/EC;
+
+(d) he is covered by the common flat-rate scheme for farmers provided for in Articles 296 to 305 of Directive 2006/112/EC.
+
+2\. The Member State of establishment shall notify the applicant by electronic means of the decision it has taken pursuant to paragraph 1.
+
+## Article 19
+
+1\. The Member State of refund shall notify the applicant without delay, by electronic means, of the date on which it received the application.
+
+2\. The Member State of refund shall notify the applicant of its decision to approve or refuse the refund application within four months of its receipt by that Member State.
+
+## Article 20
+
+1\. Where the Member State of refund considers that it does not have all the relevant information on which to make a decision in respect of the whole or part of the refund application, it may request, by electronic means, additional information, in particular from the applicant or from the competent authorities of the Member State of establishment, within the four-month period referred to in Article 19(2). Where the additional information is requested from someone other than the applicant or a competent authority of a Member State, the request shall be made by electronic means only if such means are available to the recipient of the request.
+
+If necessary, the Member State of refund may request further additional information.
+
+The information requested in accordance with this paragraph may include the submission of the original or a copy of the relevant invoice or import document where the Member State of refund has reasonable doubts regarding the validity or accuracy of a particular claim. In that case, the thresholds mentioned in Article 10 shall not apply.
+
+2\. The Member State of refund shall be provided with the information requested under paragraph 1 within one month of the date on which the request reaches the person to whom it is addressed.
+
+## Article 21
+
+Where the Member State of refund requests additional information, it shall notify the applicant of its decision to approve or refuse the refund application within two months of receiving the requested information or, if it has not received a reply to its request, within two months of expiry of the time limit laid down in Article 20(2). However, the period available for the decision in respect of the whole or part of the refund application shall always be at least six months from the date of receipt of the application by the Member State of refund.
+
+Where the Member State of refund requests further additional information, it shall notify the applicant of its decision in respect of the whole or part of the refund application within eight months of receipt of the application by that Member State.
+
+## Article 22
+
+1\. Where the refund application is approved, refunds of the approved amount shall be paid by the Member State of refund at the latest within 10 working days of the expiry of the deadline referred to in Article 19(2) or, where additional or further additional information has been requested, the deadlines referred to in Article 21.
+
+2\. The refund shall be paid in the Member State of refund or, at the applicant's request, in any other Member State. In the latter case, any bank charges for the transfer shall be deducted by the Member State of refund from the amount to be paid to the applicant.
+
+## Article 23
+
+1\. Where the refund application is refused in whole or in part, the grounds for refusal shall be notified by the Member State of refund to the applicant together with the decision.
+
+2\. Appeals against decisions to refuse a refund application may be made by the applicant to the competent authorities of the Member State of refund in the forms and within the time limits laid down for appeals in the case of refund applications from persons who are established in that Member State.
+
+If, under the law of the Member State of refund, failure to take a decision on a refund application within the time limits specified in this Directive is not regarded either as approval or as refusal, any administrative or judicial procedures which are available in that situation to taxable persons established in that Member State shall be equally available to the applicant. If no such procedures are available, failure to take a decision on a refund application within these time limits shall mean that the application is deemed to be rejected.
+
+## Article 24
+
+1\. Where a refund has been obtained in a fraudulent way or otherwise incorrectly, the competent authority in the Member State of refund shall proceed directly to recover the amounts wrongly paid and any penalties and interest imposed in accordance with the procedure applicable in the Member State of refund, without prejudice to the provisions on mutual assistance for the recovery of VAT.
+
+2\. Where an administrative penalty or interest has been imposed but has not been paid, the Member State of refund may suspend any further refund to the taxable person concerned up to the unpaid amount.
+
+## Article 25
+
+The Member State of refund shall take into account as a decrease or increase of the amount of the refund any correction made concerning a previous refund application in accordance with Article 13 or, where a separate declaration is submitted, in the form of separate payment or recovery.
+
+## Article 26
+
+Interest shall be due to the applicant by the Member State of refund on the amount of the refund to be paid if the refund is paid after the last date of payment pursuant to Article 22(1).
+
+If the applicant does not submit the additional or further additional information requested to the Member State of refund within the specified time limit, the first paragraph shall not apply. It shall also not apply until the documents to be submitted electronically pursuant to Article 10 have been received by the Member State of refund.
+
+## Article 27
+
+1\. Interest shall be calculated from the day following the last day for payment of the refund pursuant to Article 22(1) until the day the refund is actually paid.
+
+2\. Interest rates shall be equal to the interest rate applicable with respect to refunds of VAT to taxable persons established in the Member State of refund under the national law of that Member State.
+
+If no interest is payable under national law in respect of refunds to established taxable persons, the interest payable shall be equal to the interest or equivalent charge which is applied by the Member State of refund in respect of late payments of VAT by taxable persons.
+
+## Article 28
+
+1\. This Directive shall apply to refund applications submitted after 31 December 2009.
+
+2\. Directive 79/1072/EEC shall be repealed with effect from 1 January 2010. However, its provisions shall continue to apply to refund applications submitted before 1 January 2010.
+
+References to the repealed Directive shall be construed as references to this Directive except for refund applications submitted before 1 January 2010.
+
+## Article 29
+
+1\. Member States shall bring into force the laws, regulations and administrative provisions necessary to comply with this Directive with effect from 1 January 2010. They shall forthwith inform the Commission thereof.
+
+When such provisions are adopted by Member States, they shall contain a reference to this Directive or be accompanied by such reference on the occasion of their official publication. The methods of making such reference shall be laid down by Member States.
+
+2\. Member States shall communicate to the Commission the text of the main provisions of national law which they adopt in the field covered by this Directive.
+
+## Article 30
+
+This Directive shall enter into force on the day of its publication in the Official Journal of the European Union.
+
+## Article 31
+
+This Directive is addressed to the Member States.
+
+( 1 ) OJ C 285 E, 22.11.2006, p. 122.
+
+( 2 ) OJ C 28, 3.2.2006, p. 86.
+
+( 3 ) OJ L 331, 27.12.1979, p. 11. Directive as last amended by Directive 2006/98/EC (OJ L 363, 20.12.2006, p. 129).
+
+( 4 ) OJ L 347, 11.12.2006, p. 1. Directive as last amended by Directive 2007/75/EC (OJ L 346, 29.12.2007, p. 13).
+
+( 5 ) OJ C 321, 31.12.2003, p. 1.
+
+( 6 ) OJ L 264, 15.10.2003, p. 1.

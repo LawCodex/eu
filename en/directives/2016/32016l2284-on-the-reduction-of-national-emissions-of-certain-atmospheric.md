@@ -1,0 +1,842 @@
+---
+title: "Directive (EU) 2016/2284 of the European Parliament and of the Council of 14 December 2016 on the reduction of national emissions of certain atmospheric pollutants, amending Directive 2003/35/EC and repealing Directive 2001/81/EC (Text with EEA relevance )"
+identifier: "32016L2284"
+eli: "http://data.europa.eu/eli/dir/2016/2284/oj"
+type: directive
+jurisdiction: eu
+language: en
+date: 2016-12-14
+entry_into_force: 2019-01-01
+last_amended: 2024-02-06
+consolidated_version: "02016L2284-20240206"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02016L2284-20240206"
+retrieved: 2026-10-11
+---
+
+# Directive (EU) 2016/2284 of the European Parliament and of the Council of 14 December 2016 on the reduction of national emissions of certain atmospheric pollutants, amending Directive 2003/35/EC and repealing Directive 2001/81/EC (Text with EEA relevance )
+
+**DIRECTIVE (EU) 2016/2284 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 14 December 2016**
+
+**on the reduction of national emissions of certain atmospheric pollutants, amending Directive 2003/35/EC and repealing Directive 2001/81/EC**
+
+**(Text with EEA relevance)**
+
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> COMMISSION DELEGATED DIRECTIVE (EU) 2024/299 of 27 October 2023 </td><td> L </td><td>1</td><td>17.1.2024</td></tr>
+
+**DIRECTIVE (EU) 2016/2284 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 14 December 2016**
+
+**on the reduction of national emissions of certain atmospheric pollutants, amending Directive 2003/35/EC and repealing Directive 2001/81/EC**
+
+**(Text with EEA relevance)**
+
+### Article 1 — Objectives and subject matter
+
+1\. In order to move towards achieving levels of air quality that do not give rise to significant negative impacts on and risks to human health and the environment, this Directive establishes the emission reduction commitments for the Member States' anthropogenic atmospheric emissions of sulphur dioxide (SO2), nitrogen oxides (NOx), non-methane volatile organic compounds (NMVOC), ammonia (NH3) and fine particulate matter (PM2,5) and requires that national air pollution control programmes be drawn up, adopted and implemented and that emissions of those pollutants and the other pollutants referred to in Annex I, as well as their impacts, be monitored and reported.
+
+2\. This Directive also contributes to achieving:
+
+(a) the air quality objectives set out in Union legislation and progress towards the Union's long-term objective of achieving levels of air quality in line with the air quality guidelines published by the World Health Organisation;
+
+(b) the Union's biodiversity and ecosystem objectives in line with the 7th Environment Action Programme;
+
+(c) enhanced synergies between the Union's air quality policy and other relevant Union policies, in particular climate and energy policies.
+
+### Article 2 — Scope
+
+1\. This Directive shall apply to emissions of the pollutants referred to in Annex I from all sources occurring in the territory of the Member States, their exclusive economic zones and pollution control zones.
+
+2\. This Directive does not cover emissions in the Canary Islands, the French overseas departments, Madeira, and the Azores.
+
+### Article 3 — Definitions
+
+For the purposes of this Directive, the following definitions apply:
+
+(1) ‘emission’ means the release of a substance from a point or diffuse source into the atmosphere;
+
+(2) ‘anthropogenic emissions’ means atmospheric emissions of pollutants associated with human activities;
+
+(3) ‘ozone precursors’ means nitrogen oxides, non-methane volatile organic compounds, methane, and carbon monoxide;
+
+(4) ‘air quality objectives’ means the limit values, target values and exposure concentration obligations for air quality set out in Directive 2008/50/EC and Directive 2004/107/EC of the European Parliament and of the Council ( 1 );
+
+(5) ‘sulphur dioxide’ or ‘SO2’ means all sulphur compounds expressed as sulphur dioxide, including sulphur trioxide (SO3), sulphuric acid (H2SO4), and reduced sulphur compounds such as hydrogen sulphide (H2S), mercaptans and dimethyl sulphides;
+
+(6) ‘nitrogen oxides’ or ‘NOx’ means nitric oxide and nitrogen dioxide, expressed as nitrogen dioxide;
+
+(7) ‘non-methane volatile organic compounds’ or ‘NMVOC’ means all organic compounds other than methane, that are capable of producing photochemical oxidants by reaction with nitrogen oxides in the presence of sunlight;
+
+(8) ‘fine particulate matter’ or ‘PM2,5’ means particles with an aerodynamic diameter equal to or less than 2,5 micrometres (μm);
+
+(9) ‘black carbon’ or ‘BC’ means carbonaceous particulate matter that absorbs light;
+
+(10) ‘national emission reduction commitment’ means the Member States' obligation in the reduction of emissions of a substance; it specifies the emission reduction that as a minimum has to be delivered in the target calendar year, as a percentage of the total of emissions released during the base year (2005);
+
+(11) ‘landing and take-off cycle’ means the cycle that includes taxi in and out, take-off, climb out, approach, landing and all other aircraft activities that take place below the altitude of 3 000 feet;
+
+(12) ‘international maritime traffic’ means journeys at sea and in coastal waters by water-borne vessels of all flags, except fishing vessels, that depart from the territory of one country and arrive in the territory of another country;
+
+(13) ‘pollution control zone’ means a sea area not exceeding 200 nautical miles from the baselines from which the breadth of the territorial sea is measured, established by a Member State for the prevention, reduction and control of pollution from vessels in accordance with applicable international rules and standards;
+
+(14) ‘Union source-based air pollution control legislation’ means Union legislation which aims at reducing the emissions of air pollutants covered by this Directive by undertaking mitigation measures at the source.
+
+### Article 4 — National emission reduction commitments
+
+1\. Member States shall, as a minimum, limit their annual anthropogenic emissions of sulphur dioxide, nitrogen oxides, non-methane volatile organic compounds, ammonia and fine particulate matter in accordance with the national emission reduction commitments applicable from 2020 to 2029 and from 2030 onwards, as laid down in Annex II.
+
+2\. Without prejudice to paragraph 1, Member States shall take the necessary measures aimed at limiting their 2025 anthropogenic emissions of sulphur dioxide, nitrogen oxides, non-methane volatile organic compounds, ammonia and fine particulate matter. The indicative levels of those emissions shall be determined by a linear reduction trajectory established between their emission levels defined by the emission reduction commitments for 2020 and the emission levels defined by the emission reduction commitments for 2030.
+
+Member States may follow a non-linear reduction trajectory if this is economically or technically more efficient, and provided that as from 2025 it converges progressively on the linear reduction trajectory and that it does not affect any emission reduction commitment for 2030. Member States shall set out that non-linear reduction trajectory and the reasons for following it in the national air pollution control programmes to be submitted to the Commission in accordance with Article 10(1).
+
+Where the emissions for 2025 cannot be limited in accordance with the determined reduction trajectory, Member States shall explain the reasons for that deviation as well as the measures that would bring the Member States back on their trajectory in the subsequent informative inventory reports to be provided to the Commission in accordance with Article 10(2).
+
+3\. The following emissions are not accounted for the purpose of complying with paragraphs 1 and 2:
+
+(a) aircraft emissions beyond the landing and take-off cycle;
+
+(b) emissions from national maritime traffic to and from the territories referred to in Article 2(2);
+
+(c) emissions from international maritime traffic;
+
+(d) emissions of nitrogen oxides and non-methane volatile organic compounds from activities falling under the 2014 Nomenclature for Reporting (NFR) as provided by the LRTAP Convention categories 3B (manure management) and 3D (agricultural soils).
+
+### Article 5 — Flexibilities
+
+1\. Member States may establish, in accordance with Part 4 of Annex IV, adjusted annual national emission inventories for sulphur dioxide, nitrogen oxides, non-methane volatile organic compounds, ammonia and fine particulate matter where non-compliance with their national emission reduction commitments would result from applying improved emission inventory methods updated in accordance with scientific knowledge.
+
+For the purpose of determining whether the relevant conditions set out in Part 4 of Annex IV are fulfilled, the emission reduction commitments for the years 2020 to 2029 shall be considered as having been set on 4 May 2012.
+
+As from 2025 the following additional conditions shall apply to adjustments in case of there being significantly different emission factors or methodologies used for determining emissions from specific source categories in comparison with those which were expected as a result of the implementation of a given norm or standard under Union source-based air pollution control legislation, pursuant to points 1(d)(ii) and (iii) of Part 4 of Annex IV:
+
+(a) the Member State concerned, after having taken into account the findings of national inspection and enforcement programmes monitoring the effectiveness of Union source-based air pollution control legislation, demonstrates that the significantly different emission factors do not arise from its domestic implementation or enforcement of that legislation;
+
+(b) the Member State concerned has informed the Commission of the significant difference in the emission factors which, pursuant to Article 11(2), shall investigate the need for further action.
+
+2\. If in a given year a Member State, due to an exceptionally cold winter or an exceptionally dry summer, cannot comply with its emission reduction commitments, it may comply with those commitments by averaging its national annual emissions for the year in question, the year preceding that year and the year following it, provided that this average does not exceed the national annual emission level determined by the Member State's reduction commitment.
+
+3\. If in a given year a Member State, for which one or more reduction commitments laid down in Annex II are set at a more stringent level than the cost-effective reduction identified in TSAP 16, cannot comply with the relevant emission reduction commitment after having implemented all cost-effective measures, it shall be deemed to comply with that relevant emission reduction commitment for a maximum of five years, provided that for each of those years it compensates for that non-compliance by an equivalent emission reduction of another pollutant referred to in Annex II.
+
+4\. A Member State shall be deemed to comply with its obligations under Article 4 for a maximum of three years, where non-compliance with its emission reduction commitments for the relevant pollutants results from a sudden and exceptional interruption or loss of capacity in the power and/or heat supply or production system, which could not reasonably have been foreseen, and provided that the following conditions are met:
+
+(a) the Member State concerned has demonstrated that all reasonable efforts, including the implementation of new measures and policies have been made to ensure compliance, and will continue to be made to keep the period of non-compliance as short as possible; and
+
+(b) the Member State concerned has demonstrated that the implementation of measures and policies additional to those referred to in point (a) would lead to disproportionate costs, substantially jeopardise national energy security, or pose a substantial risk of energy poverty to a significant part of the population.
+
+5\. Members States that intend to apply paragraph 1, 2, 3 or 4 shall inform the Commission thereof by 15 February of the reporting year concerned. That information shall include the pollutants and sectors concerned and, where available, the magnitude of the impacts upon national emission inventories.
+
+6\. The Commission, assisted by the European Environment Agency, shall review and assess whether the use of any of the flexibilities for a particular year fulfils the relevant conditions set out in paragraph 1 of this Article and in Part 4 of Annex IV or in paragraphs 2, 3 or 4 of this Article, where applicable.
+
+Where the Commission considers that the use of a given flexibility is not in accordance with the relevant conditions set out in paragraph 1 of this Article and in Part 4 of Annex IV, or in paragraphs 2, 3 or 4 of this Article, it shall adopt a decision within nine months from the date of receipt of the relevant report referred to in Article 8(4), informing the Member State concerned that the use of that flexibility cannot be accepted and stating the reasons for that refusal. Where the Commission has raised no objections within nine months from the date of receipt of the relevant report referred to in Article 8(4), the Member State concerned shall consider the use of that flexibility to be valid and accepted for that year.
+
+7\. The Commission may adopt implementing acts specifying the detailed rules for the use of the flexibilities referred to in paragraphs 1, 2, 3 and 4 of this Article. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 17.
+
+8\. The Commission, when exercising its powers under paragraphs 6 and 7, shall take into account the relevant guidance documents developed under the LRTAP Convention.
+
+### Article 6 — National air pollution control programmes
+
+1\. Member States shall draw up, adopt and implement their respective national air pollution control programmes in accordance with Part 1 of Annex III in order to limit their annual anthropogenic emissions in accordance with Article 4, and to contribute to achieving the objectives of this Directive pursuant to Article 1(1).
+
+2\. When drawing up, adopting and implementing the programme referred to in paragraph 1, Member States shall:
+
+(a) assess to what extent national emission sources are likely to have an impact on air quality in their territories and neighbouring Member States using, where appropriate, data and methodologies developed by the European Monitoring and Evaluation Programme (EMEP) under the Protocol to the LRTAP Convention on long-term financing of the cooperative programme for monitoring and evaluation of the long-range transmission of air pollutants in Europe;
+
+(b) take account of the need to reduce air pollutant emissions for the purpose of reaching compliance with air quality objectives in their territories and, where appropriate, in neighbouring Member States;
+
+(c) prioritise emission reduction measures for black carbon when taking measures to achieve their national reduction commitments for fine particulate matter;
+
+(d) ensure coherence with other relevant plans and programmes established by virtue of the requirements set out in national or Union legislation.
+
+With a view to complying with the relevant national emission reduction commitments, Member States shall include in their national air pollution control programmes the emission reduction measures laid down as obligatory in Part 2 of Annex III and may include in those programmes the emission reduction measures laid down as optional in Part 2 of Annex III or measures having equivalent mitigation effect.
+
+3\. Member States shall update their national air pollution control programmes at least every four years.
+
+4\. Without prejudice to paragraph 3, the emission reduction policies and measures contained in the national air pollution control programmes shall be updated within 18 months of the submission of the latest national emission inventory or national emission projections if, according to the submitted data, the obligations set out in Article 4 are not complied with or if there is a risk of non-compliance.
+
+5\. Member States shall consult the public, in accordance with Directive 2003/35/EC, and the competent authorities, which, by reason of their specific environmental responsibilities in the field of air pollution, quality and management at all levels, are likely to be concerned by the implementation of the national air pollution control programmes, on their draft national air pollution control programmes and any significant updates prior to the finalisation of those programmes.
+
+6\. Where appropriate, transboundary consultations shall be conducted.
+
+7\. The Commission shall facilitate the elaboration and implementation of the national air pollution control programmes, where appropriate, through an exchange of good practices.
+
+8\. The Commission is empowered to adopt delegated acts in accordance with Article 16 to amend this Directive with regard to the adaptation of Part 2 of Annex III to developments, including technical progress, within the framework of the LRTAP Convention.
+
+9\. The Commission may establish guidance on the elaboration and implementation of national air pollution control programmes.
+
+10\. The Commission shall also specify by means of implementing acts, the format of the national air pollution control programmes. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 17.
+
+### Article 7 — Financial support
+
+The Commission shall endeavour to facilitate access to existing Union funds, in accordance with the legal provisions governing those funds, in order to support the measures to be taken with a view to complying with the objectives of this Directive.
+
+Those Union funds include present and future available funding under, inter alia:
+
+(a) the Framework Programme for Research and Innovation;
+
+(b) the European Structural and Investment Funds, including relevant funding under the common agricultural policy;
+
+(c) instruments for the funding of environment and climate action such as the LIFE programme.
+
+The Commission shall evaluate the possibility of creating a one-stop shop, where any interested party can easily check the availability of Union funds, and the related access procedures, for projects which address air pollution concerns.
+
+### Article 8 — National emission inventories and projections, and informative inventory reports
+
+1\. Member States shall prepare and annually update national emission inventories for the pollutants set out in Table A of Annex I, in accordance with the requirements set out therein.
+
+Member States may prepare and annually update national emission inventories for the pollutants set out in Table B of Annex I, in accordance with the requirements set out therein.
+
+2\. Member States shall prepare and update every four years spatially disaggregated national emission inventories and large point source inventories and, every two years, national emission projections for the pollutants set out in Table C of Annex I, in accordance with the requirements set out therein.
+
+3\. Member States shall draw up an informative inventory report which shall accompany the national emission inventories and projections referred to in paragraphs 1 and 2, in accordance with the requirements set out in Table D of Annex I.
+
+4\. Member States that opt for a flexibility under Article 5 shall include the information demonstrating that the use of that flexibility fulfils the relevant conditions set out in Article 5(1) and Part 4 of Annex IV or in Article 5(2), (3) or (4), where applicable, in the informative inventory report of the year concerned.
+
+5\. Member States shall prepare and update the national emission inventories (including if appropriate adjusted national emission inventories), national emission projections, spatially disaggregated national emission inventories, large point source inventories and the accompanying informative inventory reports in accordance with Annex IV.
+
+6\. The Commission, assisted by the European Environment Agency, shall annually prepare and update Union-wide emission inventories and an informative inventory report as well as, every two years, Union-wide emission projections and, every four years, spatially disaggregated Union-wide emission inventories and Union-wide large point source inventories, for the pollutants referred to in Annex I, on the basis of the information referred to in paragraphs 1, 2 and 3 of this Article.
+
+7\. The Commission is empowered to adopt delegated acts in accordance with Article 16 to amend this Directive with regard to the adaptation of Annex I and Annex IV to developments, including technical and scientific progress, within the framework of the LRTAP Convention.
+
+### Article 9 — Monitoring air pollution impacts
+
+1\. Member States shall ensure the monitoring of negative impacts of air pollution upon ecosystems based on a network of monitoring sites that is representative of their freshwater, natural and semi-natural habitats and forest ecosystem types, taking a cost-effective and risk-based approach.
+
+To that end, Member States shall coordinate with other monitoring programmes established pursuant to Union legislation including Directive 2008/50/EC, Directive 2000/60/EC of the European Parliament and of the Council ( 2 ) and Council Directive 92/43/EEC ( 3 ) and, if appropriate, the LRTAP Convention and, where appropriate, make use of data collected under those programmes.
+
+In order to comply with the requirements of this Article, Member States may use the optional monitoring indicators listed in Annex V.
+
+2\. The methodologies laid down in the LRTAP Convention and its Manuals for the International Cooperative Programmes may be used when collecting and reporting the information listed in Annex V.
+
+3\. The Commission is empowered to adopt delegated acts in accordance with Article 16 to amend this Directive with regard to the adaptation of Annex V to technical and scientific progress and to developments within the framework of the LRTAP Convention.
+
+### Article 10 — Reporting by Member States
+
+1\. Member States shall provide their first national air pollution control programmes to the Commission by 1 April 2019.
+
+Where a national air pollution control programme is updated under Article 6(4), the Member State concerned shall provide the updated programme to the Commission within two months.
+
+The Commission shall examine the national air pollution control programmes and their updates in the light of the requirements set out in Article 4(2) and Article 6.
+
+2\. Member States shall provide their national emission inventories and projections, spatially disaggregated national emission inventories, large point source inventories and the informative inventory reports referred to in Article 8(1), (2) and (3) and, where relevant, in Article 8(4), to the Commission and to the European Environment Agency in accordance with the reporting dates set out in Annex I.
+
+This reporting shall be consistent with the reporting to the Secretariat of the LRTAP Convention.
+
+3\. The Commission, assisted by the European Environment Agency and in consultation with the Member States concerned, shall review the national emission inventory data in the first year of reporting and regularly thereafter. That review shall involve the following:
+
+(a) checks to verify the transparency, accuracy, consistency, comparability and completeness of information submitted;
+
+(b) checks to identify cases where inventory data is prepared in a manner which is inconsistent with the requirements set out under international law, in particular under the LRTAP Convention;
+
+(c) where appropriate, calculation of the resulting technical corrections necessary, in consultation with the Member State concerned.
+
+Where the Member State concerned and the Commission are unable to reach an agreement on the necessity or on the content of the technical corrections pursuant to point (c), the Commission shall adopt a decision laying down the technical corrections to be applied by the Member State concerned.
+
+4\. Member States shall report the following information referred to in Article 9 to the Commission and the European Environment Agency:
+
+(a) by 1 July 2018 and every four years thereafter, the location of the monitoring sites and the associated indicators used for monitoring air pollution impacts; and
+
+(b) by 1 July 2019 and every four years thereafter, the monitoring data referred to in Article 9.
+
+### Article 11 — Reports by the Commission
+
+1\. The Commission shall, by 1 April 2020 and every four years thereafter, report to the European Parliament and the Council on the progress made in the implementation of this Directive, including an assessment of its contribution to the achievement of the objectives referred to in Article 1, including:
+
+(a) progress towards:
+
+(i) the indicative emission levels and emission reduction commitments referred to in Article 4 and, where applicable, the reasons for any non-achievement;
+
+(ii) ambient air quality levels in line with the air quality guidelines published by the World Health Organisation;
+
+(iii) the Union's biodiversity and ecosystem objectives in line with the 7th Environment Action Programme;
+
+(b) identification of further measures required at Union and Member State level to achieve the objectives referred to in point (a);
+
+(c) the uptake of Union funds to support the measures taken with a view to comply with the objectives of this Directive;
+
+(d) the results of the Commission examination of the national air pollution control programmes and their updates pursuant to the third subparagraph of Article 10(1);
+
+(e) an evaluation of the health, environmental and socioeconomic impacts of this Directive.
+
+2\. Where the report indicates that the non-achievement of the indicative emission levels and emission reduction commitments referred to in Article 4 could be the result of ineffective Union source-based air pollution control legislation, including its implementation at Member State level, the Commission shall, where appropriate, investigate the need for further action also considering the sectoral impacts of implementation. Where appropriate, the Commission shall present legislative proposals, including new source-based air control pollution legislation, in order to ensure compliance with the commitments of this Directive.
+
+### Article 12 — European Clean Air Forum
+
+The Commission shall set up a European Clean Air Forum to provide input for guidance and facilitate the coordinated implementation of Union legislation and policies related to improving air quality, bringing together all stakeholders including competent authorities of the Member States at all relevant levels, the Commission, industry, civil society, and the scientific community at regular intervals. The European Clean Air Forum shall exchange experience and good practices, including on emission reductions from domestic heating and road transport, that can inform and enhance the national air pollution control programmes and their implementation.
+
+### Article 13 — Review
+
+1\. On the basis of the reports referred to in Article 11(1), the Commission shall review this Directive no later than 31 December 2025 with a view to safeguarding progress towards achieving the objectives referred to in Article 1(2), in particular by taking into account scientific and technical progress and the implementation of Union climate and energy policies.
+
+If appropriate, the Commission shall present legislative proposals for emission reduction commitments for the period after 2030.
+
+2\. As regards ammonia, the Commission, in its review, shall assess in particular:
+
+(a) the latest scientific evidence;
+
+(b) updates of the UNECE Guidance Document on Preventing and Abating Ammonia Emissions from Agricultural Sources of 2014 (the ‘Ammonia Guidance Document’) ( 4 ), the UNECE Framework Code for Good Agricultural Practice for Reducing Ammonia Emissions ( 5 ), as last revised in 2014;
+
+(c) updates of the Best Available Techniques as defined in point (10) of Article 3 of Directive 2010/75/EU of the European Parliament and of the Council ( 6 );
+
+(d) agri-environment measures in the framework of the common agricultural policy.
+
+3\. On the basis of the reported national emissions of mercury the Commission shall assess their impact on achieving the objectives set out in Article 1(2) and shall consider measures for reducing those emissions and, if appropriate, submit a legislative proposal.
+
+### Article 14 — Access to information
+
+1\. Member States shall, in compliance with Directive 2003/4/EC, ensure the active and systematic dissemination to the public of the following information by publishing it on a publicly accessible website:
+
+(a) the national air pollution control programmes and any updates;
+
+(b) the national emission inventories (including, where applicable, the adjusted national emission inventories), the national emission projections, the informative inventory reports and additional reports and information provided to the Commission in accordance with Article 10.
+
+2\. The Commission shall, in compliance with Regulation (EC) No 1367/2006 of the European Parliament and of the Council ( 7 ), ensure the active and systematic dissemination to the public of Union-wide emission inventories, and projections as well as informative inventory reports on a publicly accessible website.
+
+3\. The Commission shall publish on its website:
+
+(a) the underlying assumptions considered for each Member State for the definition of their national emission reduction potential used to prepare TSAP 16;
+
+(b) the list of relevant Union source-based air pollution control legislation; and
+
+(c) the results of the examination referred to in the third subparagraph of Article 10(1).
+
+### Article 15 — Cooperation with third countries and coordination within international organisations
+
+The Union and the Member States, as appropriate, shall pursue, without prejudice to Article 218 TFEU, bilateral and multilateral cooperation with third countries and coordination within relevant international organisations such as the United Nations Environment Programme (UNEP), UNECE, the Food and Agriculture Organization of the United Nations (FAO), the International Maritime Organization (IMO) and the International Civil Aviation Organization (ICAO), including through the exchange of information, concerning technical and scientific research and development, with the aim of improving the basis for the facilitation of emission reductions.
+
+### Article 16 — Exercise of the delegation
+
+1\. The power to adopt delegated acts is conferred on the Commission subject to the conditions laid down in this Article.
+
+2\. The power to adopt delegated acts referred to in Articles 6(8), 8(7) and 9(3) shall be conferred on the Commission for a period of five years from 31 December 2016. The Commission shall draw up a report in respect of the delegation of power not later than nine months before the end of the five-year period. The delegation of power shall be tacitly extended for periods of an identical duration, unless the European Parliament or the Council opposes such extension not later than three months before the end of each period.
+
+3\. The delegation of power referred to in Articles 6(8), 8(7) and 9(3) may be revoked at any time by the European Parliament or by the Council. A decision to revoke shall put an end to the delegation of the power specified in that decision. It shall take effect the day following the publication of the decision in the Official Journal of the European Union or at a later date specified therein. It shall not affect the validity of any delegated acts already in force.
+
+4\. Before adopting a delegated act, the Commission shall consult experts designated by each Member State in accordance with the principles laid down in the Interinstitutional Agreement of 13 April 2016 on Better Law-Making ( 8 ).
+
+5\. As soon as it adopts a delegated act, the Commission shall notify it simultaneously to the European Parliament and to the Council.
+
+6\. A delegated act adopted pursuant to Articles 6(8), 8(7) and 9(3) shall enter into force only if no objection has been expressed either by the European Parliament or the Council within a period of two months of notification of that act to the European Parliament and the Council or if, before the expiry of that period, the European Parliament and the Council have both informed the Commission that they will not object. That period shall be extended by two months at the initiative of the European Parliament or of the Council.
+
+### Article 17 — Committee procedure
+
+1\. The Commission shall be assisted by the Ambient Air Quality Committee established by Article 29 of Directive 2008/50/EC. That committee shall be a committee within the meaning of Regulation (EU) No 182/2011.
+
+2\. Where reference is made to this paragraph, Article 5 of Regulation (EU) No 182/2011 shall apply.
+
+Where the Committee delivers no opinion, the Commission shall not adopt the draft implementing act and the third subparagraph of Article 5(4) of Regulation (EU) No 182/2011 shall apply.
+
+### Article 18 — Penalties
+
+Member States shall lay down the rules on penalties applicable to infringements of national provisions adopted pursuant to this Directive and shall take all measures necessary to ensure that they are implemented. The penalties provided for shall be effective, proportionate and dissuasive.
+
+### Article 19 — Amendment to Directive 2003/35/EC
+
+In Annex I of Directive 2003/35/EC, the following point is added:
+
+‘(g) Article 6(1) of Directive (EU) 2016/2284 of the European Parliament and of the Council of 14 December 2016 on the reduction of national emissions of certain atmospheric pollutants, amending Directive 2003/35/EC and repealing Directive 2001/81/EC ( *1 ).
+
+### Article 20 — Transposition
+
+1\. Member States shall bring into force the laws, regulations and administrative provisions necessary to comply with this Directive by 1 July 2018.
+
+By way of derogation from the first subparagraph, Member States shall bring into force the laws, regulations and administrative provisions necessary to comply with Article 10(2) by 15 February 2017.
+
+Member States shall immediately inform the Commission thereof.
+
+When Member States adopt those measures, they shall contain a reference to this Directive or shall be accompanied by such a reference on the occasion of their official publication. The methods of making such reference shall be laid down by Member States.
+
+2\. Member States shall communicate to the Commission the text of the main measures of national law which they adopt in the field covered by this Directive.
+
+### Article 21 — Repeal and transitional provisions
+
+1\. Directive 2001/81/EC is repealed with effect from 1 July 2018.
+
+By way of derogation from the first subparagraph:
+
+(a) Articles 1 and 4 of and Annex I to Directive 2001/81/EC shall continue to apply until 31 December 2019;
+
+(b) Articles 7 and 8 of and Annex III to Directive 2001/81/EC shall be repealed on 31 December 2016.
+
+References to the repealed Directive shall be construed as references to this Directive and shall be read in accordance with the correlation table set out in Annex VI.
+
+2\. Until 31 December 2019, Member States may apply Article 5(1) of this Directive in relation to the ceilings under Article 4 of and Annex I to Directive 2001/81/EC.
+
+### Article 22 — Entry into force
+
+This Directive shall enter into force on 31 December 2016.
+
+### Article 23 — Addressees
+
+This Directive is addressed to the Member States.
+
+## ANNEX I
+
+**MONITORING AND REPORTING OF ATMOSPHERIC EMISSIONS**
+
+**Table A**
+
+**Annual emission reporting requirements as referred to in the first subparagraph of Article 8(1)**
+
+<tbody><tr><td>Element</td><td>Pollutants</td><td>Time series</td><td>Reporting dates</td></tr>
+<tr><td>Total national emissions by NFR (1) source category (2)</td><td>— SO2, NOx, NMVOC, NH3, CO — heavy metals (Cd, Hg, Pb) (3)  — POPs (4) (total PAHs (5), benzo(a)pyrene, benzo(b)fluoranthene, benzo(k)fluoranthene, indeno(1,2,3-cd)pyrene, dioxins/furans, PCBs (6), HCB (7)) </td><td>Annual, from 1990 to reporting year minus 2 (X-2)</td><td>15 February (9)</td></tr>
+<tr><td>Total national emissions by NFR source category (2)</td><td>— PM2,5, PM10(8) and, if available, BC</td><td>Annual, from 2000 to reporting year minus 2 (X-2)</td><td>15 February (9)</td></tr>
+<tr><td colspan="4">(1)  Nomenclature for reporting (NFR) as provided by the LRTAP Convention.  (2)  natural emissions shall be reported in accordance with the methodologies laid down in the LRTAP Convention and the EMEP/EEA air pollutant emission inventory guidebook. They shall not be included in national totals and shall be reported separately.  (3)  Cd (cadmium), Hg (mercury), Pb (lead).  (4)  POPs (persistent organic pollutants).  (5)  PAHs (Polycyclic aromatic hydrocarbons).  (6)  PCBs (Polychlorinated biphenyls).  (7)  HCB (hexachlorobenzene).  (8)  ‘PM10’ means particles with an aerodynamic diameter equal to or less than 10 micrometres (μm).  (9)  re-submissions due to errors shall be provided within four weeks at the latest and include a clear explanation of the changes made. </td></tr>
+</tbody>
+
+**Table B**
+
+**Annual emission reporting requirements as referred to in the second subparagraph of Article 8(1)**
+
+<tbody><tr><td>Element</td><td>Pollutants</td><td>Time series</td><td>Reporting date</td></tr>
+<tr><td>Total national emissions by NFR source category (1)</td><td>— heavy metals (As, Cr, Cu, Ni, Se and Zn and their compounds) (2) — TSP (3) </td><td>Annual, from 1990 (2000 for TSP,) to reporting year minus 2 (X-2)</td><td>15 February</td></tr>
+<tr><td colspan="4">(1)  natural emissions shall be reported in accordance with the methodologies laid down in the LRTAP convention and the EMEP/EEA air pollutant emission inventory guidebook. They shall not be included in national totals and shall be reported separately.  (2)  As (arsenic), Cr (chromium), Cu (copper), Ni (nickel), Se (selenium), Zn (zinc).  (3)  TSP (total suspended particles). </td></tr>
+</tbody>
+
+**Table C**
+
+**Reporting requirements for emissions and projections as referred to in Article 8(2)**
+
+<tbody><tr><td>Element</td><td>Pollutants</td><td>Time series/target years</td><td>Reporting dates</td></tr>
+<tr><td>National gridded data of emissions by source category (GNFR)</td><td>— SO2, NOx, NMVOC, CO, NH3, PM10, PM2,5 — heavy metals (Cd, Hg, Pb)  — POPs (total PAHs, HCB, PCBs, dioxins/furans)  — BC (if available) </td><td>Every four years for reporting year minus 2 (X-2) as from 2017 </td><td>1 May (1)</td></tr>
+<tr><td>Large Point Sources (LPS) by source category (GNFR)</td><td>— SO2, NOx, NMVOC, CO, NH3, PM10, PM2,5 — heavy metals (Cd, Hg, Pb)  — POPs (total PAHs, HCB, PCBs, dioxins/furans)  — BC (if available) </td><td>Every four years for reporting year minus 2 (X-2) as from 2017 </td><td>1 May (1)</td></tr>
+<tr><td>Projected emissions by NFR source category</td><td>— SO2, NOx, NH3, NMVOC, PM2,5 and, if available, BC</td><td>Biennial, covering projection years 2020, 2025, 2030 and, where available, 2040 and 2050 as from 2017 </td><td>15 March</td></tr>
+<tr><td colspan="4">(1)  Re-submissions due to errors shall be provided within four weeks and include a clear explanation of the changes made. </td></tr>
+</tbody>
+
+**Table D**
+
+**Annual reporting requirements on informative inventory report referred to in Article 8(3)**
+
+| Element | Pollutants | Time series/target years | Reporting dates |
+| --- | --- | --- | --- |
+| Informative Inventory Report | — SO2, NOx, NMVOC, NH3, CO, PM2,5, PM10 — heavy metals (Cd, Hg, Pb) and BC — POPs (total PAHs, benzo(a)pyrene, benzo(b)fluoranthene, benzo(k)fluoranthene, indeno(1,2,3-cd)pyrene, dioxins/furans, PCBs, HCB) — If available, heavy metals (As, Cr, Cu, Ni, Se and Zn and their compounds) and TSP | All years (as indicated in tables A-B-C) | 15 March |
+
+## ANNEX II
+
+**NATIONAL EMISSION REDUCTION COMMITMENTS**
+
+**Table A**
+
+<tbody><tr><td rowspan="2">Member State</td><td colspan="3">SO2 reduction compared with 2005</td><td colspan="3">NOx reduction compared with 2005</td><td colspan="3">NMVOC reduction compared with 2005</td></tr>
+<tr><td>For any year from 2020 to 2029</td><td>  </td><td>For any year from 2030</td><td>For any year from 2020 to 2029</td><td>  </td><td>For any year from 2030</td><td>For any year from 2020 to 2029</td><td>  </td><td>For any year from 2030</td></tr>
+<tr><td>Belgium</td><td>43 %</td><td>  </td><td>66 %</td><td>41 %</td><td>  </td><td>59 %</td><td>21 %</td><td>  </td><td>35 %</td></tr>
+<tr><td>Bulgaria</td><td>78 %</td><td>  </td><td>88 %</td><td>41 %</td><td>  </td><td>58 %</td><td>21 %</td><td>  </td><td>42 %</td></tr>
+<tr><td>Czech Republic</td><td>45 %</td><td>  </td><td>66 %</td><td>35 %</td><td>  </td><td>64 %</td><td>18 %</td><td>  </td><td>50 %</td></tr>
+<tr><td>Denmark</td><td>35 %</td><td>  </td><td>59 %</td><td>56 %</td><td>  </td><td>68 %</td><td>35 %</td><td>  </td><td>37 %</td></tr>
+<tr><td>Germany</td><td>21 %</td><td>  </td><td>58 %</td><td>39 %</td><td>  </td><td>65 %</td><td>13 %</td><td>  </td><td>28 %</td></tr>
+<tr><td>Estonia</td><td>32 %</td><td>  </td><td>68 %</td><td>18 %</td><td>  </td><td>30 %</td><td>10 %</td><td>  </td><td>28 %</td></tr>
+<tr><td>Greece</td><td>74 %</td><td>  </td><td>88 %</td><td>31 %</td><td>  </td><td>55 %</td><td>54 %</td><td>  </td><td>62 %</td></tr>
+<tr><td>Spain</td><td>67 %</td><td>  </td><td>88 %</td><td>41 %</td><td>  </td><td>62 %</td><td>22 %</td><td>  </td><td>39 %</td></tr>
+<tr><td>France</td><td>55 %</td><td>  </td><td>77 %</td><td>50 %</td><td>  </td><td>69 %</td><td>43 %</td><td>  </td><td>52 %</td></tr>
+<tr><td>Croatia</td><td>55 %</td><td>  </td><td>83 %</td><td>31 %</td><td>  </td><td>57 %</td><td>34 %</td><td>  </td><td>48 %</td></tr>
+<tr><td>Ireland</td><td>65 %</td><td>  </td><td>85 %</td><td>49 %</td><td>  </td><td>69 %</td><td>25 %</td><td>  </td><td>32 %</td></tr>
+<tr><td>Italy</td><td>35 %</td><td>  </td><td>71 %</td><td>40 %</td><td>  </td><td>65 %</td><td>35 %</td><td>  </td><td>46 %</td></tr>
+<tr><td>Cyprus</td><td>83 %</td><td>  </td><td>93 %</td><td>44 %</td><td>  </td><td>55 %</td><td>45 %</td><td>  </td><td>50 %</td></tr>
+<tr><td>Latvia</td><td>8 %</td><td>  </td><td>46 %</td><td>32 %</td><td>  </td><td>34 %</td><td>27 %</td><td>  </td><td>38 %</td></tr>
+<tr><td>Lithuania</td><td>55 %</td><td>  </td><td>60 %</td><td>48 %</td><td>  </td><td>51 %</td><td>32 %</td><td>  </td><td>47 %</td></tr>
+<tr><td>Luxembourg</td><td>34 %</td><td>  </td><td>50 %</td><td>43 %</td><td>  </td><td>83 %</td><td>29 %</td><td>  </td><td>42 %</td></tr>
+<tr><td>Hungary</td><td>46 %</td><td>  </td><td>73 %</td><td>34 %</td><td>  </td><td>66 %</td><td>30 %</td><td>  </td><td>58 %</td></tr>
+<tr><td>Malta</td><td>77 %</td><td>  </td><td>95 %</td><td>42 %</td><td>  </td><td>79 %</td><td>23 %</td><td>  </td><td>27 %</td></tr>
+<tr><td>Netherlands</td><td>28 %</td><td>  </td><td>53 %</td><td>45 %</td><td>  </td><td>61 %</td><td>8 %</td><td>  </td><td>15 %</td></tr>
+<tr><td>Austria</td><td>26 %</td><td>  </td><td>41 %</td><td>37 %</td><td>  </td><td>69 %</td><td>21 %</td><td>  </td><td>36 %</td></tr>
+<tr><td>Poland</td><td>59 %</td><td>  </td><td>70 %</td><td>30 %</td><td>  </td><td>39 %</td><td>25 %</td><td>  </td><td>26 %</td></tr>
+<tr><td>Portugal</td><td>63 %</td><td>  </td><td>83 %</td><td>36 %</td><td>  </td><td>63 %</td><td>18 %</td><td>  </td><td>38 %</td></tr>
+<tr><td>Romania</td><td>77 %</td><td>  </td><td>88 %</td><td>45 %</td><td>  </td><td>60 %</td><td>25 %</td><td>  </td><td>45 %</td></tr>
+<tr><td>Slovenia</td><td>63 %</td><td>  </td><td>92 %</td><td>39 %</td><td>  </td><td>65 %</td><td>23 %</td><td>  </td><td>53 %</td></tr>
+<tr><td>Slovakia</td><td>57 %</td><td>  </td><td>82 %</td><td>36 %</td><td>  </td><td>50 %</td><td>18 %</td><td>  </td><td>32 %</td></tr>
+<tr><td>Finland</td><td>30 %</td><td>  </td><td>34 %</td><td>35 %</td><td>  </td><td>47 %</td><td>35 %</td><td>  </td><td>48 %</td></tr>
+<tr><td>Sweden</td><td>22 %</td><td>  </td><td>22 %</td><td>36 %</td><td>  </td><td>66 %</td><td>25 %</td><td>  </td><td>36 %</td></tr>
+<tr><td>United Kingdom</td><td>59 %</td><td>  </td><td>88 %</td><td>55 %</td><td>  </td><td>73 %</td><td>32 %</td><td>  </td><td>39 %</td></tr>
+<tr><td>EU 28</td><td>59 %</td><td>  </td><td>79 %</td><td>42 %</td><td>  </td><td>63 %</td><td>28 %</td><td>  </td><td>40 %</td></tr>
+<tr><td colspan="10">(*1)  Member States having the choice to use the national emission total calculated on the basis of fuels used as a basis for compliance under the LRTAP Convention may keep that option in order to ensure coherence between international and Union law. </td></tr>
+</tbody>
+
+**Table B**
+
+<tbody><tr><td rowspan="2">Member State</td><td colspan="3">NH3 reduction compared with 2005</td><td colspan="3">PM2,5 reduction compared with 2005</td></tr>
+<tr><td>For any year from 2020 to 2029</td><td>  </td><td>For any year from 2030</td><td>For any year from 2020 to 2029</td><td>  </td><td>For any year from 2030</td></tr>
+<tr><td>Belgium</td><td>2 %</td><td>  </td><td>13 %</td><td>20 %</td><td>  </td><td>39 %</td></tr>
+<tr><td>Bulgaria</td><td>3 %</td><td>  </td><td>12 %</td><td>20 %</td><td>  </td><td>41 %</td></tr>
+<tr><td>Czech Republic</td><td>7 %</td><td>  </td><td>22 %</td><td>17 %</td><td>  </td><td>60 %</td></tr>
+<tr><td>Denmark</td><td>24 %</td><td>  </td><td>24 %</td><td>33 %</td><td>  </td><td>55 %</td></tr>
+<tr><td>Germany</td><td>5 %</td><td>  </td><td>29 %</td><td>26 %</td><td>  </td><td>43 %</td></tr>
+<tr><td>Estonia</td><td>1 %</td><td>  </td><td>1 %</td><td>15 %</td><td>  </td><td>41 %</td></tr>
+<tr><td>Greece</td><td>7 %</td><td>  </td><td>10 %</td><td>35 %</td><td>  </td><td>50 %</td></tr>
+<tr><td>Spain</td><td>3 %</td><td>  </td><td>16 %</td><td>15 %</td><td>  </td><td>50 %</td></tr>
+<tr><td>France</td><td>4 %</td><td>  </td><td>13 %</td><td>27 %</td><td>  </td><td>57 %</td></tr>
+<tr><td>Croatia</td><td>1 %</td><td>  </td><td>25 %</td><td>18 %</td><td>  </td><td>55 %</td></tr>
+<tr><td>Ireland</td><td>1 %</td><td>  </td><td>5 %</td><td>18 %</td><td>  </td><td>41 %</td></tr>
+<tr><td>Italy</td><td>5 %</td><td>  </td><td>16 %</td><td>10 %</td><td>  </td><td>40 %</td></tr>
+<tr><td>Cyprus</td><td>10 %</td><td>  </td><td>20 %</td><td>46 %</td><td>  </td><td>70 %</td></tr>
+<tr><td>Latvia</td><td>1 %</td><td>  </td><td>1 %</td><td>16 %</td><td>  </td><td>43 %</td></tr>
+<tr><td>Lithuania</td><td>10 %</td><td>  </td><td>10 %</td><td>20 %</td><td>  </td><td>36 %</td></tr>
+<tr><td>Luxembourg</td><td>1 %</td><td>  </td><td>22 %</td><td>15 %</td><td>  </td><td>40 %</td></tr>
+<tr><td>Hungary</td><td>10 %</td><td>  </td><td>32 %</td><td>13 %</td><td>  </td><td>55 %</td></tr>
+<tr><td>Malta</td><td>4 %</td><td>  </td><td>24 %</td><td>25 %</td><td>  </td><td>50 %</td></tr>
+<tr><td>Netherlands</td><td>13 %</td><td>  </td><td>21 %</td><td>37 %</td><td>  </td><td>45 %</td></tr>
+<tr><td>Austria</td><td>1 %</td><td>  </td><td>12 %</td><td>20 %</td><td>  </td><td>46 %</td></tr>
+<tr><td>Poland</td><td>1 %</td><td>  </td><td>17 %</td><td>16 %</td><td>  </td><td>58 %</td></tr>
+<tr><td>Portugal</td><td>7 %</td><td>  </td><td>15 %</td><td>15 %</td><td>  </td><td>53 %</td></tr>
+<tr><td>Romania</td><td>13 %</td><td>  </td><td>25 %</td><td>28 %</td><td>  </td><td>58 %</td></tr>
+<tr><td>Slovenia</td><td>1 %</td><td>  </td><td>15 %</td><td>25 %</td><td>  </td><td>60 %</td></tr>
+<tr><td>Slovakia</td><td>15 %</td><td>  </td><td>30 %</td><td>36 %</td><td>  </td><td>49 %</td></tr>
+<tr><td>Finland</td><td>20 %</td><td>  </td><td>20 %</td><td>30 %</td><td>  </td><td>34 %</td></tr>
+<tr><td>Sweden</td><td>15 %</td><td>  </td><td>17 %</td><td>19 %</td><td>  </td><td>19 %</td></tr>
+<tr><td>United Kingdom</td><td>8 %</td><td>  </td><td>16 %</td><td>30 %</td><td>  </td><td>46 %</td></tr>
+<tr><td>EU 28</td><td>6 %</td><td>  </td><td>19 %</td><td>22 %</td><td>  </td><td>49 %</td></tr>
+<tr><td colspan="7">(*1)  Member States having the choice to use the national emission total calculated on the basis of fuels used as a basis for compliance under the LRTAP Convention may keep that option in order to ensure coherence between international and Union law. </td></tr>
+</tbody>
+
+## ANNEX III
+
+**CONTENT OF NATIONAL AIR POLLUTION CONTROL PROGRAMMES REFERRED TO IN ARTICLES 6 AND 10**
+
+**PART 1**
+
+**Minimum content of national air pollution control programmes**
+
+1\. The initial national air pollution control programmes referred to in Articles 6 and 10 shall at least cover the following content:
+
+(a) the national air quality and pollution policy framework in which context the programme has been developed, including:
+
+(i) the policy priorities and their relationship to priorities set in other relevant policy areas, including climate change and, when appropriate, agriculture, industry and transport;
+
+(ii) the responsibilities attributed to national, regional and local authorities;
+
+(iii) the progress made by current policies and measures in reducing emissions and improving air quality, and the degree of compliance with national and Union obligations;
+
+(iv) the projected further evolution assuming no change to already adopted policies and measures;
+
+(b) the policy options considered to comply with the emission reduction commitments for the period between 2020 and 2029 and for 2030 onwards and the intermediate emission levels determined for 2025 and to contribute to further improve the air quality, and their analysis, including the method of analysis; where available, the individual or combined impacts of the policies and measures on emission reductions, air quality and the environment and the associated uncertainties;
+
+(c) the measures and policies selected for adoption, including a timetable for their adoption, implementation and review and the competent authorities responsible;
+
+(d) where relevant, an explanation of the reasons why the indicative emission levels for 2025 cannot be met without measures entailing disproportionate costs;
+
+(e) where relevant, an account of the use of the flexibilities set out in Article 5 and any environmental consequences arising from such use;
+
+(f) an assessment of how selected policies and measures ensure coherence with plans and programmes set up in other relevant policy areas.
+
+2\. The national air pollution control programme updates referred to in Articles 6 and 10 shall at least include:
+
+(a) an assessment of the progress made with implementation of the programme, the reduction of emissions and the reduction of concentrations;
+
+(b) any significant changes in the policy context, assessments, the programme or the implementation timetable thereof.
+
+**PART 2**
+
+**Emission reduction measures referred to in the second subparagraph of Article 6(2)**
+
+Member States shall take into account the relevant Ammonia Guidance Document, and shall make use of best available techniques in accordance with Directive 2010/75/EU.
+
+**A. Measures to control ammonia emissions**
+
+1\. Member States shall establish a national advisory code of good agricultural practice to control ammonia emissions, taking into account the UNECE Framework Code for Good Agricultural Practice for Reducing Ammonia Emissions of 2014, covering at least the following items:
+
+(a) nitrogen management, taking into account the whole nitrogen cycle;
+
+(b) livestock feeding strategies;
+
+(c) low-emission manure spreading techniques;
+
+(d) low-emission manure storage systems;
+
+(e) low-emission animal housing systems;
+
+(f) possibilities for limiting ammonia emissions from the use of mineral fertilisers.
+
+2\. Member States may establish a national nitrogen budget to monitor the changes in overall losses of reactive nitrogen from agriculture, including ammonia, nitrous oxide, ammonium, nitrates and nitrites, based on the principles set out in the UNECE Guidance Document on Nitrogen Budgets ( 9 ).
+
+3\. Member States shall prohibit the use of ammonium carbonate fertilisers and may reduce ammonia emissions from inorganic fertilisers by using the following approaches:
+
+(a) replacing urea-based fertilisers by ammonium nitrate-based fertilisers;
+
+(b) where urea-based fertilisers continue to be applied, using methods that have been shown to reduce ammonia emissions by at least 30 % compared with the use of the reference method, as specified in the Ammonia Guidance Document;
+
+(c) promoting the replacement of inorganic fertilisers by organic fertilisers and, where inorganic fertilisers continue to be applied, spreading them in line with the foreseeable requirements of the receiving crop or grassland with respect to nitrogen and phosphorus, also taking into account the existing nutrient content in the soil and nutrients from other fertilisers.
+
+4\. Member States may reduce ammonia emissions from livestock manure by using the following approaches:
+
+(a) reducing emissions from slurry and solid manure application to arable land and grassland, by using methods that reduce emissions by at least 30 % compared with the reference method described in the Ammonia Guidance Document and on the following conditions:
+
+(i) only spreading manures and slurries in line with the foreseeable nutrient requirement of the receiving crop or grassland with respect to nitrogen and phosphorous, also taking into account the existing nutrient content in the soil and the nutrients from other fertilisers;
+
+(ii) not spreading manures and slurries when the receiving land is water saturated, flooded, frozen or snow covered;
+
+(iii) applying slurries spread to grassland using a trailing hose, trailing shoe or through shallow or deep injection;
+
+(iv) incorporating manures and slurries spread to arable land within the soil within four hours of spreading;
+
+(b) reducing emissions from manure storage outside of animal houses, by using the following approaches:
+
+(i) for slurry stores constructed after 1 January 2022, using low emission storage systems or techniques which have been shown to reduce ammonia emissions by at least 60 % compared with the reference method described in the Ammonia Guidance Document, and for existing slurry stores at least 40 %;
+
+(ii) covering stores for solid manure;
+
+(iii) ensuring farms have sufficient manure storage capacity to spread manure only during periods that are suitable for crop growth:
+
+(c) reducing emissions from animal housing, by using systems which have been shown to reduce ammonia emissions by at least 20 % compared with the reference method described in the Ammonia Guidance Document;
+
+(d) reducing emissions from manure, by using low protein feeding strategies which have been shown to reduce ammonia emissions by at least 10 % compared with the reference method described in the Ammonia Guidance Document.
+
+**B. Emission reduction measures to control emissions of fine particulate matter and black carbon**
+
+1\. Without prejudice to Annex II on cross-compliance of Regulation (EU) No 1306/2013 of the European Parliament and of the Council ( 10 ), Member States may ban open field burning of agricultural harvest residue and waste and forest residue.
+
+Member States shall monitor and enforce the implementation of any ban implemented in accordance with the first subparagraph. Any exemptions to such a ban shall be limited to preventive programmes to avoid uncontrolled wildfires, to control pest or to protect biodiversity.
+
+2\. Member States may establish a national advisory code of good agricultural practices for the proper management of harvest residue, on the basis of the following approaches:
+
+(a) improvement of soil structure through incorporation of harvest residue;
+
+(b) improved techniques for incorporation of harvest residue;
+
+(c) alternative use of harvest residue;
+
+(d) improvement of the nutrient status and soil structure through incorporation of manure as required for optimal plant growth, thereby avoiding burning of manure (farmyard manure, deep-straw bedding).
+
+**C. Preventing impacts on small farms**
+
+In taking the measures outlined in Sections A and B, Member States shall ensure that impacts on small and micro farms are fully taken into account.
+
+Member States may, for instance, exempt small and micro farms from those measures where possible and appropriate in view of the applicable reduction commitments.
+
+## ANNEX IV
+
+**METHODOLOGIES FOR THE PREPARATION AND UPDATING OF NATIONAL EMISSION INVENTORIES AND PROJECTIONS, INFORMATIVE INVENTORY REPORTS AND ADJUSTED NATIONAL EMISSION INVENTORIES REFERRED TO IN ARTICLES 5 AND 8**
+
+For the pollutants referred to in Annex I, Member States shall prepare national emission inventories, adjusted national emission inventories where relevant, national emission projections, spatially disaggregated national emission inventories, large point source inventories and informative inventory reports, using the methodologies adopted by Parties to the LRTAP Convention (EMEP Reporting Guidelines), and are requested to use the EMEP/EEA air pollutant emission inventory Guidebook (EMEP/EEA Guidebook) referred to therein. In addition, supplementary information, in particular the activity data, needed for the assessment of the national emission inventories and projections shall be prepared in accordance with the same guidelines.
+
+Reliance upon the EMEP Reporting Guidelines is without prejudice to the additional arrangements specified in this Annex and to the requirements on reporting nomenclature, time series and reporting dates specified in Annex I.
+
+**PART 1**
+
+**National annual emission inventories**
+
+1\. National emission inventories shall be transparent, consistent, comparable, complete and accurate.
+
+2\. Emissions from identified key categories shall be calculated in accordance with the methodologies defined in the EMEP/EEA Guidebook and with the aim of using a Tier 2 or higher (detailed) methodology.
+
+Member States may use other scientifically based and compatible methodologies for establishing national emission inventories where those methodologies produce more accurate estimates than the default methodologies set out in the EMEP/EEA Guidebook.
+
+3\. For emissions from transport, Member States shall calculate and report emissions consistent with national energy balances reported to Eurostat.
+
+4\. Emissions from road transport shall be calculated and reported on the basis of the fuels sold ( 11 ) in the Member State concerned. In addition, Member States may also report emissions from road transport based on fuels used or kilometres driven in the Member State.
+
+5\. Member States shall report their annual national emissions expressed in the applicable unit specified in the NFR reporting template of the LRTAP Convention.
+
+**PART 2**
+
+**National emission projections**
+
+1\. National emission projections shall be transparent, consistent, comparable, complete and accurate and reported information shall include at least the following:
+
+(a) clear identification of the adopted and planned policies and measures included in the projections;
+
+(b) where appropriate, the results of sensitivity analysis performed for the projections;
+
+(c) a description of methodologies, models, underlying assumptions and key input and output parameters.
+
+2\. Projections of emissions shall be estimated and reported by NFR source category. Where not possible due to lack of sufficiently detailed data, a justification for reporting at a more aggregated level shall be included in the Informative Inventory Report. Member States shall provide a ‘with measures’ (adopted measures) projection and, where relevant, a ‘with additional measures’ (planned measures) projection for each pollutant in accordance with the guidance established in the EMEP/EEA Guidebook.
+
+3\. National emission projections shall be consistent with the national annual emission inventory for the year x-3 and with projections reported under Regulation (EU) No 525/2013 of the European Parliament and of the Council ( 12 ).
+
+**PART 3**
+
+**Informative inventory report**
+
+The informative inventory reports shall be prepared in accordance with the EMEP Reporting Guidelines and reported using the template for inventory reports as specified therein. The inventory report shall include, as a minimum, the following information:
+
+(a) descriptions, references and sources of information of the specific methodologies, assumptions, emission factors and activity data, as well as the rationale for their selection;
+
+(b) a description of the national key categories of emission sources;
+
+(c) information on uncertainties, quality assurance and verification;
+
+(d) a description of the institutional arrangements for inventory preparation;
+
+(e) recalculations and planned improvements;
+
+(f) if relevant, information on the use of the flexibilities provided for under Article 5(1), (2), (3) and (4);
+
+(g) if relevant, information on the reasons for deviating from the reduction trajectory determined in accordance with Article 4(2), as well as the measures to converge back on the trajectory;
+
+(h) an executive summary.
+
+**PART 4**
+
+**Adjustment of national emission inventories**
+
+1\. A Member State that proposes an adjustment to its national emission inventory in accordance with Article 5(1) shall include in its proposal to the Commission, at least, the following supporting documentation:
+
+(a) evidence that the concerned national emission reduction commitment/s is/are exceeded;
+
+(b) evidence of the extent to which the adjustment to the emission inventory reduces the exceedance and contributes to compliance with the concerned national emission reduction commitment/s;
+
+(c) an estimation of whether and when the concerned national emission reduction commitment/s is/are expected to be attained based on national emission projections without the adjustment;
+
+(d) evidence that the adjustment is consistent with one or several of the following three circumstances. Reference can be made, as appropriate, to relevant previous adjustments:
+
+(i) in the case of new emission source categories:
+
+— evidence that the new emission source category is acknowledged in scientific literature and/or the EMEP/EEA Guidebook;
+
+— evidence that this source category was not included in the relevant historic national emission inventory at the time when the emission reduction commitment was set;
+
+— evidence that emissions from a new source category contribute to a Member State being unable to meet its emission reduction commitments, supported by a detailed description of the methodology, data and emission factors used to arrive at that conclusion;
+
+(ii) in the case of significantly different emission factors used for determining emissions from specific source categories:
+
+— a description of the original emission factors, including a detailed description of the scientific basis upon which the emission factor was derived;
+
+— evidence that the original emission factors were used for determining the emission reductions at the time when they were set;
+
+— a description of the updated emission factors, including detailed information on the scientific basis upon which the emission factor was derived;
+
+— a comparison of emission estimates made using the original and the updated emission factors, demonstrating that the change in emission factors contributes to a Member State being unable to meet its reduction commitments;
+
+— the rationale for deciding whether the changes in emission factors are significant;
+
+(iii) in the case of significantly different methodologies used for determining emissions from specific source categories:
+
+— a description of the original methodology used, including detailed information on the scientific basis upon which the emission factor was derived;
+
+— evidence that the original methodology was used for determining the emission reductions at the time when they were set;
+
+— a description of the updated methodology used, including a detailed description of the scientific basis or reference upon which it has been derived;
+
+— a comparison of emission estimates made using the original and updated methodologies demonstrating that the change in methodology contributes to a Member State being unable to meet its reduction commitment;
+
+— the rationale for deciding whether the change in methodology is significant.
+
+2\. Member States may submit the same supporting information for adjustment procedures based on similar preconditions, provided that each Member State submits the required individual country-specific information as set out in paragraph 1.
+
+3\. Member States shall recalculate adjusted emissions to ensure consistency, to the extent possible, of the time series for every year that the adjustment/s is/are applied.
+
+## ANNEX V
+
+**OPTIONAL INDICATORS FOR MONITORING AIR POLLUTION IMPACTS REFERRED TO IN ARTICLE 9**
+
+(a) for freshwater ecosystems: establishing the extent of biological damage, including sensitive receptors (microphytes, macrophytes and diatoms), and loss of fish stock or invertebrates:
+
+the key indicator acid neutralising capacity (ANC) and the supporting indicators acidity (pH), dissolved sulphate (SO4), nitrate (NO3) and dissolved organic carbon:
+
+frequency of sampling: from yearly (in lake autumn turnover) to monthly (streams).
+
+(b) for terrestrial ecosystems: assessing the soil acidity, soil nutrients loss, nitrogen status and balance as well as biodiversity loss:
+
+(i) the key indicator soil acidity: exchangeable fractions of base cations (base saturation) and exchangeable aluminium in soils:
+
+frequency of sampling: every 10 years;
+
+supporting indicators: pH, sulphate, nitrate, base cations, aluminium concentrations in soil solution:
+
+frequency of sampling: every year (where relevant);
+
+(ii) the key indicator soil nitrate leaching (NO3,leach):
+
+frequency of sampling: every year;
+
+(iii) the key indicator carbon-nitrogen ratio (C/N) and the supporting indicator of total nitrogen in soil (Ntot):
+
+frequency of sampling: every 10 years;
+
+(iv) the key indicator nutrient balance in foliage (N/P,N/K, N/Mg):
+
+frequency of sampling: every four years.
+
+(c) for terrestrial ecosystems: assessing ozone damage to vegetation growth and biodiversity:
+
+(i) the key indicator vegetation growth and foliar damage and the supporting indicator carbon flux (Cflux):
+
+frequency of sampling: every year;
+
+(ii) the key indicator exceedance of flux-based critical levels:
+
+frequency of sampling: every year during the growing season.
+
+## ANNEX VI
+
+**CORRELATION TABLE**
+
+| Directive 2001/81/EC | This Directive |
+| --- | --- |
+| Article 1 | Article 1 |
+| Article 2, 1st subparagraph, and 2nd subparagraph, points (c), (d) and (e) | Article 2 |
+| Article 3, point (e) | Article 3, point (1) |
+| — | Article 3, points (2), (3), (4), (5), (8), (9), (12) and (13) |
+| Article 3, point (i) | Article 3, point (6) |
+| Article 3, point (k) | Article 3, point (7) |
+| Article 3, point (h) | Article 3, point (10) |
+| Article 3, point (g) | Article 3, point (11) |
+| Article 4 | Article 4(1) and (2) |
+| Article 2, 2nd subparagraph, points (a) and (b) | Article 4(3) |
+| — | Article 5 |
+| Article 6(1) | Article 6(1) |
+| Article 6(2) | Article 6(2), (5) to(10) |
+| Article 6(3) | Article 6(3) and (4) |
+| — | Article 7 |
+| Article 7(1) | Article 8(1), first subparagraph |
+| — | Article 8(1), second subparagraph, (2) to (4) |
+| Article 7(2) | Article 8(5) |
+| Article 7(3) | Article 8(6) |
+| Article 7(4) | Article 8(7) |
+| — | Article 9 |
+| Article 8(2) | Article 10(1) |
+| Article 8(1) | Article 10(2) |
+| — | Article 10(3) and (4) |
+| Article 9 | Article 11 |
+| — | Article 12 |
+| Article 10 | Article 13 |
+| Article 6(4) | Article 14(1) |
+| Article 7(3) and Article 8(3) | Article 14(2) and (3) |
+| Article 11 | Article 15 |
+| Article 13(3) | Article 16 |
+| Article 13(1) and (2) | Article 17 |
+| Article 14 | Article 18 |
+| — | Article 19 |
+| Article 15 | Article 20 |
+| — | Article 21 |
+| Article 16 | Article 22 |
+| Article 17 | Article 23 |
+| Article 8(1) and Annex III | Annex I |
+| Annex I | Annex II |
+| — | Annexes III, V and VI |
+| Annex III | Annex IV |
+
+### Declaration by the Commission on the Review of Methane Emissions
+
+The Commission considers that there is a strong air quality case for keeping the development of methane emissions in the Member States under review in order to reduce ozone concentrations in the EU and to promote methane reductions internationally.
+
+The Commission confirms that on the basis of the reported national emissions, it intends to further assess the impact of methane emissions on achieving the objectives set out in Art. 1 paragraph 2 of the NEC Directive and will consider measures for reducing those emissions, and where appropriate, submit a legislative proposal to that purpose. In its assessment, the Commission will take into account a number of ongoing studies in this field, due to be finalised in 2017, as well as further international developments in this area.
+
+( 1 ) Directive 2004/107/EC of the European Parliament and of the Council of 15 December 2004 relating to arsenic, cadmium, mercury, nickel and polycyclic aromatic hydrocarbons in ambient air (OJ L 23, 26.1.2005, p. 3).
+
+( 2 ) Directive 2000/60/EC of the European Parliament and of the Council of 23 October 2000 establishing a framework for Community action in the field of water policy (OJ L 327, 22.12.2000, p. 1).
+
+( 3 ) Council Directive 92/43/EEC of 21 May 1992 on the conservation of natural habitats and wild fauna and flora (OJ L 206, 22.7.1992, p. 7).
+
+( 4 ) Decision 2012/11/EC, ECE/EB/AIR/113/Add. 1.
+
+( 5 ) Decision ECE/EB.AIR/127, paragraph 36e.
+
+( 6 ) Directive 2010/75/EU of the European Parliament and of the Council of 24 November 2010 on industrial emissions (integrated pollution prevention and control) (OJ L 334, 17.12.2010, p. 17).
+
+( 7 ) Regulation (EC) No 1367/2006 of the European Parliament and of the Council of 6 September 2006 on the application of the provisions of the Aarhus Convention on Access to Information, Public Participation in Decision-making and Access to Justice in Environmental Matters to Community institutions and bodies (OJ L 264, 25.9.2006, p. 13).
+
+( 8 ) OJ L 123, 12.5.2016, p. 1.
+
+( *1 ) OJ L 344, 17.12.2016, p. 1.’.
+
+( 9 ) Decision 2012/10/EC, ECE/EB.AIR/113/Add 1.
+
+( 10 ) Regulation (EU) No 1306/2013 of the European Parliament and of the Council of 17 December 2013 on the financing, management and monitoring of the common agricultural policy and repealing Council Regulations (EEC) No 352/78, (EC) No 165/94, (EC) No 2799/98, (EC) No 814/2000, (EC) No 1290/2005 and (EC) No 485/2008 (OJ L 347, 20.12.2013, p. 549).
+
+( 11 ) Member States having the choice to use the national emission total calculated on the basis of fuels used as a basis for compliance under the LRTAP Convention may keep this option in order to ensure coherence between international and Union law.
+
+( 12 ) Regulation (EU) No 525/2013 of the European Parliament and of the Council of 21 May 2013 on a mechanism for monitoring and reporting greenhouse gas emissions and for reporting other information at national and Union level relevant to climate change and repealing Decision No 280/2004/EC (OJ L 165, 18.6.2013, p. 13).
